@@ -1412,7 +1412,6 @@ Ich meine die Pizza ist in der Pizzeria Bra, die Simon für uns entdeckt hat, wa
 ## Gefüllte Pizzataschen
 ### Zutaten (für 4 Portionen)
 400 g Pizzateig
-
 Olivenöl
 3 Knoblauchzehen
 200 g klein gehackte Tomaten aus der Dose
@@ -1786,7 +1785,6 @@ Tipp:	Traditionell wird die Focaccia im Holzofen gebacken. Aber das klappt zuhau
 450 g Pizzateig
 500 g kernlose blaue Weintrauben
 80 g Zucker
-
 Olivenöl
 
 ### Zubereitungszeit
@@ -1804,7 +1802,6 @@ Info:	Und das wäre eine Kombi mit Obst.
 450 g Pizzateig
 300 g Kirschtomaten
 2 Knoblauchzehen
-
 Olivenöl
 1 Rosmarinzweig
 
@@ -1826,7 +1823,6 @@ Info:	Da wäre dann also Gemüse dabei 😊
 350 g Pizzateig
 300 g Frischkäse (gerne italienischer z.B. Crescenza, Stracchino) oder Ricotta oder Quark oder Schichtkäse
 Salz, frisch gemahlener Pfeffer
-
 Olivenöl
 
 ### Zubereitungszeit
@@ -1871,7 +1867,6 @@ Etwas Mehl
 12 Kirschtomaten
 1 Knoblauchzehe, geschält
 Salz, Pfeffer
-
 Olivenöl
 2 Frühlingszwiebeln
 6 Mini-Mozzarellas
@@ -2593,7 +2588,6 @@ Tipp:	Amaranth ist ein feinkörniger, an Hirse erinnernder Samen des Gartenfuchs
 175 ml Milch
 
 ### Zubereitung
-
 Alle trockenen Zutaten in ein kleinen Weckglas geben, mit der Flüssigkeit übergießen, verrühren und das Glas mit einem Deckel verschließen. Für ein paar Stunden oder über Nacht in den Kühlschrank stellen. Diese Grundmischung hält sich gekühlt ca. 3-5 Tage.
 
 *Variante: Blaubeere, Vanille und Chia*
@@ -2604,7 +2598,6 @@ Alle trockenen Zutaten in ein kleinen Weckglas geben, mit der Flüssigkeit über
 2 EL frische oder TK-Blaubeeren
 
 ### Zubereitung
-
 Haferflocken, Vanille und Chiasamen in ein kleines Weckglas geben und mit der Milch übergießen. Umrühren und die Blaubeeren darüber geben. Das Glas verschließen und über Nacht in den Kühlschrank stellen.
 
 \*
@@ -2617,7 +2610,6 @@ Haferflocken, Vanille und Chiasamen in ein kleines Weckglas geben und mit der Mi
 2 EL Himbeeren, zerdrückt
 
 ### Zubereitung
-
 Die Haferflocken in ein kleines Weckglas geben, mit Milch übergießen und umrühren. Die Banane und die Erdnussbutter sorgfältig untermengen und die Mischung mit Himbeeren bedecken. Das Glas verschließen und für ein paar Stunden oder über Nacht in den Kühlschrank stellen.
 
 *Variante: Kakao, Chia und Banane*
@@ -2628,7 +2620,6 @@ Die Haferflocken in ein kleines Weckglas geben, mit Milch übergießen und umrü
 175 ml Milch
 
 ### Zubereitung
-
 Alle trockenen Zutaten in ein Weckglas geben. Die zerdrückte Banane hinzufügen und untermengen. Die Milch darüber gießen und umrühren. Das Glas verschließen und für ein paar Stunden oder über Nacht in den Kühlschrank stellen.
 
 *Variante: Orange, Leinsamen und Kokos*
@@ -2639,7 +2630,6 @@ Alle trockenen Zutaten in ein Weckglas geben. Die zerdrückte Banane hinzufügen
 1 EL Kokosflocken, geröstet
 
 ### Zubereitung
-
 Den Leinsamen in ein kleines Weckglas geben. Haferflocken und Vanille vermischen und auf den Leinsamen geben. Den Saft darüber gießen. Das Glas verschließen und für ein paar Stunden oder über Nacht in den Kühlschrank stellen. Vor dem Servieren die gerösteten Kokosflocken darüberstreuen.
 
 Tipp:	In leere Honiggläser gefüllt, lässt sich das gut als gehaltvolles Frühstück mit in die Schule oder ins Büro nehmen. Und in sehr kleinen Einmachgläschen (sind im Keller) macht sich das für den Brunch auch sehr schön. Aber immer kleine Gläschen nehmen, sonst braucht ihr nichts anderes mehr anbieten, denn das „stopft“😊
@@ -2767,7 +2757,6 @@ Saft von ½ Zitrone
 Einige gefüllte Weinblätter
 
 ### Zubereitung
-
 Gurken, Fetakäse und Tomaten in mundgerechte Stücke schneiden, mit etwas Pfeffer übermahlen und mit Zwiebelringen, Oliven und Oregano auf vier Teller verteilen. Jeweils ein paar gefüllte Weinblätter dazulegen und mit Zitronensaft und Olivenöl beträufeln.
 
 Info:	Dieser Salat kommt dem echten griechischen Salat am nächsten 😊
@@ -3352,7 +3341,6 @@ Honig- und Galiamelone dürften in diesem Salat genauso gut schmecken, und man k
 1 TL Schwarzkümmelsamen
 
 ### Zubereitung
-
 alle Zutaten mit ½ TL Salz mischen. Fertig. 😊
 
 ## Melonen-Mozzarella-Salat
@@ -3582,7 +3570,6 @@ Das ist wirklich ein total verrückter Salat. Wenn man die Köche loslässt, dan
 ## Auberginensalat mit Kräutern
 ### Zutaten (für 2 Portionen)
 3 nicht allzu große Auberginen
-
 Olivenöl
 
 Je 1 Handvoll glatte Petersilie und Basilikum
@@ -3607,7 +3594,6 @@ Zu Beginn der 70er Jahre (ich kann mich also noch erinnern) gab es hier keine Au
 
 4 Maiskolben
 1 TL Kreuzkümmelsamen
-
 Olivenöl
 1 reife Avocado
 1 Salatgurke
@@ -3633,7 +3619,6 @@ Wie löst man nun die Körner am besten vom Kolben? Zuerst die äußeren Blätte
 1 Prise Salz
 
 Schwarzer Pfeffer
-
 Olivenöl
 
 ### Zubereitung
@@ -3862,7 +3847,6 @@ Tipp:	Grüne Papaya sind ganz einfach unreife Papayas. Sie werden wie grüne Man
 ## Salat aus frischen Erbsen, Radieschen und geröstetem Brot
 ### Zutaten (für 2 Portionen):
 100 g Weißbrot (am besten vom Vortag)
-
 Olivenöl
 Salz
 ½ TL gemahlener Kumin
@@ -3902,7 +3886,6 @@ Salz, schwarzer Pfeffer
 ### Zutaten (für 2-3 Portionen): 
 1 Kopf Blumenkohl
 2 kleine rote Zwiebeln
-
 Olivenöl
 Salz, Pfeffer
 2 EL schwarze Oliven
@@ -4416,7 +4399,6 @@ Chilipulver
 Schale von 2 unbehandelten Orangen
 
 Blätter von ein paar Zweigen glatter Petersilie
-
 Olivenöl
 Saft von ½ Zitrone
 Salz
@@ -4439,7 +4421,6 @@ Einer der einfachsten tricks in der Küche. Man reibt Orangenschale ins Essen. S
 250 g frischer Spinat
 3 Zwiebeln
 3 Knoblauchzehen 
-
 Olivenöl
 3 TL Kurkuma (gemahlen)
 Salz
@@ -4467,7 +4448,6 @@ Etwas frische Minze
 Salz
 
 Pfeffer
-
 Olivenöl
 
 Balsamicoessig
@@ -4842,7 +4822,6 @@ Den Brotsalat haben wir oft zum Grillen gemacht. Haben sogar die Ruderer gerne g
 ## Brotsalat mit Tomaten und geröstetem Gemüse - Panzanella
 ### Zutaten (für 3 Portionen)
 200 g Brot (z.B. Ciabatta oder Landbrot)
-
 Olivenöl
 1 Zucchino
 1 rote Paprika
@@ -4917,7 +4896,6 @@ Kräuterblätter grob von den Stielen abzupfen, locker unter den Salat heben.
 ### Zutaten (für 4 Portionen)
 
 4 Fladenbrote (3-4 Tage alt und möglichst dünn)
-
 Olivenöl
 200 g Römersalat
 200 g Tomaten
@@ -5535,7 +5513,6 @@ Hier stellt sich mal wieder das Pfifferling-Atom-Problem. Aber vielleicht lebt i
 100 g gekochter Basmatireis
 
 Für das Dressing:
-
 Olivenöl
 
 Etwas Zitronensaft
@@ -5742,7 +5719,6 @@ Mark von ½ Vanilleschote
 50 g Butter
 
 ### Zubereitung
-
 Schokolade sehr fein hacken, Butter mit dem Mixer cremig rühren, dann die Schokolade unterrühren. 
 
 ## Erdbeerbutter
@@ -6008,7 +5984,6 @@ Salz
 Meersalz, Pfeffer aus der Mühle
 
 ### Zubereitung
-
 alle Zutaten mit 2 EL Wasser in einer Küchenmaschine oder mit einem Pürierstab fein pürieren. Es soll eine dicke Paste entstehen, etwas Wasser hinzufügen, wenn nötig. In ein luftdicht verschließbares Glas füllen.
 
 Info:	Der Aufstrich hält sich im Kühlschrank.
@@ -6048,7 +6023,6 @@ Geriebene Muskatnuss
 Pfeffer, Salz, eventuell frische Kräuter
 
 ### Zubereitung
-
 Grünkernschrot in ¾ Tasse Wasser mindestens 2 Stunden einweichen. Dann mit dem Pürierstab mit kleingehackter Zwiebel, Butter und Öl zerkleinern und gut vermischen. Zitronensaft und Gewürze dazugeben und nochmal kurz mixen.
 
 ### Kommentar
@@ -6608,7 +6582,6 @@ Salz
 2 Zwiebeln
 
 4 Knoblauchzehen
-
 Olivenöl
 200 g gemischte Nüsse (davon 50 g gemahlene Mandeln)
 4 EL frisches Basilikum, gehackt
@@ -7393,7 +7366,6 @@ Reichlich Olivenöl
 
 1,2 l Wasser
 Salz
-
 Olivenöl
 
 ¼ von einer kleinen Chilischote
@@ -7436,7 +7408,6 @@ Salz, Pfeffer
 
 ## Minestrone Nr. 2
 ### Zutaten (für 6 – 8 Portionen):
-
 Olivenöl
 1 Zwiebel
 2 Knoblauchzehen
@@ -7785,7 +7756,6 @@ Salz, Pfeffer
 3 Gurken (ungeschält!)
 
 ### Zubereitung
-
 Gurken der Länge nach vierteln, Kerngehäuse entfernen, in Scheiben schneiden. Salz, 2 – 3 Spritzer Tabasco, 4 EL Olivenöl, abgeriebene Schale einer Limette und die Gewürze mit Buttermilch mischen. Mindestens 2 Stunden zugedeckt im Kühlschrank ziehen lassen. Dann im Mixer pürieren.
 
 ## Gazpacho
@@ -7857,7 +7827,6 @@ Info:	Nach alter Tradition wurde die Mittagsmahlzeit in der Provence mit einem T
 2 Dosen Kichererbsen
 1 Zwiebel
 Salz, Pfeffer
-
 Olivenöl
 
 Wasser
@@ -8294,7 +8263,6 @@ Salz, Pfeffer aus der Mühle
 ## Kürbissuppe Nr. 5
 ### Zutaten (für 6 Portionen):
 1 großer Butternusskürbis
-
 Olivenöl
 Salz
 
@@ -8388,7 +8356,6 @@ Frisch geriebene Muskatnuss
 ## Kürbissuppe mit brauner Butter und Pinienkernen
 ### Zutaten (für 6 Portionen):
 1 großer Butternusskürbis
-
 Olivenöl
 Salz
 
@@ -8414,7 +8381,6 @@ Kürbissuppe? Im Herbst? Bahnbrechend. Aber: es ist die beste Kürbissuppe der W
 
 ## Kürbissuppe mit Zimt
 ### Zutaten (für 4 – 6 Portionen):
-
 Olivenöl
 1 Zwiebel
 1 Lauchstange
@@ -8774,7 +8740,6 @@ Salz, mildes Chilipulver
 ## Toskanische Zwiebelsuppe - Carabaccia
 ### Zutaten (für 3 Portionen)
 1 kg Zwiebel
-
 Olivenöl
 2 Lorbeerblätter
 Salz, schwarzer Pfeffer
@@ -8878,7 +8843,6 @@ Salz, Pfeffer
 ## Pistou – südfranzösische Gemüsesuppe
 ### Zutaten
 1 Zwiebel
-
 Olivenöl
 1 große Karotte
 2 kleine Zucchini
@@ -8956,7 +8920,6 @@ Info:	Diese Suppe gilt heute als typisch provenzalisch, stammt aber ursprünglic
 4 Fenchelknollen
 1 Lauchstange
 1 große Zwiebel
-
 Olivenöl
 Salz
 250 ml Weißwein
@@ -9029,7 +8992,6 @@ Also ich bin kein Fan von diesem osteuropäischen Gericht 😊Aber ich dachte, d
 
 ## Eintopf mit Knödeln
 ### Zutaten (für 6 bis 8 Portionen)
-
 Olivenöl
 6 kleine Zwiebeln (geschält und geviertelt)
 ½ Knoblauchknolle (Zehen geschält, im Ganzen belassen)
@@ -9064,7 +9026,6 @@ Info:	Das hier sind angelsächsische Knödel. Sie werden weder aus Kartoffeln no
 ### Zutaten für 4 Portionen
 250 g breite Bohnen
 100 g Pancetta (oder Speck)
-
 Olivenöl
 3 Frühlingszwiebeln
 
@@ -10223,7 +10184,6 @@ Salz, Pfeffer
 2 Eier
 Saft und abgeriebene Schale von 2 kleinen Bio-Zitronen
 150 g Reis
-
 Olivenöl
 
 ### Zubereitung
@@ -11025,7 +10985,6 @@ Salz
 ## Marrokkanisches Huhn mit Möhren und Erbsen
 ### Zutaten (für 4 Portionen)
 2 große Zwiebeln
-
 Olivenöl
 500 g Hühnerfleisch
 1 Knoblauchzehe
@@ -11165,7 +11124,6 @@ Salz, Pfeffer aus der Mühle
 ## Huhn in Granatapfelsauce
 ### Zutaten (für 2 Portionen):
 2 Hähnchenbrustfilets mit Haut
-
 Olivenöl
 Salz, Pfeffer
 1 gehackte Schalotte
@@ -12974,7 +12932,6 @@ Info:	Man kann das Gericht auch mit anderem Gemüse zubereiten, beispielsweise m
 120 g Möhren
 100 g Knollensellerie
 200 g Zwiebeln
-
 Olivenöl
 800 g Rinderbacken (Abschnitt entfernt)
 Salz, Pfeffer
@@ -13071,7 +13028,6 @@ Saucenbindemittel
 
 Eventuell ein paar Zweige Rosmarin oder Thymian oder einige Salbeiblätter
 400 g Kartoffeln (ungeschält in gleich große Schnitze geschnitten)
-
 Olivenöl
 Salz
 
@@ -13988,7 +13944,6 @@ Salz
 ## Lammkoteletts mit Auberginenmus und gebratenen Frühlingszwiebeln
 ### Zutaten
 1 kg Lammkoteletts (inkusive Knochen)
-
 Olivenöl
 Salz, Pfeffer
 3 Auberginen
@@ -14133,7 +14088,6 @@ Reichlich Olivenöl
 Salz
 250 ml Weißwein
 1 Zwiebel
-
 Olivenöl
 
 Wasser und Gemüsebrühe
@@ -14423,7 +14377,6 @@ Info:	Als Beilage dazu passen gut Kartoffeln, vielleicht sogar gestampfte Kartof
 2 Lorbeerblätter
 1 Prise Chilipulver
 1 Knoblauchzehe
-
 Olivenöl
 
 Fleur de Sel
@@ -14496,7 +14449,6 @@ Salz
 ## Türkisches Zitronenlamm
 ### Zutaten für 2 Portionen
 350 g Lammschulter (ohne Knochen)
-
 Olivenöl
 Salz
 
@@ -15497,7 +15449,6 @@ Tipp:	Dies ist ja ein typisches Simon-Rezept! Guten Appetit, mein Großer!
 ` `Prise Zimt
 
 ### Zubereitung
-
 alle Zutaten klein schneiden und mit 6 EL Sojasauce, 4 EL Hoisinsauce und Prise Zimt fein pürieren.
 
 ## Cordon bleu vom Grill
@@ -15615,7 +15566,6 @@ Salz, Pfeffer
 ¼ Zwiebel
 200 g Schweinefleisch (Rippchen)
 200 g Rindfleisch (Roulade)
-
 Olivenöl
 100 ml Rotwein
 1 EL Tomatenmark
@@ -16301,7 +16251,6 @@ Salz, Pfeffer
 2 EL gehackte Petersilie
 15 g frisch geriebenen Parmesan
 2 EL Semmelbrösel
-
 Olivenöl
 
 ### Zubereitung
@@ -17395,7 +17344,6 @@ Da Simon ja neulich ein Rezept mit Hirschragout gesucht hat, dachte ich, ich neh
 2 kg Rehfleisch aus Schulter und/oder Nacken (in mundgerechte Stücke geschnitten)
 
 Etwas Mehl
-
 Olivenöl
 800 ml Rotwein
 200 ml Wild- oder Gemüsefond
@@ -18440,7 +18388,6 @@ Salz, Cayennepfeffer
 ### Zutaten (für 6 – 8 Portionen):
 500 g Eiertomaten
 8 EL Balsamico-Essig
-
 Olivenöl
 Salz
 
@@ -18530,7 +18477,6 @@ Petersilie oder Basilikum
 5 Zweige Thymian
 
 ### Zubereitung
-
 die Zutaten für den Sud alle zusammen kurz aufkochen. Die Pilze putzen, das Gemüse waschen und würfeln, dann blanchieren und kalt abschrecken. Abtropfen lassen, in sterilisierte Einmachgläser füllen und mit dem Essigsud bedecken. Das Olivenöl und die Thymianzweige dazugeben, die Gläser verschließen. Das Gemüse sollte mindestens einen Tag stehen und durchziehen.
 
 ## Eingelegte Zwiebeln
@@ -18545,7 +18491,6 @@ die Zutaten für den Sud alle zusammen kurz aufkochen. Die Pilze putzen, das Gem
 3 Nelken
 
 ### Zubereitung
-
 Zwiebeln schälen und in sehr dünne Ringe schneiden. In einem Topf Wasser, Essig und Zucker vermengen, Gewürze hinzufügen, alles aufkochen und ungefähr 2 Minuten köcheln lassen. 2 bis 3 Gläser sterilisieren, zum Beispiel 10 Minuten in Wasser köcheln lassen. Die Gläser können noch nass sein, wenn man die heißen Zwiebeln inklusive Sud hineingibt.
 
 ## Salz-Zitrone
@@ -18642,7 +18587,6 @@ Salz
 ### Zutaten (für 4 – 6 Portionen)
 1 große Aubergine              
 2 große rote Paprika
-
 Olivenöl
 2 Knoblauchzehen
 
@@ -18778,7 +18722,6 @@ Oder
 1 Bund Petersilie
 
 ### Zubereitung
-
 Die Paprikschoten waschen und für ca. 20 Minuten bei 180 Grad im Backofen blanchieren. schälen und alle Samen und Trennwände auslösen. In 1 cm breite Streifen schneiden. Knoblauch, Petersilie und Kapern zusammenhacken. Paniermehl und 3 – 4 EL Olivenöl und den Essig dazugeben. Alles gut vermischen. Paprikaschoten damit gut würzen und auf geröstetem Weißbrot servieren.
 
 ## Masala papad – Papadams mit Tomaten Masala
@@ -18843,7 +18786,6 @@ Knapp 1 TL Salz
 6 EL Öl
 
 ### Zubereitung
-
 Alle trockenen Zutaten vermischen, Wasser hinzufügen und backen.
 
 ## Käsegebäck
@@ -18856,7 +18798,6 @@ Alle trockenen Zutaten vermischen, Wasser hinzufügen und backen.
 1-2 TL Schwarzkümmel und/oder Fenchelsamen
 
 ### Zubereitung
-
 1\.	Mehl und Salz vermengen, Butter würfeln und mit den Fingern in das Mehl kneten. Bergkäse fein reiben und untermengen. Man sollte in einen guten Käse investieren, am besten einen, der würzig ist, wie einen Bergkäse oder Gruyère. Alles zu einem Teig kneten. Diesen in Frischhaltefolie wickeln und für 1 Stunde in den Kühlschrank legen.
 
 2\.	Auf einer mit Mehl bestäubten Arbeitsfläche den Teig etwa 4 mm dick ausrollen. Je nach Käsesorte kann es sein, dass der Teig beim Ausrollen zu klebrig ist. Dann knetet man nach und nach mehr Mehl hinein.
@@ -19048,7 +18989,6 @@ Salz
 4 EL Semmelbrösel
 2 EL gemahlene Mandeln
 3 EL Mehl
-
 Olivenöl zum Ausbacken
 
 Je 100g entsteinte grüne und schwarze Oliven
@@ -19132,7 +19072,6 @@ Sauerrahm
 Meersalz
 
 ### Zubereitung
-
 die Zutaten mit einem Schneebesen trocken verrühren und mit etwa 250 ml kochendem Wasser übergießen. 30 Minuten quellen lassen. Die Masse portionsweise nach und nach auf Backpapier geben, flach ausstreichen, mit Klarsichtfolien abdecken und dann mit einem Nudelholz möglichst dünn ausrollen. Backpapier auf ein Blech ziehen und bei 150 Grad etwa 40 Minuten backen. Als Dip dazu Sauerrahm mit etwas Meersalz.
 
 ## Mini-Scones mit Zwiebeln und Parmesan
@@ -19205,7 +19144,6 @@ Salz
 Evtl. 1 EL Speisestärke
 
 ### Zubereitung
-
 Zwetschgen halbieren, entsteinen und in einem Topf mit Zucker und Gewürzen erhitzen. Ungefähr 20 Minuten ohne Deckel bei niedriger Hitze schmoren, bis die Früchte anfangen zu zerfallen. Der Röster sollte sämig sein. Wenn er zu flüssig ist und man sich daran stört, kann man in wenig Wasser aufgelöste Speisestärke dazugeben und das Ganze 2 Minuten lang weiterschmoren lassen.
 
 ### Kommentar
@@ -19431,7 +19369,6 @@ Pfeffer
 4 kleine, frische rote Chilis
 
 3-4 frische Rosmarinzweige 
-
 Olivenöl
 
 ### Zubereitungszeit
@@ -19538,7 +19475,6 @@ Eier
 Würstchen
 
 ### Zubereitung
-
 Blätterteig ausrollen, mit Ei bestreichen, Würstchen reinlegen. Zusammenrollen und im Ofen (230 Grad) 15 Minuten backen.
 
 ## Kabanossi im Schlafrock
@@ -20094,7 +20030,6 @@ Cayennepfeffer
 100 ml Olivenöl
 
 ### Zubereitung
-
 alle Zutaten für eine Sorte Tapenade außer dem Olivenöl fein hacken und zu einer groben Paste verarbeiten. Die Masse in ein Gläschen abfüllen und großzügig mit Olivenöl bedecken. Eingeschlossene Luftbläschen sanft herausrühren.
 
 ## Roter Hummus
@@ -20365,7 +20300,6 @@ Pfeffer
 ¼ TL weißer Pfeffer
 
 ### Zubereitung
-
 Die Gurken schäle und in hauchdünne Scheiben schneiden. Die übrigen Zutaten verrühren, die Gurke dazugeben und noch einmal abschmecken. Den Gurkenjoghurt 30 Minuten im Kühlschrank durchziehen lassen und gut gekühlt servieren.
 
 ## Tzatzíki
@@ -20582,7 +20516,6 @@ Ausgepresster Saft von 1 Limette
 ½ TL gemahlener Kreuzkümmel
 
 ### Zubereitung
-
 alle Zutaten für den Dip in einen kleinen Topf geben und bei geringer Hitze unter Rühren erwärmen, bis sich alles gut verbunden hat. In eine kleine Schüssel umfüllen und bis zum Servieren in den Kühlschrank stellen.
 
 Tipp:	Der Dip passt gut zu Satayspießen (kann man mit Hühnchen oder eben auch mit Tofu machen). Gut schmeckt auch folgende Variante:
@@ -20671,7 +20604,6 @@ Saft von 1 – 2 Zitronen
 2 TL Salz (oder nach Geschmack)
 3 EL Tahina
 2 EL griechischer Joghurt
-
 Olivenöl
 
 *Optional zum Verzieren:*
@@ -20702,7 +20634,6 @@ Fein abgeriebene Schale einer Bio-Zitronen
 50 g Brunnenkresse
 
 ### Zubereitung
-
 Pinienkerne ohne Fett anrösten. Eigelb, Senf, Zitronensaft, Salz und Pfeffer in einen Rührbecher geben. Sonnenblumenöl zugießen, alles zügig mit dem Pürierstab zu einer Mayonnaise mixen. Etwas Zitronenschale, den Joghurt und den Parmesan unterrühren. Mit Salz, Pfeffer und Zitronensaft abschmecken. Brunnenkresse verlesen, Blätter grob hacken und unter die Mayonnaise rühren. Mit Pinienkernen bestreuen.
 
 ## Dip aus weißen Bohnen mit Fenchelsamen
@@ -20751,7 +20682,6 @@ Info:	Das wahre Pesto wird mit dem Mörser gemacht. Man beginnt mit dem Zerstoß
 5 – 6 EL Olivenöl
 
 ### Zubereitung
-
 die Zutaten grob zermahlen und die erhaltene Mischung mit Öl und Chili vermengen.
 
 ## Basilikum-Pesto
@@ -20925,7 +20855,6 @@ Problem:	Dieses Pesto sieht so zartgrün aus wie der Frühling, nur liegt das ni
 Salz und Pfeffer
 
 ### Zubereitung
-
 1\.	Zwiebel, Möhre, Staudensellerie, Petersilie und die Knoblauchzehe sehr fein hacken. Basilikumblatt zerzupfen und alles in einem Topf mit gut warmem Öl andünsten. Sobald die Zutaten eine goldige Farbe angenommen haben, das gehackte Kalbs- und Schweinefleisch und die gründlich gesäuberte in kleine Stücke geschnittene Hühnerleber hinzugeben. Das Fleisch sollte gut mit dem angedünsteten Gemüse vermischt und öfters umgerührt werden. Es ist fertig, sobald es anfängt an der Oberfläche eine Art Schaum zu bilden. Dann Salz, Pfeffer und den Wein hinzufügen. Sobald der Wein komplett verdampft ist, die abgetropften und zerkleinerten Tomaten zusammen mit dem Tomatenmark in den Topf geben. Das Ganze bei schwacher Hitze 1 Stunde köcheln lassen, ab und zu umrühren.
 
 1. Sollte die Sauce zu flüssig sein, noch weiter kochen lassen. Ist sie zu fest, etwas Brühe hinzugeben. Mit Salz und Pfeffer abschmecken. 
@@ -20945,7 +20874,6 @@ Salz und Pfeffer
 1 Prise Salz
 
 ### Zubereitung
-
 Paprikaschoten für 15 Minuten in den auf 180 Grad vorgeheizten Backofen geben, bis die Haut beginnt, sich abzulösen. Paprikaschoten häuten, von allen Kernen und weißen Sehnen befreien. alle Zutaten miteinander pürieren. (Auch hier kann man sich mit dem Mörser langsam vorarbeiten)
 ## Soße aus rohen, frischen Tomaten für Bruschetta -La Poverella
 ### Zutaten (für 5 Scheiben Bruschette):
@@ -20956,14 +20884,12 @@ Paprikaschoten für 15 Minuten in den auf 180 Grad vorgeheizten Backofen geben, 
 1 Knoblauchzehe
 
 15 Blättchen Basilikum
-
 Olivenöl
 
 Eine Prise Oregano
 Salz
 
 ### Zubereitung
-
 Die Tomaten in Stücke schneiden und gut abtropfen lassen. Mit einer fein zerkleinerten Knoblauchzehe, ca. 10 frischen zerzupften Basilikumblättern, einer Prise Salz und Oregano vermengen. Alles für 30 Minuten ruhen lassen. Danach den Saft abschütten. Mit reichlich Olivenöl würzen. Mit einem Löffel auf die gerösteten Brotscheiben verteilen. 
 
 ## Tomatensauce – La Pomarola
@@ -20981,7 +20907,6 @@ Einige Petersilienblätter
 1 TL Zucker
 
 ### Zubereitung
-
 In einem mittelgroßen Topf Öl, Tomaten und das in kleine Stücke geschnittene Gemüse außer der Petersilie und dem Basilikum, Salz und Zucker vermischen. Deckel aufsetzen und alles für 30 Minuten bei sehr niedriger Temperatur köcheln. Ab und zu umrühren. Topf vom Herd nehmen und Soße abkühlen lassen. Püriere. Mit Salz und Zucker abschmecken.
 
 Info:	Diese Sauce ist in der Toskana die Königin der Saucen. Wenn man sie zubereitet, dann in großen Mengen, um sie aufzubewahren und bei jeder Gelegenheit zur Verfügung zu haben. 
@@ -20997,7 +20922,6 @@ Nadeln von einem Rosmarinzweig (10 cm)
 1 TL Zucker
 
 ### Zubereitung
-
 1\.	In einer Pfanne oder einen größeren Topf Knoblauchzehen und Chilischoten in Öl anrösten, ohne dass der Knoblauch Farbe annimmt. Dann Rosmarinnadeln dazugeben, schnell vermischen und sofort die in kleine Stücke geschnittenen Tomaten und den Zucker dazugeben. Mit Salz abschmecken und alles weiter 15 – 20 Minuten kochen lassen. 
 
 2\.	Sauce dann pürieren
@@ -21015,7 +20939,6 @@ Nadeln von einem Rosmarinzweig (10 cm)
 Meersalz, Pfeffer
 
 ### Zubereitung
-
 1\.	Das Öl in einer Pfanne bei mittlerer Hitze erwärmen. Die Zwiebel, den Knoblauch und die Chilischoten hinzugeben und ein paar Minuten goldbraun braten.
 
 2\.	Die Tomaten, den Basilikum, Salz und Pfeffer unterrühren. Mit einem Holzkochlöffel die Tomaten zerdrücken. Hitze reduzieren, zudecken und ca. 20 Minuten köcheln lassen. Entweder sofort verwenden oder in einem luftdicht verschlossenen Glas im Kühlschrank aufbewahren (ca. 1 Woche)
@@ -21030,7 +20953,6 @@ Meersalz, Pfeffer
 Etwas Sojasoße zum Abschmecken
 
 ### Zubereitung
-
 Die äußere, trockene Schicht um die Frühlingszwiebeln entfernen. Frühlingszwiebeln erst in sehr schmale Ringe schneiden, dann noch feiner hacken. Dabei auch einen Teil des dunklen Grüns verwenden. Ingwer schälen und sehr fein hacken. Frühlingszwiebeln, Ingwer, Erdnussöl und Salz in einer Schüssel vermengen. Mit Sojasauce abschmecken.
 
 Info:	Passt zu geröstetem Gemüse, gebratenem Fleisch, Tofu, Spiegelei…
@@ -21317,7 +21239,6 @@ Die Zwiebel fein würfeln. 1 EL Öl in einer Pfanne erhitzen, die Zwiebel darin 
 Meersalzflocken
 
 ### Zubereitung
-
 Tahin, Petersilie und Knoblauch kurz pürieren, bis die Mischung grün ist. Dann 80 ml Wasser, den Zitronensaft und ¼ TL Meersalzflocken hinzufügen. Weiterpürieren, bis eine glatte, grüne, dickflüssige Sauce entstanden ist. 
 
 ## Tahinisauce
@@ -21329,7 +21250,6 @@ Tahin, Petersilie und Knoblauch kurz pürieren, bis die Mischung grün ist. Dann
 1/45 TL Salz
 
 ### Zubereitung
-
 Die Paste mit 120 ml Wasser, Zitronensaft, Knoblauch und Salz in einer mittelgroßen Schüssel zu einer dicken Sauce verrühren, die in etwa die Konsistenz von flüssigem Honig haben sollte. In ein Schraubglas füllen und im Kühlschrank aufbewahren. Die Sauce sollte ca. 1 Woche haltbar sein.
 
 ## Chilisauce
@@ -21340,7 +21260,6 @@ Die Paste mit 120 ml Wasser, Zitronensaft, Knoblauch und Salz in einer mittelgro
 2 EL Olivenöl
 
 ### Zubereitung
-
 Die Tomate und die Chilis mit ¾ TL Salz fein pürieren. Essig und Öl dazugeben und noch einige Sekunden weitermixen. Fertig.
 
 ## Passionsfrucht-Marinade für Fisch
@@ -21355,7 +21274,6 @@ Die Tomate und die Chilis mit ¾ TL Salz fein pürieren. Essig und Öl dazugeben
 Meersalz
 
 ### Zubereitung
-
 Knoblauchzehen fein würfeln; Fruchtfleisch der Passionsfrüchte herauskratzen. Schale der Limetten abreiben, Limetten danach auspressen. Chilischote feinhacken und Pfefferkörner mit einem Mörser zerstoßen. Alles zusammen mit dem Ingwer und etwas Meersalz vermischen.
 
 ## Ananas-Chutney
@@ -21453,7 +21371,6 @@ Salz
 ½ Chilischote (klein geschnitten)
 1 Stück Ingwer (gehackt)
 1 Knoblauchzehe (fein gehackt)
-
 Olivenöl
 40 g brauner Zucker
 3 EL Essig
@@ -21520,7 +21437,6 @@ Salz
 2 EL Zitronensaft
 
 ### Zubereitung
-
 Die Senfsamen im Mörser zerstoßen, bis die meisten Samen halbiert sind, dann in eine Glas- oder Keramikschüssel geben. Die Chilis in 5 cm lange Stücke schneiden, dann mit den restlichen Zutaten in die Schüssel geben. Gründlich vermengen, mit einem sauberen Küchentuch abdecken und zwei Tage an einem schattigen Ort ziehen lasse. Täglich zweimal durchrühren, dann in ein steriles Glas füllen.
 
 ## Auberginen-Tamarinden-Chutney - Brinjal mensakai
@@ -21866,7 +21782,6 @@ Weißes Salz
 1 Prise Meersalz
 
 ### Zubereitung
-
 Die Sesamsamen in einer Pfanne bei niedriger Hitze unter Rühren leicht anrösten. Die Samen vom Herd nehmen und sofort in eine Schüssel geben, damit sie nicht anbrennen. Etwas abkühlen lassen und dann mit den restlichen Zutaten vermischen. In ein Schraubglas füllen und luftdicht verschließen. 
 
 ## Garam masala
@@ -21878,7 +21793,6 @@ Die Sesamsamen in einer Pfanne bei niedriger Hitze unter Rühren leicht anröste
 5 g Kardamomkapseln
 
 ### Zubereitung
-
 Eine kleine Pfanne erhitzen und Zimtstangen, Pfefferkörner und Nelken hineingeben. Bei mittlerer Hitze 1 Minute unter Schwenken rösten, um die Gewürze gleichmäßig zu erhitzen. Die Mischung in eine Gewürzmühle füllen und Ingwer und Kardamomsamen hinzugeben. Zu einem feinen Pulver mahlen. In ein luftdicht verschließendes Glas geben. Hält sich ca. 2 Monate.
 
 ## Garam masala II 
@@ -21942,7 +21856,6 @@ Eine kleine Pfanne erhitzen und Zimtstangen, Pfefferkörner und Nelken hineingeb
 60 ml Sonnenblumenöl
 
 ### Zubereitung
-
 Für das Öl Chili- und Paprikaflocken in einer kleinen Pfanne bei mittlerer bis starker Hitze eine Minute rösten, bis sie stark duften. Das Öl mit ¼ TL Salz hinzufügen. Etwa 30 Sekunden erhitzen, bis das Öl siedet, dann vom Herd nehmen. Fertig.
 
 # Gemüse, Hülsenfrüchte und Getreide
@@ -22385,7 +22298,6 @@ Simon mag das Gericht ja sehr, Paula hingegen weniger. Müsst ihr euch also eini
 100 g getrocknete weiße Bohnen
 1 Zwiebel
 1 Knoblauchzehe
-
 Olivenöl
 100 ml Milch
 200 ml Brühe, ersatzweise Wasser
@@ -22790,7 +22702,6 @@ Info:	Der italienische Klassiker, dieses Mal in Klößchenform 😊
 4 Knoblauchzehen
 150 g Parmesan
 1 Bund frisches Basilikum
-
 Olivenöl
 
 Grobes und feines Salz
@@ -23286,7 +23197,6 @@ Schwarzer Pfeffer, Salz
 ## Kretische Kichererbsen mit Spinat
 ### Zutaten (für 2 Portionen)
 1 Zwiebel
-
 Olivenöl
 600 g Kichererbsen aus dem Glas (Abtropfgewicht)
 2 Tomaten
@@ -24419,7 +24329,6 @@ Je 1 EL Butter und Mehl
 1 ganzer Blumenkohl
 
 200g Grünkohl (optional die Blätter des Blumenkohls)
-
 Olivenöl
 Salz, Pfeffer
 400 g reifer Cheddar
@@ -24962,7 +24871,6 @@ Etwa ¼ TL Currypulver
 ## Gebackene und geschmorte Paprika (Peperonata)
 ### Zutaten (für 4 Portionen)
 2 rote und 2 gelbe Paprikas
-
 Olivenöl
 Salz
 2 Zwiebeln
@@ -25191,7 +25099,6 @@ Info:	Das ist ein Rezept vom Kürbisfest im Mundenhof.
 ## Kürbis gefüllt mit Esskastanien, Birnen und Gorgonzola
 ### Zutaten (für 2 Portionen)
 1 kleiner Hokkaidokürbis
-
 Olivenöl
 Salz
 2 Lorbeerblätter
@@ -25235,7 +25142,6 @@ Vorbereitungszeit: 15 Minuten, Garzeit: 30 Minuten
 
 8 Strauchtomaten
 3 Knoblauchzehen
-
 Olivenöl
 
 Je 5 Stiele Rosmarin, Salbei, Thymian
@@ -25425,7 +25331,6 @@ Frisch gemahlener schwarzer Pfeffer
 6 mittelgroße Ochsenherztomaten (etwa 2 kg, blanchiert und gehäutet)
 1 Packung TK-Butter-Blätterteig (400g, aufgetaut, aber noch kalt)
 1 Ei, verquirlt
-
 Olivenöl
 
 Frische Kräuter
@@ -25492,7 +25397,6 @@ Salz, schwarzer Pfeffer
 
 *Für den Belag:* 
 550 g Schalotten
-
 Olivenöl
 Salz, schwarzer Pfeffer
 1 TL Weißweinessig
@@ -26160,7 +26064,6 @@ Salz
 ### Zutaten (für 2 Portionen)
 750 g Karotten
 2 TL Kümmel
-
 Olivenöl
 
 Chiliflocken
@@ -26211,7 +26114,6 @@ Ca. ¼ l heiße Gemüsebrühe
 2 EL Schnittlauchröllchen
 
 ### Zubereitung
-
 1\.	Möhren schälen und in gleich große Würfel schneiden. Frühlingszwiebeln waschen und in Scheiben schneiden. Kartoffeln schälen und würfeln. 
 
 2\.	Butter in einem großen Topf zerlassen. Ahornsirup unterrühren. Zwiebelscheiben und Möhren darin unter umwenden 5 Minuten karamellisieren.
@@ -26298,7 +26200,6 @@ Der grüne Spargel hofft, nein erwartet, wie da schlank und elegant im Gemüsefa
 3 EL Semmelbrösel
 
 ### Zubereitung
-
 Vom Spargel großzügig Enden abschneiden. Spargel auf ein mit Backpapier ausgelegtem Blech im Ofen bei 180 Grad für 20 Minuten grillen. Parmesan und Semmelbrösel darüberstreuen, noch 5 Minuten im Ofen nachgaren.
 
 ## Grüner Spargel aus dem Ofen Nr. 2
@@ -26664,7 +26565,6 @@ Salz
 30 g Mandeln (ungesalzen)
 30 g frisch geriebener Parmesan
 20 g Semmelbrösel
-
 Olivenöl
 
 Pfeffer
@@ -26853,7 +26753,6 @@ Fleur de Sel
 2 EL Öl
 
 ### Zubereitung
-
 Für die Kratzete die Eier trennen. Mich, Mehl und Muskat mit den Eigelben zu einem sämigen Teig verrühren. Die Eiweiße steif schlagen und vorsichtig unter die Teigmasse heben. Öl in eine Pfanne erhitzen und den flüssigen Teig portionsweise hellbraun ausbacken. Die fertig gebackenen Kratzete mit zwei Bratenwendern in mundgerechte Stücke zupfen.
 
 Tipp:	 Ist man in Baden meist zum Spargel.
@@ -27476,7 +27375,6 @@ Abgeriebene Schale von 1 Zitrone
 
 Pfeffer, Salz
 5 Eier
-
 Olivenöl
 
 ### Zubereitung
@@ -28103,7 +28001,6 @@ Gemahlener Koriander
 Zimt
 
 Kumin
-
 Olivenöl
 800 g Kartoffeln
 300 g rote Linsen
@@ -28442,7 +28339,6 @@ Was soll man dazu sagen. Das ist eindeutig das beste Dal auf der Welt!
 50 g Butter
 
 ### Zubereitung
-
 Wasser kochen und Salz hinzufügen. Polenta einrühren. Unter Rühren aufkochen und zum Schluss zerlassene Butter darübergießen.
 ##
 
@@ -28493,7 +28389,6 @@ Salz, Pfeffer
 Blätter von 4 Zweigen frischem Thymian, abgezupft
 
 4-8 Scheiben Ziegenkäse, je nach Größe
-
 Olivenöl zum Beträufeln
 
 ### Zubereitung
@@ -28812,7 +28707,6 @@ Einige Zweige Minze
 2 kleine Tomaten
 
 Zitronensaft
-
 Olivenöl
 Salz, Pfeffer
 
@@ -28833,7 +28727,6 @@ Einige Zweige Minze
 2 kleine Tomaten
 
 Zitronensaft
-
 Olivenöl
 Salz, Pfeffer
 
@@ -29221,7 +29114,6 @@ Etwas gehackte Petersilie
 1 mittelgroße Zwiebel
 ½ TL Chiliflocken
 Salz
-
 Olivenöl
 2 Eier
 
@@ -29265,7 +29157,6 @@ Optional ein paar Schwarzkümmelsamen
 ## Ratatouille
 ### Zutaten (für 2 bis 3 Personen):
 2 Auberginen
-
 Olivenöl
 1 Knoblauchknolle
 1 kleine Zwiebel
@@ -29300,7 +29191,6 @@ Und überhaupt ein junger frischer Rotwein z.B. Beaujolais oder italienischer Ba
 ### Zutaten (für 3 Portionen):
 2 Auberginen
 1 Knolle Knoblauch
-
 Olivenöl
 Salz, Pfeffer
 1 Zwiebel
@@ -29373,7 +29263,6 @@ Tipp:	 Am besten passen dazu Injera, das gesäuerte Fladenbrot aus Äthiopien.
 
 ## Caponata Nr. 2
 ### Zutaten (für 4 Portionen):
-
 Olivenöl
 2 Auberginen
 1 Zwiebel, gehackt
@@ -30300,7 +30189,6 @@ Salz, Pfeffer
 ## Knusprige Kartoffeln mit Kräuterquark
 ### Zutaten für 4 Portionen
 1 kg Drillinge
-
 Olivenöl
 Salz, schwarzer Pfeffer
 
@@ -30990,7 +30878,6 @@ Muskat, Salz, Pfeffer
 20 – 30 Cocktailtomaten
 
 Etwas grobes Salz, Pfeffer, Zucker
-
 Olivenöl
 
 Ingwer, ca. 2,5 cm geschält und fein gehackt
@@ -31044,7 +30931,6 @@ Wahrscheinlich ein Gericht, dass ihr wegen dem ganzen grünen Kräuterzeugs nie 
 
 4 Stängel Basilikum
 1 Schalotte
-
 Olivenöl
 Salz, Pfeffer
 200 g Risottoreis
@@ -31096,7 +30982,6 @@ Etwas Honig und etwas Mehl
 1 Handvoll geriebener Parmesan
 3 Zweige Rosmarin
 1 Schalotte
-
 Olivenöl
 
 Butter
@@ -31111,7 +30996,6 @@ Butter
 ## Risotto mit Birnen und Gorgonzola
 ### Zutaten für 4 Portionen
 1 kleine Zwiebel
-
 Olivenöl
 Salz
 300 g Risottoreis
@@ -31259,7 +31143,6 @@ Pfeffer, Salz
 ### Zutaten (für 2 bis 3 Personen):
 1 mittelgroße Zwiebel
 1 Kopf Radicchio (ca. 150 g)
-
 Olivenöl, Salz, Pfeffer
 170 g Risottoreis
 150 ml Weißwein
@@ -32236,7 +32119,6 @@ Salz, Pfeffer
 1 Prise Salz
 
 ### Zubereitung
-
 Den Reis mehrmals gut waschen. Dann das Wasser und die restlichen Zutaten in einem Topf aufkochen. Reis hineingeben und 5 Minuten unter Rühren köcheln lassen. Den Topf vom Herd nehmen und den Reis 20 Minuten zugedeckt ziehen lassen.
 
 ### Kommentar
@@ -32305,7 +32187,6 @@ Eine Prise Salz
 4 Kaffir-Limettenblätter
 
 ### Zubereitung
-
 Kokosraspeln, Palmzucker, Salz und Wasser kurz köcheln lassen, bis sich der Zucker aufgelöst hat. Direkt über den Reis geben. Limettenblätter vom Stiel entfernen, fein hacken und hinzugeben.
 
 ## Pad Thai – gebratene Nudeln mit Tofu und Gemüse
@@ -32433,7 +32314,6 @@ Wenn man ein knackiges, frisches Spargelrezept sucht, ist dieses hier nicht das 
 ## Pasta mit Pilzen, Bohnen und Speck
 ### Zutaten (für 3 bis 4 Portionen)
 1 rote Zwiebel
-
 Olivenöl
 180 g Speck
 300 g Pilze, gemischt
@@ -32547,7 +32427,6 @@ Hier muss man sich nicht zwischen Pasta und Risotto entscheiden, denn die Pasta 
 ## Pasta mit Kartoffeln (pasta e patate)
 ### Zutaten (für 3 Portionen):
 1 kleine Zwiebel
-
 Olivenöl
 400 g Kartoffeln
 1 Rosmarinzweig
@@ -32612,7 +32491,6 @@ Lange hieß es, die Pflanze brauche vor der Ernte Frost, um einen milden Geschma
 
 ## Pasta mit Blumenkohl aus Neapel
 ### Zutaten (für 2 Portionen)
-
 Olivenöl
 2 Knoblauchzehen
 ½ Blumenkohl (ca. 250 g)
@@ -32656,7 +32534,6 @@ Auch wenn es Auberginen sind, es schmeckt echt gut.
 ## Pasta alla Norma Nr. 2
 ### Zutaten (für 2 -3 Portionen):
 2 kleine Auberginen
-
 Olivenöl
 1 Knoblauchzehe, gehackt
 ½ kleine rote Chilischote
@@ -32696,7 +32573,6 @@ Salz, Pfeffer
 ### Zutaten (für 2 Portionen):
 1 Zwiebel
 300 g Zucchini
-
 Olivenöl
 70 g Parmesan
 2 ganze Eier
@@ -32836,7 +32712,6 @@ Etwas Chilipulver
 2 Knoblauchzehen
 1 Handvoll Petersilie
 500 g Salsiccia
-
 Olivenöl
 1 Lorbeerblatt
 
@@ -33850,7 +33725,6 @@ Fein abgerieben Schale einer ½ Biozitrone
 3 Kugeln Mozzarella
 500 g gemischte Tomaten
 3 – 4 Stiele Oregano
-
 Olivenöl
 
 ### Zubereitungszeit
@@ -35132,7 +35006,6 @@ Muskatnuss
 Brühe zum Garen
 
 ### Zubereitung
-
 *Für den Teig:*
 500 g Mehl mit 1/8 l Wasser, 2 eiern, 1 TL Salz und 2 EL Olivenöl glattkneten. Ist der Teig zu trocken, tropfenweise Waser zugeben, bis er weich und geschmeidig, aber nicht klebrig ist. Mit Mehl bestäuben, mit einem Tuch bedecken, bei Zimmertemperatur 20 Minuten ruhen lassen.
 
@@ -35341,7 +35214,6 @@ Tipp:	Für die Füllung kann man gut Hackfleisch nehmen. Oder auch Ricotta und B
 1 Ei
 Salz, Pfeffer
 250 g Cannelloni
-
 Olivenöl für die Form
 4 Tomaten (in Würfeln)
 
@@ -35858,7 +35730,6 @@ Salz und Pfeffer
 Lasagneblätter
 90 g Pesto
 300 g Mozzarella, in Scheiben geschnitten
-
 Olivenöl
 100 g frischer Parmesan
 
@@ -36590,7 +36461,6 @@ Info:	Anna Pawlowa Pawlowa war eine russische Balletttänzerin, die im 19. Jahrh
 50 g Puderzucker
 
 ### Zubereitung
-
 Kokosjoghurt mit den tiefgekühlten Mangostückchen und dem Saft der Limette (sowie optional Puderzucker, je nach Süßebedarf) fein pürieren, in eine Schüssel geben und so lange einfrieren, bis es die gewünschte Festigkeit hat.
 
 ## Schwarzes Johannisbeer-Granité auf Rooibos-Mousse
@@ -36800,7 +36670,6 @@ Nochmals 40 g flüssige Butter
 150 g Naturjoghurt
 
 ### Zubereitung
-
 Sahne und Sahnesteif steif schlagen. Mango und Zitronensaft fein pürieren. Dann mit dem Joghurt zur Sahne geben und untermischen. Im Kühlschrank 2 stunden kaltstellen.
 
 ## Mascarpone-Creme
@@ -36813,7 +36682,6 @@ Sahne und Sahnesteif steif schlagen. Mango und Zitronensaft fein pürieren. Dann
 200 ml geschlagene Sahne
 
 ### Zubereitung
-
 Mascarpone, Magerquark und Joghurt vermischen, die Sahne unterziehen. Amarettini zerbröseln. Dann schichten: Quarkcreme, rote Grütze, Kekse usw. Die letzte Schicht sollte Quarkcreme sein. Eventuell mit Kakao oder Keksen verzieren.
 
 ## Erdbeer-Eispops mit Minzzucker
@@ -36868,7 +36736,6 @@ Evtl. Puderzucker
 1 Päckchen Vanillezucker
 
 ### Zubereitung
-
 Joghurt und Honig mischen. Erdbeeren pürieren und durchsieben. Erdbeermus und Zucker unter den Joghurt rühren. In den Tiefkühler stellen.
 
 ## Pistazienpfannkuchen
@@ -36882,7 +36749,6 @@ Joghurt und Honig mischen. Erdbeeren pürieren und durchsieben. Erdbeermus und Z
 30 g Orangenmarmelade (wenn man will)
 
 ### Zubereitung
-
 alle Zutaten miteinander vermischen. Den Teig mindestens 45 Minuten ruhen lassen. Dann dünne Pfannkuchen backen und mit gehackten Pistazien bestreuen.
 
 ## Apfelpfannkuchen
@@ -36909,7 +36775,6 @@ Kartoffelmehl
 250 g Erdbeeren (in dünne Scheiben geschnitten)
 
 ### Zubereitung
-
 Sirup aufkochen und mit Kartoffelmehl leicht binden. Rhabarber darin gar ziehen lassen. Nach Geschmack zuckern und abkühlen lassen. Erdbeeren mit 100 g Erdbeerpüree mischen und zum Rhabarber geben.
 
 ## Crumble mit Äpfeln und Feigen
@@ -39379,7 +39244,6 @@ Tipp:	Man dann den Milchreis auch mit etwas Rosenwasser beträufeln
 1 EL Butter
 
 ### Zubereitung
-
 Bananen schälen und in Stücke schneiden. Honig und Zucker mit 3 EL Wasser in die Pfanne geben und langsam karamellisieren lassen. Wenn der Zucker goldbraun ist, die Bananen hinzugeben und glasieren. Die Butter in Flöckchen hinzugeben und schmelzen lassen. Mit Rum ablöschen, kurz einköcheln lassen und warm servieren.
 
 ## Schokoladen-Erdnussmousse
@@ -42653,7 +42517,6 @@ Abgeriebene Schale einer Zitrone
 200 g Schokolade (Vollmilch oder dunkler)
 
 ### Zubereitung
-
 1\.	Butter und Zucker schaumig rühren. Eigelb, Salz, Zitronenschale, Zimt, Haselnüsse, Mandeln, Mehl und Backpulver nach und nach dazu geben.
 
 2\.	Eiweiß zu steifem Schnee schlagen und unterheben. Zuletzt 200 g gerieben Schokolade unterheben.
@@ -47490,7 +47353,6 @@ Zucker oder Honig nach Geschmack
 4 EL Zucker
 
 ### Zubereitung
-
 Die Erdbeeren waschen, putzen und vierteln. Mit Wasser/Milch, Joghurt und Kardamom pürieren. Mit Zucker süßen.
 
 ## Mandelmilch-Lassi mit Datteln
@@ -47501,7 +47363,6 @@ Die Erdbeeren waschen, putzen und vierteln. Mit Wasser/Milch, Joghurt und Kardam
 4-6 Eiswürfel
 
 ### Zubereitung
-
 Die Datteln entsteinen, dann alle Zutaten glatt pürieren und auf zwei Gläser verteilen.
 
 ## Pfirsich-Kokos-Lassi
@@ -47514,7 +47375,6 @@ Die Datteln entsteinen, dann alle Zutaten glatt pürieren und auf zwei Gläser v
 1 TL Rosenwasser (wenn man will)
 
 ### Zubereitung
-
 Die Pfirsiche waschen, entsteinen und das Fruchtfleisch in kleine Stücke schneiden. Mit Kokosmilch, Joghurt, Zucker/Honig glatt pürieren. Das Rosenwasser nach und nach dazufügen, es kann leicht zu intensiv werden.
 
 ## Avocado-Lassi mit Honig und Zimt
@@ -47559,7 +47419,6 @@ Die Pfirsiche waschen, entsteinen und das Fruchtfleisch in kleine Stücke schnei
 Zucker
 
 ### Zubereitung
-
 Die Kardamomkapseln im Mörser zerstoßen. Mit Ingwer, Nelken, Zimt und 500 ml Wasser in einen Topf geben und zum Kochen bringen. Milch und Teebeutel hineingeben und erneut aufkochen. In die Tassen abseihen. Zucker separat servieren. 
 
 ## Kurkumatee
@@ -47570,7 +47429,6 @@ Die Kardamomkapseln im Mörser zerstoßen. Mit Ingwer, Nelken, Zimt und 500 ml W
 Saft von 1 Zitrone
 
 ### Zubereitung
-
 Ingwer und Kurkuma in einen Topf geben und mit 500 ml Wasser bedecken. Zum Kochen bringen, dann vom Herd nehmen und Honig und Zitronensaft einrühren. Abschmecken. In zwei Tassen abseihen und mit dem Löffelrücken alle Flüssigkeit aus dem Ingwer und der Kurkuma ausdrücken.
 
 ## Orangen-Kiwi-Sangria
@@ -47604,7 +47462,6 @@ Puderzucker
 2 -3 TL Limettensaft
 
 ### Zubereitung
-
 Die Mango schälen, pürieren und durch ein Sieb geben. 125 g Erdbeeren und 125 g Himbeeren zusammen pürieren, mit Puderzucker abschmecken und durchsieben. 250 g Brombeeren mit 2 – 3 TL Limettensaft vermischen, pürieren, etwas Puderzucker hinzufügen und durchsieben. Als erstes das Mangopüree in ein Sektglas füllen, danach die Himbeer-erdbeer-Mischung über einen Teelöffel vorsichtig ins Glas laufen lassen, zum Schluss das Brombeerpüree.
 
 ## Mokkalatte on the Rocks Eierlikör-Eiskaffee
@@ -47702,7 +47559,6 @@ Gehackte Pistazien zum Bestreuen
 1 EL Schokoladenraspeln
 
 ### Zubereitung
-
 Die Brombeeren auf 2 Gläser verteilen und mit einem Mörser oder dem Stiel eines Nudelholzes leicht zerquetschen. Die restlichen Zutaten in einen Standmixer geben und bei hoher Geschwindigkeit schaumig pürieren. Vorsichtig in die Gläser gießen, dabei darauf achten, dass die Brombeeren auf dem Boden des Glases bleiben. Sofort servieren.
 
 ## Vietnamesischer Eiskaffee
@@ -47730,7 +47586,6 @@ Eiswürfel (wie man will)
 4 Eiswürfel
 
 ### Zubereitung
-
 Das Avocado- und Passionfruitfleisch zusammen mit allen übrigen Zutaten im Standmixer (oder mit dem Stabmixer in einem Rührbecher) zu einer glatten Mischung pürieren. Falls nötig, mit etwas Wasser verdünnen. In Gläsern mit Trinkhalmen servieren und sofort genießen 😊
 
 ## Süße Cashew-Dattel-Milch
@@ -47820,7 +47675,6 @@ Tipp:	Reife, übrig geblieben Bananen kann man in einem Gefäß im Gefrierschran
 2 Eiswürfel
 
 ### Zubereitung
-
 alle Zutaten in einem Standmixer mit 120 ml Wasser fein pürieren, bis es schäumt. Abschmecken, eventuell mehr Safran hinzugeben. In 2 Gläser füllen und sofort servieren.
 
 ## Drachenfrucht-Milchshake
@@ -47879,7 +47733,6 @@ Tipp:	Man kann die Granita einige Tage im Gefrierschrank lassen, muss sie aber i
 2 EL Rosenblütensirup
 
 ### Zubereitung
-
 Wasser zum Kochen bringen. Hibiskus, Himbeeren und Gewürze darin 15 Minuten ziehen lassen. Den Rosenblütensirup unterrühren. Den Tee durch ein feines Sieb passieren und erst auf Zimmertemperatur, dann im Kühlschrank abkühlen lassen.
 
 ### Kommentar

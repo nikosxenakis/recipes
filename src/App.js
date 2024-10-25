@@ -21,6 +21,7 @@ const App = () => {
     let isH2 = false;
     let isH3 = false;
     let currentSection = '';
+    let firstElement = true;
 
     tokens.forEach(token => {
       if (token.type === 'heading_open' && token.tag === 'h2') {
@@ -55,14 +56,24 @@ const App = () => {
           else if (token.content.startsWith('Kommentar')) {
             currentSection = 'comments';
           }
+          firstElement = true;
         }
 
-        if (currentSection === 'ingredients') {
-          currentRecipe.ingredients += token.content.split('\n').map(line => `${line.trim()}`).join('\n') + '\n';
-        } else if (currentSection === 'instructions') {
-          currentRecipe.instructions += token.content + '\n';
-        } else if (currentSection === 'comments') {
-          currentRecipe.comments += token.content + '\n';
+        if(firstElement) {
+          firstElement = false;
+        }
+        else {
+          if (currentSection === 'ingredients') {
+            // currentRecipe.ingredients += token.content.split('\n').map(line => `${line.trim()}`).join('\n');
+            if(token.content.trim()) {
+              currentRecipe.ingredients += token.content.trim() + '\n';
+            }
+          } else if (currentSection === 'instructions') {
+            console.log(token.content);
+            currentRecipe.instructions += token.content + '\n';
+          } else if (currentSection === 'comments') {
+            currentRecipe.comments += token.content + '\n';
+          }
         }
       }
     });

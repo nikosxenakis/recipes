@@ -89,16 +89,21 @@ const RecipeList = ({ recipes }) => {
             <div className="recipe-details">
               <h3>Zutaten</h3>
               <ul>
-                {recipe.ingredients.split('\n').map((ingredient, i) => (
+                {recipe.ingredients.split('\n').filter(x => x !== '').map((ingredient, i) => (
                   <li key={i}>{ingredient}</li>
                 ))}
               </ul>
               <h3>Zubereitung</h3>
-              <p>{recipe.instructions}</p>
+                {recipe.instructions.split('\n').map((instruction, i) => (
+                  <p key={i}>{instruction}</p>
+                ))}
+              {/* <p>{recipe.instructions}</p> */}
               {recipe.comments && (
                 <>
                   <h3>Kommentar</h3>
-                  <p>{recipe.comments}</p>
+                  {recipe.comments.split('\n').map((comment, i) => (
+                    <p key={i}>{comment}</p>
+                  ))}
                 </>
               )}
             </div>
