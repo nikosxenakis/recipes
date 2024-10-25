@@ -9,6 +9,7 @@ const RecipeList = ({ recipes }) => (
         title={recipe.title}
         ingredients={recipe.ingredients}
         instructions={recipe.instructions}
+        comments={recipe.comments}
       />
     ))}
   </div>
