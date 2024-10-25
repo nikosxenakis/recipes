@@ -23,7 +23,6 @@ const App = () => {
     let currentSection = '';
 
     tokens.forEach(token => {
-        console.log(token);
       if (token.type === 'heading_open' && token.tag === 'h2') {
         if (currentRecipe) {
           parsedRecipes.push(currentRecipe);
