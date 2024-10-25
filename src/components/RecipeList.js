@@ -87,6 +87,7 @@ const RecipeList = ({ recipes }) => {
           <h2>{recipe.title}</h2>
           {visibleRecipes[indexOfFirstRecipe + index] && (
             <div className="recipe-details">
+              <h3>🔠 {recipe.category}</h3>
               <h3>Zutaten 🥗</h3>
               <ul>
                 {recipe.ingredients.split('\n').filter(x => x !== '').map((ingredient, i) => (

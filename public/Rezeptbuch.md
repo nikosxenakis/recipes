@@ -10477,6 +10477,7 @@ Butter
 ### Zubereitung
 1. Für den Fonds den Ofen auf 200 Grad vorheizen und die Lammknochen und Fleischabschnitte mit dem grob zerkleinerten Gemüse, den Zwiebeln und Knoblauch für eine Stunde braten. Danach die Zutaten in einen großen Topf geben, die Kräuter hinzufügen und alles mit Wasser bedecken. Den Fond für mindestens 2 -4 Stunden zugedeckt auf dem Herd simmern lassen. Dann die Brühe durch ein Sieb gießen und im Kühlschrank aufbewahren. Nach dem Erkalten das Fett abschöpfen.
 1. Für das Stew das Olivenöl in eine große Kasserolle geben und die Lammstücke auf mittlerer bis hoher Temperatur einige Minuten braun anbraten lassen- Die Hitze herunterschalten, die Butter zufügen und die Gemüse ca. 15 Minuten darin andünsten. Mit 400 ml Fond angießen, Lorbeer und Rosmarin zugeben und 90 Minuten sanft kochen lassen. Bei Bedarf Fond oder Wasser dazugießen. Die Sauce eventuell mit etwas Mehl binden.
+
 # Fisch
 
 ## Fischfilets in brauner Butter mit Kapern und Zitrone
@@ -29706,6 +29707,7 @@ Pfeffer
 1. Einen Bambusdämpfer oder einen Siebeinsatz mit einem feuchten Tuch auslegen. Die Teigtaschen darauf geben und in einen Wok oder einen Topf stellen. Etwa 2 cm hoch Wasser in den Topf gießen und die Hefebrötchen etwa 10 Minuten dämpfen.
 
    Tipp:	Süße Bohnenpaste kann man auch selbst herstellen. Dazu 200 g kleine rote Bohnen über Nacht in Wasser einweichen. Dann mit 1/8 l frischem Wasser und 50 g Zucker in einem Topf zum Kochen bringen und bei schwacher Hitze zugedeckt garen, bis sie sehr weich sind. Dabei, falls nötig, noch Wasser angießen. Die gegarten Bohnen abtropfen lassen und durch ein Sieb streichen.
+
 # Nudeln, Kartoffeln und Reis 
 
 ## Spätsommerliches Kartoffelgratin – Patate arraganate
@@ -40576,6 +40578,7 @@ Frische Beeren
 
 ### Kommentar
 Es ist in Berlin Mitte verboten, Capuccino mit Schlagsahne zu bestellen. Cappuccino gibt es hier nur mit Milch, im Gegensatz zu in so manchen Dörfern. So sind die Regeln. Erlaubt hingegen ist Affogato: Espresso mit einer Kugel Vanilleeis. Wobei in Vanilleeis normalerweise Sahne ist. Also ist ein Affogato streng genommen auch nur ein Capuccino mit Sahne. Gut. Egal. Hier ein Semifreddo – das ist ein Eis, für dessen Zubereitung man keine Eismaschine braucht. Die Konsistenz ist nicht so gleichmäßig cremig wie die von Eis, aber genau das schmeckt wunderbar. Dieses Semifreddo hier enthält Instantkaffee, den es in Berlin zu kaufen gibt, aber nur außerhalb des S-Bahn-Rings 😊
+
 # Kuchen, Torten, Muffins und Gebäck
 
 ## Schokoladenkuchen mit Himbeeren

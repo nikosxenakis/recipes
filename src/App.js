@@ -18,17 +18,25 @@ const App = () => {
 
     const parsedRecipes = [];
     let currentRecipe = null;
+    let isH1 = false;
     let isH2 = false;
     let isH3 = false;
     let currentSection = '';
     let firstElement = true;
+    let category = '';
 
     tokens.forEach(token => {
-      if (token.type === 'heading_open' && token.tag === 'h2') {
+      if (token.type === 'heading_open' && token.tag === 'h1') {
+        isH1 = true;
+      }
+      else if (token.type === 'heading_close' && token.tag === 'h1') {
+        isH1 = false;
+      }
+      else if (token.type === 'heading_open' && token.tag === 'h2') {
         if (currentRecipe) {
           parsedRecipes.push(currentRecipe);
         }
-        currentRecipe = { title: '', ingredients: '', instructions: '', comments: '' };
+        currentRecipe = { title: '', category: category, ingredients: '', instructions: '', comments: '' };
         isH2 = true;
         currentSection = '';
       }
@@ -43,6 +51,9 @@ const App = () => {
         isH3 = false;
       }
       else if (token.type === 'inline' && token.content) {
+        if (isH1) {
+          category = token.content;
+        }
         if (isH2) {
           currentRecipe.title = token.content;
         }
@@ -70,7 +81,6 @@ const App = () => {
             }
           }
           else if (currentSection === 'instructions') {
-            console.log(token.content);
             currentRecipe.instructions += token.content + '\n';
           }
           else if (currentSection === 'comments') {
