@@ -80,27 +80,26 @@ const RecipeList = ({ recipes }) => {
         ))}
       </div>
       {currentRecipes.map((recipe, index) => (
-        <div key={indexOfFirstRecipe + index} className="recipe">
-          <h2>{recipe.title}</h2>
-          <button onClick={() => toggleVisibility(indexOfFirstRecipe + index)} className="toggle-button">
+        <div key={indexOfFirstRecipe + index} className="recipe" onClick={() => toggleVisibility(indexOfFirstRecipe + index)}>
+          <button className={`collapsible ${visibleRecipes[indexOfFirstRecipe + index] ? 'active' : ''}`}>
             {visibleRecipes[indexOfFirstRecipe + index] ? '−' : '+'}
           </button>
+          <h2>{recipe.title}</h2>
           {visibleRecipes[indexOfFirstRecipe + index] && (
             <div className="recipe-details">
-              <h3>Zutaten</h3>
+              <h3>Zutaten 🥗</h3>
               <ul>
                 {recipe.ingredients.split('\n').filter(x => x !== '').map((ingredient, i) => (
                   <li key={i}>{ingredient}</li>
                 ))}
               </ul>
-              <h3>Zubereitung</h3>
+              <h3>Zubereitung 📜</h3>
                 {recipe.instructions.split('\n').map((instruction, i) => (
                   <p key={i}>{instruction}</p>
                 ))}
-              {/* <p>{recipe.instructions}</p> */}
               {recipe.comments && (
                 <>
-                  <h3>Kommentar</h3>
+                  <h3>Kommentar 💬</h3>
                   {recipe.comments.split('\n').map((comment, i) => (
                     <p key={i}>{comment}</p>
                   ))}

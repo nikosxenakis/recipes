@@ -120,8 +120,6 @@ Salz, Pfeffer aus der Mühle
 ### Kommentar
 Schmeckt immer 😊.
 
-**
-
 ## Schinkendatteln
 ### Zutaten (für 4 Portionen)
 150 g Datteln (frisch oder getrocknet)
@@ -135,8 +133,6 @@ Schmeckt immer 😊.
 
 ### Kommentar
 Auch das ist eine absolut leckere Kleinigkeit, der zumindest ich nie widerstehen kann.
-
-**
 
 ## Kleine Käsesoufflés
 ### Zutaten (für 4 Förmchen)

@@ -68,10 +68,12 @@ const App = () => {
             if(token.content.trim()) {
               currentRecipe.ingredients += token.content.trim() + '\n';
             }
-          } else if (currentSection === 'instructions') {
+          }
+          else if (currentSection === 'instructions') {
             console.log(token.content);
             currentRecipe.instructions += token.content + '\n';
-          } else if (currentSection === 'comments') {
+          }
+          else if (currentSection === 'comments') {
             currentRecipe.comments += token.content + '\n';
           }
         }
