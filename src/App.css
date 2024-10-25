@@ -1,18 +1,42 @@
 .App {
   font-family: Arial, sans-serif;
   padding: 20px;
+  background-color: #f9f9f9;
 }
 
 .recipe {
   border: 1px solid #ddd;
+  border-radius: 8px;
   padding: 20px;
   margin-bottom: 20px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s;
+}
+
+.recipe:hover {
+  transform: scale(1.02);
 }
 
 .recipe h2 {
   margin-top: 0;
+  color: #333;
 }
 
 .recipe h3 {
   margin-bottom: 5px;
+  color: #555;
+}
+
+.recipe ul {
+  padding-left: 20px;
+}
+
+.recipe li {
+  margin-bottom: 5px;
+}
+
+.recipe p {
+  line-height: 1.6;
+  color: #666;
 }

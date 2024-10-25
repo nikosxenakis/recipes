@@ -14,8 +14,8 @@ Olivenöl zum Ausbacken
 ### Zubereitungszeit
 25 Minuten
 1. Mozzarella in 8 dünne Scheiben schneiden, weißbrotscheiben entrinden. Jeweils 2 Käsescheiben auf eine Brotscheibe legen, die Ränder dabei frei lassen. Mit Salz, reichlich Pfeffer und Oregano würzen. Belegte Brote mit den restlichen 4 Brotscheiben abdecken. Ränder kurz in kaltes Wasser tauchen und festdrücken.
-1. 2 Eier mit 2 EL Milch, Salz und Pfeffer verquirlen. Brote von beiden Seiten dünn mit 2 EL Mehl bestäuben und auf eine tiefe Platte legen. Mit der Eiermilch begießen und stehenlassen, bis alle Flüssigkeit aufgesogen ist. Brote zwischendurch einmal wenden.
-1. In einer Pfanne reichlich Olivenöl erhitzen. Brote hineinlegen und von beiden Seiten knusprig ausbacken. Auf Küchenkrepp gut abtropfen lassen, sofort servieren.
+2. 2 Eier mit 2 EL Milch, Salz und Pfeffer verquirlen. Brote von beiden Seiten dünn mit 2 EL Mehl bestäuben und auf eine tiefe Platte legen. Mit der Eiermilch begießen und stehenlassen, bis alle Flüssigkeit aufgesogen ist. Brote zwischendurch einmal wenden.
+3. In einer Pfanne reichlich Olivenöl erhitzen. Brote hineinlegen und von beiden Seiten knusprig ausbacken. Auf Küchenkrepp gut abtropfen lassen, sofort servieren.
 
 Paula: Ich probiere das Rezept mal!
 
