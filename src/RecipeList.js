@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './RecipeList.css';
+import './assets/styles/RecipeList.css';
 
 const RecipeList = ({ recipes }) => {
   const [visibleRecipes, setVisibleRecipes] = useState({});

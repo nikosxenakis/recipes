@@ -1,15 +1,14 @@
 import React, { useEffect, useState } from 'react';
-import RecipeList from './components/RecipeList';
+import RecipeList from './RecipeList';
 import MarkdownIt from 'markdown-it';
-import './App.css';
+import './assets/styles/App.css';
+import cookbook from './assets/Rezeptbuch.md';
 
 const App = () => {
   const [recipes, setRecipes] = useState([]);
 
   useEffect(() => {
-    fetch('./Rezeptbuch.md')
-      .then(response => response.text())
-      .then(text => parseMarkdown(text));
+    parseMarkdown(cookbook);
   }, []);
 
   const parseMarkdown = (text) => {
