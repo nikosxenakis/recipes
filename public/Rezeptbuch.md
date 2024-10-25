@@ -21,15 +21,12 @@ Paula: Ich probiere das Rezept mal!
 
 ## Gegrillte Pfirsiche und Bohnen
 ### Zutaten (für 4 Portionen)
-
 400 g breite Bohnen, schräg in zwei Hälften geschnitten
 3 EL Olivenöl
 2 reife, aber feste Pfirsiche, entsteint und in 5 mm dicke Spalten geschnitten
-
 5 g Minzeblätter, in Stücke gezupft
 
 ¾ EL Zitronensaft
-
 80 g Ziegenfrischkäse, grob in 4 cm große Stücke geschnitten
 20 g gerösteten Salzmandeln, grob gehackt
 
@@ -48,7 +45,6 @@ Hab ich ausprobiert. Sieht toll aus, schmeckt lecker und macht einiges her 😊 
 
 ## Gefüllte Tomaten
 ### Zutaten (für 4 Portionen)
-
 400 g große Cocktailtomaten
 
 ½ Bund Rucola
@@ -74,7 +70,6 @@ Basilikumblättchen zum Garnieren
 2 EL Kokos- oder Rapsöl
 3 Knoblauchzehen, fein gehackt
 1 EL Chiliflocken
-
 4 EL Agavendicksaft
 
 Saft von 1 Limette
@@ -174,12 +169,10 @@ Je 1 Msp. Salz und schwarzer Pfeffer
 
 ## Risottoplätzchen mit zwei Käsesorten
 ### Zutaten (für 6 Portionen)
-
 800 ml Brühe
 1 EL Olivenöl
 20 g Butter
 1 kleine Zwiebel, feingehackt
-
 275 g Reis
 40 g Parmesan, frisch gerieben
 30 g Mozzarella, in kleine Würfel geschnitten
@@ -205,9 +198,7 @@ Einfach nur mmmmh.
 100 g Blattspinat
 40 g Butter
 2 EL Mehl
-
 250 ml Milch
-
 4 Eier, getrennt
 65 g Cheddar, feingerieben
 2 EL feingeriebener Parmesan
@@ -228,7 +219,6 @@ Einfach nur mmmmh.
 1 Canteloupe-Melone (also die leckere😊)
 2 TL Himbeeressig
 200 g saure Sahne
-
 5 EL Joghurt
 3 EL Zitronensaft
 2 TL Apfeldicksaft
@@ -249,7 +239,6 @@ Info: 	Jostabeeren sind eine Kreuzung aus schwarzen Johannisbeeren und Stachelbe
 
 ## Frühlingsrollen – San Si Chun Juan
 ### Zutaten (für 4 Portionen)
-
 400 g Mehl
 Salz, Pfeffer
 
@@ -260,7 +249,6 @@ Salz, Pfeffer
 1 TL Sesamöl
 1 Ei
 220 g Maisstärke
-
 500 g Pflanzenöl
 
 ### Zubereitungszeit
@@ -286,10 +274,8 @@ Tipp:	Statt der angegebenen Füllung (niemals nimmt einer von euch Garnelen😊)
 1 Tomate
 
 ½ Bund Petersilie
-
 4 EL Olivenöl
 150 g Hackfleisch
-
 4 EL halbtrockener Sherry (wenn man will)
 1 Ei
 2 EL Semmelbrösel
@@ -309,9 +295,7 @@ Pilze und Hackfleisch – schon eine sehr besondere Mischung.
 ## Crème Brûlée von weißem Spargel
 ### Zutaten (für 4 Personen)
 200 g weißer Spargel
-
 500 ml Schlagsahne
-
 125 ml Milch
 1 Prise Salz
 1 Zitrone, Schale fein abgerieben
@@ -347,13 +331,11 @@ Sehr feine Idee. Und man kann zündeln 😊
 
 Je 1 rote, gelbe und grüne Paprikaschote
 1 Zitrone
-
 5 EL Olivenöl
 2 Knoblauchzehen
 Salz, Pfeffer
 
 *Zucchini:*
-
 500 g kleine Zucchini
 
 Etwa 8 EL Olivenöl
@@ -362,7 +344,6 @@ Etwa 8 EL Olivenöl
 
 ½ Bund Basilikum
 2 Knoblauchzehen
-
 5 EL Weißweinessig
 Salz, Pfeffer
 
@@ -371,7 +352,6 @@ Salz, Pfeffer
 2 Schalotten
 
 4 Knoblauchzehen
-
 4 EL Olivenöl
 
 1/8 l trockener Weißwein
@@ -397,7 +377,6 @@ Salz
 
 ## Vitello tonnato
 ### Zutaten für 6-8 Portionen
-
 600 g Kalbsnuss
 
 ¾ l trockener Weißwein
@@ -435,7 +414,6 @@ Salz, Pfeffer
 125 g Frischkäse
 1 Eiweiß
 50 g Sahne
-
 500 g Cocktailtomaten
 1 EL Aceto balsamico
 1 EL Olivenöl
@@ -451,7 +429,6 @@ Salz, Pfeffer
 ### Zutaten (für 10 Stück):
 
 5 Scheiben TK-Blätterteig
-
 500 g frischer Blattspinat
 1 Zwiebel
 1 Knoblauchzehe
@@ -478,7 +455,6 @@ Tipp:	Den Blätterteig kann man auch mit Pilzen füllen: Dafür 130 g Champignon
 *Für die Puffer:*
 2 Eier
 50 g Mehl
-
 100 ml Milch
 50 g geriebener Parmesan
 50 g Schnittlauch
@@ -492,7 +468,6 @@ Salz, Pfeffer
 2 Frühlingszwiebeln
 
 2-3 EL Weißweinessig
-
 4 EL Olivenöl
 Salz, Pfeffer
 
@@ -546,7 +521,6 @@ Salz, Pfeffer
 
 2,5 EL Sonnenblumenöl
 2 TL Sherry-Essig
-
 400 g Fleischtomaten, in 2 mm dicke Scheiben geschnitten
 
 ¼ grüne Chilischoten, entkernt und fein gehackt
@@ -581,7 +555,6 @@ Salz
 1 EL neutrales Öl
 
 ½ TL Kümmelsamen
-
 4 Eier
 200 g Sahne
 200 ml Milch
@@ -604,7 +577,6 @@ Geriebene Muskatnuss
 100 g Butter
 
 ½ TL Salz
-
 5 EL Wasser
 
 200g gekochten Schinken oder Speck
@@ -660,7 +632,6 @@ Salz, Pfeffer
 3-4 Zwiebeln
 1 großes Bund gemischte Kräuter, je nach Jahreszeit
 3 Knoblauchzehen
-
 4 Eier
 200 g frisch geriebener Gruyère
 200 g Sahne
@@ -682,7 +653,6 @@ Salz, Pfeffer
 
 ½ TL Backpulver
 100 g Quark
-
 4 EL Öl
 1 Eigelb
 
@@ -692,9 +662,7 @@ Salz, Pfeffer
 200 g gekochter Schinken
 40 g Zwiebeln
 150 g Gouda
-
 4 Eier
-
 150 ml Milch
 
 Pfeffer, Muskatnuss
@@ -707,13 +675,11 @@ Pfeffer, Muskatnuss
 
 ## Tomaten-Thymian-Quiche 
 ### Zutaten (für 1 Quiche)
-
 190 g Mehl
 125 g Butter, in Stücke geschnitten
 1 Eigelb
 2 – 3 EL Wasser
 1 Dose Tomaten
-
 4 Eier
 300 g saure Sahne
 35 g Parmesan, gerieben
@@ -734,7 +700,6 @@ Pfeffer
 ### Zutaten (für 8 kleine Quiches)
 
 *Für den Teig:*
-
 190 g Mehl
 125 g Doppelrahmkäse, in Stücke geschnitten
 125 g Butter, in Stücke geschnitten
@@ -745,7 +710,6 @@ Pfeffer
 3 Knoblauchzehen, zerdrückt
 1 TL Currypulver
 3 Eier
-
 125 ml Sahne
 325 g Kürbis
 2 TL Kreuzkümmel
@@ -782,13 +746,11 @@ Pfeffer
 ## Mini-Quiche-Lorraines
 ### Zutaten für 24 Stück
 3 Fertig-Mürbeteig, ausgerollt
-
 60 g Gruyère, gerieben
 30 g Butter
 2 Scheiben Frühstück, feingewürfelt
 1 Zwiebel, feingewürfelt
 2 Eier
-
 185 ml Sahne
 
 ½ TL Muskatnuss, gerieben
@@ -808,16 +770,13 @@ Tipp:	Kann man mit allerlei Zutaten machen und verschiedenste Beläge kreieren, 
 ### Zutaten (für eine feuerfeste Form mit 28 – 30 cm Durchmesser, 4 Portionen)
 1 kg frischer Blattspinat
 1 Bund Frühlingszwiebeln (etwa 200g)
-
 4 EL Olivenöl
 2 Bund Dill
 200 g Feta
 
 Pfeffer, Salz
 2 Eier
-
 125 ml Milch 
-
 80 g Butter
 3 Yufka-Teigblätter oder Blätterteig
 
@@ -887,9 +846,7 @@ Salz, Pfeffer
 ## Kretische Pastetchen – Pittes kritis 
 ### Zutaten (für 4 Portionen oder 10 Stück)
 1 Paket TK-Blätterteig (350 g)
-
 400 g frischer Mangold
-
 400 g frischer Spinat
 
 4 Zweige Fenchelgrün
@@ -914,11 +871,9 @@ Diese Pasteten habe ich schon oft gemacht. Kamen immer gut an, auch noch am näc
 
 ## Zucchini-Pastete - Kolokíhobouriko
 ### Zutaten (für eine Springform) 
-
 800 g Zucchini
 3 EL Mehl
 2 Yufka-Teigblätter
-
 8 EL Olivenöl
 200 g Feta
 
@@ -939,13 +894,11 @@ Pfeffer
 ### Zutaten (für 28 Stück)
 
 ½ Paket Filo-Teigblätter
-
 80 g Butter zum einpinseln der Teigblätter und für das Backblech
 
 *Für die Füllung:*
 20 g Butter
 1 EL Mehl
-
 4 EL Milch
 100 g Schlagsahne
 150 g Feta
@@ -970,12 +923,10 @@ Muskatnuss, frisch gerieben
 ### Zutaten (für 6 Stück)
 40 g Butter
 2 Knoblauchzehen, zerdrückt
-
 500 g kleine Champignons, in Scheiben geschnitten
 1 kleine rote Paprikaschote, fein gehackt
 150 g saure Sahne
 3 TL Körnersenf
-
 60 g geriebener Greyerzer, Cheddar oder mittelalter Gouda
 1 kg Blätterteig, ausgerollt
 1 Ei, leicht verquirlt
@@ -1000,7 +951,6 @@ Muskatnuss, frisch gerieben
 2 große Zwiebeln, feingehackt
 1 EL feingehackter Koriander
 1 EL geriebener Ingwer
-
 250 ml Wasser
 1 Dose Wasserkastanien (230 g) abgetropft und in Scheiben geschnitten
 1 EL Miso
@@ -1020,7 +970,6 @@ Pfeffer
 ## Champignon-Walnuss- Samosas-– Masaruma akharota samose 
 ### Zutaten (für 18-22 Stück):
 150 g Walnusskerne
-
 750 g braune Champignons geputzt
 2 EL Rapsöl
 1 TL schwarze Senfsamen
@@ -1059,7 +1008,6 @@ Schwarzkümmelsamen oder Kreuzkümmelsamen zum Garnieren
 
 ## Samosas mit Lauch, Erbsen und Minze – Hara pyaz, matar, pudina ke samose
 ### Zutaten (für 18 – 22 Stück)
-
 750 g Lauch, gewaschen und äußere Blätter entfernt
 2 EL Rapsöl
 1 EL Butter
@@ -1115,7 +1063,6 @@ Dinah hat die Samosas immer im Wok frittiert. Und ihr saßt mit etwas Abstand au
 
 *Für die Füllung:*
 2 große Kartoffeln
-
 80 g Erbsen (frisch oder TK)
 2 EL Sonnenblumenöl
 
@@ -1173,7 +1120,6 @@ Salz
 
 *Für den Teig:*
 300 g Weizenmehl
-
 4 EL Ghee oder Butterschmalz
 
 ¼ TL Thymiansamen
@@ -1197,7 +1143,6 @@ Tipp:	Man kann die Füllung auch mit anderem Gemüse oder auch mit Hackfleisch m
 ## Samosas Variante 3 
 ### Zutaten (für 24 Stück)
 2 Kartoffeln, geschält
-
 80 g Erbsen, tiefgefroren
 3 EL Rosinen
 2 EL Koriandergrün, gehackt
@@ -1229,7 +1174,6 @@ Dazu passt Minzsauce. Dazu 125 g Naturjoghurt, 125 ml Buttermilch, 3 EL frische 
 2 EL Öl
 1 Zwiebel, feingehackt
 2 TL frischer Ingwer, feingehackt
-
 400 g Rinderhack
 1 EL Currypulver
 1 Tomate, geschält und gewürfelt
@@ -1270,10 +1214,8 @@ Dazu passt Minzsauce. Dazu 125 g Naturjoghurt, 125 ml Buttermilch, 3 EL frische 
 1 TL Madras Currypulver
 
 ½ TL Garam Masala
-
 500 g festkochende Kartoffeln, feingewürfelt
 30 g Sultaninen (oder auch nicht)
-
 80 g TK-Erbsen
 15 g frische Korianderblätter
 3 Frühlingszwiebeln, in Scheiben geschnitten
@@ -1284,7 +1226,6 @@ Dazu passt Minzsauce. Dazu 125 g Naturjoghurt, 125 ml Buttermilch, 3 EL frische 
 Fester Naturjoghurt zum Servieren
 
 *Für den Samosa-Teig*
-
 450 g Mehl
 1 TL Backpulver
 100 g Butter, zerlassen
@@ -1308,7 +1249,6 @@ Info:	Erinnert ihr euch, wie ihr in Kampala auf der Kochinsel saßt und Dinah w�
 ¼ TL Salz
 
 *Für die Chilisauce:*
-
 4 EL dunkle Sojasauce
 1 ½ TL Chiliflocken
 2 TL Weißweinessig
@@ -1341,7 +1281,6 @@ Tipp:	Wenn man keinen Mixer hat, das Gemüse einfach sehr klein hacken.
 ## Saltenas
 ### Zutaten (für 4 Portionen)
 3 Tassen Mehl
-
 8 EL Schweineschmalz (warm)
 1 TL Salz
 1 TL Zucker
@@ -1349,7 +1288,6 @@ Tipp:	Wenn man keinen Mixer hat, das Gemüse einfach sehr klein hacken.
 2 TL Backpulver
 
 *Für die Füllung*
-
 500 g Hackfleisch
 3 EL Öl
 
@@ -1378,7 +1316,6 @@ Salz, schwarzer Pfeffer aus der Mühle
 
 Mehl zum Ausrollen
 1 kleine Dose Thunfisch au naturel (etwa 70g)
-
 60 g Mozzarella
 
 ### Zubereitungszeit
@@ -1399,15 +1336,12 @@ Tipp:	Die Pizza-Häppchen können am Morgen zubereitet werden und vor dem Servie
 
 2,5 TL Backpulver
 40 g Butter, zerkleinert
-
 125 ml Milch
-
 4 EL Tomatenpüree
 2 kleine Zwiebeln, feingehackt
 
 4 Ananasscheiben, feingehackt
 200 g Schinkenaufschnitt, kleingeschnitten
-
 80 g Cheddar, gerieben
 2 EL Petersilie, feingehackt
 
@@ -1420,11 +1354,9 @@ Tipp:	Die Pizza-Häppchen können am Morgen zubereitet werden und vor dem Servie
 
 ## Mini-Pizza – Pizzaboden
 ### Zutaten (für 25 Stück):
-
 7 g Trockenhefe
 
 ½ TL Zucker
-
 185 ml warmes Wasser
 250 g Mehl
 
@@ -1439,7 +1371,6 @@ Tipp:	Die Pizza-Häppchen können am Morgen zubereitet werden und vor dem Servie
 ## Thai-Pizza
 ### Zutaten
 *Für den Pizzateig*
-
 400 g Mehl
 200 ml Wasser 1 Würfel Hefe
 1 EL Olivenöl
@@ -1468,13 +1399,10 @@ Mozzarella, Knoblauch, Tintenfisch (hihi), Peperoncini, Frühlingslauch, Garnele
 
 ## Pizzateig (Schnelle Variante)
 ### Zutaten (für ca. 800 g Teig (ca. 2 – 3 Pizza à 35 cm Durchmesser))
-
 500 g Mehl
 
 Mehl für die Arbeitsfläche
-
 8 g Trockenhefe oder 20 g frische Hefe
-
 250 ml lauwarmes Wasser
 1 TL Salz, 1 EL Olivenöl
 
@@ -1506,12 +1434,10 @@ handwarmes Wasser nach Bedarf
 
 ## Pizzateig (langsamere Variante)
 ### Zutaten (für ca. 900 g Teig)
-
 500 g Mehl
 
 Mehl für die Arbeitsfläche
 350 ml lauwarmes Wasser
-
 4 g Trockenhefe
 1 TL Salz
 1 EL Olivenöl
@@ -1549,7 +1475,6 @@ Ich meine die Pizza ist in der Pizzeria Bra, die Simon für uns entdeckt hat, wa
 
 ## Gefüllte Pizzataschen
 ### Zutaten (für 4 Portionen)
-
 400 g Pizzateig
 
 Olivenöl
@@ -1583,7 +1508,6 @@ Salz, Pfeffer, Chiliflocken, etwas Wasser
 
 Eventuell 1 TL frischer Oregano (oder ½ TL getrockneter)
 100 g frisch geriebener Pecorino
-
 4 EL Olivenöl
 1 Prise Zucker, Salz, Pfeffer aus der Mühle
 
@@ -1608,9 +1532,7 @@ Eventuell 1 TL frischer Oregano (oder ½ TL getrockneter)
 ½ Bund Basilikum
 150 g Mozzarella
 2 EL frisch geriebener Pecorino (oder Parmesan)
-
 400 g geschälte Tomaten (aus der Dose)
-
 4 EL Olivenöl, 1 Prise Zucker, Salz, Pfeffer aus der Mühle
 
 ### Zubereitungszeit
@@ -1626,10 +1548,8 @@ Eventuell 1 TL frischer Oregano (oder ½ TL getrockneter)
 
 ## Flammkuchen in vier Variationen
 ### Zutaten (für 4 Personen)
-
 500 g Mehl
 30 g frische Hefe
-
 250 ml Wasser (lauwarm)
 1 TL Zucker
 1 TL Salz
@@ -1663,7 +1583,6 @@ Tipp:	Am besten auf einem Pizzastein backen. Flammkuchen sollten ganz dünn ausg
 ½ TL Zucker
 300 g Mehl
 Salz
-
 5 EL Öl
 
 *Für den Belag:*
@@ -1671,7 +1590,6 @@ Salz
 4 Feigen
 1 Bund Thymian
 100 g Ziegenkäserolle
-
 60 g Parmaschinken
 1 Bund Rucola
 100 g Bacon
@@ -1698,7 +1616,6 @@ Salz, Pfeffer
 ` `1 TL Zucker
 300 g Mehl und Mehl zum Bearbeiten
 Salz
-
 5 EL Olivenöl
 
 *Für das Gewürzöl:*
@@ -1741,7 +1658,6 @@ Pfeffer
 20 g frische Hefe
 
 ½ TL Salz
-
 8 EL Olivenöl
 2 TL Akazienhonig
 
@@ -1763,13 +1679,10 @@ Fleur de Sel, Pfeffer
 
 ## Focaccia
 ### Zutaten (für einen flachen Laib)
-
 7 g Trockenhefe
-
 250 ml warmes Wasser
 1 TL feiner Zucker
 2 EL Olivenöl
-
 400 g Weizenmehl
 1 EL Vollmilchpulver (oder Milch)
 
@@ -1811,7 +1724,6 @@ Salz, 1 TL Fleur de Sel
 1 EL getrockneter Majoran
 1 EL getrockneter Oregano
 1 EL gemahlener Sumach
-
 100 ml Olivenöl
 
 ### Zubereitungszeit
@@ -1828,15 +1740,12 @@ Salz, 1 TL Fleur de Sel
 15 g frische Hefe
 300 ml lauwarmes Wasser
 1 TL Zucker
-
 500 g Mehl
 1 TL Olivenöl
 
 Außerdem:
 100 g Zucker
-
 8 EL Olivenöl (plus etwas mehr zum Fetten des Backblechs)
-
 800 g kleine dunkle Trauben
 6 Zweige Thymian
 
@@ -1856,7 +1765,6 @@ Außerdem:
 ½ Focaccia (siehe dort das Rezept)
 
 6-8 Feigen
-
 400 g kräftigen Käse
 Salz, Pfeffer
 
@@ -1868,14 +1776,12 @@ Zubereitungszeit 20 Minuten plus 4 Minuten Garzeit
 
 ## Dünne Focaccia
 ### Zutaten (für 4 – 6 Portionen)
-
 500 g Mehl
 Salz
 20 g frische Hefe
 
 Zucker
-
-8 El Olivenöl
+8 EL Olivenöl
 1 Zweig Rosmarin
 200 g Tomaten
 125 g Mozzarella
@@ -1893,12 +1799,10 @@ Zucker
 
 ## Oliven Focaccia
 ### Zutaten (für 2 Fladen)
-
 500 g Mehl
 
 ½ Würfel frische Hefe
 2 EL frische Rosmarinnadeln
-
 4 EL Olivenöl
 
 Grobes Meersalz
@@ -1917,10 +1821,8 @@ Grobes Meersalz
 250 g Brotteig (für toskanisches Brot)
 150 g Mehl
 120 g frischer Pecorino
-
 80 g Parmesan
 6 Eier
-
 100 ml Olivenöl
 Salz, etwas Butter
 
@@ -1954,11 +1856,8 @@ Tipp:	Traditionell wird die Focaccia im Holzofen gebacken. Aber das klappt zuhau
 
 ## Focaccia mit Trauben
 ### Zutaten (für 8 Portionen)
-
 450 g Pizzateig
-
 500 g kernlose blaue Weintrauben
-
 80 g Zucker
 
 Olivenöl
@@ -1975,7 +1874,6 @@ Info:	Und das wäre eine Kombi mit Obst.
 
 ## Focaccia mit Kirschtomaten
 ### Zutaten (für 8 Portionen)
-
 450 g Pizzateig
 300 g Kirschtomaten
 2 Knoblauchzehen
@@ -1998,7 +1896,6 @@ Info:	Da wäre dann also Gemüse dabei 😊
 
 ## Ligurische Focaccia mit Frischkäse
 ### Zutaten (für 4 – 6 Portionen)
-
 350 g Pizzateig
 300 g Frischkäse (gerne italienischer z.B. Crescenza, Stracchino) oder Ricotta oder Quark oder Schichtkäse
 Salz, frisch gemahlener Pfeffer
@@ -2019,11 +1916,8 @@ Tipp:	Den Focacciateig kann man auch auf bemehltem Backpapier zubereiten und ers
 ## Mini-Focaccias aus Kartoffeln
 ### Zutaten (für 6 – 8 Portionen)
 200 g Kartoffeln, mehlig kochend
-
 25 g frische Hefe
-
 100 ml lauwarmes Wasser
-
 600 g Mehl
 
 Meersalz, Olivenöl
@@ -2043,7 +1937,6 @@ Tipp:	Also das mit dem Pastis ist eine gute Kombi. Fast wie Urlaub.
 
 ## Mini-Focaccias mit Ofentomaten und Frühlingszwiebeln
 ### Zutaten (für 8 Portionen)
-
 450 g Pizzateig
 
 Etwas Mehl
@@ -2077,10 +1970,8 @@ Meersalz
 150 g gemischte Wildkräuter
 
 Kalt gepresstes Haselnussöl (muss aber wirklich nicht)
-
 350 g Ricotta
 3 EL Saure Sahne
-
 60 g Haselnüsse
 
 ### Zubereitungszeit
@@ -2121,7 +2012,6 @@ Man könnte natürlich auch Blätterteig mit Birne sagen, aber Feuilleté hört 
 ### Zutaten (für 10-12 Portionen)
 
 Körner von 2 kleinen Maiskolben (150 g), oder TK-Mais
-
 140 g Mehl
 1 TL Backpulver
 
@@ -2130,10 +2020,8 @@ Körner von 2 kleinen Maiskolben (150 g), oder TK-Mais
 1 TL Cayennepfeffer
 50 g Zucker
 180 g Polenta
-
 360 g saure Sahne
 2 große Eier
-
 9 EL Olivenöl
 
 4 Frühlingszwiebeln, grob gehackt
@@ -2161,7 +2049,6 @@ Dazu passt natürlich Avocadocreme oder -salat etc. super.
 ## Avocadabutter und Tomatensalsa auf geröstetem Brot
 ### Zutaten (für 4 Portionen als kleine Mahlzeit)
 2 – 3 sehr reife Avocados mit Zimmertemperatur, Fruchtfleisch ausgelöst
-
 60 g weiche Butter, in 2 cm große Würfel geschnitten
 3 Biolimetten, 1,5 EL Schale abgerieben, dann 1,5 EL Saft ausgepresst
 10 g Estragonblätter, grob gehackt
@@ -2191,11 +2078,8 @@ Info:	Die Ökobilanz der Avocado ist natürlich verheerend. Schmeckt aber trotzd
 
 1,5 TL Kreuzkümmel
 2 Scheiben Weißbrot, zu feinen Bröseln zerkleinert
-
 25 g Walnusskerne, geröstet und grob gehackt
-
 8 Eier, verquirlt
-
 4 EL Sonnenblumenöl zum Braten
 Salz
 
@@ -2209,7 +2093,6 @@ Tipp: 	Für diese Pfuffer kann man gut den Kühlschrank plündern und alle Kräu
 
 ## Zucchini-Ciabatta-Frittata
 ### Zutaten (für 6 Portionen)
-
 500 g Ciabatta, entrindet und grob in Stücke gezupft
 200 ml Milch
 200 g Sahne
@@ -2218,7 +2101,6 @@ Tipp: 	Für diese Pfuffer kann man gut den Kühlschrank plündern und alle Kräu
 
 ¾ TL gemahlener Kreuzkümmel
 2 Zucchini, geraspelt (430 g)
-
 25 g Basilikumblätter in Stücke gezupft
 2 EL Olivenöl
 Salz, Pfeffer
@@ -2236,7 +2118,6 @@ Salz, Pfeffer
 2 Zwiebeln, in dünne Ringe geschnitten
 
 1,5 EL Harissa
-
 700 g Seidentofu, abgetropft
 6 Scheiben Sauerteigbrot, geröstet
 Salz
@@ -2291,7 +2172,6 @@ Tipp:	Man kann den Bärlauch im Wald oder im Garten selber sammeln. Man sollte d
 ## Akoori
 ### Zutaten (für 4 Portionen)
 1 TL Kreuzkümmelsamen
-
 8 Eier
 30 g Butter
 2 rote Zwiebeln, fein gehackt
@@ -2318,14 +2198,11 @@ Info:	Dies ist Rührei nach Parsen-Art. Die Parsen erreichten Indien im Jahr 936
 *Für die Egg-Hoppers:*
 2 TL Trockenhefe
 1 ½ TL Zucker
-
 110 g Mehl, mit 1 gestrichenem TL Backpulver vermischt
-
 170 g Reismehl
 1 TL Salz
 
 Rapsöl
-
 8 Eier
 1 Limette, in 8 Spalten geschnitten
 1 Handvoll Koriandergrün
@@ -2333,12 +2210,10 @@ Rapsöl
 *Für das Zwiebel-Sambol:*
 
 4 Kardamomkapseln
-
 4 EL Rapsöl
 
 4 Gewürznelken
 1 Zimtstange (4 cm)
-
 500 g rote Zwiebeln, fein gehackt
 1 TL Salz
 1 ½ TL Cayennepfeffer
@@ -2383,13 +2258,11 @@ Salz, Pfeffer
 1 große Zwiebel, in dünne Ringe geschnitten
 
 12 große Eier, verquirlt
-
 100 ml Milch
 
 5,5 EL Harissa
 2 TL Schwarzkümmelsamen
 15 g Koriandergrün, grob gehackt
-
 110 g Manchego-Käse, grob geraspelt
 2 Limetten, halbiert zum Servieren
 Salz, Pfeffer
@@ -2403,10 +2276,8 @@ Salz, Pfeffer
 
 ## Omelettes provencales
 ### Zutaten für ein Grundrezept mit 4 Portionen
-
 8 Eier
 2 EL Milch
-
 4 EL Olivenöl
 Salz, Pfeffer
 
@@ -2418,15 +2289,12 @@ Salz, Pfeffer
 1. Die Omelettes mit Hilfe eines Topfdeckelns oder eines Pfannenwenders umdrehen und nach echt provencalischer Art auch auf der anderen Seite kurz braten. Die Omelette auf eine vorgewärmte Platte gleiten lassen und servieren.
 
 Mit Zwiebeln:
-
 500 g Zwiebelwürfel in 4 El Olivenöl bei milder Hitze etwa 1 Stunde garen, mit Salz und Pfeffer würzen. Die Zwiebeln aus der Pfanne nehmen, das Öl abtropfen lassen, in die Pfanne zurückgießen. Die Zwiebeln mit der Eimasse mischen. Wie oben fertig braten.
 
 Mit Spinat:
-
 500 g Spinat putzen, waschen und blanchieren. Abgetropft in 2 EL Olivenöl 5 Minuten andünsten. 2 Knoblauchzehen und je 3 Stängel Petersilie und Basilikum fein hacken. Alles mit 4 EL Gruyère unter die Eimasse mischen. Wie oben fertig braten.
 
 Mit Tomaten:
-
 4 Tomaten waschen, abtrocknen, in Scheiben schneiden, Kerne herausdrücken. 2 EL Olivenöl in der Pfanne erhitzen, die Tomaten anbraten. Die nach dem Grundrezept aufgeschlagenen und gewürzten Eier dazugeben. Wie oben fertig braten.
 
 Mit Speck:
@@ -2458,10 +2326,8 @@ Tipp:	Man könnte auch noch Champignons und Zwiebeln dazugeben.
 
 ## Omelettes
 ### Zutaten (für 4 Portionen (Grundrezept)
-
 8 Eier
 2 EL Milch
-
 4 EL Olivenöl (oder je 2 EL Oliven- und Erdnussöl)
 Salz, Pfeffer aus der Mühle
 
@@ -2489,7 +2355,6 @@ Oder mit Paprika.
 1 rote Chilischote
 2 EL entsteinte grüne Oliven
 100 g Cocktailtomaten
-
 4 Eier 
 2 EL Sahne
 Salz
@@ -2534,7 +2399,6 @@ Tipp:	In Papier verpackt ist es auch ein gutes Frühstück für unterwegs.
 2 gute Handvoll frischer (oder aufgetauter) Spinat
 
 Blätter von 2 Zweigen frischen Thymian, fein gehackt
-
 4 Eier
 2 EL Pinienkerne, leicht geröstet
 100 g Ziegenkäse (oder Schafskäse), zerkrümelt
@@ -2554,14 +2418,11 @@ Pfeffer, Salz
 
 ## Riesenchampignons mit Brioche und pochiertem Ei
 ### Zutaten (für 4 Portionen):
-
 400 g Riesenchampignons, in 1 cm dicke Scheiben geschnitten
-
 5 EL Olivenöl
 2 Knoblauchzehen, zerdrückt
 
 ½ TL gemahlener Zimt
-
 5 g Basilikumblätter, in Stücke gezupft
 
 1/8 TL Chiliflocken, plus etwas zum Servieren
@@ -2687,7 +2548,6 @@ Tipp:	 Ohne Mehl geht natürlich. Muss aber nicht 😊
 ½ TL Backpulver
 
 ½ TL Natron (muss nicht)
-
 175 ml Milch
 50 g Quark (20 oder 40 % Fett)
 1 Ei
@@ -2729,20 +2589,16 @@ Pancakes zum Frühstück kommen immer gut.
 
 ## Granola Variante 2 
 ### Zutaten (für 1 großes Vorratsglas)
-
 400 g Haferflocken (Kleinblatt)
 100 g geraspelte Kokosnuss
 200 g ganze ungeschälte Mandeln
-
 4 EL Sonnenblumenkerne
 3 EL Sesamsamen
 2 TL Zimt
 1 TL gemahlener Ingwer
 
 ½ TL Salz
-
 150 ml Ahornsirup
-
 100 ml Pflanzenöl (z.B. Sonnenblumen oder Erdnussöl)
 150 g Rosinen oder getrocknete Cranberrys
 
@@ -2760,9 +2616,7 @@ Man könnte ja mal testen, welches dieser Granolarezepte nun wirklich am besten 
 1 ½ TL Backpulver
 
 ½ TL Salz
-
 60 g kalte Butter
-
 140 ml Milch
 
 ### Zubereitungszeit
@@ -2785,7 +2639,6 @@ Tipp:	Eigentlich eher etwas für die klassische englische Teatime😊
 ½ TL Natron (muss nicht)
 1 TL Salz
 125 g Butter
-
 250 ml Naturjoghurt
 2 Äpfel, samt Schale grob gerieben (ergibt etwa 175 g), überschüssigen Saft leicht herausdrücken
 
@@ -2820,7 +2673,6 @@ ca. 400 ml Milch
 ### Zutaten
 150 g Amaranthsamen (geht alles auch mit zarten Haferflocken)
 1 Prise Salz
-
 120 ml Milch
 1 EL Kokosfett
 
@@ -2828,7 +2680,6 @@ ca. 400 ml Milch
 1 EL Ahornsirup
 
 *Zum Anrichten:*
-
 4 EL Kokosflocken
 
 ½ TL Zimt
@@ -2844,11 +2695,9 @@ Tipp:	Amaranth ist ein feinkörniger, an Hirse erinnernder Samen des Gartenfuchs
 
 ## Haferflocken im Glas
 ### Zutaten (für das Grundrezept):
-
 60 g Haferflocken
 1 Prise süßes Pulver (Vanille, Zimt Kardamon, oder eine Mischung daraus)
 1 EL samen (Chia-, Lein-, Sesamsamen etc.)
-
 175 ml Milch
 
 ### Zubereitung
@@ -2856,11 +2705,9 @@ Tipp:	Amaranth ist ein feinkörniger, an Hirse erinnernder Samen des Gartenfuchs
 Alle trockenen Zutaten in ein kleinen Weckglas geben, mit der Flüssigkeit übergießen, verrühren und das Glas mit einem Deckel verschließen. Für ein paar Stunden oder über Nacht in den Kühlschrank stellen. Diese Grundmischung hält sich gekühlt ca. 3-5 Tage.
 
 *Variante: Blaubeere, Vanille und Chia*
-
 60 g Haferflocken
 1 Prise Vanillepulver oder ein paar Tropfen Vanilleextrakt
 1 EL Chiasamen
-
 175 ml Milch
 2 EL frische oder TK-Blaubeeren
 
@@ -2871,9 +2718,7 @@ Haferflocken, Vanille und Chiasamen in ein kleines Weckglas geben und mit der Mi
 \*
 
 *Variante: Erdnussbutter, Banane und Himbeeren*
-
 60 g Haferflocken
-
 175 ml Milch
 
 ½ Banane, zerdrückt
@@ -2885,13 +2730,11 @@ Haferflocken, Vanille und Chiasamen in ein kleines Weckglas geben und mit der Mi
 Die Haferflocken in ein kleines Weckglas geben, mit Milch übergießen und umrühren. Die Banane und die Erdnussbutter sorgfältig untermengen und die Mischung mit Himbeeren bedecken. Das Glas verschließen und für ein paar Stunden oder über Nacht in den Kühlschrank stellen.
 
 *Variante: Kakao, Chia und Banane*
-
 60 g Haferflocken
 1 TL Chiasamen
 1 EL Kakao
 
 ½ Banane, zerdrückt
-
 175 ml Milch
 
 ### Zubereitung
@@ -2900,10 +2743,8 @@ Alle trockenen Zutaten in ein Weckglas geben. Die zerdrückte Banane hinzufügen
 
 *Variante: Orange, Leinsamen und Kokos*
 2 EL Leinsamen
-
 60 g Haferflocken
 1 Prise gemahlene Vanille (oder ein paar Tropfen Vanilleextrakt)
-
 175 ml Orangensaft
 1 EL Kokosflocken, geröstet
 
@@ -2917,7 +2758,6 @@ Tipp:	In leere Honiggläser gefüllt, lässt sich das gut als gehaltvolles Früh
 ### Zutaten (für 2 Portionen):
 
 *Für den Pudding:*
-
 400 ml Mandel/Hafermilch
 50 g Ciasamen
 
@@ -2949,23 +2789,18 @@ Tipp:	Mut einer zusätzlich ½ zerquetschten Banane in der Chiamischung wird der
 
 ## Knuspriger Brombeer-Haferflocken-Auflauf
 ### Zutaten (für 4-6 Portionen)
-
 400 g frische Brombeeren (aufgetaut, wenn TK-Brombeeren)
-
 175 g Haferflocken
 1 TL Backpulver
 
 ½ TL gemahlener Ingwer oder 1 TL frischer Ingwer
 1 Prise Meersalz
 2 Eier
-
 500 ml Milch (geht auch Mandelmilch etc.)
 1 TL reines Vanille-Aroma
 60 ml Apfelsirup oder flüssiger Honig, Ahorn- oder Agavensirup. (Ahornsirup ist der leckerste)
 1 EL Kokosfett (Zimmertemperatur) zusätzlich ein wenig zum Einfetten der Pfanne
-
 80 g Kürbiskerne
-
 80 g Haselnüsse
 
 ### Zubereitungszeit
@@ -3069,7 +2904,6 @@ Info:	Dieser Salat kommt dem echten griechischen Salat am nächsten 😊
 Salz
 
 Schwarzer Pfeffer aus der Mühle
-
 5 EL Olivenöl
 
 150g Feta 
@@ -3084,13 +2918,11 @@ Schwarzer Pfeffer aus der Mühle
 
 ## Bauernsalat - Choriátiki salàta
 ### Zutaten (für 4 Portionen)
-
 400 g mittelgroße Tomaten
 1 Salatgurke
 250 g große rote Zwiebeln
 300 g mittelgroße grüne Paprikaschoten
 100 g schwarze Oliven
-
 4 EL Olivenöl
 3 EL Weinessig
 Salz
@@ -3111,12 +2943,10 @@ Zubereitungszeit; 20 Minuten
 
 ## Tomaten-Pflaumen-Salat
 ### Zutaten (für 6 Portionen)
-
 800 g Tomaten (unterschiedliche Sorten und Farben), in 1 cm breite Spalten geschnitten
 3 reife Pflaumen, entsteint und in 1 cm breite Spalten geschnitten
 
 4 Frühlingszwiebeln, in feine Steifen geschnitten
-
 5 g Korianderblätter, grob gehackt
 
 Meersalzflocken
@@ -3127,7 +2957,6 @@ Meersalzflocken
 2 EL Reisessig
 2 TL Sojasauce
 2 EL Erdnussöl
-
 5 g Ingwer, geschält und in feine Streifen geschnitten
 
 ½ Knoblauchzehe, zerdrückt
@@ -3154,7 +2983,6 @@ Tipp:	 Wenn man keine Pflaumen hat, einfach mehr Tomaten verwenden. Passt auch.
 
 Rapsöl
 1 Dose Kichererbsen, abgetropft
-
 500 g reife kleine Tomaten, geviertelt
 6 Frühlingszwiebeln, fein gehackt
 2 EL Butter
@@ -3183,7 +3011,6 @@ Je 2 Zweige Rosmarin, Thymian und Oregano
 Zucker, Meersalz
 1 TL abgeriebene Schale einer unbehandelten Zitrone
 250 g frische, weiße Bohnenkerne (oder über Nacht eingeweichte getrocknete Bohnenkerne)
-
 400 ml Gemüsefond
 1 Schalotte
 3 EL Balsamicoessig
@@ -3211,9 +3038,7 @@ Man kann natürlich auch einen ganz stinknormalen Tomatensalat machen. Schmeckt 
 *Für den Krokant:*
 50 g Wasser
 50 g Zucker
-
 5 g Salz
-
 500 g Mandeln (gehobelt)
 
 Öl
@@ -3223,7 +3048,6 @@ Man kann natürlich auch einen ganz stinknormalen Tomatensalat machen. Schmeckt 
 20 g Holunderblütensirup
 15 g Dijon-Senf
 10 g Salz
-
 25 g Zitronensaft
 40 g Traubenkernöl
 30 g Olivenöl
@@ -3264,11 +3088,9 @@ Wenn es duftet, sagt mein innerer Kalender: jetzt ist Sommer. Holunder oder in S
 
 1,5 EL Sumach
 2 TL Weißweinessig
-
 700 g Tomaten (am besten verschiedene Größen und Farben)
 2 EL Olivenöl
 15 g Basilikumblätter
-
 25 g Pinienkerne, geröstet
 Salz, Pfeffer
 
@@ -3292,7 +3114,6 @@ Sehr lecker 😊
 2 EL Zitronensaft
 3 EL Olivenöl
 200 g Feta, in 4 Bläcke geschnitten (wenn man will)
-
 4 EL Tahin (Sesampaste)
 2 TL Za´atar
 Salz
@@ -3332,12 +3153,10 @@ Abgeriebene Schale einer Bio-Zitrone
 
 ## Tomaten-Mozzarella-Salat mit Pfifferlingen
 ### Zutaten (für 4 Personen)
-
 4 EL Aceto balsamico
 Salz
 
 Pfeffer aus der Mühle
-
 5 EL Olivenöl
 150 g kleine Pfifferlinge (Obacht: oft atomar verstrahlt, besser andere Pilze, Zuchtpilze nehmen)
 2 Stiele Basilikum
@@ -3361,11 +3180,9 @@ Tipp:	Da sich Pilze bei Kontakt mit Wasser wie ein Schwamm vollsaugen, sollte ma
 1 Knoblauchzehe
 
 4 Stiele Thymian
-
 4 EL Weißweinessig
 Salz, Pfeffer
 2 EL Zitronensaft
-
 10 EL Olivenöl
 
 Zucker
@@ -3459,7 +3276,6 @@ Kerne von 1 Granatapfel
 ## Quinoa-Salat
 ### Zutaten (für 4 Portionen)
 180 g Quinoa
-
 480 ml Wasser
 1 Stängel Zitronengras
 
@@ -3473,7 +3289,6 @@ Salz
 1 kleine rote Zwiebel
 
 Saft von 1 Limette
-
 4 EL Kokosmilch
 3 EL ungesalzene Erdnüsse
 
@@ -3519,7 +3334,6 @@ Wer will noch Parmesan frisch gehobelt
 Etwa ½ Kopf Eichblattsalat
 1 kleiner Radicchio
 2 EL milder Rotweinessig
-
 5 EL Olivenöl
 Salz, Pfeffer
 1 Knoblauchzehe
@@ -3547,7 +3361,6 @@ Ist übrigens unser Salat für Gäste 😊
 
 1,5 EL Ahornsirup
 10 g Minzeblätter
-
 5 g Dill, grob gehackt
 
 8 getrocknete Aprikosen, in feine Scheiben geschnitten
@@ -3558,7 +3371,6 @@ Salz, Pfeffer
 40 g getrocknete Aprikosen
 1 TL Ahornsirup
 2 TL Sumach
-
 45 ml Limettensaft
 
 ¾ TL Chiliflocken
@@ -3585,11 +3397,9 @@ Info:	Der Salat eignet sich gut für ein vegetarisches Buffet, aber auch als Bei
 1,5 TL Za’atar
 1 Schalotte, längs halbiert und in feine Scheiben geschnitten
 1 große Salatgurke, längs halbiert, entkernt und schräg in 5 mm dicke Scheiben geschnitten
-
 60 g Feldsalat
 10 g Dill, grob gehackt
 10 g Basilikumblätter
-
 5 g Minzeblätter
 Salz
 
@@ -3610,9 +3420,7 @@ Salz
 100 g ungesalzene Erdnüsse
 
 *Für das Dressing:*
-
 4 EL Neutrales Öl
-
 4 EL Limettensaft
 
 4 TL Reisessig
@@ -3644,7 +3452,6 @@ Salz
 
 ## Salat aus Gurke und Melone
 ### Zutaten (für 2 Portionen):
-
 4 EL Olivenöl
 2 EL Essig (Weißwein, Sherry)
 1 TL gemahlener Koriander
@@ -3674,7 +3481,6 @@ Honig- und Galiamelone dürften in diesem Salat genauso gut schmecken, und man k
 20 g Korianderbrätter
 
 4 Chilischoten, in feine ringe geschnitten
-
 90 ml Limettensaft
 200 ml Olivenöl
 
@@ -3770,7 +3576,6 @@ Tipp:	Wenn man mal was mit Fenchel essen will. Ist ja nicht so mein Gemüse😊.
 2 Orangen (davon 1 unbehandelt)
 1 unbehandelte Zitrone
 3 Fenchelknollen mit zartem grün (je ca. 250 g)
-
 5 EL Olivenöl
 Salz, Pfeffer
 2 EL Himbeeressig
@@ -3888,7 +3693,6 @@ Wieder so ein Mundenhof-Kürbisfest-Rezept
 ## Kohlrabisalat
 ### Zutaten (für 4 Portionen)
 3 mittelgroße Kohlrabi (750g)
-
 80 g griechischer Joghurt
 70 g saure Sahne
 50 g Sahne
@@ -3917,7 +3721,6 @@ Salz und Pfeffer
 10 Blätter Oxalis (oder Sauerampfer)
 200 g Blaubeeren
 100 g geröstete Haselnüsse oder andere
-
 100 ml Ahornsirup
 
 ¼ Zimtstange
@@ -4011,7 +3814,6 @@ Und nun Simchen? Das ist nun echt ein Konflikt: Petersilie und Speck😊 Schmeck
 
 ## Bohnensalat mit Sesamdressing
 ### Zutaten (für 2 Portionen)
-
 400 g grüne Bohnen
 250 g kleine Tomaten
 1 Schalotte
@@ -4020,14 +3822,12 @@ Und nun Simchen? Das ist nun echt ein Konflikt: Petersilie und Speck😊 Schmeck
 70 g Tahini
 
 Saft von ½ Zitrone
-
 4 EL Olivenöl
 
 1,5 TL flüssiger Honig
 Salz
 
 Schwarzer Pfeffer
-
 5 EL Wasser
 
 *Für das Topping*: 3 EL Sesamsamen
@@ -4063,11 +3863,9 @@ Schwarzer Pfeffer
 ## Gemischter Blattsalat mit Feigen und Schinken
 ### Zutaten für 4 Portionen
 200 g gemischte Blatt- und Wildkräutersalate
-
 4 EL Sherryessig
 1 TL Zucker
 Salz, Pfeffer
-
 4 EL Olivenöl
 
 4 Feigen
@@ -4163,7 +3961,6 @@ Tipp:	Der Salat passt gut zu vielerlei Fleisch.
 3 Bio-Limetten, 2 TL Schale abgerieben, dann 3 EL ausgepresst
 1 EL Olivenöl
 2 Stängel Zitronengras, von den Enden und holzigen Außenblättern befreit, dann fein gehackt
-
 5 g Minzeblätter
 10 g Korianderblätter
 
@@ -4186,14 +3983,12 @@ Der Salat hört sich ja etwas verrückt an, aber schmeckt echt fantastisch (mir 
 2 Mini-Salatgurken (à 130 g)
 
 4 Mozzarella
-
 80 g schwarze Oliven (entsteint)
 2 rote Pfefferschoten
 1 TL Koriandersaat
 1 Zitrone
 
 Fleur de Sel
-
 8 EL Olivenöl
 6 Stiele Basilikum
 
@@ -4231,7 +4026,6 @@ Tipp:	 Der Salat darf nicht zu süß werden, deshalb sollten die Pfirsiche nicht
 ## Som Tam – Grüne Papaya Salat
 ### Zutaten (für 4 Portionen)
 3 EL ungesalzene Erdnüsse oder Cashewnüsse
-
 400 g grüne Papaya oder ein anderes rohes Gemüse
 200 g Spargelbohnen oder Zuckerschoten
 2 – 3 kleine scharfe Chilischoten
@@ -4240,7 +4034,6 @@ Tipp:	 Der Salat darf nicht zu süß werden, deshalb sollten die Pfirsiche nicht
 100 g Cocktailtomaten
 
 Saft von 3 Limetten
-
 4 EL japanische Sojasauce
 2 Frühlingszwiebeln, in feine Scheiben geschnitten
 
@@ -4322,9 +4115,7 @@ Blumenkohl wird ja oft entweder leidenschaftlich gehasst oder verachtet. Wenn ma
 
 ## Salat von geröstetem Blumenkohl mit Haselnüssen
 ### Zutaten (für 2-4 Portionen)
-
 660 g Blumenkohl, in Röschen zerteilt
-
 5 EL Olivenöl
 30 g Haselnusskerne
 1 große Stange Sellerie (70g), in schräge 0,5 cm breite Stücke geschnitten
@@ -4349,9 +4140,7 @@ Mit dem Blumenkohl ist es ja immer so eine Sache, aber als Salat verarbeitet, sc
 
 ## Gerösteter Blumenkohl mit Haselnüssen
 ### Zutaten (für 2-4 Personen)
-
 700 g Blumenkohl
-
 5 EL Olivenöl
 30 g Haselnusskerne
 1 große Stange Sellerie (in 0,5 cm breite Stücke geschnitten)
@@ -4379,13 +4168,11 @@ Salz und schwarzer Pfeffer
 100 g getrocknete Kichererbsen (oder eben eine Dose)
 300 g Gurke (oder 2 Minigurken)
 2 große Tomaten
-
 240 g Radieschen
 1 rote Paprikaschote
 1 kleine rote Zwiebel
 20 g Koriandergrün, grob gehackt
 15 g glatte Petersilie, grob gehackt
-
 90 ml Olivenöl
 
 Abgerieben Schale einer Zitrone
@@ -4435,7 +4222,6 @@ Salz
 ## Pak-Choi-Salat
 ### Zutaten (für 4 Portionen)
 1 EL Sesamsaat
-
 600 g Pak-Choi
 35 g frischer Ingwer
 3 Knoblauchzehen
@@ -4462,13 +4248,11 @@ Salz
 1 kleine weiße Zwiebel
 6 schwarze Oliven (entsteint)
 1 Zitrone
-
 5 EL Aceto Balsamico bianco
 1 EL Akazienhonig
 1 TL Fleur de Sel
 
 Pfeffer, Salz
-
 8 EL Olivenöl
 3 Stiele Estragon
 
@@ -4550,7 +4334,6 @@ Salz, Pfeffer aus der Mühle
 
 Saft von 2 Limetten
 2 EL klarer Honig oder Ahornsirup
-
 4 EL Olivenöl
 
 ### Zubereitung
@@ -4579,7 +4362,6 @@ Zucker
 ## Kartoffelsalat Royale
 ### Zutaten
 1,5 kg festkochende Kartoffeln
-
 80 g Butter
 3 weiße Zwiebeln
 125 g Crème fraîche
@@ -4590,9 +4372,7 @@ Zucker
 1 EL Senf à l’ancienne (grobkörnig)
 1 TL Senfpulver
 2 Eigelb
-
 4 EL brauner Zucker
-
 4 EL Sherry-Essig
 
 ½ l Öl
@@ -4607,17 +4387,13 @@ Der Salat hat es in sich. Eher etwas für Männer nach einem harten Tag im Garte
 
 ## Kartoffelsalat mit Frankfurter-grüne-Soße-Pesto
 ### Zutaten (für 4 Portionen):
-
 130 g Kräuter für Grüne Soße (Petersilie, Kresse, Schnittlauch, Sauerampfer, Borretsch, Pimpinelle, Kerbel)
 100 g Parmesan
 50 g Sonnenblumenkerne
-
 120 ml Olivenöl
 
 Etwas Salz, Pfeffer
-
 700 g Kartoffeln 
-
 4 Eier
 
 ### Zubereitung
@@ -4636,9 +4412,7 @@ Salz
 2 TL scharfer Senf
 3 EL Weinessig
 1 EL gehackte Kapern
-
 5 EL Olivenöl
-
 500 g grüne Bohnen
 
 4 hat gekochte Eier
@@ -4665,7 +4439,6 @@ Salz
 2 EL braune Butter
 
 *Für das Dressing:*
-
 400 ml Brühe
 3 EL Rotweinessig
 1 EL scharfer Senf
@@ -4685,7 +4458,6 @@ Zucker
 
 ½ EL Kümmelsamen
 1 Zwiebel
-
 400 ml Gemüsebrühe
 6 EL Weißweinessig
 1 EL mittelscharfer Senf
@@ -4728,15 +4500,12 @@ Tipp:	Gute Kartoffelsorten sind Sieglinde, Nicola, Hansa oder Linda.
 
 ## Badischer Kartoffelsalat
 ### Zutaten (für 4 Personen)
-
 600 g Kartoffeln, festkochend, möglichst klein
 
 ¼ TL Kümmel
 1 Zwiebel
-
 500 ml Rinderbrühe, ersatzweise Gemüsebrühe
 1 EL Senf
-
 4 EL Weißweinessig
 1 TL Salz
 
@@ -4786,7 +4555,6 @@ Salz, Pfeffer
 6 EL Olivenöl
 
 5-6 EL Weißweinessig
-
 400 ml Gemüsefond aus dem Glas
 1 TL Dijon-Senf
 
@@ -4834,12 +4602,10 @@ Kreuzkümmel oder Raz el Hanout
 1 EL Öl
 1 TL Tomatenmark
 1 Lorbeerblatt
-
 400 ml Brühe
 50 g Karotten
 50 g Knollensellerie
 50 g Lauch
-
 4 EL Aceto balsamico
 1 EL Öl
 2 EL braune Butter
@@ -4898,9 +4664,7 @@ Olivenöl
 3 TL Kurkuma (gemahlen)
 Salz
 200 g Schafsjoghurt (oder ganz normaler weißer Joghurt)
-
 100 ml Milch
-
 70 ml Sahne
 
 Abrieb von 1 Bio-Zitrone
@@ -4970,7 +4734,6 @@ Tipp:	Dazu passt Auberginen- oder Kichererbsencreme. Oder Schmand mit Zitrone, P
 ## Couscous-Salat Nr. 2
 ### Zutaten (für 2 Portionen)
 50 g Couscous
-
 100 ml Brühe
 150 g Salatgurke
 100 g Tomaten
@@ -5037,19 +4800,15 @@ Tipp:	Passt ganz gut zu gegrilltem Fisch. Mach ich aber nicht 😊
 
 ## Kräuter Tabbouleh
 ### Zutaten (für 8 Personen)
-
 130 g Bulgur oder Couscous
-
 180 ml Wasser
 150 g Petersilie
 30 g Schnittlauch
-
 80 g frische Basilikumblätter
 10 g frische Minzeblätter
 
 4 Frühlingszwiebeln, feingehackt
 3 mittelgroße Tomaten, feingehackt
-
 4 EL Zitronensaft
 3 EL Olivenöl
 
@@ -5062,7 +4821,6 @@ Tipp:	Passt ganz gut zu gegrilltem Fisch. Mach ich aber nicht 😊
 
 ## Salade Nicoise (ohne Sardellen)
 ### Zutaten (für 4 Portionen)
-
 4 Eier
 200 g grüne Bohnen
 1 Dose Thunfischfilets im eigenen Saft
@@ -5075,7 +4833,6 @@ Tipp:	Passt ganz gut zu gegrilltem Fisch. Mach ich aber nicht 😊
 
 ½ grüner Salatkopf
 6 EL Olivenöl
-
 4 EL Rotweinessig
 
 Pfeffer, Salz, Zucker
@@ -5094,7 +4851,6 @@ Bei diesem Salat muss ich immer an meinen Französischunterricht bei Daisy Enten
 ## Salade Nicoise Nr.2 – Comté de Nice
 ### Zutaten (für 4 Portionen):
 1 Kopfsalat
-
 500 g Tomaten
 50 g Thunfisch aus der Dose, in Öl eingelegt
 
@@ -5114,16 +4870,13 @@ Info:	In Südfrankreich wird der Salat gern als Zwischenmahlzeit oder zum Pickni
 
 ## Libanesischer Bulgursalat mit Sesam-Joghurt-Dressing
 ### Zutaten (für 6 Portionen)
-
 500 ml Granatapfelsaft
 1 EL Balsamicoessig
 Salz
 225 g Bulgur
 
 4 Frühlingszwiebeln
-
 400 g Tomaten
-
 450 g Fenchel
 
 ½ Bund Minze
@@ -5162,9 +4915,7 @@ Saft von ½ Zitrone
 3 Frühlingszwiebeln
 
 Je 1 Bund Petersilie und Minze
-
-4 El Olivenöl
-
+4 EL Olivenöl
 4 EL Zitronensaft
 Salz, Pfeffer
 
@@ -5189,7 +4940,6 @@ Salz
 4 Tomaten
 
 ½ Salatgurke
-
 4 EL Zitronensaft
 6 EL Olivenöl
 
@@ -5206,11 +4956,9 @@ Kreuzkümmel
 
 ## Brotsalat mit Minze und Mozzarella
 ### Zutaten (für 8 Portionen)
-
 450 g dicke Bohnenkerne
 Salz
 120 g Ciabatta oder Baguette
-
 10 EL Olivenöl
 100 g Parmaschinken in dünnen Scheiben
 
@@ -5253,16 +5001,13 @@ Pfeffer
 
 ## Na’amas Fattoush
 ### Zutaten (für 6 Personen)
-
 400 ml Buttermilch
 250 g altbackenes dickes Fladenbrot
-
 380 g Tomaten, in 1,5 cm große Würfel geschnitten
 100 g Radieschen, in dünne Scheiben geschnitten
 250 g Gurken, geschält, entkernt, in 1,5 cm große Würfel geschnitten
 2 Frühlingszwiebeln, in feine Ringe geschnitten
 15 g Minze
-
 25 g glatte Petersilie, grob gehackt
 1 EL getrocknete Minze
 3 EL Zitronensaft
@@ -5285,7 +5030,6 @@ Pfeffer
 ## Brotsalat Fattoush
 ### Zutaten (für 4 Portionen):
 2 Pitabrote
-
 5 EL Olivenöl 
 Salz
 1 TL Kuminsamen
@@ -5294,7 +5038,6 @@ Saft von ½ Zitronen
 
 ½ TL Essig
 1 Knoblauchzehe
-
 500 g Tomaten
 1 Salatgurke
 2 Frühlingszwiebeln 
@@ -5323,7 +5066,6 @@ Also ich liebe diesen Salat, daher hier nun auch die tausendste Variante. Vor al
 
 Ein paar Blätter Rucola (Kann man auch weglassen)
 2 EL Weinessig
-
 4 EL Olivenöl
 100 g Schafskäse
 1 EL kleine Kapern
@@ -5378,7 +5120,6 @@ Der Salat ist ähnlich wie unser Brotsalat und eignet sich sehr gut für Grillab
 1 Knoblauchzehe
 3 EL Butter
 2 rote Zwiebeln
-
 4 EL Olivenöl
 2 EL Balsamico bianco
 Salz, Pfeffer
@@ -5392,8 +5133,7 @@ Salz, Pfeffer
 ## Gemüse-Brot-Salat
 ### Zutaten für 4 Portionen
 250 g Blumenkohl
-
-10 El Olivenöl
+10 EL Olivenöl
 Salz, Pfeffer
 2 TL Harissa-Pulver
 
@@ -5483,7 +5223,6 @@ Schwarzer Pfeffer
 ## Fattoush-Salat
 ### Zutaten
 2 Salatgurken
-
 500 g Kirschtomaten, halbiert (man kann gelbe und rote Tomaten mischen)
 1 große Handvoll Radieschen, in dünne Scheiben geschnitten
 30 g frische Petersilienblätter, grob gehackt
@@ -5506,11 +5245,9 @@ Schwarzer Pfeffer
 
 ## Rote-Bete-Salat mit Apfel
 ### Zutaten (für 2 Portionen)
-
 400 g rote Bete
 50 g Essiggurken
 1 kleiner Apfel
-
 150 ml saure Sahne
 50 g Mayonnaise
 2 EL Apfelessig
@@ -5529,16 +5266,13 @@ Info:	Der Salat heißt auf Schwedisch „Rödbetssallad“. Ist wie gemacht für
 Salz
 
 ½ TL Kümmelsamen
-
 750 g rote Beten
 
 *Für die Marinade:*
-
 500 ml Gemüsebrühe
 3 – 4 EL Rotweinessig
 2 EL Aceto balsamico
 1 – 2 TL scharfer Senf
-
 70 ml Olivenöl
 Salz, Pfeffer, Zucker
 
@@ -5558,7 +5292,6 @@ Und jetzt sitzt der Schuhbeck im Gefängnis wegen Steuerhinterziehung oder so. H
 ### Zutaten
 500 g Rote Bete
 1 Schalotte
-
 4 EL Weißweinessig
 6 EL Sonnenblumenöl
 1 EL Honig
@@ -5575,7 +5308,6 @@ Salz, Pfeffer
 ## Rote-Bete-Salat - Patsárta saláta
 ### Zutaten (für 4 Portionen)
 1 kg möglichst kleine rote Beten mit Stielen und Blättern
-
 4 EL Rotweinessig
 2 Knoblauchzehen
 1 Bund Petersilie
@@ -5592,16 +5324,13 @@ Salz, Pfeffer
 
 ## Spargelsalat
 ### Zutaten (für 2 Portionen)
-
 500 g weißen Spargel
 1 unbehandelte Limette
 3 Vanilleschoten
 
 4 TL Honig
-
 4 EL Olivenöl
 150 g Kirschtomaten
-
 350 g kleine Kartoffeln
 
 12 Stiele Kerbel
@@ -5649,11 +5378,9 @@ Es kostet am Anfang etwas Überwindung, das stolze Gemüse in die heiße Pfanne 
 1 Zwiebel, in grobe Ringe geschnitten
 
 5,5 EL Olivenöl
-
 25 g Petersilie, grob gehackt
 10 g Minze, grob gehackt
 10 g Estragon, grob gehackt
-
 80 g Granatapfelkerne (1/2 Granatapfel)
 40 g Pistazienkerne, geröstet und grob gehackt
 1 TL gemahlener Kreuzkümmel
@@ -5671,7 +5398,6 @@ Salz
 ### Zutaten für 3 -4 Portionen
 100 g geschälte, ungesalzene Erdnüsse
 1 Knoblauchzehe
-
 30 ml Sojasauce
 
 Saft von 1 Limette
@@ -5747,12 +5473,10 @@ Meersalz
 
 ## Unser Nudelsalat
 ### Zutaten (für 6 Portionen)
-
 500 g Rigatoni oder auch andere Nudeln wie Spaghetti
 50 g frisches Basilikum, feingezupft
 250 g Kirschtomaten, halbiert
 1 Knoblauchzehe, zerdrückt
-
 80 g entsteinte schwarze Oliven, geschnitten
 60 ml Olivenöl
 1 EL Balsamicoessig
@@ -5776,7 +5500,6 @@ Tipp:	Dieser Salat fehlte eigentlich bei keinem unserer Grillabenden und im Kell
 50 g Pinienkerne
 1 Knoblauchzehe
 Salz, Pfeffer
-
 70 ml Olivenöl
 3 EL Balsamicoessig
 1 TL Pesto
@@ -5800,9 +5523,7 @@ Ein wirklich guter Partysalat… aber eben nicht vegetarisch. Das Rezept hat Sim
 250 g Tagliatelle
 Salz
 2 Knoblauchzehen
-
 8 EL Apfelessig
-
 50 ml Gemüsebrühe
 2 TL Senf
 2 TL Honig
@@ -5828,11 +5549,9 @@ Pfeffer
 Salz
 100 g Zuckerschoten
 100 g TK-Erbsen
-
 5 EL Gemüsebrühe
 2 Frühlingszwiebeln
 150 g Schweinebraten
-
 60 g Rucola
 
 ### Zubereitungszeit
@@ -5845,16 +5564,13 @@ Salz
 
 ## Pastasalat mit Tomaten und Basilikum
 ### Zutaten (für 6 Portionen):
-
 500 g gekochte Penne rigate
 15 g Basilikum, feingezupft
 1 – 2 Knoblauchzehen, zerdrückt
 2 EL Olivenöl
 1 EL Balsamicoessig
 1 TL Zucker
-
 4 Eiertomaten
-
 60 g Prosciutto
 
 ### Zubereitungszeit
@@ -5866,13 +5582,11 @@ Salz
 
 ## Pastasalat mit Thunfisch
 ### Zutaten (für 6 Portionen)
-
 500 g Fusilli
 
 200g blanchierte grüne Bohnen, in mundgerechte Stücke geschnitten
 2 rote Paprika, in dünne Streifen geschnitten
 2 Frühlingszwiebeln, in Röllchen geschnitten
-
 425 g Dosenthunfisch in Öl
 2 EL Öl
 60 ml Weißweinessig
@@ -5883,7 +5597,6 @@ Salz
 6 hartgekochte Eier, geviertelt
 
 4 Tomaten, geachtelt
-
 80 g schwarze Oliven
 2 EL frisches Basilikum, feingezupft
 
@@ -5905,21 +5618,18 @@ Salz
 2 EL Steakpfeffer
 2 EL Olivenöl
 150 g Penne, gekocht
-
 80 g getrocknete Tomaten, feingeschnitten
 70 g schwarze Oliven, entsteint und halbiert
 120 g eingelegte Artischockenherzen, halbiert
 50 g frisch gehobelter Parmesan
 
 *Für das Sahne- Basilikum-Dressing:*
-
 80 ml Olivenöl
 1 EL Weißweinessig
 
 Eine Prise Steakpfeffer
 1 TL Dijonsenf
 3 TL Mondamin
-
 170 ml Sahne
 20 g frisches Basilikum, feingezupft
 
@@ -5937,9 +5647,7 @@ Eine Prise Steakpfeffer
 ### Zutaten für 4 – 6 Personen:
 
 350 getrocknete Datteln, entsteint und halbiert
-
 380 ml Portwein
-
 380 g Ziti
 60 ml Balsamicoessig
 150 g Rucola, geputzt
@@ -5960,17 +5668,13 @@ Schale von 3 Zitronen, in feine Streifen gezogen
 
 ## Toskanischer Pastasalat
 ### Zutaten (für 6 Portionen):
-
 500 g Rigatoni
-
 80 ml Olivenöl
 1 Knoblauchzehe, zerdrückt
 1 EL Balsamicoessig
-
 425 g Artischockenherzen aus der Dose oder dem Glas, abgetropft und geviertelt
 
 8 Scheiben Prosciutto, dünn aufgeschnitten und gehackt
-
 80 g getrocknete Tomaten in Öl, abgetropft und in dünne Scheiben geschnitten
 15 g Rucola, geputzt und gut abgetropft
 40 g Pinienkerne, leicht geröstet
@@ -5990,7 +5694,6 @@ Schale von 3 Zitronen, in feine Streifen gezogen
 250g getrocknete Tortellini
 Salz
 2 Knoblauchzehen
-
 350 g sehr kleine Zucchini
 150 g nicht zu reifer Gorgonzola
 2 EL Milch
@@ -6021,7 +5724,6 @@ Tipp:	Bei der Zubereitung dieses Salates sehr sparsam mit Salz umgehen. Und auch
 2 Dosen Thunfisch au naturel
 
 4 Knoblauchzehen
-
 4 EL Weißweinessig
 Salz, Pfeffer
 
@@ -6067,19 +5769,14 @@ Salz, Pfeffer
 
 ## Lauwarmer Pfifferlingsalat mit Ziegenkäse
 ### Zutaten (für 4 Portionen)
-
 400 g Pfifferlinge (oder eben andere Pilze)
 2 Schalotten
-
 80 g Eichblattsalat
-
 80 g Friséesalat
-
 60 g getrocknete Aprikosen
 1 Bund Schnittlauch
 3 EL Weißweinessig
 1 TL Dijon-Senf
-
 8 EL Olivenöl
 Salz, Pfeffer
 
@@ -6132,7 +5829,6 @@ Tipp: 	gibt einen guten Partysalat ab!
 50 g Honig
 1 EL Weißweinessig
 1 kg Hühnchenbrustfilets, enthäutet
-
 4 EL Olivenöl
 2 kleine Fenchelknollen, in dünne Scheiben geschnitten (kann man auch mit Rucola und Frühlingszwiebeln ersetzen)
 
@@ -6152,7 +5848,6 @@ Salz, Pfeffer
 
 ## Rucolasalat mit Schweinefilet
 ### Zutaten (für 4 Portionen):
-
 600 g Schweinefilet
 2 unbehandelte Zitronen
 6 EL Olivenöl
@@ -6186,7 +5881,6 @@ Weißer Pfeffer, Salz
 2 Stangen Staudensellerie
 2 Schalotten
 2 EL Öl
-
 4 EL gehackte Walnüsse
 
 ### Zubereitung
@@ -6223,12 +5917,10 @@ Ich würde sagen, diese Beerenmarmelade schmeckt äußerst fruchtig, sodass eine
 ## Zwetschgenkonfitüre mit Walnüssen
 ### Zutaten (für 4 – 5 Gläser):
 1 kg Zwetschgen
-
 500 g Gelierzucker (1:2)
 
 Etwa 30 ml Zitronensaft
 50 g Walnusskerne
-
 50 ml Obstbrand oder Walnusslikör (wenn man will)
 
 ### Zubereitung
@@ -6238,11 +5930,8 @@ Etwa 30 ml Zitronensaft
 
 ## Pflaumenkonfitüre mit Kakao
 ### Zutaten (für ca. 3 Gläser):
-
 500 g Pflaumen
-
 25 g Gelierzucker (2:1)
-
 50 ml Saft von ausgepressten Zitronen (ca. 2 Stück)
 10 g ungesüßtes Kakaopulver
 
@@ -6259,10 +5948,8 @@ Tipp:	Wenn man nicht weiß, ob die Marmelade die richtige Konsistenz hat, kann m
 
 1,8 kg Sauerkirschen (alternativ Süßkirschen)
 1 Vanilleschote
-
 500 g Gelierzucker (3:1)
 3 EL Zitronensaft
-
 80 g dunkle Schokolade (70 Prozent)
 
 ### Zubereitung
@@ -6285,12 +5972,10 @@ Tipp:	Wenn man nicht weiß, ob die Marmelade die richtige Konsistenz hat, kann m
 
 ## Kakao-Haselnuss-Creme
 ### Zutaten (für ca. 750 g):
-
 375 g rohe Haselnüsse
 125 g Kakaobutter (oder Kokosfett)
 
 20 frische Datteln
-
 4 EL roher Kakao
 
 ### Zubereitung
@@ -6307,11 +5992,8 @@ Tipp:	Man kann auch einen Teil des Wassers durch die abgeriebene Schale und den 
 
 ## Rhabarber-Erdbeer Aufstrich
 ### Zutaten (für 500 g):
-
 400 g Rhabarber
-
 350 g Erdbeeren
-
 60 g Zucker
 1 gestrichener TL Guakernmehl
 
@@ -6326,7 +6008,6 @@ Info:	Der Aufstrich in 3-4 Tage haltbar.
 ### Zutaten (für 600 ml):
 150 g Himbeeren
 3 -4 Pfirsiche
-
 400 g Gelierzucker 1:1
 1 EL frisch gepresster Zitronensaft
 
@@ -6555,9 +6236,7 @@ Zucker
 ## Kräuter-Frischkäsecreme
 ### Zutaten (für 2 Portionen)
 200 g Ziegenfrischkäse
-
 50 ml Sahne
-
 50 ml Milch
 1 Biozitrone
 
@@ -6636,7 +6315,6 @@ Info:	Der Aufstrich hält sich im Kühlschrank.
 40 g Rucola
 1 Knoblauchzehe
 250 g Ricotta
-
 25 g frisch geriebener Parmesankäse
 
 Abgerieben Schale und Saft von 1 Bioorange
@@ -6699,7 +6377,6 @@ Saft von ½ Zitrone
 ## Toskanisches Brot
 ### Zutaten
 500 g Weizenmehl
-
 25 g Bierhefe
 300 ml lauwarmes Wasser
 
@@ -6716,7 +6393,6 @@ Info:	Das toskanische Brot ist als einziges in Italien ohne Salz gebacken.
 200 g Weizenmehl
 1 TL Trockenhefe
 1 EL Olivenöl
-
 120 ml lauwarmes Wasser
 
 ### Zubereitung
@@ -6783,7 +6459,6 @@ Je 375 g Roggen- und Weizenmehl
 ### Zutaten (für 8 Stück)
 
 ½ Würfel Hefe
-
 400 g Mehl
 1 TL Zucker
 2 EL Olivenöl
@@ -6799,7 +6474,6 @@ Je 375 g Roggen- und Weizenmehl
 ## Fladenbrot mit Käse und Oliven
 ### Zutaten (für 20 Schnitten)
 1 mittelgroße rote Zwiebel 
-
 45 g schwarze Oliven entsteint
 1 rote Paprikaschote
 1 grüne Paprikaschote
@@ -6822,13 +6496,11 @@ Je 375 g Roggen- und Weizenmehl
 ## Olivenfladen mit Pistazien-Schafskäse-Dip
 ### Zutaten (für 6 Portionen):
 6 Zweige Rosmarin
-
 500 g Mehl
 1 gehäufter TL Salz
 
 ½ frischer Würfel Hefe
 1 TL Zucker
-
 8 EL Olivenöl
 50 g getrocknete Tomaten
 150 g entsteinte schwarze Oliven in Öl, abgetropft
@@ -6851,13 +6523,11 @@ Cayennepfeffer
 
 ## Osterbrot – Tsourékia
 ### Zutaten (für 1 Osterbrot):
-
 8 Eier
 
 Rote Ostereierfarbe
 
 ½ TL Öl
-
 500 g Mehl und Mehl zum Ausrollen
 1 Päckchen Hefe (1 Würfel)
 100 g Zucker
@@ -6885,7 +6555,6 @@ Tipp:	Geht auch als Neujahrsbrot. Dafür Teig wie gerade beschrieben zubereiten 
 
 ## Sesamkringel – Koulóuria
 ### Zutaten (für 8 Kringel):
-
 500 g Mehl und Mehl zum Arbeiten
 1 TL Salz
 3 EL Olivenöl und Öl für das Blech
@@ -6917,7 +6586,6 @@ Tipp:	Geht auch als Neujahrsbrot. Dafür Teig wie gerade beschrieben zubereiten 
 Salz, Meersalzflocken, Pfeffer
 
 *Für den Teig:*
-
 130 g Mehl plus etwas zum Ausrollen
 20 g Polenta
 1 ½ TL Zucker
@@ -6926,9 +6594,7 @@ Salz, Meersalzflocken, Pfeffer
 1 EL Salbeiblätter, fein gehackt
 
 ¼ TL frisch gemahlener schwarzer Pfeffer
-
 20 ml Olivenöl
-
 80 g Butter
 60 ml eiskaltes Wasser
 
@@ -6953,7 +6619,6 @@ Salz, Meersalzflocken, Pfeffer
 
 ½ TL Salz
 1 Ei
-
 4 EL Öl
 
 *Für den Belag:*
@@ -6977,7 +6642,6 @@ Pfeffer, Salz, Kümmel
 ## Brotzopf
 ### Zutaten
 2 Packungen (je 370 g) Brotmischung
-
 500 ml Wasser
 
 ### Zubereitung
@@ -6990,10 +6654,8 @@ Pfeffer, Salz, Kümmel
 ### Zutaten (für ca. 20 Stück)
 
 *Für den Teig:* 
-
 500 g Mehl
 3 TL Salz
-
 4 EL Olivenöl
 
 2/3 Würfel frische Hefe oder 1 Päckchen Trockenhefe
@@ -7020,14 +6682,12 @@ Ca. 250 ml lauwarmes Wasser
 ### Zutaten (für 2 Brote):
 
 *Für den Vorteig:*
-
 25 g frische Hefe oder 1 Päckchen Trockenhefe 
 
 ½ EL Zucker
 100 g Mehl
 
 *Für den Brotteig:*
-
 400 g Weizenmehl (Typ 550)
 250 g Roggenmehl (Typ 997 oder Typ 1150)
 1 EL Honig
@@ -7046,11 +6706,9 @@ Ca. 250 ml lauwarmes Wasser
 
 ## Rosinenbrötchen
 ### Zutaten (für 8 Stück)
-
 150 ml Milch
 325 g Mehl
 10 g frische Hefe
-
 25 g Butter
 40 g Rosinen
 50 g (Vanille)-Zucker
@@ -7075,7 +6733,6 @@ Ca. 250 ml lauwarmes Wasser
 ### Zutaten (für 12 Stück)
 
 *Für den Teig:*
-
 520 g Weizenmehl
 70 g Zucker
 1 Päckchen Trockenhefe (7 g)
@@ -7092,14 +6749,12 @@ Mark von 1 Vanilleschote
 1 EL Sonnenblumenöl
 
 *Für das Kreuz:*
-
 85 g Mehl
 1 EL Zucker
 6 EL Wasser
 
 *Für die Glasur:*	
 3 EL Aprikosenmarmelade
-
 5 EL Wasser
 
 ### Zubereitung
@@ -7116,7 +6771,6 @@ Info:	Die Brötchen heißen in Großbritannien Hot Cross Buns und werden, wie in
 ### Zutaten (für 10 – 12 Seelen)
 1 Würfel Hefe
 1 TL Zucker
-
 500 g Mehl
 1 TL Salz
 
@@ -7143,7 +6797,6 @@ Info:	Der Name geht den Allerseelentag zurück (2.November, (lateinisch [Dies] i
 15 g Backpulver
 2 TL Salz
 250 g Sahnequark
-
 5 Eier
 1 EL Apfelessig
 
@@ -7158,16 +6811,11 @@ Info:	Das Quarkbrot hält sich in einem Beutel verpackt mehrere Tage.
 
 ## Grissini
 ### Zutaten für 18 Stück:
-
 7 g Trockenhefe
-
 125 ml warmes Wasser
-
 170 ml Milch
-
 60 g Butter
 1 EL Zucker
-
 500 g Weizenmehl
 1 TL Salz
 
@@ -7191,9 +6839,7 @@ Salz
 
 ½ TL gemahlenen Kardamom
 3 sehr reife Bananen
-
 100 ml Milch
-
 25 g Butter
 1 Ei
 
@@ -7213,10 +6859,8 @@ Salz
 1 Prise Salz
 1 EL brauner Zucker
 3 EL brauner Zucker
-
 175 g Honig
 1 Prise Salz
-
 125 ml Olivenöl
 150 g Mehl
 1 TL Backpulver
@@ -7268,9 +6912,7 @@ Rapsöl
 ¼ TL Speisenatron
 2 Rote-Bete-Knollen (roh, nicht vorgegart) geschält und gerieben
 2 Eier
-
 80 ml Sonnenblumenöl
-
 80 g saure Sahne
 1 EL Honig
 20 g Parmesan, gerieben
@@ -7296,7 +6938,6 @@ Salz
 
 Olivenöl
 200 g gemischte Nüsse (davon 50 g gemahlene Mandeln)
-
 4 EL frisches Basilikum, gehackt
 30 g getrocknete Tomaten, in Streifen geschnitten
 1 Ei, verquirlt
@@ -7316,7 +6957,6 @@ Sonnenblumenöl zum Einfetten
 ## Kräuter-Käse-Brot
 ### Zutaten
 *Für den Teig:*
-
 500 g Mehl
 1 Päckchen Trockenhefe
 1 TL Zucker
@@ -7324,7 +6964,6 @@ Sonnenblumenöl zum Einfetten
 1TL Salz
 
 Pfeffer
-
 250 ml lauwarmes Wasser
 
 *Für die Füllung:*
@@ -7348,7 +6987,6 @@ Pfeffer
 ## Brotrolle, gefüllt mit Äpfeln und Champignons
 ### Zutaten (für ca. 10 Portionen):
 1 EL schnell treibende Trockenhefe
-
 250 ml Wasser (warm)
 1 EL klarer Honig
 1 EL Meersalz
@@ -7366,7 +7004,6 @@ Pfeffer
 1 grüner Apfel, geschält, entkernt und in 1 cm Stücke geschnitten
 
 Saft von ½ Zitrone
-
 60 g geriebener Pecorino (oder Parmesan)
 3 Zweige Thymian, Blätter gezupft
 
@@ -7392,7 +7029,6 @@ Tipp:	Man kann das Brot in eine Nachspeise verwandeln, indem man den Teig zusät
 1 TL Salz
 
 Etwas Pfeffer
-
 250 ml lauwarmes Wasser
 200 g grob geraspelten Gouda
 1 Eigelb
@@ -7406,7 +7042,6 @@ Etwas Pfeffer
 
 ## Chapati Nr. 1
 ### Zutaten (für etwa 15 Brote):
-
 400 g Chapatimehl (oder eben auch Weizenmehl gerne Typ 1050)
 
 Mehl für die Arbeitsfläche
@@ -7428,7 +7063,6 @@ Info:	Es schmeckt einfach unheimlich gut, war schon in Uganda so. Grace hat die 
 250 g Mehl
 1 TL Salz
 1 EL Öl
-
 100 ml Wasser
 
 ### Zubereitungszeit
@@ -7438,7 +7072,6 @@ Mehl, Salz, Öl und Wasser verkneten. 15 Minuten ruhen lassen, in der Pfanne je 
 
 ## Chapati Nr. 3
 ### Zutaten (für 16 Brote):
-
 400 g Chapatimehl und Mehl zum Bestäuben
 2 EL Butterschmalz plus etwas flüssiges Butterschmalz zum Einpinseln
 1 TL Salz
@@ -7455,7 +7088,6 @@ Mehl, Salz, Öl und Wasser verkneten. 15 Minuten ruhen lassen, in der Pfanne je 
 
 ## Chapati Nr. 4
 ### Zutaten für 16 Stück
-
 450 g Chapatimehl oder 225 g Weizenvollkornmehl und 225 g Weizenmehl
 
 ½ TL Salz
@@ -7518,14 +7150,11 @@ Pfeffer
 ### Zutaten (für 12 Stück)
 
 Für die Rotis:
-
 600 g Mehl
 1 TL Salz
-
 4 EL Öl
 
 *Für die Füllung:*
-
 500 g Blumenkohl, grob in Stücke gebrochen
 2 EL Rapsöl
 1 Zwiebel, gewürfelt
@@ -7560,9 +7189,7 @@ Rapsöl
 
 ## Malabar Paratha
 ### Zutaten (für 10 Stück)
-
 130 g Butter
-
 450 g Mehl
 1 ¼ TL Salz
 
@@ -7581,7 +7208,6 @@ Info:	Das Malabar paratha ist das südindische Brot schlechthin. Zu einer kunstv
 
 ## Paratha – geschichtetes Brot
 ### Zutaten (für 16 Brote):
-
 400 g Chapatimehl
 2 E Ghee oder Butterschmalz
 
@@ -7603,12 +7229,10 @@ Man muss nicht Chapatimehl nehmen. Ganz normales Weizenmehl geht auch.
 
 ## Naan
 ### Zutaten (für 9 Brote):
-
 150 ml Milch
 
 1/3 Würfel Hefe (15 g)
 2 TL Zucker
-
 500 g Weizenmehl
 
 Mehl für die Arbeitsfläche
@@ -7630,19 +7254,15 @@ Mehl für die Arbeitsfläche
 ### Zutaten (für 4 große Naans):
 
 Öl
-
 110 g Butter
 
 4 Knoblauchzehen, zerdrückt
 Salz
-
 500 g Mehl
-
 4 EL Joghurt
 1 Tüte Trockenhefe
 1 gestrichener TL Backpulver
 2 TL Zucker
-
 275 ml Milch, lauwarm
 
 Schwarzkümmelsamen zum Bestreuen
@@ -7660,15 +7280,12 @@ Schwarzkümmelsamen zum Bestreuen
 
 4 Zwiebeln
 1 Knoblauchzehe
-
 5 EL Olivenöl
 1 EL Zucker
 
 ½ TL geräuchertes Paprikapulver
 2 EL Balsamicoessig
-
 150 ml Schwarzer Johannisbeersaft
-
 4 EL Ketchup
 2 EL Sojasauce
 2 EL Worcestershiresauce
@@ -7692,7 +7309,6 @@ Salz, Pfeffer
 
 ## Pastrami-Stulle mit Krautsalat, Bergkäse und Ananas-Relish
 ### Zutaten (für 2 Portionen):
-
 80 g Spitzkohl
 1 kleine Möhre
 1 kleine Zwiebel
@@ -7720,7 +7336,6 @@ Salz, Pfeffer, Zucker
 
 ## Pilzstulle mit Gruyère
 ### Zutaten (für 4 Portionen):
-
 400 g gemischte Pilze (Seitlinge, Champignons…)
 1 Knoblauchzehe
 
@@ -7749,12 +7364,10 @@ Salz, Pfeffer, Cayennepfeffer
 ### Zutaten (für 2 Portionen):
 1 Zucchini (200 g)
 2 EL Weißweinessig
-
 7 EL Olivenöl
 Salz, Pfeffer
 300 g geriffelte Tomaten
 2 Eier
-
 100 ml Schlagsahne
 1 TL Chiliflocken
 3 Scheiben Toastbrot (gerne 3 cm dick)
@@ -7772,7 +7385,6 @@ Salz, Pfeffer
 ### Zutaten (für 4 Portionen)
 2 rote Paprikaschoten
 1 Aubergine
-
 5 EL Olivenöl
 Salz, Pfeffer
 1 Knoblauchzehe
@@ -7818,7 +7430,6 @@ Pfeffer
 ## Toskanisches Brot
 ### Zutaten
 500 g Weizenmehl
-
 25 g Bierhefe
 300 ml Wasser
 
@@ -7853,15 +7464,12 @@ Ca. ½ l Öl zum Frittieren
 ### Zutaten (für 2 – 4 Portionen):
 2 Schalotten
 1 Knoblauchzehe
-
 60 g gekochter Schinken
 
 8 Stiele Thymian
 250 g Bergkäse (geriebenen Gruyère)
-
 4 EL Mehl
 1 Eigelb
-
 100 ml Weißwein
 1 TL edelsüßes Paprikapulver
 
@@ -7927,12 +7535,10 @@ Salz, Cayennepfeffer
 
 ## Pizzabrot mit Speck
 ### Zutaten (für 4 Portionen)
-
 450 g Pizzateig
 150 g luftgetrockneter Bauchspeck
 1 unbehandelte Zitrone
 2 EL Zucker
-
 80 g Pecorino oder Parmesan gerieben
 3 Eigelb
 
@@ -7996,7 +7602,6 @@ Salz, Pfeffer
 ### Zutaten (für 8 Toasts):
 
 8 Scheiben Toastbrot
-
 4 EL Butter
 
 8 Scheiben Ananas
@@ -8018,12 +7623,10 @@ Das ist das klassische Gericht der 1970er Jahre. Irgendwie ist es danach etwas a
 ### Zutaten (für 2 Portionen):
 1 Zucchini (200 g)
 2 EL Weißweinessig
-
 7 EL Olivenöl
 Salz, Pfeffer
 300 g geriffelte Tomaten
 2 Eier
-
 100 ml Schlagsahne
 1 TL Chiliflocken
 3 Scheiben Toastbrot
@@ -8067,7 +7670,6 @@ Info:	Aigo-boulido heißt tatsächlich „gekochtes Wasser“, doch handelt es s
 1 mittelgroße Möhre
 1 mittelgroße Zwiebel
 1 EL Olivenöl
-
 800 ml Gemüsebrühe
 50 g Reis
 3 Eigelb
@@ -8086,13 +7688,10 @@ Salz, weißer Pfeffer
 ### Zutaten (für 4 Portionen):
 3 Auberginen, rundherum sieben bis achtmal eingestochen (750g)
 3 EL Zitronensaft
-
 105 ml Olivenöl
 2 Zwiebeln, fein gewürfelt
 6 Knoblauchzehen, zerstoßen
-
 60 g Koriandergrün, grob gehackt, plus 2 EL ganze Blätter zum Servieren
-
 60 g Petersilie, grob gehackt, plus 2 EL ganze Blätter zum Servieren
 40 g Dill, grob gehackt, plus 2 EL Spitzen zum Servieren
 
@@ -8102,9 +7701,7 @@ Salz, weißer Pfeffer
 
 2,5 TL gemahlener Kreuzkümmel
 1 TL gemahlene Kurkuma
-
 400 g Babyspinat
-
 500 ml Gemüsebrühe
 1 rote Chilischote, in feine Ringe geschnitten
 2 TL schwarze Senfsamen
@@ -8167,18 +7764,15 @@ Olivenöl
 
 ## Minestrone Nr. 1
 ### Zutaten (für 4-5 Portionen):
-
 500 g Kartoffeln
 1 Stange Lauch (etwa 200 g)
 250 g Möhren
 250 g Zucchini
-
 500 g reife Tomaten
 2 Stangen Staudensellerie
 1 Zwiebel
 
 1,5 l Fleisch/Gemüsebrühe
-
 4 EL Öl
 
 ½ Bund glatte Petersilie
@@ -8235,11 +7829,9 @@ Wasser
 2 kleine Zucchini
 2 Tomaten
 1 Bund Borretsch (50 g), eventuell mit Blüten
-
 4 EL frisch geriebener Parmesan
 150 g Suppennudeln
 1 Zwiebel
-
 4 EL Olivenöl plus Öl zum Beträufeln
 2 EL Pesto
 Salz, Pfeffer
@@ -8293,7 +7885,6 @@ Gemüsebrühe
 Pfeffer, Salz
 
 ½ Bund glatte Petersilie
-
 250 ml Hafermilch oder Kokossahne
 
 ### Zubereitungszeit
@@ -8327,17 +7918,13 @@ Chiliflocken nach Geschmack
 
 ## Suppe aus Karotten, Kichererbsen und Tahin
 ### Zutaten (für 6 Portionen):
-
 750 g Karotten
 1 Zwiebel
 1 Knoblauchknolle
 1 Prise Salz
-
 80 ml Olivenöl
 2 TL Kuminsamen
-
 800 g Dosen-Kichererbsen (gut abgetropft)
-
 60 g Tahin
 1 l Gemüsebrühe
 
@@ -8358,7 +7945,6 @@ Ein paar EL Joghurt (am besten griechischen mit 10% Fett)
 ## Kokos-Möhren-Suppe mit Ingwer
 ### Zutaten (für 4 Portionen)
 1 Stange Lauch
-
 600 g Möhren
 100 g Kartoffeln
 2 Bio-Orangen
@@ -8382,7 +7968,6 @@ Salz, Pfeffer
 
 1,2 l Gemüsebrühe
 300 g Möhren
-
 500 g Süßkartoffeln
 3 EL Olivenöl
 100 g Zwiebeln
@@ -8432,9 +8017,7 @@ Ein Schuss Schlagsahne
 1 Zwiebel
 40 g Butter
 200 g Kartoffeln
-
 350 g Brokkoli
-
 500 ml Gemüsebrühe
 
 Eventuell etwas Salz
@@ -8481,7 +8064,6 @@ Piment
 Eventuell Knoblauch, Ingwer, eine Zitronenschale, Kurkuma
 
 *Für die Pastinakensuppe*
-
 500 g Pastinaken
 2 kleine Zwiebeln
 
@@ -8532,7 +8114,6 @@ Muskatnuss
 2 EL Olivenöl
 1 Knoblauchzehe
 2 TL frische Majoranblättchen
-
 100 ml trockener Weißwein
 1 l Gemüsebrühe
 150 g Schmand
@@ -8557,7 +8138,6 @@ Tipp:	Man kann die Suppe auch warm essen 😊
 
 ## Kalte Gurkensuppe
 ### Zutaten (für 2 Portionen)
-
 450 g Salatgurke
 150 g Rucola
 300 ml Buttermilch oder Gemüsefond
@@ -8589,7 +8169,6 @@ Gurken der Länge nach vierteln, Kerngehäuse entfernen, in Scheiben schneiden. 
 
 ## Gazpacho
 ### Zutaten für 4 Portionen:
-
 600 g vollreife saftige Tomaten
 1 Salatgurke
 1 grüne Paprikaschote
@@ -8628,7 +8207,6 @@ Salz, Pfeffer
 
 ## Kichererbsensuppe Nr. 2 - Soupe aux pois chiches
 ### Zutaten für 4 Portionen
-
 500 g Kichererbsen
 3 EL grobes Meersalz
 2 EL Mehl
@@ -8708,7 +8286,6 @@ Evtl. eine weitere Knoblauchzehe
 250 g Kichererbsen
 1 große Zwiebel
 1 mittelgroße Möhre
-
 5 EL Olivenöl
 Salz, Pfeffer
 1 Bund Petersilie
@@ -8731,14 +8308,12 @@ Saft von 1 Zitronen
 1 Stück Ingwer (3 cm), geschält und gerieben
 3 Knoblauchzehen, zerdrückt
 3 grüne India-Jwala Chilischoten, entkernt und fein gehackt
-
 900 g Erbsen (TK)
 600 ml Gemüsebrühe
 
 Saft von ½ Zitrone
 2 TL Garam Masala
 30 g Minzeblätter, gehackt, plus Minze zum Dekorieren
-
 25 g Dill, gehackt
 2 TL Kreuzkümmelsamen
 1 Prise Salz
@@ -8766,13 +8341,11 @@ Salz, Muskat, Pfeffer
 
 ## Grießnockensuppe Nr. 2
 ### Zutaten (für 6 Portionen):
-
 100 ml Milch
 40 g Butter
 Salz
 
 Frisch geriebene Muskatnuss
-
 60 g Grieß
 1 EI
 1 TL abgeriebene Orangenschale
@@ -8797,7 +8370,6 @@ Tipp:	Statt der Orangenschale feingehackte Kräuter zum Würzen der Nocken nehme
 2 Lorbeerblätter
 2 Zwiebeln
 2 Knoblauchzehen
-
 4 EL Olivenöl
 2 EL Pinienkerne
 1 TL gemahlener Kreuzkümmel
@@ -8851,12 +8423,10 @@ Chiliflocken
 2 Knoblauchzehen
 1 Stück Ingwer
 150 g rote Linsen
-
 400 g geschälte Tomaten
 
 Ein paar Stängel Koriandergrün
 Salz
-
 400 ml Kokosmilch
 1 Limette
 
@@ -8868,7 +8438,6 @@ Salz
 
 ## Orangen-Linsen-Suppe
 ### Zutaten (für 4 Portionen):
-
 4 EL Olivenöl
 1 große Zwiebel, fein gehackt
 1 Stange Sellerie, fein gehackt
@@ -8937,7 +8506,6 @@ Info:	Die Suppe schmeckt übrigens auch kalt und lauwarm sehr gut.
 1 TL gemahlene Kurkuma
 1 EL Currypulver
 1 TL Salz
-
 400 ml Kokosmilch aus der Dose
 2 EL Kokosfett
 
@@ -8988,9 +8556,7 @@ Salz, schwarzer Pfeffer aus der Mühle
 2 kleine Auberginen, in etwa 5x2 cm große Stücke geschnitten
 200 g Kirschtomaten
 180 g schwarze Linsen
-
 500 ml Gemüsebrühe
-
 80 ml trockener Weißwein
 100 g Crème fraîche
 
@@ -9015,7 +8581,6 @@ Salz, Pfeffer
 1 Stück frischer Ingwer (4 cm), geschält und fein gehackt
 150 g rote Linsen, abgespült und abgetropft
 1 Dose stückige Tomaten
-
 25 g Korianderstängel, grob gehackt
 1 Dose Kokosmilch (400 ml)
 Salz, Pfeffer
@@ -9072,10 +8637,8 @@ Salz, Pfeffer, Muskat
 ## Kürbissuppe Nr. 2
 ### Zutaten (für 4 Portionen):
 2 Zwiebeln
-
 800 g Hokkaido-Kürbis
 2 EL Öl
-
 100 ml Schlagsahne
 Salz, Pfeffer
 2 – 3 EL milder Weißweinessig
@@ -9114,7 +8677,6 @@ Salz, Pfeffer aus der Mühle
 
 ## Kürbissuppe Nr. 4
 ### Zutaten (für 4 Portionen)
-
 800 g Kürbis
 3 Zwiebeln
 50 g Butter
@@ -9166,7 +8728,6 @@ Kürbissuppe? Im Herbst? Bahnbrechend. Aber das ist vielleicht die beste Kürbis
 4 EL Butter
 1 Zwiebel
 1 kleiner Sellerie
-
 500 g Kürbisfleisch
 2 EL Tomatenmark
 1 Lorbeerblatt
@@ -9290,7 +8851,6 @@ Aufgrund der Zutaten könnte man das vielleicht als türkische Kürbissuppe beze
 
 ## Kürbissuppe mit Orange und Safran
 ### Zutaten (für 4-6 Portionen):
-
 4 EL Olivenöl
 2 Zwiebeln, in 2-3 cm breite Spalten geschnitten
 
@@ -9301,12 +8861,10 @@ Aufgrund der Zutaten könnte man das vielleicht als türkische Kürbissuppe beze
 ¼ TL Safranfäden
 1 Bio-Orange, 1 TL Schale abgerieben
 180 g Crème fraîche
-
 5 g Korianderblätter
 Salz, Pfeffer
 
 *Geröstete Kürbiskerne:*
-
 80 g Kürbiskeren
 2 EL Ahornsirup
 
@@ -9332,7 +8890,6 @@ Salz, Pfeffer
 1 Stück Ingwer
 
 ½ l Brühe
-
 400 ml Kokosmilch aus der Dose
 
 Koriander
@@ -9349,14 +8906,12 @@ Info:	Ich mag diese Suppe gerne, ist ziemlich scharf und wärmt daher im Herbst/
 
 ## Kürbis-Tomaten-Suppe mit Zitronenmelisse
 ### Zutaten für 4 Portionen
-
 600 g Hokkaido-Kürbis
 150 g Zwiebeln
 300 g Tomaten
 3 EL Olivenöl
 1 EL brauner Zucker
 Salz, Pfeffer
-
 500 ml Gemüsebrühe
 6 Stiele Zitronenmelisse
 3 EL Magerquark
@@ -9378,9 +8933,7 @@ Salz, Pfeffer
 ### Zutaten
 800g Kürbisfleisch
 1 Zwiebel
-
 400 g Kastanien
-
 500 ml Gemüsebrühe
 
 Crème fraîche
@@ -9435,7 +8988,6 @@ Pfeffer
 2 Zwiebeln
 2 Knoblauchzehen
 2 EL Olivenöl
-
 500 ml Gemüsebrühe
 1 Prise Zucker
 Salz, Pfeffer
@@ -9459,7 +9011,6 @@ Oregano, Basilikum
 1 große Zwiebel, gehackt
 1 TL Kreuzkümmelsamen
 2 Knoblauchzehen, zerdrückt
-
 750 ml Gemüsebrühe
 
 4 große, reife Tomaten (650 g), gehackt
@@ -9497,7 +9048,6 @@ Salz, Pfeffer
 ## Tomatensuppe mit Käse
 ### Zutaten (für 4 Portionen):
 2 große Zwiebeln
-
 500 g Tomaten
 1 EL Butterschmalz
 1 Knoblauchzehe
@@ -9522,7 +9072,6 @@ Salz, Pfeffer aus der Mühle
 1 kg Fleischtomaten
 
 1Zwiebel
-
 4 EL Öl
 
 ½ l Brühe
@@ -9546,7 +9095,6 @@ Tipp:	Die Suppe eignet sich gut als Mitternachtsimbiss.
 ## Suppe mit gerösteten Tomaten und Kichererbsen
 ### Zutaten (für 2-4 Portionen):
 1 kg reife Tomaten, halbiert
-
 450 g gekochte Kichererbsen
 
 4 Zweige Oregano, Blätter abgezupft
@@ -9599,7 +9147,6 @@ Die Suppe sollte scharf und sauer sein. Mit den Curryblätter garnieren.
 1 Zwiebel
 1 Knoblauchzehe
 1 EL Butter
-
 700 ml Gemüsebrühe
 2 EL Crème fraîche
 1 TL gemahlene Kurkuma
@@ -9621,7 +9168,6 @@ Salz, Pfeffer
 1 Prise Zucker
 
 Etwas Essig
-
 50 ml Öl
 
 ### Zubereitung
@@ -9632,14 +9178,10 @@ Etwas Essig
 
 ## Zwiebelsuppe mit Brezenscheiben
 ### Zutaten (für 4 Portionen)
-
 500 g Zwiebeln
-
 60 g Butter
 1 EL Öl
-
 50 ml weißer Portwein
-
 100 ml Weißwein
 1 klare Rindersuppe oder Hühnerbrühe
 2 Lorbeerblätter
@@ -9682,7 +9224,6 @@ Eigentlich ist die toskanische Zwiebelsuppe nichts anderes als eine französisch
 
 ## Zwiebelsuppe Nr. 1
 ### Zutaten (für 4 Portionen):
-
 500 g Zwiebeln
 20 g Butter
 
@@ -9698,7 +9239,6 @@ Eigentlich ist die toskanische Zwiebelsuppe nichts anderes als eine französisch
 
 ## Zwiebelsuppe Nr. 2
 ### Zutaten (für 6 Portionen):
-
 400 g milde Zwiebeln
 1 Kartoffel (etwa 100g)
 2 EL Butter
@@ -9787,7 +9327,6 @@ Gemüsebrühe oder Wasser
 2 Handvoll Basilikum
 1 Prise Salz
 50 g Parmesan
-
 60 g Olivenöl
 
 Schwarzer Pfeffer
@@ -9821,7 +9360,6 @@ Salz, Pfeffer, Zucker
 
 ## Gemüsesuppe Soupe au Pistou
 ### Zutaten (für 6 Portionen):
-
 500 g grüne Bohnen
 2 Tomaten
 
@@ -9855,13 +9393,10 @@ Info:	Diese Suppe gilt heute als typisch provenzalisch, stammt aber ursprünglic
 
 Olivenöl
 Salz
-
 250 ml Weißwein
 
 1,3 l Gemüsebrühe
-
 100 ml Sahne
-
 50 ml Pastis
 
 Ein paar Scheiben Brot
@@ -9880,7 +9415,6 @@ Info:	Dieses Gericht ist ein suppegewordener Aperitif, denn geschmacklich herrsc
 1 Fenchelknolle
 
 5 Kartoffeln
-
 400 g Mangold
 3 Zweige Thymian
 3 EL Olivenöl, plus etwas mehr zum Servieren
@@ -9903,7 +9437,6 @@ Frisch geriebenen Parmesan zum Servieren
 ## Borschtsch (Eintopf mit Roter Bete)
 ### Zutaten (für 6 Portionen):
 2 mittelgroße Zwiebeln
-
 500 g Rote Bete
 2 Karotten
 2 Kartoffeln
@@ -9978,11 +9511,9 @@ Olivenöl
 3 Frühlingszwiebeln
 
 Etwa ½ Knolle junger Knoblauch
-
 400 g Erbsen in der Schote
 200 ml Wasser
 Salz, Pfeffer
-
 400 g grüner Spargel
 150 g Blätter vom Römersalat
 2 Scheiben Brot
@@ -10012,10 +9543,8 @@ Info:	Eigentlich ist die ein frühlingshafte Eintopf aus Italien mit frischen Er
 1 TL Salz
 
 *Für die Suppe:*
-
 700 g Karotten
 2 EL Kokosöl
-
 400 g Kokosmilch
 
 ### Zubereitung
@@ -10072,7 +9601,6 @@ Salz
 
 ## Flädlesuppe Nr. 2
 ### Zutaten für 6-8 Portionen
-
 80 g Mehl
 2 EL gemahlene Haselnüsse
 1 Prise Salz
@@ -10134,7 +9662,6 @@ Mehl
 60 ml lauwarme Milch
 1 Zwiebel
 1 EL Butter
-
 400 g Blattspinat (oder TK)
 Salz
 250 g Bratwurstbrät
@@ -10161,7 +9688,6 @@ Info:	Ich weiß eigentlich gar nicht, wieso ich so ein Rezept mit aufnehme 😊.
 
 ## Kartoffelsuppe
 ### Zutaten für 4 Portionen:
-
 500 g Kartoffeln
 1 Zwiebel
 1 EL Öl
@@ -10184,11 +9710,9 @@ Info:	Unsere Kartoffelsuppe, so oft schon gemacht und immer wieder lecker. Man k
 
 ## Badische Kartoffelsuppe mit Kracherle
 ### Zutaten (für 4 Portionen)
-
 750 g mehligkochende Kartoffeln
 1 Bund Suppengrün
 2 Zwiebeln
-
 4 EL Butter
 
 1,5 l Gemüsebrühe
@@ -10198,7 +9722,6 @@ Info:	Unsere Kartoffelsuppe, so oft schon gemacht und immer wieder lecker. Man k
 1 Prise Muskat
 Salz, Pfeffer
 2 Scheiben Weißbrot
-
 5 EL Petersilie
 
 ### Zubereitung
@@ -10209,7 +9732,6 @@ Salz, Pfeffer
 
 ## Zucchinisuppe
 ### Zutaten (für 4 Portionen):
-
 500 g Zucchini
 200 g Kartoffeln
 2 Schalotten
@@ -10241,12 +9763,10 @@ Info:	Dies ist unsere allseits beliebte und berüchtigte Hexensuppe. Ich lasse a
 
 ## Zucchini-Erbsen-Suppe
 ### Zutaten (für 8 Portionen):
-
 5 EL Olivenöl
 1 Knoblauchknolle, die Zehen abgelöst und geschält
 6 Zucchini, in 3 cm dicke Scheiben geschnitten
 1 l Gemüsebrühe
-
 500 g TK-Erbsen
 50 g Basilikumblätter
 200 g Feta, in 1 -2 cm große Stücke zerbröckelt
@@ -10270,19 +9790,16 @@ Salz, Pfeffer
 1 mittelgroße Karotte
 2 Stangen Sellerie mit grün
 2 lange rote Chilischoten, fein gehackt
-
 4 EL Knoblauchzehen, zerdrückt
 1 Msp. Cayennepfeffer
 1 TL Paprikapulver
 1 EL getrockneter Oregano
 200 g Tomaten, enthäutet, entkernt und gewürfelt
-
 400 ml passierte Tomaten
 200 ml Gemüsebrühe
 
 Pfeffer, Salz
 2 EL Kakaopulver
-
 100 ml Rotwein
 
 ### Zubereitungszeit
@@ -10307,11 +9824,8 @@ Rapsöl
 1 EL Chilipulver
 1 TL Kreuzkümmelsamen
 2 Dosen geschälte Tomaten (à 400 g)
-
 80 g Linsen (Du Puy oder Beluga)
-
 80 g Bulgur
-
 80 g Quinoa
 1 Dose weiße Bohnen (ca. 250 g Abtropfgewicht)
 1 l Gemüsebrühe
@@ -10344,9 +9858,7 @@ Je 400 g schwarze Bohnen, Kichererbsen und rote Kidneybohnen aus der Dose, abget
 1 EL gemahlener Koriander
 
 Je 1 TL gemahlener Zimt und gemahlener Chili
-
 400 g stückige Tomaten aus der Dose
-
 375 ml Gemüsefond
 2 EL Tomatenmark
 1 EL Zucker
@@ -10382,7 +9894,6 @@ Körner von 2 Maiskolben (oder 150 g aufgetauter TK-Mais)
 2 Dosen geschälte Tomaten (à 400 g)
 
 Meersalz und schwarzer Pfeffer aus der Mühle
-
 60 g dunkle Schokolade (mindestens 80% Kakaoanteil), grob geraspelt
 
 *Zum Anrichten*
@@ -10402,16 +9913,13 @@ Tipp:	Reste halten sich 3-5 Tage im Kühlschrank.
 
 ## Maronensuppe
 ### Zutaten (für 4 Portionen):
-
 400 g gegarte Maronen
 1 mittelgroße rote Zwiebel
 1 Stange Sellerie
 2 Knoblauchzehen
-
 4 EL Olivenöl
 2 große Karotten
 1 kleine Kartoffel
-
 750 ml Gemüsebrühe
 300 ml Hafermilch
 200 ml Hafersahne
@@ -10433,7 +9941,6 @@ Pfeffer, Salz
 100 g Möhren
 100 g Lauch
 1 Stange Sellerie
-
 500 g Esskastanien
 100 g durchwachsener Räucherspeck
 1 Gewürznelke
@@ -10471,7 +9978,6 @@ Pfeffer
 ½ TL Meersalz
 
 4 mittelgroße Tomaten
-
 120 ml cremige, ungesalzene Erdnussbutter
 200 ml Kokosmilch
 150 g Babyspinat
@@ -10479,7 +9985,6 @@ Pfeffer
 *Für die Bananenküchlein*
 3 reife Bananen
 100 g Mehl
-
 50 ml Kokosmilch
 
 ¼ TL geriebene Muskatnuss
@@ -10532,9 +10037,7 @@ Pfeffer, Meersalz
 2 Zwiebeln
 1 Knoblauchzehe
 1 EL Butter
-
 100 ml Weißwein oder Gemüsebrühe
-
 400 ml Brühe
 200 ml Milch
 200 g Sahne
@@ -10557,7 +10060,6 @@ Muskatnuss
 6 Zwiebeln
 3 Knoblauchzehen
 1 EL Butter
-
 500 g dunkles Landbrot in Scheiben
 300 g frisch geriebener Cantalkäse
 Salz
@@ -10579,13 +10081,10 @@ Tipp:	Cantal gilt als eine der ältesten französischen Käsesorten. Schon Plini
 200 g Pistazienkerne
 30 g Butter
 100 g Schalotten, fein gehackt
-
 25 g Ingwer, fein gehackt
 150 g Lauch, fein gehackt
 2 TL Kreuzkümmel
-
 700 ml Hühnerbrühe/Gemüsebrühe
-
 80 ml frisch gepresster Orangensaft
 1 EL Zitronensaft, Salz, Pfeffer
 
@@ -10604,13 +10103,11 @@ Info:	Diese Suppe habe ich auch einmal versucht. Am aufwändigsten war das Schä
 
 ## Spargelsuppe mit Schnittlauch und geröstetem Brot
 ### Zutaten (für 2 Portionen):
-
 600 g Abschnitte und Schalen von etwa 1,5 kg grünem und weißem Spargel
 1 Schalotte
 1 TL Butter
 3 kleinere Kartoffeln
 Salz	
-
 30 ml Sahne
 1 Prise Zucker
 1 Brötchen
@@ -10627,16 +10124,12 @@ Schnittlauch zum Servieren
 
 ## Pilz-Suppe
 ### Zutaten (für 4 Portionen):
-
 600 g Pilze
 20 g frischer Ingwer
 2 Knoblauchzehen
 150 g Zwiebeln
-
 25 g Butter
-
 5 EL trockener Sherry
-
 800 ml Gemüsebrühe
 200 ml Schlagsahne
 Salz, Pfeffer, Zucker
@@ -10666,7 +10159,6 @@ Salz, Pfeffer
 1 Zwiebel
 250 g frische Pfifferlinge (hier ist wieder das Problem Radioaktivität und Pilz)
 50 g Schalotten
-
 25 g Butter
 
 1/8 l Schlagsahne
@@ -10695,9 +10187,7 @@ Muskatnuss frisch gerieben
 2 EL Olivenöl
 40 g Butter
 20 g Mehl
-
 400 ml Gutedel
-
 400 ml Gemüsebrühe oder Geflügelbrühe
 2 Zitronengras
 200 ml Sahne
@@ -10843,7 +10333,6 @@ Gemüsezwiebeln mit Schale halbieren und in einer unbeschichteten Pfanne ohne Ö
 1 Nelke
 
 Je 1 Zweig glatte Petersilie, Thymian und Liebstöckl
-
 100 ml Weißwein
 
 ### Zubereitungszeit
@@ -10869,7 +10358,6 @@ Je 4 Zweige Petersilie und Thymian
 
 4 Knoblauchzehen zerdrückt
 1 TL weiße Pfefferkörner
-
 100 ml Weißwein
 
 ### Zubereitungszeit
@@ -10887,7 +10375,6 @@ Je 4 Zweige Petersilie und Thymian
 2 Möhren
 2 kleinen Stangen Lauch
 2 Tomaten
-
 4 EL Olivenöl
 
 4 Knoblauchzehen, zerdrückt
@@ -10897,7 +10384,6 @@ Je 4 Zweige Petersilie und Thymian
 Je 4 Zweige Rosmarin und Thymian
 2 TL Pfefferkörner
 Salz
-
 400 ml Rotwein
 200 ml roter Portwein
 
@@ -10940,9 +10426,7 @@ Kochzeit: 120 Minuten,
 Tipp:	Brühe kocht man am besten in einer großen Menge, gefriert diese in Beuteln portioniert ein oder konserviert sie in Einmachgläsern. So kann man auch im Alltag schnell darauf zurückgreifen. Man sollte Brühen und Fonds immer mit größter Sorgfalt und Ruhe kochen, dann kommt das beste Ergebnis raus. Am einfachsten ist es, die Brühen über Nacht auf leiser Flamme hinschlummern lassen, dann sind sie am nächsten Morgen perfekt. Es gilt: je langsamer etwas auskocht, desto schmackhafter ist es. Aber die erste halbe Stunde immer dabei sein, dann könnt ihr euch auf die faule Haut legen😊
 
 ### Zutaten (für die Flädle):
-
 4 Eier
-
 250 ml Milch
 120 g Mehl
 
@@ -10959,7 +10443,6 @@ Verschiedene Kräuter, z.B. Petersilie, Kerbel, Schnittlauch
 
 *Für die Rinderbrühe:*
 40 g geschälter Ingwer, grob geschnitten
-
 350 g Schalotten, grob geschnitten
 
 4 Sternanis
@@ -10977,10 +10460,8 @@ Verschiedene Kräuter, z.B. Petersilie, Kerbel, Schnittlauch
 1 TL Salz
 
 *Für Pho Bo:*
-
 800 ml Rinderbrühe
 300 g Reisnudeln, 1 cm breit
-
 4 EL Fischsauce
 
 ½ Bund Thai-Basilikum
@@ -11013,7 +10494,6 @@ Verschiedene Kräuter, z.B. Petersilie, Kerbel, Schnittlauch
 2 EL Tomatenmark
 1 EL rosenscharfes Paprikapulver
 1 EL edelsüßes Paprikapulver
-
 125 ml Rotwein
 650 ml Brühe
 250 g Kartoffeln
@@ -11032,20 +10512,16 @@ Salz
 
 ## Gulaschsuppe Nr. 2
 ### Zutaten (für 4 Portionen)
-
 700 g Rindfleischgulasch
-
 400 g Zwiebeln
 
 1-2 EL Öl
 1 EL Tomatenmark
-
 750 ml Brühe
 
 Je ½ gelbe und rote Paprikaschote
 
 ½ Zucchino
-
 400 g Kartoffeln
 Salz
 
@@ -11073,7 +10549,6 @@ Mildes Chilipulver
 
 ## Gulaschsuppe Nr. 3
 ### Zutaten (für 4 Portionen):
-
 500 g Rinderbrust
 2 Zwiebeln
 100 g Möhren
@@ -11099,14 +10574,12 @@ Je 1 Prise Pfeffer, Rosenpaprika und Knoblauch
 ### Zutaten (für 4 bis 6 Portionen):
 1 Zwiebel, geschält und halbiert
 1 Huhn (ungefähr 1,5 – 2 kg, Haut entfernt)
-
 500 g Karotten, geschält
 1 ganze Knoblauchknolle, oben angeschnitten
 
 20 Pfefferkörner
 1 Lorbeerblatt
 Salz
-
 80 g Reis
 1 TL Tomatenmark
 200 g Grünkohl (oder Palmkohl)
@@ -11207,7 +10680,6 @@ Tipp:	Hühnersuppe hilft auch immer gut bei Erkältungen😊
 1 Stück Ingwer
 1 Lauchstange
 1 kleiner Bund frischer Koriander
-
 400 g Hühnchenfleisch (Flügel und Keulen mit Knochen und Haut oder 1 ganzes kleines Suppenhuhn)
 
 10 schwarze Pfefferkörner
@@ -11266,7 +10738,6 @@ Info:	Das Besondere an dieser Suppe ist zum einen, dass sie mit Ei gebunden wird
 1 TL Salz
 
 *Für die Suppe:*
-
 400 ml Kokosmilch
 200 ml Brühe oder Wasser
 
@@ -11352,7 +10823,6 @@ Currypulver
 Etwa 1 ¼ l Milch
 
 Frisch geriebene Muskatnuss
-
 350 g Champignons oder Egerlinge
 1 Bund Petersilie
 1 TL Zitronensaft
@@ -11374,7 +10844,6 @@ Salz, Pfeffer aus der Mühle
 
 ## Gaisburger Marsch
 ### Zutaten (für 4 – 6 Portionen):
-
 800 g Rindfleisch
 2 Suppenknochen
 Salz, Pfeffer
@@ -11383,7 +10852,6 @@ Salz, Pfeffer
 4 Zwiebeln
 1 Gewürznelke
 1 Lorbeerblatt
-
 500 g Kartoffeln
 300 g gegarte Spätzle
 
@@ -11403,11 +10871,9 @@ Info:	Die Suppe stammt angeblich aus dem Stuttgarter Stadtteil Gaisburg. Man erz
 ### Zutaten (für 4 Portionen):
 1 EL Sonnenblumenöl
 1 kleine Zwiebel, gehackt
-
 170 g Knollensellerie, geschält und in 0,5 große Würfel geschnitten
 20 große Knoblauchzehen, geschält
 1 TL gemahlener Kreuzkümmel
-
 500 g Schmorfleisch vom Lamm oder Rind, in 2 cm große Würfel geschnitten
 100 g getrocknete weiße Bohnen, über Nacht in reichlich kaltem Wasser eingeweicht und abgetropft
 
@@ -11431,11 +10897,9 @@ Zitronenspalten zum Servieren
 
 ## Eintopf mit Reisnudeln und Lamm– Giouvétsi me kritharáki
 ### Zutaten (für 4 Portionen)
-
 700 g Lammfleisch aus der Keule
 200 g Zwiebeln
 3 Knoblauchzehen
-
 500 g reife Fleischtomaten
 40 g Butter
 1 EL Tomatenmark
@@ -11456,9 +10920,7 @@ Salz, Pfeffer
 ## Türkischer Eintopf mit Lamm, Feigen und Zwiebeln
 ### Zutaten für 6 Portionen
 300 g getrocknete Feigen ohne Stiele
-
 250 ml Wasser
-
 100 ml Olivenöl
 
 5 Zwiebeln
@@ -11467,9 +10929,7 @@ Lammfleisch aus der Schulter oder Keule in Würfel geschnitten
 75 g Mehl
 2 EL Tomatenmark
 1 TL gemahlener Piment
-
 250 ml Rotwein
-
 125 ml Hühnerbrühe
 2 Lorbeerblätter
 Salz, Pfeffer
@@ -11487,7 +10947,6 @@ Etwas Olivenöl
 1 Zwiebel
 
 ½ TL gemahlener Kurkuma
-
 600 g Rinderschmorfleisch (zum Beispiel Gulasch)
 Salz
 1 großes Bund glatte Petersilie
@@ -11507,21 +10966,16 @@ Wenn man mal keine Lust auf Rhabarberkuchen hat, dann wäre das hier vielleicht 
 
 ## Irish Stew Nr. 1
 ### Zutaten (für 4 Portionen)
-
 500 g Spitzkohl
 100 g Zwiebeln
-
 800 g Lammrücken
-
 600 g Kartoffeln
-
 500 g Möhren
 6 EL Öl
 Salz, Pfeffer
 2 TL Kümmelkörner
 1 l Gemüsebrühe
 1 Tüte Zwiebelsuppenpulver (für 0,75 l)
-
 4 EL gehackter Kerbel
 
 ### Zubereitung
@@ -11560,14 +11014,12 @@ Je ein Stängel Rosmarin und Thymian
 
 *Für das Stew:*
 1 EL Olivenöl
-
 400 g gewürfeltes Lamm
 
 Butter
 2 Stangen Staudensellerie
 1 mittelgroße Stange Lauch
 2 Karotten
-
 400 ml Lammfonds
 1 Stängel Rosmarin, 1 Lorbeerblatt
 
@@ -11601,7 +11053,6 @@ Saft von ½ Zitrone
 Je nach Anzahl der Personen zwischen 700 und 1000 g Heilbutt ohne Haut (wahlweise Lachs, Seesaibling oder Filet von irgendeinem anderen großen, fetten, festen Fisch)
 1 Bund grüner Spargel. je dünner umso besser
 1 Bund Frühlingszwiebeln
-
 100 ml Olivenöl
 Salz, Pfeffer
 
@@ -11626,7 +11077,6 @@ Mindestens 60 g ungesalzene Butter
 
 Grated zest of ½ lemon
 1 tsp. Chopped fresh thyme
-
 25 g seed and sun-dried tomato tapper
 1 egg, beaten
 1 tsp. sunflower oil
@@ -11644,12 +11094,9 @@ Grated zest of ½ lemon
 6 Stangen Zitronengras (klein geschnitten
 
 Rapsöl
-
 100 ml Weißwein
 1 l Geflügelfond
-
 250 ml Sahne
-
 250 ml Kokosmilch
 
 1,5 EL Currypulver (Madras)
@@ -11680,7 +11127,6 @@ Erdnussöl
 2 TL flüssiger Honig
 2 EL Weißweinessig
 Salz, Pfeffer, Cayennepfeffer
-
 4 EL Olivenöl
 
 4 Stiele Estragon
@@ -11690,7 +11136,6 @@ Salz, Pfeffer, Cayennepfeffer
 3 EL Mehl
 2 Eier
 6 EL Semmelbrösel
-
 500 ml Öl zum Frittieren
 1 Zitrone
 
@@ -11728,7 +11173,6 @@ Tipp:	Mit gutem Huhn und sehr guten Oliven schmeckt das Ganze ziemlich sehr gut 
 
 ## Hühnchen mit Blutorangen, Honig und Chili
 ### Zutaten (für 4 Portionen):
-
 4 EL flüssiger Honig
 1 EL Sambal Oelek (oder eine andere Chilipaste)
 3 EL Olivenöl
@@ -11737,7 +11181,6 @@ Tipp:	Mit gutem Huhn und sehr guten Oliven schmeckt das Ganze ziemlich sehr gut 
 Ein paar Zweige Thymian
 
 Ein paar Zweige Estragon
-
 600 g möglichst kleine Kartoffeln
 1 Huhn (ca. 1,5 kg vom Metzger in 8 Teile zerteilen lassen)
 Salz
@@ -11788,7 +11231,6 @@ Info:	Wenn man mal an einem Novembertag trübsinniger Stimmung ist, weil die Dun
 
 12 Zweige Thymian
 2 EL Olivenöl
-
 250 ml Weißwein
 
 ca. 700 g nicht zu große Tomaten
@@ -11808,9 +11250,7 @@ Salz
 Pflanzenöl
 Salz, Pfeffer
 2 Hühnerfilets
-
 150 ml Weißwein
-
 150 ml Sahne
 1 Handvoll Estragonblätter
 
@@ -11824,12 +11264,9 @@ Salz, Pfeffer
 
 *Für das Hühnchen*
 20 g Kasmiri-Chilipulver
-
 60 g Joghurt
-
 5 g Bockshornklee
 20 g Ingwer-Knoblauch-Paste
-
 50 ml Senföl (oder ein anderes pflanzliches Öl)
 
 Etwas Salz
@@ -11837,9 +11274,7 @@ Etwas Salz
 
 *Für die Soße:*
 2 kg reife Roma-Tomaten, gewaschen und halbiert
-
 5 g schwarzer Pfeffer (grob)
-
 5 g grüner Kardamom (ganz)
 1 Zimtstange
 2 Lorbeerblätter
@@ -11847,15 +11282,12 @@ Etwas Salz
 50 g Honig
 50 g Butter
 2 g Bockshornkleeblätter (getrocknet, im Mörser zerstampft)
-
 5 g Cumin (gemahlen)
 2 g Garam Masala
-
 100 ml Sahne (wenig Fett)
 Salz, Zucker
 
 *Für das Naan:*
-
 80 ml Milch
 1 TL Zucker
 250 g Mehl
@@ -11884,7 +11316,6 @@ Salz, Zucker
 
 ## Gebratenes Hähnchen mit Ingwer - Gai Pad Khing Krapao
 ### Zutaten (für 2 – 4 Portionen)
-
 400 g Hähnchenbrust ohne Haut
 1 Stück Ingwer (ca. 20 g)
 
@@ -11895,7 +11326,6 @@ Salz, Zucker
 2 EL Austernsauce
 1 EL Sojasauce
 2 EL Fischsauce
-
 4 EL Wasser
 1 Prise Zucker
 
@@ -11931,9 +11361,7 @@ Erdnussöl zum Braten
 2 EL Sesamöl
 
 *Für den Dip:*
-
 50 ml Sojasauce
-
 10 ml Fischsauce
 1 EL gerösteter Sesam
 
@@ -11964,7 +11392,6 @@ Erdnussöl zum Braten
 2 EL Sonnenblumenöl
 
 *Erdnusssauce:*
-
 80 g Erdnüsse
 200 ml Kokosmilch
 1 TL rote Currypaste
@@ -12021,7 +11448,6 @@ Salz, Pfeffer
 
 *Für das Tabouléh*
 120 g Couscous
-
 240 ml Pfefferminztee
 1 EL Razel Hanout
 
@@ -12091,13 +11517,11 @@ Salz
 1 Chilischote (ohne Kerne)
 1 TL gemahlener Piment
 1 g Safran
-
 800 ml dünne Gemüsebrühe
 
 4 eingelegte Zitronen
 
 Für den Bulgur:
-
 400 g Bulgur
 50 g gehackte, getrocknete Cranberries
 50 g Butter
@@ -12140,7 +11564,6 @@ Salz
 2 große Zwiebeln
 
 Olivenöl
-
 500 g Hühnerfleisch
 1 Knoblauchzehe
 
@@ -12148,7 +11571,6 @@ Petersilie
 Salz, Pfeffer
 
 Je 1 Prise Kurkuma, Ingwerpulver, süßes Paprikapulver
-
 500 g frische Erbsen ohne Schote
 1 kg junge Möhren
 
@@ -12161,7 +11583,6 @@ Je 1 Prise Kurkuma, Ingwerpulver, süßes Paprikapulver
 ## Coq au vin Nr. 1
 ### Zutaten (für 4 Portionen)
 1 Brathähnchen (2,5 – 3 kg)
-
 4 EL Pflanzenöl
 2 in Würfel geschnittene Karotten
 2 in Würfel geschnittene Zwiebeln
@@ -12242,7 +11663,6 @@ Cayennepfeffer
 50 g fetter „grüner“ Speck
 3 EL Obstwasser
 Salz
-
 500 g Champignons
 
 ### Zubereitung
@@ -12337,7 +11757,6 @@ Saft von 1/2 Zitrone
 1 gestrichener TL Salz
 
 Ca. 80 ml Wasser
-
 250 ml Sahne
 3 EL gemahlene Mandeln
 1 Handvoll gehackter frischer Koriander
@@ -12381,7 +11800,6 @@ Zubereitung
 Salz, Pfeffer
 
 40 Knoblauchzehen (etwa vier Knollen)
-
 250 ml Weißwein
 
 ### Zubereitung
@@ -12405,7 +11823,6 @@ Also, ich hab es noch nicht ausprobiert. Hört sich für mich aber sehr interess
 
 4 Hähnchenschenkel (oder 1 zerlegtes Huhn)
 Salz
-
 400 g Süßkartoffeln
 
 ### Zubereitung
@@ -12448,7 +11865,6 @@ Salz, Pfeffer
 2 TL frischer Ingwer (geschält, zerstoßen)
 350 ml Weißwein
 300 ml Gemüsebrühe
-
 100 ml Sahne
 Salz, Pfeffer
 
@@ -12471,11 +11887,9 @@ In Garten beim Kompost wächst und gedeiht unser Rhabarber. Im Frühling leuchte
 3 EL Rotweinessig
 3 EL Olivenöl
 100 g entsteinte grüne Oliven
-
 60 g Kapern, plus 2 EL Lake aus dem Glas
 120 g Medjool Datteln, entsteint und längs geviertelt
 2 Lorbeerblätter
-
 120 ml trockener Weißwein
 1 EL Dattelsirup (oder Zuckerrübensirup)
 Salz, Pfeffer
@@ -12493,7 +11907,6 @@ Info:	Marinieren ist natürlich das Beste, aber wenn die Zeit nicht reicht, dann
 ### Zutaten (für 4 Portionen)
 
 10 cl Arak, Ouzo oder Pernod
-
 4 EL Olivenöl
 3 EL frisch gepresster Orangensaft
 3 EL Zitronensaft
@@ -12520,9 +11933,7 @@ Salz, Pfeffer
 ## Hähnchen mit karamellisierten Zwiebeln und Kardamomreis
 ### Zutaten (für 4 Portionen)
 40 g Zucker
-
 25 g Berberitzen oder Korinthen
-
 4 EL Olivenöl
 2 mittelgroße Zwiebeln, in feine Ringe geschnitten
 1 kg Hähnchenkeulen oder 1 Hähnchen geviertelt
@@ -12531,7 +11942,6 @@ Salz, Pfeffer
 
 4 Gewürznelken
 2 lange Zimtstangen, halbiert
-
 550 ml kochendes Wasser
 
 Je 1 TL gehackte Petersilie, Dill und Koriander
@@ -12550,7 +11960,6 @@ Salz, Pfeffer
 3 EL Olivenöl
 3 rote Zwiebeln, in feine Ringe geschnitten
 2 Knoblauchzehen, zerdrückt
-
 4 EL Harissa
 2 TL mildes Paprikapulver
 
@@ -12565,7 +11974,6 @@ Salz, Pfeffer
 
 *Für die Maiskruste:*
 70 g Butter, zerlassen
-
 500 g Maiskörner, frisch oder TK und aufgetaut
 3 EL Milch
 3 Eier, getrennt
@@ -12588,7 +11996,6 @@ Salz, Pfeffer
 
 ½ Scheibe Weißbrot
 1 Knoblauchzehe
-
 100 ml Sherry medium
 200 ml Hühnerbrühe (oder Gemüsebrühe)
 2 EL gehackte Petersilie
@@ -12604,7 +12011,6 @@ Salz, Pfeffer aus der Mühle
 1 Brathuhn (ca. 1,6 kg)
 
 Meersalz
-
 400 ml Piri-Piri-Sauce
 
 Grillkorb
@@ -12652,7 +12058,6 @@ Salz, Pfeffer
 2 TL edelsüßes Paprikapulver
 
 BBQ-Sauce
-
 700 g Spitzkohl
 150 g Möhren
 1 rote Zwiebel
@@ -12706,9 +12111,7 @@ Info:	Dazu passt Blattsalat und Baguette.
 ### Zutaten (für 6 Portionen):
 3 große Putenschnitzel (etwa 600 g)
 1 unbehandelte Zitrone
-
 100 ml Olivenöl
-
 600 g Brokkoli
 2 Fleischtomaten (etwa 400 g)
 150 g Mozzarella
@@ -12730,27 +12133,22 @@ Je länger die Schnitzel durchziehen (am besten über Nacht), desto würziger un
 
 ## Puten-Involtini mit Sauerkraut
 ### Zutaten (für 4 Portionen):
-
 400 g frisches Sauerkraut
 2 Lorbeerblätter
 
 5 Pimentkörner
 2 TL weiße Pfefferkörner
-
 175 g Schalotten
 40 g Butter
 2 EL Kastanienhonig (oder Akazienhonig)
-
 150 ml Weißwein
 
 Je 50 ml Orangen- und naturtrüber Apfelsaft
 Salz, weißer Pfeffer
 2 junge Knoblauchzehen
-
 24 g Scheiben Tiroler Speck (ca. 250 g)
 3 Stiele Thymian
 200 ml heller Geflügelfond oder (geflügelbrühe)
-
 80 ml Sahne
 
 4 Putenschnitzel (à 150 g)
@@ -12774,10 +12172,8 @@ Meersalz, schwarzer Pfeffer
 2 Zweige Rosmarin
 2 Stiele Thymian
 300 g Steinpilze (oder Champignons)
-
 400 g Tagliatelle
 40 g Butter
-
 150 ml Geflügelfond
 2 – 3 Stiele glatte Petersilie (fein gehackt)
 40 g Parmesan
@@ -12792,14 +12188,11 @@ Meersalz, schwarzer Pfeffer
 
 ## Huhn mit Zitrone, Petersilie und Orecchiette
 ### Zutaten (für 4 Portionen):
-
 380 g Orecchiette
 1 EL Öl
-
 60 g Butter
 
 4 kleine Hühnerbrustfilets
-
 80 ml Zitronensaft
 20 g frische glatte Petersilie, feingehackt
 
@@ -12820,7 +12213,6 @@ Zitronenscheiben als Garnierung
 
 4 Scheiben Frühstücksspeck
 250 g Kirschtomaten, halbiert
-
 60 g schwarze Oliven, entsteint, in Scheiben geschnitten
 120 g Pestosauce aus dem Glas
 30 g frisches Basilikum, feingezupft
@@ -12845,7 +12237,6 @@ Zubereitungszeit 40 Minuten
 1 Möhre, gehackt
 3 Scheiben Frühstücksspeck, gehackt
 2 Zucchini, gehackt
-
 450 g Tomatensuppe aus der Dose
 90 g Crème fraîche
 180 g mittelalter Gouda gerieben
@@ -12873,7 +12264,6 @@ Zubereitungszeit 40 Minuten
 
 8 Kaffirlimettenblätter (doch Asialaden)
 1 Bund Thai-Basilikum 
-
 400 ml Kokosmilch
 200 g Aubergine
 
@@ -12891,7 +12281,6 @@ Zubereitungszeit 40 Minuten
 
 ## Hähnchenspieße mit Mais und Avocado
 ### Zutaten (für 2 – 4 Portionen)
-
 450 g Hähnchenbrustfilet (ohne Haut)
 1 Zwiebel
 200 ml Buttermilch
@@ -12905,7 +12294,6 @@ Cayennepfeffer
 6 Stiele koriandergrün
 1 Knoblauchzehe
 1 Avocado
-
 4 EL Olivenöl, 1 TL Butter
 
 ### Zubereitungszeit
@@ -12924,9 +12312,7 @@ Cayennepfeffer
 1 Dose Kichererbsen (400 g)
 300 g Hähnchenbrustfilet (ohne Haut)
 2 TL Harissa
-
 80 g kleine Tomaten
-
 4 EL Olivenöl
 Salz
 1 kleine getrocknete Chilischote
@@ -12934,7 +12320,6 @@ Salz
 ½ TL Kreuzkümmelsaat
 1 Kardamomkapsel
 200 ml passierte Tomaten
-
 100 ml Geflügelfond (oder eben Gemüsebrühe)
 2 Stiele Dill
 2 Stiele Minze
@@ -12952,7 +12337,6 @@ Außerdem: Tajine (oder eben Bräter mit Deckel)
 
 ## Poulardenbrust mit Curry-Couscous
 ### Zutaten für 2 Portionen
-
 120 ml Kokosmilch
 1 TL Currypulver
 Salz, Pfeffer
@@ -12981,9 +12365,7 @@ Salz, Pfeffer
 5 Zwiebeln
 2 Knoblauchzehen
 2 grüne Chilischoten
-
 7 EL Öl
-
 500 g Hähnchenbrustfilet (ohne Haut)
 2 Möhren
 
@@ -13037,10 +12419,8 @@ Salz, Pfeffer
 ### Zutaten (für 4 Portionen)
 1 kleine Chilischote
 1 Knoblauchzehe
-
 5 EL Limettensaft
 6 EL Sweet-Chili-Sauce
-
 4 EL Sojasauce
 
 Pfeffer, Salz
@@ -13050,7 +12430,6 @@ Pfeffer, Salz
 6 Stiele Koriandergrün
 1 Frühlingszwiebel
 1 Beet Daikon-Kresse aus dem Asia-Laden
-
 400 g Hähnchenbrustfilet 
 2 Eier
 50 g Mehl
@@ -13068,7 +12447,6 @@ Pfeffer, Salz
 
 ## Hähnchenspieße mit Süßkartoffelstampf
 ### Zutaten (für 2 Portionen)
-
 350 g Süßkartoffeln
 150 g mehlig kochende Kartoffeln
 Salz, Zucker
@@ -13084,11 +12462,9 @@ Hähnchenbrustfilet
 
 5 schwarze Pfefferkörner
 40 g Butter (eiskalt, in kleine Stücke geschnitten)
-
 5 EL Olivenöl
 2 EL mittelscharfer Senf
 40 g Brunnenkresse
-
 4 EL Vollmilch
 
 Muskat
@@ -13154,7 +12530,6 @@ Je 1 kleine grüne und gelbe Zucchini
 100 g Zuckerschoten
 6 Radieschen
 Salz
-
 4 EL Olivenöl
 2 EL schwarze Oliven mit Stein 
 
@@ -13205,7 +12580,6 @@ Tipp:	Am besten schmecken die Spießchen natürlich auf dem Holzkohlengrill (nic
 3 EL Brühe oder Wasser (Ich nehme immer Wasser)
 
 ½-1 TL Kokosblütenzucker
-
 4 EL Erdnussöl
 
 4-5 Knoblauchzehen, gehackt
@@ -13232,15 +12606,11 @@ Oft musste ich zweimal anfangen, weil ich die Cashewkerne verbrannt habe. Also i
 150 g TK-Erbsen
 1 Schalotte
 1 Knoblauchzehe
-
 500 g grüner Spargel
-
 900 ml Gemüsefond
 30 g Butter
 300 g Risottoreis
-
 125 ml Weißwein
-
 80 g Mandeln 
 
 4 Hähnchenbrustfilets (je ca. 175 g)
@@ -13266,7 +12636,6 @@ Chiliflocken
 Butterschmalz
 
 10-12 Rhabarberstiele
-
 4 EL Zucker
 2 EL Butter
 
@@ -13345,11 +12714,9 @@ Salz
 ## Tandoori-Hähnchen - Tandoori-Murg
 ### Zutaten (für 4 Portionen)
 1 kg frische Hähnchenbrust
-
 10 EL Obstessig
 1 Stück frischer Ingwer (4 cm)
 3 Knoblauchzehen
-
 500 g Joghurt (3,5% Fett)
 
 172 TL Chilipulver
@@ -13385,7 +12752,6 @@ Tipp:	Die rote Lebensmittelfarbe gehört traditionell dazu, muss man aber nicht 
 1 EL Reiswein
 1 TL Zucker
 Salz, Pfeffer
-
 500 g Pflanzenöl
 300 g Blattsalat
 
@@ -13407,7 +12773,6 @@ Salz, Pfeffer
 2 – 3 EL Pflanzenöl
 1 l Hühnerbrühe
 300 g Romanesco 
-
 50 ml Rotwein (am besten chinesischen – was auch immer das sein mag 😊)
 1 TL Maisstärke, in 1 EL Wasser angerührt
 
@@ -13577,14 +12942,12 @@ Salz, Pfeffer
 
 ## Hähnchen-Reis-Pfanne
 ### Zutaten (für 2 Portionen)
-
 60 g Wildreismischung
 20 g getrocknete Soft-Aprikosen
 1 Knoblauchzehe
 250 g Hähnchenbrustfilet
 2 EL Öl
 Salz, Pfeffer
-
 100 ml Apfelsaft
 
 4 Stiele Koriandergrün
@@ -13620,10 +12983,8 @@ Salz, Pfeffer aus der Mühle
 
 ## Hähnchenschnitzel
 ### Zutaten (für 2 Portionen):
-
 80 ml Olivenöl
 50 g Mehl
-
 130 g Hartweizengrieß
 1 Ei
 2 TL scharfer Senf
@@ -13651,7 +13012,6 @@ Wenn man sich im Berliner Tiergarten verirrt, kann es passieren, dass sich plöt
 
 Frisch geriebene Muskatnuss
 200 g Champignons
-
 4 EL Zitronensaft
 100 g Crème fraîche
 100 g frisch geriebener Comtékäse (ersatzweise Gruyère)
@@ -13668,7 +13028,6 @@ Salz, Pfeffer aus der Mühle
 ## Maqluba
 ### Zutaten (für 4-6 Personen)
 2 mittelgroße Auberginen (650 g), in 0,5 cm dicke Scheiben geschnitten
-
 320 g Basmatireis
 
 3-4 Hähnchenkeulen (etwa 800 g), entbeint
@@ -13759,7 +13118,6 @@ Ca. 3,5 Liter Wasser
 2 kg Tafelspitz (Rindfleisch aus der Hüfte)
 
 10 bis 15 schwarze Pfefferkörner 
-
 500 g Wurzelwerk (Knollensellerie, Möhren, Petersilienwurzel)
 1 Stange Lauch
 1 kleines Bund Schnittlauch
@@ -13795,7 +13153,6 @@ Salz
 1 kg Tafelspitz (Rindfleisch aus der Hüfte)
 2 Frühlingszwiebeln
 1 EL Butter
-
 600 g tiefgekühlte Erbsen
 
 Weißer Pfeffer
@@ -13863,7 +13220,6 @@ Küchengarn
 
 ## Steak mit Linsen
 ### Zutaten (für 4 Portionen):
-
 680 g Rindersteak
 6 Knoblauchzehen
 
@@ -13872,12 +13228,10 @@ Küchengarn
 2 TL Koriandersamen
 2 TL Fenchelsamen
 2 TL edelsüßes Paprikapulver
-
 120 ml Olivenöl
 2 TL Traubenkern- oder Olivenöl
 200 g Linsen (Du Puy, Beluga oder eine andere bissfeste Sorte)
 2 Lorbeerblätter
-
 240 ml Weißwein
 
 1,2 l Gemüsebrühe
@@ -13905,7 +13259,6 @@ Meersalz, Pfeffer aus der Mühle
 1 EL mittelscharfer Senf
 1 EL grobkörniger Senf
 2 EL Öl
-
 600 g Pfifferlinge
 200 g Lauch
 2 Knoblauchzehen
@@ -13948,9 +13301,7 @@ Für die Würzmischung
 5 faustgroße Stücke Hickory- oder Apfelholz (nicht gewässert)
 
 *Für die Würzsauce*
-
 250 ml Apfelsaft
-
 125 ml Apfelessig
 2 EL Worcestersauce
 
@@ -14055,11 +13406,9 @@ L1,5 Bio-Limetten
 3 EL Schnittlauchröllchen
 2 EL Senf
 3 EL Ketchup
-
 600 g Rindertartar (unbedingt echt gutes Biofleisch)
 
 4 absolut frische Eigelb
-
 4 EL Olivenöl
 
 Tabasco, Worchestersauce, Salz, Pfeffer
@@ -14076,22 +13425,16 @@ Tabasco, Worchestersauce, Salz, Pfeffer
 ## Cheesesteak im Sandwich-Brötchen
 ### Zutaten (für 4 Portionen)
 2 Rib-Eye-Steaks bzw. Entrecôtes (à ca. 280 g)
-
 80 ml Steak-Würzmischung
-
 400 g Champignons
-
 500 g Zwiebeln
 3 EL Butter
-
 4 EL Olivenöl
 Salz, Pfeffer
 250 g junger Bergkäse
 
 4 Sandwich-Brötchen
-
 4 EL Mayonnaise
-
 8 EL BBQ Sauce
 
 Chilisauce nach Belieben
@@ -14154,7 +13497,6 @@ Tipp:	Fleisch ca. 1 Stunde vor dem Braten aus dem Kühlschrank nehmen, damit es 
 Salz, Pfeffer
 
 Mehl zum Bestäuben
-
 350 g Schalotten
 2 EL neutrales Öl
 2 EL Butter
@@ -14189,7 +13531,6 @@ Salz, Pfeffer, Muskat
 2 Rinderhüftsteaks (à 160 g)
 1 TL edelsüßes Paprikapulver
 300 ml Rinderfond
-
 250 ml Schlagsahne
 2 TL grüne Pfefferkörner (abgetropft)
 1 TL Speisestärke
@@ -14209,7 +13550,6 @@ Salz, Pfeffer, Muskat
 
 4 Frühlingszwiebeln
 2 EL Sojasauce
-
 4 EL Sonnenblumenöl
 1 TL Maisstärke
 1 Stück Ingwer (ca. 10 g)
@@ -14234,13 +13574,10 @@ Info:	Man kann das Gericht auch mit anderem Gemüse zubereiten, beispielsweise m
 200 g Zwiebeln
 
 Olivenöl
-
 800 g Rinderbacken (Abschnitt entfernt)
 Salz, Pfeffer
-
 450 ml Rotwein
 1 Sternanis
-
 250 ml Rinderfond
 
 *Für den Spinat*
@@ -14250,7 +13587,6 @@ Salz, Pfeffer
 Öl
 
 *Für das Püree*
-
 900 g Sellerieknolle
 200 ml Wasser
 1 Lorbeerblatt
@@ -14276,7 +13612,6 @@ Butter, Salz, Pfeffer
 Salz, Pfeffer
 
 Butterschmalz
-
 50 ml Rotwein
 
 50 – 100 ml Sahne
@@ -14287,10 +13622,8 @@ Speisestärke
 
 *Für die Schwarzwurzeln*
 1 kg Schwarzwurzeln
-
 375 ml Gemüsebrühe
 Salz, Pfeffer
-
 250 ml Schlagsahne
 1 Eigelb
 2 EL Weißwein
@@ -14309,10 +13642,8 @@ Info:	Dazu passen alle Arten von Spätzle.
 
 ## Rinderfilet aus dem Ofen
 ### Zutaten (für 6 Portionen)
-
 750 g Tomaten
 1 Knoblauchzehe
-
 750 g große Champignons
 1 kg Rinderfilet
 100 g Butterschmalz
@@ -14339,16 +13670,13 @@ Saucenbindemittel
 Öl, Butter
 
 Eventuell ein paar Zweige Rosmarin oder Thymian oder einige Salbeiblätter
-
 400 g Kartoffeln (ungeschält in gleich große Schnitze geschnitten)
 
 Olivenöl
 Salz
 
 *Für die Sauce*
-
 100 ml Mayonnaise
-
 150 ml saure Sahne
 70 g Blauschimmelkäse (Gorgonzola, Roquefort ö.ä.)
 1 EL Zitronensaft
@@ -14413,7 +13741,6 @@ Vorbereitungszeit: 5 Minuten, Garzeit: 5 Minuten
 1 EL Butter
 2 EL Olivenöl
 1 große Prise Zucker
-
 100 ml Rotwein
 1 Prise Salz
 1 Zweig Thymian
@@ -14427,7 +13754,6 @@ Vorbereitungszeit: 10 Minuten, Garzeit: 10-20 Minuten
 
 ## Gebratenes Rinderfilet – Gan Bian Niu Rou Si
 ### Zutaten (für 4 Portionen)
-
 500 g Rinderfilet
 75 g Staudensellerie
 30 g Ingwer
@@ -14503,7 +13829,6 @@ Etwas Salz
 1 kleines Stück Butter
 1 Knoblauchzehe
 1 Stück Ingwer (1 cm)
-
 120 ml Kokosmilch
 
 Ca. 250 ml Wasser
@@ -14547,7 +13872,6 @@ Reis
 
 ## Rindfleisch mit Zwiebeln und verquirltem Ei - Katzagschroi
 ### Zutaten (für 4 Portionen)
-
 700 g Rindfleisch aus der Schulter
 1 Zwiebel
 1 Karotte
@@ -14559,7 +13883,6 @@ Reis
 Salz, Pfeffer
 
 4 Frühlingszwiebeln
-
 5 Eier
 6 EL Milch
 
@@ -14613,10 +13936,8 @@ Salz, Pfeffer
 
 5 Zwiebeln
 2 EL Butterschmalz
-
 125 ml Gemüsebrühe
 1 EL Sojasauce
-
 50 ml Sahne
 
 ### Zubereitungszeit
@@ -14632,7 +13953,6 @@ Info:	Als Beilage passen Spätzle, Kartoffelgratin oder Salat und Brot.
 
 ## Zwiebelrostbraten „Zwiebelroschtbrota“
 ### Zutaten (für 4 Portionen)
-
 500 g Zwiebeln
 
 4 Scheiben Roast Beef (je ca. 150 g)
@@ -14658,14 +13978,11 @@ Salz, Pfeffer, Mehl, Öl
 1 TL Pfefferkörner
 1 TL Wacholderbeeren
 1 – 2 Knoblauchzehen
-
 400 ml trockener Rotwein
-
 100 ml Weinessig
 40 g Butterschmalz
 
 Mehl zum Wenden
-
 250 ml Brühe
 
 *Für die Sauce:*
@@ -14674,12 +13991,10 @@ Mehl zum Wenden
 40 g Mehl
 
 ½ l Flüssigkeit vom Braten
-
 4 EL Rosinen
 1 -2 TL Stärke
 
 Pfeffer, Muskat
-
 4 EL Butter
 
 ### Zubereitungszeit
@@ -14700,7 +14015,6 @@ Pfeffer, Muskat
 2 TL schwarze Pfefferkörner
 
 4 Lorbeerblätter
-
 250 ml Rotweinessig
 2 l Rotwein
 
@@ -14721,7 +14035,6 @@ Etwas Butter, Etwas Pflanzenöl, Salz
 
 *Für die Marinade:*
 1 L Spätburgunder
-
 50 ml Sherryessig
 1 Zwiebel, in Scheiben geschnitten
 2 Karotten, in Scheiben geschnitten
@@ -14815,7 +14128,6 @@ Salz, Pfeffer
 
 ## Kalbsfilet im Salbeimantel
 ### Zutaten (für 6 Portionen)
-
 800 ml Kalbsfond aus dem Glas
 1 großes Kalbsfilet (ca. 1 kg)
 
@@ -14841,7 +14153,6 @@ Salz, Pfeffer
 ### Zutaten (für 4 Portionen):
 
 4 reife Tomaten (400g)
-
 500 g grüne Bohnen
 150 g Parmesankäse (am Stück)
 100 g Pinienkerne
@@ -14943,7 +14254,6 @@ Sehr gehaltvoll, aber auch sehr lecker!
 
 ## Kalbsfrikassee
 ### Zutaten (für 4 Portionen):
-
 750 g Kalbsfleisch aus der Schulter
 1 Möhre
 2 Zwiebeln
@@ -14980,17 +14290,14 @@ Info:	 Als eignet sich Reis oder ganz klassisch auch die Blätterteigpastetchen.
 
 ## Kalbfleisch mit Quitten – Moscári me kidónia
 ### Zutaten (für 4 Portionen)
-
 800 g Kalbfleisch, leicht durchwachsen
 1 mittelgroße Zwiebel
-
 800 g reife Quitten
 6 EL Olivenöl
 1 knapper EL Zucker
 1 Msp. Kreuzkümmel, gemahlen
 1 Stückchen Zimtstange
 Salz, Pfeffer
-
 100 ml Orangensaft
 1 Stückchen Schale von einer unbehandelten Orange
 1 Zweig frische Minze
@@ -15008,14 +14315,12 @@ Tipp:	Geht natürlich auch mit Huhn, Schweine- oder Lammfleisch.
 ## Kalbfleisch mit Basilikumsauce
 ### Zutaten (für 6 Portionen):
 1 kg Kalbsschulter
-
 400 ml Hühnerbrühe
 2 Zweige Thymian
 1 Lorbeerblatt
 2 Bund Frühlingszwiebeln
 2 Knoblauchzehen
 1 Bund Basilikum
-
 900 g Joghurt
 
 2-3 EL Zitronensaft
@@ -15133,7 +14438,6 @@ Tipp: Beilage dazu: Weißbrot und Erbsen.
 1 Stück Ingwer (ca. 2 cm groß)
 
 Etwas Sonnenblumenöl
-
 500 g Lammschulter (Vom Metzger in Würfel geschnitten)
 Salz
 
@@ -15158,10 +14462,8 @@ Schale von 1 Biolimette oder -Zitrone
 
 5 Bio-Zitronen, Schale abgerieben, dann der gesamte Saft ausgepresst
 3 EL Thymianblätter
-
 12 EL Olivenöl
 1 kg ausgelöster Lammnacken (etwa 8 Nackensteaks)
-
 170 g ungehäutete Mandelkerne
 1 EL Honig
 
@@ -15194,11 +14496,9 @@ Im Sommer kann man dieses Gericht übrigens auf dem Grill machen. Dann ist die F
 1 TL grüne Kardamomkapseln
 1 Stück Zimtrinde (etwa 3 cm)
 1 TL Bockshornkleesamen
-
 4 EL Weißweinessig oder Weißwein
 2 TL brauner Zucker
 Salz
-
 4 EL Butterschmalz
 1 TL Korianderpulver
 1 TL Kurkumapulver
@@ -15222,7 +14522,6 @@ Salz
 
 4 Knoblauchzehen
 6 zwiebeln
-
 8 EL Ghee oder Butterschmalz
 
 8 grüne Kardamomkapseln
@@ -15284,7 +14583,6 @@ Salz
 
 ## Kichererbsen mit Lamm – Mutton Chana
 ### Zutaten (für 4 Portionen)
-
 800 g Kichererbsen (Dose) oder ersatzweise 250 g getrocknete Kichererbsen
 250 g Lammfleisch (Schulter)
 2 mittelgroße Zwiebeln
@@ -15337,9 +14635,7 @@ Etwas Butter
 
 ## Lamm- und Kalbfleischtopf aus Korsika - Stufatu
 ### Zutaten (für 6 Portionen):
-
 600 g Lammschulter ohne Knochen
-
 600 g Kalbsschulter ohne Knochen
 75 g frischer fetter Speck
 1 Zwiebel
@@ -15350,7 +14646,6 @@ Etwas Butter
 3-4 Lorbeerblätter
 1 Prise getrocknete Herbes de Provence
 200 ml Rotwein
-
 500 g Makkaroni
 125 g korsischer Schafskäse
 Salz, Pfeffer aus der Mühle
@@ -15365,7 +14660,6 @@ Salz, Pfeffer aus der Mühle
 
 ## Marokkanisches Lammpaprika mit Fusili
 ### Zutaten (für 4 – 6 Personen):
-
 500 g Lammfilet
 3 TL Kreuzkümmel, gemahlen
 1 EL Koriandersamen, gemahlen
@@ -15374,12 +14668,9 @@ Salz, Pfeffer aus der Mühle
 1 Msp. Cayennepfeffer
 
 4 Knoblauchzehen, zerdrückt
-
 80 ml Olivenöl
-
 120 ml Zitronensaft
 2 rote Paprika
-
 400 g Fusilli
 60 ml Olivenöl
 2 TL Harissapaste
@@ -15471,7 +14762,6 @@ Reichlich Olivenöl
 ¼ Knollensellerie
 1 Stange Lauch
 Salz
-
 250 ml Weißwein
 1 Zwiebel
 
@@ -15509,7 +14799,6 @@ Saft und abgeriebene Schale von 1 Biozitrone
 
 ½ TL Bockshornkleesamen, leicht gestoßen
 2 TL gemahlener Kreuzkümmel
-
 25 g Minzeblätter
 15 g Korianderblätter
 1 Olivenöl
@@ -15553,11 +14842,9 @@ Salz, Pfeffer
 ## Lammlachse mit Fenchel und Feigen
 ### Zutaten für 4 Portionen
 1 rote Zwiebel
-
 600 g Fenchel
 1 Bio-Orange
 1 TL Fenchelsaat
-
 600 g Lammlachse
 
 Pfeffer, Salz
@@ -15610,16 +14897,12 @@ Pfeffer, Salz
 1 rote Pfefferschote
 1 Zucchini
 1 Bund Radieschen
-
 5 EL Weißweinessig
 Salz, Pfeffer
 3 TL Ducca (nordafrikanische Gewürzmischung)
-
 10 EL Olivenöl
-
 250 ml Orangensaft, frisch gepresst
 250 g Hirse oder Couscous oder Bulgur
-
 600 g Lammrücken
 1 Zweig Rosmarin
 3 Stiele glatte Petersilie
@@ -15687,9 +14970,7 @@ Etwas Essig
 1 TL frisch gemahlener schwarzer Pfeffer
 
 *Für den Sirup*
-
 120 ml frisch gepresster Orangensaft
-
 4 EL Granatapfelsaft
 2 EL Honig
 1 EL Aceto Balsamcio
@@ -15729,9 +15010,7 @@ Obacht:	Lamm schmeckt nur warm und wird schnell kalt!
 1 Zwiebel
 
 4 Knoblauchzehen
-
 25 g frischer Ingwer
-
 750 g Lammfleisch zum Schmoren (z.B. aus der Keule)
 
 Ca. 500 ml Wasser
@@ -15756,7 +15035,6 @@ Salz und schwarzer Pfeffer
 ### Zutaten (für 3 – 4 Portionen)
 
 5 mittelgroße Äpfel
-
 600 g Lammschulter
 
 Etwas Olivenöl
@@ -15767,7 +15045,6 @@ Etwas Olivenöl
 1 Prise Chiliflocken oder ½ kleine Chilischote
 
 ½ TL Salz
-
 150 ml Weißwein
 
 Saft von ½ Zitrone
@@ -15803,7 +15080,6 @@ Fleur de Sel
 ### Zutaten (für 2 Portionen)
 250 g Lammkeule ohne Knochen
 100 g Lauch
-
 4 EL Pflanzenöl
 1 EL Sojasauce
 1 EL Reiswein
@@ -15820,7 +15096,6 @@ Salz
 
 ## Lammfleisch mit Sesam - Zhi Ma Yang Rou Chuan
 ### Zutaten (für 4 Portionen):
-
 500 g Lammkeule ohne Knochen
 20 g Lauch
 30 g Ingwer
@@ -15831,7 +15106,6 @@ Salz
 
 10 Spieße
 50 g weiße oder schwarze Sesamsamen
-
 500 g Pflanzenöl
 
 ### Zubereitungszeit
@@ -15845,7 +15119,6 @@ Salz
 
 ## Lamm auf Polenta
 ### Zutaten (für 24 Stück)
-
 750 ml Hühnerbrühe
 100 g Instant-Polenta
 2 EL Parmesan. Gerieben
@@ -15866,7 +15139,6 @@ Salz
 
 ## Türkisches Zitronenlamm
 ### Zutaten für 2 Portionen
-
 350 g Lammschulter (ohne Knochen)
 
 Olivenöl
@@ -15906,11 +15178,9 @@ Kann ein Lammschmortopf ein leichtes Gericht sein? Ja, denn was viele nicht wiss
 1 TL grüne Kardamonkapseln
 1 Stück Zimtrinde (etwa 3 cm)
 1 TL Bockshornkleesamen
-
 4 EL Weißweinessig oder Weißwein
 2 TL brauner Zucker
 Salz
-
 4 EL Butterschmalz
 1 TL Korianderpulver
 1 TL Kurkumapulver
@@ -15931,7 +15201,6 @@ Salz
 ### Zutaten (für 4 Portionen)
 
 *Für das Schäufele*
-
 400 ml Brühe
 
 4 Schweinsschäufele nach fränkischem Schnitt
@@ -15952,12 +15221,10 @@ Pfeffer, Salz
 *Für den Krautsalat*
 
 ¼ Spitzkohl
-
 4 EL braune Butter
 Salz, Pfeffer, Zucker
 
 Gemahlener Kümmel
-
 5 EL Gemüsebrühe
 
 1-2 EL Rotweinessig
@@ -15983,20 +15250,16 @@ Gemahlener Kümmel
 1 TL schwarze Pfefferkörner
 
 1,5 kg Schweinebraten aus der Nuss, leicht gepökelt
-
 600 g Weizenmehl
-
 400 g Roggenmehl
 Salz, Pfeffer
 2 TL Korianderkörner, grob zerstoßen
 20 g frische Hefe
 1 Prise Zucker
-
 750 g festkochende Kartoffeln
 1 TL Kümmel
 200 ml Gemüsebrühe
 2 EL Weißweinessig
-
 5 EL mittelscharfer Senf
 60 ml Walnussöl
 2 EL Majoran, fein gehackt
@@ -16016,14 +15279,12 @@ Salz, Pfeffer
 ## Schweinefleisch mit Ingwer, Frühlingszwiebeln und Auberginen
 ### Zutaten (für 4 Portionen)
 3 Auberginen, in 3 cm große Würfel geschnitten
-
 4 EL Erdnussöl
 2 – 3 Bund Frühlingszwiebeln, schräg in 3 cm dicke Stücke geschnitten
 1 Stück frischer Ingwer (7 cm), geschält und in feine Streifen geschnitten
 
 4 Knoblauchzehen, geschält und in dünne Scheibchen geschnitten
 1 grüne Chilischote, in feine Ringe geschnitten
-
 500 g Schweinehackfleisch
 3 EL süßer japanischer Reiswein (Mirin)
 2 EL Sojasauce
@@ -16032,7 +15293,6 @@ Salz, Pfeffer
 
 1,5 EL Reisessig
 15 g Koriandergrün, grob gehackt
-
 60 g geröstete gesalzene Erdnusskerne
 1 EL Sesam, geröstet
 Salz
@@ -16089,11 +15349,8 @@ Für die Würzmischung:
 12 Burgerbrötchen
 
 *Für die Sauce*
-
 250 ml Ketchup
-
 175 ml Apfelessig
-
 4 EL Vollrohrzucker
 
 1,5 TL Worcestersauce
@@ -16122,7 +15379,6 @@ Für die Würzmischung:
 2 Schweinekoteletts
 Salz, schwarzer Pfeffer
 1 EL Wermut
-
 500 g Kirschen
 
 5 Zweige Thymian
@@ -16276,15 +15532,11 @@ Salz
 
 ## Heilbronner Leibgericht
 ### Zutaten (für 4 Portionen)
-
 800 g Schweinefilet
-
 140 g Butter
-
 400 g Pilze
 1 TL grüne Pfefferkörner
 1 Schuss Weißwein
-
 100 ml Sahne
 
 Pfeffer, Salz
@@ -16302,7 +15554,6 @@ Maultaschen, Spätzle, Schupfnudeln
 
 ## Schnitzel-Gratin
 ### Zutaten (für 2 Portionen)
-
 100 ml Schlagsahne
 40 g geriebener Parmesan
 
@@ -16324,7 +15575,6 @@ Salz
 ### Zutaten (für 4 Portionen)
 
 *Für die Schäufele*
-
 800 g Schäufele (Schulterblatt vom Schwein, zart geräuchert und gepökelt)
 2 Zwiebeln
 1 Lorbeerblatt
@@ -16335,11 +15585,9 @@ Salz
 Für den Kartoffelsalat
 1 kg festkochende Kartoffeln
 2 Zwiebeln
-
 5 EL Weißweinessig
 6 EL Pflanzenöl
 2 TL Senf
-
 125 ml Gemüsebrühe
 Salz, Pfeffer
 
@@ -16354,7 +15602,6 @@ Salz, Pfeffer
 1 mittelgroßer frischer Zweig Rosmarin (ca. 2 EL Nadeln)
 6 EL Sojasauce
 30 g weiche Butter
-
 750 g mehlig-kochende Kartoffeln
 30 g Mehl
 Salz, weißer Pfeffer
@@ -16386,7 +15633,6 @@ Salz
 600 ml Gemüsebrühe
 1 EL getrocknete Curryblätter
 1 Sternanis
-
 150 ml Kokosmilch
 3 Stiele Thai-Basilikum
 
@@ -16462,7 +15708,6 @@ Tipp:	Statt Kasseler gehen auch gekochter Schinken oder gegrillte Bratwürstchen
 
 ## Schweinefilet mit Apfel-Curry-Sauce
 ### Zutaten (für 4 Portionen):
-
 600 g Schweinefilet
 Salz, Pfeffer
 3 EL neutrales Öl
@@ -16470,9 +15715,7 @@ Salz, Pfeffer
 1 kleine Zwiebel
 100 g Cashewkerne (ersatzweise Mandeln)
 1 EL Currypulver
-
 100 ml ungesüßter Apfelsaft
-
 100 ml Gemüsebrühe
 125 g Sahne
 1 EL heller Saucenbinder
@@ -16489,18 +15732,15 @@ Passt gut in den Herbst😊
 
 ## Schweinefilet mit spanischem Reis
 ### Zutaten für 4 Portionen
-
 500 g Schneidbohnen
 2 Zwiebeln
 2 Knoblauchzehen
 1 rote Paprikaschote (300 g)
 250 g Baby-Spinat
-
 5 EL Olivenöl
 50 g Schinkenwürfel
 150 g Reis
 1 l Gemüsebrühe
-
 700 g Schweinefilet
 Salz, Pfeffer
 
@@ -16515,7 +15755,6 @@ Salz, Pfeffer
 
 ## Schweinefilet mit Tomatenpesto
 ### Zutaten für 2 Portionen
-
 500 g festkochende Kartoffeln
 Salz, Pfeffer
 2 Zwiebeln
@@ -16526,7 +15765,6 @@ Salz, Pfeffer
 20 g Parmesan
 3 Stiele glatte Petersilie
 1 El Pinienkerne, geröstet
-
 100 ml Olivenöl
 1 Schweinefilet (250 g)
 
@@ -16565,11 +15803,9 @@ Salz, Pfeffer aus der Mühle
 ### Zutaten (für 4 Personen)
 
 *Für das Schäufele:* 
-
 600 g Schäufele
 2 l Wasser
 2 EL Weißweinessig
-
 100 ml Weißwein
 1 Zwiebel
 2 Lorbeerblätter
@@ -16579,9 +15815,7 @@ Salz, Pfeffer aus der Mühle
 1 Prise Salz
 
 *Für den Linsensalat:*
-
 80 g Berglinsen
-
 80 g braune kleine Linsen
 1 Schalotte
 1 Knoblauchzehe
@@ -16592,7 +15826,6 @@ Salz, Pfeffer aus der Mühle
 2 EL Aceto Balsamico
 1 EL grober Senf
 Salz und Pfeffer
-
 4 EL Olivenöl
 
 ### Zubereitungszeit
@@ -16621,16 +15854,13 @@ Gröstl
 100 g Austernpilze
 150 g kleine Pfifferlinge (kann man weglassen)
 100 g Kräuterseitlinge
-
 350 g Hokkaido-Kürbis
-
 280 g Schweinefilet
 
 5 – 6 Stiele Oregano
 100 g Kirschtomaten
 6 EL Olivenöl
 Salz, Pfeffer, Zucker
-
 150 ml Geflügelfond
 
 1-2- EL Weißweinessig
@@ -16656,10 +15886,8 @@ Salz, Pfeffer, Zucker
 
 ## Mandelschnitzel mit Champignons
 ### Zutaten (für 2 Portionen)
-
 400 g braune Champignons
 2 Knoblauchzehen
-
 4 EL Olivenöl
 2 Zweige Rosmarin
 2 Kalbsschnitzel (geht auch Schweineschnitzel; à 120 g)
@@ -16669,7 +15897,6 @@ Salz, Pfeffer, Zucker
 6 EL Mandelblättchen
 2 EL Balsamico
 1 EL flüssiger Honig
-
 150 ml Kalbsfond
 Salz, feffer
 
@@ -16705,7 +15932,6 @@ Salz, Pfeffer, Muskat, Zucker
 
 8 Scheiben Tiroler Speck
 1 Schalotte
-
 9 EL neutrales Öl
 250 g Kirschtomaten
 1 EL Balsamicoessig
@@ -16735,7 +15961,6 @@ Tipp:	Man weiß ja nie, ob man nicht mal so ein englisches Gericht braucht, nich
 Etwa 1 l Fleischbrühe oder -fonds
 250 g durchwachsener Räucherspeck
 2 cl Kirschwasser
-
 500 g Kartoffeln
 3 gegarte Kasseler Schweinerippchen
 3 Würste aus Colmar (oder eine andere kräftig schmeckende Kochwurst)
@@ -16774,8 +15999,7 @@ Weil Paula ja keinen Gorgonzola mag, habe ich einfach Mozzarella oder auch mal P
 ### Zutaten (für 8 Portionen)
 
 1,5 kg Schweinebraten (z.B. aus der Oberschale)
-
-5 El mittelscharfer Senf
+5 EL mittelscharfer Senf
 3 EL Öl
 2 EL Orangenmarmelade
 3 EL brauner Zucker
@@ -16798,7 +16022,6 @@ Tipp:	Man kann den möglichen Rest in Alufolie wickeln und im Kühlschrank aufbe
 ### Zutaten (für 6 Portionen)
 
 Je 1 Bund Rosmarin, Thymian und Salbei
-
 5 EL Olivenöl
 
 8 Knoblauchzehen
@@ -16817,7 +16040,6 @@ Tipp:	Dazu passen als Beilage Bratkartoffeln oder Kartoffelschnitze aus dem Back
 
 ## Lende mit Kräuterkruste
 ### Zutaten (für 4 Portionen)
-
 800 g Schweinelende
 2 Bund gemischte Kräuter (z.B. Bärlauch, Petersilie, Thymian, Rosmarin)
 1 Knoblauchzehe
@@ -16838,7 +16060,6 @@ Je 1 gelbe und grüne Zucchini (à 200 g)
 1 Fenchel mit Grün (350 g)
 1 rote Paprika
 1 rote Zwiebel
-
 4 Tomaten (ca. 500 g)
 
 7 – 8 EL Olivenöl
@@ -16869,9 +16090,7 @@ Außerdem: Basilikum zum Garnieren
 ### Zutaten (für 6 bis 8 Personen)
 2 Zwiebeln
 2 Knoblauchzehen
-
 4 EL Honig
-
 4 EL Sojasauce
 2 EL frische Thymianblättchen
 
@@ -16881,7 +16100,6 @@ Außerdem: Basilikum zum Garnieren
 6 EL Pflanzenöl
 
 2,5 kg Schweineschulter (ohne Schwarte und Knochen)
-
 500 ml Gemüse- oder Geflügelbrühe
 2 Sternanis
 
@@ -16919,7 +16137,6 @@ Tipp:	Dies ist ja ein typisches Simon-Rezept! Guten Appetit, mein Großer!
 6 EL Dry Rub 3 EL Sojasauce
 3 EL Ketchup
 3 EL Ahornsirup
-
 100 ml naturtrüber Apfelsaft
 
 ### Zubereitungszeit
@@ -16952,7 +16169,6 @@ Tipp:	Dies ist ja ein typisches Simon-Rezept! Guten Appetit, mein Großer!
 1 rote Chilischote
 20 g Ingwer
 6 EL Sojasauce
-
 4 EL Hoisinsauce
 
 ` `Prise Zimt
@@ -16969,7 +16185,6 @@ alle Zutaten klein schneiden und mit 6 EL Sojasauce, 4 EL Hoisinsauce und Prise 
 Salz, Pfeffer
 
 8 dünne Scheiben geräucherter Schinken
-
 4 EL Öl
 
 ### Zubereitungszeit
@@ -16980,11 +16195,9 @@ Salz, Pfeffer
 
 ## Süß-saure Schweinerippchen - Tang cu Pai Gu
 ### Zutaten (für 5 Portionen)
-
 500 g Schweinerippchen (vom Metzger in etwa 5 cm lange Stücke hacken lassen)
 30 g Lauch
 20 g Ingwer
-
 500 g Pflanzenöl
 1 TL Sojasauce
 2 EL Reiswein
@@ -17019,7 +16232,6 @@ Salz
 1 TL Essig
 2 TL Sojasauce
 50 g Pflanzenöl
-
 25 g scharfe Bohnenpaste
 
 ### Zubereitungszeit
@@ -17083,7 +16295,6 @@ Salz, Pfeffer
 200 g Rindfleisch (Roulade)
 
 Olivenöl
-
 100 ml Rotwein
 1 EL Tomatenmark
 2 – 2,5 kg passierte Tomaten (Dosen oder Flaschen)
@@ -17091,7 +16302,6 @@ Salz
 1 TL Zucker
 
 Basilikum
-
 400 g Pasta 
 
 ### Zubereitung
@@ -17131,11 +16341,9 @@ Je 10 Schalotten und Knoblauchzehen
 ## Boeuf bourguignon (Rindfleischeintopf)
 ### Zutaten (für 4 Personen):
 100 g durchwachsener Räucherspeck
-
 400 g Möhren
 250 g Zwiebeln
 250 g Champignons
-
 750 g Rindfleisch (aus der Rose – nicht Dose 😊)
 2 Knoblauchzehen
 2 cl. Cognac oder Weinbrand
@@ -17155,12 +16363,10 @@ Salz, Pfeffer aus der Mühle
 2 Zwiebeln
 
 2-3 EL Butterschmalz
-
 750 g Rindergulasch
 1 EL Paprikapulver edelsüß
 
 ¼ l Fleischbrühe
-
 400 g geschälte Tomaten aus der Dose
 Salz, schwarzer Pfeffer aus der Mühle
 1 Lorbeerblatt
@@ -17184,7 +16390,6 @@ Butterschmalz
 1-2 EL Tomatenmark
 
 1,5 kg Zwiebeln, grob gehackt
-
 500 ml Brühe
 1 Lorbeerblatt
 
@@ -17209,7 +16414,6 @@ Weißkohl fein raspeln und mit Salz kneten, sodass er weich wird. Mit Salz, Zuck
 1 gehackte Knoblauchzehe
 1 kleine Dose Tomatenmark
 2 EL Paprika, edelsüß
-
 800 g mildes Weinsauerkraut (Dose)
 1 TL Kümmel gemahlen
 Salz, Zucker
@@ -17231,7 +16435,6 @@ Das Gericht habe ich zum ersten Mal gegessen als ich mit Markus zum ersten Mal z
 
 1-2 EL Öl
 1 EL Tomatenmark
-
 800 ml Brühe
 
 ½ - 1 EL Paprikapulver (edelsüß)
@@ -17239,9 +16442,7 @@ Das Gericht habe ich zum ersten Mal gegessen als ich mit Markus zum ersten Mal z
 1 Streifen unbehandelte Zitronenschale
 
 Je 1 TL Kümmelsamen und getrockneten Majoran
-
 400 g gekochtes Sauerkraut
-
 150 ml Crème fraîche
 
 ### Zubereitung
@@ -17256,14 +16457,11 @@ Info:	Habe ich zum ersten Mal in Tignes beim Skifahren gegessen.
 
 ## Szegediner Gulasch Nr. 3
 ### Zutaten (für 4 Portionen):
-
 400 g rote Paprikaschoten
 1 Zwiebel
 
 Sonnenblumenöl
-
 600 g Rindergulasch
-
 250 ml Wasser
 1 Prise Salz
 1 TL Kümmel
@@ -17289,7 +16487,6 @@ Sonnenblumenöl
 5 Knoblauchzehen
 
 ½ scharfe Peperoni
-
 4 EL edelsüßes Paprikapulver
 1 TL gemahlener Kümmel
 1 Msp. gemahlener Chili
@@ -17357,7 +16554,6 @@ Salz
 1,2 kg Kalbsfleisch aus der Schulter (in 5 cm große Würfel geschnitten)
 50 g Butter
 1 EL Mehl
-
 150 ml Weißwein
 1 l Gemüsebrühe
 3 Schalotten
@@ -17384,10 +16580,8 @@ Saft von 1 Zitrone
 
 ## Italienisches Pfefferfleisch (Peposo)
 ### Zutaten (für 2 Personen)
-
 600 g Rindfleisch (aus dem Unterschenkel z.B. Beinscheiben)
 1 EL zerstoßener schwarzer Pfeffer
-
 500 ml Rotwein
 350 ml Wasser
 Salz
@@ -17463,7 +16657,6 @@ Salz
 
 ## Bohneneintopf mit Fleisch – Cassoulet de Castelnaudry
 ### Zutaten (für 6-8 Portionen)
-
 500 g getrocknete weiße Bohnenkerne
 
 3-4 mittelgroße Zwiebeln
@@ -17474,12 +16667,9 @@ Salz
 
 Bouquet garni (Petersilie, Thymian, Lorbeerblatt)
 250 g Knoblauchwurst
-
 350 g Schweinerücken, ausgelöst
-
 350 g Hammelschulter, ausgelöst
 100 g durchwachsener Räucherspeck
-
 4 EL Gänseschmalz
 1 Lorbeerblatt
 3 Fleischtomaten
@@ -17501,7 +16691,6 @@ Salz, Pfeffer aus der Mühle
 
 ## Hackfleischbällchen mit Feta
 ### Zutaten (für 6 Portionen)
-
 500 g Hackfleisch (Rind oder Lamm)
 100 g Feta, in 1 cm große Stücke gebröckelt
 2 EL Thymianblätter
@@ -17523,13 +16712,10 @@ Salz, Pfeffer
 
 ## Fleischküchlein mit Pistazien und Sumach-Joghurt
 ### Zutaten (für 20 Frikadellen)
-
 60 g Pistazienkerne
-
 25 g Rucola
 1 Zwiebel, geviertelt
 1 große Knoblauchzehe, geschält
-
 500 g Hackfleisch (Rind oder Lamm)
 
 Etwa 3 EL Olivenöl
@@ -17549,7 +16735,6 @@ Salz, Pfeffer
 
 ## Fleischküchlein mit Gurken-Radieschen-Salat
 ### Zutaten für 2 Portionen
-
 500 g mehlig kochende Kartoffeln
 Salz, Pfeffer
 
@@ -17557,7 +16742,6 @@ Salz, Pfeffer
 
 8 Radieschen
 3 EL Aceto balsamico bianco
-
 8 EL Olivenöl
 
 4 Stiele Dill
@@ -17582,7 +16766,6 @@ Salz, Pfeffer
 
 ## Hackbällchen mit Zitrone und Sellerie
 ### Zutaten (für 4 Portionen)
-
 400 g Rinderhackfleisch
 1 mittelgroße Zwiebel, fein gehackt
 
@@ -17599,7 +16782,6 @@ Salz, Pfeffer
 
 1,5 TL Fenchelsamen, leicht zerstoßen
 1 TL mildes Paprikapulver
-
 500 ml Brühe
 
 3,5 EL Zitronensaft
@@ -17613,20 +16795,16 @@ Salz, Pfeffer
 
 ## Hackbällchen mit Ricotta und Oregano
 ### Zutaten (für 4 Portionen)
-
 4 EL Olivenöl
 2 große Zwiebeln, gehackt
 
 4 Knoblauchzehen, zerdrückt
 20 g Oreganoblätter, gehackt
 1 Dose stückige Tomaten (400 g)
-
 500 ml Brühe
-
 500 g Rinderhackfleisch
 3 – 4 Scheiben Weißbrot, entrindet und fein zerkleinert
 250 g Ricotta
-
 60 g Parmesan, gerieben
 1 großes Ei, verquirlt
 20 g Petersilie, gehackt
@@ -17643,7 +16821,6 @@ Salz, Pfeffer
 ### Zutaten (für 4 Portionen, ca. 20 Stück):
 
 4,5 EL Olivenöl
-
 350 g ausgelöste Dicke Bohnen
 
 4 Zweige Thymian
@@ -17652,12 +16829,10 @@ Salz, Pfeffer
 8 Frühlingszwiebeln, schräg in 2 cm lange Stücke geschnitten
 
 2,5 EL Zitronensaft
-
 500 ml Gemüsebrühe
 Salz, Pfeffer
 
 *Für die Fleischbällchen*
-
 450 g Hackfleisch
 1 mittelgroße Zwiebel, fein gehackt
 120 g Semmelbrösel
@@ -17679,7 +16854,6 @@ Je 2 EL glatte Petersilie, Minze, Dill und Koriandergrün, gehackt plus 1,5 EL z
 
 ## Fleischbällchen mit Berberitzen, Joghurt und Kräutern
 ### Zutaten (für ca. 30 Stück)
-
 750 g Hackfleisch
 2 mittelgroße Zwiebeln, fein gehackt
 20 g glatte Petersilie, fein gehackt
@@ -17688,15 +16862,11 @@ Je 2 EL glatte Petersilie, Minze, Dill und Koriandergrün, gehackt plus 1,5 EL z
 ¾ TL gemahlener Piment
 
 ¾ TL Zimt
-
 60 g Berberitzen
 1 Ei
-
 100 ml Sonnenblumenöl
-
 700 g Schalotten, geschält
 200 ml Weißwein
-
 500 ml Gemüsebrühe
 2 Lorbeerblätter
 2 Zweige Thymian
@@ -17721,9 +16891,7 @@ Salz, Pfeffer
 2 Eier
 
 200-300 ml Hühnerbrühe
-
 80 ml Zitronensaft
-
 80 g Sahnejoghurt
 1 EL fein gehackte glatte Petersilie
 Salz und schwarzer Pfeffer
@@ -17746,7 +16914,6 @@ Tipp: 	Man muss die Frikadellen nicht unbedingt in Hühnerbrühe fertig garen. M
 Etwas Olivenöl
 1 Knoblauchzehe
 200 ml Milch
-
 600 g Putenkeulenfleisch (ohne Knochen)
 3 Eier
 Salz, Pfeffer
@@ -17758,18 +16925,14 @@ Eventuell etwas Semmelbrösel
 50 g Butterschmalz
 
 *Für das Petersilienwurzelpüree:*
-
 600 g Petersilienwurzel
 200 ml Gemüsebrühe
 300 ml milch
-
 100 ml Sahne (geschlagen)
 Salz, Pfeffer
-
 20 ml Himbeeressig
 
 *Für die Schalotten:*
-
 500 g Schalotten
 1 l Sonnenblumenöl
 2 EL Mehl
@@ -17802,7 +16965,6 @@ Info:	Also einmal muss man schon auf dem Oktoberfest gewesen sein. Betrunken abe
 1 EL Reiswein
 1 EL Sojasauce
 250 g Pflanzenöl
-
 400 ml Hühnerbrühe
 250 g zarte Chinakohlblätter
 
@@ -17821,7 +16983,6 @@ Info:	Also einmal muss man schon auf dem Oktoberfest gewesen sein. Betrunken abe
 ### Zutaten (für 4 Portionen)
 
 Für die Bällchen:
-
 800 g Lammhack (am besten aus der Schulter)
 200 g Schweinespeck (fein gehackt)
 3 Schalotten
@@ -17835,7 +16996,6 @@ Butterschmalz zum Braten
 Salz, Pfeffer
 
 *Für die Limettensauce:*
-
 500 g Naturjoghurt (3,8%)
 1 Bio-Limette
 Salz, Pfeffer
@@ -17872,7 +17032,6 @@ Olivenöl
 1 Knoblauchzehe
 
 ½ Bund Petersilie
-
 400 g Rinderhackfleisch
 1 Ei
 Salz, Pfeffer
@@ -17889,17 +17048,14 @@ Salz, Pfeffer
 
 ## Hackbällchen mit Tomatensauce
 ### Zutaten (für 4 Portionen):
-
 400 g reife Tomaten
-
-5 El Olivenöl
+5 EL Olivenöl
 Salz, Pfeffer
 
 ½ TL Zucker
 
 ½ TL scharfes Paprikapulver
 3 EL Rotwein
-
 500 g Rinderhackfleisch
 1 trockenes Brötchen
 1 Zwiebel
@@ -17924,7 +17080,6 @@ Salz, Pfeffer
 ## Keftethes in Tomatensauce
 ### Zutaten (für 4 Portionen):
 1 Brötchen vom Vortag
-
 500 g Lammhackfleisch
 1 großes Ei
 3 Knoblauchzehen
@@ -17935,7 +17090,6 @@ Schwarzer Pfeffer aus der Mühle
 Einige Zweige frischer Oregano
 3 EL Olivenöl
 1 Zwiebel
-
 600 g Tomaten
 100 g Sahne
 
@@ -17952,9 +17106,7 @@ Einige Zweige frischer Oregano
 
 ## Maccheroni mit Fleischbällchen à la Stroganoff
 ### Zutaten (für 4 Portionen)
-
 500 g Maccheroni
-
 750 g mageres Rinderhackfleisch
 2 Knoblauchzehen, zerdrückt
 2 – 3 EL Mehl
@@ -17966,7 +17118,6 @@ Einige Zweige frischer Oregano
 2 EL Tomatenmark
 2 – 3 TL Dijonsenf
 60 ml Weißwein
-
 120 ml Gemüsebrühe
 180 g Creme fraîche
 3 EL frische glatte Petersilie, feingehackt
@@ -17986,13 +17137,11 @@ Einige Zweige frischer Oregano
 Wasser
 1 Zwiebel
 1 EL gehackte Petersilie
-
 500 g Hackfleisch
 1 Ei
 
 Muskat
 Salz, Pfeffer
-
 4 EL Semmelbrösel
 
 Etwas Olivenöl
@@ -18012,7 +17161,6 @@ Ein kleines Stück Butter
 ### Zutaten für 4 Portionen
 2 Brötchen
 1 Zwiebel
-
 400 g gemischtes Hackfleisch
 1 Ei
 1 TL Senf
@@ -18030,9 +17178,7 @@ Salz, Pfeffer
 
 ## Fleischbällchen mit Fusilli
 ### Zutaten (für 4 Personen):
-
 750 g Rinderhackfleisch
-
 80 g Semmelbrösel
 3 EL frisch geriebener Parmesan
 1 Zwiebel, feingehackt
@@ -18043,15 +17189,11 @@ Salz, Pfeffer
 geriebene Schale und Saft von 1 Zitrone
 30 g Mehl, mit Salz und Pfeffer gewürzt
 2 EL Olivenöl
-
 500 g Fusilli
 
 *Für die Sauce:*
-
 425 g pürierte Tomaten
-
 120 ml Gemüsebrühe
-
 120 ml Rotwein
 2 EL frisches Basilikum, feingezupft
 1 Knoblauchzehe, zerdrückt
@@ -18070,14 +17212,12 @@ geriebene Schale und Saft von 1 Zitrone
 
 4 Knoblauchzehen
 6 EL Olivenöl
-
 100 ml halbtrockener Sherry (ersatzweise Brühe)
 1 große Dose Tomaten
 3 Zweige Thymian
 2 getrocknete rote Chilischoten
 1 Ei
 3 EL Semmelbrösel
-
 500 g Rinderhackfleisch
 Salz, Pfeffer aus der Mühle
 
@@ -18097,20 +17237,16 @@ Diese Fleischbällchen ohne Sauce habe ich zu gefühlt tausenden Partys, Schulfe
 100 g Fladenbrot vom vortag
 1 Zwiebel
 1 Knoblauchzehe
-
 4 EL Olivenöl
 
 6-8 Stiele Minze
-
 400 g Lammhack
 
 1-2 TL Harissa
 2 Eier
 Salz, Zucker, Pfeffer
 1 TL gemahlener Zimt
-
 500 g passierte Tomaten
-
 100 ml Brühe
 
 5 Stiele glatte Petersilie
@@ -18131,10 +17267,8 @@ Salz, Zucker, Pfeffer
 50 g Butter
 1 EL Currypulver
 2 EL Mehl
-
 185 ml Milch
 1 EL Mango- oder Tomatenchutney
-
 400 g kaltes, gegartes Lamm-, Rind- oder Hühnerfleisch, gehackt
 30 g Mehl zusätzlich zum Panieren
 2 Eier
@@ -18156,7 +17290,6 @@ Salz, Zucker, Pfeffer
 1 Knoblauchzehe
 1 EI
 1 EL Rosmarinnadeln (fein gehackt)
-
 400 g Rinderhackfleisch
 Salz
 
@@ -18186,7 +17319,6 @@ Pfeffer
 1 TL Butter
 1 Bund glatte Petersilie
 1 kleine unbehandelte Zitrone
-
 400 ml Fleischbrühe
 Salz
 
@@ -18194,7 +17326,6 @@ Schwarzer Pfeffer aus der Mühle
 
 *Für die Sauce*
 30 g Butter
-
 25 g Mehl
 3 EL kleine Kapern
 2 EL Zitronensaft
@@ -18226,7 +17357,6 @@ Reste sollten zugedeckt im Kühlschrank stellen. Beim Erhitzen nicht aufkochen, 
 6 EL Olivenöl
 3 Knoblauchzehen, zerdrückt
 3 Schalotten, in feine Ringe geschnitten
-
 600 g Hackfleisch (Rind oder Lamm)
 2 TL Kreuzkümmelsamen
 1 EL gemahlener Piment
@@ -18234,15 +17364,10 @@ Reste sollten zugedeckt im Kühlschrank stellen. Beim Erhitzen nicht aufkochen, 
 3 EL Tomatenmark
 3 EL Harissa
 100 g getrocknete Aprikosen, geviertelt
-
 280 ml Brühe
-
 220 ml Weißwein
-
 80 g entsteinte Oliven, längs halbiert
-
 670 g weiße Bohnen (3 Dosen à 400 g abgetropft)
-
 4 EL Tahin
 Salz, Pfeffer
 
@@ -18259,11 +17384,9 @@ Salz, Pfeffer
 1 Möhre, grob gewürfelt
 1 große Zwiebel, grob gehackt
 3 Tomaten, 1 grob gewürfelt, 2 grob gerieben und Schale weggeworfen
-
 500 g Hackfleisch (Rind oder Lamm)
 
 4 Knoblauchzehen, zerdrückt
-
 80 g Pecorino, fein gerieben
 2 Scheiben Brot, fein zerkleinert
 2 große Eier
@@ -18294,9 +17417,7 @@ Pfeffer, Salz
 2 Knoblauchzehen
 250 g Kirschtomaten
 200 g junger Blattspinat
-
 400 g Hackfleisch
-
 250 ml Gemüsebrühe
 2 EL Mehlschwitze/Mondamin
 
@@ -18332,7 +17453,6 @@ Salz, Pfeffer
 
 ## Hack-Reis-Pfanne
 ### Zutaten (für 2 Personen)
-
 60 g Basmatireis
 Salz, Pfeffer
 1 rote Paprikaschote
@@ -18360,9 +17480,7 @@ Salz, Pfeffer
 
 ## Schweinehack mit Tofu
 ### Zutaten (für 4 Portionen)
-
 400 g fester Tofu
-
 7 EL Sonnenblumenöl
 
 400 Aubergine
@@ -18370,7 +17488,6 @@ Salz, Pfeffer
 4 Frühlingszwiebeln
 2 Zwiebeln
 2 Knoblauchzehen
-
 350 g Schweinehackfleisch
 3 – 4 EL scharfe Bohnenpaste 
 Salz, Pfeffer, Zucker
@@ -18388,7 +17505,6 @@ Dieses Gericht wollte Simon! Ich weiß auch nicht warum 😊
 
 ## Curryreis mit Hack und Bohnen
 ### Zutaten (für 4 Portionen)
-
 400 g grüne Bohnen
 250 g Basmatireis
 1 – 2 TL Currypulver
@@ -18397,11 +17513,8 @@ Dieses Gericht wollte Simon! Ich weiß auch nicht warum 😊
 
 4 Knoblauchzehen
 50 g frischer Ingwer
-
 4 EL Öl
-
 400 g Hackfleisch
-
 5 EL Hoisin-Sauce (wie immer im Asialaden eures Vertrauens)
 1 EL Sesamöl
 1 Chilischote
@@ -18423,14 +17536,12 @@ Dieses Gericht wollte Simon! Ich weiß auch nicht warum 😊
 20 g Pinienkerne
 2 Knoblauchzehen
 2 EL Öl
-
 500 g Hackfleisch
 1 TL Raz el Hanout
 200 g Lauch
 
 Je 1 rote und 1 gelbe Paprikaschote
 40 g Rosinen
-
 4 EL Ajvar
 
 ¼ Bund Koriandergrün
@@ -18455,10 +17566,8 @@ Je 1 rote und 1 gelbe Paprikaschote
 2 Knoblauchzehen
 2 rote Chilischoten
 2 EL Öl
-
 500 g Rinderhackfleisch
 2 EL Tomatenmark
-
 400 ml Rinderbrühe
 150 g Erbsen (tiefgekühlt)
 1 EL Paprikapulver (edelsüß)
@@ -18479,7 +17588,6 @@ Salz, Pfeffer aus der Mühle
 1. Die Kartoffelwürfel in ein Sieb abgießen und mit den Erbsen zum Hackfleisch geben. Paprikapulver, Zimt, Kurkuma, Kreuzkümmel und Ingwer unterrühren. Den Eintopf zugedeckt bei mittlerer Hitze etwa 20 Minuten köcheln lassen. Mit Salz und Pfeffer abschmecken und nach Belieben mit gerösteten Chapatis servieren.
 
 ### Zutaten (für 4 Portionen)
-
 500 g mageres Rinderhackfleisch
 1 mittelgroße Zwiebel
 1 Bund Petersilie
@@ -18507,9 +17615,7 @@ Salz
 3 Knoblauchzehen
 2 frische Chilischoten
 1 Stück Ingwer (3 cm)
-
 4 EL Öl
-
 500 g Hackfleisch (Rind oder Lamm)
 1 TL Kreuzkümmelpulver
 2 TL Paprikapulver, edelsüß
@@ -18559,7 +17665,6 @@ Lammfleisch in Mandelsauce – Korma
 
 ## Kokoscurry mit Kartoffeln
 ### Zutaten (für 3 bis 4 Portionen)
-
 700 g Rindfleisch (aus der Schulter)
 1 Zwiebel
 
@@ -18604,12 +17709,10 @@ Holzspießchen
 1 Zwiebel
 1 säuerlicher Apfel
 2 EL Butterschmalz
-
 250 ml roter Johannisbeersaft
 2 Lorbeerblätter
 1 Zimtstange
 3 Gewürznelken
-
 4 EL Cassislikör (ein Spritzer Cassis in den Crémant schmeckt als Getränk super!)
 Salz
 
@@ -18630,7 +17733,6 @@ Ich HASSE das: Es kracht und knirscht und ist einfach grenzwertig!
 
 ## Cassoulet
 ### Zutaten (für 4 Personen)
-
 500 g weiße Bohnen
 1 ½ l Wasser
 2 große Zwiebeln
@@ -18661,10 +17763,8 @@ Salz, Pfeffer aus der Mühle, Cayennepfeffer
 100 g durchwachsener Speck
 2 Zwiebeln
 2 Knoblauchzehen
-
 500 g grüne Bohnen
 2 EL Öl
-
 400 g Hackfleisch
 2 Zweige Bohnenkraut
 
@@ -18687,23 +17787,16 @@ Salz
 
 ## Römertopf provencal
 ### Zutaten (für 4 Portionen)
-
 800 g Lammfleisch (aus der Schulter)
 
 ½ Knolle Knoblauch
 Salz, schwarzer Pfeffer aus der Mühle
 3 EL Kräuter der Provence
-
 5 EL Olivenöl
-
 800 g Tomaten
-
 800 g Zwiebeln
-
 600 g Auberginen
-
 600 g Zucchini
-
 400 g Möhren
 1 Zweig Rosmarin
 
@@ -18720,7 +17813,6 @@ Vorbereitungszeit: 1 Stunde, Garzeit 1,5 Stunden
 
 8 kleine grüne Paprikaschoten
 100 g Schafskäse
-
 350 g Rinderhackfleisch
 1 Zwiebel
 2 Knoblauchzehen
@@ -18748,7 +17840,6 @@ Salz, Pfeffer aus der Mühle
 1 rote Paprikaschote
 2 EL Kapern
 1 Bund Petersilie
-
 800 g Hackfleisch (Rind)
 3 EL Semmelbrösel
 2 Eier
@@ -18777,11 +17868,8 @@ Vorbereitungszeit: 1 Stunde, Garzeit 1 Stunde und 20 Minuten
 200 g Knollensellerie
 
 Je eine kleine grüne und gelbe Paprikaschote
-
 750 g Fleischtomaten (oder 2 Dosen geschälte Tomaten)
-
 4 EL Öl
-
 500 g mageres Rinderhackfleisch
 
 ¼ l kräftiger Rotwein
@@ -18830,7 +17918,6 @@ Currypulver zum Bestäuben
 *Für die Pommes*
 
 4 große mehlig kochende Kartoffeln
-
 500 ml Erdnussöl
 
 Grobes Meersalz, Salz
@@ -18858,13 +17945,11 @@ Meersalz, Pfeffer
 ### Zutaten (für 4 Burger)
 
 4 Cloud-Bread-Burger-Brötchen
-
 25 g Pinienkerne
 
 8 Tomaten
 3 TL Kapern
 1 Knoblauchzehe
-
 4 EL Olivenöl
 Salz, Pfeffer
 
@@ -18884,7 +17969,6 @@ Salz, Pfeffer
 
 ## Cheeseburger
 ### Zutaten (für 4 Burger)
-
 600 g Rinderhackfleisch
 1 rote Zwiebel
 1 Tomate
@@ -18897,7 +17981,6 @@ Salz, Pfeffer
 1 EL Butter
 
 4 TL scharfer Senf
-
 4 EL Tomatenketchup
 
 ### Zubereitungszeit
@@ -18915,7 +17998,6 @@ Salz, Pfeffer
 2 EL Olivenöl
 1 kleine rote Chilischote
 2 rote Paprikaschoten 
-
 700 g Rinderhack
 30 g Radicchio
 
@@ -18924,9 +18006,7 @@ Salz, Pfeffer
 4 Scheiben Speck
 2 – 3 EL Öl
 30 g Roquefort
-
 4 EL grober Senf
-
 4 EL Tomatenketchup
 
 ### Zubereitungszeit
@@ -18985,7 +18065,6 @@ Salz, Pfeffer, Mehl
 3 EL Sonnenblumenöl
 1 EL Tomatenmark
 2 EL Gin
-
 500 ml Rotwein
 
 5 Pfefferkörner 
@@ -19001,10 +18080,8 @@ Gin zum Abschmecken
 
 4 Feigen
 50 g Zucker
-
 50 ml Wasser
 200 ml Rotwein
-
 100 ml Balsamicoessig
 1 Vanilleschote
 1 Nelke
@@ -19030,7 +18107,6 @@ Tipp:	Die Feigen auf jeden Fall 4 Wochen vorher machen. Also langfristige Planun
 ## Rehragout mit Aprikosen
 ### Zutaten (für 2 – 3 Portionen)
 1 EL Butter
-
 500 g Rehfleisch (aus der Schulter)
 1 kleiner Knollensellerie, geputzt ca. 150 g
 150 g Karotten
@@ -19064,7 +18140,6 @@ Da Simon ja neulich ein Rezept mit Hirschragout gesucht hat, dachte ich, ich neh
 Etwas Mehl
 
 Olivenöl
-
 800 ml Rotwein
 200 ml Wild- oder Gemüsefond
 
@@ -19098,7 +18173,6 @@ Parmesan nach Geschmack
 
 4 braune Lebkuchen (echte und auch nicht die mit Schokolade)
 Salz, Pfeffer
-
 80 g fetter Speck (in dünnen Scheiben)
 150 g Zwiebeln
 
@@ -19130,12 +18204,9 @@ Rehrücken (ca. 1,8 kg)
 1 EL Wacholderbeeren
 2 EL Öl
 1 EL Tomatenmark
-
 400 ml Wildfond aus dem Glas
 Salz, Pfeffer
-
 4 EL dunkles Saucenbindemittel
-
 80 g Butter (eiskalt)
 
 ½ EL Hagebuttenmarmelade
@@ -19156,21 +18227,18 @@ Info:	Dazu passen Spätzle ganz gut.
 
 ## Wildschweinragout
 ### Zutaten (für 4 Portionen):
-
 800 g Wildschweinfleisch zum Schmoren (aus der Keule oder Schulter)
 2 Zwiebeln
 1 Karotte
 2 Stangen Sellerie
 1 TL Wacholderbeeren
 1 TL schwarze Pfefferkörner
-
 80 g Räucherspeck
 
 0,5 l Rotwein
 150 g passierte Tomaten
 1 Lorbeerblatt
 1 Prise Salz
-
 500 g Pasta (Fusilli)
 
 Etwas frisch geriebenen Parmesan zum Servieren
@@ -19186,7 +18254,6 @@ Etwas frisch geriebenen Parmesan zum Servieren
 
 *Für die Uttapam-Brote*
 200 g Bruchreis
-
 25 g Chana Dal (halbe geschälte Kichererbsen)
 50 g Urdbohnen
 
@@ -19195,7 +18262,6 @@ Etwas frisch geriebenen Parmesan zum Servieren
 Etwas Salz
 
 *Für die Ente:*
-
 25 ml Kokosöl
 10 g Senfkörner
 15 g Ingwer, in Streifen geschnitten
@@ -19203,12 +18269,10 @@ Etwas Salz
 4 grüne Chilischoten, halbiert
 
 8 Curryblätter
-
 5 g Kurkuma, gemahlen
 2 Entenbrüste (oder 400 g Jackfrucht aus der Dose😊)
 
 *Für die Soße*
-
 25 ml Kokosöl
 10 g Senfkörner
 15 g Ingwer, in Streifen geschnitten
@@ -19221,12 +18285,10 @@ Etwas Salz
 ½ EL mildes Chilipulver
 
 ½ EL scharfes Chilipulver
-
 5 g Kurkuma, gemahlen
 
 2-3 frische Roma-tomaten
 40 g Zucker
-
 30 ml Limettensaft oder Weißweinessig
 
 Etwas Salz
@@ -19295,13 +18357,9 @@ Vorbereitungszeit: 30 Minuten, Garzeit: 90 Minuten
 
 ### Zutaten für 4 Personen
 200 g Maronen
-
 60 g Zucker
-
 20 ml Wasser
-
 50 ml Orangensaft
-
 50 ml Rotwein
 
 Vorbereitungszeit: 20 Minuten,
@@ -19316,11 +18374,9 @@ Vorbereitungszeit: 20 Minuten,
 ### Zutaten für 4 Personen
 
 *Für den Knödelteig:*
-
 400 g Brioche oder ersatzweise Einback
 1 kleine Zwiebel
 50 g Butter
-
 100 ml Milch
 Salz und Pfeffer
 
@@ -19355,9 +18411,7 @@ Bröselbutter:
 1 Ente (etwa 2 kg)
 30 g Lauch
 20 g Ingwer
-
 750 g Brokkoli
-
 4 EL Pflanzenöl
 100 g süße Bohnenpaste
 2 EL Reiswein
@@ -19378,7 +18432,6 @@ Etwa 1 ½ l Hühnerbrühe
 ### Zutaten (für 6 Portionen):
 1 Ente (ca. 2 kg)
 1 EL Sojasauce
-
 50 ml Reiswein
 30 g Lauch
 20 g Ingwer
@@ -19401,7 +18454,6 @@ Etwa 1 ½ l Hühnerbrühe
 ## In Reiswein geschmorte Ente - Huang Jiu Wie Ya
 ### Zutaten (für 6 -8 Portionen)
 1 Ente (ca. 2 kg)
-
 750 ml Reiswein
 250 g Hühnerflügel
 30 g Lauch
@@ -19485,7 +18537,6 @@ Majoran
 1 EL Öl
 2 TL Puderzucker
 1 EL Tomatenmark
-
 250 ml kräftiger Rotwein
 1 TL Speisestärke
 1 Majoranzweig
@@ -19532,7 +18583,6 @@ Baguette, Ciabatta oder Fladenbrot
 ### Zutaten (für 4 Portionen)
 125 g in feine Ringe geschnittene Schalotten
 2 EL Olivenöl
-
 700 g Rinderhack
 3 EL Semmelbrösel
 3 EL Brühe
@@ -19542,7 +18592,6 @@ Baguette, Ciabatta oder Fladenbrot
 50 g Brie
 
 4 runde Brötchen
-
 5 EL körniger Senf
 2 Handvoll Rucolablätter
 1 Grill
@@ -19596,11 +18645,9 @@ Für die Burger:
 ½ TL Zucker
 
 Grobes Meersalz
-
 60 g weiche Butter
 
 12 Scheiben Roggenbrot, ca. 1 cm dick
-
 900 g Rinderhack
 2 EL Worcestersauce
 
@@ -19640,7 +18687,6 @@ Salz
 3 EL Öl
 Salz, Pfeffer, Muskat
 1 EL Butter
-
 4 Eier
 
 ### Zubereitungszeit
@@ -19655,12 +18701,10 @@ Salz, Pfeffer, Muskat
 ### Zutaten (für 8 Stück)
 
 8 Mais- oder Weizentortillas (20 cm Durchmesser)
-
 4 EL Olivenöl
 1 EL Sumach
 
 *Für die Füllung:*
-
 500 g Hackfleisch (Rind oder Lamm)
 
 ½ Zwiebel, grob gerieben
@@ -19670,7 +18714,6 @@ Salz, Pfeffer, Muskat
 2 Knoblauchzehen, zerdrückt
 2 TL Granatapfelkerne
 20 g Minze, in feine Streifen geschnitten
-
 80 g gereifter Cheddar, grob gerieben
 Salz
 
@@ -19730,7 +18773,6 @@ Salz, Pfeffer
 200 g Sahnejoghurt
 
 1-2 EL Öl für das Waffeleisen
-
 500 g Tomaten
 
 ½ Bund Schnittlauch
@@ -19764,15 +18806,11 @@ Ca. 500 ml Olivenöl
 
 ## Pfeffer-Zwetschgen zu reifem Camembert
 ### Zutaten (für 4 Portionen)
-
 400 g Zwetschgen
 1 TL schwarze Pfefferkörner
 100 g Rohrzucker
-
 120 ml Rotweinessig
-
 75 ml Rotwein
-
 75 ml roter Portwein
 
 Meersalz
@@ -19813,7 +18851,6 @@ Etwas Brühe
 3 Zwiebeln
 
 Etwas Butter
-
 150 ml Weißwein
 150 g Speckwürfel
 Salz, schwarzer Pfeffer
@@ -19906,7 +18943,6 @@ Salz, Pfeffer
 ### Zutaten (für 1 Muffinblech)
 1 kleine Zwiebel
 1 Ei
-
 80 ml neutrales Pflanzenöl
 200 g Buttermilch
 200 g geriebener Käse 
@@ -19972,11 +19008,9 @@ Salz
 
 ## French-Toast-Cordon-Bleu
 ### Zutaten (für 2 Portionen)
-
 400 g Tomaten
 100 g Rettich
 3 EL Weißweinessig
-
 4 EL Olivenöl
 Salz, Pfeffer
 2 Scheiben Toastbrot (à 4 cm Dicke)
@@ -20003,7 +19037,6 @@ Chilipulver
 ### Zutaten (für 8 Stück):
 
 8 Scheiben Baguette
-
 100 ml Olivenöl
 100 g junger Blattspinat
 30 g Parmesan
@@ -20027,16 +19060,11 @@ Salz, Pfeffer
 1 Zwiebel
 1 Bund glatte Petersilie
 1 Bund Schnittlauch
-
 4 Eier
-
 250 ml Milch
-
 130 g Mehl
 Salz, Pfeffer, Muskat
-
 4 EL Butterschmalz
-
 150 ml Gemüsebrühe
 150 g Crème fraîche
 
@@ -20053,7 +19081,6 @@ Salz, Pfeffer, Muskat
 
 4 Maiskolben oder 2 Dosen Mais abgetropft
 2 TL Kreuzkümmelsamen, zerstoßen
-
 25 g Butter
 
 ¾ TL gemahlener schwarzer Pfeffer
@@ -20080,7 +19107,6 @@ Tipp:	Dazu passen sehr gut Chapatis.
 # Saucen, Dips und Snacks
 ## Cashewnüsse mit Chili
 ### Zutaten (für 1 Blech):
-
 140 g Cashewnüsse
 1 TL Kreuzkümmel
 1 Prise Chilipulver
@@ -20101,9 +19127,7 @@ Abgeriebene Schale 1 Zitrone
 
 ## Salzmandeln
 ### Zutaten für 4 Portionen
-
 400 g abgezogene Mandeln
-
 4 EL Olivenöl
 Salz
 
@@ -20116,7 +19140,6 @@ Rosenscharfes Paprikapulver
 
 ## Rani ke chevda – Bombay-Mix
 ### Zutaten (für 500 g):
-
 500 g ungesalzene gemischte Nüsse (z.B. Cashewkerne, Walnusskerne, Pekannüsse, Mandel, Pistazien…)
 3 EL Rapsöl
 
@@ -20175,13 +19198,11 @@ Eine gute Prise schwarzer Pfeffer
 
 ## Kirschtomaten mit Minze-Ricotta-Füllung
 ### Zutaten für 4 Portionen
-
 500 g Kirschtomaten
 
 Blätter von 5 frischen Minzezweigen
 200 g vollfetter Ricotta
 Salz, Pfeffer
-
 4 EL Zitronensaft
 
 ### Zubereitung
@@ -20211,9 +19232,7 @@ Salz, Cayennepfeffer
 
 ## Geröstete Tomaten mit Balsamcio-Dressing
 ### Zutaten (für 6 – 8 Portionen):
-
 500 g Eiertomaten
-
 8 EL Balsamico-Essig
 
 Olivenöl
@@ -20228,14 +19247,11 @@ Salz
 
 ## Sherryzwiebeln
 ### Zutaten für 4 Portionen
-
 500 g Schalotten (oder kleine Zwiebeln)
 
 Einige Zweige frischer Thymian
 2 EL Olivenöl
-
 4 EL Sherryessig
-
 100 ml halbtrockener Sherry
 2 TL Honig
 Salz
@@ -20251,11 +19267,9 @@ Rosenscharfes Paprikapulver
 
 ## Knoblauchpilze
 ### Zutaten (für 4 Portionen):
-
 500 g Austernpilze
 1 Bund Petersilie
 6 Knoblauchzehen
-
 4 EL Olivenöl
 Salz, Pfeffer
 1 EL grüne entsteinte Oliven
@@ -20275,7 +19289,6 @@ Salz, Pfeffer
 
 4 Knoblauchzehen
 2 EL Weißweinessig (ersatzweise Zitronensaft)
-
 4 EL Olivenöl
 Salz, Pfeffer
 
@@ -20291,16 +19304,12 @@ Petersilie oder Basilikum
 ## Essigpilze und Essiggemüse
 ### Zutaten (für 4 – 5 Gläser à 200 ml)
 100 g Pilze
-
 900 g Gemüse (Karotten, Knollensellerie, Stangensellerie, Blumenkohl, Mais, Paprika, gelb oder rot)
 
 *Für den Sud*
-
 500 ml Essig
-
 500 ml Wasser
 100 g Zucker
-
 5 g Salz
 1 Blatt Lorbeer
 3 getrocknete Wacholderbeeren
@@ -20311,7 +19320,6 @@ Petersilie oder Basilikum
 1 Stängel Dill
 
 10 Pfefferkörner
-
 50 ml Olivenöl
 
 5 Zweige Thymian
@@ -20323,7 +19331,6 @@ die Zutaten für den Sud alle zusammen kurz aufkochen. Die Pilze putzen, das Gem
 ## Eingelegte Zwiebeln
 ### Zutaten (für 2 -3 mittelgroße Schraubgläser)
 2 große rote Zwiebeln
-
 100 ml Wasser
 200 ml Apfelessig
 120 g Zucker
@@ -20352,7 +19359,6 @@ Zwiebeln schälen und in sehr dünne Ringe schneiden. In einem Topf Wasser, Essi
 3 EL Pinienkerne
 3 EL frisch geriebener Parmesan
 2 Knoblauchzehen
-
 80 ml Olivenöl
 300 g kleine Mozzarellakugeln
 
@@ -20381,11 +19387,9 @@ Wer will 1 TL Orangenblütenwasser
 
 ## Zwiebelringe
 ### Zutaten (für 4 Portiönchen):
-
 250 ml Buttermilch
 
 2,5 EL Weißweinessig
-
 25 g frische Kurkuma oder 1/2 TL gemahlene Kurkuma
 325 g Mehl
 2 ½ EL Schwarzkümmelsamen
@@ -20393,14 +19397,12 @@ Wer will 1 TL Orangenblütenwasser
 1 Zwiebel, in 2 cm dicke Scheiben geschnitten, dann in Ringe zerlegt
 
 10 Frühlingszwiebeln
-
 900 ml Sonnenblumenöl zum Frittieren
 Salz, Meersalzflocken
 
 *Für den Dip:*
 
 ¼ Knoblauchzehe, geschält
-
 5 g frische Kurkuma, geschält und grob gehackt
 2 ½ EL süßer Reiswein
 1 EL Limettensaft
@@ -20419,7 +19421,6 @@ Salz, Meersalzflocken
 2 TL Kreuzkümmelsamen
 Salz
 1 kg Gemüsezwiebeln
-
 4 EL Rapsöl
 180 g Kichererbsenmehl
 40 g Koriandergrün, grob gehackt
@@ -20499,7 +19500,6 @@ Meersalzflocken
 
 ½ EL Korianderkörner, geröstet
 1 TL Kreuzkümmelsamen, geröstet
-
 400 ml Olivenöl
 
 ### Zubereitung
@@ -20513,16 +19513,12 @@ Dazu passt Brot. Mit gehackten Kräutern und Rucola wird daraus ein Salat.
 
 ## Polenta-Chilies 
 ### Zutaten (für 6 Portionen)
-
 330 g milde, ganze Chilischoten im Glas
-
 60 g geriebener Cheddar oder mittelalter Gouda
 100 g weicher Frischkäse
 40 g Mehl
 2 Eier, leicht verquirlt
-
 110 g Stärkemehl
-
 80 g Semmelbrösel
 
 Öl zum Frittieren
@@ -20535,15 +19531,12 @@ Vorbereitungszeit: 30 Minuten plus 2 Stunden Kühlzeit; Backzeit: 2-3 Minuten pr
 
 ## Nachos
 ### Zutaten (für 4 Portionen)
-
 440 g Kidneybohnen aus der Dose, abgespült und abgetropft
-
 4 EL Tomatensalsa (geht auch als Fertigprodukt)
 250 g Tortillachips
 250 g Cheddar oder mittelalter Gouda
 
 Zusätzlich 375 g Tomatensalsa (wie oben)
-
 4 EL saure Sahne
 
 Vorbereitungszeit: 20 Minuten, Kochzeit: 3-5 Minuten
@@ -20582,7 +19575,6 @@ Oder
 ### Zutaten (für 4 Portionen)
 1 große gelbe Paprikaschote
 1 große rote Paprikaschote
-
 8 EL Olivenöl
 3 TL Balsamicoessig
 1 EL Paniermehl
@@ -20598,7 +19590,6 @@ Die Paprikschoten waschen und für ca. 20 Minuten bei 180 Grad im Backofen blanc
 ### Zutaten (für 4 Portionen)
 
 *Für das Tomatensalsa:*
-
 500 g reife Tomaten
 
 ½ rote Zwiebel
@@ -20632,8 +19623,7 @@ Die Paprikschoten waschen und für ca. 20 Minuten bei 180 Grad im Backofen blanc
 1 Roggenbaguette vom Vortag
 300 g Tomaten
 150 g rote Zwiebeln
-
-8 El Olivenöl
+8 EL Olivenöl
 Salz
 
 Pfeffer
@@ -20688,7 +19678,6 @@ Ein Gebäck für Simon 😊
 
 ## Käsegebäck (Gougères)
 ### Zutaten (für 1 Blech):
-
 250 ml Wasser
 100 g Butter
 Salz
@@ -20730,7 +19719,6 @@ Tipp:	Die Gougères verspeist man am besten, wenn die Sonne langsam untergeht un
 
 ## Parmesankekse
 ### Zutaten (für ca. 20 Stück):
-
 55 g Mandeln
 100 g kalte Butter
 30 g frisch geriebener Parmesan
@@ -20762,7 +19750,6 @@ Cayennepfeffer
 
 ## Tex-Mex-Käsecracker
 ### Zutaten für 80 Stück
-
 215 g Mehl
 1 TL Chilipulver
 1 TL Knoblauchsalz
@@ -20784,7 +19771,6 @@ Cayennepfeffer
 125 g Mehl
 100 g Butter, zerkleinert
 1 EL Sauerrahm
-
 60 g Cheddar, gerieben
 65 g Parmesan, gerieben
 3 TL frischer Rosmarin, gehackt
@@ -20801,11 +19787,9 @@ Cayennepfeffer
 ## Käseplätzchen - Kalizúnia
 ### Zutaten (für 40 Stück für 2 große Bleche):
 3 Eier
-
 80 ml Olivenöl
 125 g Zucker
 100 g Joghurt
-
 500 g Mehl und Mehl zum Ausrollen
 Salz
 1 Päckchen Backpulver
@@ -20813,7 +19797,6 @@ Salz
 100 g Sesamsamen zum Bestreuen
 
 *Für die Füllung:*
-
 700 g Frischkäse, ungesalzen (z.B. Ricotta)
 150 g Zucker
 2 EL Honig
@@ -20850,7 +19833,6 @@ Butter für das Blech
 2 Platten TK-Blätterteig
 1 Eigelb
 1 EL Milch
-
 60 g Ziegenkäse
 Salz
 
@@ -20881,7 +19863,6 @@ Zubereitungszeit 10 Minuten plus 5 Minuten Kochzeit
 ### Zutaten
 300 g Manchego am Stück
 1 Ei
-
 4 EL Semmelbrösel
 2 EL gemahlene Mandeln
 3 EL Mehl
@@ -20945,9 +19926,7 @@ Salz
 
 ## Cracker mit Olivenöl
 ### Zutaten (für ungefähr 50 Stück)
-
 130 g Weißmehl
-
 130 g Dinkelvollkornmehl
 
 Reichlich Olivenöl
@@ -20968,7 +19947,6 @@ Salzflocken zum Garnieren
 15 g Speisestärke
 
 Ein Prise Salz
-
 265 ml Wasser
 
 Sauerrahm
@@ -20988,9 +19966,7 @@ die Zutaten mit einem Schneebesen trocken verrühren und mit etwa 250 ml kochend
 4 TL Backpulver
 1 Prise Salz
 50 g Parmesan, fein geraspelt
-
 125 ml Milch
-
 125 ml Wasser
 
 Cayennepfeffer zum Bestreuen
@@ -21011,13 +19987,10 @@ Tipp:	Teig für Scones darf nicht zu lange geknetet werden, sonst wird das Gebä
 4 TL Backpulver
 1 Prise Salz
 30 g Butter, in kleine Stücke geschnitten
-
 60 g geriebener Cheddar oder mittelalter Gouda
 3 EL Parmesan, geraspelt
 2 EL Schnittlauch, gehackt
-
 125 ml Milch
-
 125 ml Wasser
 
 Zusätzlich 3 EL geriebener Cheddar oder mittelalter Gouda
@@ -21049,7 +20022,6 @@ Salz
 ## Zwetschgenröster
 ### Zutaten
 800 g Zwetschgen
-
 130 g Zucker
 1 Zimtstange
 1 Msp. Gemahlene Nelken
@@ -21084,9 +20056,7 @@ Pfeffer
 
 ## Ka’ach Bilmalch
 ### Zutaten (für 30-40 Stück)
-
 500 g Mehl
-
 100 ml Sonnenblumenöl
 100 g weiche Butter, in Würfel geschnitten
 1 TL Trockenhefe
@@ -21114,11 +20084,8 @@ Je 1 TL weiße und schwarze Sesamsamen
 300 g eingelegte Weinblätter
 200 g Langkornreis
 200 g mittelgroße Zwiebeln
-
 5 EL Olivenöl
-
 4 EL Pinienkerne, geschält
-
 4 EL Korinthen
 Salz
 1 Msp. Zucker
@@ -21148,14 +20115,11 @@ Zubereitungszeit; 1 ¼ Stunde, puls 1 ¼ Stunde Garen plus 1 Stunde Ruhezeit
 
 ## Gefüllte Teigtaschen - Bureka
 ### Zutaten (für 18 Stück)
-
 500 g Blätterteig
 1 Ei, verquirlt
 
 *Für die Ricottafüllung:*
-
 60 g Hüttenkäse
-
 60 g Ricotta
 90 g Feta, zerkrümelt
 10 g Butter zerlassen
@@ -21190,7 +20154,6 @@ Zubereitungszeit; 1 ¼ Stunde, puls 1 ¼ Stunde Garen plus 1 Stunde Ruhezeit
 *Für die Füllung:*
 300 g Spinat
 1 Zwiebel
-
 50 ml Pflanzenöl
 
 ½ TL Salz
@@ -21202,9 +20165,7 @@ Pfeffer
 *Für die Sauce:*
 2 Eier
 3 EL Joghurt
-
 100 ml Pflanzenöl
-
 150 ml Milch
 1 EL Sesam
 1 Packung türkischer Blätterteig (12-16 Blätter, dreieckig)
@@ -21238,9 +20199,7 @@ Pfeffer
 1 kleine Zwiebel, feingehackt
 1 kleine, grüne Paprikaschote, feingehackt
 1 Knoblauchzehe, zerdrückt
-
 350 g Rinderhack und 200 g Schweinehack oder eben 550 g Rinderhack
-
 185 g Passata oder Tomaten aus der Dose, zerkleinert
 100 g grüne Oliven, entkernt und zerkleinert
 
@@ -21257,7 +20216,6 @@ Pfeffer
 ## Pizza frittata
 ### Zutaten (für 20 Stück):
 20 g Butter
-
 60 g Champignons, feingehackt
 1 kleine Tomate, ohne Haut und Kerne, feingehackt
 1 kleine rote Paprika, ohne Kerne, feingehakt
@@ -21265,9 +20223,7 @@ Pfeffer
 1 Kabanossi, feingehakt
 
 1TL getrocknete Basilikumblätter
-
 4 Eier
-
 170 ml Sahne
 100 g Parmesan, gerieben
 
@@ -21284,12 +20240,9 @@ Pfeffer
 1 kleine Zwiebel, feingehackt
 100 g Champignons, feingehackt
 90 g Mehl
-
 250 ml Milch
-
 185 ml Hühnerbrühe
 100 g Kochschinken, feingehackt
-
 60 g Mehl, zusätzlich
 2 Eier, leicht geschlagen
 50 g Paniermehl
@@ -21306,7 +20259,6 @@ Pfeffer
 
 ## Eingelegter Fetakäse
 ### Zutaten (für 6-8 Personen):
-
 350 g Feta
 1 EL getrockneter Oregano
 1 TL Koriandersamen
@@ -21379,9 +20331,7 @@ Das Öl kann sich im Kühlschrank zum Teil verfestigen, wird dann aber wieder fl
 1 Zwiebel, feingehackt
 2 Knoblauchzehen, zerdrückt
 2 kleine rote Chillies, feingehackt
-
 425 g Kidneybohnen aus der Dose, abgetropft und grob zerdrückt
-
 250 ml dickflüssige Salsasauce
 2 EL frische Korianderblätter, gehackt
 90 g Cheddar, gerieben
@@ -21459,7 +20409,6 @@ Blätterteig ausrollen, mit Ei bestreichen, Würstchen reinlegen. Zusammenrollen
 ## Paprika-Röllchen
 ### Zutaten (für 20 Stück)
 1 große rote Paprika
-
 60 g Cheddar, gerieben
 30 g Parmesan, gerieben
 2 EL Mayonnaise
@@ -21483,12 +20432,10 @@ Paprikapulver
 ## Rucola-Ricotta-Törtchen
 ### Zutaten (für 12 Stück):
 50 g Pinienkerne
-
 80 g Rucola
 1 Knoblauchzehe
 1 Ei
 3 Eigelb
-
 400 g Ricotta
 Salz
 
@@ -21550,7 +20497,6 @@ Schwarzer Pfeffer
 1 Ei
 2 EL Milch
 40 g Amaretti
-
 4 EL Mascarpone
 100 g Himbeermarmelade
 
@@ -21662,7 +20608,6 @@ Schwarzer Pfeffer
 
 ½ Packung TK-Blätterteig (3 Platten à 75 g)
 150 g TK-Rhabarber (ersatzweise Orangen)
-
 4 EL Zucker
 3 EL Kokosraspeln (oder Kokoschips)
 
@@ -21678,14 +20623,10 @@ Schwarzer Pfeffer
 ### Zutaten
 1 Stiel Estragon
 2 Stiele glatte Petersilie
-
 5 EL Weißweinessig
-
 60 g Crème fraîche
-
 4 EL Milch
 1 TL Dijon Senf
-
 4 EL Walnussöl
 1 EL Olivenöl
 Salz
@@ -21704,7 +20645,6 @@ Tipp:	Eignet sich als Rohkost-Dip, für gemischte Salate und Kartoffelsalat
 1 kleine Knoblauchzehe
 2 Stiele Thymian
 6 EL Aceto Balsamico
-
 100 ml Olivenöl
 Salz, Zucker, Pfeffer
 
@@ -21746,8 +20686,7 @@ Tipp: 	Perfekt zum Krabbencocktail (hihi – man weiß nie, ob man das nicht mal
 1 Orange (Saft und Schale)
 1 kleine Chilischote
 3 EL Weißweinessig
-
-8 El Olivenöl
+8 EL Olivenöl
 Salz
 
 Pfeffer
@@ -21771,7 +20710,6 @@ Grobes Meersalz
 
 Pfeffer
 1 EL Zitronensaft
-
 100 ml Olivenöl
 
 ½ TL fein abgerieben Zitronenschale
@@ -21812,9 +20750,7 @@ Tipp:	Schmeckt zu allen Blattsalaten, aber auch Gurken und Rettich
 ### Zutaten (für 500 ml)
 
 Je 10 Stiele Petersilie, Kerbel, Basilikum, Estragon und Sauerampfer
-
 100 ml Weißweinessig
-
 70 ml Geflügelfond 
 1 EL Dijon-Senf
 Salz
@@ -21836,7 +20772,6 @@ Pfeffer
 1 große Prise Salz
 
 Schwarzer Pfeffer aus der Mühle
-
 4 EL Olivenöl
 2 EL Walnussöl
 50 g gehackte Walnüsse
@@ -21860,7 +20795,6 @@ Tipp:	Schmeckt lecker zu Feldsalat, Chicorée, Radicchio, Rohkostsalaten z.B. Ko
 
 Pfeffer
 1 EL Zitronensaft
-
 100 ml Olivenöl
 
 ½ TL fein abgeriebene Zitronenschale
@@ -21880,7 +20814,6 @@ Pfeffer
 2 EL Agavendicksaft
 
 Saft von 1 Zitrone
-
 100 ml Olivenöl
 1 EL scharfes Paprikapulver
 1 TL Chiliflocken 
@@ -21896,7 +20829,6 @@ Pfeffer, Meersalz
 
 ½ Bund Petersilie
 1 mittelgroße rote Zwiebel
-
 80 g Pinienkerne
 
 ### Zubereitung
@@ -21907,9 +20839,7 @@ Pfeffer, Meersalz
 ## Estragon-Senf
 ### Zutaten (für 1 Glas (300 ml))
 100 g gelbe Senfkörner
-
 50 ml trockener Weißwein
-
 50 ml Apfelessig
 2 TL getrockneter Estragon
 40 g milder Honig
@@ -21931,14 +20861,12 @@ Salz
 
 5 Nelken
 300 ml Cider
-
 150 ml Apfelessig
 90 g getrocknete Aprikosen
 1 EL Koriandersaat
 
 Grobes Meersalz
 50 g gelbe Senfsaat
-
 80 g Senfmehl
 
 ### Zubereitung
@@ -21951,7 +20879,6 @@ Grobes Meersalz
 ## Zitronen-Aioli 
 ### Zutaten für 6 Portionen
 1 vorwiegend fest kochende Kartoffel
-
 150 ml Sonnenblumenöl
 1 Ei
 1 Knoblauchzehe
@@ -21989,13 +20916,11 @@ Cayennepfeffer
 ### Zutaten (für ca. 6 Portionen):
 
 5 Passionfruits
-
 50 ml Orangensaft
 20 g frischer Ingwer
 3 Eigelb
 
 ½ TL scharfer Senf
-
 150 ml Rapsöl
 1 TL Sesamöl
 1 TL Honig
@@ -22020,7 +20945,6 @@ Cayennepfeffer
 3 EL Kapern
 1 Handvoll glatte Petersilie, grob gehackt
 2 Knoblauchzehen, grob gehackt
-
 100 ml Olivenöl
 
 *Für die grüne Tapenade:*
@@ -22029,7 +20953,6 @@ Cayennepfeffer
 1 Handvoll frische Basilikumblätter, gehackt
 1 EL frischer Zitronensaft
 1 EL Dijonsenf
-
 100 ml Olivenöl
 
 ### Zubereitung
@@ -22046,7 +20969,6 @@ Salz, Pfeffer
 120 g weiße Tahini
 
 3-4 EL Zitronensaft
-
 4 EL Olivenöl
 
 ¼ TL Cayennepfeffer
@@ -22074,13 +20996,11 @@ Salz, Pfeffer
 Salz, Meersalzflocken, Pfeffer
 
 *Für die Pilze:*
-
 140 g braune Champignons, geviertelt
 120 g Shiitakepilze, halbiert
 1 Knoblauchzehe mit einer Messerklinge zerdrückt
 60 ml Olivenöl
 1 Zitrone, 3 Streifen Schale abgeschnitten, dann 2 EL Saft ausgepresst
-
 5 g Thymianzweige
 
 1,5 EL Ahornsirup
@@ -22113,7 +21033,6 @@ Für den Hummus:
 Meersalzflocken
 
 *Für die Aromate:*
-
 90 ml Olivenöl
 3 rote Chilischoten, entkernt und in feine Streifen geschnitten
 15 g Ingwer, geschält und in feine Streifen geschnitten
@@ -22132,14 +21051,11 @@ Meersalzflocken
 ### Zutaten (für 6 Portionen)
 250 g Kichererbsen
 1 TL Backnatron
-
 270 g helles Tahini
-
 4 EL Zitronensaft
 
 4 Knoblauchzehen, zerdrückt
 1 ½ TL Salz
-
 100 ml eiskaltes Wasser
 
 ### Zubereitung
@@ -22156,7 +21072,6 @@ Meersalzflocken
 Salz
 
 Pfeffer
-
 4 EL Olivenöl
 
 Saft von ½ Zitrone
@@ -22177,10 +21092,8 @@ Saft von ½ Zitrone
 
 ## Kartoffel – Knoblauch – Paste - Skordália me patátes
 ### Zutaten (für 4 Portionen):
-
 400 g Kartoffeln festkochend
 3 Knoblauchzehen
-
 5 EL Olivenöl
 6 – 7 EL Gemüsebrühe
 
@@ -22205,7 +21118,6 @@ Tipp:	Man kann auch noch 2 EL geschälte, geriebene Mandeln mit 2 – 3 EL zusä
 5 Frühlingszwiebeln
 120 g Mayonnaise (50% Fett)
 1 TL mittelscharfer Senf
-
 30 ml Zitronensaft
 Salz
 
@@ -22253,7 +21165,6 @@ Je ½ Bund Basilikum, Rucola und Sauerampfer
 
 ½ TL Dijon-Senf
 1 EL Zitronensaft
-
 150 ml Sonnenblumenöl
 Salz
 
@@ -22269,11 +21180,9 @@ Zucker
 ## Linsencreme
 ### Zutaten (für 8 Portionen)
 2 Schalotten
-
 5 EL Olivenöl
 30 g Soft-Aprikosen
 150 g rote Linsen
-
 450 ml Gemüsefond
 2 TL Koriandersaat
 1 Zitrone
@@ -22295,7 +21204,6 @@ Pfeffer
 ### Zutaten für 4 Portionen
 75 g Zwiebeln
 Salz
-
 400 g griechischer Joghurt
 
 8 Stiele Koriandergrün
@@ -22317,7 +21225,6 @@ Pfeffer
 ## Gurkenjoghurt
 ### Zutaten
 2 Minigurken
-
 500 g Joghurt
 1 Knoblauchzehe, zerdrückt
 1 Prise Cayennepfeffer
@@ -22335,7 +21242,6 @@ Die Gurken schäle und in hauchdünne Scheiben schneiden. Die übrigen Zutaten v
 
 ## Tzatzíki
 ### Zutaten (für 4 Portionen):
-
 600 g Schafmilchjoghurt (6 – 8% Fett, ersatzweise auch Bulgaro-Joghurt)
 3 kleine Gurken oder 1 große Gurke (ca. 400 g)
 Salz
@@ -22400,7 +21306,6 @@ Meersalz
 ### Zutaten
 1 Salatgurke, geraspelt
 15 g Koriandergrün, fein gehackt
-
 25 g Ingwer, geschält und fein gehackt
 200 g Kokoscreme
 2 EL Limettensaft
@@ -22418,8 +21323,7 @@ Tipp:	Passt gut zum Ottolenghi-Ratatouille
 1 kleine Mango (ca. 300 g)
 1 rote Chilischote
 2 kleine rote Zwiebeln
-
-5 El milder Weißweinessig
+5 EL milder Weißweinessig
 Salz
 
 Zucker
@@ -22516,7 +21420,6 @@ Pfeffer
 1 Limette
 
 5 Stiele Minze
-
 500 g griechischer Joghurt
 2 EL geröstetes Sesamöl
 
@@ -22554,7 +21457,6 @@ Pfeffer
 ## Erdnussbutter-Kokos-Dip
 ### Zutaten
 4 EL Erdnussbutter (oder Mandelmus)
-
 120 ml Kokosmilch
 
 Ausgepresster Saft von 1 Limette
@@ -22578,7 +21480,6 @@ Die Spieße in der Pfanne auf jeder Seite kurz anbraten, dabei gelegentlich mit 
 
 Etwas Olivenöl
 Salz
-
 80 g Walnüsse
 1 TL Kreuzkümmelsamen
 2 Scheiben Weißbrot
@@ -22634,7 +21535,6 @@ Salz
 
 Abgeriebene Schale einer Biozitrone
 2 EL Zitronensaft
-
 5 EL Olivenöl
 2 EL gehackte glatte Petersilie
 2 EL gehackte Minze
@@ -22684,12 +21584,10 @@ Araber sind die Italiener Westasiens: ein Gericht ist für sie nur authentisch, 
 1 TL Senf
 1 EL Zitronensaft
 Salz, Pfeffer
-
 75 ml Sonnenblumenöl
 
 Fein abgeriebene Schale einer Bio-Zitronen
 50 g Joghurt
-
 25 g frisch geriebener Parmesan
 50 g Brunnenkresse
 
@@ -22706,7 +21604,6 @@ Pinienkerne ohne Fett anrösten. Eigelb, Senf, Zitronensaft, Salz und Pfeffer in
 1 TL Zitronenschale
 2 TL Zitronensaft
 1 TL Salz
-
 50 ml Olivenöl
 
 Schwarzer Pfeffer
@@ -22723,10 +21620,8 @@ Ca. 50 g frische Blätter von jungem Basilikum
 30 g Parmesankäse
 30 g gut gealterter Pecorino
 1 große Knoblauchzehe
-
 12 EL Olivenöl
 15 g Pinienkerne
-
 5 g Walnusskerne
 
 1/2 TL grobes Salz
@@ -22773,10 +21668,8 @@ die Zutaten grob zermahlen und die erhaltene Mischung mit Öl und Chili vermenge
 
 Etwas Salz
 1 Bund frisches Basilikum
-
 100 ml Olivenöl
 100 g Mandeln
-
 600 g reife Cherry-Tomaten
 3 EL geriebener Parmesan
 1 EL Zitronensaft
@@ -22798,7 +21691,6 @@ Tipp:	Man kann auch statt des Mörsers einen Pürierstab nehmen 😊
 1 kleine Knoblauchzehe
 1 EL Mandelblättchen, geröstet
 1 EL geriebener Parmesan
-
 4 EL Olivenöl
 Salz
 
@@ -22821,7 +21713,6 @@ Salz
 
 ½ TL Dijon-Senf
 1 TL Honig
-
 100 ml Olivenöl
 1 Tomate
 Salz
@@ -22838,19 +21729,15 @@ Tabasco
 
 ## Frankfurter Soße als Pesto
 ### Zutaten für 4 Portionen
-
 130 g Kräuter für Grüne Soße (Petersilie, Kresse, Schnittlauch, Sauerampfer, Borretsch, Pimpinelle, Kerbel)
 100 g Parmesan
 50 g Sonnenblumenkerne
-
 120 ml Olivenöl
 
 Etwas Salz
 
 Pfeffer
-
 700 g Kartoffeln 
-
 4 Eier
 
 ### Zubereitung
@@ -22872,7 +21759,6 @@ Info:	In eine Frankfurter Soße darf niemals Dill. Ist eine Frage der Ehre!
 5 Stiele glatte Petersilie
 1 TL fein abgeriebene Schale einer Bio-Zitrone
 50 g frisch geriebener Hartkäse
-
 8 EL Olivenöl
 
 ### Zubereitungszeit
@@ -22887,11 +21773,8 @@ Tipp:	Restliches Pesto im Glas im Kühlschrank aufbewahren. Dabei darauf achten,
 ## Cranberry-Nuss-Pesto
 ### Zutaten für 2 Portionen:
 1 Orange
-
 60 g getrocknete Cranberrys
-
 50 ml Traubenkernöl
-
 80 g Walnüsse oder Pekannüsse
 1 TL Chiliflocken
 Salz
@@ -22911,9 +21794,7 @@ Das einzig Komplizierte an diesem Rezept ist, dass man die Zutaten finden und be
 Saft von ½ Zitrone
 
 ½ Knoblauchzehe
-
 100 ml Olivenöl
-
 100 ml Wasser
 
 5 Basilikumblätter
@@ -22943,7 +21824,6 @@ Problem:	Dieses Pesto sieht so zartgrün aus wie der Frühling, nur liegt das ni
 2 Petersilienstängel
 
 ½ Glas Rotwein
-
 5 EL Olivenöl
 Salz und Pfeffer
 
@@ -22964,7 +21844,6 @@ Salz und Pfeffer
 30 g Pinienkerne
 30 g Pecorino
 40 g Parmesan
-
 4 EL Olivenöl
 1 Prise Salz
 
@@ -22992,7 +21871,6 @@ Die Tomaten in Stücke schneiden und gut abtropfen lassen. Mit einer fein zerkle
 
 ## Tomatensauce – La Pomarola
 ### Zutaten (für 4 -5 Portionen)
-
 500 g frische, gut reife oder geschälte Tomaten
 
 ½ Mohrrübe
@@ -23003,7 +21881,6 @@ Die Tomaten in Stücke schneiden und gut abtropfen lassen. Mit einer fein zerkle
 Einige Petersilienblätter
 2 Knoblauchzehen
 2 – 3 Blätter Basilikum
-
 4 EL Olivenöl
 1 TL Salz
 1 TL Zucker
@@ -23016,11 +21893,9 @@ Info:	Diese Sauce ist in der Toskana die Königin der Saucen. Wenn man sie zuber
 
 ## Tomatensauce mit Rosmarin – La Rosmarina
 ### Zutaten (für 4 – 5 Portionen)
-
 500 g reife Tomaten oder geschälte aus der Dose
 
 Nadeln von einem Rosmarinzweig (10 cm)
-
 5 EL Olivenöl
 2 Knoblauchzehen
 2 getrocknete scharfe Chilischoten
@@ -23055,7 +21930,6 @@ Meersalz, Pfeffer
 ### Zutaten (für 2 Portionen)
 50 g Frühlingszwiebeln
 20 g Ingwer
-
 120 ml Erdnussöl (kaltgepresst)
 
 ½ TL Salz
@@ -23078,7 +21952,6 @@ Info:	Passt zu geröstetem Gemüse, gebratenem Fleisch, Tofu, Spiegelei…
 2 Knoblauchzehen
 
 ½ kleine frische rote Chili
-
 8 EL Olivenöl
 
 ### Zubereitung
@@ -23098,11 +21971,8 @@ Tipp:	Diese Sauce schmeckt gut zu gegrilltem Lamm und Rind, zu gegrilltem Gemüs
 4 Knoblauchzehen
 2 Orangen
 6 EL Öl
-
 160 g brauner Rohrzucker
-
 120 ml Balsamicoessig bianco
-
 120 ml Worcestershiresauce
 Salz
 
@@ -23134,7 +22004,6 @@ Petersilienstängel
 
 Rosmarinzweige
 1 EL Speisestärke
-
 50 ml Portwein
 1 EL kalte Butter
 1 Prise Salz
@@ -23153,10 +22022,8 @@ Tipp:	48 Stunden kochen sind kein lustiges Unterfangen. Am besten die Sauce auch
 ### Zutaten
 2 Schalotten
 1 EL Olivenöl
-
 50 ml Weißwein
 1 Zitrone: Schale fein angerieben und Saft
-
 150 ml Sahne
 2 EL klassische Sauce oder Fond aus dem Glas
 1 TL Speisestärke
@@ -23176,13 +22043,10 @@ Tipp:	Passt hervorragend auch zu gebratenem Hähnchen oder Schnitzel.
 2 Schalotten
 1 Zehe Knoblauch
 1 EL Olivenöl
-
 100 ml Rotwein
-
 50 ml Aceto Balsamico
 200 ml Gemüsebrühe
 1 TL Speisestärke
-
 60 g Butter gewürfelt
 Salz und schwarzer Pfeffer aus der Mühle
 
@@ -23233,14 +22097,12 @@ Salz, Pfeffer
 
 ## Kokos-Mango-Sauce
 ### Zutaten (für ca. 6 Portionen):
-
 80 g Schalotten
 2 Knoblauchzehen
 1 rote Chilischote
 2 EL Öl
 1 TL Currypulver
 2 TL brauner Zucker
-
 80 ml trockener Wermut (z.B. Noilly Prat)
 200 ml Kokosmilch
 Salz
@@ -23264,13 +22126,10 @@ Pfeffer
 1 rote Paprikaschote
 3 rote Pfefferschoten
 1 Zwiebel
-
 180 ml Olivenöl
 
 5 Knoblauchzehen
-
 90 ml Rotweinessig
-
 75 ml Zitronensaft
 1 TL Cayennepfeffer
 2 TL getrockneter Oregano
@@ -23294,7 +22153,6 @@ Salz
 3 Stiele Estragon
 2 reife Avocados
 1 Limette
-
 100 ml Gemüsefond
 1 EL Rotweinessig
 2 EL Olivenöl
@@ -23355,7 +22213,6 @@ Die Cashewkerne 30 Minuten in reichlich Wasser einweichen. Die Paprikaschoten vo
 1 EL Öl
 1 Knoblauchzehe
 1 TL Currypulver
-
 100 ml Kokosmilch
 2 EL Sojasauce
 75 g stückige erdnusscreme
@@ -23371,7 +22228,6 @@ Die Zwiebel fein würfeln. 1 EL Öl in einer Pfanne erhitzen, die Zwiebel darin 
 
 ## Grüne Tahinsauce
 ### Zutaten (für 4 Portionen):
-
 80 g Tahin
 15 g Petersilie, grob gehackt
 1 kleine Knoblauchzehe, zerdrückt
@@ -23475,7 +22331,6 @@ Tipp:	Übrigens, Mango wird in Indien schon seit über 4000 Jahren angebaut und 
 6 kleine, reife Tomaten
 1 Stück frischer Ingwer (3 cm)
 100 g Rosinen
-
 5 EL Zucker
 
 ½ TL Kurkumapulver
@@ -23506,7 +22361,6 @@ Salz
 1 TL Zucker
 
 ½ TL Garam Masala
-
 50 ml Zitronensaft
 
 ### Zubereitungszeit
@@ -23518,7 +22372,6 @@ Salz
 
 ## Rhabarberchutney
 ### Zutaten (für 1 Glas):
-
 350 g Rhabarber
 2 Zwiebeln, gehackt
 
@@ -23546,7 +22399,6 @@ Tipp:	Passt gut zu Lamm, zu einem kräftigen Fisch oder zu einem würzigen Ziege
 1 Knoblauchzehe
 2 EL Zucker
 2 EL Gin
-
 50 ml Weißweinessig
 1 Zweig Rosmarin oder Lavendel
 1 Prise Salz, schwarzer Pfeffer aus der Mühle
@@ -23588,12 +22440,10 @@ Salz
 ### Zutaten (für 1 kleines Glas)
 
 4 TL gelbe Senfsamen
-
 80 g grüne India-Jwala-Chilischoten, halbiert und entkernt
 2 gestrichene TL Salz
 
 ½ TL gemahlene Kurkuma
-
 4 EL Rapsöl
 2 EL Zitronensaft
 
@@ -23603,12 +22453,10 @@ Die Senfsamen im Mörser zerstoßen, bis die meisten Samen halbiert sind, dann i
 
 ## Auberginen-Tamarinden-Chutney - Brinjal mensakai
 ### Zutaten (für 1 großes Glas)
-
 750 g runde Baby-Auberginen
 
 Sonnenblumenöl
 3 TL Schwarzkümmelsamen
-
 25 g frische Curryblätter
 10 grüne India-Jwala-Chilischoten, entkernt und diagonal gedrittelt
 200 g Tamarindenpaste
@@ -23626,11 +22474,9 @@ Sonnenblumenöl
 100 g Schalotten
 
 1-2 rote Chilischoten
-
 800 g Himbeerrhabarber (frisch oder TK)
 150 g brauner Zucker
 10 g gelbe Senfkörner
-
 4 EL Weißweinessig
 200 ml frischer Orangensaft (am besten frisch gepresst!!!)
 
@@ -23777,7 +22623,6 @@ Salz
 *Für das Chutney:*
 1 reife Mango, geschält, das Fruchtfleisch vom Kern gelöst und in mundgerechte Stücke geschnitten
 1 kleine Handvoll Rosinen
-
 4 EL Apfelessig
 
 ½ TL getrocknete Chiliflocken
@@ -23795,7 +22640,6 @@ Salz
 ## Tomatenchutney
 ### Zutaten für 1 Glas
 250 g rote Zwiebeln
-
 500 g Tomaten
 
 5 Knoblauchzehen
@@ -23803,7 +22647,6 @@ Salz
 
 1-2 cm großes Stück Ingwer
 1 EL Koriandersamen
-
 75 ml Apfelessig
 100 g brauner Zucker
 Salz, Pfeffer
@@ -23818,12 +22661,10 @@ Salz, Pfeffer
 ### Zutaten (für 4 – 6 Portionen)
 1 Stück Ingwer (4 cm)
 125 g Zwiebeln
-
 400 g Aprikosen
 40 g getrocknete Tomaten
 1 EL Öl
 60 ml frisch gepresster Orangensaft
-
 50 ml Obstessig
 125 g brauner Zucker
 1 TL Tabasco
@@ -23969,9 +22810,7 @@ Weißes Salz
 
 ## Zatar
 ### Zutaten, falls der Gewürzhändler das mal nicht hat.
-
 4 EL Sesamsamen
-
 4 EL Sumach
 2 EL getrockneter Thymian
 2 EL getrockneter Oregano
@@ -23986,9 +22825,7 @@ Die Sesamsamen in einer Pfanne bei niedriger Hitze unter Rühren leicht anröste
 30 g Zimtstangen
 20 g schwarze Pfefferkörner
 15 g ganze Gewürznelken
-
 5 g gemahlener Ingwer
-
 5 g Kardamomkapseln
 
 ### Zubereitung
@@ -24094,9 +22931,7 @@ Und immer daran denken, gute und trockene Kastanien kaufen. Manchmal sind die Ka
 60 ml Olivenöl
 2 rote Chilischoten, in feine Ringe geschnitten
 1 Zitrone, 5 Streifen Schale dünn abgeschnitten
-
 60 g Rucola
-
 140 g Ricotta
 
 ### Zubereitung
@@ -24110,11 +22945,8 @@ Info:	Das Rezept dauert etwas länger….also Obacht.
 
 ## Süßsaure Zwiebeln
 ### Zutaten (für 4 Portionen als Vorspeise):
-
 500 g golfballgroße Zwiebeln, geschält und längs halbiert
-
 75 ml Olivenöl
-
 400 ml Granatapfelsaft 
 10 g Schnittlauch, in feine Röllchen geschnitten
 70 g Ziegenfrischkäse, in 2 cm große Stücke geteilt
@@ -24144,7 +22976,6 @@ Salz
 
 Saft von 1 Zitrone
 200 g jungen Spinat
-
 80 g würzigen Ziegenkäse
 
 ### Zubereitung
@@ -24155,7 +22986,6 @@ Saft von 1 Zitrone
 
 ## Gefüllte Quitten
 ### Zutaten (für 4 Portionen):
-
 400 g Lammhackfleisch oder Rinderhackfleisch
 1 Knoblauchzehe, zerdrückt
 1 rote Chilischote, gehackt
@@ -24174,7 +23004,6 @@ Saft von ½ Zitrone, plus 1 EL Zitronensaft
 8 Kardamomkapseln
 2 TL Granatapfelsirup
 2 TL Zucker
-
 500 ml Gemüsebrühe
 
 Kerne von ½ Granatapfel
@@ -24212,9 +23041,7 @@ Tipp:	Das Gericht eignet sich gut als Vorspeise. Das Rezept stammt von einer ita
 
 ## Senf-Spitzkraut
 ### Zutaten (für 4 Portionen)
-
 400 g Spitzkohl, in feine Streifen geschnitten
-
 80 g Schalotten, in feine Ringe geschnitten
 1 TL Senfkörner
 1 Msp. Gehackten Knoblauch
@@ -24234,7 +23061,6 @@ Dazu passt Fisch, Schweinebraten oder Bratwurst.
 
 ## Gegrillte Avocados
 ### Zutaten (für 4- 6 Portionen)
-
 500 g Tomaten
 200 g Fetakäse
 
@@ -24242,7 +23068,6 @@ Dazu passt Fisch, Schweinebraten oder Bratwurst.
 6 Stiele Minze
 Salz, Zucker, Chiliflocken
 2 EL Weißweinessig
-
 4 EL Öl
 2 -3 Avocados
 
@@ -24260,7 +23085,6 @@ Tipp:	Avocado nicht zu lange auf dem Grill lassen, sonst wird sie bitter!
 1 Schalotte
 1 Knoblauchzehe
 1 Tomate
-
 4 EL Olivenöl	
 1 EL Kapern
 
@@ -24282,14 +23106,11 @@ Tipp:	Schnell zubereitete Gemüsebeilage im Sommer.
 
 ## Weiße Bohnen mit Salbei
 ### Zutaten (für 6 Portionen):
-
 350 g weiße Bohnen
-
 500 g reife Tomaten
 
 10 frische Salbeiblätter
 2 Knoblauchzehen
-
 5 EL Olivenöl
 Salz, Pfeffer
 
@@ -24306,7 +23127,6 @@ Info:	Berühmt für Bohnen ist die Toskana, was man kaum glaubt.
 
 ## Feuerbohnen – Subji
 ### Zutaten (für 4 Portionen):
-
 750 g Feuerbohnen
 2 EL Rapsöl
 
@@ -24334,17 +23154,13 @@ Info:	Berühmt für Bohnen ist die Toskana, was man kaum glaubt.
 
 ## Geröstete und geschmorte grünen Bohnen
 ### Zutaten (für 4 Portionen (als Beilage))
-
 500 g grüne Bohnen, geputzt und quer halbiert
-
 500 g breite Bohnen, abgefädelt und schräg in 3-4 cm große Stücke geschnitten
 
 12 Knoblauchzehen, geschält
 1 Grüne Chilischote, mit dem Messer mehrfach eingestochen
-
 120 ml Olivenöl
 2 Zwiebeln fein gewürfelt
-
 250 ml Gemüsebrühe
 2 Zitronen, 2 TL Schale und 3 EL Saft
 10 g Estragonblätter, grob gehackt
@@ -24393,7 +23209,6 @@ Schwarzer Pfeffer
 
 ## Bohnen
 ### Zutaten (für 4 Portionen als Beilage)
-
 500 g getrocknete oder 650 g frische Bohnen (z, B. schwarze Bohnen, Cannellini- oder Borlottibohnen)
 1 Knoblauchknolle
 Salz
@@ -24447,10 +23262,8 @@ Salz und Pfeffer
 
 ¾ TL geriebene Muskatnuss
 1 EL Tomatenmark
-
 500 g grüne Bohnen, geputzt, schräg in 2 cm breite Stücke geschnitten
 6 Tomaten, gehäutet und grob zerkleinert
-
 500 ml Gemüsebrühe
 10 g Koriandergrün, grob gehackt
 Salz, Pfeffer
@@ -24462,10 +23275,8 @@ Salz, Pfeffer
 
 ## Tofu und grüne Bohnen
 ### Zutaten (für 4 Portionen)
-
 450 g grüne Bohnen, geputzt
 1 EL Sonnenblumenöl
-
 400 g Tofu, in 2 -3 große Würfelgeschnitten und trocken getupft
 15 g Koriandergrün, grob gehackt
 
@@ -24501,7 +23312,6 @@ Salz, Pfeffer
 
 ¼ TL Chiliflocken
 2 TL Balsamicoessig
-
 60 g Walnusskerne, geröstet und grob gehackt
 
 Püree:
@@ -24524,14 +23334,10 @@ Püree:
 1 große Zwiebel, fein gehackt
 2 Knoblauchzehen, fein gehackt
 100 g Austernpilze (oder Champignons) in Scheiben geschnitten
-
 120 ml trockener Weißwein 
 250 g Spinat, grob gehackt
-
 450 g gekochte Cannellinibohnen aus der Dose
-
 120 ml Gemüsebrühe
-
 60 g Mascarpone
 
 Abgeriebene Schale und Saft von ½ unbehandelten Zitronen
@@ -24555,7 +23361,6 @@ Simon mag das Gericht ja sehr, Paula hingegen weniger. Müsst ihr euch also eini
 1 Knoblauchzehe
 
 Olivenöl
-
 100 ml Milch
 200 ml Brühe, ersatzweise Wasser
 3 Kaffir-Limettenblätter
@@ -24571,7 +23376,6 @@ Tipp:	Ist eine tolle Beilage zu Fleisch.
 
 ## Noch mal weißes Bohnenpüree
 ### Zutaten (für 6 Portionen):
-
 350 g Cannellini-Bohnen, über Nacht in reichlich kaltem Wasser mit 1 EL Natron eingelegt
 1 Zwiebel, geschält und in 8 Spalten geschnitten
 
@@ -24581,7 +23385,6 @@ Tipp:	Ist eine tolle Beilage zu Fleisch.
 1 grüne Chilischote, längs halbiert
 200 ml Olivenöl
 1 EL Dijonsenf
-
 90 ml Zitronensaft (ca. 4 Zitronen)
 10 g Dill, grob gehackt
 
@@ -24598,7 +23401,6 @@ Salz, Pfeffer
 
 ## Rajma
 ### Zutaten (für 4 Portionen):
-
 240 g getrocknete Kidneybohnen
 2 Zwiebeln, gewürfelt
 1 grüne India-Jwala-Chilischote, entkernt
@@ -24626,7 +23428,6 @@ Salz
 ## Überbackener Spinat
 ### Zutaten (für 4 Portionen):
 1 kg frischer Blattspinat
-
 25 g frisch geriebener Parmesan
 30 g Butter
 1 EL Olivenöl
@@ -24634,7 +23435,6 @@ Salz
 Salz, Pfeffer
 
 *Für die Sauce:*
-
 25 g frisch geriebener Parmesan
 1 EL Butter
 1 EL Mehl
@@ -24658,12 +23458,10 @@ Dies ist ein Rezept aus der Toskana. Aber erinnert stark an unsere Spinat-Hackfl
 
 ## Spinat mit Zwiebeln – Mughlai Sag
 ### Zutaten (für 6 Portionen)
-
 800 g frischer Spinat oder 600 g TK-Spinat
 2 mittelgroße Zwiebeln
 1 Stück frischer Ingwer (3 cm)
 2 Knoblauchzehen
-
 4 EL Ghee oder Butterschmalz
 
 ¼ TL Chilipulver
@@ -24685,7 +23483,6 @@ Info:	Das Gericht mit Chapati oder Naan servieren.
 
 ## Scharfer Spinat mit Zwiebeln
 ### Zutaten (für 4 Portionen):
-
 800 g frischer Spinat
 1 TL Kreuzkümmelsamen
 1 TL Koriandersamen
@@ -24694,7 +23491,6 @@ Info:	Das Gericht mit Chapati oder Naan servieren.
 1 TL gemahlene Kurkuma
 
 ½ TL Chilipulver
-
 4 EL Sonnenblumenöl
 2 große Zwiebeln, in dünne Streifen geschnitten
 1 Stück frischer Ingwer (3 -4 cm) fein gerieben
@@ -24729,7 +23525,6 @@ Meersalz
 
 ½ TL gemahlene Kurkuma
 1 TL Salz
-
 500 g Babyspinat, gewaschen
 
 ### Zubereitung
@@ -24742,9 +23537,7 @@ Meersalz
 ## Palak Paneer – Spinat mit Käsewürfeln
 ### Zutaten (für 4-6 Portionen)
 200 g fester Paneer, oder auch mehr
-
 5 EL Öl
-
 800 g frischer Spinat oder 600 g TK-Blattspinat
 1 Zwiebel
 2 Knoblauchzehen
@@ -24771,13 +23564,11 @@ Salz
 
 ## Italienische Spinatknödel (Malfatti)
 ### Zutaten (für 2 Personen)
-
 700 g frischer Spinat
 1 Knoblauchzehe
 
 Etwas Olivenöl
 250 g Ricotta
-
 80 g Parmesan
 1 Ei
 
@@ -24794,7 +23585,6 @@ Ca. 40 g Butter
 
 ## Malfatti Spinat-Käse-Nocken
 ### Zutaten (für 6 Portionen):
-
 600 g frischer Blattspinat
 150 g Ricotta (oder abgetropfter Magerquark)
 100 g frisch geriebener Parmesan
@@ -24821,14 +23611,12 @@ Lustigerweise schmückt diese Köstlichkeit ein wenig schmeichelhafter Name. Mal
 
 ## Spinatnocken
 ### Zutaten (für 4-6 Portionen):
-
 500 g frischer Blattspinat
 
 Einige Salbeiblättchen
 50 g frisch geriebener Bergkäse (oder Parmesan)
 250 g Weißbrot vom Vortag
 2 Eier
-
 150 ml Milch
 50 g Butter
 
@@ -24850,13 +23638,10 @@ Tipp:	Ideal als Beilage zu einem saucenreichen Gericht.
 
 ## Spinatknödel mit Walnüssen
 ### Zutaten (für 4 Portionen):
-
 500 g TK-Blattspinat (oder 900 g frischer Spinat)
 Salz, Pfeffer
-
 500 g Weißbrot vom Vortag
 60 ml Milch
-
 80 g Bergkäse am Stück
 1 Zwiebel
 2 Knoblauchzehen
@@ -24877,7 +23662,6 @@ Frisch geriebene Muskatnuss
 ## Mangold
 ### Zutaten
 400 g bunter Mangold, von holzigen Stielenden befreit, Blätter und Stiele getrennt, in 6 cm Stücke geschnitten
-
 125 ml Olivenöl
 
 5 Knoblauchzehen, in feine Scheiben geschnitten
@@ -24888,7 +23672,6 @@ Frisch geriebene Muskatnuss
 
 2-3 reife Eiertomaten, in 1 cm große Würfel geschnitten
 120 g grüne Oliven, entsteint und halbiert
-
 5 g Basilikumblätter, grob in Stücke gezupft
 Salz, Pfeffer
 
@@ -24959,7 +23742,6 @@ Tamarindenpaste wird aus der an Bäumen wachsenden Tamarinde hergestellt. In Tha
 90 g Semmelbrösel (am besten frisch)
 
 4 Auberginen, in 2,5 cm Würfel geschnitten
-
 150 ml Olivenöl
 100 g Ricotta
 75 g Parmesan, gerieben
@@ -24981,7 +23763,6 @@ Tamarindenpaste wird aus der an Bäumen wachsenden Tamarinde hergestellt. In Tha
 
 ¾ TL Paprikapulver
 2 TL Oregano, fein gehackt
-
 45 g entsteinte schwarze Oliven, grob zerteilt
 Salz, Pfeffer
 
@@ -25018,7 +23799,6 @@ Grobes und feines Salz
 
 ## Auberginen in Senfsauce – Baigan Kari
 ### Zutaten (für 4 Portionen):
-
 400 g Auberginen
 Salz
 1 TL Kurkumapulver
@@ -25026,7 +23806,6 @@ Salz
 1 Stück frischer Ingwer (3 cm)
 2 mittelgroße Tomaten
 200 ml Öl
-
 5 EL Senföl
 
 ½ TL Chilipulver
@@ -25048,7 +23827,6 @@ Nach Belieben Zitronenviertel
 
 ## Auberginen-Erbsen-Curry – Baingan matar masala
 ### Zutaten (für 4 Portionen):
-
 5 EL Rapsöl
 1 TL Kreuzkümmelsamen
 2 große Zwiebeln, fein gehackt
@@ -25131,7 +23909,6 @@ Salz, Pfeffer
 ¾ TL Cayennepfeffer
 1 TL gemahlener Zimt
 2 EL Granatapfelsirup
-
 250 ml heiße Gemüsebrühe
 
 Kerne von 1 Granatapfel
@@ -25158,13 +23935,11 @@ Meersalzflocken
 
 *Für die Salsa mit gerösteten Chilis*
 2 große, milde rote Chilischoten
-
 140 g süße reife Kirschtomaten, fein gehackt
 
 1,5 TL Sherryessig
 
 *Knoblauch-Ingwer-Öl*
-
 40 ml Olivenöl
 2 kleine Knoblauchzehen, sehr fein gehackt
 1 TL sehr fein gehackter Ingwer
@@ -25181,7 +23956,6 @@ Meersalzflocken
 
 ## Auberginen mit Couscous
 ### Zutaten (für 4 Portionen)
-
 275 ml Orangensaft
 
 ½ TL Zimt
@@ -25197,11 +23971,8 @@ Salz, Pfeffer
 
 4 Auberginen
 2 Knoblauchzehen
-
 150 ml Gemüsebrühe
-
 400 g gewürfelte Tomaten (aus der Dose)
-
 400 g griechischer Joghurt
 
 ### Zubereitungszeit
@@ -25217,7 +23988,6 @@ Salz, Pfeffer
 ### Zutaten (für 6 Portionen):
 
 4 Auberginen (1,2 kg)
-
 175 ml Olivenöl
 6 Knoblauchzehen, in feine Scheiben geschnitten
 
@@ -25276,7 +24046,6 @@ Weißer Reis als Beilage
 1,5 EL Paprikapulver, edelsüß
 1 EL Zimt
 2 mittelgroße Zwiebeln, fein gehackt
-
 500 g Hackfleisch
 50 g Pinienkerne
 20 g glatte Petersilie, gehackt
@@ -25299,7 +24068,6 @@ Salz, Pfeffer
 ## Knusprige Aubergine mit Honig und Limette
 ### Zutaten
 1 große Aubergine
-
 500 ml Milch
 150 g Polentagrieß
 2 TL grobes Meersalz
@@ -25345,7 +24113,6 @@ Abgeriebene Schale von 2 Limetten
 ### Zutaten (für 4 Portionen):
 
 4 Auberginen
-
 8 EL Olivenöl
 40 g geschälte helle Sesamsaat
 Salz
@@ -25353,13 +24120,11 @@ Salz
 1 TL Chiliflocken
 2 Zweige Rosmarin
 40 g Butter
-
 500 g Tomaten
 
 ½ Bund Schnittlauch
 
 Saft von 1 Limette
-
 4 EL Sojasauce
 Salz, Pfeffer, Zucker
 
@@ -25377,7 +24142,6 @@ Salz, Pfeffer, Zucker
 ### Zutaten (für 4 Portionen):
 
 4 mittelgroße Auberginen (etwa 1 kg)
-
 4 EL Olivenöl und Öl für das Blech
 1 große Zwiebel
 300 g Rinder- oder Lammhackfleisch
@@ -25417,7 +24181,6 @@ Je 2 Zweige Rosmarin und Thymian
 
 Schwarzer Pfeffer, Meersalz
 3 EL rotes Pesto
-
 4 EL Olivenöl
 
 ### Zubereitung
@@ -25427,7 +24190,6 @@ Schwarzer Pfeffer, Meersalz
 
 ## Haselnuss-Auberginen-Champignons-Papillottes
 ### Zutaten (für 8 Papilottes):
-
 175 g Haselnusskerne, grob gehackt
 75 g Rosinen
 1 Aubergine
@@ -25452,9 +24214,7 @@ Tipp: Dazu passt gut ein grüner Salat oder auch Kartoffelsalat.
 ## Dhokla
 ### Zutaten (für 4 – 6 Portionen):
 1 EL Rapsöl, plus Öl zum Einfetten
-
 110 g Kichererbsenmehl
-
 110 g griechischer Joghurt
 2 EL Zitronensaft
 1 TL Salz
@@ -25532,7 +24292,6 @@ Salz, Cayennepfeffer
 3 EL Olivenöl
 
 8 Knoblauchzehen, geschält und angedrückt
-
 80 g Parmesan, fein gerieben, plus die Rinde des Parmesanstücks
 
 ¼ TL Speisenatron
@@ -25557,11 +24316,9 @@ Schwarzer Pfeffer, Salz
 1 Zwiebel
 
 Olivenöl
-
 600 g Kichererbsen aus dem Glas (Abtropfgewicht)
 2 Tomaten
 50 g getrocknete Sauerkirschen
-
 600 g frischer Spinat
 50 g Schafskäse
 Salz, Pfeffer, Chiliflocken
@@ -25599,7 +24356,6 @@ Salz und schwarzer Pfeffer
 *Für die Zitronensauce*
 10 g glatte Petersilie, fein gehackt
 1 grüne Chilischote, dein gehackt
-
 4 EL Zitronensaft
 2 EL Weißweinessig
 2 Knoblauchzehen, zerdrückt
@@ -25617,9 +24373,7 @@ Salz und schwarzer Pfeffer
 
 ## Falafel mit Tomatensalsa
 ### Zutaten (für 6 Personen):
-
 450 g Kichererbsen
-
 750 ml Wasser
 1 kleine Zwiebel, feingehackt
 2 Knoblauchzehen, zerdrückt
@@ -25691,7 +24445,6 @@ Tipp:	Zu den Falafeln passt auch folgende Sauce: 5 grüne Chilischoten waschen, 
 2 kleine Dosen Kichererbsen
 1 Zwiebel
 1 Knoblauchzehe
-
 12 EL neutrales Öl
 1 Bund Koriandergrün
 
@@ -25728,7 +24481,6 @@ Chiliflocken
 1 Knoblauchzehe
 1 Streifen unbehandelte Zitronenschale
 Salz, Pfeffer, gemahlener Kümmel, mildes Chilipulver
-
 600 g Pilze (Champignons)
 1 EL Petersilienblätter
 
@@ -25748,10 +24500,8 @@ Kartoffelteig
 Salz
 30 g frische Hefe
 1 TL Zucker
-
 400 g Mehl und Mehl zum Bearbeiten
 3 EL Olivenöl
-
 400 g Steinpilze (oder eben andere)
 200 g rote Zwiebeln
 6 EL Olivenöl
@@ -25786,7 +24536,6 @@ Sehr lecker, wenn es denn nicht verseuchte Steinpilze gäbe – kann man aber au
 125 g süße Kirschen
 1 kleiner Becher Magerjoghurt
 3 EL weißer Balsamico
-
 4 EL Olivenöl
 1 TL Zucker
 1 TL Löwensenf
@@ -25804,7 +24553,6 @@ Salz, Pfeffer
 
 Fett für die Förmchen
 300 g große, feste Champignons
-
 4 Eier
 75 g Sahne
 Salz, schwarzer Pfeffer aus der Mühle
@@ -25827,11 +24575,9 @@ Wichtig:	Die Gratins unbedingt auf der oberen oder zweiten Schiene von oben in d
 90 g Mehl
 1 Prise Salz
 3 Eier, leicht verquirlt
-
 180 ml Milch
 1 EL Olivenöl
 2 EL Schnittlauch, feingehackt
-
 160 g frische Semmelbrösel
 
 Öl zum Braten
@@ -25839,7 +24585,6 @@ Wichtig:	Die Gratins unbedingt auf der oberen oder zweiten Schiene von oben in d
 *Für die Champignonfüllung*
 1 EL Olivenöl
 1 mittelgroße Zwiebel, feingehackt
-
 400 g Champignons, feingehackt
 1 EL Sahne
 
@@ -25859,7 +24604,6 @@ Wichtig:	Die Gratins unbedingt auf der oberen oder zweiten Schiene von oben in d
 20 g Kerbel
 1 Zwiebel
 150 g Kirschtomaten
-
 400 g Champignons
 15 g Butter
 
@@ -25889,7 +24633,6 @@ Schwarzer Pfeffer, Cayennepfeffer, Salz
 4 TL Kreuzkümmelsamen, im Mörser grob zerstoßen
 1 EL Korianderkörner, in Mörser grob zerstoßen
 2 EL Tomatenmark
-
 400 ml Olivenöl
 
 Meersalzflocken
@@ -25915,13 +24658,11 @@ Info:	Auch dieses Gericht habe ich schon mal gekocht. Es schmeckt fantastisch. D
 1 Knoblauchzehe
 
 4 Stiele glatte Petersilie
-
 11 EL Olivenöl
 Salz, Pfeffer
 6 Portobello-Pile à 150 g
 70 g Haselnusskerne (ohne Haut)
 1 rote Zwiebel
-
 400 g gemischte Tomaten
 50 g schwarze Oliven ohne Stein; in Öl
 
@@ -25944,7 +24685,6 @@ Zucker
 ### Zutaten (für 6 Portionen)
 
 *Für das Aioli:*
-
 5 EL Mayonnaise
 2 EL Aceto balsamico
 1 TL grobes Meersalz
@@ -25952,9 +24692,7 @@ Zucker
 ½ TL fein gehackter Knoblauch
 
 *Für die Marinade:*
-
 175 ml Olivenöl
-
 4 EL Rotweinessig
 2 EL fein gehackte Schalotte
 1 TL fein gehackter Knoblauch
@@ -25984,7 +24722,6 @@ Salz, Pfeffer
 6 Portobello-Pilze
 70 g Haselnusskerne (ohne Haut)
 1 rote Zwiebel
-
 400 g gemischte Tomaten
 50 g schwarze Oliven (ohne Stein)
 
@@ -26017,16 +24754,13 @@ Zucker
 1 kleine Zwiebel
 
 Etwas Olivenöl
-
 350 g gemischte Pilze (oder Champignons)
-
 50 ml Weißwein
 Salz, Pfeffer
 
 Nadeln von 2 Zweigen Rosmarin
 50 g Gruyère
 50 g Parmesan
-
 180 ml Milch
 2 Eier
 
@@ -26037,16 +24771,12 @@ Nadeln von 2 Zweigen Rosmarin
 
 ## Pilze und Maronen
 ### Zutaten (für 6 Portionen als Beilage)
-
 650 g Riesenchampignons, in 3 cm breite Spalten geschnitten
 200 g kleine Schalotten, geschält
 150 g gegarte und geschälte Esskastanien, in Hälften gebrochen
-
 5 g Salbeiblätter, grob gehackt
-
 4 EL Olivenöl, plus 2 TL zum Servieren
 2 Knoblauchzehen, zerdrückt
-
 5 g Estragonblätter, grob gehackt
 1 EL Za’atar
 2 TL Zitronensaft
@@ -26063,7 +24793,6 @@ Salz, Pfeffer
 800 g möglichst kleine Champignons
 2 mittelgroße Zwiebeln
 100 g durchwachsener Speck
-
 5 EL Gemüsebrühe
 
 Je 1/3 TL Salz und Pfeffer
@@ -26082,9 +24811,7 @@ Je 1/3 TL Salz und Pfeffer
 
 ## Pilzauflauf (Bewusst kochen, herzhaft genießen, Zürich, S. 67)
 ### Zutaten (für 4 Portionen):
-
 800 g Kartoffeln
-
 800 g Pilze
 40 g Butter
 
@@ -26103,7 +24830,6 @@ Je 1/3 TL Salz und Pfeffer
 
 ## Pilzgratin
 ### Zutaten (für 2 Personen):
-
 400 g Champignons
 200 g Pizzatomaten (aus der Dose)
 50 g Schinkenwürfel
@@ -26183,7 +24909,6 @@ Tipp:	Quinoa stammt wie Amaranth aus der Andenregion und ist eine alte Kulturpfl
 ## Tarte mit Äpfeln und Camembert
 ### Zutaten (für 4 Portionen):
 3 Zwiebeln
-
 25 g Butter
 
 1-2 EL Olivenöl
@@ -26208,7 +24933,6 @@ So einen echten Camembert kann man mit Äpfeln backen auf einem fluffigen Tarteb
 
 ## Gebackene Süßkartoffeln mit Koriander-Pesto und Frühlingssalat
 ### Zutaten (für 6 Portionen)
-
 850 g Süßkartoffeln, geschält
 2 EL Zitronensaft
 1 Bund grüner Spargel
@@ -26242,7 +24966,6 @@ Süßkartoffeln sind wirklich für vieles gut und immer lecker. Süßkartoffeln 
 ### Zutaten (für 4 Portionen):
 
 2-3 Süßkartoffeln, geschält und in 2 cm große Stücke geschnitten
-
 40 ml Olivenöl
 2 Limetten, 1,5 TL Schale abgerieben, dann in Spalten geschnitten
 200 g griechischer Joghurt
@@ -26266,7 +24989,6 @@ Salz
 
 ## Süßkartoffelbällchen
 ### Zutaten (für 12 Stück):
-
 175 g Süßkartoffeln
 250 g Mehl
 
@@ -26289,9 +25011,7 @@ Salz und Pfeffer
 ### Zutaten für 4 Portionen
 
 4 kleine Süßkartoffeln (1 kg)
-
 5 EL Olivenöl
-
 40 ml Balsamico-Essig
 
 12 Frühlingszwiebeln, der Länge nach halbiert und in 4 cm lange Stücke geschnitten
@@ -26334,7 +25054,6 @@ Schwarzer Pfeffer
 
 ½ TL Cayennepfeffer#3 Knoblauchzehen, zerdrückt
 30 g Maisgrieß (Polenta) – kann man auch weglassen
-
 100 ml Olivenöl
 1 EL Sumach
 
@@ -26348,9 +25067,7 @@ Meersalzflocken
 
 ## Gebratene Süßkartoffeln mit Mozzarella
 ### Zutaten (für 4 Portionen)
-
 500 g Süßkartoffeln
-
 5 EL Olivenöl
 150 g grüne Bohnen
 1 kleine rote Paprikaschote
@@ -26373,7 +25090,6 @@ Pfeffer, Salz
 
 ## Süßkartoffel – Vindaloo
 ### Zutaten (für 4 Portionen):
-
 4 EL Rapsöl
 6 Gewürznelken
 1 Sternanis
@@ -26383,7 +25099,6 @@ Pfeffer, Salz
 2 TL Kreuzkümmelsamen
 6 Knoblauchzehen, zerdrückt
 1 Stück Ingwer (4 cm), geschält und gerieben
-
 5 EL Weißweinessig
 
 ¾ EL Cayennepfeffer
@@ -26417,7 +25132,6 @@ Info:	In England versteht man unter einem Vindaloo ein höllisch scharfes Gerich
 Salz, schwarzer Pfeffer
 
 *Für die Tomatensauce*
-
 75 ml Olivenöl
 6 Knoblauchzehen, fein gehackt
 2 grüne Chilischoten, fein gehackt
@@ -26443,7 +25157,6 @@ Tipp:	Die Sauce passt gut auch zu Reis oder Couscous. Man kann natürlich auch s
 ## Süßkartoffelgratin
 ### Zutaten (für 3 Portionen)
 1 kg Süßkartoffeln
-
 150 ml Olivenöl plus 3 EL
 40 g Harissa
 2 EL Weißweinessig
@@ -26464,11 +25177,8 @@ Saure Sahne zum Servieren
 ## Süßkartoffelpüree mit Limettensalsa
 ### Zutaten (für 4 Portionen):
 1 kg Süßkartoffeln, ungeschält, längs halbiert
-
 4 EL Olivenöl
-
 5 g Basilikumblätter, fein gehackt
-
 5 g Koriandergrün, fein gehackt
 
 ½ Knoblauchzehe, zerdrückt
@@ -26491,11 +25201,9 @@ Salz, Pfeffer
 1 Stück Ingwer (ca. 2 cm groß)
 1 kleine Chilischote ohne Kerne
 Salz
-
 700 g Süßkartoffeln
 1 Dose geschälte Tomaten
 1 Dose Kichererbsen
-
 500 ml Wasser
 
 Schale von 1 ungespritzten Orange
@@ -26519,7 +25227,6 @@ Salz
 
 *Für die Chilibutter*
 120 g Butter, zerlassen
-
 110 ml Olivenöl
 1 ¼ EL rote Paprikaflocken
 2 ½ TL Tomatenmark
@@ -26550,7 +25257,6 @@ Salz
 ½ TL Cayennepfeffer
 100 g gemahlene Mandeln
 2 EL flüssiger Honig
-
 500 g griechischer Joghurt
 
 200 – 300 ml Milch
@@ -26572,7 +25278,6 @@ Salz
 
 Rapsöl
 Salz, Pfeffer
-
 60 g Butter
 2 Zwiebeln, fein gehackt
 1 Stück Ingwer (4 cm), geschält und gerieben
@@ -26640,7 +25345,6 @@ Butter
 ## Gerösteter Blumenkohl
 ### Zutaten (für 4 Portionen)
 1 großer Blumenkohl, mit intakten Blättern
-
 45 g weiche Butter
 2 EL Olivenöl
 1 Zitrone, in Spalten geschnitten zum Servieren
@@ -26671,7 +25375,6 @@ Info: Dazu passt auch gut grüne Tahin-Sauce.
 ¾ TL braune Senfsamen
 120 g gereifter Cheddar, geraspelt
 15 g frische Weißbrotbrösel
-
 5 g Petersilie, gehackt
 Salz
 
@@ -26687,7 +25390,6 @@ Ich habe diesen Auflauf mehrfach gemacht und er schmeckt jedes Mal toll. Ist ebe
 
 ## Frittierter Blumenkohl in Tahini-Sauce
 ### Zutaten (für 6 Personen)
-
 500 ml Sonnenblumenöl
 1 kg Blumenkohl, in Röschen zerteilt
 
@@ -26720,11 +25422,9 @@ Saft von einer Zitrone
 Etwas Gemüsebrühe
 2 EL Butter
 2 EL Mehl
-
 4 EL Sahne
 
 ½ TL Salz
-
 4 EL gehackte Petersilie
 1 EL gehacktes Basilikum
 
@@ -26813,14 +25513,12 @@ Je 1 EL Butter und Mehl
 
 Olivenöl
 Salz, Pfeffer
-
 400 g reifer Cheddar
 70 g Butter
 70 g Mehl
 1 l Vollmilch
 
 1-2 TL Dijon-Senf
-
 500 g Maccheroni
 
 ### Zubereitung
@@ -26884,7 +25582,6 @@ Zubereitungszeit 45 Minuten plus Garzeit ca. 10 Minuten
 1 Blumenkohl, in Röschen zerpflückt
 2 Karotten, in Scheiben geschnitten
 200 g rote Linsen
-
 750 ml Kokosmilch
 200 g Spinat, grob gehackt
 
@@ -26905,7 +25602,6 @@ Meersalz
 ½ unbehandelte Zitronen
 1 rote Zwiebel
 2 Knoblauchzehen
-
 500 g TK-Blumenkohl oder ½ frischer Blumenkohl
 Salz, Pfeffer aus der Mühle
 
@@ -26932,7 +25628,6 @@ Salz
 ½ TL Cayennepfeffer
 100 g gemahlene Mandeln
 2 EL flüssiger Honig
-
 500 g griechischer Joghurt
 
 200-300 ml Milch
@@ -26954,7 +25649,6 @@ Salz
 
 Rapsöl
 Salz und gemahlener Pfeffer
-
 60 g Butter
 2 große Zwiebeln, fein gehackt
 1 Stück Ingwer (4 cm), geschält und gerieben
@@ -26979,7 +25673,6 @@ Salz und gemahlener Pfeffer
 ## Alu Gobi – Kartoffel-Blumenkohl-Curry
 ### Zutaten (für 4 Portionen):
 1 kleiner Blumenkohl (etwa 500 g)
-
 350 g Kartoffeln, festkochend
 2 mittelgroße Zwiebeln
 1 Stück Ingwer (4 cm)
@@ -27015,12 +25708,9 @@ Salz
 3 EL Apfelessig
 
 ½ rote Chilischote, in feine Ringe geschnitten
-
 35 ml helle Sojasauce
 2 TL Zucker
-
 500 ml Sonnenblumenöl zum Frittieren
-
 5 g Basilikumblätter, grob in Stücke gerupft
 
 ½ TL Kreuzkümmelsamen, geröstet und im Mörser grob zerstoßen
@@ -27035,20 +25725,16 @@ Salz
 
 ## Brokkoligratin mit Béchamelsauce
 ### Zutaten (für 4 Portionen):
-
 750 g Brokkoli
 Salz, Pfeffer
 1 Zwiebel
 1 Knoblauchzehe
 3 EL Butter
-
 60 g Mehl
-
 400 ml kalte Milch
 
 Frisch geriebene Muskatnuss
 1 Kugel Mozzarella
-
 80 g Parmesan (am Stück)
 
 ### Zubereitung
@@ -27062,7 +25748,6 @@ Als Beilage passen Pellkartoffeln oder Kartoffelpüree. Man kann das Gratin auch
 
 ## Gebackener Brokkoli mit Mandeln und Kardamom – Malai broccoli
 ### Zutaten (für 6 Portionen)
-
 750 g Brokkoliröschen
 220 g Frischkäse
 1 TL gemahlener schwarzer Pfeffer
@@ -27071,7 +25756,6 @@ Als Beilage passen Pellkartoffeln oder Kartoffelpüree. Man kann das Gratin auch
 1 TL salz
 
 1/3 Muskatnuss, gerieben
-
 4 EL griechischer Joghurt
 75 g gemahlene Mandeln
 3 EL Zitronensaft
@@ -27088,7 +25772,6 @@ Als Beilage passen Pellkartoffeln oder Kartoffelpüree. Man kann das Gratin auch
 1 Knoblauchzehe
 30 g frischer Ingwer
 150 g Lauch
-
 400 g Brokkoli
 150 g Reis
 1 EL Kokosöl
@@ -27117,7 +25800,6 @@ Salz, Pfeffer
 1 Stück frischer Ingwer (3 cm), geschält und in feine Stifte geschnitten
 1 Bio-Orange, 3 Streifen Schale dünn abgeschält
 30 g gesalzene geröstete Erdnusskerne, grob gehackt
-
 550 g Brokkoli, geputzt und quer halbiert, falls die Stiele zu dick sind
 2 EL helle Sojasauce
 
@@ -27132,7 +25814,6 @@ Salz
 
 ## Gerösteter Stangenbrokkoli mit Äpfeln
 ### Zutaten (für 2 Portionen):
-
 340 g geputzter Stangenbrokkoli (Bimi oder wilder Brokkoli)
 3 EL Olivenöl
 2 säuerliche Äpfel
@@ -27160,7 +25841,6 @@ Info:	Seit einiger Zeit findet man im Herbst immer häufiger Wilden Brokkoli im 
 15 g Butter
 100 g Schlagsahne
 2 TL Kreuzkümmelsamen, geröstet und fein zerstoßen
-
 110 g Mehl
 
 ½ EL Olivenöl
@@ -27193,7 +25873,6 @@ Info:	Ein mexikanisches Gericht, das nicht ein Taco ist.
 2 EL gehackter frischer Schnittlauch
 2 EL gehackte frische Petersilie
 50 g frische Semmelbrösel
-
 80 ml Sahne
 
 ### Zubereitungszeit
@@ -27207,20 +25886,17 @@ Info:	Ein mexikanisches Gericht, das nicht ein Taco ist.
 ## Mexikanische Maispfannkuchen mit Avocado
 ### Zutaten (für 4 -6 Personen):
 50 g Maismehl
-
 60 g Weizenmehl
 
 ¼ TL Backpulver
 
 ¼ TL Salz
 1 TL Zucker
-
 250 ml Buttermilch
 2 Eier
 30 g Butter, zerlassen
 
 Öl
-
 160 g saure Sahne zum Servieren
 
 *Avocadofüllung*
@@ -27275,7 +25951,6 @@ Salz, Cayennepfeffer
 1 Zwiebel
 3 EL Öl
 1 Dose Mais
-
 4 Eier
 
 ½ l Milch
@@ -27297,10 +25972,8 @@ Salz, Pfeffer aus der Mühle
 
 8 rote Spitzpaprika
 100 g Mehl
-
 4 Eier, verquirlt
 100 g Panka (japanische Semmelbrösel)
-
 60 g weißer oder schwarzer Sesam
 
 16 frische Kaffirlimettenblätter, von den Stielen befreit und fein gehackt
@@ -27318,7 +25991,6 @@ Salz, Meersalzflocken, Pfeffer
 2 TL Worcestersauce
 
 ½ TL Chiliflocken
-
 60 g Mayonnaise
 
 ### Zubereitung
@@ -27336,12 +26008,10 @@ Wie Schnitzel eben 😊. Man weiß ja nie, wann mal was Vegetarisches braucht.
 
 ## Gebackene Paprikaschoten – Piperiés stó fóurno
 ### Zutaten (für 4 Portionen):
-
 500 g lange, spitze, mittelgroße grüne und rote Paprikaschoten (sollten sie zu groß sein, einfach halbieren)
 1 mittelgroße Zwiebel
 2 Knoblauchzehen
 300 g Tomaten
-
 5 EL Olivenöl
 2 EL Tomatenmark
 
@@ -27421,7 +26091,6 @@ Olivenöl
 Salz
 2 Zwiebeln
 2 Knoblauchzehen
-
 400 g geschälte Tomaten aus der Dose
 2 EL Essig
 1 Lorbeerblatt
@@ -27443,7 +26112,6 @@ Salz
 Etwa 500 ml Gemüsebrühe
 
 *Für die Füllung:*
-
 140 g Basmatireis
 
 1,5 EL Baharat-Mischung
@@ -27451,7 +26119,6 @@ Etwa 500 ml Gemüsebrühe
 ½ TL gemahlener Kardamom
 2 EL Olivenöl
 1 große Zwiebel, fein gehackt
-
 400 g Hackfleisch (Rind)
 
 1,5 EL gehackte glatte Petersilie
@@ -27488,16 +26155,13 @@ Alle Gewürze zusammenschmeißen und zu feinem Pulver zermahlen (in der Mühle o
 ### Zutaten (für 20 Stück)
 
 5 große Paprikaschoten
-
 60 g Butter
 1 kleine Perlzwiebel, feingehackt
 1 Knoblauchzehe, zerdrückt
 30 g Mehl
-
 250 ml Milch
 300 g Thunfisch in Öl aus der Dose, abgetropft
 1 EL frische, glatte Petersilie, gehackt
-
 85 g Mehl, zusätzlich
 2 Eier, leicht geschlagen
 
@@ -27523,7 +26187,6 @@ Alle Gewürze zusammenschmeißen und zu feinem Pulver zermahlen (in der Mühle o
 2 Zwiebeln
 2 Knoblauchzehen
 1 Bund Petersilie
-
 500 g Rinderhackfleisch
 1 Ei
 Salz
@@ -27544,7 +26207,6 @@ Pfeffer#2 EL neutrales Öl
 ## Kürbispüree
 ### Zutaten (für 4 Portionen)
 2 kleine Butternusskürbisse, geschält, entkernt und in 3-4 cm große Stücke geschnitten
-
 50 ml Olivenöl, plus 2 EL zum Servieren
 1 ½ EL Ahornsirup
 2 EL weiße Misopaste
@@ -27582,7 +26244,6 @@ Salz, Pfeffer
 150 g reife Tomaten, in Spalten geschnitten
 
 1/3 TL gemahlene Kurkuma
-
 400 ml Kokosmilch
 
 10 frische Curryblätter
@@ -27597,7 +26258,6 @@ Salz, Pfeffer
 ## Kürbis-Sambhar mit Aubergine und roten Linsen
 ### Zutaten (für 4 Portionen)
 200 g rote Linsen
-
 4 EL Rapsöl
 
 ¼ TL Bockshornkleesamen
@@ -27644,7 +26304,6 @@ Saft von ½ Zitrone
 1 ¼ TL Salz
 
 ½ TL gemahlener schwarzer Pfeffer
-
 400 ml Kokosmilch
 
 ### Zubereitung
@@ -27745,9 +26404,7 @@ Salz, Pfeffer
 100 g schwarze Linsen
 1 Biozitrone (1,5 TL abgeriebene Schale und 2 EL Saft)
 1 Knoblauchzehe zerdrückt
-
 5 g Petersilienblätter, grob gehackt
-
 5 g Minzeblätter, grob gehackt
 10 g Estragonblätter, grob gehackt
 100 g Gorgonzola, in 2 cm große Stücke gezupft
@@ -27764,7 +26421,6 @@ Salz, Pfeffer
 ### Zutaten (für 4 Personen)
 1 großer Butternusskürbis (1,5 kg), in 2x6 große Spalten geschnitten
 2 rote Zwiebeln, in 3 cm breite Spalten geschnitten
-
 50 ml Olivenöl
 
 3,5 EL helles Tahini
@@ -27788,7 +26444,6 @@ Maldon Sea Salt und schwarzer Pfeffer
 
 ## Pappa al Pomodoro mit Limette und Senfsamen
 ### Zutaten (für 4 Portionen (als Beilage)):
-
 120 ml Olivenöl
 
 1-2grüne Chilischoten, in feine Ringe geschnitten
@@ -27853,14 +26508,11 @@ Dazu Ciabatta in Würfel schneiden und in einer Mischung aus Butter und Olivenö
 1 Würfel frische Hefe
 
 Zucker
-
 500 g Mehl
 2 EL frische Oreganoblättchen
 Salz
-
 135 ml Olivenöl
 300 g rote Zwiebeln
-
 600 g gemischte Tomaten, davon die Hälfte Kirschtomaten
 
 2,5 EL Honigsenf (1,5 EL Senf mi 1 EL Honig verrühren)
@@ -27874,7 +26526,6 @@ Salz
 1. Den Ofen auf 220 Grad (Umluft 200 Grad) vorheizen. Teig noch mal durchkneten und auf einer bemehlten Fläche zu einem Rechteck von 25x40 cm ausrollen. Den Teig auf ein mit Backpapier ausgelegtes Blech legen und mit Senf bestreichen. Käse darüberbröckeln, Tomaten und Zwiebeln darauf verteilen und alles mit Salz würzen. Tomatenkuchen auf der untersten Schiene ca. 30 Minuten backen. Schmeckt warm und kalt
 ## Gegrillte Fleischtomaten
 ### Zutaten (für 4 Portionen):
-
 5 EL Olivenöl
 3 – 4 milde rote Chilischoten, in 5 mm dicke Ringe geschnitten, Kerne entfernt
 
@@ -27896,7 +26547,6 @@ Meersalzflocken, Pfeffer
 
 ## Heiße geröstete Kirschtomaten
 ### Zutaten (für 4 Portionen als Vorspeise)
-
 350 g Kirschtomaten
 3 EL Olivenöl
 
@@ -27908,7 +26558,6 @@ Meersalzflocken, Pfeffer
 
 5 Stängel Oregano
 1 Bio-Zitrone, von einer Hälfte 3 Streifen Schale dünn abgeschält, von der anderen ½ TL Schale abgerieben
-
 350 g sehr Fester griechischer Joghurt, kühlschrankkalt
 
 ½ TL Chiliflocken
@@ -27957,7 +26606,6 @@ grobes Meersalz
 
 Etwas Pfeffer
 200 g bunte Tomaten
-
 50 ml Olivenöl
 1 TL frische Oreganoblättchen
 
@@ -27982,10 +26630,8 @@ Ich trage eine weiße Leinenbluse. Sie hat keinen einzigen Fleck. Ich trinke zum
 Etwas Olivenöl
 Salz, schwarzer Pfeffer
 1 Dose (400 g) geschälte Tomaten
-
 4 EL Kokosmilch
 1 Dose (400 g) weiße Bohnen
-
 500 g kleine Tomaten
 
 5 Zweige Basilikum
@@ -28002,17 +26648,13 @@ Salz, schwarzer Pfeffer
 ### Zutaten (für eine Springform von 24 cm Durchmesser)
 
 *Für den Teig:*
-
 140 g Mehl
-
 60 g Dinkel-Vollkornmehl
 1 Prise Salz
 60 ml Olivenöl
-
 80 ml Wasser
 
 *Für den Belag:* 
-
 550 g Schalotten
 
 Olivenöl
@@ -28035,16 +26677,13 @@ Einige Zweige Thymian
 125 g Butter
 1 Ei
 40 g Parmesan
-
 4 g Salz
 
 *Für den Belag:*
-
 500 g Ricotta
 1 Ei
 40 g Parmesan
 Salz, Pfeffer
-
 350 g frischer Spinat
 
 Muskatnuss
@@ -28088,7 +26727,6 @@ Bauernbrot zum Servieren
 
 Je Tomate 1 Prise weißen Pfeffer
 2 Knoblauchzehen
-
 400 g Schafkäse
 6 EL Semmelbrösel
 1 EL gehackte Petersilie
@@ -28160,7 +26798,6 @@ Tipp:	Man kann die Tomaten natürlich auch mit reis füllen. Wenn kein Amarant d
 Salz, Pfeffer
 
 4 Scheiben Weißbrot
-
 4 EL Olivenöl
 2 Knoblauchzehen
 2 Dosen Thunfisch im eigenen Saft
@@ -28189,7 +26826,6 @@ Meersalzflocken
 *Für die Limettenbutter:*
 
 90g Butter
-
 40 ml Olivenöl
 
 5 frische Kaffir-Limettenblätter, grob gehackt
@@ -28210,7 +26846,6 @@ Meersalzflocken
 3 EL Olivenöl
 
 *Für die Joghurt-Creme:*
-
 80 g Crème double
 90 g griechischer Joghurt
 
@@ -28239,7 +26874,6 @@ Man kann ruhig schon die vorgegarten Roten Beten nehmen. Ist viel einfacher, sch
 30 g Butter
 1 EL Tomatenmark
 300 ml Rotwein
-
 400 ml Gemüsebrühe
 150 g Linsen (Beluga oder Du Puy)
 
@@ -28288,23 +26922,17 @@ Salz, Pfeffer
 50 g Weizen
 1 TL Koriander
 Salz
-
 25 g Butter
-
 8 EL Süße Sahne
-
 8 EL saure Sahne
 2 TL abgeriebene Zitronenschale
 2 EL Zitronensaft
 
 4 TL Meerettich, frisch gerieben
-
 800 g rote Beten
 1 Lorbeerblatt
-
 140 g Zwiebeln
 2 EL Sonnenblumenöl
-
 150 ml naturreiner Johannisbeersaft
 20 g Kokosfett
 300 g säuerlicher Apfel
@@ -28341,7 +26969,6 @@ Meersalzflocken
 ### Zutaten (für 2 Portionen (als Hauptgericht oder für 4 als Beilage)):
 1 ganzer gebackener Knollensellerie
 2 Frühlingszwiebeln, schräg in feine Streifen geschnitten, zum Servieren
-
 5 g Thai-Basilikumblätter zum Servieren
 
 *Für den eingelegten Knollensellerie*
@@ -28349,11 +26976,9 @@ Meersalzflocken
 3 Stangen Bleichsellerie, in feine Streifen von 6 cm Länge geschnitten (120 g)
 2 Knoblauchzehen, ungeschält mit einer Messerklinge zerdrückt
 3 Limetten, 6 Streifen Schale dünn abgeschnitten, dann 60 ml Saft ausgepresst.
-
 150 ml Reisessig
 
 *Für das süsse Chilidressing*
-
 120 ml Sonnenblumenöl
 
 5 Knoblauchzehen, in feine Scheiben geschnitten
@@ -28378,7 +27003,6 @@ Meersalzflocken
 ### Zutaten (für 4 Portionen):
 1 kg Knollensellerie
 2 Zwiebeln
-
 5 EL Olivenöl
 Salz, schwarzer Pfeffer
 1 EL Weißweinessig
@@ -28449,7 +27073,6 @@ Etwas gemahlener Koriander
 
 ## Apfel-Linsen-Pfanne
 ### Zutaten (für 4 Portionen):
-
 175 g Linsen
 2 EL Brühe
 2 EL getrocknetes Suppengrün
@@ -28509,7 +27132,6 @@ Salz
 
 ## Gegrillte Kochbananen mit Salsa
 ### Zutaten (für 4 Portionen)
-
 80 g Butter
 30 g frischer Ingwer
 Salz, Pfeffer
@@ -28521,7 +27143,6 @@ Salz, Pfeffer
 1 Bund Koriandergrün
 6 EL Limettensaft
 2 EL Olivenöl
-
 5 EL Ahornsirup
 
 ### Zubereitungszeit
@@ -28550,12 +27171,9 @@ Salz, Pfeffer aus der Mühle
 
 ## Rotkohl mit Äpfeln und Thymian
 ### Zutaten (für 4 Portionen)
-
 500 g Rotkohl
-
 80 g Zwiebeln
 2 EL Sonnenblumenöl
-
 150 ml trüber Apfelsaft
 Salz
 
@@ -28585,12 +27203,10 @@ Salz, Pfeffer
 8 Wacholderbeeren
 1 TL gemahlener Ingwer
 1 EL gemahlener Piment
-
 4 EL brauner Zucker
 2 EL Rotweinessig
 1 gehäufter EL Speisestärke
 300 ml Brühe
-
 100 ml Orangensaft
 6 EL Butter
 3 EL Wildpreiselbeeren aus dem Glas
@@ -28607,9 +27223,7 @@ Salz, Pfeffer
 500 g Rotkraut
 1 Zwiebel
 2 EL Butter oder Gänseschmalz
-
 500 ml Rotwein
-
 100 ml Apfelsaft
 2 EL Honig
 1 EL Ahornsirup
@@ -28664,7 +27278,6 @@ Info:	Auf Sri Lanka machen die Köche eine riesige Show mit ihren langen, große
 
 ## Karotten aus dem Ofen mit Erdnuss-Sauce
 ### Zutaten (für 2 Portionen)
-
 500 g Karotten
 2 Bund Frühlingszwiebeln
 
@@ -28700,7 +27313,6 @@ Saft von ½ Limette
 
 ¼ TL Zimt
 30 g Butter (oder 2 EL Olivenöl)
-
 5 g Ingwer, geschält und in feine Streifen geschnitten
 
 ½ TL Schwarzkümmelsamen
@@ -28711,7 +27323,6 @@ Saft von ½ Limette
 
 ½ EL Limettensaft
 1 Frühlingszwiebel, in feine Streifen geschnitten
-
 5 g Minzeblätter, in feine Streifen geschnitten
 Salz
 
@@ -28729,10 +27340,8 @@ Salz
 2 EL Harissa
 20 g Butter, zerlassen
 1 EL Olivenöl
-
 800 g kleine, junge Möhren, geschält und das Grün auf 1 -2 cm gestutzt
 10 g Korianderblätter, grob gehackt
-
 60 g Granatapfelkerne (1/2 Granatapfel)
 2 TL Zitronensaft
 Salz
@@ -28746,7 +27355,6 @@ Salz
 
 ## Karottenpüree mit Kümmel
 ### Zutaten (für 2 Portionen)
-
 750 g Karotten
 2 TL Kümmel
 
@@ -28769,13 +27377,10 @@ Joghurt
 
 ## Karottenpuffer mit Joghurtsoße
 ### Zutaten (für 4 Portionen)
-
 500 g Karotten
-
 4 Eier
 1 Handvoll Dill
 1 TL scharfer Senf
-
 60 g Mehl
 1 Prise Salz
 
@@ -28796,7 +27401,6 @@ Saft von ½ Zitrone
 ### Zutaten
 800 g Möhren
 3 Frühlingszwiebeln oder ½ Gemüsezwiebel
-
 500 g mehlig kochende Kartoffeln
 3 EL Butter
 2 EL Ahornsirup
@@ -28852,7 +27456,6 @@ Je 2 EL frischer Koriander und frische Minze
 Je 1 EL frisches Basilikum und frischer Dill
 150 g griechischer Joghurt
 60 ml Buttermilch
-
 60 g Tahini
 
 Saft von 1 Zitrone
@@ -28885,9 +27488,7 @@ Der grüne Spargel hofft, nein erwartet, wie da schlank und elegant im Gemüsefa
 
 ½ TL schwarze Senfsamen
 1 rote Zwiebel, gewürfelt
-
 400 g grüner Spargel, in 2 cm lange Stücke geschnitten
-
 400 g Erbsen (frisch oder TK)
 
 ½ TL Salz
@@ -28910,7 +27511,6 @@ Vom Spargel großzügig Enden abschneiden. Spargel auf ein mit Backpapier ausgel
 
 ## Grüner Spargel aus dem Ofen Nr. 2
 ### Zutaten (für 4 Portionen als Beilage)
-
 600 g grüner Spargel, holzige Enden entfernt
 3 EL Olivenöl
 30 g Butter
@@ -28931,14 +27531,12 @@ Salz, Pfeffer
 1 TL Butter
 1 TL Mehl
 350 ml Milch
-
 750 g Spargel (Handelsklasse II)
 Salz, Pfeffer
 
 Frisch geriebene Muskatnuss
 
 4 große Scheiben gekochter Schinken
-
 80 g geraspelter Gouda
 
 ### Zubereitungszeit
@@ -28950,14 +27548,12 @@ Frisch geriebene Muskatnuss
 
 ## Okra mit Kokosnuss - Bindi Sabji
 ### Zutaten (für 6 Portionen):
-
 500 g Okras
 2 mittelgroße Zwiebeln
 2 Knoblauchzehen
 
 4 mittelgroße reife Tomaten
 1 Stück frischer Ingwer (4 cm)
-
 4 EL Butterschmalz
 1 TL Kreuzkümmel
 1 TL Koriander
@@ -28992,7 +27588,6 @@ Salz
 10 frische Curryblätter
 3 Knoblauchzehen, in dünne Scheiben geschnitten
 300 g festkochende Kartoffeln, gewaschen und jeweils in 6 Spalten geschnitten
-
 700 g Okraschoten, geputzt
 1 TL Chiliflocken
 1 ½ TL Tamarindenpaste
@@ -29013,7 +27608,6 @@ Ich mag Okras gerne. Paula ja nicht so. Und Simon war immer nur an Orkas 	intere
 
 ## Okragemüse süß-sauer
 ### Zutaten (für 4 Portionen als Beilage):
-
 700 g Okraschoten, von den Stielen befreit, dabei aber nicht die Samen freilegen, sonst wird das Gemüse schleimig
 3 EL Erdnussöl
 2 Knoblauchzehen, zerdrückt
@@ -29060,13 +27654,10 @@ Maldon Sea Salt und Schwarzer Pfeffer
 
 ## Okraschoten in Tomatensauce - Bámies laderés
 ### Zutaten (für 4 Portionen)
-
 700 g möglichst kleine, etwa 3 – 5 cm lange Okraschoten 
-
 125 ml Weinessig
 200 g Zwiebeln
 3 Knoblauchzehen
-
 400 g reife Tomaten
 6 EL Olivenöl
 Salz, 1 Msp. Zucker, Pfeffer
@@ -29096,7 +27687,6 @@ Salz
 Rapsöl
 2 mittelgroße gemüsezwiebeln, fein gehackt
 1 Stück Ingwer (4 cm), geschält und gerieben
-
 400 g passierte Tomaten
 1 TL gemahlener Kreuzkümmel
 1 TL gemahlener Koriander
@@ -29119,11 +27709,9 @@ Rapsöl
 150 g Quark
 3 EL Sahne
 2 Eier
-
 60 g flüssige Butter
 120 g Grieß
 200 g Zwiebeln
-
 600 g Zucchini
 2 EL Petersilie
 Salz, Pfeffer
@@ -29139,7 +27727,6 @@ Salz, Pfeffer
 3 große Zucchini, längs halbiert, die Hälften quer in 6 cm breite Stücke geschnitten
 
 1TL getrocknete Minze
-
 5 g Thymianblätter
 
 4,5 EL Olivenöl
@@ -29188,7 +27775,6 @@ Tipp:	Statt Passionfruits kann man auch fein gehackte Mangos verwenden.
 1 Scheibe Sauerteigbrot, mit Kruste und fein zerkleinert
 100 g Kirschtomaten, geviertelt
 1 große Biozitrone, 2 TL Schale abgerieben, dann 1 EL Saft ausgepresst
-
 4 EL fein gehackte Oreganoblätter
 35 g Pinienkerne, geröstet
 3 EL Olivenöl
@@ -29217,7 +27803,6 @@ Pfeffer
 2 Zucchini (400 g)
 
 4 Stiele Dill
-
 8 EL neutrales Öl
 
 16 Kirschtomaten an der Rispe
@@ -29231,9 +27816,7 @@ Pfeffer
 
 ## Gratin mit Zucchini und Tomaten
 ### Zutaten (für 2 Portionen):
-
 400 g Zucchini
-
 400 g Tomaten
 2 Knoblauchzehen
 1 rote Zwiebel
@@ -29255,7 +27838,6 @@ Salz, Pfeffer aus der Mühle
 
 4 kleine Kohlrabi
 300 ml Gemüsebrühe
-
 80 g Sahne
 2 EL Butter
 1 EL braune Butter
@@ -29271,7 +27853,6 @@ Salz, Muskatnuss
 ### Zutaten (für 2 Portionen):
 2 kleine Kohlrabi
 20 g Butter
-
 150 ml Gemüsebrühe
 1 TL abgerieben Zitronenschale
 1 TL Zitronensaft
@@ -29298,7 +27879,6 @@ Salz, Muskatnuss
 1/8 l Gemüsebrühe
 
 Je 1 TL gehackte Kräuter (Petersilie, Pimpinelle, Liebstöckel…)
-
 5 EL Crème fraîche
 
 ### Zubereitung
@@ -29336,9 +27916,7 @@ Salz
 Öl (2 EL und 100 ml)
 200 g Butter
 1 Rosmarinzweig
-
 100 ml Brühe
-
 100 ml Sahne
 1 Radicchio
 2 EL Birnenessig
@@ -29353,12 +27931,10 @@ Salz
 
 ## Schwarzwurzel-Ragout Scorzonera in umido
 ### Zutaten (für 4 Portionen):
-
 750 g frische Schwarzwurzeln
 1 Zitrone (Saft)
 1 Zwiebel
 1 Bund glatte Petersilie
-
 4 EL Olivenöl
 1 TL Mehl
 
@@ -29376,7 +27952,6 @@ Salz
 
 ## Topinambur-Püree
 ### Zutaten (für 4 – 6 Portionen als Beilage)
-
 800 g Topinambur
 50 g Butter
 1 ½ TL Kreuzkümmelsamen, grob zerstoßen
@@ -29401,12 +27976,10 @@ Stängel von 1 Bund Koriandergrün (30 g) sehr fein gehackt
 ## Porree-Walnuss-Gratin
 ### Zutaten
 750 g Porree (also Lauch)
-
 175 g Kochschinken
 150 g Walnusskerne
 200 g Frischkäse
 1 Ei
-
 150 ml Sahne
 2 TL Paprikapulver
 Salz, Pfeffer aus der Mühle
@@ -29433,7 +28006,6 @@ Salz
 Schwarzer Pfeffer aus der Mühle
 
 40g Mehl
-
 150 ml Milch
 2 Eier (getrennt)
 
@@ -29510,7 +28082,6 @@ Fleur de Sel
 
 ## Kratzete Nr. 2
 ### Zutaten (für 4 Portionen):
-
 4 Eier
 
 ¼ l Milch
@@ -29546,9 +28117,7 @@ Info:	Also, man kann auch deftige Kratzete machen (also ohne Milch, ohne Zucker)
 
 ## Dosa
 ### Zutaten (für 6 Stück)
-
 275 g Basmatireis
-
 60 g halbierte Urad Dal oder weiße Linsen
 
 ½ TL Bockshornkleesamen
@@ -29572,14 +28141,12 @@ Info:	Also, man kann auch deftige Kratzete machen (also ohne Milch, ohne Zucker)
 1 TL Zucker
 
 1,5 TL Salz
-
 800 g Kartoffeln, festkochend
 1 Stück frischer Ingwer (6 cm)
 3 EL Kokosraspel
 2 Zwiebeln
 6 Stängel Koriander
-
-9 El Ghee oder Butterschmalz
+9 EL Ghee oder Butterschmalz
 2 TL Kreuzkümmelsamen
 2 TL schwarze Senfsamen
 1 TL Kurkumapulver
@@ -29604,7 +28171,6 @@ Info:	Also, man kann auch deftige Kratzete machen (also ohne Milch, ohne Zucker)
 ### Zutaten (für eine Vorspeise für 2 Portionen)
 
 *Für den Teig:*
-
 60 g Mehl
 
 ½ TL Salz
@@ -29634,7 +28200,6 @@ Neulich habe ich entdeckt, dass es „Erwachsenenpfannkuchen“ gibt, und zwar d
 4 Bund Frühlingszwiebeln (ungefähr 500 g)
 1 Ei
 1 EL Sojasauce
-
 60 g Mehl
 Salz, Pfeffer, Sonnenblumenöl
 
@@ -29679,7 +28244,6 @@ Salz
 2 ½ TL Tamarindenpaste (vorsichtig)
 
 *Für das Joghurt-Dresing*
-
 500 g griechischer Joghurt
 1 TL Zucker
 Salz
@@ -29695,7 +28259,6 @@ Kerne von 1 Granatapfel
 
 ## Gemüsekrapfen – Pakoras
 ### Zutaten (für 6 Portionen)
-
 500 g Auberginen
 250 g Kichererbsenmehl
 1 TL Kreuzkümmelpulver
@@ -29735,7 +28298,6 @@ Info:	Man kann die Pakoras auch mit anderen Gemüsesorten zubereiten. Z.B. mit i
 ½ TL Garam Masala
 
 1-2 Knoblauchzehen, zerdrückt
-
 180 ml Wasser
 
 ½ Blumenkohl, in Röschen geteilt
@@ -29756,7 +28318,6 @@ In einem großen Topf 6 große, geschälte und grobgehackte Pfirsiche geben. 1 E
 
 ## Gemüsetörtchen
 ### Zutaten (für 6 Quicheförmchen von 10 cm Durchmesser):
-
 60 g Erdnüsse, geröstet und geschält
 180 g Mehl
 Salz, Pfeffer
@@ -29766,7 +28327,6 @@ Salz, Pfeffer
 2 Eier
 
 Je 100 g süße und saure Sahne
-
 60 g Gruyère
 1 Bund Frühlingszwiebeln (etwa 150 g)
 1 rote Paprikaschote
@@ -29774,7 +28334,6 @@ Je 100 g süße und saure Sahne
 
 ½ TL getrockneter Oregano
 1 Mohrrübe
-
 170 g Blumenkohlröschen
 15 g Butter
 
@@ -29816,7 +28375,6 @@ Für die Form: Kokosfett
 
 ½ TL Paprikapulver
 3 mittelgroße Tomaten, feingehackt
-
 12 g frisches Basilikum, feingehackt
 
 ### Zubereitungszeit
@@ -29844,7 +28402,6 @@ Salz
 *Für die Bällchen:*
 
 ½ Blumenkohl (250 g)
-
 450 g Kartoffeln, festkochend
 6 Stängel frischer Koriander
 150 g Kichererbsenmehl
@@ -29886,17 +28443,13 @@ Salz, Pfeffer
 ½ Zwiebel, fein gewürfelt
 2 EL Olivenöl
 2 Knoblauchzehen, zerstoßen
-
 80 g grüne Oliven, entsteint und feingehackt
 100 g Parmesan, mit der Rinde in 3 Stücke geschnitten, plus etwas zum Servieren
 1 EL Zitronensaft
-
 5 g Petersilienstängel
-
 5 g Basilikumstängel
 100 g Zuckerschoten, schräg in feien Streifen geschnitten
 100 g Erbsen
-
 400 g Knackerbsen, längs halbiert
 Salz
 
@@ -29906,7 +28459,6 @@ Salz
 2 kleine Knoblauchzehen, fein gehackt
 10 g Petersilienblätter, fein gehackt
 10 g Basilikumblätter, fein gehackt
-
 75 ml Olivenöl
 
 ### Zubereitung
@@ -29924,7 +28476,6 @@ Tipp:	 Die Salsa passt auch gut zu gegrilltem Gemüse.
 250 g Brokkoli
 2 mittelgroße Möhren (200 g)
 200 g grüne Bohnen
-
 4 EL Rapsöl
 
 4 Gewürznelken
@@ -29937,7 +28488,6 @@ Tipp:	 Die Salsa passt auch gut zu gegrilltem Gemüse.
 1 Stück Ingwer (3 cm), geschält und gerieben
 3 Knoblauchzehen, zerdrückt
 1 ½ grüne India-Jwala-Chilischoten, entkernt du sehr fein gehackt
-
 400 ml Kokosmilch
 
 1/3 TL gemahlene Kurkuma
@@ -29954,9 +28504,7 @@ Tipp:	 Die Salsa passt auch gut zu gegrilltem Gemüse.
 ### Zutaten
 2 EL ÖL
 1 EL rote Currypaste
-
 400 ml Kokosmilch
-
 600 g verschiedene Gemüse (auch TK-Chinagemüse erlaubt)
 250 g Kräutertofu
 3 EL helle Sojasauce
@@ -29972,7 +28520,6 @@ Salz, Pfeffer aus der Mühle
 ### Zutaten (für 4 Portionen)
 1 kleiner Hokkaidokürbis
 300 g Knollensellerie
-
 5 EL Kürbiskernöl
 3 EL Zitronensaft
 100 g Gorgonzola
@@ -30000,10 +28547,8 @@ Weißer Pfeffer
 
 ½ gelbe und ½ rote Paprikaschote
 100 g Kirschtomaten
-
 4 EL Olivenöl
 Salz, Pfeffer
-
 100 ml Tomatensaft
 
 Zucker
@@ -30029,21 +28574,15 @@ Salz, Pfeffer, Zucker
 
 *Für das Gemüse*
 250 g zarter Staudensellerie
-
 175 g Schalotten
-
 500 g Blumenkohl
-
 550 g Maiskolben
-
 350 g Zucchini
-
 475 g kleine fest kochende Kartoffeln
 1 rote Pfefferschote
 3 EL Olivenöl
 
 Pfeffer, Salz
-
 500 g Kirschtomaten an der Rispe
 
 ### Zubereitungszeit
@@ -30068,7 +28607,6 @@ Pfeffer, Salz
 4 – 6 große Champignons
 
 4 – 6 Knoblauchzehen
-
 100 ml Olivenöl
 
 Saft von 1 Limette
@@ -30101,7 +28639,6 @@ Verschiedene Dips
 2 Knoblauchzehen
 250 g grüne Bohnen
 300 g reife Tomaten
-
 100 ml Olivenöl
 
 Pfeffer, Salz
@@ -30128,17 +28665,14 @@ Feta
 4 große grüne oder rote Paprikaschoten (etwa 500 g)
 
 Zucker, Salz, Pfeffer
-
 80 g Langkornreis
 1 große Zwiebel
-
 8 EL Olivenöl
 300 g Rinderhackfleisch
 1 Msp. Pimentpulver
 
 ½ Bund Petersilie
 2 Zweige frische Minze
-
 400 g festkochende Kartoffeln
 3 EL Tomatenmark
 
@@ -30153,13 +28687,9 @@ Zucker, Salz, Pfeffer
 
 ## Gratin aus Wurzelgemüse
 ### Zutaten (für 4 – 6 Portionen):
-
 400 g Karotten
-
 400 g Kohlrabi
-
 400 g Sellerieknolle
-
 500 g Kartoffeln
 100 g Parmesan
 120 g Comté (oder anderer würziger Läse)
@@ -30200,7 +28730,6 @@ Ein alter Trick, den alle Frauen kenne: wenn man sich mies fühlt und nichts zum
 
 ½ Bund glatte Petersilie
 1 unbehandelte Zitrone
-
 4 EL Olivenöl
 Salz, Pfeffer aus der Mühle
 
@@ -30216,7 +28745,6 @@ Salz, Pfeffer aus der Mühle
 
 ½ Knoblauchzehe
 120 g Feta
-
 25 g Parmesan
 
 Einige Blättchen Basilikum
@@ -30224,7 +28752,6 @@ Einige Blättchen Basilikum
 Abgeriebene Schale von 1 Zitrone
 
 Pfeffer, Salz
-
 5 Eier
 
 Olivenöl
@@ -30239,14 +28766,12 @@ Olivenöl
 ### Zutaten (für 4 Portionen):
 100 g Reis
 300 g Lauch
-
 4 EL Sonnenblumenöl
 3 Kartoffeln
 2 Eier
 Salz, Pfeffer
 
 Frisch geriebene Muskatnuss
-
 500 g Tomaten
 150 g Crème fraîche
 2 Olivenöl
@@ -30264,7 +28789,6 @@ Von den Tomaten den Stielansatz entfernen, Tomaten in Scheiben schneiden. Auf ei
 
 ## Zucchini-Oliven-Puffer
 ### Zutaten für 4 Portionen
-
 500 g junge Zucchini
 Salz, Pfeffer
 
@@ -30288,10 +28812,8 @@ Das Öl in einer Pfanne erhitzen. Aus der Zucchinimasse mit einem Esslöffel kle
 200 g Quinoa
 200 g Blumenkohlröschen
 1 große Handvoll Bärlauch (wilder Knoblauch), grob gehackt
-
 4 Eier
 200 g Feta, zerkrümelt
-
 80 g Haferflocken
 
 Meersalz und schwarzer Pfeffer aus der Mühle
@@ -30306,12 +28828,10 @@ Meersalz und schwarzer Pfeffer aus der Mühle
 ## Gorgonzolarolle mit Gemüse
 ### Zutaten (für 8 Personen):
 100 g Gorgonzola
-
 4 Eier
 1 Eigelb
 Salz
 125 g Dinkel, mit ½ TL Koriander sehr fein gemahlen
-
 450 g Quark
 1 EL trockener Weißwein
 2 TL Zitronensaft
@@ -30349,7 +28869,6 @@ Tipp:	Fenchel kann man auch durch kleine gewürfelte junge Zucchini, Radieschen 
 180 g Römersalat
 2 EL Zitronensaft
 Salz, Pfeffer, Zucker
-
 60 g Fladenbrot
 
 ### Zubereitungszeit
@@ -30383,7 +28902,6 @@ Tipp:	Dazu einfach einen Sesamfladen und gut isses.
 ## Panir 
 ### Zutaten (für 300-400 g)
 2 l Vollmilch
-
 4 EL Zitronensaft
 
 ### Zubereitung
@@ -30396,7 +28914,6 @@ Tipp:	Dazu einfach einen Sesamfladen und gut isses.
 ## Panir II
 ### Zutaten (für etwa 150 g Panir)
 1 l Vollmilch
-
 4 EL Wein-Branntweinessig
 
 ### Zubereitungszeit
@@ -30412,9 +28929,7 @@ Tipp:	Dazu einfach einen Sesamfladen und gut isses.
 ### Zutaten (für 4 Portionen):
 
 Rapsöl
-
 550 g harter Panir, in 1,5 cm große Würfel geschnitten
-
 400 g reife Tomaten, gehackt
 1 TL Salz
 
@@ -30443,14 +28958,12 @@ Mit Chapati oder Reis und etwas Joghurt servieren.
 
 Rapsöl
 2 EL Kichererbsenmehl
-
 60 g Koriandergrün
 30 g Minzblätter
 100 g griechischer Joghurt
 2 grüne India-Jwala-Chilischoten, entkernt
 1 TL Salz
 2 EL Zitronensaft
-
 600 g Panir, in 3 cm große Würfel geschnitten
 2 grüne oder gelbe Paprikaschoten, in 3 cm große Stücke geschnitten
 
@@ -30466,7 +28979,6 @@ Rapsöl
 ### Zutaten (für 6 – 8 Stück):
 3 EL Rapsöl
 2 EL Kichererbsenmehl
-
 600 g fester Panir, in 3 cm große Würfel geschnitten
 1 Stück Ingwer (4 cm), geschält und gerieben
 6 Knoblauchzehen, zerdrückt
@@ -30489,13 +29001,11 @@ Rapsöl
 
 ## Panir-Butter-Masala
 ### Zutaten (für 4 Portionen):
-
 500 g fester Panir, in 2 cm große Würfel geschnitten
 3 EL Butter
 1 Gemüsezwiebel, fein gehackt
 1 Stück Ingwer (4 cm), geschält und gerieben
 6 Knoblauchzehen, zerdrückt
-
 800 g passierte Tomaten
 1 EL getrocknete Bockshornkleeblätter
 1 TL Zimt
@@ -30518,7 +29028,6 @@ Rapsöl
 
 ## Park-Street Kati-Rollen
 ### Zutaten (für 4 Rollen):
-
 80 g Koriandergrün, grob gehackt
 2 EL Zitronensaft
 Salz
@@ -30547,13 +29056,10 @@ Rapsöl
 ## Chiliwindbeutel mit Currygemüse
 ### Zutaten (für 12 Stück)
 90 g Butter
-
 310 ml Wasser
-
 160 g Mehl
 
 ¼ TL Chilipulver
-
 4 Eier, leicht verquirlt
 1 Zucchini oder 1 kleiner Kürbis
 100 g Zuckererbsen
@@ -30580,12 +29086,9 @@ Rapsöl
 ½ TL Salz
 
 ¼ TL Backpulver
-
 120 ml warmes Wasser
-
 30 ml plus 1 EL Olivenöl
 2 Kugeln Mozzarella (à 125 g)
-
 400 g Kirschtomaten
 1 EL getrockneter Oregano
 
@@ -30603,12 +29106,10 @@ Die Piadine kommt aus der norditalienischen Region Emilia-Romagna und zeichnet s
 
 ## Eiercurry – Anda Kari
 ### Zutaten für 4 Portionen:
-
 4 Eier
 
 ½ TL Kurkumapulver
 200 ml Öl
-
 400 g Kartoffeln, mehligkochend
 3 EL Ghee oder Butterschmalz
 3 grüne Kardamomkapseln
@@ -30670,7 +29171,6 @@ Die Piadine kommt aus der norditalienischen Region Emilia-Romagna und zeichnet s
 
 Blätter von 4 Zweigen Minze, grob gehackt
 300 g frische oder TK-Erbsen
-
 4 EL Kokoscreme (die feste obere Schicht von vollfetter Kokosmilch)
 6 Eier
 
@@ -30690,7 +29190,6 @@ Salz
 3 EL Rapsöl
 2 rote Zwiebeln, fein gewürfelt
 2 indische Lorbeerblätter
-
 500 g passierte Tomaten
 1 TL Cayennepfeffer
 
@@ -30701,7 +29200,6 @@ Salz
 ½ TL gemahlene Kurkuma
 
 ½ TL Zucker
-
 8 Eier
 
 ### Zubereitung
@@ -30796,7 +29294,6 @@ Rote Curry-Paste
 ¼ Muskatnuss
 1 große Prise Salz
 2 Stängel Zitronengras
-
 25 g Ingwer
 6 Korianderwurzeln oder -stiele
 
@@ -30805,11 +29302,8 @@ Rote Curry-Paste
 2 Knoblauchzehen
 
 *Für das Curry*
-
 400 g fester Tofu natur
-
 100 ml Erdnussöl
-
 400 g grüne Bohnen
 
 10 Minimaiskolben
@@ -30821,7 +29315,6 @@ Rote Curry-Paste
 4 Kaffirlimettenblätter
 2 EL Kokosfett
 2 EL rote Currypaste (wie oben)
-
 500 ml Kokosmilch
 6 EL Fischsauce (oder Sojasauce)
 2 EL Kokosblütenzucker
@@ -30854,7 +29347,6 @@ Rote Curry-Paste
 ½ TL Kurkuma, gemahlen
 
 ½ Zimtstange
-
 250 ml Kokosmilch
 1 Limette, geviertelt
 
@@ -30902,7 +29394,6 @@ Info:	Aus Rambutan/Sri Lanka.
 200 g Tofufilets
 2 EL Kokosfett
 1 EL gelbe Currypaste
-
 50 ml Gemüsebrühe
 2 EL Fisch- oder Sojasauce
 1 TL Kokosblütenzucker
@@ -30928,7 +29419,6 @@ Zimt
 Kumin
 
 Olivenöl
-
 800 g Kartoffeln
 300 g rote Linsen
 
@@ -30936,7 +29426,6 @@ Olivenöl
 
 *Für die Raita*
 1 Salatgurke
-
 400 g Joghurt (3,5 %)
 
 Zitronensaft
@@ -30950,12 +29439,10 @@ Zitronensaft
 ## Linsen-Spinat-Curry
 ### Zutaten (für 4 Portionen)
 150 g Zwiebeln
-
 500 g Möhren
 2 EL Öl
 3 TL fruchtiges Currypulver (z.B. Ingwercurry)
 200 g gelbe/rote Linsen
-
 500 ml Gemüsefond
 200 g Blattspinat
 1 Limette
@@ -30987,7 +29474,6 @@ Curry mit Joghurt-Dip servieren. Gut dazu passen auch Chapatis oder Naan
 ½ TL gemahlener Kreuzkümmel
 
 Ca. 600 ml Gemüsebrühe
-
 100 ml Kokosmilch
 Salz, Pfeffer aus der Mühle
 1 Mango
@@ -31006,7 +29492,6 @@ Salz, Pfeffer aus der Mühle
 
 ## Rote Linsen mit Koriander – Masoor Dal
 ### Zutaten (für 4 Portionen):
-
 175 g Masoor Dal (rote Linsen)
 1 Stück frischer Ingwer (4 cm)
 1 TL Kurkumapulver
@@ -31029,7 +29514,6 @@ Salz
 ## Moong Dal mit Knoblauch Tarka – moon dal tarka
 ### Zutaten (für 4 Portionen)
 300 g Moong Dal
-
 4 EL Butter
 
 1,5 TL Kreuzkümmelsamen
@@ -31093,7 +29577,6 @@ Salz
 
 ## Dal aus Sri Lanka
 ### Zutaten (für 4 Portionen):
-
 450 g rote Linsen
 3 Kardamomkapseln
 
@@ -31129,7 +29612,6 @@ Info:	Auf Sri Lanka nimmt man alle möglichen Blattgemüse für Mallum, von	Chry
 ## Bengalisches Kokos-Dal - cholar dal
 ### Zutaten (für 4 Portionen):
 300 g Chana Dal
-
 4 EL getrocknete oder frische Kokosraspel
 2 EL Rapsöl
 3 Knoblauchzehen, in dünne Scheiben geschnitten
@@ -31157,7 +29639,6 @@ Salz, Zucker
 3 EL Olivenöl
 
 5 Schalotten, geschält und fein gewürfelt
-
 45 g Ingwer, geschält und fein gehackt
 2 rote Chilischoten, fein gehackt
 
@@ -31211,14 +29692,12 @@ Rapsöl
 ### Zutaten (für 2 Portionen)
 2 EL Rapsöl
 1 große rote Zwiebel, in dünne Streifen geschnitten
-
 4 EL Zitronensaft
 2 grüne India-Jwala-Chilischoten, entkernt und fein gehackt
 2 Knoblauchzehen, fein gehackt
 200 g reife Cocktailtomaten, halbiert
 1 TL gemahlener Kreuzkümmel
 Salz
-
 500 g Linsensprossen oder Mungbohnensprossen
 40 g Koriandergrün, fein gehackt
 
@@ -31229,7 +29708,6 @@ Salz
 
 ## Masoor Dhal (rote Linsen mit Koriander)
 ### Zutaten (für 4 Portionen)
-
 175 g rote Linsen
 1 Stück frischer Ingwer (ca. 4 cm)
 1 TL Kurkumapulver
@@ -31306,7 +29784,6 @@ Wasser kochen und Salz hinzufügen. Polenta einrühren. Unter Rühren aufkochen 
 
 ## Polenta-Auflauf
 ### Zutaten (für 6 Portionen)
-
 350 g Rinderhackfleisch
 150 g Kalbsbrät (kann man auch weglassen)
 100 g frisch geriebenen Parmesan
@@ -31343,7 +29820,6 @@ Salz, Pfeffer
 150 g grober Polentagrieß
 
 1-2 TL feines Meersalz (nach Geschmack)
-
 4 EL Olivenöl
 
 *Für das Topping*
@@ -31367,9 +29843,7 @@ Olivenöl zum Beträufeln
 ## Kräuter-Bulgur-Bowl mit Zucchini-Keftedes
 ### Zutaten (für 4 Portionen)
 200 g Bulgur
-
 250 ml Gemüsebrühe
-
 25 g Pinienkerne
 
 2EL Kürbiskerne
@@ -31390,13 +29864,11 @@ Für die Keftedes:
 
 Je 1 Bund glatte Petersilie, Minze und Dill
 1 Knoblauchzehe
-
 4 EL geriebener Parmesan
 
 Abrieb von 1 Zitrone
 1 TL Sumach
 2 Eier
-
 80 g Mehl
 
 3-4 EL Olivenöl
@@ -31411,12 +29883,10 @@ Zubereitung
 ## Bulgur mit Tomaten und Auberginen
 ### Zutaten (für 4 Portionen als Hauptgericht):
 2 Auberginen, in 3 cm große Stücke geschnitten
-
 7 EL Olivenöl
 2 Zwiebeln, in dünne Scheiben geschnitten
 3 Knoblauchzehen, zerdrückt
 1 TL gemahlener Piment
-
 400 g Kirschtomaten
 1 EL Tomatenmark
 250 g Bulgur
@@ -31435,16 +29905,13 @@ Salz, Pfeffer
 ## Bulgur mit Pilzen und Feta
 ### Zutaten (für 4 Portionen als Beilage):
 150 g Bulgur
-
 4 EL Olivenöl
 1 große Zwiebel, in dünne Ringe geschnitten
 1 TL Kreuzkümmelsamen
-
 500 g gemischte Pilze, in 4 -5 mm dünne Scheiben geschnitten
 2 EL Thymianblätter
 2 EL Balsamico-Essig
 10 g Dill, grob gehackt
-
 60 g Feta, in 1 -2 cm große Stücke gebröckelt
 
 ½ TL Chiliflocken
@@ -31460,18 +29927,15 @@ Salz, Pfeffer
 ## Offene Kibbeh
 ### Zutaten (für 6 Portionen):
 125 g feiner Bulgur
-
 90 ml Olivenöl
 2 Knoblauchzehen, zerdrückt
 2 mittelgroße Zwiebeln, fein gehackt
 1 grüne Chilischote, fein gehackt
-
 350 g Hackfleisch (Lamm oder Rind)
 1 TL gemahlener Piment
 1 TL Zimt
 1 TL gemahlener Koriander
 2 EL grob gehacktes Koriandergrün
-
 60 g Pinienkerne
 3 EL grob gehackte Petersilie
 2 EL Mehl
@@ -31567,7 +30031,6 @@ Eventuell Tomatenmark
 
 4 Auberginen, mit dem Messer mehrfach eingestochen
 300 g Kirschtomaten
-
 160 g schwarze Linsen
 2 EL Olivenöl
 
@@ -31612,7 +30075,6 @@ Info:	Oder wenn man das Rezept vorgesungen haben will: <https://www.youtube.com/
 ### Zutaten (für 4 Portionen)
 200 g Perlgraupen
 30 g Butter
-
 90 ml Olivenöl
 2 kleine Stangen Sellerie, in 5 mm große Würfel geschnitten
 2 kleine Schalotten, in 5 mm große Würfel geschnitten
@@ -31628,7 +30090,6 @@ Info:	Oder wenn man das Rezept vorgesungen haben will: <https://www.youtube.com/
 
 ¼ TL Chiliflocken#1 Dose (400g) Tomatenstücke
 300 g passierte Tomaten aus der Dose
-
 700 ml Gemüsebrühe
 1 EL Kümmelsamen
 300 g Feta, in 2 cm große Stücke gebrochen
@@ -31682,7 +30143,6 @@ Salz und Pfeffer
 2 Bund Minze (30 g)
 2 TL gemahlener Piment
 1 TL Baharat 
-
 80 ml Olivenöl
 70 g Granatapfelkerne (wenn man will)
 Salz und Schwarzer Pfeffer
@@ -31745,7 +30205,6 @@ Man kann dazu ein paar Scheiben Halloumi braten, der in der Pfanne nicht schmilz
 ### Zutaten (für ca. 8 Stück)
 
 4 Scheiben Weißbrot, entrindet
-
 4 Eier
 
 1,5 TL gemahlener Kreuzkümmel
@@ -31753,9 +30212,7 @@ Man kann dazu ein paar Scheiben Halloumi braten, der in der Pfanne nicht schmilz
 ½ TL Paprikapulver, edelsüß
 
 ¼ TL Cayennepfeffer
-
 25 g Schnittlauch, in Röllchen geschnitten
-
 25 g glatte Petersilie, gehackt
 10 g Estragon, gehackt
 40 g Feta, zerkrümelt
@@ -31772,14 +30229,10 @@ Salz und Pfeffer
 
 ## Musaká
 ### Zutaten (für 4 – 6 Portionen)
-
 800 g Auberginen
-
 250 ml Olivenöl
 200 g Zwiebeln
-
 600 g Tomaten
-
 600 g Rinderhackfleisch
 
 ¼ l trockener Weißwein
@@ -31793,7 +30246,6 @@ Salz, Pfeffer
 100 g Paniermehl
 100 g Parmesan, gerieben
 40 g Butter und Butter für die Form
-
 4 EL Mehl
 
 ¾ l Milch
@@ -31822,7 +30274,6 @@ Salz
 2 Zwiebeln
 
 Etwa 1/8 l Olivenöl plus Öl für die Form
-
 500 g Rinderhackfleisch
 
 Schwarzer Pfeffer aus der Mühle
@@ -31867,9 +30318,7 @@ Meersalz
 
 *Für die Béchamelsauce:*
 2 EL Olivenöl und etwas Olivenöl zum Beträufeln
-
 4 EL Mehl
-
 500 ml eigentlich vegane Milch, also Mandelmilch/Sojamilch etc., man kann aber auch einfach normale Milch nehmen, wenn es nicht vegan sein muss.
 
 ¼ TL Muskat, frisch gerieben
@@ -31895,7 +30344,6 @@ Eventuell 2 cl weißer Rum
 1 Papaya (etwa 400 g)
 2 kleine Zucchini
 1 milde Gemüsezwiebel (etwa 200 g)
-
 4 EL Öl
 Salz
 
@@ -31917,12 +30365,9 @@ Salz
 *Für das Couscous:*
 1 rote Chilischote
 30 g Orangenmarmelade
-
 440 ml Möhrensaft
-
 320 g Couscous
 2 – 3 EL Olivenöl
-
 4 EL Weißweinessig
 Salz, Pfeffer
 2 – 3 TL Kümmelsaat
@@ -31938,7 +30383,6 @@ Salz, Pfeffer
 Salz, Pfeffer
 20 g Pinienkerne
 1 TL Schwarzkümmel
-
 80 ml Traubenkernöl
 2 – 4 Olivenöl
 
@@ -31960,7 +30404,6 @@ Salz, Pfeffer
 ½ TL Zucker
 2 sehr reife Tomaten, in 0,5 cm große Würfel geschnitten
 150 g Couscous
-
 220 ml kochende Gemüsebrühe
 40 g Butter
 Salz und schwarzer Pfeffer
@@ -31975,7 +30418,6 @@ Salz und schwarzer Pfeffer
 ## Gemüsecouscous mit Feta und Arganöl
 ### Zutaten (für 4 Portionen):
 1 EL Rosinen
-
 175 ml Gemüsebrühe
 100 g Couscous
 150 g Staudensellerie (mit Grün)
@@ -32016,10 +30458,8 @@ Dies war immer ein gutes Leichtgewichtessen und das Sommergericht in dem Sommer,
 1 Schalotte
 1 Zehe Knoblauch
 1 EL Olivenöl
-
 80 g Butter
 150 g Perlgraupen
-
 150 ml trockener Weißwein
 600 ml Hühner- oder Gemüsebrühe
 50 g Parmesan
@@ -32081,12 +30521,10 @@ Vorbereitungszeit: 10 Minuten,
 
 Etwas Olivenöl
 200 g Perlgraupen
-
 150 ml Weißwein
 Salz und Pfeffer
 600 ml Gemüsebrühe
 300 g Pilze (Shiitake, Kräutersaitlinge, Champignons)
-
 80 g Parmesan
 1 EL Butter
 
@@ -32138,7 +30576,6 @@ Etwas gehackte Petersilie
 1 TL gemahlener Kreuzkümmel
 
 5 große, sehr reife Tomaten, gehackt oder 2 Dosen Tomatenstücke
-
 4 Eier
 
 4 Eigelb
@@ -32153,7 +30590,6 @@ Etwas gehackte Petersilie
 
 ## Grünes Shakshuka
 ### Zutaten (für 2 Portionen):
-
 400 g Mangold
 
 ½ TL Kümmelkörner
@@ -32196,7 +30632,6 @@ Dies hier ist eine gewisse Europäisierung des nahöstlichen Shakshuka aus gebac
 
 Blätter von 4 Zweigen Minze, grob gehackt
 300 g frische Erbsen (oder aufgetaute TK-Erbsen)
-
 4 EL Kokoscreme (die feste obere Schicht der Kokosmilch)
 6 Eier
 
@@ -32314,7 +30749,6 @@ Tipp:	 Am besten passen dazu Injera, das gesäuerte Fladenbrot aus Äthiopien.
 
 4 reife Tomaten, in große Würfel geschnitten
 1 große Handvoll grüne Oliven, entsteint
-
 4 EL eingelegte Kapern, abgetropft
 2 EL Apfelessig
 
@@ -32382,12 +30816,9 @@ Salz, Pfeffer, Evtl. etwas Gemüsebrühe
 200 g Zucchini
 150 g Champignons
 2 Knoblauchzehen
-
 800 ml Gemüsebrühe
-
 4 EL Olivenöl
 250 g Reis
-
 400 g rote Paprikaschoten
 
 Sambal Oelek
@@ -32409,17 +30840,13 @@ Salz, Pfeffer aus der Mühle
 2 Knoblauchzehen
 
 2-3 EL Olivenöl
-
 350 g Reis
-
 150 ml trockener Weißwein
 Salz, Pfeffer
 1 Msp. Safranpulver
-
 400 ml Gemüsebrühe
 250 g passierte Tomaten
 2 rote Paprikaschoten
-
 400 g Kichererbsen (aus der Dose)
 2 EL gehackte Petersilie
 
@@ -32441,7 +30868,6 @@ Zitronenspalten zum Garnieren
 2 Lorbeerblätter
 2 Zwiebeln
 2 Knoblauchzehen
-
 4 EL Olivenöl
 2 EL Pinienkerne
 1 TL gemahlener Kreuzkümmel
@@ -32542,13 +30968,10 @@ Salz, Pfeffer
 100 g Speisestärke
 
 1,5 EL gemahlener Kardamom
-
 900 ml Sonnenblumenöl zum Frittieren
-
 700 g fester Seidentofu, in 2,5 cm große Würfel geschnitten
 6 Knoblauchzehen, in feine Scheiben geschnitten
 2 rote Chilischoten, in feine Ringe geschnitten
-
 600 g große Spinatblätter, Blätter und Stiele getrennt, in 5 cm Stücke geschnitten
 2 EL Chilisauce
 3 EL Sojasauce
@@ -32565,7 +30988,6 @@ Salz, Pfeffer
 ## Nackte Ravioli – Gnudi
 ### Zutaten (für 6 Portionen):
 2 Bund frisches Basilikum (etwa 60 g)
-
 350 g Ricotta
 2 Eier 
 1 Eigelb
@@ -32597,7 +31019,6 @@ Die Basilikumbünde schmelzen in der Pfanne zu einem nicht mal faustgroßen grü
 ### Zutaten (für 8 Portionen):
 
 5 Scheiben Toastbrot
-
 80 g Butter
 250 g Mehl
 Salz, Zucker
@@ -32626,7 +31047,6 @@ Mehl zum Formen
 ### Zutaten
 1 kleine Zwiebel
 1 EL Butter
-
 150 ml Milch
 
 4 Semmeln
@@ -32664,7 +31084,6 @@ Weißer Pfeffer
 ## Italienisches Käsefondue Fonduta
 ### Zutaten (für 4 – 6 Portionen)
 300 g Fontinakäse (ersatzweise Provolone oder italienischer Bergkäse mit mindestens 40 % Fett)
-
 100 ml Milch
 1 EL Butter
 3 kleine Eigelb
@@ -32689,7 +31108,6 @@ Also dieses Käsefondue aus den italienischen Alpen (Piemont) ist sehr aufwändi
 ### Zutaten (für ca. 4 Portionen)
 1 Knoblauchzehe, gepellt
 350 ml Weißwein
-
 400 g Greyerzer, mittelfein gerieben
 300 g Appenzeller, mittelfein gerieben
 1 EL Speisestärke
@@ -32708,10 +31126,8 @@ Tipp:	 Wird der Käse während des Essens dickflüssig, einfach etwas Weißwein 
 
 ## Neuenburger Käsefondue
 ### Zutaten (für 8 Portionen):
-
 400 g Greyerzer Käse
 300 g Emmentaler Käse
-
 800 g Baguette
 1 Knoblauchzehe
 1 TL Zitronensaft
@@ -32737,18 +31153,15 @@ Tipp:	 Wird der Käse während des Essens dickflüssig, einfach etwas Weißwein 
 Je 400 g Greyerzer und Emmentaler Käse
 
 1/8 – ¼ l Milch
-
 4 EL flüssige Butter
 
 ½ TL weißer Pfeffer
 1 TL Paprikapulver, edelsüß
-
 4 EL feingewürfelte Zwiebel
 1 EL Speisestärke
 
 1/8 l Weißwein
 1 Schnapsglas Kirschwasser
-
 800 g Baguette
 
 ### Zubereitung
@@ -32759,7 +31172,6 @@ Je 400 g Greyerzer und Emmentaler Käse
 
 ## Käsefondue
 ### Zutaten (für 3 Personen):
-
 400 g Beaufort
 300 g Comté
 200 g Tomme de Savoie
@@ -32767,7 +31179,6 @@ Je 400 g Greyerzer und Emmentaler Käse
 2 Knoblauchzehen (zerdrückt)
 
 Etwas geriebene Muskatnuss
-
 20 ml Kirschwasser
 1 Messerspitze Backpulver
 
@@ -32782,7 +31193,6 @@ Etwas geriebene Muskatnuss
 
 ½ Päckchen Trockenhefe
 50 g getrocknete Glasnudeln
-
 5 g getrocknete Shiitake-Pilze
 50 g Bambussprossen
 1 Ei
@@ -32825,10 +31235,8 @@ Pfeffer
 
 ## Spätsommerliches Kartoffelgratin – Patate arraganate
 ### Zutaten (für 4 Portionen)
-
 500 g Kartoffeln
 300 g rote Zwiebeln
-
 400 g kleine Tomaten
 
 Ein paar EL Olivenöl
@@ -32863,11 +31271,9 @@ Mit war neu, dass ein Gratin auch ohne Käse auskommt. Aber so ist es. Das itali
 Salz, Pfeffer
 
 *Für die knusprigen Aromate*
-
 150 ml Olivenöl
 2 rote Chilischoten, in feine Ringe geschnitten
 3 Knoblauchzehen, in feine Scheiben geschnitten
-
 5 g Ingwer, geschält und in feine Streifen geschnitten
 
 4 Frühlingszwiebeln, schräg in feine Scheiben geschnitten
@@ -32884,7 +31290,6 @@ Salz, Pfeffer
 ### Zutaten (für 4 Personen):
 
 Butter für die Form
-
 400 g Sahne
 1 Knoblauchzehe1 TL gehackter Thymian
 1 TL abgeriebene Bio-Zitronenschale
@@ -32924,7 +31329,6 @@ Info:	Variante: mit geriebenem Gruyère bestreuen.
 
 ## Kartoffel-Birnen-Gratin
 ### Zutaten (für 4 Portionen)
-
 750 g Kartoffeln (festkochende Sorte)
 3 kleine, nicht zu reife Birnen
 2 EL Zitronensaft
@@ -32951,7 +31355,6 @@ Info: 	Sieht immer sehr beeindruckend aus und schmeckt auch wirklich gut😊
 ## Kartoffel-Zwiebel Gratin - Galette lyonnaise
 ### Zutaten (für 4 Portionen):
 1 kg Kartoffeln, mehligkochend
-
 500 g Zwiebeln
 100 g Butter
 
@@ -32972,7 +31375,6 @@ Salz, Pfeffer
 ### Zutaten (für 4 Portionen):
 1 EL Butter für die Form
 1 kg vorwiegend festkochende Kartoffeln
-
 400 g Sahne
 1 TL Thymianblättchen, fein geschnitten
 Salz, Pfeffer, Muskatnuss
@@ -32988,7 +31390,6 @@ Salz, Pfeffer, Muskatnuss
 Salz, Pfeffer
 
 Muskatnuss
-
 400 g Sahne
 
 Butter für die Form
@@ -33025,12 +31426,10 @@ Zubereitungszeit ca. 25 Min.
 
 4 Knoblauchzehen, geschält
 1 Bio-Zitrone, 5 Streifen Schale dünn abgeschnitten
-
 100 ml Olivenöl
 Salz, Pfeffer
 
 *Für das Topping:*
-
 4 EL Olivenöl
 1 Knoblauchzehe, zerdrückt
 2 TL Thymianblätter, fein gehackt
@@ -33046,7 +31445,6 @@ Salz, Pfeffer
 
 ## Stampfkartoffeln mit Pfifferlingen
 ### Zutaten (für 2-3 Portionen):
-
 600 g neue Kartoffeln
 1 rote Chilischote
 250 g Pfifferlinge
@@ -33054,7 +31452,6 @@ Salz, Pfeffer
 ¼ Bund krause Petersilie
 40 g schwarze Oliven entsteint
 100 g Crème fraîche
-
 5 EL Olivenöl
 20 g Butter
 Salz, Pfeffer
@@ -33070,10 +31467,8 @@ Salz, Pfeffer
 
 ## Kartoffelstampf mit brauner Butter
 ### Zutaten (für 4 Personen):
-
 500 g mehlig kochende Kartoffeln (z.B. Augusta oder Agria)
 50 g Butter
-
 150 ml Milch
 1 Prise Salz, schwarzer Pfeffer aus der Mühle
 1 Prise geriebene Muskatnuss
@@ -33086,7 +31481,6 @@ Kochzeit: 25 Minuten
 
 ## Pommes soufflées – Polsterkartoffeln
 ### Zutaten (für 4 Portionen)
-
 750 g möglichst gleich große Kartoffeln
 
 Fett oder Öl zum Frittieren
@@ -33108,11 +31502,9 @@ Eine Alternative zu Pommes. Aber die Zubereitung….
 3 EL Olivenöl
 
 Chilipulver
-
 800 g Süßkartoffeln (oder festkochende Kartoffeln)
 2 rote Paprikaschoten
 1 Zwiebel
-
 100 ml Gemüsebrühe
 2 EL Weinessig
 1 TL Sambal Oelek
@@ -33131,7 +31523,6 @@ Salz
 ## Ofenpommes mit Curryblatt-Mayonnaise
 ### Zutaten (für 4 Portionen):
 1 kg mehligkochende Kartoffeln, ungeschält in 1 cm dicke Stäbchen geschnitten
-
 45 ml Sonnenblumenöl
 Salz und Meersalzflocken
 
@@ -33140,7 +31531,6 @@ Salz und Meersalzflocken
 14 Kardamomkapseln, Samen herausgelöst und zerstoßen
 
 30 frische Curryblätter, 20 feingehackt, 10 ganz lassen
-
 120 ml Sonnenblumenöl
 1 Eigelb
 
@@ -33163,7 +31553,6 @@ Pommes mal ganz anders aber super lecker! Und mit Mayo, Paulchen 😊
 ### Zutaten (für 6 Portionen)
 2 kg mehligkochende Kartoffeln, ungeschält in 2 cm dicke Pommes geschnitten
 6 EL Sonnenblumenkerne
-
 4 EL Olivenöl
 6 Knoblauchzehen, in dünne Scheiben geschnitten
 2 TL Oregano
@@ -33180,7 +31569,6 @@ Meersalzflocken
 
 ## Kartoffelplätzchen
 ### Zutaten (für 12-14 Portionen):
-
 500 g festkochende Kartoffeln
 1 Zwiebel
 1 Ei
@@ -33200,9 +31588,7 @@ Salz
 
 ## Bratkartoffeln mit Rosmarin und Sumach
 ### Zutaten (für 4 Portionen als Beilage)
-
 150 ml Olivenöl
-
 750 g festkochende Kartoffeln, längs geviertelt
 
 5 Knoblauchzehen, geschält
@@ -33219,7 +31605,6 @@ Salz
 ## Röstkartoffeln mit Knoblauch und Harissa
 ### Zutaten (für 6 – 8 Portionen als Beilage)
 3 große Knoblauchknollen, die Zehen geschält
-
 130 g Schmalz
 
 4 Zweige Rosmarin
@@ -33260,7 +31645,6 @@ Info:	Hauchdünne, rohe Kartoffelscheibchen in heißem Butterschmalz knusprig br
 
 ## Bratkartoffeln/Brägele
 ### Zutaten (für 2 Personen):
-
 500 g Kartoffeln, festkochend (z.B. Ditta, Linda, Nicola)
 
 ¼ TL Kümmel, ganz
@@ -33280,7 +31664,6 @@ Tipp:	Am besten eignen sich für Bratkartoffeln die Pellkartoffeln vom Vortag. W
 
 ## Rösti
 ### Zutaten (für 4 Portionen):
-
 500 g festkochende Kartoffeln
 Salz, Pfeffer
 
@@ -33300,7 +31683,6 @@ Muskatnuss
 120 g Gänseschmalz
 150 g weiche Backpflaumen, entsteint
 90 g Zucker
-
 50 ml eiskaltes Wasser
 Salz
 
@@ -33315,7 +31697,6 @@ Salz
 
 ## Scharfe Röstkartoffeln
 ### Zutaten (für 4 Portionen als Beilage):
-
 900 g mehligkochende Kartoffeln, ungeschält in 2,5 cm große Würfel geschnitten
 50 g Rosen-Harissa
 1 Knoblauchzehe, zerdrückt
@@ -33327,7 +31708,6 @@ Salz
 Salz, Pfeffer
 
 *Für das Dressing:*
-
 60 g Tahin, gründlich durchgerührt
 2 EL Sojasauce
 
@@ -33371,14 +31751,12 @@ Pfeffer, Salz
 
 ## Wiener Erdäpfelgulasch (Kartoffelgulasch)
 ### Zutaten (für 3 Portionen)
-
 800 g Kartoffeln (mehligkochend)
 200 g Zwiebeln
 40 g Butter
 
 #1 TL Paprikapulver (edelsüß)
 1 EL Weißweinessig
-
 500 ml Brühe
 2 Knoblauchzehen
 1 EL Kümmel
@@ -33399,7 +31777,6 @@ Etwas Schnittlauch
 ### Zutaten (für 4 Portionen):
 300 g Zwiebeln
 2 Knoblauchzehen
-
 800 g festkochende Kartoffeln
 200 g Süßkartoffeln
 2 EL Öl
@@ -33430,7 +31807,6 @@ Cayennepfeffer, Paprikapulver, Salz
 1 TL Schwarzkümmelsamen
 
 *Für die Kebabs*
-
 500 g mehligkochende Kartoffeln
 
 ½ TL Kreuzkümmelsamen
@@ -33481,7 +31857,6 @@ Je 1 EL gehackte Petersilie, Schnittlauch und Dill
 2 Eier
 1 TL Salz
 1 große Zwiebel
-
 4 EL Schmalz
 
 ### Zubereitung
@@ -33494,7 +31869,6 @@ Tipp:	Man kann die Puffer auch mit Apfelmus und Zimt essen. Dann nur mit 1 Prise
 
 ## Kartoffelpuffer Nr. 2
 ### Zutaten (für 4 Portionen):
-
 800 g festkochende Kartoffeln
 1 Eigelb
 30 g Mehl
@@ -33511,16 +31885,13 @@ Salz, Pfeffer, Muskat
 
 ## Kartoffelpuffer Nr. 3 - Latkes
 ### Zutaten (für 12 Stück)
-
 600 g vorwiegend festkochende Kartoffeln, geschält und geraspelt
 300 g Pastinaken, geschält und geraspelt
 30 g Schnittlauch, in feine Röllchen geschnitten
 
 4 Eiweiß
 2 EL Maisstärke
-
 80 g Butter
-
 100 ml Sonnenblumenöl
 
 Saure Sahne zum Servieren
@@ -33537,7 +31908,6 @@ Für die süße Variante, Schnittlauch weglassen und weniger Salz verwenden. Lat
 
 ## Kartoffelpuffer Nr. 4
 ### Zutaten (für 4 Portionen):
-
 600 g säuerliche Äpfel
 2 EL Zucker
 1 Vanilleschote
@@ -33545,7 +31915,6 @@ Für die süße Variante, Schnittlauch weglassen und weniger Salz verwenden. Lat
 
 1,5 kg große Kartoffeln, mehligkochend
 Salz, Pfeffer
-
 4 EL feine Haferflocken oder Semmelbrösel
 3 Eier
 1 große Zwiebel
@@ -33568,7 +31937,6 @@ Tipp:	Man kann auch die Puffer mit ganz anderen Beilagen servieren.
 ### Zutaten (für 4 – 6 Portionen)
 3 Scheiben Frühstücksspeck, feingeschnitten
 250 g Süßkartoffeln
-
 500 g Kartoffeln
 1 große Zwiebel, feingehackt
 2 EL Olivenöl
@@ -33586,7 +31954,6 @@ Saure Sahne
 
 ## Freiburger Kartoffeln
 ### Zutaten (für 4 Portionen):
-
 750 g festkochende Kartoffeln
 100 g Käse, gerieben
 200 ml Milch
@@ -33606,9 +31973,7 @@ Muskat
 3 EL Tamarindenpaste 
 Salz
 2 EL griechischer Joghurt
-
 600 g neue Kartoffeln
-
 25 g Butter
 1 TL Kreuzkümmelsamen, grob zerstoßen
 
@@ -33632,7 +31997,6 @@ Saft von 1 Zitrone
 
 ## Chaat-Masala Kartoffeln mit Joghurt
 ### Zutaten (für 4 Portionen):
-
 750 g sehr kleine Frühlingskartoffeln, längs in 1 cm dicke Scheiben geschnitten
 2 EL Olivenöl
 1 TL Chaat masala
@@ -33662,9 +32026,7 @@ Salz, Pfeffer
 
 ## Italienischer Auflauf mit Pfifferlingen oder anderen Pilzen
 ### Zutaten (für 4 Personen)
-
 500 g Kartoffeln
-
 400 g Pfifferlinge (hier ist wieder das Problem mit der Radioaktivität. Man könnte stattdessen andere schmackhafte Pilze nehmen, die nicht radioaktiv verseucht sind)
 1 Handvoll Petersilienblätter
 50 g Semmelbrösel
@@ -33684,10 +32046,8 @@ Tipp:	Dazu passt ein grüner Salat oder das Ganze als Beilage zu geschmortem Fle
 ## Ofenkartoffel mit Spinat-Gorgonzola-Füllung
 ### Zutaten (für 2 Portionen):
 2 große Kartoffeln
-
 25 g Butter
 3 EL Sahne
-
 60 g Gorgonzola
 200 g Babyspinat
 
@@ -33708,12 +32068,10 @@ Salz, Pfeffer
 1 EL Harissa
 2 EL Olivenöl
 1 kleiner Eisbergsalat, geputzt und längs in 3 cm breite Spalten geschnitten
-
 5 g Estragon, grob gehackt
 Salz
 
 *Für das Dressing:*
-
 25 g Schale von 2 eingelegten Zitronen, in dünne Streifen geschnitten
 2 EL Olivenöl
 1 Bio-Zitronen, ½ TL Schale abgerieben, dann 1 EL Saft ausgepresst
@@ -33735,10 +32093,8 @@ Nur nix verkomme lasse😊Ich bin schließlich Schwäbin.
 2 grüne Chilischoten, fein gehackt
 1 kleine eingelegte Zitrone, entkernt
 15 g Koriandergrün, grob gehackt
-
 4 EL Olivenöl
 1 kleine Bio-Zitrone, von einer Hälfte die Schale abgerieben, dann 1 TL Saft ausgepresst
-
 750 g neue Kartoffeln
 Salz, Pfeffer
 
@@ -33749,7 +32105,6 @@ Salz, Pfeffer
 
 ## Speckkartoffeln mit Maroni
 ### Zutaten (für 4 Portionen)
-
 750 g mittelgroße (vorwiegend) fest kochende Kartoffeln
 1 EL neutrales Öl
 
@@ -33774,7 +32129,6 @@ Tipp:	Dazu einen Feldsalat und fertig ist das Mittagessen. Speed-Tipp: Schneller
 200 g mehligkochende Kartoffeln
 150 g Mehl
 1 TL Backpulver
-
 180 ml Milch
 1 Ei
 30 g sehr weiche Butter
@@ -33824,7 +32178,6 @@ Tipp:	Vielleicht mal als Alternative zu „Sandwich aus die Sandwichmaschine“ 
 2 Zweige Rosmarin
 3 EL Pinienkerne
 100 g Sahne
-
 100 ml Milch
 2 Eier
 Salz, Pfeffer
@@ -33844,7 +32197,6 @@ Edelsüßes Paprikapulver
 
 ## Mediterrane Kartoffelpfanne
 ### Zutaten (für 4 Portionen)
-
 800 g (vorwiegend) fest kochende Kartoffeln
 2 rote Paprikaschoten
 
@@ -33865,9 +32217,7 @@ Edelsüßes Paprikapulver
 
 ## Kartoffel-Pilzauflauf Tortiera di patate e funghi
 ### Zutaten für 4 Portionen
-
 800 g Kartoffeln festkochend
-
 500 g frische große Champignons
 
 Saft von einer Zitrone
@@ -33904,7 +32254,6 @@ Ein 1 cm großes Stück Ingwer
 200 g Kartoffeln (entweder in Würfel oder 0,5 cm dicke Scheiben geschnitten)
 150 g grüne Bohnen (in 1-2 cm große Stücke geschnitten)
 3 EL Kokosraspeln
-
 250 ml Kokosmilch
 Salz
 
@@ -33943,11 +32292,9 @@ Mit Salz und Zitronensaft abschmecken und mit heißem Ingwer-Chai servieren.
 
 ## Kartoffel-Curry aus dem Punjab – Punjabi dum aloo
 ### Zutaten (für 4 Portionen)
-
 80 g ungesalzene Cashewkerne
 1 TL Fenchelsamen
 1 kg neue Kartoffeln
-
 4 EL Rapsöl
 1 große Gemüsezwiebel, in Streifen geschnitten
 
@@ -33969,11 +32316,9 @@ Mit Salz und Zitronensaft abschmecken und mit heißem Ingwer-Chai servieren.
 
 ## Kartoffelcurry
 ### Zutaten (für 4 Personen als Beilage)
-
 80 g ungesalzene Cashewkerne
 1 TL Fenchelsamen
 1 kg neue Kartoffeln
-
 4 EL Rapsöl
 1 große Gemüsezwiebel, in Streifen geschnitten
 
@@ -34029,9 +32374,7 @@ Salz, Pfeffer
 ## Gruyère-Kartoffeln
 750 g feste Kartoffeln (ca. 12 Stück)
 200 g Gruyère
-
 80 g Doppelrahmfrischkäse
-
 100 ml Milch
 
 ### Zubereitung
@@ -34041,9 +32384,7 @@ Salz, Pfeffer
 
 ## Kartoffel-Pilz-Auflauf
 ### Zutaten (für 4 Portionen)
-
 800 g Kartoffeln (Sorte vorwiegend festkochend)
-
 500 g frische, große Champignons
 1 Zitrone (Saft)
 1 Bund glatte Petersilie
@@ -34066,7 +32407,6 @@ Tipp: Eine leckere Beilage zu geschmortem Fleisch
 ## Überbackenen Kartoffeln
 ### Zutaten (für 4-6 Portionen):
 1 kg mittelgroße Kartoffeln (Sorte: vorwiegend festkochend)
-
 600 g mittelgroße Fleischtomaten
 3 mittelgroße Zwiebeln
 2 Zweige frischer Oregano (oder 1 EL getrockneter)
@@ -34094,7 +32434,6 @@ Tipp:	Passt als Beilage zu Fleisch oder einfach mit einem tollen grünen Salat.
 100 g Champignons
 100 g Zwiebeln
 50 g Speck
-
 4 Eier
 
 ¼ l Milch
@@ -34124,7 +32463,6 @@ Ingwer, ca. 2,5 cm geschält und fein gehackt
 
 Vier randvolle Espressotassen Carnaroli Risottoreis
 200 ml Weißwein
-
 800 ml Gemüsefond
 100 g frisch geriebenen Parmesan
 1 gehäufter EL kalte Butter
@@ -34153,7 +32491,6 @@ Weiß von 1 Bund Frühlingszwiebeln
 Etwas Olivenöl
 150 g Risottoreis
 Salz, Pfeffer
-
 100 ml Weißwein
 70 g frische Kräuter wie Kerbel, Bärlauch, Basilikum, Koriander, Schnittlauch u.a.
 50 g Butter
@@ -34177,7 +32514,6 @@ Wahrscheinlich ein Gericht, dass ihr wegen dem ganzen grünen Kräuterzeugs nie 
 Olivenöl
 Salz, Pfeffer
 200 g Risottoreis
-
 100 ml Weißwein
 
 Ca. 500 ml Wasser
@@ -34199,9 +32535,7 @@ Abgeriebene Schale von 1 Bio-Zitrone
 3 Schalotten
 2 EL Olivenöl
 200 g Risottoreis
-
 400 ml heiße Gemüsebrühe
-
 150 ml Tomatensaft
 3 rote Peperoni
 2 rote Paprikaschoten
@@ -34237,7 +32571,6 @@ Olivenöl
 Butter
 
 ½ Glas kräftiger Rotwein
-
 350 g Risottoreis
 
 ### Zubereitung
@@ -34253,12 +32586,9 @@ Butter
 Olivenöl
 Salz
 300 g Risottoreis
-
 150 ml Weißwein
-
 750 ml Gemüsebrühe
 3 kleine reife Birnen
-
 130 g Gorgonzola
 100 g Parmesan
 50 g Butter
@@ -34273,7 +32603,6 @@ Man glaubt ja gar nicht, wie viele Risottovariationen es gibt.
 
 ## Spinat-Risotto
 ### Zutaten (für 2 Portionen):
-
 800 ml Gemüsebrühe
 1 Zwiebel
 2 EL Öl
@@ -34300,11 +32629,8 @@ Salz, Pfeffer
 6 EL Olivenöl
 1 Zwiebel
 1 Stange Sellerie
-
 60 g Speck
-
 170 g Risottoreis
-
 100 ml Weißwein
 
 Ca. 500 ml Brühe
@@ -34343,7 +32669,6 @@ Salz, schwarzer Pfeffer
 
 ## Risotto mit Spargel
 ### Zutaten (für 4-6 Portionen):
-
 500 g grüner Spargel
 50 g frisch geriebener Parmesan
 250 g Risottoreis
@@ -34363,7 +32688,6 @@ Salz, Pfeffer
 
 ## Spargelrisotto
 ### Zutaten (für 2 Portionen):
-
 600 g grüner Spargel
 1 Zwiebel
 
@@ -34375,7 +32699,6 @@ Etwas Olivenöl
 220 g Risottoreis
 
 Ein paar Safranfäden
-
 25 g frisch geriebener Parmesan
 
 ### Zubereitung
@@ -34388,25 +32711,18 @@ Ein paar Safranfäden
 ### Zutaten (für 4 Portionen)
 1 kleine rote Zwiebel, fein gehackt
 2 EL Olivenöl
-
 350 g Risottoreis
-
 750 ml Gemüsebrühe
-
 100 ml trockener Weißwein
 
 Saft von 3 Limetten
-
 500 g grüner Spargel
-
 500 g frische Erbsen (oder 150 g TK-Erbsen)
 1 Prise Zucker
 1 Handvoll frische Minzeblätter
-
 60 g Pinienkerne
 
 Abgerieben Schale von 1 unbehandelten Limetten
-
 4 EL Olivenöl
 
 Pfeffer, Salz
@@ -34423,13 +32739,9 @@ Pfeffer, Salz
 1 Kopf Radicchio (ca. 150 g)
 
 Olivenöl, Salz, Pfeffer
-
 170 g Risottoreis
-
 150 ml Weißwein
-
 400 ml Wasser (oder Brühe)
-
 80 g Gorgonzola
 30 g Butter
 30 g Parmesan
@@ -34445,7 +32757,6 @@ Olivenöl, Salz, Pfeffer
 ### Zutaten (für 4 Personen):
 1 Radicchiokopf
 150 g junger Ziegenkäse
-
 10 ml Balsamico
 
 Insgesamt 70 ml Olivenöl
@@ -34453,7 +32764,6 @@ Salz, Pfeffer
 1 Schalotte (gewürfelt)
 50 g Butter
 300 g Risottoreis
-
 150 ml Rotwein
 
 1-1,5 l heiße Gemüsebrühe
@@ -34476,16 +32786,12 @@ Tipp:	Dauert zwar ein bisschen – aber ist auf jeden Fall lecker und sorgt für
 ### Zutaten (für 4 Portionen)
 2 Maiskolben (à 300 g)
 2 Schalotten
-
 4 EL Olivenöl
 200 g Risotto-Reis
-
 100 ml Weißwein
-
 800 ml Gemüsefond (heiß)
 
 5 Stiele Salbei
-
 80 g Parmesan
 100 g Concakäse
 Salz, Pfeffer
@@ -34500,16 +32806,13 @@ Salz, Pfeffer
 ## Risotto mit Speck und Blumenkohl
 ### Zutaten (für 2 Portionen)
 70 g Schalotten
-
 80 g durchwachsener Speck
 150 g Blumenkohl
 
 Ca. 900 ml Gemüsebrühe
-
 4 EL Olivenöl
 30 g Butter
 200 g Risotto-Reis
-
 100 ml Weißwein
 2 Stiele glatte Petersilie
 50 g Parmesan
@@ -34528,13 +32831,11 @@ Salz, Pfeffer
 
 ## Zucchini-Erbsen -Risotto
 ### Zutaten (für 4 Portionen)
-
 800 ml Gemüsebrühe
 1 Schalotte
 1 Zucchini (300 g)
 2 EL Öl
 250 g Risotto-Reis
-
 100 ml Weißwein
 
 4 Stiele Pfefferminze
@@ -34562,7 +32863,6 @@ Salz, Pfeffer
 Ca. 800 ml Hühnerbrühe
 1 Bund Rucola
 50 g getrocknete Tomaten (in Öl)
-
 80 g Pecorino oder Parmesan (am Stück)
 200 g Mini-Ziegenkäserolle (in Scheiben)
 Salz, Pfeffer aus der Mühle, Cayennepfeffer
@@ -34593,7 +32893,6 @@ Weiß von 1 Bund Frühlingszwiebeln
 Etwas Olivenöl
 150 g Risottoreis
 Salz, Pfeffer
-
 100 ml Weißwein
 70 g frische Kräuter wie Kerbel, Bärlauch, Basilikum, Koriander, Schnittlauch u.a.
 50 g Butter
@@ -34610,11 +32909,9 @@ Salz, Pfeffer
 ### Zutaten (für 4-6 Portionen)
 1 Markknochen
 75 g frisch geriebener Parmesan
-
 350 g Vialone oder Arborio-Reis
 
 Etwa 1 l Brühe (Rinder-, oder Hühnerbrühe)
-
 5 EL Butter
 1 Döschen Safranfäden
 1 kleine Zwiebel
@@ -34663,10 +32960,8 @@ Info:	Dieser Risotto ist für den einsamen Corona-Winter gut geeignet, da man ih
 3 Frühlingszwiebeln
 1 TL Butter
 300 g Risottoreis
-
 100 ml Weißwein
 1 Prise Salz
-
 80 g frisch geriebener Parmesan
 2 EL Butter
 100 g junger Spinat
@@ -34680,7 +32975,6 @@ Schwarzer Pfeffer
 
 Schale von ½ Bio-Zitrone
 1 Prise Salz
-
 4 EL Olivenöl
 
 ### Zubereitung
@@ -34702,7 +32996,6 @@ Schale von ½ Bio-Zitrone
 200 g Kohlrabi
 150 g Broccoli
 100 g TK-Erbsen
-
 150 ml Schlagsahne
 Salz, Pfeffer
 
@@ -34751,12 +33044,9 @@ Salz, Pfeffer
 
 ## Risi e bisi Nr. 4
 ### Zutaten (für 4-6 Portionen):
-
 80 g durchwachsener Speck
-
 450 g junge Erbsen (frisch gepeelte aus 1 kg Schoten, aber tiefgekühlte gehen auch gut)
 1 Bund Petersilie
-
 80 g frisch geriebener Parmesan
 250 g Vialone- oder Arborioreis
 3 EL Butter
@@ -34776,14 +33066,10 @@ Tipp:	Ich mache meist eine rein vegetarische Variante und die Petersilie lasse i
 
 ## Suppli
 ### Zutaten (für 30 Stück)
-
 750 ml Hühnerbrühe
-
 60 g Butter
 1 kleine Zwiebel, feingehackt
-
 350 g Arborioreis
-
 125 ml Weißwein
 1 Prise Safranpulver
 50 g Parmesan, gerieben
@@ -34810,13 +33096,10 @@ Info:	Vollständig heißt das Gericht Suppli al Telefono, denn heißt serviert l
 150 g Mozzarella
 20 g getrocknete Pilze
 2 Eier
-
 4 EL Butter
-
 400 g Risottoreis
 
 ½ l Brühe
-
 400 g Tomatenfruchtfleisch (aus der Dose)
 2 EL Tomatenmark
 1 Zwiebel
@@ -34839,7 +33122,6 @@ Für die Füllung die Pilze in 1/8 l Wasser 2 Stunden lang einweichen.
 1 gelbe Zwiebel, fein gehackt
 
 Etwas Meersalz
-
 450 g Arborio-Reis
 1 Tasse trockener Weißwein
 
@@ -34872,7 +33154,6 @@ Dieses Rezept ergibt 4 Tassen und damit mehr, als man für die Arancini braucht.
 ½ gelbe Zwiebel, gewürfelt
 
 Etwas Meersalz
-
 450 g Rinderhackfleisch
 
 Frisch gemahlener Pfeffer
@@ -34890,7 +33171,6 @@ Info:	Sizilien gilt als Geburtsstätte der Arancini, wo sie traditionell am 13. 
 
 ## Adas Polo (Persisches Reisgericht mit Linsen und Rosinen)
 ### Zutaten (für 2 -3 Portionen):
-
 170 g Basmatireis
 75 g Linsen 
 
@@ -34913,18 +33193,15 @@ Salz, Pfeffer
 ## Dirty Rice
 ### Zutaten (für 4 Portionen als Beilage):
 200 g Basmatireis
-
 75 ml Olivenöl
 
 7 Knoblauchzehen, geschält, dann 4 Zehen in feine Scheiben geschnitten und 3 zerdrückt
 50 g Butter
 3 Zwiebeln, fein gewürfelt
 180 g geschälte gegarte Maronen, fein gehackt
-
 25 g schwarzer Knoblauch, fein gehackt
 
 1,5 EL Cajun-Gewürzmischung
-
 150 ml Gemüsebrühe
 10 g Petersilie, fein gehackt
 1 EL Zitronensaft
@@ -34943,7 +33220,6 @@ Info:	Ein Gericht aus New Orleans. Das Original ist allerdings mit Hackfleisch.
 1 kg frischer Blattspinat
 1 Bund Frühlingszwiebeln (200g)
 1 großer Bund Dill
-
 5 EL Olivenöl
 120 g Langkornreis
 Salz, Pfeffer
@@ -34958,7 +33234,6 @@ Salz, Pfeffer
 
 ## Gemüse-Safran-Reis – Polao
 ### Zutaten (für 4 Portionen)
-
 400 g Basmatireis
 
 0,2 g Safran, gemahlen
@@ -34974,7 +33249,6 @@ Salz, Pfeffer
 3 Lorbeerblätter
 1 EL Rosinen
 125 g TK-Erbsen
-
 4 EL Mandelstifte oder -scheiben
 Salz
 1 EL Zucker
@@ -34990,10 +33264,8 @@ Salz
 
 ## Eierbiriyani – Anda Biriyani
 ### Zutaten (für 6 – 8 Portionen):
-
 400 g Basmatireis
 3 mittelgroße Zwiebeln
-
 4 EL Ghee oder Butterschmalz
 
 ½ Blumenkohl (350 g)
@@ -35041,7 +33313,6 @@ Salz
 
 20 Safranfäden
 50 g gehackte Nüsse (Pistazien, Mandeln etc.)
-
 25 g Butter
 
 4 Gewürznelken
@@ -35061,11 +33332,8 @@ Salz
 ## Reis im Teigmantel mit Pinienkernen
 ### Zutaten (für 4 Portionen):
 2 EL Pinienkerne
-
 60 g Sultaninen
-
 400 g Reis
-
 80 g Butter
 Salz, Pfeffer
 2 EL Zimtpulver
@@ -35104,18 +33372,15 @@ Salz
 
 ## Gebackener Reis mit gerösteten Tomaten und Knoblauch
 ### Zutaten (für 6 Portionen als Beilage)
-
 800 g Kirschtomaten
 
 12 große Knoblauchzehen oder 25 normal große 😊, geschält
 
 4 Schalotten, geschält und in 3 cm große Stücke geschnitten
-
 25 g Koriandergrün, in 4 cm lange Stücke geschnitten, plus 10 g Korianderblätter gehackt
 3 EL Thymianblätter
 
 4 kleine Zimtstangen
-
 100 ml Olivenöl
 300 g Basmatireis
 Salz, Pfeffer
@@ -35138,7 +33403,6 @@ Salz, Pfeffer
 1/2 Pak Choi oder 1 große Handvoll Spinat, dünn geschnitten
 Salz, Pfeffer
 2 Eier, verquirlt (oder auch Tofu in kleine Würfel geschnitten)
-
 60 g Cashewkerne, in der Pfanne geröstet
 1 Handvoll frische Thai-Basilikum (oder auch nicht)
 
@@ -35157,7 +33421,6 @@ Salz, Pfeffer
 2 geschälte Knoblauchzehen
 
 4 mittelgroße Zwiebeln
-
 100 ml Olivenöl
 1 TL Zucker
 1 TL Kreuzkümmel
@@ -35187,14 +33450,11 @@ Traditionell wird Mujadara mit persischem Reis, grünen Linsen und frittierten Z
 
 2,5 EL Olivenöl
 220 g Basmatireis
-
 330 ml kochendes Wasser
 2 TL Kreuzkümmelsamen
 
 1,5 TL Currypulver
-
 240 g gegarte Kichererbsen, abgetropft
-
 180 ml Sonnenblumenöl
 1 mittelgroße Zwiebel, in dünne Ringe geschnitten
 
@@ -35274,13 +33534,9 @@ Salz
 
 ## Gemüse-Biryani – Mast Biryani
 ### Zutaten (für 6 Portionen)
-
 400 g Basmatireis
-
 400 g Süßkartoffeln
-
 400 g rohe Rote Bete
-
 500 g reife Tomaten
 1 Dose Kichererbsen, abgetropft
 225 g fester Panir, in 2 cm große Würfel geschnitten
@@ -35296,7 +33552,6 @@ Salz
 1 EL Schwarzkümmelsamen
 
 *Für die Kokos-Koriander-Sauce*
-
 400 ml Kokosmilch
 100 g Koriandergrün, grob gehackt
 6 Knoblauchzehen
@@ -35327,7 +33582,6 @@ Rapsöl
 1 große Zwiebel, in dünne Scheiben geschnitten
 
 5 Knoblauchzehen, zerdrückt
-
 400 g reife Eiertomaten, gehackt
 
 1/3 TL Zimt
@@ -35338,7 +33592,6 @@ Rapsöl
 ¼ TL gemahlene Gewürznelken
 1 TL Cayennepfeffer
 1 Dose Kichererbsen, abgetropft
-
 375 ml Gemüsebrühe
 
 ### Zubereitung
@@ -35369,7 +33622,6 @@ Salz
 
 ## Gebackener Reis mit Minze und Granatapfel-Oliven-Salsa
 ### Zutaten (für 6 Portionen):
-
 400 g Basmatireis
 50 g Butter, zerlassen
 50 g Minze, davon für die Salsa 10 g abgezupft und in feine Streifen geschnitten
@@ -35397,7 +33649,6 @@ Ist eine ziemlich ungewöhnliche Art Reis zu kochen, aber es funktioniert 1 A. H
 ## Gebratener Reis
 ### Zutaten
 1 EL Sonnenblumenöl
-
 400 g Reis vom Vortag
 1 Schalotte geschält
 1 Knoblauchzehe fein gehackt
@@ -35462,7 +33713,6 @@ Je 1 rote und gelbe Paprika
 
 4 Knoblauchzehen
 2 EL Olivenöl
-
 500 g Reis
 50 g Tomatenmark
 200 ml trockener Weißwein
@@ -35487,7 +33737,6 @@ Zubereitung
 1 Zwiebel
 1 Dose Kichererbsen (425 g)
 1 Zitrone
-
 4 EL Olivenöl
 1 – 2 TL Harissa
 Salz, Pfeffer
@@ -35504,7 +33753,6 @@ Salz, Pfeffer
 ## Reis Grundrezept
 ### Zutaten
 300 g Reis (Jasmin, Basmati, Thai, Duftreis….)
-
 500 ml Wasser
 1 Limettenblatt
 1 Stück Ingwer
@@ -35520,7 +33768,6 @@ Mal sehen, ob es Paula damit gelingt, Reis zu kochen 😊
 
 ## Thai-Klebereis mit Ingwer, Chili, Erdnüssen
 ### Zutaten (für 6 Portionen als Beilage):
-
 400 g thailändischer Klebreis
 
 1,5 EL Erdnussöl
@@ -35528,7 +33775,6 @@ Mal sehen, ob es Paula damit gelingt, Reis zu kochen 😊
 3 Knoblauchzehen, in dünne Scheibchen geschnitten
 2 rote Chilischoten, in deine Streifen geschnitten
 30 g Koriandergrün, in 3 cm lange Stücke geschnitten
-
 25 g gesalzene geröstete Erdnusskerne, grob gehackt
 1 EL Sesam
 1 Limette, in 6 Spalten geschnitten, zum Servieren
@@ -35541,7 +33787,6 @@ Salz
 
 ## Klebreis
 ### Zutaten (für 4 Portionen)
-
 400 g Klebreis
 2 Pandanblätter
 
@@ -35600,7 +33845,6 @@ Kokosraspeln, Palmzucker, Salz und Wasser kurz köcheln lassen, bis sich der Zuc
 *Für die Marinade:*
 1 EL Kokosblütenzucker
 2 EL Tamarindenpaste
-
 4 EL Fischsauce (ersatzweise Sojasauce)
 6 EL Austernsauce (ersatzweise Pilzsauce)
 
@@ -35628,7 +33872,6 @@ Kokosraspeln, Palmzucker, Salz und Wasser kurz köcheln lassen, bis sich der Zuc
 
 ## Nudeln
 ### Zutaten (für 4 Portionen):
-
 400 g Mehl
 200 g Hartweizengrieß
 6 Eier
@@ -35644,7 +33887,6 @@ Mehl zum Ausrollen
 
 ## Nudelteig mit Ei
 ### Zutaten (für 4 Portionen):
-
 400 g Mehl (und 100 – 150 g Mehl, um den Teig zu bearbeiten)
 
 4 mittelgroße Eier
@@ -35661,7 +33903,6 @@ Mehl zum Ausrollen
 ## Pasta mit Spargel und Shiitake-Pilzen
 ### Zutaten (für 2-3 Portionen):
 3 Frühlingszwiebeln
-
 500 g weißer Spargel
 200 g Shiitake-Pilze
 1 Stängel Oregano
@@ -35673,7 +33914,6 @@ Salz, Pfeffer
 
 Evtl. etwas Wasser oder Weißwein
 250 g Pasta
-
 60 g Parmesan (frisch gerieben)
 2 Eigelb
 
@@ -35688,7 +33928,6 @@ Info:	Man könnte diese Pasta eine vegetarische Carbonara nennen, aber das kling
 
 ## Pasta mit Spargel und frischen Erbsen
 ### Zutaten (für 2-3 Portionen):
-
 500 g grüner Spargel
 50 g Butter
 Salz, Pfeffer
@@ -35711,10 +33950,8 @@ Eine Kombi aus gesundem Gemüse und Kohlenhydraten.
 ### Zutaten (für 3 Portionen):
 250 g kurze Pasta (Rigatoni z.B.)
 1 kleine Zwiebel
-
 5 EL Olivenöl
 Salz
-
 450 g grüner Spargel
 
 Ein paar Blättchen Basilikum
@@ -35741,7 +33978,6 @@ Olivenöl
 300 g Pilze, gemischt
 Salz, schwarzer Pfeffer
 3 Zweige Rosmarin
-
 400 g Cannellinibohnen (im Glas)
 300 g kurze Pasta
 
@@ -35794,7 +34030,6 @@ Auf geheimnisvolle Weise verbinden sich die wenige Zutaten zu einer geschmackvol
 
 ## Pasta e Ceci (Pasta mit Kichererbsen)
 ### Zutaten (für 2 Personen):
-
 400 g Kichererbsen (aus der Dose)
 
 Pflanzenöl
@@ -35817,9 +34052,7 @@ Tipp:	Das Gericht eignet sich vor allem für Studis mit Winterdepression: Verlä
 
 ## Pasta mit gelben Tomaten
 ### Zutaten (für 4 Portionen)
-
 400 g Pasta
-
 4 EL Olivenöl
 1 Knoblauchzehe
 300 g gelbe Tomaten (aus der Dose)
@@ -35837,10 +34070,8 @@ Tipp:	Das Gericht eignet sich vor allem für Studis mit Winterdepression: Verlä
 ### Zutaten (für 2 Portionen)
 1 kleine Zwiebel
 100 g Speck
-
 350 g Pilze (verschiedene Sorten)
 2 EL Olivenöl
-
 120 ml Weißwein
 Salz, Pfeffer
 300 g kurze Pasta
@@ -35863,7 +34094,6 @@ Hier muss man sich nicht zwischen Pasta und Risotto entscheiden, denn die Pasta 
 1 kleine Zwiebel
 
 Olivenöl
-
 400 g Kartoffeln
 1 Rosmarinzweig
 1 EL Tomatenmark
@@ -35884,7 +34114,6 @@ Nochmal Nudeln mit Kartoffeln 😊 Wer sagt’s denn. Ist also nicht ungewöhnli
 1 Zwiebel, geschält und fein gewürfelt
 1 Karotte, geschält und fein gewürfelt
 2 Stangen Sellerie, in feine Scheibchen geschnitten
-
 5 EL Olivenöl
 1 kg Kartoffeln, geschält, in ungefähr 1 cm große Würfel geschnitten
 1 Lorbeerblatt
@@ -35906,7 +34135,6 @@ Das ist nun wieder ein typisches Gericht für mich. Es gibt natürlich eleganter
 ## Pasta mit Grünkohl
 ### Zutaten (für 4 Portionen):
 50 g Pinienkerne
-
 600 g frischer Grünkohl
 1 frische Chilischote
 2 frische Knoblauchzehen
@@ -35916,7 +34144,6 @@ Das ist nun wieder ein typisches Gericht für mich. Es gibt natürlich eleganter
 Salz, Pfeffer
 
 Muskatnuss
-
 500 g Penne
 100 g getrocknete Tomaten (in Öl eingelegt)
 100 g frischer Ziegenfrischkäse (Taler)
@@ -35938,7 +34165,6 @@ Olivenöl
 2 Knoblauchzehen
 
 ½ Blumenkohl (ca. 250 g)
-
 400 ml Wasser
 150 g gemischte kurze Pasta
 30 g Parmesan
@@ -35955,7 +34181,6 @@ Salz, Pfeffer
 ## Pasta alla Norma Nr. 1
 ### Zutaten (für 4 Portionen)
 3 Auberginen (900 g)
-
 8 EL Olivenöl
 
 5 Knoblauchzehen, in dünne Scheiben geschnitten
@@ -35965,7 +34190,6 @@ Salz, Pfeffer
 5 große Stängel Oregano
 1 TL Zucker
 300 g Spaghetti
-
 45 g Pecorino Romano (oder Parmesan), gehobelt
 20 g Basilikumblätter in Stücke gezupft
 
@@ -35988,12 +34212,10 @@ Olivenöl
 1 Knoblauchzehe, gehackt
 
 ½ kleine rote Chilischote
-
 500 g geschälte Tomaten
 Salz, Pfeffer
 
 Ein paar Basilikumblätter
-
 80 g Ricotta salata oder Pecorino
 300 g Pasta
 
@@ -36007,10 +34229,8 @@ Ein paar Basilikumblätter
 ### Zutaten (für 4 Portionen als Vorspeise):
 50 g Basilikumblätter
 1 Knoblauchzehe, zerdrückt
-
 5 EL Olivenöl
 200 g Fusilli
-
 130 g Zuckerschoten, schräg in feine Streifen geschnitten
 75 g Pecorino, fein gehobelt
 75 g Pistazienkerne, grob gehackt
@@ -36049,7 +34269,6 @@ Schwarzer Pfeffer
 ## Pasta mit Fleischklößchen
 ### Zutaten (für 4 Portionen):
 100 g Maccheroni
-
 500 g Rinderhackfleisch
 1 Zwiebel, feingehackt
 
@@ -36066,7 +34285,6 @@ Schwarzer Pfeffer
 1 rote Paprika, in Scheiben geschnitten
 120 g Champignons, in Scheiben geschnitten
 60 ml Tomatenmark
-
 120 ml Rotwein
 
 ### Zubereitungszeit
@@ -36087,7 +34305,6 @@ Schwarzer Pfeffer
 200 g geröstete gesalzene Pistazien
 1 kleine Knoblauchzehe
 1 – 2 EL Zitronensaft
-
 150 ml Olivenöl
 Salz, Pfeffer, Zucker
 
@@ -36097,7 +34314,6 @@ Salz, Pfeffer, Zucker
 50 g geröstete gesalzene Pistazien
 50 g Parmesan
 6 getrocknete Tomaten
-
 360 g Spaghetti
 
 ### Zubereitungszeit
@@ -36112,11 +34328,9 @@ Salz, Pfeffer, Zucker
 ## Pasta mit Ricotta und Spinat
 ### Zutaten (für 2 Personen)
 30 g Parmesan
-
 130 g Ricotta
 
 Pfeffer, Salz
-
 160 g kurze Pasta
 300 g frischer Spinat
 
@@ -36131,7 +34345,6 @@ Etwas Olivenöl
 
 ## Pasta mit Gemüse und Minze
 ### Zutaten (für 4 Portionen):
-
 400 g Orecchiette
 Salz, Pfeffer
 1 Zucchino
@@ -36141,7 +34354,6 @@ Salz, Pfeffer
 1 grüne Paprikaschote
 200 g Mozzarella
 200 g Artischockenherzen (aus dem Glas)
-
 4 EL Olivenöl
 200 ml trockener Weißwein
 100 g schwarze Oliven ohne Stein
@@ -36157,7 +34369,6 @@ Salz, Pfeffer
 ## Pasta mit Tomaten und geröstetem Weißbrot
 ### Zutaten (für 2 Personen)
 120 g Weißbrot (am besten vom Vortag)
-
 350 g kleine Tomaten
 
 Etwas Olivenöl
@@ -36182,7 +34393,6 @@ Etwas Chilipulver
 1 Stange Sellerie
 2 Knoblauchzehen
 1 Handvoll Petersilie
-
 500 g Salsiccia
 
 Olivenöl
@@ -36190,13 +34400,10 @@ Olivenöl
 
 ¼ TL Chiliflocken
 1 EL Tomatenmark
-
 100 ml Rotwein
-
 800 g Dosentomaten
 1 Prise Zimtpulver
 1 Prise gemahlenen Nelken
-
 400 g Pasta
 
 Parmesan
@@ -36215,7 +34422,6 @@ Parmesan
 1 Knoblauchzehe
 
 Etwas Olivenöl
-
 80 g Speck
 100 g Dosentomaten
 200 g schwarze Linsen (Puy oder Beluga)
@@ -36223,9 +34429,7 @@ Etwas Olivenöl
 Ca. 1 l Gemüsebrühe oder Wasser
 1 kleine rote Chilischote
 3 Rosmarinzweige
-
 350 g kurze Pasta
-
 60 g Parmesan
 Salz, Pfeffer
 
@@ -36247,7 +34451,6 @@ Salz, Pfeffer
 1/8 l trockener Weißwein
 1 Zwiebel
 2 Knoblauchzehen
-
 4 EL Olivenöl
 Salz, Pfeffer
 
@@ -36263,7 +34466,6 @@ Salz, Pfeffer
 ## Pasta mit Gorgonzolasauce
 ### Zutaten (für 4 Portionen):
 150 g Gorgonzola
-
 250 ml Gemüsebrühe
 70 g Sahne
 1 EL Butter
@@ -36296,7 +34498,6 @@ Salz, Pfeffer
 Gemahlenen Kümmel
 
 Mildes Chilipulver
-
 400 g frische Pilze
 
 ### Zubereitung
@@ -36331,14 +34532,12 @@ Semmelbrösel (optional)
 
 ## Pasta-Auflauf mit Käse und Sahne
 ### Zutaten für 4 Personen
-
 500 g Fusilli
 600 ml Sahne
 3 Eier
 250 g zerbröckelter Feta
 2 EL Mehl
 2 TL Muskat
-
 130 g geriebener Cheddar oder Mozzarella
 
 ### Zubereitungszeit
@@ -36359,7 +34558,6 @@ Semmelbrösel (optional)
 100 g frisch geriebener mittelalter Gouda
 
 ¼ l Milch
-
 4 Eier
 
 Frisch geriebene Muskatnuss
@@ -36379,22 +34577,17 @@ Vorbereitungszeit: 40 Minuten, Garzeit 1 Stunde
 100 g Zwiebeln
 2 EL Olivenöl
 2 Dosen stückige Tomaten (à 400 g)
-
 400 ml Geflügelfond
 Salz, Pfeffer
-
 400 g Hackfleisch vom Rind
 1 Ei
-
 5 EL Schlagsahne
 3 EL Semmelbrösel
 
 ½ TL rosenscharfes Paprikapulver
 
 4 Stiele Basilikum
-
 160 g Rigatoni
-
 60 g Parmesan
 
 ### Zubereitungszeit
@@ -36406,14 +34599,11 @@ Salz, Pfeffer
 
 ## Spaghetti mit Spargel, Erbsen und Spinat
 ### Zutaten (für 4 Portionen):
-
 500 g grüner Spargel
-
 400 g Spaghetti
 1 Knoblauchzehe (geschält und fein geschnitten)
 200 g Erbsen
 2 unbehandelte Zitronen
-
 100 ml Olivenöl
 1 TL Salz
 200 g frischer Spinat
@@ -36431,26 +34621,20 @@ Ein paar Zweige Basilikum (gehackt)
 3 Karotten, geschält und grob gewürfelt
 2 Zwiebeln, geschält und grob gewürfelt
 300 g Austernpilze, grob gewürfelt
-
 60 g getrocknete Steinpilze, grob gehackt
 
 4 Knoblauchzehen, zerstoßen
 3 – 4 Eiertomaten, grob gewürfelt
-
 120 ml Olivenöl
 70 g weiße Misopaste
 40 g Rosen-Harissa
-
 4 EL Tomatenmark
-
 90 ml Sojasauce
 2 TL Kreuzkümmelsamen, zerstoßen
 180 g getrocknete braune oder grüne Linsen
 100 g Perlgraupen
 1 l Gemüsebrühe
-
 160 g Kokoscreme
-
 100 ml Rotwein
 Salz, Pfeffer
 
@@ -36473,7 +34657,6 @@ ungefähr 20 g Basilikumblättchen
 30 g Pinienkerne plus 2 TL zum Garnieren
 Salz
 2 EL Olivenöl
-
 450 g Spaghetti
 
 ### Zubereitung
@@ -36486,10 +34669,8 @@ Pesto und Spaghetti, das ist eine ganz große Liebe: Ei Pesto umfängt innig jed
 
 ## Spaghetti Cacio e Pepe
 ### Zutaten (für 4 Portionen):
-
 400 g Spaghetti
 Salz
-
 140 g Pecorino Romano
 1 EL frisch gemahlener schwarzer Pfeffer
 
@@ -36513,9 +34694,7 @@ Ein Gericht, wenn der Kühlschrank mehr oder weniger leer ist… bzw. ein gutes 
 Salz
 
 Piment d‘Espelette
-
 4 EL Olivenöl
-
 240 g gekochte Spaghetti
 
 12 cl Weißwein
@@ -36532,7 +34711,6 @@ Piment d‘Espelette
 
 ## Spaghetti mit Safran und Butter - Pasta alla zafferano
 ### Zutaten (für 2 – 3 Portionen):
-
 500 ml Wasser
 
 Ein paar Safranfäden (ca. 1 g)
@@ -36579,9 +34757,7 @@ Salz
 2 – 3 l Wasser
 Salz, Pfeffer
 250 g Spaghetti
-
 5 EL Olivenöl
-
 100 ml Gemüsebrühe
 
 Öl
@@ -36602,15 +34778,12 @@ Muskat
 
 ## Spaghetti Carbonara mit Champignons
 ### Zutaten (für 4 Portionen):
-
 500 g Spaghetti
 
 8 Scheiben Speck
 180 g Champignons in Scheiben geschnitten
 2 TL frischer Oregano, feingehackt
-
 4 Eier, leicht verschlagen
-
 250 ml Sahne
 70 g frisch geriebener Parmesan
 
@@ -36623,14 +34796,11 @@ Muskat
 
 ## Spaghetti Carbonara Nr. 2
 ### Zutaten (für 6 Portionen):
-
 500 g Spaghetti
 
 8 Scheiben Frühstücksspeck
-
 4 Eier
 50 g frisch geriebener Parmesan
-
 320 ml Sahne
 
 ### Zubereitungszeit
@@ -36643,12 +34813,10 @@ Muskat
 
 ## Spaghetti mit Tomatensauce
 ### Zutaten (für 4 Portionen)
-
 500 g Spaghetti
 1 EL Olivenöl
 1 Zwiebel, feingehackt
 2 Knoblauchzehen, zerdrückt
-
 850 g Dosentomaten, zerkleinert
 1 TL Oregano, getrocknete
 2 EL Tomatenmark
@@ -36665,11 +34833,8 @@ Frisch geriebener Parmesan
 
 ## Spaghetti mit Zitronen-Sahne-Sauce
 ### Zutaten (für 4 Personen):
-
 500 g Spaghetti
-
 250 ml Sahne
-
 190 ml Gemüsebrühe
 1 EL geriebene Schale von 1 Zitrone, etwas abgezogene Zitronenschale zum Garnieren
 2 EL frische glatte Petersilie, feingehackt
@@ -36692,14 +34857,11 @@ Frisch geriebener Parmesan
 Schale von einer unbehandelten Zitrone
 100 g Rucola
 30 g getrocknete Tomaten (in Öl)
-
 500 g Spaghetti
 Salz, Pfeffer
-
 8 EL Olivenöl
 
 4 – 6 EL gemahlene Haselnüsse
-
 60 g Parmesan (frisch gerieben)
 
 ### Zubereitungszeit
@@ -36710,10 +34872,8 @@ Salz, Pfeffer
 
 ## Spaghetti mit Frühlingssauce
 ### Zutaten (für 4 – 6 Personen)
-
 500 g Spaghetti
 150 g frischer grüner Spargel
-
 170 g Puffbohnen, tiefgefroren
 40 g Butter
 1 Stange Staudensellerie in Scheiben geschnitten
@@ -36761,9 +34921,7 @@ Salz und Pfeffer
 2 Knoblauchzehen, zerdrückt
 1 Prise getrockneter Oregano
 20 g frische, glatte Petersilie, feingehackt
-
 80 ml Olivenöl
-
 375 g Spaghetti
 
 ### Zubereitungszeit
@@ -36774,7 +34932,6 @@ Salz und Pfeffer
 
 ## Spaghetti mit Boscaliola-Sauce
 ### Zutaten (für 4 Personen):
-
 500 g Spaghetti
 6 Streifen Frühstücksspeck ohne Rand, gehackt
 200 g Champignons, in Scheiben geschnitten
@@ -36794,7 +34951,6 @@ Info:	Ein Boscaiolo ist im Italienischen ein Holzfäller und diese waren schon i
 
 ## Spaghetti mit Knoblauch
 ### Zutaten (für 4-6 Portionen)
-
 500 g Spaghetti
 
 Etwa 150 g Butter
@@ -36817,9 +34973,7 @@ Salz, schwarzer Pfeffer aus der Mühle
 1 Bund glatte Petersilie
 1 Peperoncino (getrocknete scharfe rote Pfefferschote, ersatzweise Chilischote)
 3 Knoblauchzehen
-
 500 g Spaghetti
-
 50 ml Olivenöl
 Salz, Pfeffer
 
@@ -36835,7 +34989,6 @@ Tipp:	Die Peperoncinoschote nur so lange im Öl mitdünsten, bis euch die Schär
 ## Spaghetti mit Tomaten
 ### Zutaten (für 4-6 Portionen):
 1 Zwiebel
-
 4 EL Olivenöl
 2 Knoblauchzehen
 
@@ -36843,7 +34996,6 @@ Tipp:	Die Peperoncinoschote nur so lange im Öl mitdünsten, bis euch die Schär
 1 kg Tomatenfruchtfleisch aus der Packung
 
 1/8 l kräftiger Rotwein
-
 500 g Spaghetti
 300 g Mozzarella
 50 g Parmesan am Stück
@@ -36863,7 +35015,6 @@ Salz, schwarzer Pfeffer aus der Mühle
 100 g frisch geriebener Parmesan (oder 50 g Parmesan und 50 g Pecorino)
 3 EL Sahne
 3 Eier
-
 400 g Spaghetti
 2 EL Öl
 2 Knoblauchzehen
@@ -36891,11 +35042,8 @@ Salz, Pfeffer aus der Mühle
 2 Knoblauchzehen, zerdrückt
 
 ½ TL getrockneter Oregano
-
 4 EL frische Petersilie, gehackt
-
 4 EL Olivenöl
-
 500 g Spaghetti
 
 ### Zubereitungszeit
@@ -36907,7 +35055,6 @@ Salz, Pfeffer aus der Mühle
 
 ## Spaghetti mit Oliven-Kapern-Sauce
 ### Zutaten (für 4-6 Portionen)
-
 500 g reife Tomaten (oder aus der Dose)
 
 ½ Bund glatte Petersilie
@@ -36916,7 +35063,6 @@ Salz, Pfeffer aus der Mühle
 3 Knoblauchzehen
 1 scharfe Peperoni
 2 EL Tomatenmark
-
 400 g Spaghetti
 6 EL Olivenöl
 Salz, Pfeffer aus der Mühle
@@ -36934,7 +35080,6 @@ Tipp:	Vorsichtig beim Salzen, da Kapern und Oliven auch schon salzig sind.
 
 ## Spaghetti mit Zucchini und Schafskäse
 ### Zutaten (für 4 Portionen):
-
 500 g Spaghetti
 Salz, Pfeffer
 2 Zucchini (à ca. 150 g)
@@ -36961,10 +35106,8 @@ Etwas Salz
 
 Etwas Olivenöl
 1 Prise Chiliflocken
-
 750 ml Rotwein
 1 Zweig Rosmarin
-
 500 g Spaghetti
 
 ¼ Rinderbrühwürfel oder einfach ein bisschen Brühe
@@ -36986,11 +35129,9 @@ Das ist ein wahrlich lustiges Rezept. Es eignet sich meiner Meinung nach besonde
 Salz
 3 Knoblauchzehen
 1 kleine frische Chilischote (oder Chiliflocken)
-
 150 ml Olivenöl
 150 g passierte Tomaten
 1 Prise Zucker
-
 400 g Spaghetti
 
 ### Zubereitung
@@ -37008,7 +35149,6 @@ In der Zutatenliste dieses Rezepts sollte noch stehen: Mut und 100 g Überwindun
 1 Stange Staudensellerie
 1 Zwiebel
 1 Bund glatte Petersilie
-
 4 EL Olivenöl
 300 g Rinderhackfleisch
 1 TL Paprikapulver edelsüß
@@ -37018,7 +35158,6 @@ Schwarzer Pfeffer aus der Mühle
 
 1/8 l Brühe
 2 EL Tomatenmark
-
 500 g Spaghetti
 
 Parmesan
@@ -37039,7 +35178,6 @@ Parmesan
 250 g Sahne
 
 1/8 l Brühe
-
 500 g Spaghetti
 1 Dose Thunfisch au naturel
 
@@ -37062,9 +35200,7 @@ Legendär 😊
 
 ## Rote-Bete-Spaghetti mit Spinat
 ### Zutaten (für 4 Portionen)
-
 400 g Spaghetti
-
 150 ml Rote-Bete-Saft
 20 g Butter
 2 EL Weißweinessig
@@ -37084,11 +35220,9 @@ Tipp: Sieht einfach super aus!
 
 ## Spaghettoni mit Kapern
 ### Zutaten (für 4 Portionen)
-
 400 g Spaghettoni/Linguine
 1 Bund frischer Petersilie
 2 Knoblauchzehen
-
 60 g schwarze Oliven ohne Kern
 3 TL kleine Kapern
 6 EL Olivenöl
@@ -37103,7 +35237,6 @@ Tipp: Sieht einfach super aus!
 1 großes Bund Basilikum
 50 g geriebener Pecorino oder Parmesan
 2 EL Pinienkerne
-
 400 g Trenette (flache Spaghetti aus Ligurien) oder schmale Bandnudeln
 3 Knoblauchzehen
 
@@ -37122,12 +35255,10 @@ Info:	Die Ligurier kennen drei wichtige Verwertungen für Pesto: als schwimmende
 
 ## Bucatini Cacio e Pepe mit Za’atar
 ### Zutaten (für 4 Portionen):
-
 400 g Bucatini (oder andere lange Nudeln)
 50 g Butter
 10 g Za’atar plus 1 ½ TL zum Servieren
 2 TL frisch zerstoßenen Pfeffer
-
 130 g Parmesan, sehr fein gerieben
 30 g Pecorino, sehr fein gerieben
 2 ½ EL Olivenöl
@@ -37147,7 +35278,6 @@ Info:	Dieses Mal müsst ihr absolut genau die Mengenangaben befolgen. Insbesonde
 150 g durchwachsener geräucherter Speck
 250 g Tomaten
 50 g frisch geriebener Pecorino (oder Parmesan)
-
 400 g Bucatini
 1 Zwiebel
 2 EL Öl
@@ -37165,9 +35295,7 @@ Salz, Pfeffer aus der Mühle
 
 ## Bucatini mit Knoblauch
 ### Zutaten (für 4 Portionen)
-
 500 g Bucatini
-
 80 ml Olivenöl
 
 8 Knoblauchzehen, zerdrückt
@@ -37185,12 +35313,10 @@ Tipp:	Man kann dazu auch noch Oliven oder gewürfelte Tomaten dazugeben. Und vor
 
 ## Bucatini in Gorgonzolasauce
 ### Zutaten (für 6 Personen)
-
 380 g Bucatini oder Spaghetti
 200 g Gorgonzola
 20 g Butter
 1 Selleriestange, in Röllchen geschnitten
-
 320 ml Sahne
 250 g Ricotta glatt geschlagen oder Magerquark abgetropft
 
@@ -37230,11 +35356,9 @@ Petersilie
 1 große Zwiebel, gehackt
 1 kg Rinderhack
 60 ml Rotwein
-
 700 ml Tomatenpastasauce
 2 Teelöffel Brühe oder 2 Brühwürfel
 2 EL frische glatte Petersilie, feingehackt
-
 500 g Bucatini (oder eben andere Nudeln)
 2 Eiweiß, leicht verschlagen
 2 EL Semmelbrösel
@@ -37258,7 +35382,6 @@ Petersilie
 ## Maccheroni mit frischer Tomatensauce
 ### Zutaten (für 2 Portionen):
 200 g lange Maccheroni
-
 350 g vollreife Strauchtomaten
 1 Knoblauchzehe
 3 Stiele Basilikum
@@ -37286,7 +35409,6 @@ Parmesan
 50 g Chorizo in Schieben (oder auch ohne Wurst)
 100 g Gouda
 3 Eier
-
 100 ml Milch
 Salz, Pfeffer
 200 g Makkaroni
@@ -37301,12 +35423,10 @@ Salz, Pfeffer
 
 ## Maccheroni aus dem Ofen
 ### Zutaten für 4 Portionen
-
 400 g Makkaroni
 
 Meersalz, Pfeffer
 2 -3 Knoblauchzehen, geschält
-
 80 g Mascarpone
 70 g Parmesan, frisch gerieben
 
@@ -37314,7 +35434,6 @@ Fein abgerieben Schale einer ½ Biozitrone
 1 Bund Basilikum
 100 g weiße Zwiebeln
 3 Kugeln Mozzarella
-
 500 g gemischte Tomaten
 3 – 4 Stiele Oregano
 
@@ -37329,21 +35448,16 @@ Olivenöl
 
 ## Griechischer Maccheroniauflauf - Pastítsio 
 ### Zutaten (für 4 -6 Personen)
-
 500 g Maccheroni
 1 große Zwiebel
-
 4 EL Olivenöl
-
 600 g Rinderhackfleisch
-
 700 g Tomaten
 
 Je 1 Msp. Zimt- und Pimentpulver
 
 ¼ l trockener Weißwein
 40 g Butter und Butter für die Form
-
 4 EL Mehl
 
 ¾ l Milch
@@ -37368,18 +35482,14 @@ Pfeffer, Salz
 ### Zutaten (für 8 Portionen):
 
 Bolognese
-
 60 g Zwiebeln
 2 Knoblauchzehen
-
 60 g Möhren
 2 Zweige Rosmarin
 3 EL Olivenöl
-
 800 g Rinderhackfleisch
 1 -2 getrocknete Chilischoten
 1 EL Tomatenmark
-
 150 ml Rotwein
 1 große Dose geschälte Tomaten
 Salz, Pfeffer, Zucker
@@ -37392,14 +35502,12 @@ Salz
 1 Schalotte
 30 g Butter
 30 g Mehl
-
 500 ml Milch
 Salz, Pfeffer, Muskatnuss
 
 etwas Zitronensaft
 
 *Für den Mürbeteig*
-
 500 g Mehl
 250 g kalte Butter
 Salz
@@ -37454,9 +35562,7 @@ Fett für die Form
 
 ## Ziti mit gebackenen Tomaten und Mozzarella
 ### Zutaten (für 4 Portionen)
-
 400 g Kirschtomaten
-
 500 g Ziti
 200 g Mozzarella, gewürfelt
 100 g Kapern
@@ -37474,13 +35580,10 @@ Fett für die Form
 
 ## Linguine mit Tomaten, Oliven und Kapern
 ### Zutaten (für 4 – 5 Portionen):
-
 400 g Linguine
-
 800 g reife Tomaten (oder 600 g aus der Dose)
 50 g schwarze entsteine Oliven
 2 EL Kapern in Essig oder Salz eingelegt
-
 4 EL Olivenöl
 3 – 4 Basilikumblätter
 1 Bund frische Petersilie, gehackt
@@ -37496,7 +35599,6 @@ Salz
 
 ## Linguine in einer Sauce aus Honig, Basilikum und Sahne
 ### Zutaten (für 6 Personen)
-
 500 g Linguine
 250 g frisches Basilikum
 1 kleine rote Chilischote, feingehackt
@@ -37505,12 +35607,9 @@ Salz
 3 EL frische geriebener Parmesan
 
 Saft von 1 Zitrone
-
 120 ml Olivenöl
 3 EL Honig
-
 380 ml Sahne
-
 120 ml Gemüsebrühe
 
 ### Zubereitung
@@ -37530,7 +35629,6 @@ Saft von 1 Zitrone
 2 Stiele Basilikum
 3 EL Öl
 Salz, Pfeffer
-
 175 ml Weißwein
 
 ### Zubereitungszeit
@@ -37545,14 +35643,12 @@ Salz, Pfeffer
 ### Zutaten (für 4 Portionen):
 2 Auberginen (500 – 600 g)
 Salz, Meersalz, Pfeffer
-
 400 g Linguine
 2 Zwiebeln
 3 Knoblauchzehen
 
 4 Tomaten
 2 EL getrocknete Tomaten in Öl (abgetropft)
-
 70 ml Olivenöl
 2 – 3 EL neutrales Öl
 3 – 4 EL Semmelbrösel
@@ -37577,10 +35673,8 @@ Je 3 Stiele Thymian und Basilikum
 2 Knoblauchzehen
 30 g Rosinen
 30 g Walnüsse
-
 100 ml Olivenöl
 Salz, Pfeffer
-
 400 g Linguine
 
 ### Zubereitungszeit
@@ -37593,15 +35687,11 @@ Tipp:	Werkzeugmäßig wäre hier der Pürierstab optimal.
 
 ## Linguine mit Gorgonzola und gerösteten Walnüssen
 ### Zutaten (für 4 Portionen)
-
 80 g Walnusshälften
-
 500 g Linguine
-
 80 g Butter
 150 g Gorgonzola, kleingeschnitten
 2 EL Sahne
-
 160 g Erbsen
 
 ### Zubereitungszeit
@@ -37613,16 +35703,13 @@ Tipp:	Werkzeugmäßig wäre hier der Pürierstab optimal.
 
 ## Penne mit Auberginensauce
 ### Zutaten (für 5 – 6 Portionen)
-
 500 g Penne
 1 kg frische Tomaten oder 2 Dosen Schältomaten
 
 4 Knoblauchzehen
-
 10 EL Olivenöl
 
 Basilikum
-
 10 EL Pecorino
 1 TL Zucker
 Salz, Pfeffer
@@ -37645,7 +35732,6 @@ Salz, Pfeffer
 600 – 800 g Kräuterseitlinge
 1 Bund Petersilie
 Salz, Pfeffer
-
 500 g Penne rigate
 150 g Tahin
 1 Bio-Zitrone
@@ -37666,9 +35752,7 @@ Salz, Pfeffer
 6 Scheiben gekochter Schinken, fein aufgeschnitten und kleingehakt
 1 Zwiebel, feingehakt
 1 EL frischer Rosmarin, feingehakt
-
 800 g Dosentomaten, zerkleinert
-
 500 g Penne rigate oder Maccheroni
 50 g frisch geriebener Parmesan
 
@@ -37708,14 +35792,11 @@ Salz, Pfeffer, Zucker
 
 ## Penne rigate al arrabbiata 
 ### Zutaten (für 4 Portionen):
-
 80 g ausgelassener Speck
 2 – 3 rote, frische Chilischoten
 1 große Zwiebel, feingehackt
 1 Knoblauchzehe, feingehackt
-
 500 g reife Tomaten, fein geschnitten
-
 500 g Penne rigate
 2 EL frische glatte Petersilie, gehackt
 
@@ -37732,15 +35813,12 @@ Frisch geriebener Parmesan
 ## Penne rigate mit Ricotta und Koriandertomaten
 ### Zutaten (für 4 Portionen):
 2 Knoblauchzehen
-
 60 g Schalotten
 100 g Babyspinat
-
 320 g Penne rigate
 3 Tomaten
 1 TL Koriandersaat
 10 g Butter
-
 5 EL Olivenöl
 
 Fleur de Sel, Salz, Pfeffer
@@ -37758,11 +35836,8 @@ Fleur de Sel, Salz, Pfeffer
 ## Penne mit Brokkoli und Ricotta
 ### Zutaten (für 4 Portionen):
 1 Knoblauchzehe
-
 80 g Schalotten
-
 400 g Brokkoli
-
 25 g getrocknete Tomaten
 1 Bund Rucola
 
@@ -37785,9 +35860,7 @@ Salz, Pfeffer, Muskat
 250 g Champignons
 1 Zwiebel
 1 Dose geschälte Tomaten
-
 400 g Penne rigate
-
 4 EL Olivenöl
 1 Bund Basilikum
 200 g Ricotta (oder Schafskäse)
@@ -37804,14 +35877,12 @@ Salz, Pfeffer
 ### Zutaten für 4 Portionen
 2 Knoblauchzehen
 250 g Kirschtomaten
-
 500 g Blumenkohl
 6 EL Olivenöl
 1 EL Zucker
 Salz, Pfeffer
 100 g Schalotten
 300 g Penne rigate
-
 80 g Parmesan
 6 Stiele Basilikum
 1 EL Kapern
@@ -37828,14 +35899,12 @@ Salz, Pfeffer
 
 ## Penne rigate mit Pesto rosso
 ### Zutaten (für 4 Portionen):
-
 400 g Penne rigate
 Salz, Pfeffer
 150 getrocknete Tomaten (in Öl)
 
 4 Knoblauchzehen
 1 Handvoll Basilikum
-
 60 g Pinienkerne
 100 g geriebenen Pecorino (oder ähnlicher Hartkäse)
 
@@ -37854,10 +35923,8 @@ Salz, Pfeffer
 
 ## Penne cacio e pepe 
 ### Zutaten (für 4 – 5 Portionen)
-
 400 g Penne rigate
 150 g Speck 
-
 8 EL geriebener Parmesan oder Pecorino
 2 EL frisch gemahlener Pfeffer
 6 EL Olivenöl
@@ -37871,12 +35938,10 @@ Salz, Pfeffer
 ## Penne all´arrabbiata
 ### Zutaten (für 4-6 Portionen)
 100 g durchwachsener Speck
-
 500 g reife Tomaten
 1 Bund glatte Petersilie
 2 kleine rote Chilischoten
 50 g frisch geriebener Pecorino (oder Parmesan)
-
 400 g Penne
 1 Zwiebel
 2 Knoblauchzehen
@@ -37894,15 +35959,11 @@ Salz, Pfeffer aus der Mühle
 
 ## Penne mit Blauschimmel und Brokkoli
 ### Zutaten für 4 Portionen
-
 500 g Penne rigate
-
 500 g Brokkoli
 1 EL Öl
 1 Zwiebel in Ringe geschnitten
-
 120 ml trockener Weißwein
-
 250 ml Sahne
 1 Prise Cayennepfeffer oder Rosenpaprika
 150 g Blauschimmelkäse z.B. Gorgonzola, feingewürfelt
@@ -37920,16 +35981,12 @@ Salz, Pfeffer aus der Mühle
 ### Zutaten (für 4 Portionen)
 
 4 Knoblauchzehen
-
 4 EL Olivenöl
 
 ½ TL Chiliflocken
 Salz
-
 800 g Dosentomaten
-
 500 g Penne
-
 4 EL Wodka
 250 g Sahne
 1 Bund Koriandergrün
@@ -37945,7 +36002,6 @@ Noch mal so ein alkoholisches Nudelrezept 😊
 ## Fusilli mit Tomatensauce – Fusilli alla napoletana
 ### Zutaten (für 4-6 Portionen)
 100 g durchwachsener Speck
-
 400 g reife Tomaten
 1 Stange Staudensellerie
 1 Mohrrübe
@@ -37979,11 +36035,8 @@ Salz, Pfeffer aus der Mühle
 Pfeffer, Salz
 
 Kräuter der Provence
-
 4 Eier
-
 150 ml Milch
-
 4 EL geriebener Käse
 
 ### Zubereitungszeit
@@ -37998,7 +36051,6 @@ Kräuter der Provence
 
 ## Orecchiette Puttanesca
 ### Zutaten (für 4 Portionen)
-
 50 ml Olivenöl, plus 2 EL zum Servieren
 6 Knoblauchzehen, zerstoßen
 1 Dose Kichererbsen (400g), gut abgetropft und trocken getupft
@@ -38015,7 +36067,6 @@ Je 2 TL scharfes geräuchertes Paprikapulver und gemahlener Kreuzkümmel
 
 ½ EL Kümmelsamen, leicht geröstet und zerstoßen
 250 g Orecchiette
-
 500 ml Gemüsebrühe
 
 ### Zubereitung
@@ -38063,7 +36114,6 @@ Pfeffer aus der Mühle
 1 Bio-Zitrone, von einer die Hälfte der Schale dünn abgeschält, dann 2 EL Saft auspressen
 2 Dosen gegarte Kichererbsen (à 400 g), abgespült und abgetropft
 1 TL brauner Zucker
-
 400 ml Brühe
 200 g Gigli oder Conchiglie oder Orecchiette
 50 g Babyspinat
@@ -38080,15 +36130,12 @@ Salz, Pfeffer
 
 ## Conchiglie mit Kichererbsen
 ### Zutaten (für 4 Personen):
-
 500 g Conchiglie
 2 EL Olivenöl 
 1 rote Gemüsezwiebel, in feine Ringe geschnitten
 
 2-3 Knoblauchzehen, zerdrückt
-
 425 g Kichererbsen aus der Dose
-
 80 g getrocknete Tomaten in dünne Streifen geschnitten
 1 TL geriebene Schale von einer Zitrone
 1 TL frische rote Chillies, feingehackt
@@ -38113,13 +36160,10 @@ Info:	Kichererbsen, die in Italien ceci heißen, stammen ursprünglich aus der M
 2 EL Olivenöl
 1 große Zwiebel, in dünne Ringe geschnitten
 3 EL Harissa
-
 400 g Kirschtomaten
-
 55 g Schwarze Oliven, halbiert
 20 g sehr kleine Kapern
 15 g Petersilie, grob gehackt
-
 500 g Pappardelle
 120 g griechischer Joghurt
 Salz
@@ -38134,7 +36178,6 @@ Salz
 ### Zutaten (für 3 Portionen):
 
 Ungefähr 600 g Zucchini
-
 5 EL Olivenöl
 1 kleine rote frische Chilischote
 2 zweige Basilikum
@@ -38165,9 +36208,7 @@ Kleiner Exkurs:	Zucchini ist fade und wässrig oder man sagt sie ist wandelbar. 
 250 g Pappardelle
 
 3-4 EL Olivenöl
-
 100 ml Gemüsefond
-
 100 ml Schlagsahne
 Salz, Pfeffer
 
@@ -38179,7 +36220,6 @@ Salz, Pfeffer
 
 ## Pappardelle in pikanter Sauce aus Schweinefleisch und Mohn
 ### Zutaten (für 4 Portionen):
-
 500 g Pappardelle
 20 g Butter
 1 ½ EL Öl
@@ -38187,7 +36227,6 @@ Salz, Pfeffer
 1 Knoblauchzehe, zerdrückt
 2 TL Paprikapulver edelsüß
 1 Msp. Cayennepfeffer
-
 500 g mageres Schweinefleisch (Filet oder Keule), dünn aufgeschnitten
 1 EL frische glatte Petersilie, feingehackt
 1 EL Portwein (oder etwas ähnliches)
@@ -38213,7 +36252,6 @@ Salz, Pfeffer
 ½ TL Zucker
 1 getrocknete Chilischote, zerkrümelt
 20 g Basilikumblätter
-
 400 g Fettucine oder Spaghetti oder andere Nudeln
 35 g Parmesan, fein gerieben
 Salz
@@ -38226,21 +36264,16 @@ Salz
 ## Fettuccine mit cremiger Pilz-Bohnen-Sauce
 ### Zutaten (für 4 Portionen):
 100 g Pinienkerne
-
 375 g Fettuccine
 250 g grüne Bohnen
 2 EL Öl
 1 Zwiebel, gehackt
 2 Knoblauchzehen, zerdrückt
 250 g Champignons, in dünne Scheiben geschnitten
-
 125 ml Weißwein
-
 310 ml Sahne
-
 125 ml Gemüsebrühe
 1 Ei
-
 12 g Basilikum, feingehackt
 Salz, Pfeffer
 
@@ -38257,16 +36290,13 @@ Salz, Pfeffer
 
 ## Fettuccine mit Kräutern und Pfeffer
 ### Zutaten (für 4 Personen)
-
 500 g Fettuccine
-
 60 g Butter
 2 Knoblauchzehen, zerdrückt
 2 EL frischer Salbei, feingehackt
 2 EL frisches Basilikum, feingehackt
 2 EL frischer Oregano, feingehackt
 2 TL zerstoßener schwarzer Pfeffer
-
 4 EL frischer Parmesan
 
 ### Zubereitungszeit
@@ -38278,14 +36308,11 @@ Salz, Pfeffer
 
 ## Fettucine Boscaiola
 ### Zutaten (für 6 Portionen):
-
 500 g Champignons
 1 große Zwiebel
 2 EL Olivenöl
 2 Knoblauchzehen, feingehackt
-
 850 g Dosentomaten, grob zerteilt
-
 500 g Fettucine
 2 EL frische glatte Petersilie, feingehackt
 
@@ -38300,7 +36327,6 @@ Info:	Diese Sauce lässt sich mit Sahne variieren. Einfach 1 Becher Sahne zusamm
 
 ## Fettucine Alfredo
 ### Zutaten (für 4-6 Personen):
-
 500 g Fettuccine
 100 g Butter
 150 g frisch geriebener Parmesan
@@ -38323,15 +36349,12 @@ Salz und Pfeffer
 ½ Bund Basilikum
 
 ½ Bund Petersilie
-
 4 EL frisch geriebener Parmesan
 1 Döschen Safranpulver
 
 1/8 l Gemüsebrühe
-
 400 g Bandnudeln
 1 Zwiebel
-
 4 EL Olivenöl
 Salz, Pfeffer
 
@@ -38345,14 +36368,11 @@ Salz, Pfeffer
 
 ## Tagliatelle in einer Sauce aus getrockneten Tomaten
 ### Zutaten (für 4 Portionen)
-
 500 g Tagliatelle
 2 EL Olivenöl
 1 Zwiebel, gehackt
-
 80 g getrocknete Tomaten, feingeschnitten
 2 Knoblauchzehen, zerdrückt
-
 450 g Dosentomaten, zerkleinert
 120 g schwarze Oliven, entsteint
 20 g frisch gezupftes Basilikum
@@ -38371,11 +36391,9 @@ Tipp:	Sollte man nur getrocknete Tomaten, die nicht in Öl sind, haben, dann ein
 
 ## Tagliatelle mit Sauce Alfredo
 ### Zutaten (für 4 – 6 Personen)
-
 500 g Tagliatelle
 90 g Butter
 150 g frisch geriebener Parmesan
-
 320 ml Sahne
 3 EL frische glatte Petersilie, feingehackt
 
@@ -38399,7 +36417,6 @@ Tagliatelle
 
 ½ Bund Basilikum
 200 g Sahne
-
 150 ml Brühe
 1 Knoblauchzehe
 1 ½ EL Butter
@@ -38422,12 +36439,10 @@ Tipp:	Man kann auch grüne und gelbe Tagliatelle hierzu mischen.
 30 g Butter
 2 Zucchini, in Scheiben geschnitten
 1 Knoblauchzehe, zerdrückt
-
 100 ml Weißwein
 100 g Gorgonzola (oder ähnliches), zerbröckelt
 300 ml Sahne
 1 Prise schwarzer Pfeffer
-
 500 g weiße oder grüne Tagliatelle
 
 2-3 EL frisch geriebener Parmesan
@@ -38450,7 +36465,6 @@ Frisch gehackte Petersilie zum Bestreuen
 2 EL Butter
 Salz, Pfeffer
 1 Msp. Cayennepfeffer
-
 125 ml trockener Weißwein
 250 g Schlagsahne
 
@@ -38470,7 +36484,6 @@ Geriebene Muskatnuss
 ### Zutaten (für 4 Personen):
 
 *Für den Nudelteig, wenn man will oder einfach breite Bandnudeln)*
-
 400 g Mehl
 
 4 große Eier
@@ -38483,7 +36496,6 @@ Geriebene Muskatnuss
 100 g Zuckererbsen
 100 g Butter
 40 g Paniermehl
-
 4 EL Olivenöl
 Salz und Pfeffer
 
@@ -38506,7 +36518,6 @@ Salz und Pfeffer
 
 ## Bandnudeln mit Mohn und Nüssen
 ### Zutaten (für 4 Portionen):
-
 400 g Bandnudeln
 3 Orangen
 100 g Walnusskerne
@@ -38529,7 +36540,6 @@ Etwa 250 g Mehl
 Salz
 
 *Für die Sauce*
-
 750 g reife Tomaten
 
 Frischer Salbei
@@ -38581,13 +36591,11 @@ Salz, Pfeffer
 ## Gnocchi mit Pilzsauce - Trofie con salsa di funghi
 ### Zutaten (für 4 Portionen):
 200 g frische Pilze
-
 400 g Tomaten
 50 g frisch geriebener Parmesan
 2 EL Tomatenmark
 1 kleine Zwiebel
 1 Knoblauchzehe
-
 350 g Mehl
 50 g Weizenkleie
 3 EL Olivenöl
@@ -38608,7 +36616,6 @@ Info:	Trofie sind eine Gnocchispezialität, die nur in Genua diesen Titel trägt
 
 ## Parmesangnocchi
 ### Zutaten (für 6 Portionen):
-
 500 g mehlige Kartoffeln
 100 g Mehl
 100 g Hartweizengrieß
@@ -38619,12 +36626,9 @@ Salz, Muskat
 
 Butter zum Sautieren
 200 g Radicchio Trevisano
-
 80 g Butter
 20 g Zucker
-
 100 ml Rotwein
-
 100 ml Portwein
 
 Zitronensaft
@@ -38640,7 +36644,6 @@ Zitronensaft
 
 ## Ricotta-Gnocchi
 ### Zutaten (für 4 Portionen)
-
 500 g Ricotta
 1 Ei
 1 EL frisch geriebener Parmesan
@@ -38663,7 +36666,6 @@ Gnocchi sehen lieb und harmlos aus, wie Marshmallows, aber bei der Zubereitung f
 
 ## Gnocchi alla Romana
 ### Zutaten (für 8 Portionen als Vorspeise):
-
 80 g Butter
 1 l Milch
 250 g Hartweizengrieß
@@ -38684,9 +36686,7 @@ Salz, Pfeffer
 ### Zutaten (für 4 – 6 Personen)
 
 4 Scheiben Toastbrot
-
 120 ml Milch
-
 500 g tiefgefrorener Blattspinat, aufgetaut
 250 g Ricottakäse oder Magerquark, gut abgetropft
 2 Eier
@@ -38702,12 +36702,9 @@ Salz, Pfeffer
 ## Gnocchi mit Fontina-Käsesauce
 ### Zutaten für 4 Personen
 200 g Fontinakäse, feingewürfelt
-
 120 ml Sahne
-
 80 g Butter
 2 EL frisch geriebener Parmesan
-
 400 g Gnocchi
 
 ### Zubereitungszeit
@@ -38719,7 +36716,6 @@ Salz, Pfeffer
 
 ## Käseauflauf mit Gnocchi
 ### Zutaten (für 4 Portionen)
-
 500 g Gnocchi
 30 g Butterflöckchen
 1 EL frische glatte Petersilie, feingehackt
@@ -38736,7 +36732,6 @@ Salz, Pfeffer
 ## Tortellini
 ### Zutaten
 *Für den Teig:*
-
 500 g Mehl und Mehl zum Ausrollen
 2 Eier
 2 EL Olivenöl
@@ -38746,7 +36741,6 @@ Salz, Pfeffer
 300 g Hühnerbrustfilet
 
 ¼ l Hühnerbrühe
-
 5 EL frisch geriebener Parmesan
 1 EL Crème fraîche
 2 Eigelb
@@ -38761,7 +36755,6 @@ Brühe zum Garen
 Zubereitung
 
 *Für den Teig:*
-
 500 g Mehl mit 1/8 l Wasser, 2 eiern, 1 TL Salz und 2 EL Olivenöl glattkneten. Ist der Teig zu trocken, tropfenweise Waser zugeben, bis er weich und geschmeidig, aber nicht klebrig ist. Mit Mehl bestäuben, mit einem Tuch bedecken, bei Zimmertemperatur 20 Minuten ruhen lassen.
 
 *Für die Füllung:*
@@ -38780,7 +36773,6 @@ Tipp:	Tortellini kann man auch mit gehacktem Schweinefleisch, Schinken, Wurst, K
 ### Zutaten (für 4-6 Portionen)
 2 Frühlingszwiebeln
 250 g frische Champignons
-
 4 EL Olivenöl
 2 Knoblauchzehen
 1 EL Currypulver
@@ -38789,7 +36781,6 @@ Tipp:	Tortellini kann man auch mit gehacktem Schweinefleisch, Schinken, Wurst, K
 250 g Sahne
 
 Schwarzer Pfeffer aus der Mühle
-
 500 g Tortellini
 
 ½ Zitrone
@@ -38841,9 +36832,7 @@ Tortellini
 
 ½ Bund glatte Petersilie
 3 Eier
-
 100 ml Schlagsahne
-
 100 ml Milch
 Salz, Pfeffer
 100 g geriebener Käse
@@ -38858,16 +36847,13 @@ Salz, Pfeffer
 
 ## Tortellini mit Nuss-Kräuter-Sauce
 ### Zutaten (für 4-6 Personen)
-
 500 g frische Käsetortellini
 100 g Walnüsse
-
 60 g Butter
 100 g Pinienkerne
 2 EL frische Petersilie, gehackt
 2 TL frischer Thymian
 Salz und Pfeffer
-
 60 g frischer Ricotta (oder Quark, abgetropft)
 3 EL Sahne
 
@@ -38879,14 +36865,11 @@ Salz und Pfeffer
 
 ## Tortellini mit Pilz-Sahne-Sauce
 ### Zutaten (für 4 Personen):
-
 500 g Tortellini
 180 g Champignons
 1 kleine ungespritzte Zitrone
-
 60 g Butter
 1 Knoblauchzehe, zerdrückt
-
 320 ml Sahne
 1 Prise Muskat
 3 EL frisch geriebenen Parmesan
@@ -38901,7 +36884,6 @@ Salz und Pfeffer
 
 ## Tortellini in einer Speck-Sahne-Sauce
 ### Zutaten (für 4 Personen):
-
 500 g frische oder getrocknete Tortellini
 1 EL Olivenöl
 
@@ -38909,9 +36891,7 @@ Salz und Pfeffer
 2 Knoblauchzehen, zerdrückt
 1 mittelgroße Zwiebel gehackt
 1 TL frische Chillies, feingehackt
-
 425 g Dosentomaten, zerkleinert
-
 120 ml Sahne
 2 EL frisches Basilikum
 
@@ -38923,10 +36903,8 @@ Salz und Pfeffer
 
 ## Überbackene Tortellini mit Spargel
 ### Zutaten (für 2 Personen):
-
 450 g frische Tortellini
 Salz
-
 500 g grüner Spargel
 300 g Hähnchenbrustfilet
 40 g Butter
@@ -38954,7 +36932,6 @@ Salz
 Oder einfach fertige Cannellonirollen nehmen 😊
 
 *Für die Füllung:*
-
 500 g geschmorter Rinderbraten (oder einfach Hackfleisch)
 100 g Caciocavallo-Käse (oder Pecorino) zum reiben
 
@@ -38964,7 +36941,6 @@ Muskatnuss, Salz, Pfeffer aus der Mühle
 Salz
 
 2-3 EL Öl
-
 5 EL Olivenöl
 2 Eier
 
@@ -38981,11 +36957,9 @@ Tipp:	Für die Füllung kann man gut Hackfleisch nehmen. Oder auch Ricotta und B
 
 ## Cannelloni mit Pilzfüllung
 ### Zutaten (für 4 Portionen):
-
 600 g Champignons
 1 große Zwiebel
 2 Knoblauchzehen
-
 4 EL Olivenöl
 1 Handvoll Basilikumblättchen
 2 Kugeln Mozzarella
@@ -38996,7 +36970,6 @@ Salz, Pfeffer
 250 g Cannelloni
 
 Olivenöl für die Form
-
 4 Tomaten (in Würfeln)
 
 1/8 l trockener Weißwein
@@ -39009,13 +36982,11 @@ Olivenöl für die Form
 
 ## Cannelloni mit Spinat-Ricotta-Füllung
 ### Zutaten für 6 Personen
-
 380 g Lasagneplatten oder Cannellonirollen
 2 EL Olivenöl
 1 große Zwiebel, feingehackt
 1 – 2 Knoblauchzehen, zerdrückt
 1 kg Blattspinat, feingehackt
-
 650 g frischer Ricotta (oder Magerquark, gut abgetropft), zerdrückt
 2 Eier, verschlagen
 1 Prise Muskat
@@ -39024,7 +36995,6 @@ Olivenöl für die Form
 1 EL Olivenöl
 1 mittelgroße Zwiebel, feingehackt
 2 Knoblauchzehen, feingehackt
-
 500 g reife Tomaten, gehackt
 2 EL Tomatenmark
 1 TL Zucker
@@ -39044,13 +37014,11 @@ Tipp:	Man kann auch fertige getrocknete Cannellonirollen verwenden. Ist natürli
 ### Zutaten (für 8 Portionen):
 
 8 Cannelloni
-
 60 g Walnüsse
 200 g Gorgonzola
 1 Bund Petersilie
 30 g Butter
 2 EL Walnussöl
-
 700 g Ricotta
 
 ½ Bund Thymian
@@ -39072,7 +37040,6 @@ Pfeffer, Salz
 ### Zutaten (für 10 Cannelloni)
 
 10 Cannelloni
-
 500 g Ricotta
 40 g TK-Spinat
 40 g geriebenen Parmesan
@@ -39085,9 +37052,7 @@ Salz, Pfeffer
 Für die Bechamelsauce:
 
 1,2 l Milch
-
 60 g Mehl
-
 60 g Butter
 Salz, Muskatnuss
 
@@ -39102,9 +37067,7 @@ Salz, Muskatnuss
 ### Zutaten (für 6 Personen):
 2 EL Olivenöl
 1 Knoblauchzehe, zerdrückt
-
 800 g Ravioli mit Ricottafüllung
-
 60 g Butter, in Stücke geschnitten
 2 EL frische Petersilie, gehackt
 20 g frisches Basilikum, gehackt
@@ -39118,7 +37081,6 @@ Salz, Muskatnuss
 
 ## Kürbis-Kräuter-Ravioli
 ### Zutaten (für 6 Portionen):
-
 500 g Kürbis, in Stücke geschnitten
 220 g Mehl
 3 Eier, leicht verquirlt
@@ -39129,7 +37091,6 @@ Salz, Muskatnuss
 
 15 frische glatte Petersilienblätter
 125 g Butter, zerlassen
-
 60 g Parmesan, gerieben
 Salz und Pfeffer
 
@@ -39144,9 +37105,7 @@ Salz und Pfeffer
 
 ## Chinesische Ravioli - Jiaozi 
 ### Zutaten (für 4 – 6 Portionen)
-
 500 g Mehl plus Mehl zum Ausrollen
-
 350 g mageres Schweinefleisch
 1 walnussgroßes Stück Ingwer
 1 dünne Lauchstange
@@ -39174,9 +37133,7 @@ Die typische Sauce ist aus schwarzem Essig, etwas gepressten Knoblauch und nach 
 ### Zutaten (für 6 Portionen):
 
 *Für den Teig:*
-
 400 g Mehl und Mehl zum Ausrollen
-
 4 Eier
 Salz
 
@@ -39187,7 +37144,6 @@ Salz
 200 g Mangoldblätter ohne Stiele
 150 g frischer Borretsch (ersatzweise Petersilie und Basilikum)
 3 EL frisch geriebener Parmesan
-
 100 ml Kalbsfonds
 2 Eier
 1 Brötchen vom Vortag
@@ -39204,7 +37160,6 @@ Salz, Pfeffer aus der Mühle
  etwa 70 Minuten
 
 *Für den Teig*
-
 400 g Mehl auf ein Holzbrett häufen, in die Mitte eine Vertiefung drücken. 4 Eier nacheinander aufschlagen, in die Mulde geben, salzen. Mehl vom Rand aus mit den Eiern vermischen, gut durchkneten, bis der Teig glatt und elastisch ist. Zur Kugel formen, mit einem feuchten Tuch bedeckt ruhen lassen.
 
 *Für die Füllung:*
@@ -39254,9 +37209,7 @@ Etwa 200 ml Rotwein
 300 g Mozzarella (oder mehr)
 250 g Lasagneblätter
 150 g Crème fraîche
-
 4 EL Sahne
-
 4 EL frisch geriebener Parmesan
 
 ### Zubereitungszeit
@@ -39274,16 +37227,13 @@ Info:	Das ist unsere Lasagne😊
 ### Zutaten (für 8 Portionen)
 
 *Für den Teig* (oder einfach Lasagneplatten nehmen 😊)
-
 350 g Mehl und Mehl zum Ausrollen
 125 g Hartweizengrieß
-
 4 Eier 
 Salz
 2 EL Marsala (oder trockener Weißwein oder nix)
 
 *Für die Sauce:*
-
 450 g Hackfleisch
 100 g durchwachsener Speck
 1 Mohrrübe
@@ -39377,17 +37327,12 @@ Salz, Muskatnuss
 
 ## Pilzlasagne
 ### Zutaten (für 6 Portionen)
-
 750 g braune Champignons, halbiert
-
 500 g Austernpilze
-
 135 ml Olivenöl
-
 60 g getrocknete Steinpilze
 30 g getrocknete Waldpilze
 2 getrocknete rote Chilischoten, grob gehackt
-
 500 ml heiße Gemüsebrühe
 1 Zwiebel, geschält und geviertelt
 
@@ -39396,13 +37341,9 @@ Salz, Muskatnuss
 
 2-3 Eiertomaten, geviertelt
 75 g Tomatenmark
-
 130 g Schlagsahne
-
 60 g Pecorino Romano, gerieben
-
 60 g Parmesan gerieben
-
 5 g Basilikumblätter, fein gehackt, plus 1 TL zum Garnieren
 250 g Lasagneblätter (etwa 14 Stück)
 Salz, Pfeffer
@@ -39453,15 +37394,12 @@ Salz, Pfeffer
 600 TK-Blattspinat
 2 Knoblauchzehen
 2 EL Olivenöl
-
 4 EL Pinienkerne
 Salz, Pfeffer
-
 500 g Tomaten
 200 g Gorgonzola
 40 g Butter
 30 g Mehl
-
 250 ml Gemüsebrühe
 250 g Schlagsahne
 
@@ -39483,7 +37421,6 @@ Lasagneplatten
 ### Zutaten (für 6 Portionen):
 
 12 Lasagneplatten
-
 400 g Ricottakäse oder Magerquark, gut abgetropft
 1 Ei, leicht verquirlt
 1 Prise Muskat
@@ -39511,15 +37448,11 @@ Frisches Basilikum zum Garnieren
 3 Knoblauchzehen, zerdrückt
 1 TL Kräuter der Provence
 1 TL getrockneter Oregano
-
 500 g Champignons, in Scheiben geschnitten
-
 440 g Dosentomaten, zerkleinert
-
 440 g Kidneybohnen aus der Dose, abgetropft
 1 EL süße Chilisauce
 250 g Lasagneblätter
-
 500 g Blattspinat, zerhackt
 30 g frisches Basilikum
 90 g getrocknete Tomaten in Scheiben geschnitten
@@ -39527,12 +37460,9 @@ Frisches Basilikum zum Garnieren
 3 EL geriebener Gouda
 
 *Für die Käsesauce:*
-
 60 g Butter
 3 EL Mehl
-
 500 ml Milch
-
 600 g Ricotta oder Quark, abgetropft
 
 ### Zubereitungszeit
@@ -39549,7 +37479,6 @@ Frisches Basilikum zum Garnieren
 ### Zutaten (für 6 Personen)
 
 Für die Marinade:
-
 125 ml Olivenöl
 2 EL Rotweinessig
 1 EL Kapern, feingehackt
@@ -39562,7 +37491,6 @@ Salz und Pfeffer
 1 rote Paprikaschote
 1 große Aubergine, längs in Scheiben geschnitten, gesalzen, abgespült und trockengetupft
 2 große Zucchini, längs in dünne Scheiben geschnitten
-
 400 g Süßkartoffeln, geschält und längs in dünne Scheiben geschnitten
 6 Eiertomaten, geviertelt
 
@@ -39584,9 +37512,7 @@ Keine Ahnung wie es schmeckt. Ist aber vegetarisch. Muss eben mal jemand ausprob
 
 ## Spätzle Grundrezept
 ### Zutaten (für 4 Portionen)
-
 400 g Mehl
-
 4 Eier
 Salz
 
@@ -39607,9 +37533,7 @@ Tipp:	Normalerweise rechnet man 100 g Mehl pro Person. Ist aber der Ruderer Simo
 ## Spinatspätzle
 ### Zutaten (für 4 Portionen):
 100 g TK-Spinat
-
 150 ml Wasser
-
 350 g Mehl
 3 Eier
 1 TL Salz
@@ -39638,7 +37562,6 @@ Salz, Muskatnuss
 
 ## Bärlauchspätzle
 ### Zutaten (für 4 Portionen):
-
 350 g Mehl
 3 Eier
 1 EL Olivenöl
@@ -39654,9 +37577,7 @@ Salz, Muskatnuss
 
 ## Käsespätzle
 ### Zutaten (für 4 Portionen):
-
 500 g Mehl
-
 4 Eier
 Salz
 
@@ -39680,9 +37601,7 @@ Butter
 
 ## Käsespätzle Nr.2
 ### Zutaten für 4 Portionen:
-
 400 g Mehl
-
 4 Eier
 Salz, Pfeffer
 250 g mittelalter Gouda oder Gruyère
@@ -39703,9 +37622,7 @@ Salz, Pfeffer
 ### Zutaten (für 4 – 5 Portionen)
 
 ½ Bund glatte Petersilie
-
 4 Eier
-
 400 g Mehl
 1 TL gehackter Thymian und Salbei
 2 EL Öl
@@ -39762,11 +37679,8 @@ Info:	Mmmh. Lecker, auch wenn ich eher die Maultaschen einfach von Bürger kaufe
 4 Romana- oder Eisbergsalatblätter
 
 *Für den Dip:*
-
 100 ml japanische Sojasauce
-
 50 ml geröstetes Sesamöl
-
 50 ml Reiswein
 2 EL Agavendicksaft
 
@@ -39807,7 +37721,6 @@ Info:	Mmmh. Lecker, auch wenn ich eher die Maultaschen einfach von Bürger kaufe
 6 EL Olivenöl
 200 g Champignons, fein gehackt
 200 g Spinat, fein gehackt
-
 4 EL japanische Sojasauce
 1 EL Paprikapulver
 1 TL Meersalz
@@ -39869,11 +37782,9 @@ Paprikapulver edelsüß
 
 ## Schupfnudeln
 ### Zutaten (für 4 Portionen):
-
 800 g mehligkochende Kartoffeln
 2 Eier
 150 g Mehl
-
 80 g Butterschmalz
 Salz, Pfeffer, Muskat
 20 g Butter
@@ -39894,13 +37805,9 @@ Mehl für die Arbeitsfläche
 100 g durchwachsener Speck
 1 Zwiebel
 1 EL Öl
-
 800 g Sauerkraut
-
 100 ml Weißwein
-
 100 ml Apfelsaft
-
 100 ml Gemüsebrühe
 
 5 Wacholderbeeren
@@ -39924,7 +37831,6 @@ Salz, Pfeffer, Muskatnuss, Zucker
 
 ## Schupfnudeln mit Schinken-Zwiebel-Kraut
 ### Zutaten (für 4 Portionen):
-
 500 g Kartoffeln (mehlig kochende Sorte)
 2 Eier
 
@@ -39962,7 +37868,6 @@ Blitzvariante: Fertige Schupfnudeln kaufen 😉
 
 4 TL Chiliöl
 2 EL Sojasauce
-
 500 g chinesische Weizennudeln
 
 ### Zubereitungszeit
@@ -39983,7 +37888,6 @@ Trockengemüse wird erst getrocknet und dann in Salzlake eingelegt. Bei uns gibt
 
 *Für das Kompott:*
 1 große Bio-Orange
-
 60 g Zucker
 
 1-2 TL Speisestärke
@@ -39991,7 +37895,6 @@ Trockengemüse wird erst getrocknet und dann in Salzlake eingelegt. Bei uns gibt
 2-3 EL Holunderblütensirup
 
 ½ Canteloupe-Melone
-
 500 g Erdbeeren
 
 4 Stiele Zitronenmelisse
@@ -40000,12 +37903,9 @@ Trockengemüse wird erst getrocknet und dann in Salzlake eingelegt. Bei uns gibt
 
 2-3 TL roter Pfeffer
 1 Vanilleschote
-
 800 ml Milch
 50 g Zucker
-
 160 g Risottoreis
-
 100 ml Schlagsahne
 
 ### Zubereitungszeit
@@ -40024,10 +37924,8 @@ Trockengemüse wird erst getrocknet und dann in Salzlake eingelegt. Bei uns gibt
 
 *Für den Flan:*
 1 große getrocknete Ancho-Chilischote, 10 Minuten in kochend heißem Wasser eingeweicht, dann abgetropft
-
 270 g gezuckerte Kondensmilch
 100 g Schlagsahne
-
 400 ml Milch
 3 Eier
 1 TL Vanillepaste
@@ -40048,10 +37946,8 @@ Trockengemüse wird erst getrocknet und dann in Salzlake eingelegt. Bei uns gibt
 ### Zutaten für 4 Portionen
 20 g Butter
 6 EL Zucker
-
 4 Eier
 1 Päckchen Vanillezucker
-
 400 ml Milch
 
 ### Zubereitungszeit
@@ -40066,9 +37962,7 @@ Trockengemüse wird erst getrocknet und dann in Salzlake eingelegt. Bei uns gibt
 ### Zutaten für 4 Portionen
 
 4 große, gelbe Pfirsiche
-
 80 g Amaretti
-
 100 ml Marsala
 2 TL Zitronensaft
 1 Eigelb
@@ -40091,9 +37985,7 @@ Info:	Der Dessertwein Marsala kommt von Sizilien und wird dort nicht nur genippt
 
 ## Pochierte Aprikosen mit Mascarpone
 ### Zutaten (für 4 Portionen):
-
 80 g Pistazienkerne
-
 80 g Amaretti, grob zerbröselt
 2 EL Zucker
 120 g Mascarpone
@@ -40101,12 +37993,10 @@ Info:	Der Dessertwein Marsala kommt von Sizilien und wird dort nicht nur genippt
 1 TL abgeriebene Schale einer Limette
 
 *Für die Aprikosen:*
-
 100 ml Sauternes (oder ein anderer leichter Dessertwein)
 1 Limette, 3 Streifen Schale dünn abgeschnitten, dann 1 EL saft ausgepresst
 
 ¼ TL Vanillepaste
-
 60 g Zucker
 6 Aprikosen, entsteint und halbiert. Sollten unbedingt vollreif sein
 1 TL Orangenblütenwasser
@@ -40141,14 +38031,12 @@ Info:	Statt Kaffirlimettenblätter kann man auch Rooibostee nehmen. Dann statt d
 ## Kokoseis mit Litschi und Passionfruits
 ### Zutaten (für 6 Portionen):
 180 g Kokoschips
-
 560 g Kokoscreme
 300 g Zucker
 1 TL Vanillepaste
 
 ¾ TL gemahlener Sternanis
 1 TL Meersalzflocken
-
 140 ml Aquafaba (die Flüssigkeit aus einer 400 g Dose Kichererbsen)
 
 15 frische Litschis, geschält, entsteint und grob halbiert
@@ -40214,7 +38102,6 @@ Info:	Sieht fantastisch (knallig-poppig-bunt😊) aus und schmeckt super. Hab ic
 1 Stück Ingwer (2-3 cm)
 
 5-6 Bio-Limetten
-
 350 g Sahne
 75 g Zucker
 150 g frische oder TK-Beeren (Heidelbeeren, Himbeeren, Brombeeren)
@@ -40240,9 +38127,7 @@ Wer mag, dekoriert die Gläschen vor dem Servieren noch mit einem Tupfer Schlags
 1 TL Rohrzucker
 1 Msp. Salz
 1 großes ei
-
 150 ml Milch
-
 25 g Butter
 20 g Mandelblättchen, leicht geröstet
 
@@ -40286,12 +38171,10 @@ Info:	Die Barbados-Creme ist extrem gefährlich: sahnig, spritzig, süß – und
 1 TL Kakaopulver
 
 ¼ TL Meersalzflocken
-
 25 g weiche Butter, in 1 cm große Würfel geschnitten
 30 g gesalzene Macadamianüsse, kräftig geröstet und grob gehackt
 
 *Für den Kaffeesirup*
-
 150 ml starker Kaffee
 50 g Zucker
 
@@ -40306,11 +38189,9 @@ Info:	Die Barbados-Creme ist extrem gefährlich: sahnig, spritzig, süß – und
 
 ## Frische Beeren mit Orangenöl
 ### Zutaten (für 6 Portionen)
-
 900 g Joghurt 
 
 ½ TL Salz
-
 100 ml Olivenöl
 
 10 Zweige Zitronenthymian
@@ -40341,11 +38222,9 @@ Info:	Falls man das Abtropfen umgehen will: Einfach griechischen Joghurt mit ein
 1 Prise Salz
 180 g Puderzucker, plus 2 EL für die Sahne
 1 EL Orangenblütenwasser
-
 60 g Pistazien (ungesalzen, gehackt, plus etwas mehr zum Garnieren
 300 ml Schlagsahne
 1 TL Vanilleextrakt
-
 400 g Erdbeeren
 
 ### Zubereitung
@@ -40379,7 +38258,6 @@ Info:	Anna Pawlowa Pawlowa war eine russische Balletttänzerin, die im 19. Jahrh
 
 ## Kokos-Mango-Eis
 ### Zutaten (für ca. 4 Portionen)
-
 400 g Joghurt aus Kokosmilch
 300 g TK-Mangostücke
 1 Limette
@@ -40391,7 +38269,6 @@ Kokosjoghurt mit den tiefgekühlten Mangostückchen und dem Saft der Limette (so
 
 ## Schwarzes Johannisbeer-Granité auf Rooibos-Mousse
 ### Zutaten (für 4-5 Portionen):
-
 400 g Sahne
 15 g Rooibos-Tee
 2 Blatt weiße Blatt Gelatine (oder 1,5 g Agar-Agar)
@@ -40402,11 +38279,8 @@ Mark von ½ Vanilleschote
 
 *Für das Granité:*
 200 g frische schwarze Johannisbeeren
-
 110 g Zucker
-
 100 ml Wasser
-
 25 ml Crème de Cassis (optional, sonst Saft)
 15 g Rosenwasser (aus dem Asialaden)
 
@@ -40426,15 +38300,12 @@ Granita oder Granité? Der ursprüngliche Name dieser sizilianischen Süßspeise
 
 ## Sirupbällchen
 ### Zutaten (für 20 Bällchen):
-
 750 g Zucker
 1 EL Rosenwasser
 1 TL schwarze Kardamomkapseln
 
 ¼ l Milch
-
 175 g Milchpulver
-
 45 g Weizenmehl
 1 TL Backpulver
 1 EL Ghee oder Butterschmalz
@@ -40458,13 +38329,10 @@ Zum Garnieren: Kokosflocken, gehackte Mandeln oder Pistazien
 *Für den Teig:*
 
 1,5 TL Salz
-
 260 ml Wasser
 2 EL gesüßte Kondensmilch
 1 großes Ei
-
 500 g Mehl
-
 55 g Butter
 1 EL Butter
 1 EL Sonnenblumenöl
@@ -40491,7 +38359,6 @@ Zum Garnieren: Kokosflocken, gehackte Mandeln oder Pistazien
 1 Pandanblatt
 
 *Für die Sauce:*
-
 500 ml Kokosmilch
 1 EL Kokosblütenzucker
 1 Pandanblatt
@@ -40520,7 +38387,6 @@ Zum Garnieren: Kokosflocken, gehackte Mandeln oder Pistazien
 1 Prise Salz
 
 *Für die Füllung:*
-
 250 ml Kokosmilch
 2 EL Zucker
 1 sehr große Prise Salz
@@ -40610,7 +38476,6 @@ Nochmals 40 g flüssige Butter
 200 g Sahne
 1 Päckchen Sahnesteif
 1 Dose Mango oder frisch
-
 25 g Zitronensaft
 150 g Naturjoghurt
 
@@ -40623,7 +38488,6 @@ Sahne und Sahnesteif steif schlagen. Mango und Zitronensaft fein pürieren. Dann
 
 ½ Tüte Amarettini
 250 g Mascarpone
-
 500 g rote Grütze
 250 g Magerquark
 2 Becher Joghurt (1,5% Fett)
@@ -40635,9 +38499,7 @@ Mascarpone, Magerquark und Joghurt vermischen, die Sahne unterziehen. Amarettini
 
 ## Erdbeer-Eispops mit Minzzucker
 ### Zutaten (für 12 Stück):
-
 500 g Erdbeeren
-
 110 g Zucker
 
 Saft und Zesten einer Limette
@@ -40658,11 +38520,8 @@ Frische Minze
 
 ## Zabaglione
 ### Zutaten (für 2 Portionen):
-
 4 Eier
-
 80 g Zucker
-
 100 ml Marsala all’uovo (oder normaler Marsala)
 100 g frische Beeren (oder mehr)
 
@@ -40678,7 +38537,6 @@ Evtl. Puderzucker
 250 g Himbeeren
 3 große Eier
 100 g Zucker
-
 150 ml Creme double
 
 ### Zubereitung
@@ -40691,7 +38549,6 @@ Evtl. Puderzucker
 ### Zutaten
 3 EL Honig
 250 g Erdbeeren
-
 500 g Naturjoghurt
 1 Päckchen Vanillezucker
 
@@ -40715,13 +38572,10 @@ alle Zutaten miteinander vermischen. Den Teig mindestens 45 Minuten ruhen lassen
 
 ## Apfelpfannkuchen
 ### Zutaten (für 4-5 Portionen)
-
 400 g Mehl
 
 ½ frischer Hefewürfel
-
 500 ml Milch
-
 4 Eier
 6 EL Zucker
 100 g weiche Butter (zwei Drittel für den Teig, ein Drittel zum Braten)
@@ -40773,13 +38627,10 @@ Griechischen Joghurt oder Crème fraîche
 125 g Zucker
 
 ½ TL Salz
-
 10 Eier
-
 750 g Mehl
 1 Päckchen Backpulver
 2 Päckchen Vanillezucker
-
 750 g Naturjoghurt/Buttermilch
 
 ### Zubereitung
@@ -40791,21 +38642,15 @@ Info:	Das ist der beste Waffelteig ever😊 Damals in der Clara-Grunwald seid ih
 
 ## Anis-Grieß-Auflauf mit Kirschen und Mandeln
 ### Zutaten (für 8 Portionen):
-
 60 g feiner Zucker
-
 450 g Sauerkirschen
 
 1,5 TL Anissamen (oder man nimmt dafür das Mark einer Vanilleschote)
-
 500 ml Vollmilch
-
 80 g Butter
-
 110 g Hartweizengrieß
 3 Eier
 Salz
-
 70 ml Honig
 70 g gehobelte Mandeln
 1 EL Puderzucker zum Bestreuen
@@ -40822,16 +38667,12 @@ Salz
 ### Zutaten (für 6 Portionen)
 
 *Für den Teig:*
-
 250 ml Milch
-
 25 g Hefe
 30 g Zucker
-
 500 g Mehl
 2 Eier
 Salz
-
 80 g weiche Butter
 
 *Außerdem:*
@@ -40853,15 +38694,13 @@ Mehl für die Arbeitsfläche#250 ml Milch
 ### Zutaten (für 4 Portionen)
 
 *Für die Knödel*
-
 500 g mehlig kochende Kartoffeln
 Salz
 50 g Speisestärke
 50 g doppelgriffiges Mehl (Wiener Grießler)
 50 g Hartweizengrieß
 1 Ei
-
-4 El braune Butter
+4 EL braune Butter
 
 Abgeriebene Schale von 1 unbehandelten Zitrone
 
@@ -40873,7 +38712,6 @@ Mark von ½ Vanilleschote
 
 *Für den Kochsud*
 20 g Salz
-
 80 g Zucker
 1 ausgekratzte Vanilleschote
 
@@ -40897,7 +38735,6 @@ Das erste niedergeschriebene Rezept für Obstknödel in böhmischen Landen tauch
 ### Zutaten (für 4 Portionen)
 2 Blatt weiße Gelatine
 200 g weiße Kuvertüre
-
 380 g Sahne
 3 Eigelb
 1 TL Zucker
@@ -40918,7 +38755,6 @@ Info: 	Vorsicht rohe Eier! Am selben Tag aufessen und darauf achten, dass das Mo
 150 g altes Brot
 2 EL Zucker
 2 EL Butter
-
 500 g Quark
 
 Abrieb und Saft von 1 Bio-Zitronen
@@ -40939,7 +38775,6 @@ Dieser Nachtisch besticht durch die gebutterten Pumpernickelbrösel. Die knacken
 
 ## Nonnenfürzle
 ### Zutaten für 30 – 40 Stück
-
 250 ml Milch
 50 g Butter
 1 Prise Salz
@@ -40960,7 +38795,6 @@ Ausbackfett
 
 ## Zwetschgencrumble mit Marzipan
 ### Zutaten 
-
 800 g Zwetschgen
 50 g Zucker
 1 TL Mehl
@@ -40982,12 +38816,10 @@ Crème fraîche zum Servieren
 
 ## Heidelbeercrumble
 ### Zutaten (für 5 -6 Portionen):
-
 500 g Heidelbeeren
 70 g weißer Zucker
 150 g Mehl
 50 g gemahlene Mandeln
-
 80 g brauner Zucker
 1 Prise Salz
 150 g kalte Butter
@@ -41025,13 +38857,10 @@ Tipp:	Dazu passt z.B. Zwetschgenkompott oder eingelegte Zwetschgen.
 ## Erdbeermousse
 ### Zutaten (für 4 Portionen):
 3 Blatt weiße Gelatine
-
 500 g Erdbeeren
-
 4 EL Zucker
 
 4 cl Orangenlikör
-
 150 ml Sahne
 
 ### Zubereitungszeit
@@ -41043,7 +38872,6 @@ Tipp:	Dazu passt z.B. Zwetschgenkompott oder eingelegte Zwetschgen.
 
 ## Kirschplotzer
 ### Zutaten (für 4 Portionen)
-
 500 g Weißbrot vom Vortag (alternativ Schwarzbrot)
 
 ¼ l heiße Milch
@@ -41068,12 +38896,9 @@ Butter für die Form
 ### Zutaten (für 4 Portionen):
 
 4 Eigelb
-
 175 g Zucker
 1 Päckchen Vanillezucker
-
 400 ml Sahne
-
 400 g Erdbeeren
 
 ### Zubereitung
@@ -41084,13 +38909,10 @@ Butter für die Form
 
 ## Erdbeermousse (rausgerissenes Rezept)
 ### Zutaten (für 4 – 6 Portionen)
-
 650 g Erdbeeren
 150 g Zucker
 2 Päckchen Vanillezucker
-
 5 EL Weinbrand
-
 400 ml gut gekühlte Sahne
 
 ### Zubereitung
@@ -41101,7 +38923,6 @@ Butter für die Form
 
 ## Himbeereis ohne Eismaschine
 ### Zutaten (für 6 Portionen)
-
 600 g frische Himbeeren (oder TK-Früchte)
 2 EL Puderzucker
 200 g Sahne
@@ -41128,10 +38949,8 @@ Salz
 
 4 große Eigelb
 1 TL Speisestärke
-
 60 g Zucker
 2 TL Vanilleextrakt (oder Mark von 2 Vanilleschoten)
-
 600 g Sahne
 
 ### Zubereitung
@@ -41144,13 +38963,10 @@ Salz
 
 ## Gebackene Erdbeeren mit Sumach
 ### Zutaten (für 6 Portionen)
-
 900 g griechischer Joghurt
-
 140 g Puderzucker
 120 g Sahne
 1 Bio-Zitrone, 1 TL Schale abgerieben, dann 2 EL Saft ausgepresst
-
 600 g Erdbeeren, geputzt und halbiert
 
 1,5 EL Sumach
@@ -41167,18 +38983,15 @@ Salz
 
 ## Gebackene Erdbeeren mit Joghurt
 ### Zutaten für 4 Portionen
-
 600 g mittelgroße Erdbeeren
 
 ½ Vanilleschote
-
 8 EL Waldhonig
 2 EL Zitronensaft
 2 EL Marillen oder Aprikosenlikör
 
 10 Stiele Thymian
 30 g Pinienkerne
-
 600 g griechischer Sahnejoghurt
 
 ### Zubereitungszeit
@@ -41195,11 +39008,9 @@ Salz
 
 4 reife Pflaumen, entsteint und in 1 cm breite Spalten geschnitten
 1 TL Vanilleextrakt oder das Mark von 1 Vanilleschote
-
 60 g Zucker
 3 frische Lorbeerblätter
 1 TL gemahlener Zimt
-
 60 g Mehl
 200 g Puderzucker
 120 g gemahlene Mandeln
@@ -41238,7 +39049,6 @@ Salz
 ## Apfel-Zimt-Halwa
 ### Zutaten (für 4 Portionen):
 2 kleine Äpfel
-
 4 EL Kokosöl
 1 TL Zucker
 50 g Rosinen
@@ -41247,7 +39057,6 @@ Salz
 ½ TL Zimt-Masala oder gemahlener Zimt
 1 Prise Salz
 120 g Grieß
-
 450 ml Hafermilch oder Wasser
 2 EL Agavendicksaft
 
@@ -41271,7 +39080,6 @@ Schale von ½ unbehandelten Orange
 
 ½ l starker Espresso
 100 g Crème double
-
 4 EL Kaffeelikör
 
 Schoko-Mokka-Bohnen zum Bestreuen
@@ -41285,13 +39093,11 @@ Schoko-Mokka-Bohnen zum Bestreuen
 
 ## Tiramisu
 ### Zutaten (für 6 Portionen):
-
 250 ml kalter Espresso
 6 EL Amaretto-Likör
 
 4 frische Eigelb
 50 g Zucker
-
 500 g Mascarpone
 200 g Löffelbiskuits
 
@@ -41310,9 +39116,7 @@ Warnung:	Unbedingt ganz frische Eier verwenden und noch am selben Tag verzehren.
 ### Zutaten (für 8 Portionen):
 
 4 Eigelb
-
 4 EL Zucker
-
 500 g Mascarpone
 1 TL abgeriebene Zitronenschale
 2 kleine Tässchen kalter Espresso
@@ -41333,11 +39137,9 @@ Warnung:	Unbedingt ganz frische Eier verwenden und noch am selben Tag verzehren.
 ### Zutaten (für 12 Stück)
 
 *Für den Teig:*
-
 250 ml Milch
 1 Würfel Hefe
 100 g Zucker
-
 500 g Mehl
 1 Prise Salz
 
@@ -41347,9 +39149,7 @@ Abgerieben Schale einer ungespritzten Zitrone
 *Außerdem:*
 
 12 kleine Aprikosen
-
 250 ml Milch
-
 25 g Zucker
 2 EL Butter
 
@@ -41372,7 +39172,6 @@ Fett für die Form
 172 l Milch
 300 g Mehl
 100 g Zucker
-
 4 Eier
 1 TL abgerieben Schale einer ungespritzten Zitrone
 1 Prise Salz
@@ -41387,7 +39186,6 @@ Fett für die Form
 
 ## Milchreis mit Kardamom, Pistazien und Rosenwasser
 ### Zutaten (für 4 Portionen):
-
 400 ml Vollmilch
 120 g Sahne
 1 Vanilleschote, das Mark herausgekratzt
@@ -41415,22 +39213,17 @@ Salz
 ## Risalamande mit Kirschsoße – Milchreis
 ### Zutaten (für 6-8 Portionen):
 200 ml Wasser
-
 175 g Milchreis
 1 l Vollmilch
 Salz
 100 g Mandeln mit Schale (oder blanchierte Mandeln)
-
 4 EL Zucker
 2 Vanilleschoten (ausgekratztes Mark)
-
 400 ml Schlagsahne
 
 *Für die Kirschsoße:*
-
 600 g frische oder gefrorene Kirschen (entsteint)
 120 g Zucker
-
 30 ml Rotwein
 1 Vanilleschote
 
@@ -41456,19 +39249,14 @@ Das Gericht soll übrigens um 1900 entstanden ein, als ein Gast in einem Luxusho
 2 Platten TK-Blätterteig
 
 *Für die Sauce:*
-
 110 g Zucker
-
 4 EL Sahne
-
 60 g Butter
 
 4 säuerliche Äpfel, geschält, Kerngehäuse entfernt, in 1 cm dicke Spalten geschnitten
-
 60 g Butter, zerlassen
 
 Grobes Meersalz
-
 4 EL Crème fraîche
 
 ### Zubereitung
@@ -41491,9 +39279,7 @@ Grobes Meersalz
 
 ¼ TL Zimt
 1 kräftige Prise Muskatnuss
-
 125 ml dunkler Rum
-
 4 EL Bananenlikör
 
 Vanilleeis
@@ -41527,7 +39313,6 @@ Vanilleeis
 2 schwach gehäufte TL Gelatine gemahlen, weiß
 
 4EL kaltes Wasser
-
 750 ml Milch
 
 Pudding-Pulver-Vanille-Geschmack
@@ -41535,10 +39320,8 @@ Pudding-Pulver-Vanille-Geschmack
 6 EL kalte Milch
 
 Etwa 2 EL Kirschwasser
-
 250 ml Sahne
 1 Päckchen Vanillezucker
-
 375 g entsteinte Sauerkirschen aus dem Glas
 
 Geraspelte Schokolade zum Garnieren
@@ -41555,12 +39338,10 @@ Info:	Wieder ein absolut klassisches 70er Jahre Rezept.
 ## Tiramisu (vom Bietigheimer Italiener)
 ### Zutaten
 500 g Mascarpone
-
 4 Eier
 
 Zucker
 1 Glas Amaretto
-
 400 g Löffelbiskuits
 1 Tasse Espresso
 
@@ -41571,7 +39352,6 @@ Zucker
 
 ## Zwetschgenknödel
 ### Zutaten (für 4-6 Portionen)
-
 600 g mehlige Kartoffeln
 Salz
 120 g Mehl
@@ -41596,12 +39376,9 @@ Salz
 
 ## Mousse au chocolat
 ### Zutaten (für 5 bis 6 Portionen)
-
 140 g Schokolade (70% Kakao)
-
 5 Eier
 50 g Zucker
-
 70 ml Schlagsahne
 
 ### Zubereitung
@@ -41613,13 +39390,9 @@ Salz
 
 ## Birnencrumble mit Schokolade
 ### Zutaten (für 4 Portionen):
-
 500 g Birnen
-
 80 g kalte Butter plus etwas zum Braten
-
 80 g Mehl
-
 80 g Zucker
 3 EL kernige Haferflocken
 70 g dunkle Schokolade
@@ -41638,16 +39411,12 @@ Der Crumble ist wirklich sehr süß. Man isst den Crumble am besten lauwarm, mit
 ## Clafoutis mit Erdbeeren, Rhabarber und Olivenöl
 ### Zutaten (für 4 bis 6 Portionen)
 300 g Erdbeeren
-
 450 g Rhabarber
-
 140 g Zucker
 6 Eier
 1 Prise Salz
 100 g Mehl
-
 400 ml Sahne
-
 80 ml gutes Olivenöl
 
 ### Zubereitung
@@ -41658,19 +39427,15 @@ Der Crumble ist wirklich sehr süß. Man isst den Crumble am besten lauwarm, mit
 
 ## Tiramisu mit Beeren
 ### Zutaten (für 6 bis 8 Portionen)
-
 170 g Löffelbiskuits
 
 Saft aus 3 Orangen
 60 ml Sherry
 3 Eier
-
 4 EL Puderzucker
-
 500 g Mascarpone
 1 Messerspitze gemahlene Vanilleschote
 150 g Himbeeren
-
 370 g Heidelbeeren
 
 ### Zubereitung
@@ -41690,7 +39455,6 @@ Info:	Wie immer gilt. Nur frischeste Eier und immer kühlstellen. Salmonellengef
 2-3 Äpfel (Boskop)
 
 Zuckerwasser (1 EL Zucker auf 2 Tassen Wasser)
-
 7 Eier
 
 4 Eigelb
@@ -41698,7 +39462,6 @@ Zuckerwasser (1 EL Zucker auf 2 Tassen Wasser)
 2 EL weiche Butter
 2 TL Zimt
 1 Vanilleschote
-
 350 g altbackenen Hefezopf
 
 Puderzucker zum Garnieren
@@ -41713,7 +39476,6 @@ Info:	Verschlupfen bedeutet im Schwäbischen, dass man etwas irgendwo reinschieb
 
 ## Ofenschlupfer noch einmal
 ### Zutaten (für 4 Portionen):
-
 800 g Äpfel
 
 8 Brötchen vom Vortag
@@ -41744,7 +39506,6 @@ Puderzucker zum Bestäuben
 ### Zutaten (für 8 Portionen)
 
 8 Scheiben TK-Blätterteig
-
 400 g Zwetschgen
 30 g Pistazienkerne
 2 Zwiebäcke
@@ -41762,7 +39523,6 @@ Puderzucker zum Bestäuben
 ¼ l Milch
 3 Eigelb
 1 Päckchen Vanillezucker
-
 25 g Puderzucker
 
 ### Zubereitungszeit
@@ -41803,11 +39563,9 @@ Etwas Zucker zum Bestreuen
 1 Prise Salz
 1 Prise Zucker
 125 g Mehl
-
 4 Eier
 
 *Für den Karamell:* 
-
 350 g Puderzucker
 
 ### Zubereitungszeit
@@ -41833,7 +39591,6 @@ Etwas Zucker zum Bestreuen
 120 g Butter
 3 EL brauner Zucker
 2 cl Calvados
-
 4 Eier
 6 EL Crème fraîche
 
@@ -41847,15 +39604,12 @@ Etwas Zucker zum Bestreuen
 
 ## Erdbeergratin
 ### Zutaten (für 4 Portionen):
-
 750 g Erdbeeren
 100 g Puderzucker und etwas zum Bestreuen
 1 Päckchen Vanillezucker
 
 1/8 l Weißwein
-
 4 EL Zitronensaft
-
 25 g Butter
 20 g Mehl
 
@@ -41876,9 +39630,7 @@ Abgeriebene Schale einer ½ Bio-Zitrone
 ### Zutaten (für 8 Portionen):
 
 *Für die Füllung:*
-
 750 g möglichst kleine Erdbeeren
-
 4 EL Orangenlikör
 
 *Für die Karamellsauce:*
@@ -41888,9 +39640,7 @@ Abgeriebene Schale einer ½ Bio-Zitrone
 2 EL Erdbeerlikör
 
 *Für die Pfannkuchen:*
-
 8 Eier
-
 5 EL Milch
 1 Prise Salz
 1 EL Zucker
@@ -41914,9 +39664,7 @@ Ich weiß nicht, ich weiß nicht…warum muss ich bei diesem Rezept immer an Pet
 ## Apfel-Cobbler
 ### Zutaten (für 6 Portionen)
 1 kg Äpfel (eher sauer), geschält und entkernt
-
 60 g Zucker
-
 25 g Butter, zerlassen
 1 TL abgeriebene Orangenschale
 2 EL frisch gepresster Orangensaft 
@@ -41941,7 +39689,6 @@ Ich weiß nicht, ich weiß nicht…warum muss ich bei diesem Rezept immer an Pet
 ## Bananenpudding mit Karamellsauce
 ### Zutaten (für 6-8 Portionen):
 150 g Butter
-
 140 g brauner Zucker
 250 g Mehl
 2 TL Backpulver
@@ -41952,14 +39699,12 @@ Ich weiß nicht, ich weiß nicht…warum muss ich bei diesem Rezept immer an Pet
 
 Etwas Vanille
 2 Eier, leicht geschlagen
-
 185 ml Buttermilch
 2 kleine, reife Bananen, zerdrückt
 
 *Für die Karamellsauce:*
 125 g Butter
 125 g brauner Zucker
-
 315 g Kondensmilch
 350 ml Sahne
 
@@ -41972,14 +39717,12 @@ Etwas Vanille
 
 ## Gebackener Zitronenpudding
 ### Zutaten (für eine ovale Form mit 26 cm Länge):
-
 25 g Butter (plus etwas mehr zum Fetten der Form)
 100 g Zucker
 3 Eier
 40 g Mehl
 1 TL Backpulver
 1 Prise Salz
-
 260 ml Milch
 
 Abrieb und Saft von 2 Bio-Zitronen
@@ -42000,17 +39743,13 @@ Bis vor kurzem habe ich geglaubt, Pudding komme aus der Tüte. Ich habe es einfa
 4 Scheiben Biskuitkuchen
 60 ml süßer Sherry oder Madeira
 250 g Himbeeren
-
 4 Eier
 2 EL Zucker
 2 EL Mehl
-
 500 ml Milch
 
 Etwas Vanille
-
 125 ml Sahne
-
 25 g Mandeln, gehobelt
 
 ### Zubereitungszeit
@@ -42032,7 +39771,6 @@ Info:	Trifles waren ursprünglich aromatische Cremes, die man im elisabethischen
 125 g feiner Zucker
 
 Schale von 1 Orange, gerieben
-
 185 ml Orangensaft
 3 EL Orangenlikör
 2 EL Weinbrand
@@ -42054,7 +39792,6 @@ Schale von 1 Orange, In Zesten geschnitten
 125 g Mehl
 1 Prise Salz
 1 Ei
-
 315 ml Milch
 30 g Butter, zerlassen
 
@@ -42069,13 +39806,11 @@ Zucker, Zitronensaft, Creme Double zum Servieren
 
 ## Ricotta-Crêpes mit Orangensauce
 ### Zutaten (für 4 Portionen):
-
 80 g Mehl
 1 Prise Salz
 1 Ei, leicht geschlagen
 350 ml Milch
 30 g Rosinen
-
 250 ml Orangensaft
 200 g Ricotta
 1 TL fein geriebene Orangenschale
@@ -42084,7 +39819,6 @@ Etwas Vanille
 
 *Für die Orangensauce:*
 50 g Butter
-
 60 g feiner Zucker
 
 ### Zubereitungszeit
@@ -42099,19 +39833,14 @@ Etwas Vanille
 ### Zutaten (für 4 – 6 Portionen):
 40 g Mehl
 2 EL Reismehl
-
 60 g Zucker
-
 25 g Kokosraspeln
 250 g Kokosmilch
 1 Ei, leicht geschlagen
 
 4 große Bananen
-
 60 g Butter
-
 60 g brauner Zucker
-
 80 ml Limettensaft
 1 EL gerösteten Kokosraspeln zum Servieren
 
@@ -42131,13 +39860,11 @@ Limettenzeste zum Verzieren
 2 TL Zucker
 2 Eier
 90 g Butter zerlassen
-
 440 ml Buttermilch
 
 *Für die Schokoladensauce:*
 50 g Butter
 200 g Bitterschokolade, zerkleinert
-
 125 ml Sahne
 1 TL Rohrzuckersirup
 
@@ -42151,10 +39878,8 @@ Limettenzeste zum Verzieren
 
 ## Mille Feuille
 ### Zutaten (für 6-8 Portionen):
-
 600 g Blätterteig
 600 ml Crème double
-
 500 g kleine Erdbeeren, halbiert
 70 g Blaubeeren, wahlweise
 
@@ -42169,10 +39894,8 @@ Limettenzeste zum Verzieren
 180 g Zucker
 
 *Für die Eiercreme:*
-
 750 ml Milch
 90 g feiner Zucker
-
 4 Eier
 2 Tropfen Vanillearoma
 
@@ -42189,14 +39912,11 @@ Limettenzeste zum Verzieren
 ## Spanische Orangencreme
 ### Zutaten (für 6 Portionen)
 3 Eier, getrennt
-
 160 g feiner Zucker
 2 TL abgeriebene Orangenschale
-
 125 ml Orangensaft, frisch gepresst
 
 1,5 EL Gelatine
-
 750 ml Milch
 
 ### Zubereitungszeit
@@ -42211,11 +39931,9 @@ Info:	Spanische Creme ist in England auch unter dem Namen Honeycomb Mould, Snow 
 
 ## Heißes Schoko-Soufflé
 ### Zutaten (für 6 Portionen)
-
 175 g gute Bitterschokolade, zerkleinert
 
 5 Eigelb, leicht geschlagen
-
 60 g feiner Zucker
 
 7 Eiweiß
@@ -42231,14 +39949,11 @@ Puderzucker zum Zerstäuben
 
 ## Gekühltes Limetten-Soufflé
 ### Zutaten (für 4 Portionen)
-
 5 Eier, getrennt
 250 g feiner Zucker
 2 TL feingeriebene Limettenschale
-
 185 ml Limettensaft, abgesiebt
 1 EL Gelatine
-
 315 ml Sahne, leicht geschlagen
 
 ### Zubereitungszeit
@@ -42251,7 +39966,6 @@ Puderzucker zum Zerstäuben
 
 ## Crème brûlée
 ### Zutaten (für 6 Personen):
-
 750 ml Sahne
 2 Vanilleschoten
 
@@ -42283,7 +39997,6 @@ Salz
 
 *Für die Himbeeren:*
 200 g Himbeeren
-
 60 g Zucker
 
 *Für die Eismasse:*
@@ -42319,14 +40032,11 @@ Salz
 
 *Für den Biskuit:*
 3 Eier
-
 60 g Zucker
-
 45 g Mehl
 10 g Kakopulver
 
 ½ Vanilleschote
-
 250 ml Schlagsahne
 
 Puderzucker zum Bestäuben
@@ -42345,9 +40055,7 @@ Puderzucker zum Bestäuben
 ## Himbeer-Parfait
 ### Zutaten (für 6 – 8 Portionen):
 200 g Zartbitterschokolade (55%)
-
 400 ml Sahne
-
 530 g Himbeeren (TK, davon 470 g auftauen lassen)
 1 Vanilleschote
 2 EL Himbeergeist
@@ -42386,15 +40094,11 @@ Salz
 ## Himbeer-Trifle
 ### Zutaten (für 8 Portionen):
 200 g Biskuitboden
-
 4 EL Himbeermarmelade
-
 180 ml Sherry
-
 400 g TK-Himbeeren
 1 Vanilleschote
 3 EL Speisestärke
-
 700 ml Milch
 
 4 Eigelb
@@ -42437,15 +40141,12 @@ Mark von 1 Vanilleschote
 
 ## Kaffee-Schokoladen-Mousse
 ### Zutaten (für 12 Portionen)
-
 500 ml Kaffee
 3 Zimtstangen
 150 g weiße Kuvertüre
 
 5 Blatt weiße Gelatine
-
 4 Eier
-
 500 ml Sahne
 200 ml Schokoladensauce 
 
@@ -42460,7 +40161,6 @@ Mark von 1 Vanilleschote
 1 kg Zuckermelone
 
 Saft von ½ Zitrone
-
 120 ml Apfelsaft
 
 10 Blätter frische Minze
@@ -42516,11 +40216,9 @@ Info:	 Vorsicht die Füllung ist heiß, also nicht verbrennen!
 
 ## Frittierte Äpfel mit Zuckerfäden - Ba Si Ping Guo
 ### Zutaten (für 4 Portionen):
-
 350 g Äpfel
 
 Etwa 70 g Maisstärke
-
 400 g Pflanzenöl
 50 g Zucker
 
@@ -42538,7 +40236,6 @@ Etwa 70 g Maisstärke
 
 ## Deftige Pfannkuchen – Jia Chang Bing
 ### Zutaten (für 5 Portionen):
-
 500 g Mehl
 50 g Pflanzenöl
 1 TL Salz
@@ -42560,7 +40257,6 @@ Etwa 70 g Maisstärke
 
 3/8 Mineralwasser
 50 g Butter
-
 400 g Sahnequark
 3 EL Zucker
 50 g Rosinen
@@ -42570,7 +40266,6 @@ Etwa 70 g Maisstärke
 1 EL Rum
 
 1/16 l saure Sahne
-
 60 g geröstete Mandelblättchen
 
 ### Zubereitung
@@ -42585,11 +40280,8 @@ Tipp:	 Palatschinken ist das österreichische Wort für Pfannkuchen😊
 ## Sauerkirschauflauf
 ### Zutaten
 500 g Sauerkirschen
-
 5 EL Zucker
-
 5 EL Rosinen
-
 500 g Magerquark
 2 Eigelb
 2 EL Zucker
@@ -42609,13 +40301,10 @@ Tipp:	 Palatschinken ist das österreichische Wort für Pfannkuchen😊
 
 ## Belgische Waffeln
 ### Zutaten (für 16 Stück):
-
 150 ml Milch
-
 500 g Mehl
 
 ½ Würfel Hefe (20 g)
-
 175 g Butter
 50 g Vanillezucker
 3 Eier
@@ -42679,7 +40368,6 @@ Kakaopulver oder Puderzucker zum Bestäuben
 
 4 – 5 Passionsfrüchte
 1 Vanilleschote
-
 350 g Sahne
 
 80 – 100 g Zucker
@@ -42732,7 +40420,6 @@ Kakaopulver oder Puderzucker zum Bestäuben
 250 g Quark (20% Fett)
 6 kleine Aprikosen 
 6 Stück Würfelzucker
-
 25 g zimmerwarme Butter
 
 ½ TL fein angeriebene Zitronenschale
@@ -42742,11 +40429,8 @@ Feines Meersalz
 50 g Mehl
 
 *Für die Brösel:*
-
 60 g Butter
-
 25 g gemahlene Haselnüsse
-
 80 g Semmelbrösel
 
 ### Zubereitungszeit
@@ -42767,7 +40451,6 @@ Feines Meersalz
 10 g frische Hefe
 
 1/8 l Milch
-
 25 g Butter
 1 Eigelb
 2 EL Zucker
@@ -42776,14 +40459,12 @@ Feines Meersalz
 
 Für den Mohnzucker:
 50 g gemahlener Mohn
-
 25 g Puderzucker
 
 *Für die Sauce:*
 1 Vanilleschote
 
 ½ l Milch
-
 60 g Zucker
 1 Prise Salz
 
@@ -42849,7 +40530,6 @@ Schale von ½ Zitrone
 ½ TL Würfel Hefe
 
 1/8 l Milch
-
 25 g Butter
 1 Eigelb
 3 EL Zucker
@@ -42871,7 +40551,6 @@ Tipp:	Mein Rekord bei Zwetschgenknödeln liegt bei 15 Stück!!! Das ist das einz
 
 ## Rhabarbercrumble
 ### Zutaten (für 4 Portionen):
-
 600 g Rhabarber
 200 g Mehl
 100 g alte Butter
@@ -42888,9 +40567,7 @@ Tipp:	Mein Rekord bei Zwetschgenknödeln liegt bei 15 Stück!!! Das ist das einz
 ### Zutaten (für 4 -6 Portionen):
 100 g Mehl
 100 g Butter
-
 80 g Zucker
-
 80 g gemahlene Mandeln
 1 Stück Ingwer (ca. 1 cm lang)
 250 g Erdbeeren
@@ -42930,7 +40607,6 @@ Tipp:	Mein Rekord bei Zwetschgenknödeln liegt bei 15 Stück!!! Das ist das einz
 8 Stück Würfelzucker
 Salz
 1 Paket Knödelteig (750 g aus dem Kühlregal)
-
 4 EL Butter
 6 EL Semmelbrösel
 
@@ -42945,7 +40621,6 @@ Zimtpulver
 
 ## Pfirsich-Tiramisu
 ### Zutaten (für 4 – 6 Portionen)
-
 900 g reife Pfirsiche
 75 g Zucker
 250 g Mascarpone
@@ -42971,9 +40646,7 @@ Tipp: man kann das auch mit Aprikosen oder Nektarinen machen.
 5 Blatt weiße Gelatine
 1 Zitrone
 2 Eigelb
-
 110 g Zucker
-
 500 g Magerquark
 200 g Sahne
 300 g rote Grütze
@@ -42989,7 +40662,6 @@ Tipp: man kann das auch mit Aprikosen oder Nektarinen machen.
 200 g Bitterschokolade
 
 4 Eigelbe
-
 100 ml Orangensaft
 200 g Sahne
 
@@ -43003,7 +40675,6 @@ Tipp: man kann das auch mit Aprikosen oder Nektarinen machen.
 ## Kokos-Milchreis mit Ananas
 ### Zutaten (für 4 Portionen):
 1 Zitrone
-
 400 ml Kokosmilch
 600 ml Reismilch
 
@@ -43026,12 +40697,10 @@ Salz
 
 ## Quark brûlé
 ### Zutaten (für 4 Portionen):
-
 750 g Speisequark (40 % Fett)
 1 Vanilleschote
 30 g Puderzucker
 1 TL fein abgeriebene Zitronenschale
-
 4 EL Zucker
 
 … und das entsprechende Werkzeug
@@ -43056,16 +40725,13 @@ Abrieb von 1 Bio-Zitrone
 Vanilleeis
 
 *Für den Teig:*
-
 140 g Butter
 180 g Mehl
 90 g Zucker
 1 Prise Salz
 
 1,5 TL Backpulver
-
 150 ml Milch
-
 60 g Haselnüsse
 
 ### Zubereitung
@@ -43080,14 +40746,11 @@ Der Birnen-Cobbler, dieser süße Obstauflauf, spielt eine Nebenrolle im „Der 
 
 ## Birnen-Schaumpfannkuchen
 ### Zutaten (für 2 Portionen):
-
 25 g Zartbitterschokolade
 20 g Butter
-
 60 g Mehl
 1 Msp. Backpulver
 Salz
-
 100 ml Milch
 1 Ei
 35 g Zucker
@@ -43105,12 +40768,10 @@ Salz
 ### Zutaten (für 4 Portionen)
 1 Vanilleschote
 2 Bio-Orangen
-
 500 g Ricotta
 150 g griechischer Joghurt (10 % Fett)
 
 8 Löffelbiskuits
-
 160 ml stark aufgebrühter Kaffee
 
 4 TL Pistazienkerne (gehackt)
@@ -43125,7 +40786,6 @@ Salz
 
 ## Quarkschmarrn mit roter Grütze
 ### Zutaten (für 4 Portionen)
-
 350 g Erdbeeren
 250 g Rote Johannisbeeren
 250 g Himbeeren
@@ -43153,13 +40813,10 @@ Salz
 1 Bio-Orange
 200 g Zwetschgen
 20 g Butter
-
 80 g Zucker
-
 100 ml dunkler Traubensaft
 2 Eier
 2 EL Mehl
-
 100 ml Milch
 125 g Magerquark
 
@@ -43188,7 +40845,6 @@ Pfeffer
 1 Nelke
 1 Zimtstange
 1 Sternanis
-
 500 g Erdbeeren
 
 Außerdem: 4 flache ofenfeste Förmchen
@@ -43203,14 +40859,11 @@ Außerdem: 4 flache ofenfeste Förmchen
 ### Zutaten (für 6 – 8 Portionen)
 
 Zwetschgenmus
-
 400 g Zwetschgen
 100 g Zucker
-
 50 ml Orangensaft
 
 *Für die Buchteln:*
-
 100 ml Milch
 40 g Zucker
 20 g Hefe
@@ -43228,9 +40881,7 @@ Puderzucker zum Bestäuben
 
 *Für den Sabayon*
 40 g Zucker
-
 50 ml Orangensaft
-
 70 ml Marsala
 
 4 Eigelb
@@ -43253,12 +40904,9 @@ Zum Füllen der Buchteln zuerst den Hefeteig zu einer Rolle formen. Die Rolle da
 ### Zutaten (für 4 Portionen)
 
 Pimentzwetschgen
-
 500 g Zwetschgen
 120 g Zucker
-
 150 ml Weißwein
-
 50 ml Pflaumensaft
 
 4 Pimentkörner (leicht angedrückt)
@@ -43284,18 +40932,14 @@ Pimentzwetschgen
 
 ## Schokoladen-Aprikosen-Auflauf (Clafoutis)
 ### Zutaten (für 4 Portionen):
-
 500 g Aprikosen
 100 g Mehl
 15 g Kakaopulver
 1 Prise Salz
 100 g Zucker
 1 Pk. Vanillezucker
-
 4 Eier
-
 100 ml Milch
-
 150 ml Schlagsahne
 50 g Haselnussmus
 2 TL Puderzucker
@@ -43317,13 +40961,11 @@ Pimentzwetschgen
 300 g schwarze Johannisbeeren
 1 Vanilleschote
 70 g Zucker
-
 150 ml schwarzer Johannisbeernektar
 3 EL Cassis (schwarzer Johannisbeerlikör)
 1 TL Vanillepuddingpulver
 
 *Für die Pancakes:*
-
 25 g Butter
 2 Eier
 200 ml Buttermilch
@@ -43332,7 +40974,6 @@ Pimentzwetschgen
 1 TL Backpulver
 Salz
 300 g rote Johannisbeeren
-
 25 g Amaretti-Kekse
 
 Je 4-5 TL Butter und Öl
@@ -43350,7 +40991,6 @@ Je 4-5 TL Butter und Öl
 ## Crème brûlée mit Lavendel
 ### Zutaten (für 4 Portionen)
 1 Vanilleschote
-
 100 ml Milch
 1 Pk. Vanillezucker
 350 ml Schlagsahne
@@ -43373,7 +41013,6 @@ Außerdem 4 ofenfeste Förmchen
 ## Mandelwaffeln
 ### Zutaten für 6 Stück
 50 g gehackte Mandeln
-
 80 g Mandelmehl
 40 g gemahlene Mandeln
 50 g Zucker
@@ -43381,9 +41020,7 @@ Außerdem 4 ofenfeste Förmchen
 Salz
 1 TL Backpulver
 50 g sehr weiche Butter
-
 450 g Sahnejoghurt
-
 4 Eier
 
 1-2 EL Öl für das Waffeleisen
@@ -43400,25 +41037,21 @@ Salz
 
 ## Schokowaffeln
 ### Zutaten (für 6 Stück)
-
 80 g weiche Butter
 50 g Zucker
 
 ¼ TL Zimt
 Salz
-
 4 Eier
 50 g gemahlene Haselnusskerne
 20 g Kakao
 40 g Kokosmehl
 1 TL Backpulver
 100 g Speisequark
-
 50 ml Milch
 
 1-2 EL Öl für das Waffeleisen
 250 g Erdbeeren
-
 150 ml Schlagsahne
 
 ### Zubereitungszeit
@@ -43455,13 +41088,10 @@ Tipp:	Mit Erdbeersauce aus 150 g pürierten TK-Erdbeeren (aufgetaut) und 1 TL Ko
 
 ## Nochmal Apfelpfannkuchen
 ### Zutaten für 4-5 Portionen
-
 400 g Mehl
 
 ½ frischer Hefewürfel
-
 500 ml Milch 
-
 4 Eier
 6 EL Zucker
 100 g weiche Butter (zwei Drittel für den Teig, ein Drittel zum Braten)
@@ -43491,11 +41121,9 @@ Schmand oder Crème fraîche, wenn man will
 
 ## Milchreis mit Pistazien
 ### Zutaten (für 4-6 Portionen):
-
 4 EL Rosinen
 1 l Milch
 100 g Basmatireis2 EL Mandelstifte
-
 5 EL Zucker
 
 ½ TL Kardamonpulver
@@ -43544,13 +41172,11 @@ Bananen schälen und in Stücke schneiden. Honig und Zucker mit 3 EL Wasser in d
 ## Pancake
 ### Zutaten
 3 Eier
-
 250 ml Milch
 150 g Mehl
 1 Prise Salz
 50 g Vanillezucker
 10 g Zucker
-
 25 g Butter
 
 Puderzucker
@@ -43569,7 +41195,6 @@ Puderzucker
 Saft von ½ Limette
 15 ml Kokoslikör
 2 Blatt Gelatine
-
 150 ml Sahne
 
 ½ TL Chilipulver
@@ -43620,9 +41245,7 @@ VORSICHT:	Kirschen sind nicht entsteint, daher äußerste Vorsicht beim Zubeiße
 ½ Zitronenschale, fein abgerieben
 35 g Puderzucker
 2 Blatt Gelatine oder 5 g Agar-Agar
-
 25 ml Rum (ersatzweise Orangensaft)
-
 180 ml Sahne
 
 Frische Früchte
@@ -43630,7 +41253,6 @@ Frische Früchte
 *Für die gebrannten Mandeln:* 
 50 g Mandeln, geschält
 50 g Zucker
-
 20 ml Wasser
 1 TL Öl
 1 Prise Fleur de Sel
@@ -43654,7 +41276,6 @@ Gebrannte Mandeln
 ### Zutaten (für 4 Personen):
 
 *Für die Vanillecreme:*
-
 150 ml Milch
 20 g Speisestärke
 200 ml Sahne
@@ -43708,7 +41329,6 @@ Meersalzflocken
 100 g Butter
 2 Eier
 2 Eigelb
-
 60 g Zucker
 50 g Mehl
 
@@ -43720,7 +41340,6 @@ Puderzucker zum Bestäuben
 *Für die Safran-Honigbirnen:*
 
 4 mittelgroße Birnen
-
 100 ml Weißwein
 300 ml Wasser
 50 g Honig
@@ -43749,16 +41368,13 @@ Vorbereitungszeit: 30 Minuten, Backzeit: 23 Minuten
 ### Zutaten (für 4 Personen):
 
 Für die Ziegenkäsecreme
-
 140 g frischer, ganz junger Ziegenkäse (Zimmertemperatur)
 50 g Zucker
-
 120 ml Milch
 2 (große) Eigelb
 1 Prise Vanilleextrakt
 
 *Für die Rotwein-Erdbeeren*
-
 120 ml Rotwein
 50 g Zucker
 100 g Erdbeeren
@@ -43774,7 +41390,6 @@ Vorsicht:	Immer frische Lebensmittel verwenden und besser nicht probieren. Salmo
 ## Schoko-Haselnuss-Omelette
 ### Zutaten (für 4 Personen):
 3 EL feingehackte Haselnüsse
-
 60 g dunkle Schokolade, grob zerkleinert
 
 4 Eigelb
@@ -43801,14 +41416,11 @@ Salz
 30 g Kakaopulver
 180 g Zucker
 90 g Butter, zerlassen
-
 180 ml Milch
 2 Eier, leicht verquirlt
 
 *Für die Sauce:*
-
 375 ml Milch
-
 250 ml Wasser
 
 180 - 190 g dunkle Schokolade, zerkleinert
@@ -43840,11 +41452,9 @@ Puderzucker zum Dekorieren
 ## Dattelpudding
 ### Zutaten (für 6-8 Personen)
 200 g Datteln, entsteint und gehackt
-
 250 ml Wasser
 1 TL Natron
 100 g Butter
-
 160 g Zucker
 2 Eier, leicht verquirlt
 
@@ -43854,7 +41464,6 @@ Vanille (frisch oder Paste)
 
 *Für die Sauce:*
 180 g feiner brauner Zucker
-
 125 ml Sahne
 100 g Butter
 
@@ -43870,12 +41479,9 @@ Vanille (frisch oder Paste)
 ### Zutaten
 100 g Vollmilch-Schokolade
 100 g Zartbitter-Schokolade
-
 4 Eier
 100 g Minzezucker
-
 500 ml Sahne
-
 50 ml Minzelikör
 
 Schokoblüten: einige Pfefferminzblüten
@@ -43907,9 +41513,7 @@ Ca. 50 g Zartbitter-Kuvertüre
 4 Brötchen vom Vortag
 
 ½ l Milch
-
 600 g Sauerkirschen (oder ein Glas abgetropfter Sauerkirschen)
-
 4 Eier
 70 g Butter
 125 g Zucker
@@ -43929,7 +41533,6 @@ Ca. 50 g Zartbitter-Kuvertüre
 *Für den Sirup*
 
 Fruchtfleisch von 6 Passionfruits
-
 4 EL Ahornsirup (oder klarer Honig)
 1 Stück frischer Ingwer (etwa 1 cm), geschält und gerieben
 
@@ -43940,7 +41543,6 @@ Mark von 1 Vanilleschote
 *Für den Teig:*
 225 g Mehl
 3 große Eier
-
 450 ml Milch
 1 EL geschmolzenes Kokosfett plus etwas Fett zum Braten
 1 Prise Meersalz
@@ -43962,9 +41564,7 @@ Mark von 1 Vanilleschote
 
 4 feste würzige Äpfel (z.B. Renetten)
 90 g Butter
-
 4 EL Mehl
-
 4 Eier
 6 EL Puderzucker
 
@@ -44022,11 +41622,9 @@ Tipp:	Dem Original noch etwas näher kommt ein knuspriger Mürbeteig: 200 g Mehl
 
 ## Backpflaumen in Rotweinsirup
 ### Zutaten (für 4 Portionen)
-
 500 g Backpflaumen ohne Stein
 
 ½ l Bordeaux-Rotwein
-
 8 EL Puderzucker
 1 Vanilleschote
 1 Prise gemahlener Zimt
@@ -44042,7 +41640,6 @@ Tipp:	Die Pflaumen schmecken gut zu Milchreis oder zu trockenem Kuchen.
 
 ## Erdbeerbecher mit Pfeffer
 ### Zutaten (für 4 Portionen)
-
 600 g Erdbeeren
 120 g Zucker
 200 g Crème fraîche
@@ -44064,7 +41661,6 @@ Pfeffer aus der Mühle
 
 4 reife Birnen
 180 g Makronen
-
 80 g Butter
 75 g Zucker
 1 Päckchen Vanillezucker
@@ -44124,10 +41720,8 @@ Etwa 1 kg Himbeeren in Sirup (Dose oder Glas)
 ### Zutaten (für 4 Portionen)
 20 g Butter
 6 EL Zucker
-
 4 Eier
 1 Päckchen Vanillezucker
-
 400 ml Milch
 
 ### Zubereitungszeit
@@ -44147,7 +41741,6 @@ Tipp:	Wenn man die Creme in Portionsförmchen füllt, lässt sie sich leichter s
 1 Prise Salz
 1 EL Zucker
 125 g Mehl
-
 5 Eier
 2 EL gehackte Mandeln
 
@@ -44170,11 +41763,9 @@ Tipp: 	Die Windbeutel mit Vanille- oder Schokoladencreme füllen
 ## Tiramisu
 ### Zutaten (für 8 Portionen)
 1 unbehandelte Zitrone
-
 500 g Mascarpone
 
 4 Eigelb
-
 4 EL Zucker
 2 Tässchen kalter Espresso
 
@@ -44196,7 +41787,6 @@ Ungesüßtes Kakaopulver
 
 ## Panna cotta
 ### Zutaten (für 4-6 Portionen)
-
 500 g Sahne
 1 Vanilleschote
 50 g Zucker
@@ -44217,7 +41807,6 @@ Karamellsirup (oder frische Früchte) zum Garnieren
 150 g feiner Zucker
 1 Vanilleschote
 6 Eier
-
 4 EL Kristallzucker
 
 ### Zubereitungszeit
@@ -44232,12 +41821,9 @@ Karamellsirup (oder frische Früchte) zum Garnieren
 ### Zutaten (für 5 Portionen):
 
 5 reife Pfirsiche
-
 4 EL trockener Vermouth
-
 4 EL klarer Honig
 1 Vanilleschote
-
 60 g geschälte Pistazienkerne, fein gehackt
 
 Vanilleeis, Joghurt oder Mascarpone
@@ -44255,16 +41841,13 @@ Vanilleeis, Joghurt oder Mascarpone
 150 g Mehl
 
 ¼ l Milch
-
 4 Eier
 2 TL abgeriebene Orangenschale
-
 4 EL Puderzucker
 
 4 mittelgroße Äpfel (z.B. Boskop oder Braeburn)
 2 EL Zitronensaft
 3 EL Butter zum Braten
-
 500 ml Vanille-/oder Walnusseis
 1 Prise Salz
 
@@ -44286,11 +41869,9 @@ Minzeblättchen zum Garnieren
 1 EL Backpulver
 2 EL Zucker
 2 Eier
-
 400 ml Buttermilch
 Salz
 3 EL Butterschmalz zum Ausbacken
-
 4 EL Ahornsirup zum Beträufeln
 
 ### Zubereitungszeit
@@ -44302,19 +41883,14 @@ Salz
 
 ## Wiener Kaiserschmarren
 ### Zutaten (für 4 Portionen):
-
 5 Eier
-
 80 g Puderzucker
 
 ¼ l Milch
 125 g Sahne
 200 g Mehl
-
 60 g Butter
-
 80 g Rosinen (Kann man auch weglassen)
-
 80 g Mandelblättchen (Kann man auch weglassen)
 Salz
 
@@ -44327,7 +41903,6 @@ Salz
 
 ## Pflaumencrumble mit Nüssen und Zimt
 ### Zutaten (für 4 Personen):
-
 800 g Pflaumen
 
 Butter für die Form
@@ -44357,7 +41932,6 @@ Tipp:	Bei den Früchten hat man freie Wahl, denn auch Äpfel, Birnen oder Pfirsi
 ## Frische Erdbeeren mit Limetten-Quark-Creme
 ### Zutaten (für 4 Personen):
 1 unbehandelte Limette
-
 600 g Erdbeeren
 250 g Speisequark
 200 g Naturjoghurt
@@ -44403,7 +41977,6 @@ Tipp:	Bei den Früchten hat man freie Wahl, denn auch Äpfel, Birnen oder Pfirsi
 200 g Mehl
 
 ¼ l Milch
-
 4 Eier (2 davon getrennt)
 Salz
 2 säuerliche Äpfel (z.B. Boskoop; etwa 200 g)
@@ -44414,7 +41987,6 @@ Weißer Pfeffer
 
 Frisch geriebene Muskatnuss
 2 EL Butterschmalz
-
 4 EL Wild-Preiselbeeren (aus dem Glas)
 
 ### Zubereitungszeit
@@ -44447,13 +42019,11 @@ Wichtig:	Wegen Salmonellengefahr nicht aufheben, sondern gleich essen.
 
 ## Crème au Caramel
 ### Zutaten (für 6 Portionen):
-
 8 EL Zucker
 
 ½ l Milch
 1 Prise Salz
 1 Vanilleschote
-
 4 Eier
 
 ### Zubereitungszeit
@@ -44468,12 +42038,10 @@ Wichtig:	Wegen Salmonellengefahr nicht aufheben, sondern gleich essen.
 
 ## Simons Panna Cotta
 ### Zutaten (für 4-6 Portionen):
-
 500 g Sahne
 50 g Zucker
 1 Vanilleschote
 2 Blatt weiße Gelantine
-
 400 g Sauerkirschen
 2 cl Marsala oder Amaretto oder Kirschsaft aus dem Glas
 
@@ -44496,16 +42064,13 @@ Dieses Pana cotta ist Simons Spezialität und an Weihnachten immer der obligator
 12-16 Dolden Holunderbeeren (ca. 200 g)
 50 g (Vanille)Zucker
 1 EL frisch gepresster Zitronensaft
-
 350 g Sahne
 2 Blatt weiße Gelatine
 
 *Für den Sirup:*
 
 10-14 Dolden Holunderbeeren (ca. 175 g)
-
 25 g Vanillezucker
-
 25 g Zucker
 1 EL frisch gepresster Zitronensaft
 
@@ -44524,7 +42089,6 @@ Info:	Vorsicht beim Verarbeiten von Holunder – er hinterlässt hartnäckige Fl
 ### Zutaten (für 8 Portionen):
 
 *Für die Grütze:*
-
 500 g rote Johannisbeeren
 125 g Sauerkirschen
 125 g Himbeeren
@@ -44565,13 +42129,10 @@ Info:	Rote Grütze ist überall in Norddeutschland und in Dänemark beliebt, ent
 ½ unbehandelte Orange
 
 4-6 frische Minzeblättchen
-
 450 g Vollmilch-Joghurt (3,5%)
-
 4 EL Sahne (oder Milch)
 1 Päckchen Vanillezucker
 1 EL Zucker
-
 500 g kleine Erdbeeren
 1 EL Puderzucker zum Bestäuben
 
@@ -44587,7 +42148,6 @@ Info:	Rote Grütze ist überall in Norddeutschland und in Dänemark beliebt, ent
 ### Zutaten (für 4 Portionen):
 50 g Butter
 2 Eier
-
 150 ml Milch
 1 Prise Salz
 1 EL Zucker
@@ -44615,9 +42175,7 @@ Info:	Beim Originalrezept Crêpes Suzette werden die gebackenen Pfannkuchen in d
 
 ## Espressoschaum mit Zimt-Zwetschgen
 ### Zutaten für 4 Portionen
-
 500 g Zwetschgen
-
 4 EL Zucker
 
 ¼ TL Zimtpulver
@@ -44645,7 +42203,6 @@ Unbehandelte Zitronenschale zum Dekorieren
 
 Je 150 g Edelbitter-Schokolade und Vollmilch-Schokolade
 1 Tässchen starker Espresso
-
 5 Eier
 2 EL Vanillezucker
 125 g Sahne (gut durchgekühlt)
@@ -44693,7 +42250,6 @@ Schokoladen-Minze-Täfelchen oder Mokkabohnen
 Etwa 50 g Zucker
 
 ½ unbehandelte Zitrone
-
 4 Eier
 1 Prise Salz
 
@@ -44721,9 +42277,7 @@ Puderzucker zum Bestäuben
 2 Eiweiß
 125 g Kokosraspel
 100 g Löffelbiskuits
-
 4 EL Kokoslikör oder frisch ausgepresster Orangensaft
-
 500 ml Walnusseis
 
 ### Zubereitungszeit
@@ -44744,7 +42298,6 @@ Puderzucker zum Bestäuben
 1 Zimtstange
 
 3-4 EL Campari
-
 500 ml Joghurteis mit Blutorange oder Vanilleeis
 
 ### Zubereitungszeit
@@ -44758,7 +42311,6 @@ Puderzucker zum Bestäuben
 
 ## Quarkschmarrn mit roter Grütze (2. 153)
 ### Zutaten (für 4 Portionen):
-
 350 g Erdbeeren
 250 g rote Johannisbeeren
 250 g Himbeeren
@@ -44808,7 +42360,6 @@ Orangensaft
 
 *Für den Pudding:*
 150 g brauner oder weißer Rundkornreis
-
 800 ml (Mandel-) Milch (Pflanzenmilch eben)
 1 Prise Salz
 125 g blanchierte Mandeln, gehobelt
@@ -44846,7 +42397,6 @@ Saft (250 ml) und Schale von 2 großen Bioorangen
 *Für den Sirup*
 
 Fruchtfleisch von 6 Passionsfrüchte
-
 4 EL Ahornsirup (oder klarer Honig)
 1 Stück frischer Ingwer (1 cm), geschält und gerieben
 
@@ -44857,7 +42407,6 @@ Mark von 1 Vanilleschote
 *Für den Teig:*
 225 g Mehl
 3 große Eier
-
 450 ml Milch
 1 EL geschmolzenes Kokosfett
 1 Prise Salz
@@ -44887,7 +42436,6 @@ Kerne von 1 Granatapfel
 
 ## Rhabarber mit Orange
 ### Zutaten (für 4 -6 Portionen):
-
 750 g Rhabarber
 
 4 Blutorangen
@@ -44906,9 +42454,7 @@ Kerne von 1 Granatapfel
 2 Eiweiß
 70 g Puderzucker plus weitere 20 g für die Schlagsahne
 70 g Haselnüsse
-
 400 g Erdbeeren
-
 250 ml Schlagsahne
 
 ### Zubereitung
@@ -44932,7 +42478,6 @@ Diese Erdbeer-Süßspeise heißt nach dem Eton College in der Grafschaft Berkshi
 4-6 Aprikosen
 
 2-3 EL Vanillezucker
-
 400 g Sahne
 200 g Crème fraîche
 
@@ -44952,7 +42497,6 @@ Diese Erdbeer-Süßspeise heißt nach dem Eton College in der Grafschaft Berkshi
 2 Zimtstangen
 2 Kardamomkapseln
 2 Stück Sternanis
-
 500 ml Wasser
 
 ### Zubereitungszeit
@@ -44987,13 +42531,10 @@ Es ist in Berlin Mitte verboten, Capuccino mit Schlagsahne zu bestellen. Cappucc
 ## Schokoladenkuchen mit Himbeeren
 ### Zutaten (für eine Springform mit 22 cm Durchmesser)
 300 g dunkle Schokolade (70 % Kakaoanteil)
-
 4 Eier
 1 Prise Salz
-
 130 g Puderzucker
 200 g Crème fraîche
-
 25 g Mehl
 
 Etwas Butter zum Einfetten der Form
@@ -45016,7 +42557,6 @@ Dies ist ein eleganter Schokoladenkuchen, auch „fondant au chocolar et aux fra
 150 g Mehl
 1 guter TL Backpulver
 120 g Butter plus ein wenig für das Einfetten der Form
-
 140 g Zucker
 3 Eier
 
@@ -45037,22 +42577,18 @@ Dieser Gâteau au yaourt ist ein Kuchen, den in Frankreich schon die Kinder in d
 ### Zutaten (für eine Springform mit 26 cm Durchmesser):
 
 *Für den Teig:*
-
 4 Eier
-
 170 g Zucker
 200 g gemahlene Mandeln (ohne Schale)
 90 g Grieß
 2 g Backpulver
 1 TL Natron
 125 g griechischer Joghurt
-
 170 g Olivenöl
 
 Etwas Butter für die Form
 
 *Für den Sirup:*
-
 120 ml Wasser
 1 Zweig Salbei
 1 Zweig Minze
@@ -45071,13 +42607,10 @@ Nach Belieben Schmand zum Servieren
 
 ## Hefezopf ohne Butter
 ### Zutaten (für einen Zopf):
-
 375 g Dinkelvollkornmehl
-
 375 g Weizenmehl 
 1 Würfel frische Hefe
 90 g Zucker
-
 375 g Hafermilch (oder normale Milch)
 2 mittelgroße Eier
 
@@ -45093,7 +42626,6 @@ Dieser Zopf ist schön groß, so soll er auch sein. Er hält, wie ein Brot, fün
 ## Aprikosentörtchen
 ### Zutaten (für 6 Portionen):
 3 Aprikosen
-
 80 g Amaretti
 1 EL Aprikosenmarmelade
 1 EL Amaretto
@@ -45102,7 +42634,6 @@ Dieser Zopf ist schön groß, so soll er auch sein. Er hält, wie ein Brot, fün
 
 4 Eigelb
 1 Ei
-
 5 g Vanillezucker
 200 g Mehl
 50 g Speisestärke
@@ -45113,7 +42644,6 @@ Schale von 1 Biozitrone
 *Für die Karamell-Aprikosen:*
 6 Aprikosen
 200 g Zucker
-
 400 ml Mineralwasser mit Kohlensäure
 20 g Speisestärke
 50 g Butter
@@ -45135,7 +42665,6 @@ Saft von 1 Zitrone
 1 Prise Salz
 50 g Butter
 250 g Milch
-
 5 EL klarer Honig oder Ahornsirup
 250 g helles Dinkelmehl
 150 g Vollkorn-Dinkelmehl
@@ -45143,7 +42672,6 @@ Saft von 1 Zitrone
 
 *Füllung:*
 50 g Butter (Zimmertemperatur)
-
 120 ml Apfelmus
 1 Apfel, gerieben, überschüssigen Saft ausgepresst
 2 EL getrocknete Kokosraspeln
@@ -45168,11 +42696,8 @@ Die Schnecken schmecken super, aber diese Falterei und Herumdreherei überforder
 1 Rolle Blätterteig
 2 EL geröstete und gemahlene Mandeln
 2 Äpfel
-
 100 ml Sahne
-
 100 ml Milch
-
 60 g Zucker
 1 Vanilleschote
 2 Eier
@@ -45181,7 +42706,6 @@ Puderzucker
 
 *Für die Karamellsauce:*
 150 g Zucker
-
 50 ml Wasser
 125 g Sahne
 1 Prise Fleur de Sel
@@ -45204,18 +42728,14 @@ Vorbereitungszeit: 20 Minuten, Backzeit: 40 Minuten
 ## Nochmal eine Apfeltarte mit Karamell  -Tarte Tatin
 ### Zutaten (für 1 Tarte):
 250 g Blätterteig
-
 600 g Äpfel
 100 g Zucker
-
 4 EL Wasser
 40 g Butter
 
 *Für die Sauce:*
 100 g Zucker
-
 4 EL Wasser
-
 125 ml Sahne
 40 g Butter
 
@@ -45234,7 +42754,6 @@ Die Tarte schmeckt auch ohne Sauce, so wie auch die Sauce ohne Tarte schmeckt �
 
 *Für den Mürbeteig*
 100 g weiche Butter
-
 80 g Zucker
 1 Ei
 200 g Mehl
@@ -45261,7 +42780,6 @@ Die Tarte schmeckt auch ohne Sauce, so wie auch die Sauce ohne Tarte schmeckt �
 250 g Mehl
 75 g Zucker
 1 Ei
-
 100 ml Olivenöl
 
 Abrieb von 1 Bio-Zitrone
@@ -45270,10 +42788,8 @@ Salz
 *Für den Belag:*
 1 kg Pfirsiche
 75 g gemahlene Mandeln
-
 4 EL Honig
 3 EL Olivenöl
-
 25 g gehackte Pistazien
 
 ### Zubereitung
@@ -45291,19 +42807,15 @@ Für diese Tarte werden die Pfirsiche gehäutet, und während dieser etwas glits
 
 *Für den Teig:*
 180 g Mehl
-
 60 g Puderzucker
 
 ¼ TL Salz
-
-9 El Butter (kalt)
+9 EL Butter (kalt)
 1 großes Eigelb
 
 *Für die Füllung:*
-
 250 ml Sahne
 225 g dunkle Schokolade
-
 4 EL Butter
 
 ### Zubereitung
@@ -45315,14 +42827,12 @@ Für diese Tarte werden die Pfirsiche gehäutet, und während dieser etwas glits
 ## Ricottakuchen mit Himbeeren
 ### Zutaten (für eine Springform mit 22 cm Durchmesser (oder so):
 1 TL Sonnenblumenöl
-
 190 g Mehl (Typ 550)
 180 g Zucker
 2 TL Backpulver
 
 ¾ TL Salz
 3 Eier
-
 375 g Ricotta
 
 Mark von 1 Vanilleschote
@@ -45351,7 +42861,6 @@ Mark von 1 Vanilleschote
 
 5 große Zwiebeln
 2 EL Öl
-
 4 Eier
 300 g Crème fraîche
 1 TL Kümmel
@@ -45369,13 +42878,11 @@ Neuen Wein aufmachen und zum Zwiebelkuchen trinken
 ### Zutaten (für 1 Blech):
 
 *Für den Hefeteig:*
-
 500 g Mehl
 300 ml lauwarme Milch
 2 EL lauwarme Milch zum Auflösen der Hefe
 
 1/2 Würfel frische Hefe (21 g)
-
 60 g Butter
 
 ½ EL Salz
@@ -45385,7 +42892,6 @@ Neuen Wein aufmachen und zum Zwiebelkuchen trinken
 1,2 rote oder weiße Zwiebeln
 300 g geräucherter Speck
 300 g saure Sahne
-
 4 Eier
 Salz, Pfeffer, Muskatnuss
 
@@ -45399,7 +42905,6 @@ Tipp:	Dazu passt am besten neuer Süsser (so heißt es in Schwaben) oder Federwe
 
 ## Clafoutis mit Kirschen
 ### Zutaten (für eine Spring- oder Auflaufform mit 22 bis 24 cm Durchmesser)
-
 500 g Kirschen
 120 g Zucker
 3 Eier
@@ -45408,7 +42913,6 @@ Tipp:	Dazu passt am besten neuer Süsser (so heißt es in Schwaben) oder Federwe
 Etwas Salz
 
 Mark von ½ Vanilleschote
-
 60 g Butter zerlassen
 300 ml Milch
 
@@ -45424,7 +42928,6 @@ Info:	Der Kuchen kommt aus dem Limousin. Dort allerdings werden die Kirschen nic
 ## Clafoutis mit Pflaumen
 ### Zutaten (für 6-8 Portionen):
 3 Eier
-
 80 g Zucker
 1 Prise Salz
 100 g Mehl
@@ -45434,7 +42937,6 @@ Knapp 200 ml Milch
 250 g Pflaumen
 1 Päckchen Vanillezucker
 2 EL Kirschwasser oder Orangensaft
-
 500 g vollreife Kirschen
 1 EL weiche Butter
 1 EL Puderzucker
@@ -45471,9 +42973,7 @@ Butter und Mehl für die Form
 
 5 Stangen Rhabarber (etwa 400g)
 3 Eier
-
 250 ml Schlagsahne
-
 50 ml Apfelsüße (oder 30 g Zucker)
 1 Prise Zimt
 
@@ -45512,7 +43012,6 @@ Baiser
 ### Zutaten
 2 Eier
 2 Eigelb
-
 60 g Zucker
 100 g Butter
 100 g Schokolade (70% Kakaoanteil)
@@ -45544,16 +43043,13 @@ Puderzucker
 
 *Für die Windbeutel:*
 Salz
-
 60 g Butter
-
 110 g Mehl
 3 Eier
 
 *Für das Heidelbeerkompott:*
 125 g Heidelbeerkonfitüre
 300 g TK-Heidelbeeren
-
 125 ml roter Portwein
 1 Sternanis
 1 Zimtstange
@@ -45563,7 +43059,6 @@ Salz
 
 *Für die Stracciatella-Sahne:*
 50 g dunkle Kuvertüre
-
 330 ml Konditorahne (35 % Fett)
 
 Außerdem: 2 EL Puderzucker
@@ -45585,9 +43080,7 @@ Außerdem: 2 EL Puderzucker
 180 g Zucker
 Salz
 3 Eigelb
-
 375 g Mehl
-
 60 g Speisestärke
 
 ½ TL Zimt
@@ -45608,9 +43101,7 @@ Salz
 1 Vanilleschote
 
 4 Eigelb
-
 125 ml klares Weißbier
-
 50 ml Apfelsaft
 50 g heller Rohrzucker
 
@@ -45624,7 +43115,6 @@ Salz
 
 ## Quark-Himbeer-Törtchen
 ### Zutaten (für 4 Portionen)
-
 60 g Butter
 
 25 Stücke Zitronenthymian
@@ -45633,9 +43123,7 @@ Salz
 3 Blatt weiße Gelatine
 
 ½ Vanilleschote
-
 80 ml Orangensaft
-
 500 g Speisequark (20 % Fett)
 Salz
 
@@ -45658,7 +43146,6 @@ Außerdem: 4 Metallringe (à 6-7 cm Durchmesser, 5 cm Höhe)
 
 *Für den Hefeteig:*
 20 g frische Hefe
-
 125 ml lauwarme Milch
 250 g Mehl und Mehl zum Bearbeiten
 40 g Zucker
@@ -45670,7 +43157,6 @@ Salz
 
 *Für die Marzipancreme:*
 200 g Marzipanrohmasse
-
 500 ml Milch
 1 Pk. Mandel-Puddingpulver
 2 EL Zucker
@@ -45679,10 +43165,8 @@ Salz
 *Für den Belag:*
 
 1,5 kg Äpfel
-
 4 EL Zitronensaft
 3 EL Mandelblättchen
-
 4 EL Aprikosenkonfitüre
 250 g Blaubeeren
 
@@ -45700,13 +43184,9 @@ Salz
 
 *Für den Quark-Öl-Teig:*
 250 g Magerquark
-
 100 ml Milch
-
 100 ml Öl
-
 80 g Zucker
-
 400 g Mehl und Mehl zum Bearbeiten
 3 TL Backpulver
 50 g Amaretti
@@ -45715,24 +43195,18 @@ Salz
 
 4 Birnen (à 150 g)
 2 EL Zitronensaft
-
 80 g Zucker
-
 250 ml Weißwein
 
 *Für die Quarkmasse:*
-
 400 g Magerquark
 100 g getrocknete Aprikosen
-
 140 g Zucker
 50 g Mehl
 1 TL Vanillezucker
-
 50 ml Milch
 3 Eigelb
 2 TL fein abgeriebene Zitronenschale
-
 150 ml Schlagsahne
 2 Eiweiß
 100 g Aprikosenkonfitüre
@@ -45749,7 +43223,6 @@ Salz
 ## Hafertörtchen mit gemischten Beeren
 ### Zutaten (für 6 Stück):
 50 g Haselnusskerne mit Haut
-
 25 g kernige Haferflocken
 50 g Butter
 
@@ -45761,7 +43234,6 @@ Salz
 40 g Zucker
 
 Je 125 g rote Johannis, Him- und Heidelbeeren
-
 150 ml Schlagsahne
 2 TL Vanillezucker
 
@@ -45777,9 +43249,7 @@ Zimtpulver
 
 ## Aprikosen-Käse-Kuchen
 ### Zutaten (für 14 Stücke):
-
 800 g Aprikosen
-
 275 g Butter (weich)
 250 g Mehl
 250 g Zucker
@@ -45787,7 +43257,6 @@ Zimtpulver
 Salz
 1 Pk. Vanillezucker
 2 Eier
-
 500 g Magerquark
 1 Pk. Vanillepuddingpulver
 2 EL Orangensaft
@@ -45806,7 +43275,6 @@ Salz
 1 kg säuerliche Äpfel (z.B. Boskop – meine Lieblingsäpfel)
 50 g Rosinen
 50 g gehackte Mandeln
-
 4 EL Zucker
 
 4 cl Rum nach Belieben
@@ -45815,7 +43283,6 @@ Salz
 2 EL Butter
 
 4 Blätter Filoteig (vom türkischen Laden)
-
 4 EL gemahlene Haselnüsse
 1 Eigelb
 
@@ -45840,12 +43307,10 @@ Puderzucker zum Bestreuen
 
 *Für die Füllung:*
 40 g Butter
-
 80 g Semmelbrösel
 1 -1,2 kg säuerliche Äpfel
 
 Frisch gepresster Saft ½ Zitrone
-
 80 g Zimtzucker
 100 g Rosinen, wenn man will
 
@@ -45865,15 +43330,12 @@ Tipp:	Auch diesen Apfelstrudel hat meine Oma väterlicherseits immer super gezau
 150 g Mehl
 1 TL Orangenschale
 2 Eier
-
 400 g säuerliche Äpfel
 150 g TK-Cranberries
 1 TL gemahlener Zimt
 1 Msp. gemahlene Nelken
 70 g Zucker
-
 50 ml roter Portwein (oder Sherry)
-
 50 ml Apfelsaft
 
 ½ EL Speisestärke
@@ -45891,7 +43353,6 @@ Dazu passt Vanille-, Schokoladen- oder Walnusseis oder auch Vanillesauce oder sc
 ## Walnusspralinen
 ### Zutaten (für 30 Stück):
 100 g Walnussstücke
-
 60 g Puderzucker
 2 TL Eiweiß
 200 g Bitterschokolade
@@ -45911,22 +43372,18 @@ Dazu passt Vanille-, Schokoladen- oder Walnusseis oder auch Vanillesauce oder sc
 300 g Concakäse (Doppelrahmstufe)
 40 g Zucker
 1 kleine Bio-Zitrone, 1 TL Schale abgerieben
-
 130 g Sahne
 2 EL Olivenöl, zum Servieren
 
 *Für den Crumble:*
 100 g blanchierte Haselnusskerne, grob gehackt
 30 g kalte Butter, i 2 cm große Würfel geschnitten
-
 80 g gemahlene Mandeln
-
 25 g Zucker
 1 EL schwarzer Sesam (oder weißer)
 1 kräftige Prise Salz
 
 *Für das Kirschkompott:*
-
 600 g entsteinte TK-Kirschen, aufgetaut
 90 g Zucker
 
@@ -45977,12 +43434,9 @@ Info:	Ich nehme immer ein anderes Rezept für die Linzer Torte. Aus dem orangene
 ## Eierlikörtorte
 ### Zutaten
 1 Tafel Zartbitterschokolade
-
 5 Eier
-
 80 g Zucker
 1 EL Rum
-
 8 EL Eierlikör
 2 Becher Schlagsahne
 1 Päckchen Vanillezucker
@@ -45996,7 +43450,6 @@ Info:	Ich nehme immer ein anderes Rezept für die Linzer Torte. Aus dem orangene
 
 ## Bretonischer Kuchen (Gâteau breton)
 ### Zutaten (für eine Springform):
-
 400 g Mehl
 
 200 – 250 g Zucker
@@ -46016,11 +43469,9 @@ Info:	 Keks oder Kuchen, das ist hier die Frage😊
 ### Zutaten (für eine 25 cm lange Kastenform):
 50 g Rosinen
 3 Eier
-
 100 ml Milch
 150 g Mehl
 1 TL Backpulver
-
 100 ml Sonnenblumenöl
 100 g Gruyère
 50 g Walnüsse
@@ -46039,9 +43490,7 @@ Info:	In Frankreich ist die wertvollste Mahlzeit des Tages nicht das Frühstück
 180 g Mehl
 2 TL Backpulver
 3 Eier
-
 100 ml Milch
-
 100 ml Olivenöl
 1 EL Pflanzenöl
 Salz, Pfeffer
@@ -46063,7 +43512,6 @@ Info:	Dieser herzhafte französische Rührkuchen eignet sich gut zum Aperitif od
 ## Heidelbeermuffins
 ### Zutaten (für etwa 12 Stück):
 200 g Mehl
-
 60 g feine Haferflocken
 2 TL Backpulver
 
@@ -46089,28 +43537,22 @@ Info:	Dieser herzhafte französische Rührkuchen eignet sich gut zum Aperitif od
 
 ## Birnen-Streusel-Muffin
 ### Zutaten (für etwa 12 Stück)
-
 230 g Mehl
 2 TL Backpulver
 
 ½ TL Natron
 1 TL Zimt
 1 Ei
-
 140 g Zucker
-
 80 ml Pflanzenöl
 1 EL Rum oder Whiskey
-
 185 g Naturjoghurt
 125 g saure Sahne
-
 240 g Birnenhälften (aus der Dose)
 
 *Für die Streusel:*
 70 g Mehl
 1 TL Zimt
-
 45 g brauner Zucker
 65 g weiche Butter
 
@@ -46123,11 +43565,8 @@ Info:	Dieser herzhafte französische Rührkuchen eignet sich gut zum Aperitif od
 
 ## Himbeer-Haferflocken – Muffins
 ### Zutaten (für etwa 12 Muffins):
-
 45 g feine Haferflocken
-
 240 g Buttermilch
-
 190 g Mehl
 2 ½ TL Backpulver
 
@@ -46135,7 +43574,6 @@ Info:	Dieser herzhafte französische Rührkuchen eignet sich gut zum Aperitif od
 1 TL Zimt
 1 Ei
 120 g Zucker
-
 80 ml Pflanzenöl
 150 g Himbeeren (frisch, konserviert oder TK)
 
@@ -46158,13 +43596,11 @@ Dies sind meine Standard-Muffins. Ich weiß nicht, wie oft ich diese gemacht hab
 200 g Zucker
 1 TL Vanillezucker
 1 Ei
-
 210 ml Milch
 1 TL Essig
 300 g Mehl
 2 TL Backpulver
 1 TL Salz
-
 80 g Kakaopulver
 75 g Schokoflocken
 
@@ -46177,7 +43613,6 @@ Dies sind meine Standard-Muffins. Ich weiß nicht, wie oft ich diese gemacht hab
 1. Den Teig etwa dreiviertel hoch in die Blech-Vertiefungen einfüllen. Im Backofen (Mitte, Umluft 150 Grad) 20 Minuten backen. Die Cupcakes 5 Minuten im Blech ruhen lassen, dann aus den Förmchen nehmen und auf einem Kuchengitter ganz abkühlen lassen. Die Cupcakes mit der Schokocreme bestreichen. Nach Belieben mit Schoko-, Marzipanfiguren Gummibärchen…. Verzieren.
 
 *Für die Schokocreme:*
-
 25 g Pflanzenfett
 200 g Puderzucker
 1 TL Vanillezucker
@@ -46199,7 +43634,6 @@ Dies sind meine Standard-Muffins. Ich weiß nicht, wie oft ich diese gemacht hab
 75 g Schokotröpfchen oder Schokoflocken
 2 Eier
 120 g Zucker
-
 80 ml Pflanzenöl
 
 4 mittelgroße, reife Bananen
@@ -46218,9 +43652,7 @@ Kuvertüre und Zuckerzeugs zum Verzieren
 
 ## Bananen-Rührkuchen
 ### Zutaten (für eine Kastenform):
-
 110 g Butter
-
 190 g Zucker
 
 ½ Päckchen Vanillezucker
@@ -46245,12 +43677,9 @@ Kuvertüre und Zuckerzeugs zum Verzieren
 
 5 mittelgroße Äpfel
 3 Eier
-
 290 g Zucker
 1 Päckchen Vanillezucker
-
 230 ml neutrales Öl
-
 490 g Mehl
 2 TL Backpulver
 1 TL Salz
@@ -46271,9 +43700,7 @@ Kuvertüre und Zuckerzeugs zum Verzieren
 
 18 Butterkekse
 65 g Butter
-
 800 g Frischkäse
-
 160 g Zucker
 1 Päckchen Vanillezucker
 3 Eier
@@ -46295,15 +43722,11 @@ Kuvertüre und Zuckerzeugs zum Verzieren
 ## Schoko-Erdnuss-Cookies
 ### Zutaten (für etwa 35 Stück)
 125 g Butter
-
 330 g Zucker
 3 EL Kakaopulver
-
 75 ml Milch
-
 175 g Erdnussbutter
 1 Päckchen Vanillezucker
-
 280 g feine Haferflocken
 
 ### Zubereitungszeit
@@ -46315,13 +43738,11 @@ Kuvertüre und Zuckerzeugs zum Verzieren
 
 ## Cookies mit Schokoladenstückchen
 ### Zutaten (für etwa 40 Stück):
-
 130 g Butter
 250 g Zucker
 1 Päckchen Vanillezucker
 3 EL Honig
 3 Eier
-
 400 g Mehl
 1 ½ TL Backpulver
 1 TL Salz
@@ -46342,7 +43763,6 @@ Tipp:	Man kann natürlich auch noch Nüsse oder Krokant dazugeben.
 200 g Butter
 1 Ei
 1 EL Zuckerrübensirup
-
 50 ml Milch
 300 g Mehl
 1 TL Backpulver
@@ -46363,11 +43783,8 @@ Tipp:	Man kann natürlich auch noch Nüsse oder Krokant dazugeben.
 
 ## Feigen Cookies
 ### Zutaten (für etwa 40 Stück):
-
 110 g Butter
-
 110 g Pflanzenfett
-
 165 g Zucker
 
 ½ Päckchen Vanillezucker
@@ -46394,7 +43811,6 @@ Tipp:	Man kann natürlich auch noch Nüsse oder Krokant dazugeben.
 250 g Zucker
 50 g Kakaopulver
 2 Eier
-
 140 g Mehl
 
 ½ TL Backpulver
@@ -46413,10 +43829,8 @@ Tipp:	Man kann natürlich auch noch Nüsse oder Krokant dazugeben.
 
 ## Kirsch-Pie
 ### Zutaten (für 1 Spring oder Pieform):
-
 140 g Pflanzenfett
 1 ½ EL Butter
-
 330 g Mehl
 1 ¼ TL Salz
 
@@ -46441,12 +43855,10 @@ Mehl
 ## Pfirsich-Cobbler
 ### Zutaten für 4-6 Portionen
 30 g Butter
-
 500 g Pfirsiche (aus der Dose oder frisch)
 100 g Zucker
 
 *Für die Streusel:*
-
 175 g Mehl
 100 g Zucker
 100 g Butter
@@ -46466,7 +43878,6 @@ Mehl
 *Für die Füllung:*
 1 kg reife Pfirsiche (4-5 Stück)
 200 g Heidelbeeren
-
 5 EL Zucker
 
 Mark von ½ Vanilleschote
@@ -46476,7 +43887,6 @@ Mark von ½ Vanilleschote
 *Für den Teig:*
 50 g Haselnusskerne
 200 g Mehl
-
 60 g Zucker (plus 1 EL zum Bestreuen)
 1 EL Backpulver
 1 Prise Salz
@@ -46499,7 +43909,6 @@ Man könnte statt der Pfirsiche sicher auch Aprikosen, Pflaumen, Nektarinen, and
 ### Zutaten (für ca. 350 g):
 300 g Mehl
 Salz
-
 4 EL Öl
 1 Eigelb
 
@@ -46519,18 +43928,15 @@ Tipp:	Strudelteig nach dem Ruhen nicht mehr kneten, da er sonst wieder Spannung 
 
 8 Äpfel (ca. 1,4 kg z.B. Boskop, Braeburn oder Elstar)
 70 g Mandelblättchen
-
 60 g Zucker
 
 ½ - 1 TL Zimtpulver
-
 60 g Rumrosinen (abgetropft)
 
 Saft von 1 Zitrone
 100 g Biskuitbrösel
 
 *Für den Teig:*
-
 350 g Strudelteig
 
 Mehl zum Bestäuben
@@ -46584,9 +43990,7 @@ Abgeriebene Schale von ½ unbehandelten Zitrone
 
 ½ l Milch
 1 Päckchen Vanillepudding
-
 4 EL Zucker
-
 600 g Rhabarber
 
 Fett für die Form
@@ -46603,18 +44007,15 @@ Fett für die Form
 ### Zutaten (für 1 Backblech):
 
 *Für den Teig:*
-
 250 ml Milch
 1 Würfel Hefe
 100 g Zucker
-
 500 g Mehl
 1 Prise Salz
 50 g Zucker
 
 *Für den Belag*:
 2 kg Zwetschgen
-
 4 EL Semmelbrösel
 3 EL Zimt und Zucker
 
@@ -46634,7 +44035,6 @@ Fett für das Backblech
 *Für den Teig:*
 1 TL Zucker
 1 Würfel Hefe
-
 500 g Mehl
 1 Ei
 6 EL Öl
@@ -46661,7 +44061,6 @@ Pfeffer, Kümmel, edelsüßes Paprikapulver
 ## Oma Steiners Käsekuchen
 ### Zutaten
 *Für den Mürbeteig*
-
 350 g Mehl
 125 g Butter
 125 g Puderzucker
@@ -46671,7 +44070,6 @@ Pfeffer, Kümmel, edelsüßes Paprikapulver
 *Für die Füllung:*
 6 Eigelb
 180 g Zucker
-
 500 g trockener Magerquark
 250 g Crème fraîche
 1 Sahnepuddingpulver
@@ -46685,11 +44083,9 @@ Pfeffer, Kümmel, edelsüßes Paprikapulver
 ## Zwetschgenkuchen mit Mandeln
 ### Zutaten (für 1 Blech)
 30 g Hefe
-
 80 g Zucker
 
 ¼ l lauwarme Milch
-
 500 g Mehl
 1 Prise Salz
 
@@ -46710,18 +44106,14 @@ Etwas Zitronenschale
 
 ## Zwiebelkuchen
 ### Zutaten (für 16 Stücke)
-
 500 g Mehl
-
 500 ml Milch
 1 Würfel frische Hefe
 
 Zucker, Salz
 6 Eier
-
 9 EL Öl
 1 kg Zwiebeln
-
 500 g saure Sahne
 1 TL Kümmel
 
@@ -46766,7 +44158,6 @@ Also ich mag den Zwiebelkuchen ohne Hefeteig am allerliebsten. Also diesen hier 
 
 *Für den Teig:*
 250 g Mehl
-
 120 ml Olivenöl
 1 TL Salz
 
@@ -46775,7 +44166,6 @@ Also ich mag den Zwiebelkuchen ohne Hefeteig am allerliebsten. Also diesen hier 
 4 große milde Zwiebeln
 40 g Butter
 Salz, Pfeffer
-
 100 ml Weißwein
 2 Zweige Thymian
 
@@ -46795,7 +44185,6 @@ Bei dieser Tarte muss man Geduld haben, da die Zwiebeln bevor der Teig im Ofen g
 
 *Für den Teig:*
 100 g weiche Butter
-
 80 g Zucker
 1 Ei
 200 g Mehl
@@ -46824,7 +44213,6 @@ You say Zwetschge, I say Pflaume. Es ist vollkommen egal, ob man diese Tarte mit
 3 Eier
 200 ml Sonnenblumenöl
 250 g Rohrzucker
-
 400 g Zucchini
 250 g Mehl
 2 TL Backpulver
@@ -46893,7 +44281,6 @@ Vanillepudding
 3 Eier
 
 *Für den Belag:*
-
 80 g stückige Erdnussbutter
 100 g Puderzucker
 100 g Butter
@@ -46987,33 +44374,26 @@ Kokosraspel
 1 Vanilleschote
 220 g Mehl
 10 g Backpulver
-
 140 g Rohrzucker
 
 5 Eigelb
-
 140 g Butter
 1 Prise Salz
 
 *Für die Baisermasse:*
 6 Eiweiß
-
 240 g Rohrzucker
 90 g Mandelblättchen
 
 *Für die Füllung:*
-
 500 g Erdbeeren
-
 400 ml Erdbeersaft
 90 g Zucker
 50 g Stärke
 1 Msp. Butter
 
 *Für die Sahnecreme:*
-
 400 ml Sahne
-
 25 g Zucker
 
 ### Zubereitung
@@ -47029,27 +44409,22 @@ Kokosraspel
 *Für den Biskuitteig:*
 3 Eier
 90 g Zucker
-
 60 g Mehl
 30 g Stärke
-
 45 g Butter (zerlassen)
 
 *Für die Erdbeersahne:*
-
 500 g Erdbeeren
 3 EL Zucker
 1 TL Zitronensaft
 
 Mark einer Vanilleschote
 1 l Sahne
-
 80 g Zucker
 
 8 Blatt Gelatine
 
 *Zum Verzieren:*
-
 250 ml Sahne
 1 Päckchen Sahnesteif
 1 Päckchen Vanillezucker
@@ -47070,13 +44445,10 @@ Mark einer Vanilleschote
 250 g weiche Butter
 2 TL abgeriebene Orangenschale (unbehandelt)
 Salz
-
 5 Eier
-
 450 g Mehl
 50 g Speisestärke
 1 Päckchen Backpulver
-
 100 ml Milch
 
 4 – 5 EL Orangensaft
@@ -47106,7 +44478,6 @@ Salz
 100 g Mehl
 
 *Für die Füllung:*
-
 750 g Rhabarber
 150 g Crème fraîche
 1 Ei
@@ -47119,7 +44490,6 @@ Mark von einer Vanilleschote
 *Für das Eis:*
 
 10 Wacholderbeeren
-
 500 ml Buttermilch
 200 g griechischer Joghurt (10% Fett)
 150 g Zucker
@@ -47137,7 +44507,6 @@ Mark von einer Vanilleschote
 2 EL Zuckerrübensirup
 200 g Butter
 2 Eier
-
 400 g Mehl
 300 g M & Ms
 1 TL Zimt
@@ -47191,7 +44560,6 @@ Das war früher dein Lieblingskuchen bei Barbara, liebes Paulchen.
 ½ Packung Backpulver
 
 *Für den Rest:*
-
 170 g Zucker
 
 ¾ Packung Puddingpulver Vanille
@@ -47223,10 +44591,8 @@ Simon ist der Lehrling von Opa gewesen und hat das Erbe dieser Torte übernommen
 ## Springerle (nach einem Schweizer Rezept)
 ### Zutaten
 4-5 Eier
-
 500 g Puderzucker
 1 EL gereinigter und leicht gerösteter Anis
-
 500 g Mehl
 
 ### Zubereitung
@@ -47239,14 +44605,11 @@ Simon ist der Lehrling von Opa gewesen und hat das Erbe dieser Torte übernommen
 ## Getränkter Orangenkuchen
 ### Zutaten
 *Für den Teig:*
-
 4 Eier
 200 g Zucker
 250 g Butter
 100 g Weizengrieß
-
 80 g gemahlene Mandeln
-
 80 g Mehl
 
 ½ TL Backpulver
@@ -47269,14 +44632,10 @@ Diesen Kuchen habe ich mal für ein Fest gemacht. Alle waren total begeistert. E
 
 ## Kardamomkuchen mit frischen Beeren
 ### Zutaten für eine Form mit 24 cm Durchmesser
-
 260 g Zucker (plus etwas zum Bestäuben der Form)
 70 g gehobelte Mandeln
-
 4 Eier
-
 9 g Kardamomkapseln
-
 160 g Mehl
 
 Eine großzügige Prise Salz
@@ -47297,7 +44656,6 @@ Kleine Geschichte zu diesem Rezept. Im Jahr 1987 brachte eine schwedische Textil
 ## Libanesischer Aniskuchen
 ### Zutaten
 1 EL ganze Anissamen
-
 250 ml Wasser
 250 g Zucker
 180 g Grieß
@@ -47305,7 +44663,6 @@ Kleine Geschichte zu diesem Rezept. Im Jahr 1987 brachte eine schwedische Textil
 2 TL Kurkuma
 1 EL gemahlener Anis
 2 TL Backpulver
-
 120 ml Pflanzenöl
 1 – 2 EL Tahin
 40 g abgezogene Mandeln
@@ -47323,7 +44680,6 @@ Kleine Geschichte zu diesem Rezept. Im Jahr 1987 brachte eine schwedische Textil
 *Für den Teig:*
 
 250g Mehl
-
 120 ml Olivenöl
 1 TL Salz
 
@@ -47332,7 +44688,6 @@ Kleine Geschichte zu diesem Rezept. Im Jahr 1987 brachte eine schwedische Textil
 4 große milde Zwiebeln
 40 g Butter
 Salz, Pfeffer
-
 100 ml Weißwein
 2 Zweige Thymian
 
@@ -47362,7 +44717,6 @@ Backerbsen (oder andere getrocknete Hülsenfrüchte)
 Saft von 2 Zitronen
 
 Abrieb von 3 Zitronen
-
 80 g Butter
 
 *Für das Baiser:*
@@ -47408,7 +44762,6 @@ Info:	Dies ist das legendäre Hermannrezept aus den 80er Jahren. Hermann wohnte 
 ### Zutaten (für 1 Springform):
 
 *Für den Teig:*
-
 140 g Butter
 100 g Zucker
 2 Eigelb
@@ -47421,7 +44774,6 @@ Info:	Dies ist das legendäre Hermannrezept aus den 80er Jahren. Hermann wohnte 
 100 g Zucker
 100 g gemahlene Mandeln
 1 EL Stärke
-
 500 g Johannisbeeren
 
 ### Zubereitung
@@ -47438,14 +44790,11 @@ Ein typisch schwäbischer Kuchen 😊 Ich glaube, es gibt gar keine Übersetzung
 250 g Cantuccini
 75 g Butter
 2 kleine Biolimetten
-
 800 g Frischkäse
 250 g Ricotta
 150 g Zucker
-
 4 Eier
 1 EL Speisestärke
-
 350 g Erdbeeren
 
 ### Zubereitungszeit
@@ -47458,9 +44807,7 @@ Ein typisch schwäbischer Kuchen 😊 Ich glaube, es gibt gar keine Übersetzung
 
 ## Rotkäppchentorte
 ### Zutaten (für 12 Stücke):
-
 500 g Sauerkirschen 
-
 160 g Mehl
 1 Päckchen Vanillepuddingpulver
 
@@ -47471,13 +44818,10 @@ Ein typisch schwäbischer Kuchen 😊 Ich glaube, es gibt gar keine Übersetzung
 2 Tüten Bourbon-Vanillezucker
 Salz
 3 Eier
-
 100 ml Milch
 50 g Nutella
-
 600 g Sahnequark
 3 Päckchen Sahnesteif
-
 230 ml Kirschwasser
 1 Päckchen Tortenguss rot
 
@@ -47509,7 +44853,6 @@ Salz
 
 ## Mangotartelettes (woher auch immer, rausgerissenes Rezept)
 ### Zutaten (für 8 Stück):
-
 130 g kalte Butter, in Würfel geschnitten
 
 Ca. 100 g Zucker
@@ -47541,22 +44884,18 @@ Saft von 1 Limette
 
 *Für den Sud:*
 3 reife Birnen
-
 500 ml Wasser
 40 g brauner Zucker
 3 TL gemahlener Kardamom
 
 *Für den Teig:*
-
 4 Eier
 100 g brauner Zucker (plus 5 EL)
 150 g Mehl
 
 ½ Päckchen Backpulver
-
 100 ml Milch
 2 EL Sonnenblumenöl
-
 60 g Butter (Plus etwas für die Form)
 
 ### Zubereitung
@@ -47573,16 +44912,13 @@ Saft von 1 Limette
 1,5 TL Nescafé (mit 350 ml kochendem Wasser übergossen)
 250 g Zucker
 2 Eier
-
 240 g Mehl
 2 gehäufte TL Backpulver
 30 g ungesüßtes Kakaopulver
 1 Prise Salz
 
 *Für die Vanillecreme:*
-
 375 ml Sahne
-
 190 g Mascarpone
 
 Mark von 1 Vanilleschote
@@ -47601,9 +44937,7 @@ Mark von 1 Vanilleschote
 
 5 Eiweiß
 200 g Puderzucker
-
 80 g Mehl
-
 80 g gemahlene Mandeln
 1 TL flüssiger Honig
 3 große Äpfel (Boskop)
@@ -47620,7 +44954,6 @@ Mark von 1 Vanilleschote
 
 *Für den Teig:*
 100 g weiche Butter
-
 80 g Zucker
 1 Ei
 200 g Mehl
@@ -47652,7 +44985,6 @@ Natürlich kann man die Idee mit dem Rosmarin auch sein lassen, ganz schlicht sc
 250 g Ricotta
 1 TL Vanilleextrakt
 1 EI
-
 260 g Mehl
 1 TL Backpulver
 Salz
@@ -47678,7 +45010,6 @@ Richtig süße Kekse. Die Kekse kommen aus Italien, man muss, wenn man hineinbei
 *Für den Teig:*
 
 1/2 Würfel Hefe
-
 150 ml lauwarme Milch
 1 Prise Zucker
 300 g Mehl
@@ -47687,9 +45018,7 @@ Richtig süße Kekse. Die Kekse kommen aus Italien, man muss, wenn man hineinbei
 
 *Für den Belag:*
 1 kg Zwiebeln
-
 175 g Speck
-
 400 g saure Sahne
 3 Eier
 
@@ -47709,7 +45038,6 @@ Pfeffer
 
 ## Hefezopf
 ### Zutaten (für 1 Zopf):
-
 500 g Mehl
 30 g Hefe
 100 g Zucker
@@ -47747,7 +45075,6 @@ Zerlassene Butter zum Bestreichen
 2 EL Zitronensaft
 180 g saure Sahne plus etwas zum Servieren
 2 große Eier
-
 115 g ungesalzene geschmolzene Butter
 
 Eine weitere Zitrone
@@ -47765,13 +45092,11 @@ Schlagsahne (wenn man will)
 ### Zutaten (für eine Kastenform mit 26 cm Länge):
 3 Eier
 225 g Zucker
-
 120 ml Schlagsahne
 75 g Butter plus ein wenig mehr zum Einfetten der Form
 10 g Mohnsamen
 
 Fein geriebene Schale von 3 Bio-Zitronen (ungefähr 1 EL)
-
 170 g Mehl
 1 ¼ TL Backpulver
 
@@ -47796,9 +45121,7 @@ Vegane Birnen-Schoko-Tarte
 
 ### Zutaten
 *Für den Teig:*
-
 260 g Mehl
-
 130 g weißes Mandelmus
 40 g Zucker
 
@@ -47812,7 +45135,6 @@ Ein wenig Salz
 
 Ein wenig Salz
 2 TL gemahlene Vanille oder Mark aus 1 Vanilleschote
-
 80 g dunkle Schokolade
 
 4 große reife Birnen
@@ -47854,7 +45176,6 @@ Puderzucker zum Bestreuen
 
 *Für den Teig:*
 150 g Mehl
-
 80 g Butter
 50 g Zucker
 1 Päckchen Vanillezucker
@@ -47864,13 +45185,10 @@ Puderzucker zum Bestreuen
 1 EI
 
 *Für den Belag:*
-
 80 g Butter
 150 g Zucker
-
 4 Eier
 1 Bio-Zitrone, Schale abgerieben
-
 750 g Magerquark
 
 1/8 l Schlagsahne
@@ -47941,14 +45259,12 @@ Salz
 
 *Für den Guss:*
 250 g Crème fraîche
-
 4 Eier
 1 EL Mondamin
 100 g Zucker
 1 TL Zimt
 
 *Für die Bienenstichmasse:*
-
 100 ml Sahne
 100 g Butter
 100 g Zucker
@@ -47974,13 +45290,11 @@ Info:	Das sind Rezepte aus dem Landfrauencafe in St. Märgen im Schwarzwald, in 
 1 Päckchen Vanillezucker
 2 Eigelb
 2 Eier
-
 50 ml Milch
 200 g Mehl
 1 TL Backpulver
 
 *Für die Füllung:*
-
 500 g Naturjoghurt
 
 Saft einer ½ Zitrone
@@ -48012,7 +45326,6 @@ Für das Baiser 2 Eiweiß steif schlagen und 150 g Zucker einrieseln lassen. Die
 *Für den Biskuitteig*
 
 4 Eiweiß
-
 160 g Zucker
 
 4 Eigelb
@@ -48020,7 +45333,6 @@ Für das Baiser 2 Eiweiß steif schlagen und 150 g Zucker einrieseln lassen. Die
 75 g Mondamin
 
 *Für die Füllung:*
-
 500 g Naturjoghurt
 
 Saft ½ Zitrone
@@ -48050,11 +45362,9 @@ Saft ½ Zitrone
 
 *Für die Füllung:*
 3 Eigelb
-
 500 g Crème fraîche
 100 g Zucker
 2 EL Vanillepuddingpulver
-
 500 g Johannisbeeren
 
 *Für das Baiser*
@@ -48082,7 +45392,6 @@ Saft ½ Zitrone
 ½ Päckchen Backpulver
 
 *Für die Füllung:*
-
 500 g Heidelbeeren
 
 *Für die Streusel:*
@@ -48106,14 +45415,12 @@ Etwas Zitronensaft
 
 *Für den Teig:*
 100 g Butter
-
 4 Eier
 150 g Zucker
 1 Päckchen Vanillezucker
 100 g Mehl
 
 2,5 TL Backpulver
-
 100 ml Milch
 
 Etwas Puderzucker zum Bestreuen
@@ -48158,7 +45465,6 @@ Etwas Puderzucker zum Bestreuen
 ## Heidelbeerkuchen mit Mandeln und Zitrone
 ### Zutaten (für 8 Portionen):
 150 g weiche Butter, plus etwas für die Form
-
 190 g Zucker
 2 Bio-Zitronen, 2 TL Schale abgerieben, dann 2 EL Saft ausgepresst
 1 TL Vanilleextrakt
@@ -48166,7 +45472,6 @@ Etwas Puderzucker zum Bestreuen
 90 g Mehl vermischt mit 
 
 ¾ TL Backpulver
-
 110 g gemahlene Mandeln
 200 g Heidelbeeren
 70 g Puderzucker
@@ -48185,7 +45490,6 @@ Salz
 2 EL Rotwein
 1 EL Thymianblätter
 2 Bio-Zitronen, 2 TL Schale abgerieben, dann 1 EL Saft ausgepresst
-
 420 g sehr reife dunkle Feigen (je nach Größe etwa 10 Stück) entstielt, längst halbiert
 2 große Eier, getrennt
 50 g Mehl
@@ -48205,14 +45509,11 @@ Salz
 
 ## Cheesecake mit Honig und Thymian
 ### Zutaten (für 8 Portionen):
-
 500 g griechischer Joghurt
 200 g Haferkekse
-
 60 g Butter, zerlassen
 
 1,5 EL Thymianblätter
-
 400 g Doppelrahmfrischkäse
 40 g Puderzucker
 1 Bio-Zitrone, 1 TL Schale abgerieben
@@ -48241,7 +45542,6 @@ Salz
 1 Bio-Zitrone
 2 Bio-Orangen
 200 g Heidelbeeren
-
 500 g Frischkäse
 200 g Crème fraîche
 120 g Zucker
@@ -48260,7 +45560,6 @@ Salz
 2 TL Sonnenblumenöl
 2 große Pfirsiche, entsteint und in 1,5 dicke Spalte geschnitten
 200 g Himbeeren
-
 320 g Zucker
 125 g blanchierte Haselnusskerne
 200 g weiche Butter
@@ -48280,7 +45579,6 @@ Salz
 
 ## Gewürzter Apfelkuchen
 ### Zutaten (für 10 Portionen)
-
 130 g weiche Butter, gewürfelt, plus etwas für die Form
 150 g Zucker
 3 große Eier, leicht verquirlt
@@ -48294,7 +45592,6 @@ Salz
 *Für den Belag:*
 2 große Äpfel (Boskop), geschält, entkernt und in 1,5 dicke Spalten geschnitten
 1 großer Apfel (Granny Smith), geschält, entkernt und in 1,5 cm dicke Spalten geschnitten
-
 130 g brauner Zucker
 1 EL Lebkuchengewürz
 
@@ -48336,7 +45633,6 @@ Salz
 120 g Butter, gewürfelt
 100 g heller Zuckerrübensirup
 100 g Rosinen, 30 Minuten in 2 EL Rum eingeweicht
-
 170 g Vollkornkekse, in 2 cm Stücke gebrochen
 100 g Pistazienkerne, gehackt
 Salz
@@ -48359,13 +45655,11 @@ Salz
 ¼ l lauwarme Milch 
 2 Eier
 50 g Butter
-
 80 g Honig
 50 g Rosinen
 1 Schnapsglas Rum
 
 174 l Milch
-
 60 g Butter
 200 g Honig
 300 g Mohn
@@ -48393,7 +45687,6 @@ Etwa 1/8 l lauwarmes Wasser
 150 g Zucker
 100 g Rosinen
 300 g zerlassene Butter
-
 80 g gehackte Walnüsse
 3 EL Puderzucker
 
@@ -48434,7 +45727,6 @@ Info:	 In New Orleans gibt es äußerst famose Beignets 😊
 
 ## Bienenstich
 ### Zutaten (für 1 Blech)
-
 500 g Mehl
 30 g Hefe
 50 g Zucker
@@ -48443,7 +45735,6 @@ Info:	 In New Orleans gibt es äußerst famose Beignets 😊
 2 Eier
 50 g Butter
 1 Prise Salz
-
 5 EL Honig
 100 g Butter
 125 g Zucker
@@ -48470,9 +45761,7 @@ Info:	 In New Orleans gibt es äußerst famose Beignets 😊
 1 Eigelb
 2 EL Wasser
 1 Vanilleschote
-
 750 g Quark (20% Fettanteil)
-
 4 EL Öl
 300 g Zucker
 3 Eigelb
@@ -48492,7 +45781,6 @@ Wieder mal ein Käsekuchen, na Simon😊
 ### Zutaten (für 42 Stück):
 200 g Butter
 2 EL Honig
-
 175 g Zucker
 
 1/16 l Sahne
@@ -48514,7 +45802,6 @@ Je 50 g feingehacktes Zitronat und Orangeat
 
 ## Schneckennudeln
 ### Zutaten (für 14 Stück):
-
 500 g Mehl
 30 g Hefe
 
@@ -48536,13 +45823,11 @@ Je 50 g feingehacktes Zitronat und Orangeat
 
 ## Honigkuchen vom Blech
 ### Zutaten (für 40 Stück):
-
 500 g Honig
 
 1/8 l Öl
 
 250 Zucker
-
 700 g Mehl
 1 Päckchen Backpulver
 250 g abgezogene gemahlene Mandeln
@@ -48568,7 +45853,6 @@ Je 100 g abgezogene Mandeln, Zitronat und kandierte Kirschen
 
 ## Silvesterkrapfen – Berliner Pfannkuchen
 ### Zutaten (für 20 Stück)
-
 500 g Mehl
 40 g Hefe
 
@@ -48594,15 +45878,12 @@ Gut ¼ l lauwarme Milch
 
 ## Ballhäuschen
 ### Zutaten (für 80 Stück):
-
 80 g Butter
 75 g Zucker
 
 Abgerieben Schale ½ unbehandelten Zitrone
 1 Prise Salz
-
 4 Eier
-
 400 g Mehl
 1 TL Backpulver
 100 g Zucker
@@ -48616,14 +45897,11 @@ Abgerieben Schale ½ unbehandelten Zitrone
 
 ## Neujahrsbrezel
 ### Zutaten (für 1 Brezel):
-
 500 g Mehl
 30 g Hefe
-
 60 g Zucker
 
 ¼ lauwarme Milch
-
 60 g Butter
 1 Ei
 1 Prise Salz
@@ -48674,7 +45952,6 @@ Abgerieben Schale von 1½ unbehandelten Zitronen
 1 Prise Salz
 
 ½ l Sahne
-
 500 g Magerquark
 
 ½ Tasse Puderzucker
@@ -48694,7 +45971,6 @@ Tipp:	Man kann jederzeit unter die Quarkcreme auch Himbeeren, Heidelbeeren, Apri
 ## Heidelbeer-Joghurt-Muffins
 ### Zutaten (für 1 Muffinblech)
 180 g Heidelbeeren
-
 240 g Mehl
 
 ½ TL Backpulver
@@ -48717,20 +45993,16 @@ Tipp:	Man kann jederzeit unter die Quarkcreme auch Himbeeren, Heidelbeeren, Apri
 ## Apfel-Haselnuss-Muffins
 ### Zutaten (für 1 Muffinblech)
 1 großer Apfel
-
 240 g Mehl
 2 TL Backpulver
 
 ½ TL Natron
 2 TL gemahlener Zimt
-
 80 g Haselnüsse
 1 Ei
 120 g Zucker
 1 Päckchen Vanillezucker
-
 80 ml neutrales Pflanzenöl
-
 280 g Buttermilch
 
 ### Zubereitungszeit
@@ -48770,13 +46042,11 @@ Tipp:	Man kann jederzeit unter die Quarkcreme auch Himbeeren, Heidelbeeren, Apri
 125 g Zucker
 
 ½ Päckchen Vanillezucker
-
 100 ml neutrales Pflanzenöl
 200 ml Eierlikör
 125 g Mehl
 
 ½ Päckchen Backpulver
-
 4 EL Speisestärke
 
 ### Zubereitungszeit
@@ -48879,14 +46149,12 @@ Tipp:	Man kann jederzeit unter die Quarkcreme auch Himbeeren, Heidelbeeren, Apri
 1 Prise Salz
 
 *Für die Kakaoschicht:*
-
 4 EL Kakao
 2 EL Milch
 2 EL Zucker
 
 *Für die Garnitur*
 75 g Zartbitterkuvertüre
-
 25 g weiße Kuvertüre
 
 ### Zubereitungszeit
@@ -48924,14 +46192,11 @@ Tipp:	Man kann jederzeit unter die Quarkcreme auch Himbeeren, Heidelbeeren, Apri
 
 ½ Glas Sauerkirschen (200 g)
 3 Eier
-
 160 g Butter
 120 g Zucker
 100 g Mehl
 2 TL Backpulver
-
 60 g Speisestärke
-
 25 g Kakao
 
 ### Zubereitungszeit
@@ -48948,7 +46213,6 @@ Tipp:	Man kann jederzeit unter die Quarkcreme auch Himbeeren, Heidelbeeren, Apri
 ### Zutaten für 1 Muffinblech
 1 Würfel Hefe oder 2 Päckchen Trockenhefe
 1 EL Zucker
-
 8 EL Milch
 300 g Mehl
 2 Msp. Salz
@@ -48967,7 +46231,6 @@ Tipp:	Man kann jederzeit unter die Quarkcreme auch Himbeeren, Heidelbeeren, Apri
 
 ## Hefe-Muffins
 ### Zutaten (für 1 Muffinblech)
-
 260 g Mehl
 1 Päckchen Trockenhefe
 125 g Magerquark
@@ -49011,7 +46274,6 @@ Tipp:	Man kann jederzeit unter die Quarkcreme auch Himbeeren, Heidelbeeren, Apri
 
 *Für die Füllung:*
 1 mittelgroßer Hokkaido- oder Butternut-Kürbis (1,5 kg)
-
 80 ml Kokoscreme (nicht Kokosmilch)
 3 EL vegane Butter
 3 EL Maisstärke
@@ -49033,10 +46295,8 @@ Saft von ½ Zitrone
 1 TL Zimt
 
 ½ TL Meersalz
-
 110 g vegane Butter, in kleine Stücke geschnitten
 3 -4 EL kalte Mandelmilch
-
 80 g Haselnüsse, grob gemahlen
 
 ### Zubereitungszeit
@@ -49056,14 +46316,12 @@ Saft von ½ Zitrone
 300 g Weizenmehl
 50 g Zucker
 75 g Butter
-
 150 ml Hafermilch
 1 Prise Meersalz
 1 Msp. Kardamom
 
 *Für die Füllung:*
 100 g Mandelmus
-
 4 EL Agavendicksaft
 1 Msp. Gemahlene Vanille
 2 TL gemahlener Zimt
@@ -49082,21 +46340,17 @@ Saft von ½ Zitrone
 
 50 Madacamianüsse
 50 g geschälte Haselnüsse
-
 5 Eier
-
 190 g Butter
 225 g Zucker
 1 Prise Salz
 225 g Mehl
 2 cl Rum
-
 20 ml Sahne
 
 Butter und Semmelbrösel
 
 *Für den Belag:*
-
 400 ml Sahne
 2 Päckchen Sahnesteif
 200 ml Eierlikör
@@ -49126,7 +46380,6 @@ Für den Belag und Guss
 2 Eigelb
 125 g Zucker
 150 g Crème fraîche
-
 4 EL Zucker
 
 ### Zubereitung
@@ -49140,9 +46393,7 @@ Für den Belag und Guss
 ### Zutaten (für 12 Stück)
 
 *Für den Teig:*
-
 5 Eier
-
 190 g Butter
 225 g Zucker
 1 Prise Salz
@@ -49154,7 +46405,6 @@ Puderzucker zum Bestäuben
 
 *Für die Füllung:*
 2 Eier
-
 350 g Ricotta
 100 g Zucker
 
@@ -49169,13 +46419,11 @@ Abgerieben Schale von 1 ½ unbehandelten Zitronen
 ## Mandarinentorte
 ### Zutaten (für 12 Stück):
 100 g Butter
-
 160 g Zucker
 2 Päckchen Vanillezucker
 
 5 tropfen Zitronenaroma
 2 Eier
-
 25 g Speisestärke
 100 g Mehl
 1 TL Backpulver
@@ -49183,7 +46431,6 @@ Abgerieben Schale von 1 ½ unbehandelten Zitronen
 8 Blatt weiße Gelatine
 2 Dosen Mandarinen
 300 g Kefir
-
 400 ml Sahne
 1 Päckchen Mandarinen-Dessertpulver ohne Kochen
 
@@ -49230,20 +46477,14 @@ Abgerieben Schale von 1 ½ unbehandelten Zitronen
 ## Apfel-Whiskey-Kuchen
 ### Zutaten (für eine Kastenform):
 2 Äpfel
-
 230 g Butter plus etwas mehr zum Fetten der Form
-
 400 g Zucker
-
 4 Eier
-
 320 g Mehl
 2 TL Backpulver
 
 ½ TL Salz
-
 120 ml Milch
-
 150 ml Bourbon
 
 ### Zubereitung
@@ -49260,11 +46501,8 @@ Wieder einmal ein recht alkoholisches Rezept 😊
 ### Zutaten (für 12 Stücke)
 
 *Für den Teig:*
-
 60 g Kokosraspeln
-
 5 Eier
-
 190 g Butter
 225 g Zucker
 1 Prise Salz
@@ -49292,9 +46530,7 @@ Butter, Semmelbrösel
 ### Zutaten (für 12 Stück)
 
 *Für den Teig:*
-
 5 Eier
-
 190 g Butter
 225 g Zucker
 1 Prise Salz
@@ -49308,7 +46544,6 @@ Kakaopulver zum Bestäuben
 200 g weiße Schokolade
 200 g Crème fraîche
 3 EL Puderzucker
-
 500 ml Sahne
 
 ### Zubereitung
@@ -49323,11 +46558,9 @@ Kakaopulver zum Bestäuben
 
 *Für den Teig:*
 250 g kalte Butter
-
 450 g Mehl
 50 g Zucker
 1 Ei
-
 350 g Himbeermarmelade
 
 Mehl zum Bestäuben
@@ -49349,7 +46582,6 @@ Mehl zum Bestäuben
 250 g Mehl
 1 TL Salz
 20 g Hefe
-
 425 ml Milch
 210 g Butter
 220 g Zucker
@@ -49359,7 +46591,6 @@ Abgerieben Schale ½ unbehandelten Zitrone
 200 ml Sahne
 200 g gehobelte Mandeln
 1 Stück aufgeschnittene Vanilleschote
-
 25 g Stärkemehl
 2 Eigelb
 
@@ -49373,21 +46604,17 @@ Abgerieben Schale ½ unbehandelten Zitrone
 ### Zutaten (für 8 Stücke):
 
 *Für den Teig:*
-
 4 Eier
 200 g Zucker
 1 Prise Salz
 1 Päckchen Vanillinzucker
-
 80 g Mehl
-
 80 g Speisestärke
 1 TL Backpulver
 
 Zucker zum Bestreuen
 
 *Für die Füllung:*
-
 400 g Himbeermarmelade
 
 9 Blatt weiße Gelatine
@@ -49412,12 +46639,9 @@ Saft 1 Zitronen
 
 *Für den Teig:*
 50 g dunkle Kuvertüre (70% Kakaoanteil)
-
 100 ml frisch gebrühter Espresso
 50 g gehackte Mandeln
-
 5 Eier
-
 190 g Butter
 225 g Zucker
 1 EL Zimt
@@ -49425,7 +46649,6 @@ Saft 1 Zitronen
 225 g Mehl
 
 Butter und Semmelbrösel für die Form
-
 60 g Schokospäne zum Bestreuen
 
 Zimt zum Bestäuben
@@ -49436,7 +46659,6 @@ Zimt zum Bestäuben
 3 TL Milch
 1 gehäufter EL Zimt
 250 g Puderzucker
-
 400 ml Sahne
 2 Päckchen Sahnesteif
 2 Päckchen Vanillinzucker
@@ -49452,16 +46674,12 @@ Zimt zum Bestäuben
 ### Zutaten (für 12 Stück)
 6 Eier
 120 g Zucker
-
 80 g Mehl
-
 60 g Speisestärke
 1 TL Backpulver
 
 12 Schokoküsse
-
 500 g Quark
-
 400 ml Sahne
 
 ### Zubereitung
@@ -49474,25 +46692,18 @@ Info:	Das war übrigens die Torte, die ich Markus zum 50. Geburtstag gemacht hab
 
 ## Marzipan-Torte
 ### Zutaten (für 16 Stück)
-
 4 Eier
-
 170 g Zucker
 1 Prise Salz
-
 80 g Mehl
-
 80 g Speisestärke
 
 ½ TL Backpulver
-
 400 ml Milch
 1 Päckchen Vanillepuddingpulver
 1 Päckchen Vanillezucker
 100 g Butter
-
 650 g Marzipanrohmasse
-
 100 ml Orangensaft
 40 g Zartbitter-Kuvertüre
 
@@ -49513,11 +46724,9 @@ Puderzucker zum Ausrollen
 
 ## Sachertorte
 ### Zutaten (für 1 Springform):
-
 175 g Schokolade (70% Kakaoanteil)
 6 Eier
 125 g Butter
-
 60 g Puderzucker
 1 Prise Salz
 
@@ -49526,7 +46735,6 @@ Mark von 1 Vanilleschote
 
 Fett für die Form
 150 g Aprikosenkonfitüre (Original: Marillenkonfitüre)
-
 80 g dunkle Kuvertüre
 
 ### Zubereitung
@@ -49542,9 +46750,7 @@ Ich habe diese Torte auch mal gemacht. War schon ganz gut. Das Original ist nat�
 ### Zutaten (für 12 Stück)
 
 *Für den Teig:*
-
 5 Eier
-
 190 g Butter
 225 g Zucker
 1 Prise Salz
@@ -49577,14 +46783,11 @@ In den siebziger Jahren gab es diese Torte bei jedem Bäcker. Aber heutzutage is
 ## Trüffeltorte
 ### Zutaten (für 12 Stück)
 150 g Zartbitterschokolade
-
 5 Eier
 150 g Zucker
 1 Päckchen Vanillezucker
-
 170 g Mehl
 3 TL Backpulver
-
 500 ml Sahne
 2 Päckchen Sahnesteif
 2 EL Rum
@@ -49605,20 +46808,16 @@ Kakao und Kaffeebohnen zum Verzieren
 
 ½ Würfel Hefe
 3 EL Zucker
-
 500 g Mehl
-
 100 ml Milch
 
 ½ TL Salz
 1 TL abgeriebene Schale einer unbehandelten Zitrone
-
 4 Eier
 250 g Butter
 
 *Zum Bestreichen:*
 2 Eigelbe
-
 4 EL Sahne
 
 ### Zubereitungszeit
@@ -49637,7 +46836,6 @@ Kakao und Kaffeebohnen zum Verzieren
 
 1,5 TL Backpulver
 1 TL Lebkuchengewürz
-
 60 g Zucker
 2 EL Zuckerrübensirup
 2 EL Milch
@@ -49658,10 +46856,8 @@ Man könnte auch eine Backmischung nehmen 😊 Natürlich nur eine gute, wie z.B
 250 g dunkle Schokolade
 250 g gesalzene Butter
 250 g Zucker
-
 80 g Mehl
 6 Eier
-
 5 EL Tahin
 
 ### Zubereitung
@@ -49682,7 +46878,6 @@ Man könnte auch eine Backmischung nehmen 😊 Natürlich nur eine gute, wie z.B
 2 Eigelbe
 2 Gläser Schattenmorellen
 1 EL Vanillepuddingpulver
-
 7 EL Zucker
 100 g Mandelstifte
 
@@ -49695,11 +46890,9 @@ Man könnte auch eine Backmischung nehmen 😊 Natürlich nur eine gute, wie z.B
 ## Amarettini
 ### Zutaten (für 25 Stück):
 200 g blanchierte, gemahlene Mandeln
-
 60 g Zucker
 2 Eiweiß
 1 EL Bittermandelaroma (gibt’s im Zweifel im Reformhaus)
-
 60 g Puderzucker
 
 ### Zubereitungszeit
@@ -49718,10 +46911,8 @@ Oder einfach kaufen 😊
 225 g Zucker
 300 g flüssiger Honig
 2 TL Lebkuchengewürz
-
 8 g Hirschhornsalz
 300 g Roggenmehl (Typ 997)
-
 350 g Mehl (Typ 550)
 2 gestr. TL Natron
 100 g Puderzucker
@@ -49753,7 +46944,6 @@ Tipp:	Für das Häuschen Papierschablonen anfertigen, dann geht das Ausschneiden
 
 Ausgekratztes Mark von 1 Vanilleschote
 6 Eigelb
-
 80 g Zucker
 
 Abgeriebene Schale von 1 unbehandelter Zitrone
@@ -49769,7 +46959,6 @@ Info:	Eine klassische portugiesische Süßspeise, die man gerne dort gerne auch 
 
 ## Mokkasahnetorte
 ### Zutaten (für eine Springform mit 26 cm Durchmesser):
-
 5 Eier
 200 g Zucker
 6 EL lösliches Kaffeepulver
@@ -49777,9 +46966,7 @@ Info:	Eine klassische portugiesische Süßspeise, die man gerne dort gerne auch 
 30 g Speisestärke
 1 TL Backpulver
 200 g gemahlene Mandeln
-
 9 EL Kaffeelikör oder starker Kaffee
-
 800 g Shane
 100 g geraspelte Mokkaschokolade
 
@@ -49795,7 +46982,6 @@ Info:	Eine klassische portugiesische Süßspeise, die man gerne dort gerne auch 
 50 g Marzipanrohmasse
 3 EL Sahne
 2 Eigelb
-
 5 EL Magerquark
 1 EL Zucker
 
@@ -49808,13 +46994,10 @@ Info:	Eine klassische portugiesische Süßspeise, die man gerne dort gerne auch 
 
 ## Pinientörtchen
 ### Zutaten (für 24 Stück)
-
 60 g Mehl
-
 60 g Butter, zerkleinert
 40 g Pinienkerne
 20 g Butter, zerlassen
-
 175 g Rohrzuckersirup
 2 EL feiner brauner Zucker
 
@@ -49833,7 +47016,6 @@ Tipp:	Man kann natürlich statt der Pinienkerne auch Walnüsse oder so nehmen.
 Öl-Quark-Teig:
 100 g Weizen
 100 g Magerquark
-
 5 EL Sonnenblumenöl
 1 Ei
 1 TL Honig
@@ -49842,9 +47024,7 @@ Tipp:	Man kann natürlich statt der Pinienkerne auch Walnüsse oder so nehmen.
 
 *Für den Belag:*
 1 kg Zwiebeln
-
 4 EL Sonnenblumenöl
-
 4 Eier
 
 ½ l saure Sahne
@@ -49862,7 +47042,6 @@ Tipp:	Öl-Quark-Teig kann man auch als Obstkuchenboden verwenden. Dann aber bei 
 ## Salzmandel-Cookies mit Karamell-Popcorn
 ### Zutaten (für 16 Stück):
 120 g hellbrauner Zucker
-
 110 g Kristallzucker
 100 g weiche Butter
 1 TL Vanilleextrakt
@@ -49873,7 +47052,6 @@ Tipp:	Öl-Quark-Teig kann man auch als Obstkuchenboden verwenden. Dann aber bei 
 30 g Ovomaltine
 1 TL Meersalzflocken
 75 g fertig gekauftes Karamell-Popcorn
-
 160 g geröstete Salzmandeln (gehackt)
 
 Dunkle heiße (über dem Wasserbad geschmolzene) Schokolade zum Servieren
@@ -49891,13 +47069,11 @@ Dunkle heiße (über dem Wasserbad geschmolzene) Schokolade zum Servieren
 *Für den Mürbeteig:*
 125 g Zucker
 250 g Butter
-
 500 g Mehl
 
 *Für die Streusel:*
 200 g Zucker
 200 g kalte Butter
-
 400 g Mehl
 1 Prise Salz
 1 Päckchen Vanillezucker
@@ -49924,13 +47100,10 @@ Biskuit- oder Semmelbrösel
 ### Zutaten (für eine Springform mit ca. 26 cm Durchmesser):
 
 Etwas Butter zum Einfetten der Form
-
 500 g Frischkäse (Doppelrahm, ungesalzen)
 250 g Mascarpone
 200 g Zucker
-
 4 Eier
-
 350 g Sahne
 1 TL Sahne
 
@@ -49960,7 +47133,6 @@ Abrieb von ½ Biozitrone
 3 bis 4 Äpfel (saure Sorte)
 2 Eier plus 4 Eiweiß
 100 g Zucker
-
 60 g gemahlene Mandeln
 200 g Crème fraîche
 
@@ -49985,9 +47157,7 @@ Abrieb von ½ Biozitrone
 125 g weiche Butter
 
 *Für den Belag:*
-
 600 g Mirabellen
-
 80 g gemahlene Mandeln
 1 Ei
 50 g Zucker
@@ -50014,7 +47184,6 @@ Die Tarte ist schon süß.
 1 TL Crème fraîche
 
 *Für den Belag:*
-
 500 g Rhabarber
 20 g Butter
 150 g Zucker
@@ -50079,9 +47248,7 @@ Abrieb von 1 Biozitrone
 
 Mark von 1 Vanilleschote
 200 g Risottoreis
-
 5 Eier
-
 50 ml Orangenlikör
 100 g gemahlene Mandeln
 
@@ -50095,7 +47262,6 @@ Etwas Butter und Grieß für die Form
 ## Ingwer-Schokoladen-Plätzchen
 ### Zutaten (für 1 Blech):
 70 g weiche Butter
-
 80 g brauner Zucker
 3 EL Zuckerrübensirup
 250 g Mehl
@@ -50122,7 +47288,6 @@ Etwas Butter und Grieß für die Form
 300 g Zucker
 150 g weiche Butter
 2 Eier
-
 280 g Mehl
 50 g Kakaopulver
 1 TL Backpulver
@@ -50143,7 +47308,6 @@ Ich wollte diese Kekse schon lange einmal backen, aber habe es immer wieder hina
 ### Zutaten (für eine Springform mit 24 cm Durchmesser):
 200 g weiche Butter
 180 g Zucker
-
 4 Eier
 100 g dunkle Schokolade (mindestens 70 Prozent Kakaogehalt)
 100 g Haselnüsse
@@ -50164,7 +47328,6 @@ Ich wollte diese Kekse schon lange einmal backen, aber habe es immer wieder hina
 
 *Für den Teig:*
 250 g Mehl
-
 140 g Butter
 1 Eigelb
 1 Prise Salz
@@ -50173,7 +47336,6 @@ Ich wollte diese Kekse schon lange einmal backen, aber habe es immer wieder hina
 *Für die Füllung:*
 250 g Magerquark
 1 Eigelb
-
 4 EL Zucker
 3 bis 4 EL Aprikosenmarmelade
 
@@ -50215,7 +47377,6 @@ Sehr leckere Weihnachtskekse. Könnten man in die Weihnachtsbäckerei mit aufneh
 125 g Butter
 250 g Mehl
 2 Eier
-
 60 g Puderzucker
 1 Prise Salz
 
@@ -50223,7 +47384,6 @@ Sehr leckere Weihnachtskekse. Könnten man in die Weihnachtsbäckerei mit aufneh
 1 kg Rhabarber
 100 g Zucker
 2 Eiweiß
-
 80 g Puderzucker
 
 ### Zubereitung
@@ -50237,16 +47397,13 @@ Sehr leckere Weihnachtskekse. Könnten man in die Weihnachtsbäckerei mit aufneh
 ### Zutaten (für eine 32x33 cm große Form)
 300 g Zucker
 1 EL Abrieb von einer Bio-Orange
-
 4 Eier
 
 160 mildes Rapsöl
 180 g Crème fraîche
-
 120 ml Milch
 
 Mark von 1 Vanilleschote
-
 340 g Mehl
 1 TL Backpulver
 1 Prise Salz
@@ -50269,12 +47426,10 @@ Butter zum Fetten der Form
 1 Prise Salz
 125 g weiche Butter
 1 Eigelb
-
 50 ml Wasser
 
 *Für den Belag:*
 250 g Crème fraîche
-
 4 Eier
 90 g Puderzucker plus etwas zum Garnieren
 
@@ -50294,9 +47449,7 @@ Info:	Crème fraîche heißt auf Deutsch „festes Sauerrahmerzeugnis“, und de
 ### Zutaten (für eine Springform)
 
 *Für den Teig:*
-
 260 g Mehl
-
 130 g Mandelmus
 40 g Zucker
 
@@ -50311,7 +47464,6 @@ Etwas Salz
 Etwas Salz
 
 Vanillemark (aus 1 Vanilleschote oder 2 TL gemahlene Vanille)
-
 80 g dunkle Schokolade
 
 4 Birnen (groß, reif)
@@ -50329,19 +47481,16 @@ Etwas Sonnenblumenöl
 
 Für den Zitronenteig:
 250 g Mehl
-
 60 g Zucker
 125 g gekühlte Butter, etwas weich
 1 TL feingeriebene Zitronenschale
 2 Eigelb
 
 *Für die Füllung:*
-
 350 g Ricotta, durch ein Sieb passiert
 90 g Zucker
 3 Eier, gut geschlagen
 1 EL feingeriebene Zitronenschale
-
 80 g Mandeln, blanchiert und feingehackt
 3 EL Mandeln, gehobelt
 
@@ -50361,19 +47510,15 @@ Puderzucker zum Bestäuben
 *Für den Walnussteig:*
 150 g Mehl
 2 EL Puderzucker
-
 80 g Walnüsse, gemahlen
-
 80 g Butter, in Stücke geschnitten
 
 *Für die Füllung:*
-
 400 g Kondensmilch (iiih)
 30 g Butter
 1 EL Rohrzuckersirup
 
 4 Bananen, in Scheiben geschnitten
-
 375 ml Sahne, geschlagen
 50 g Bitterschokolade, geschmolzen
 
@@ -50390,20 +47535,16 @@ Puderzucker zum Bestäuben
 
 Für den Teig:
 125 g Mehl
-
 80 g weiche Butter
 1 Eigelb
 2 EL Puderzucker
 3 Eier
 2 Eigelb
 180 g Zucker
-
 125 ml Sahne
-
 185 ml Zitronensaft
 1 ½ EL fein abgeriebene Zitronenschale
 2 kleine Zitronen
-
 160 g Zucker
 
 ### Zubereitungszeit
@@ -50421,9 +47562,7 @@ Für den Teig:
 *Für die Zitronenfüllung:*
 
 4 Zitronen mit dünner Schale
-
 500 g Zucker
-
 4 Eier
 
 *Für den Mürbeteig:*
@@ -50445,20 +47584,17 @@ Etwas Milch zum Glasieren
 70 g Butter, zerlassen
 
 *Für die Füllung:*
-
 500 g weicher Doppelrahmfrischkäse
 90 g Zucker
 2 Eier
 1 EL Kakaopulver
 300 g Sauerrahm
 250 g gute Bitterschokolade, geschmolzen
-
 80 ml Bailey’s Irish Cream
 
 Manschette:
 50 g weiße Schokolade, geschmolzen
 150 g gute Bitterschokolade, geschmolzen
-
 315 ml Sahne
 
 Kakaopulver und Puderzucker zum Bestäuben
@@ -50476,25 +47612,19 @@ Kakaopulver und Puderzucker zum Bestäuben
 180 g Mehl
 
 ½ TL Backpulver
-
 60 g feiner Zucker
 1 TL geriebene Zitronenschale
-
 80 g Butter, in Stücke geschnitten
 1 EI
-
 375 ml Sahne zum Servieren
 
 *Für die Füllung:*
-
 750 g weicher Doppelrahmfrischkäse
 250 g Zucker
 30 g Mehl
 2 TL geriebene Orangenschale
 2 TL geriebene Zitronenschale
-
 4 Eier
-
 170 ml Sahne
 
 *Für die kandierte Schale:*
@@ -50522,10 +47652,8 @@ Zesten von je 3 Limetten, Zitronen und Orangen
 *Für die Füllung:*
 250 g Mascarpone
 250 g Doppelrahmfrischkäse, zimmerwarm
-
 400 g Kondensmilch  
 60 ml Honig
-
 315 ml Sahne
 2 TL Zimt
 
@@ -50539,7 +47667,6 @@ Zesten von je 3 Limetten, Zitronen und Orangen
 ## Baiserkuchen mit Mousse au Chocolat
 ### Zutaten für (1 Springform):
 6 Eier, getrennt
-
 375 g Zucker
 2 ½ EL Kakaopulver
 200 g dunkle Blockschokolade, geschmolzen
@@ -50562,9 +47689,7 @@ Zesten von je 3 Limetten, Zitronen und Orangen
 3 Eier 
 Salz
 90 g Zucker
-
 60 g Mehl
-
 60 g Speisestärke
 
 *Für das Himbeer-Parfait*
@@ -50585,7 +47710,6 @@ Salz
 150 g Himbeerkonfitüre (ohne Stücke9
 
 *Garnierung:*
-
 100 ml Schlagsahne
 
 4 TL Puderzucker
@@ -50634,7 +47758,6 @@ Mark von 1 Vanilleschote
 3 EL Milch
 1 Ei
 6 EL Öl
-
 80 g Zucker
 1 Prise Salz
 300 g Mehl
@@ -50648,7 +47771,6 @@ Mark von 1 Vanilleschote
 1 EL Zimt
 
 *Für die Streusel:*
-
 400 g Mehl
 300 g Zucker
 
@@ -50695,14 +47817,11 @@ Etwas Rapsöl oder Sonnenblumenöl
 2 TL Backpulver
 
 *Für den Belag:*
-
 450 g Joghurt
 3 EL Zucker
 
 8 Blatt Gelatine
-
 400 ml Sahne
-
 500 g frische Himbeeren
 2 Beutel roter Tortenguss
 
@@ -50718,7 +47837,6 @@ Etwas Rapsöl oder Sonnenblumenöl
 ### Zutaten (für 1 Kuchen):
 
 *Für den Boden:*
-
 5 Eier
 150 g Butter
 100 g Zucker
@@ -50728,14 +47846,11 @@ Etwas Rapsöl oder Sonnenblumenöl
 
 *Für den Belag:*
 150 g Zucker
-
 80 g Blattmandeln
 
 *Für die Füllung:*
-
 500 g Himbeeren
 1 Päckchen roter Tortenguss
-
 400 ml Schlagsahne
 
 ### Zubereitungszeit
@@ -50750,10 +47865,8 @@ Etwas Rapsöl oder Sonnenblumenöl
 ### Zutaten (für 1 Springform):
 
 *Für den Biskuit:*
-
 4 Eier
 100 g Zucker
-
 140 g Mehl
 
 *Für die Schoko-Mousse:*
@@ -50763,7 +47876,6 @@ Etwas Rapsöl oder Sonnenblumenöl
 50 g Zucker
 200 g Zartbitterkuvertüre
 50 g Vollmilchkuvertüre
-
 500 g Sahne
 
 *Für die Passionfruit-Mousse:*
@@ -50777,7 +47889,6 @@ Etwas Rapsöl oder Sonnenblumenöl
 300 g Sahne
 
 *Für das Passionsfruitgelee:*
-
 100 ml Orangensaft
 200 g Passionsfruitfruchtmark
 70 g Zucker
@@ -50805,16 +47916,13 @@ Früchte
 ### Zutaten (für 1 Backblech)
 
 *Für den Teig:*
-
 5 Eier
 250 g Puderzucker
 2 EL Vanillezucker
 125 g Mehl
 125 g Speisestärke
 1 Päckchen Backpulver
-
 250 ml Rapsöl (oder Sonnenblumenöl)
-
 250 ml Eierlikör
 
 *Für die Füllung:*
@@ -50838,9 +47946,7 @@ Früchte
 ### Zutaten (für 1 Springform):
 
 *Für den Teig:*
-
 5 Eier
-
 5 EL kaltes Wasser
 250 g Zucker
 
@@ -50885,9 +47991,7 @@ Für den Teig:
 100 g Puderzucker
 2 Päckchen Vanillezucker
 3 Eier
-
 250 ml Eierlikör
-
 500 g Schlagsahne
 2 Bäckchen Schokoröllchen
 2 EL Raspelschokolade Zartbitter
@@ -50926,7 +48030,6 @@ Für den Teig:
 
 *Für die Deko:*
 1 TL Butter
-
 60 g Zucker
 125 g gehackte Mandeln
 
@@ -50947,15 +48050,12 @@ Frische Himbeeren
 *Für den Boden:*
 
 Butter und Semmelbrösel für die Form
-
 130 g Magerquark
-
 5 EL Milch
 1 Ei
 300 g Mehl
 1 Päckchen Backpulver
 75 g Zucker
-
 5 EL Öl
 
 *Für den Belag:*
@@ -50996,7 +48096,6 @@ Butter und Semmelbrösel für die Form
 
 9 Blätter Gelatine
 3 Becher Sahne
-
 750 g Quark
 150 g Zucker
 
@@ -51019,7 +48118,6 @@ Info:	Diese Torte hat die Oma immer für meine Kuchenverkäufe in der Schule geb
 ### Zutaten (für 1 Springform)
 
 *Für den Teig:*
-
 5 Eier
 250 g Zucker
 150 g Mehl
@@ -51031,10 +48129,8 @@ Info:	Diese Torte hat die Oma immer für meine Kuchenverkäufe in der Schule geb
 *Für die Buttercreme:*
 1 Päckchen Vanillepuddingpulver
 40 g Zucker
-
 500 ml Milch
 250 g weiche Butter
-
 25 g Kokosfett
 
 *Für die Deko:*
@@ -51064,14 +48160,11 @@ Goldene Zuckerperlen
 1 Päckchen Vanillezucker
 
 *Für die Füllung:*
-
 500 ml Sahne
 
 ½ Päckchen Paradiescreme Vanille
 250 g Quark
-
 500 g frische Erdbeeren
-
 125 ml Erdbeersoße
 
 Weiße Schokoraspeln
@@ -51098,11 +48191,9 @@ Info:	Typisch Simon 😊
 *Für den Belag:*
 
 15 Schokoküsse
-
 500 ml Schlagsahne
 3 Päckchen Sahnesteif
 2 Päckchen Vanillezucker
-
 500 g Magerquark
 
 Zubereitungszeit 25 Minuten plus Backzeit 20 Minuten plus Kühlzeit mindestens 3 Stunden
@@ -51123,7 +48214,6 @@ Zubereitungszeit 25 Minuten plus Backzeit 20 Minuten plus Kühlzeit mindestens 3
 1 TL Backpulver
 
 *Für die Füllung und die Deko:*
-
 750 g Schlagsahne
 3 Päckchen Sahnesteif
 3 Päckchen Vanillezucker
@@ -51142,7 +48232,6 @@ Zubereitungszeit 25 Minuten plus Backzeit 20 Minuten plus Kühlzeit mindestens 3
 250 g Süßrahmbutter
 220 g Zucker
 6 Eier
-
 350 g Mehl
 1 Päckchen Backpulver
 2 EL Kakaopulver
@@ -51176,7 +48265,6 @@ Zubereitungszeit 25 Minuten plus Backzeit 20 Minuten plus Kühlzeit mindestens 3
 2 Beutelchen geriebene Zitronenschale
 2 Päckchen Vanillepuddingpulver
 1 TL Backpulver
-
 500 g Magerquark
 300 g Frischkäse
 
@@ -51198,12 +48286,10 @@ Zubereitungszeit 25 Minuten plus Backzeit 20 Minuten plus Kühlzeit mindestens 3
 Semmelbrösel für die Form
 
 *Für die Füllung:*
-
 4 Eier
 90 g Butter
 150 g Zucker
 75 g Vanillepuddingpulver (2 Päckchen)
-
 660 g Magerquark
 300 g Schmand
 200 ml Sahne
@@ -51248,10 +48334,8 @@ Abgerieben Schale einer Zitrone
 *Für den Teig:*
 2 Eiweiß
 1 Prise Salz
-
 140 g Zucker
 100 g geschälte und gemahlene Mandeln
-
 60 g gemahlene Pistazien
 1 TL Zitronensaft
 
@@ -51406,7 +48490,6 @@ Abgeriebene Schale einer halben Zitrone
 ### Zutaten (für 40 Stück):
 
 *Für den Teig:*
-
 400 g gemahlene Mandeln
 3 Eiweiß
 300 g Zucker
@@ -51451,7 +48534,6 @@ Je 100 g Zitronat und Orangeat
 ¼ l Milch
 
 Je 1 gute Prise Salz, Kardamon, Piment und Muskatblüte
-
 400 g zimmerwarme Butter
 
 *Zum Bestreichen:*
@@ -51480,7 +48562,6 @@ Die Stollen müssen auf jeden Fall mindestens 14 Tage, besser noch 3 Wochen durc
 ### Zutaten (für 1 Stollen):
 
 *Für den Teig:*
-
 500 g Mehl
 1 Würfel frische Hefe oder 1 Tütchen Trockenhefe
 
@@ -51551,7 +48632,6 @@ Abgerieben Schale einer Zitrone
 
 1/8 l lauwarme Milch
 125 g Zucker
-
 500 g Mehl
 150 g Butter
 
@@ -51581,7 +48661,6 @@ Abgeriebene Schale einer Zitrone
 ### Zutaten (für 4 kleine Brote):
 
 *Für den Teig:*
-
 750 g getrocknete Birnen
 250 g getrocknete Feigen
 250 g Walnüsse
@@ -51619,13 +48698,11 @@ Je 1 gute Prise gemahlene Nelken, Kardamon und Piment
 ## Ananas-Bananen-Kuchen
 ### Zutaten (für 8-10 Personen)
 2 mittelgroße Bananen, zerdrückt
-
 130 g Ananas aus der Dose, abgetropft und zerdrückt
 300 g Zucker
 200 g Mehl
 3 TL Backpulver
 2 TL Zimt
-
 170 ml Öl
 3 EL Ananassaft
 2 Eier
@@ -51646,14 +48723,11 @@ Für die Füllung
 
 ## Heidelbeermuffins
 ### Zutaten (für 6 Muffins)
-
 375 g Mehl
 1 EL Backpulver
-
 140 g brauner Zucker
 125 g Butter, zerlassen
 2 Eier, leicht verquirlt
-
 250 ml Milch
 150 g Heidelbeeren
 
@@ -51669,7 +48743,6 @@ Puderzucker zum Bestäuben (wenn man will)
 ## Apple-Pie
 ### Zutaten (für 4-6 Portionen)
 150 g Mehl
-
 80 g kalte Butter
 3 EL Schweineschmalz
 100 g Rosinen
@@ -51677,7 +48750,6 @@ Puderzucker zum Bestäuben (wenn man will)
 1 unbehandelte Zitrone
 
 1,5 kg Äpfel
-
 5 EL schwarze Johannisbeermarmelade
 100 g Zucker
 1 Päckchen Vanillinzucker
@@ -51700,14 +48772,11 @@ Saft und Schale ½ unbehandelter Zitrone
 2 Päckchen Vanillinzucker
 6 Brötchen vom Vortag
 50 g Butter
-
 60 g Mandelblättchen
 50 g Rosinen
-
 4 Eier
 
 ½ l Milch
-
 80 g Zucker
 2 EL Puderzucker
 
@@ -51719,19 +48788,16 @@ Vorbereitungszeit: 45 Minuten, Garzeit: 55 Minuten
 
 ## Zwetschgenauflauf
 ### Zutaten (für 4-6 Personen):
-
 800 g Zwetschgen
 2 Päckchen Vanillezucker
 3 EL Rum (nach Belieben)
 2 Prisen Zimt
-
 80 g Zucker
 
 ½ l Milch
 
 ½ TL abgeriebene Schale einer unbehandelten Zitrone
 100 g Grieß
-
 5 Eier
 40 g weiche Butter
 3 EL Semmelbrösel
@@ -51752,14 +48818,11 @@ Salz
 ### Zutaten
 60 g Reismehl
 1 TL Backpulver
-
 45 g Kokosflocken plus ein paar Flocken zum Anrichten
-
 4 EL Sesamsamen, plus ein paar Samen zum Anrichten
 
 4 TL klarer Honig
 2 EL Kokosfett oder Olivenöl
-
 4 EL Milch (oder Pflanzenmilch)
 1 Ei
 
@@ -51776,12 +48839,9 @@ Abgeriebene Schale und Saft von 1 Limette
 
 ## Cracker mit Orangenglasur (bisschen so wie Knäckebrot)
 ### Zutaten (für 20 Cracker):
-
 60 g Sonnenblumenkerne
-
 60 g Sesamkörner
 40 g gemahlener Leinsamen
-
 60 g Hanfsamen
 100 g Amarantmehl (oder Quinoamehl oder Mandelmehl)
 
@@ -51802,7 +48862,6 @@ Abgeriebene Schale und Saft von 1 Limette
 125 g Kichererbsenmehl
 1 TL Kardamonsamen (aus den Kapseln gelöst oder frisch in der Gewürzmühle gemahlen oder im Mörser zerstoßen)
 40 g Sesamsamen
-
 4 EL klarer Honig
 
 ### Zubereitung
@@ -51834,9 +48893,7 @@ Tipp:	Frische Datteln kann man durch getrocknete Datteln ersetzen. Getrocknete D
 100 g Mehl (z.B. Buchweizenmehl. Muss aber nicht)
 1 TL Natron
 1 TL Meersalz
-
 90 ml Olivenöl
-
 120 ml Ahornsirup
 
 250 Mandelmus
@@ -51863,13 +48920,11 @@ Tipp:	Das Mandelmus kann durch Haselnussmuss oder Cashewmus, Erdnussbutter erset
 *Für die trockene Mischung*
 160 g Kürbiskerne
 100 g getrocknete Kokosraspeln
-
 130 g Hanfsamen
 50 g Chia-Samen
 
 *Für die feuchte Mischung*
 20 g frische Medjoul-Datteln, entkernt
-
 90 ml Kokosfett
 30 g Kakaopulver
 1 TL Vanille-Aroma
@@ -51887,7 +48942,6 @@ Tipp:	Wenn keine Küchenmaschine zur Hand ist, kann man die trockenen Zutaten mi
 
 ## Fritelle – Krapfen
 ### Zutaten (für 4 Portionen)
-
 500 g Mehl
 20 g Hefe
 2 Eigelb
@@ -51936,10 +48990,8 @@ Zucker zum Bestäuben
 ## Kuchen im Einmachglas
 ### Zutaten (für 3 Gläser à 1 L):
 250 g Butter
-
 190 g Zucker
 2 Päckchen Vanillezucker
-
 5 Eier
 150 g gemahlene Haselnüsse
 50 g gehackte Haselnüsse
@@ -51970,7 +49022,6 @@ Ist auf jeden Fall billiger und besser als der Dosenkuchen von Globetrotter 😊
 1 Prise Salz
 
 *Für die Füllung*
-
 130 g gemahlene Mandeln
 125 g braunen Zucker
 
@@ -51991,7 +49042,6 @@ Tipp:	Der Kuchen schmeckt auch nach einer Woche noch super.
 ## Kirsch-Clafoutis
 ### Zutaten (für 4 Personen)
 125 g Zucker
-
 4 Eier
 200 ml Milch
 150 g Crème fraîche
@@ -52012,7 +49062,6 @@ Tipp:	Der Kuchen schmeckt auch nach einer Woche noch super.
 ## Biskuit mit Vanillecreme – Zuppa inglese alla napoletana
 ### Zutaten (für 4-6 Portionen):
 1 fertiger, flacher Biskuitboden (wie z. B. beim Zuccotto)
-
 500 g Ricotta (oder abgetropfter Quark)
 50 g Schokolade
 2 cl Amaretto
@@ -52037,7 +49086,6 @@ Tipp:	Der Kuchen schmeckt auch nach einer Woche noch super.
 ### Zutaten (für 12 Portionen):
 
 Kirschkompott für die Füllung:
-
 750 g frische Sauerkirschen
 1 unbehandelte Zitrone (Schale für das Kompott, Saft für den Teig)
 150 g Zucker
@@ -52075,9 +49123,7 @@ Info:	Crostata ist allgemein der Hinweis auf einen Kuchen aus knusprigem Mürbet
 50 g Butter
 
 4 cl Zwetschgenschnaps, Rum oder Grappa
-
 60 g Vanillezucker
-
 350 g Mehl und Mehl zum Ausrollen
 
 Etwa 1 kg Butterschmalz zum Frittieren
@@ -52138,16 +49184,12 @@ Puderzucker zum Bestäuben
 ½ EL Kardamonkapseln, frisch gemahlen
 1 Prise Salz
 50 g Butter oder Kokosfett
-
 250 ml Milch
-
 5 EL klarer Honig oder Ahornsirup
-
 400 g Mehl
 
 *Für die Füllung:*
 50 g Butter (Zimmertemperatur) oder Kokosfett
-
 120 ml Apfelmus, ungesüßt
 1 Apfel, gerieben, überschüssigen Saft ausgepresst
 2 EL getrocknete Kokosraspeln
@@ -52178,7 +49220,6 @@ Puderzucker zum Bestäuben
 200 ml Cola
 
 *Für das Frosting:*
-
 140 g kalte, cremige Erdnussbutter
 1 – 2 EL Zucker
 50 g kalte Sahne
@@ -52195,9 +49236,7 @@ Gehackte, gesalzene Erdnüsse und /oder Schokosplitter zum Bestreuen
 
 ## Karotten-Kokosnuss-Bananen-Cupcakes
 ### Zutaten (für ca. 12 Cupcakes)
-
 80 g Butter
-
 4 EL Ahornsirup oder Agavensirup
 1 TL Kardamonkapseln, frisch gemahlen
 1 TL Zimt
@@ -52205,7 +49244,6 @@ Gehackte, gesalzene Erdnüsse und /oder Schokosplitter zum Bestreuen
 
 ½ Vanilleschote oder ½ TL Vanille-Aroma
 150 g Mandeln, gemahlen
-
 60 g Kichererbsenmehl oder anderes glutenfreies Mehl
 50 g getrocknete Kokosraspeln
 2 TL Backpulver
@@ -52242,7 +49280,6 @@ Saft von ½ Limette
 *Für die Füllung:*
 3 zimmerwarme Eier
 200 g Butter
-
 60 g Puderzucker
 150 g Zartbitter-Schokolade
 2 cl Weinbrand
@@ -52263,7 +49300,6 @@ Saft von ½ Limette
 ### Zutaten (für 8-10 Portionen):
 
 Für den Biskuitboden (möglichst schon am Vortag backen)
-
 5 Eier
 120 g Puderzucker
 1 EL Vanillezucker
@@ -52304,7 +49340,6 @@ Puderzucker zum Bestäuben
 60 ml Kokosfett
 2 EL Ahornsirup
 40 g Kakopulver
-
 4 g Himbeerblättertee (2 Teebeutel)
 
 ½ TL Salz
@@ -52334,7 +49369,6 @@ Tipp:	Wenn keine Gewürze da sind, kann man gut Kräutertees verwenden, z.B. Kam
 *Für die Pfannkuchen:*
 200 g Mehl
 3 große Eier
-
 480 ml Milch
 1 EL Kokosfett, zusätzlich Fett zum Braten
 1 Prise Salz
@@ -52344,9 +49378,7 @@ Tipp:	Wenn keine Gewürze da sind, kann man gut Kräutertees verwenden, z.B. Kam
 225 g Himbeeren, mit der Gabel gedrückt
 225 g Heidelbeeren, mit der Gabel zerdrückt
 125 g Butter
-
 120 ml Dattelsirup
-
 480 g Sahne, gekühlt
 
 *Garnieren:*
@@ -52367,13 +49399,11 @@ Tipp:	Wenn keine Gewürze da sind, kann man gut Kräutertees verwenden, z.B. Kam
 150 g Zartbitterschokolade (mit hohem Kakoanteil)
 250 g Zucker
 1 Vanilleschote
-
 4 Eier
 125 g Mehl
 1 Prise Salz
 
 *Für den Belag:*
-
 500 g Mascarpone
 2 Eigelb
 2 Päckchen Vanillezucker
@@ -52394,9 +49424,7 @@ Ein paar Blättchen Minze
 75 g Buchweizenmehl
 1 Msp. Backpulver
 1 Prise Salz
-
 5 g Lebkuchengewürz (gemahlen)
-
 130 g brauner Zucker
 1 Ei
 1 EL Milch
@@ -52415,19 +49443,15 @@ Tipp:	Kekse verbrennen schnell – nicht aus den Augen lassen.
 ## Torta di ricotta e polenta
 ### Zutaten (für 1 Springform mit 20 cm Durchmesser) 
 100 g Butter
-
 150 ml klarer Honig
 
 Abgeriebene Schale von 3 Biozitronen
 
 ½ TL gemahlene Vanille
-
 4 Eier, getrennt
-
 140 g Mandelmehl (oder gemahlene Mandeln)
 125 g feinen Polentagrieß
 250 g Ricotta
-
 45 g Mandelblätter
 
 ### Zubereitung
@@ -52442,10 +49466,8 @@ Abgeriebene Schale von 3 Biozitronen
 
 *Für den Teig:*
 10 g Hefe
-
 500 g Mehl
 200 g Butter
-
 5 Eier
 Salz
 1 Eigelb
@@ -52480,7 +49502,6 @@ Info:	Dies ist das traditionelle Dreikönigsgebäck um die Hafenstadt Bordeaux. 
 100 g Sahne
 1 EL Zucker
 300 ml Schokoladeneis
-
 250 ml kalter Kaffee
 
 4 cl Kaffeelikör
@@ -52533,15 +49554,11 @@ Zucker oder Honig nach Geschmack
 
 ## Erdbeer-Kardamom-Lassi
 ### Zutaten (für 4 Gläser):
-
 400 g Erdbeeren
-
 4 EL Wasser oder Milch
-
 500 g griechischer Joghurt
 
 ½ TL gemahlener Kardamom
-
 4 EL Zucker
 
 ### Zubereitung
@@ -52551,7 +49568,6 @@ Die Erdbeeren waschen, putzen und vierteln. Mit Wasser/Milch, Joghurt und Kardam
 ## Mandelmilch-Lassi mit Datteln
 ### Zutaten (für 2 Gläser)
 70 g gefrorene Medjoul-Datteln
-
 400 ml Mandelmilch
 
 4-6 Eiswürfel
@@ -52562,11 +49578,8 @@ Die Datteln entsteinen, dann alle Zutaten glatt pürieren und auf zwei Gläser v
 
 ## Pfirsich-Kokos-Lassi
 ### Zutaten (für 4 Gläser):
-
 400 g Pfirsiche
-
 100 ml Kokosmilch
-
 500 g griechischer Joghurt
 3 EL Zucker oder Honig
 1 Prise gemahlener Zimt
@@ -52580,7 +49593,6 @@ Die Pfirsiche waschen, entsteinen und das Fruchtfleisch in kleine Stücke schnei
 ### Zutaten (für 2 Gläser):
 1 sehr reife Avocado
 250 g griechischer Joghurt
-
 250 ml Milch
 1 TL gemahlener Zimt
 
@@ -52616,7 +49628,6 @@ Die Pfirsiche waschen, entsteinen und das Fruchtfleisch in kleine Stücke schnei
 ½ Zimtstange
 
 4 Gewürznelken
-
 500 ml Milch
 2 Beutel Schwarztee
 
@@ -52644,11 +49655,8 @@ Ingwer und Kurkuma in einen Topf geben und mit 500 ml Wasser bedecken. Zum Koche
 4 Bioorangen
 2 Biozitronen
 3 Kiwis
-
 100 ml Portwein
-
 4 EL brauner Zucker
-
 50 ml Orangenlikör (Grand Manier)
 1 Flasche Roséwein
 
@@ -52697,7 +49705,6 @@ Die Mango schälen, pürieren und durch ein Sieb geben. 125 g Erdbeeren und 125 
 50 g Zartbitterschokolade
 2 TL Kirschwasser
 6 EL Kirschsirup
-
 250 ml heißer starker Kaffee
 
 Schokoladenspäne und Amarenakirschen
@@ -52735,7 +49742,6 @@ Zimt- und Kardamompulver zum Bestreuen
 2 Sternanis
 100 g Zucker
 70 g Sahne
-
 400 ml starker Espresso
 
 Gehackte Pistazien zum Bestreuen
@@ -52752,7 +49758,6 @@ Gehackte Pistazien zum Bestreuen
 2 TL brauner Zucker
 
 8 cl irischer Whiskey
-
 400 ml heißer starker Kaffee
 1 TL Kakaopulver
 
@@ -52767,9 +49772,7 @@ Gehackte Pistazien zum Bestreuen
 
 15 frische Brombeeren (aufgetaut, wenn TK-Brombeeren)
 2 gefrorene Bananen (oder frische Bananen mit 2 Eiswürfeln)
-
 250 ml Kokosmilch
-
 120 ml Milch
 3 EL Kakaopulver
 1 EL Schokoladenraspeln
@@ -52782,7 +49785,6 @@ Die Brombeeren auf 2 Gläser verteilen und mit einem Mörser oder dem Stiel eine
 ### Zutaten (für 1 Glas):
 60 ml starker schwarzer Filterkaffee oder ein doppelter Espresso
 6 frische weiche Datteln, entsteint
-
 120 ml Hafer/Mandelmilch
 
 ½ TL Kardamomsamen, zerstoßen
@@ -52813,7 +49815,6 @@ Das Avocado- und Passionfruitfleisch zusammen mit allen übrigen Zutaten im Stan
 ## Süße Cashew-Dattel-Milch
 ### Zutaten
 225 g rohe Cashewkerne
-
 750 ml eisgekühltes Wasser
 
 ½ TL gemahlene Vanille (oder Vanilleextrakt)
@@ -52897,7 +49898,6 @@ Tipp:	Reife, übrig geblieben Bananen kann man in einem Gefäß im Gefrierschran
 
 ## Lassi mit Safran, Honig und Hagebutte
 ### Zutaten (für 2 Portionen):
-
 350 g Joghurt
 2 EL klarer Honig
 2 TL Hagebuttenpulver (oder ½ TL Zimt)
@@ -52932,7 +49932,6 @@ Tipp:	Liebe Paula, damit du auch weißt, was du mit den ganzen Früchten von der
 
 40 Dolden Holunderblüten
 3 Zitronen
-
 240 ml klarer Honig
 
 Mineralwasser
@@ -52950,7 +49949,6 @@ Tipp: Man kann die Blüten einfrieren und Smoothies beimischen
 1 kg Zuckermelone
 
 Saft von ½ Zitrone
-
 120 ml Apfelsaft
 
 10 Blätter frische Minze

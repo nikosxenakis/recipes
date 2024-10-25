@@ -21,15 +21,12 @@ Paula: Ich probiere das Rezept mal!
 
 ## Gegrillte Pfirsiche und Bohnen
 ### Zutaten (für 4 Portionen)
-
 400 g breite Bohnen, schräg in zwei Hälften geschnitten
 3 EL Olivenöl
 2 reife, aber feste Pfirsiche, entsteint und in 5 mm dicke Spalten geschnitten
-
 5 g Minzeblätter, in Stücke gezupft
 
 ¾ EL Zitronensaft
-
 80 g Ziegenfrischkäse, grob in 4 cm große Stücke geschnitten
 20 g gerösteten Salzmandeln, grob gehackt
 
@@ -48,7 +45,6 @@ Hab ich ausprobiert. Sieht toll aus, schmeckt lecker und macht einiges her 😊 
 
 ## Gefüllte Tomaten
 ### Zutaten (für 4 Portionen)
-
 400 g große Cocktailtomaten
 
 ½ Bund Rucola
