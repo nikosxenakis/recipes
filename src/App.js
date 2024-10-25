@@ -58,7 +58,7 @@ const App = () => {
         }
 
         if (currentSection === 'ingredients') {
-          currentRecipe.ingredients += token.content.split('\n').map(line => `- ${line.trim()}`).join('\n') + '\n';
+          currentRecipe.ingredients += token.content.split('\n').map(line => `${line.trim()}`).join('\n') + '\n';
         } else if (currentSection === 'instructions') {
           currentRecipe.instructions += token.content + '\n';
         } else if (currentSection === 'comments') {

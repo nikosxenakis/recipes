@@ -5,6 +5,7 @@ const RecipeList = ({ recipes }) => {
   const [visibleRecipes, setVisibleRecipes] = useState({});
   const [currentPage, setCurrentPage] = useState(1);
   const [searchQuery, setSearchQuery] = useState('');
+  const [searchTerms, setSearchTerms] = useState([]);
   const recipesPerPage = 5;
 
   const toggleVisibility = (index) => {
@@ -16,14 +17,28 @@ const RecipeList = ({ recipes }) => {
 
   const handleSearchChange = (event) => {
     setSearchQuery(event.target.value);
-    setCurrentPage(1); // Reset to first page on new search
+  };
+
+  const handleSearchSubmit = (event) => {
+    event.preventDefault();
+    if (searchQuery.trim() && !searchTerms.includes(searchQuery.trim())) {
+      setSearchTerms([...searchTerms, searchQuery.trim()]);
+      setSearchQuery('');
+      setCurrentPage(1); // Reset to first page on new search
+    }
+  };
+
+  const handleRemoveSearchTerm = (term) => {
+    setSearchTerms(searchTerms.filter(t => t !== term));
   };
 
   const filteredRecipes = recipes.filter(recipe =>
-    recipe.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
-    recipe.ingredients.toLowerCase().includes(searchQuery.toLowerCase()) ||
-    recipe.instructions.toLowerCase().includes(searchQuery.toLowerCase()) ||
-    recipe.comments.toLowerCase().includes(searchQuery.toLowerCase())
+    searchTerms.every(term =>
+      recipe.title.toLowerCase().includes(term.toLowerCase()) ||
+      recipe.ingredients.toLowerCase().includes(term.toLowerCase()) ||
+      recipe.instructions.toLowerCase().includes(term.toLowerCase()) ||
+      recipe.comments.toLowerCase().includes(term.toLowerCase())
+    )
   );
 
   const indexOfLastRecipe = currentPage * recipesPerPage;
@@ -46,16 +61,30 @@ const RecipeList = ({ recipes }) => {
 
   return (
     <div className="recipe-list">
-      <input
-        type="text"
-        placeholder="Search recipes..."
-        value={searchQuery}
-        onChange={handleSearchChange}
-        className="search-bar"
-      />
+      <form onSubmit={handleSearchSubmit} className="search-bar-container">
+        <input
+          type="text"
+          placeholder="Search recipes..."
+          value={searchQuery}
+          onChange={handleSearchChange}
+          className="search-bar"
+        />
+        <button type="submit" className="search-button">Add</button>
+      </form>
+      <div className="breadcrumbs">
+        {searchTerms.map((term, index) => (
+          <span key={index} className="breadcrumb">
+            {term}
+            <button onClick={() => handleRemoveSearchTerm(term)} className="remove-button">x</button>
+          </span>
+        ))}
+      </div>
       {currentRecipes.map((recipe, index) => (
         <div key={indexOfFirstRecipe + index} className="recipe">
-          <h2 onClick={() => toggleVisibility(indexOfFirstRecipe + index)}>{recipe.title}</h2>
+          <h2>{recipe.title}</h2>
+          <button onClick={() => toggleVisibility(indexOfFirstRecipe + index)} className="toggle-button">
+            {visibleRecipes[indexOfFirstRecipe + index] ? '−' : '+'}
+          </button>
           {visibleRecipes[indexOfFirstRecipe + index] && (
             <div className="recipe-details">
               <h3>Zutaten</h3>
