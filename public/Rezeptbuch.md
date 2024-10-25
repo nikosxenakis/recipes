@@ -35,7 +35,6 @@ Paula: Ich probiere das Rezept mal!
 Meersalzflocken und schwarzer Pfeffer
 
 ### Zubereitung
-
 1. Die Bohnen mit 2 EL Olivenöl und ½ TL Meersalzflocken würzen. Eine gut geölte Grillpfanne bei hoher Temperatur erhitzen und für eine gute Belüftung der Küche sorgen – könnte ein wenig nebelig werden 😊. Sobald die Pfanne heiß ist, die Bohnen hineinlegen und von jeder Seite 3-4 Minuten rösten, bis sich deutlich das typische Grillmuster abzeichnet und die Bohnen fast gar sind. In eine Schüssel umfüllen, mit einem Teller zudecken und 5-10 Minuten stehen lassen, je nachdem wie knackig oder weich man das Gemüse will; in der Resthitze gart es etwas weiter.
 1. Die Pfirsichspalten mit dem restlichen Öl (1 EL) beträufeln und von jeder Seite in 1-2 Minuten goldbraun grillen.
 1. Die Bohne, die Pfirsiche und die Minze behutsam vermengen und auf einer Platte/einzelnen Tellern anrichten. Mit dem Zitronensaft und einer kräftigen Prise Salz und Pfeffer würzen. Den Ziegenkäse und die Mandeln gleichmäßig darauf verteilen und das Ganze zum Schluss mit dem Honig beträufeln.
@@ -131,7 +130,6 @@ Schmeckt immer 😊.
 150 g roh geräucherter Schinken (Schwarzwälder Art, Serrano), auf jeden Fall sehr dünngeschnitten
 
 ### Zubereitung
-
 1. Datteln eventuell entsteinen. Sherry mit Orangensaft verrühren und über die Datteln gießen. Kurz ziehen lassen.
 1. Schinken je nach Größe halbieren oder dritteln, je 1 Dattel in ein Schinkenstück wickeln. Datteln in einer beschichteten Pfanne bei mittlerer Hitze knusprig braten. Die Orangensaftmischung dazu gießen und einkochen lassen. Die Datteln abkühlen lassen und eventuell mit Spießchen bestecken.
 
@@ -406,7 +404,6 @@ Salz, Pfeffer
 1 EL Olivenöl
 
 ### Zubereitung
-
 1. Die Kartoffeln waschen und mit der Schale in einem Topf in wenig Salzwasser zugedeckt 20 bis 25 Minuten garen. Die Pinienkerne in einer Pfanne ohne Fett goldbraun rösten. Das Basilikum waschen und trocken schütteln, die Blätter abzupfen, einige Blätter für die Deko beiseitelegen und den Rest fein hacken.
 1. Die Kartoffeln abgießen, kurz ausdampfen lassen, pellen und noch warm durch die Kartoffelpresse drücken. Den Frischkäse hinzufügen und mit den Pinienkernen und dem gehackten Basilikum untermischen.
 1. Die Kartoffel-Frischkäse-Masse mit Salz und Pfeffer würzen und abkühlen lassen. Das Eiweiß und die Sahne getrennt steif schlagen und unter die Basilikummasse heben. Die Mousse zugedeckt 2 Stunden kühl stellen.
@@ -428,7 +425,6 @@ Salz, Pfeffer
 2 EL Milch
 
 ### Zubereitung
-
 1. Die Blätterteigscheiben nebeneinander auf die Arbeitsfläche legen und auftauen lassen. Den Spinat verlesen, waschen und abtropfen lassen, grobe Stiele entfernen. Den Spinat gut ausdrücken und grob hacken. Die Zwiebel und den Knoblauch schälen und in feine Würfel schneiden. Das Olivenöl in einer Pfanne erhitzen und Zwiebel und Knoblauch darin andünsten. Den Spinat dazugeben und mitdünsten.
 1. Die Pinienkerne in einer Pfanne ohne Fett goldbraun rösten. Den Mozzarella in kleine Würfel schneiden und mit den Pinienkernen und dem Basilikum unter den Spinat mischen. Mit Salz und Pfeffer kräftig würzen.
 1. Das Eigelb mit der Milch verquirlen. Die Blätterteigscheiben quer halbieren und die Teigquadrate auf der bemehlten Arbeitsfläche noch etwas ausrollen. Die Ränder mit der Eiermilch bestreichen.
@@ -461,7 +457,6 @@ Salz, Pfeffer
 Zucker
 
 ### Zubereitung
-
 1. Für die Ricottapuffer die Eier trennen. Die Eigelbe in einer Schüssel mit Ricotta, dem Mehl, der Milch und dem Parmesan gut verrühren. Die Ricottamasse zugedeckt etwa 30 Minuten ruhen lassen.
 1. Die Eiweiße steif schlagen. Den Schnittlauch waschen, trocken schütteln und in 1,5 cm lange Stücke schneiden. Petersilie und 3 EL Schnittlauch unter den Eischnee mischen, den Kräuter-eischnee unter die Ricottamasse heben und alles kräftig mit Salz und Pfeffer würzen.
 1. Den Backofen auf 80 Grad vorheizen. In einer beschichteten Pfanne 1 EL Öl erhitzen. Etwas Teig in die Pfanne geben, zu einem Puffer flach drücken und auf der Unterseite goldbraun braten. Den Puffer wenden und die andere Seite ebenfalls goldbraun braten. So portionsweise den gesamten Teig verarbeiten, fertige Puffer auf einem Teller im Ofen warmhalten.
@@ -491,7 +486,6 @@ Für den Dip:
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Die Auberginen putzen, waschen und längs halbieren. Sofort mit Zitronensaft beträufeln, mit Salz bestreuen und etwa 15 Minuten ziehen lassen. Das Salz abwaschen und die Auberginen gut trocken tupfen.
 1. In einer Pfanne portionsweise 4 EL Öl erhitzen und die Auberginenhälften darin rundum etwa 5 Minuten anbraten. Mit einem Löffel das Fruchtfleisch herauskratzen, dabei einen etwa ½ cm breiten Rand stehen lassen. Das Fruchtfleisch grob hacken.
 1. Zwiebeln und Knoblauch schälen und in feine Würfel schneiden. Die Petersilie waschen und trocken schütteln, die Blätter abzupfen und fein hacken. 3 Tomaten häuten und vierteln. Die Tomatenviertel entkernen und in kleine Würfel schneiden.
@@ -515,7 +509,6 @@ Salz, Pfeffer
 Meersalzflocken
 
 ### Zubereitung
-
 1. Den Ingwer mit ½ TL Meersalzflocken im Mörser zu einer glatten Paste zerstoßen. Mit den Frühlingszwiebeln in eine Schüssel geben und verrühren.
 1. Das Öl in einen kleinen Topf geben und bei schwacher Hitze erwärmen; es darf aber nicht zu heiß werden. Auf die Frühlingszwiebeln gießen und 1 EL Essig dazufügen. Alles verrühren, dann beiseitestellen.
 1. Die Tomaten leicht überlappend auf einer großen Servierplatte auslegen. Mit 1/4 TL Meersalzflocken würzen und mit dem restlichen Essig beträufeln. Die Salsa gleichmäßig darauf löffeln. Chili und Koriander auf das Carpaccio streuen und alles mit dem Olivenöl vollenden.
@@ -568,7 +561,6 @@ Geriebene Muskatnuss
 125 g Emmentaler, gerieben oder Gruyère
 
 ### Zubereitung
-
 1. Die Springform mit Butter ausstreichen und mit Mehl ausstäuben. 
 1. Das Mehl auf ein Backbrett sieben, die Butter in Flöckchen darüber verteilen und das Salz darüberstreuen. In die Mitte des Mehls eine Mulde drücken, das Wasser hineingießen und alle Zutaten rasch zu einem Mürbeteig verkneten. Den Teig in Folie gewickelt 2 Stunden im Kühlschrank ruhen lassen.
 1. Den Backofen auf 200 Grad (Umluft 180 Grad) vorheizen. Den Teig auf einer bemehlten Fläche etwa 4 mm dick ausrollen du Tand und Boden der Springform damit auslegen. Den Teigboden mehrmals mit einer Gabel einstechen.
@@ -647,7 +639,6 @@ Salz, Pfeffer
 Pfeffer, Muskatnuss
 
 ### Zubereitung
-
 1. Mehl mit Backpulver mischen. Quark, Öl, Eigelb und Salz hinzufügen und Teig kneten. Den Teig auf einer leicht bemehlten Arbeitsfläche ausrollen.
 1. Die gefettete Form mit dem Teig auskleiden und danach 1 Stunde kühl stellen. Inzwischen für den Belag die Kräuter waschen. Die Petersilie, Schnittlauch und Zwiebeln fein hacken. Den Schinken in Streifen schneiden und den Käse reiben.
 1. Ofen auf 200 Grad vorheizen. Die Kräuter, Schinken und Käse mischen und auf den Teig gleichmäßig verteilen. Danach die Eier mit Ricotta, Milch und Gewürzen gut mischen und in die Form geben und glattstreichen. Die Quiche bei 200 Grad ca. 45 bis 50 Minuten fertig backen.
@@ -956,7 +947,6 @@ Pfeffer
 1 TL gemahlener schwarzer Pfeffer
 
 ### Zubereitung
-
 1. Die Walnüsse in den Mixer geben und sehr fein mahlen, dann beiseitestellen. Die Pilze in den Mixer geben, auf Erbsengröße klein hacken und ebenfalls beiseitestellen.
 1. Das Öl in der größten verfügbaren Pfanne erhitzen und Senfsamen, Kreuzkümmel und Schwarzkümmel hineingeben. Sobald die Samen zu tanzen beginnen, die Zwiebel hinzufügen und 10 Minuten braten, bis sie weich und braun ist. Chili, Ingwer und Knoblauch hinzueben und weitere 5 Minuten braten, bis die zwiebeln wie dunkle Juwelen aussehen, dann die Pilze dazugeben. 
 1. Alles durchrühren, salzen und pfeffern und weitere 15 Minuten braten, bis die Flüssigkeit fast vollständig verdampft ist. Es darf höchstens noch eine winzige Spur Feuchtigkeit am Boden der Pfanne zu sehen sein, sonst werden die Samosas matschig. Die Walnüsse hinzugeben, noch einmal 3 Minuten garen, dann vom Herd nehmen und vor dem Füllen der Samosas abkühlen lassen.
@@ -971,7 +961,6 @@ Pfeffer
 Schwarzkümmelsamen oder Kreuzkümmelsamen zum Garnieren
 
 ### Zubereitung
-
 1. Den Backofen auf 200°C vorheizen und zwei Backbleche mit Backpapier belegen.
 1. Vorsichtig ein Teigblatt auf einem großen Schneidebrett auslegen. Dünn mit zerlassener Butter bepinseln und ein zweites Blatt darauflegen. Die Blätter mit einem scharfen Messer waagrecht in etwa 10+25 cm große Streifen schneiden.
 1. Ein Ende eines Streifens zu einer Tüte eindrehen, 1 gehäuften EL der Füllung hineinlegen und den Rest des Streifens so über die offene Seite legen, dass ein Dreieck entsteht und die Öffnung geschlossen ist. Den Teigstreifen so oft um das Dreieck falten, bis sein Ende erreicht ist. Überschüssigen Teig abschneiden, das Ende des Streifens mit etwas Butter bepinseln und fest andrücken. Die Samosa auf ein Backblech legen und die übrigen Samosas füllen. 
@@ -998,7 +987,6 @@ Schwarzkümmelsamen oder Kreuzkümmelsamen zum Garnieren
 10 g Minzeblätter
 
 ### Zubereitung
-
 1. Den Lauch in 0,5 dicke Scheiben schneiden und beiseitestellen.
 1. Öl und Butter in einer großen Pfanne erhitzen, dann die Senfsamen hineingeben. Sobald sie aufplatzen, die Zwiebel hinzufügen und unter gelegentlichem Rühren 10 Minuten weich und goldgelb braten. Den Ingwer dazugeben und 1 Minute braten, anschließend den Lauch unterheben.
 1. Weitere 10 Minuten garen, bis der Lauch weich und süß ist. Erbsen, Garam masala, Kreuzkümmel, Cayennepfeffer, Kurkuma, Salz und Zitronensaft hinzugeben. Gründlich durchrühren, einige weitere Minuten garen, dann vom Herd nehmen und kurz abkühlen lassen. Kurz vor dem Füllen der Samosas die Minze hacken und mit der Füllung vermengen.
@@ -1011,7 +999,6 @@ Schwarzkümmelsamen oder Kreuzkümmelsamen zum Garnieren
 Schwarzkümmel- oder Kreuzkümmelsamen zum Garnieren, wenn man will
 
 ### Zubereitung
-
 1. Den Backofen auf 200 Grad vorheizen und zwei Backbleche mit Backpapier belegen.
 1. Vorsichtig ein Teigblatt auf einem großen Schneidebrett auslegen. Dünn mit zerlassener Butter bepinseln und ein zweites Blatt darauflegen. Die Blätter mi einem scharfen Messer waagrecht in etwa 10 x 25 cm große Streifen schneiden.
 1. Ein Ende des Streifens zu einer Tüte eindrehen, 1 gehäuften EL der Füllung hineingeben und den Rest des Teigstreifens so über die offene Seite legen, dass ein Dreieck entsteht und die Öffnung geschlossen ist. Den Teigstreifen so oft um das Dreieck falten, bis sein Ende erreicht ist. Überschüssigen Teig abschneiden, das Ende des Streifens mit etwas Butter bepinseln und fest andrücken. Die Samosa auf ein Backblech legen und die übrigen Samosa füllen.
@@ -1228,7 +1215,6 @@ Info:	Erinnert ihr euch, wie ihr in Kampala auf der Kochinsel saßt und Dinah w�
 4 Frühlingszwiebeln, klein geschnitten
 
 ### Zubereitung
-
 1. Für die Teigtaschen Mehl und Salz in einer großen Schüssel mischen, eine Mulde in die Mitte drücken. Nach und nach 110 ml Wasser hinzugießen und zu einem glatten Teig verkneten, dann mit einem feuchten Küchentuch abdecken.
 1. die Zutaten für die Chilisauce in einer Schüssel verquirlen, bis sich der Zucker aufgelöst hat. Für die Füllung 1 EL Öl in einer großen Pfanne erhitzen, Ingwer und Knoblauch hineingeben und bei mittlerer Hitze 1 Minute anschwitzen, die Möhren dazugeben und einige Minuten braten. Kohl, Paneer, Salz und Sojasauce hinzufügen und garen, bis das Gemüse weich ist. Die Mischung sollte recht trocken sein. Die Frühlingszwiebeln hineingeben, vom Herd nehmen und abkühlen lassen. Fein hacken.
 1. Zwei Backbleche leicht bemehlen. Den Teig mit den Händen zu einer langen rolle formen und in vier Teile teilen. Einen Teil nehmen und die übrigen mit einem feuchten Küchentuch abdecken. Den Teig in fünf Stücke schneiden. Jedes zu einer Kugel rollen, bemehlen und auf einer gut bemehlten Fläche kreisförmig (Durchmesser 8 cm) ausrollen. Die fertigen kreise auf ein Blech legen und den übrigen teig ausrollen.
@@ -1259,7 +1245,6 @@ Salz, Pfeffer
 Tomatengewürz, Paprika (edelsüß)
 
 ### Zubereitung
-
 1. Öl in die Pfanne geben, alles anrösten und nach 2 -3 Minuten 1 Tasse klare Suppe dazugeben.
 1. Teig mit Wasser formen. Mehl, Backpulver, heißes Schweineschmalz und Eier vermischen bis wieder ein Teig entsteht. Teig in zwei Teile teilen und in eine Backform legen. Eine Schicht oben, eine Schicht unten mit Füllung dazwischen. Teig mit Eigelb bepinseln und bei 230 Grad 40 Minuten backen.
 
@@ -1292,7 +1277,6 @@ Tipp:	Die Pizza-Häppchen können am Morgen zubereitet werden und vor dem Servie
 ## Pizzaschnecken mit Schinken und Ananas
 ### Zutaten (für 16 Stück):
 250 g Mehl
-
 2,5 TL Backpulver
 40 g Butter, zerkleinert
 125 ml Milch
@@ -1321,7 +1305,6 @@ Tipp:	Die Pizza-Häppchen können am Morgen zubereitet werden und vor dem Servie
 1 EL Olivenöl
 
 ### Zubereitung
-
 1. 7 g Trockenhefe, ½ TL Zucker und 185 ml warmes Wasser mischen, abdecken und 10 Minuten ruhen lassen, bis sich Blasen bilden. 250 g Mehl und ½ TL Salz in eine große Schüssel sieben; in die Mitte eine Mulde drücken. Die Hefemischung und 1 EL Olivenöl zugeben. die Zutaten mit einem breiten Messer verarbeiten, bis sie sich verbinden. Auf einer bemehlten Arbeitsfläche 10 Minuten zu einem glatten Teig verkneten.
 1. In eine leicht geölte Schüssel legen und mit Frischhaltefolie abgedeckt 45 Minuten ruhen lassen, bis sich das Teigvolumen verdoppelt hat. Dem Teig einen festen Faustschlag versetzen, sodass die Luft entweicht; anschließend nochmals 8 Minuten kneten. Auf 1 cm Dicke ausrollen. Kreise von 7 cm Durchmesser ausstechen, auf ein mit Backpapier ausgelegtes Backblech setzen und mit verschiedenen Belägen versehen. Bei 200 Grad (Gas 3) 15 Minuten backen.
 
@@ -1346,7 +1329,6 @@ Tomaten aus der Dose, Saft abgießen
 Mozzarella, Knoblauch, Tintenfisch (hihi), Peperoncini, Frühlingslauch, Garnelen (nochmal hihi – nehmt ihr nie 😊), Koriander, Sweet Chili Sauce, Olivenöl, Fleur de Sel
 
 ### Zubereitung
-
 1. Mehl in eine Schüssel geben und in der Mitte eine Mulde machen. In einem Messbecher das Wasser mit Zucker, Salz und Olivenöl gut verrühren, bis sich Zucker und Salz aufgelöst haben. Das Wasser darf maximal 38°C haben, also lauwarm. 
 1. Mit einem Holzlöffel zu einem Teigklumpen verrühren. Diesen dann auf der Arbeitsfläche mit Mehl zu einer glatten Kugel kneten. Etwa 10 Minuten an einem warmen Ort ruhen lassen. Mehl auf Arbeitsfläche verteilen, Teig in 4 Stücke teilen und je ein Teigstück mit dem Nudelholz auf einer bemehlten Arbeitsfläche zu runden Pizzen formen.
 1. Für die Tomatensauce die Tomaten in ein Sieb geben und den Saft auffangen. Das Tomatenfleisch mit Salz, Olivenöl, Zucker und Currypaste mixen. Mozzarella gut abtropfen lassen, mit Küchenkrepp trockentupfen und in kleine Stücke reißen.
@@ -1383,7 +1365,6 @@ Auf je 500 g Mehl
 handwarmes Wasser nach Bedarf
 
 ### Zubereitung
-
 1. die Zutaten zu einem Teig kneten. Der Teig sollte weiter knetbar sein. Eventuell Wasser mit Milch verdünnen.
 1. Ofen auf 200 Grad vorheizen. Backblech mit Öl satt einstreichen und Pizzateig per Hand oder Teigrolle aufs Backblech ausrollen. Belegte Pizza in den Ofen geben und fertig backen.
 
@@ -1775,7 +1756,6 @@ Grobes Meersalz
 Salz, etwas Butter
 
 ### Zubereitung
-
 1. Pecorino in Würfelchen schneiden, Parmesan reiben. 3 ganze Eier und 2 Eigelb in einer Schüssel verquirlen, mit einer Prise Salz und dem Käse vermengen. Nach und nach das Öl unter die erhaltene Creme rühren. 
 1. Zimmerwarmen Brotteig auf die bemehlte Arbeitsfläche legen und energisch mit beiden Händen durchkneten. Eine Mulde in den Teig drücken. Esslöffelweise etwas von dem Eiergemisch dazugeben dann wieder verkneten. So lange damit fortfahren, bis alles aufgenommen ist. Mit den Händen eine Kugel formen und in eine große, mit Mehl bestäubte Schüssel legen. Mit einem Tuch zudecken und 2 Stunden gehen lassen, bis sich das Volumen des Teig verdoppelt hat. Teig in eine mit Butter ausgepinselte Form füllen und nochmals zugedeckt für eine Stunde gehen lassen.
 1. Backofen auf 180 Grad vorheizen. Nach dem letzten Gehen die Oberfläche des Teigs mit geschlagenem Eigelb bestreichen und im Ofen für ca. 1 Stunde backen. Nach dem Backen ca. ¼ Stunde ruhen lassen und dann warm servieren.
@@ -1944,7 +1924,6 @@ Ein paar Zweige Thymian
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den aufgetauten Blätterteig auf ein Backblech legen. An den Rändern den Teig etwa einen Zentimeter einschlagen. Nicht mehr, sonst wird der Rand zu dick.
 1. Den Ziegenkäse in Stückchen auf den Teig geben. Die Birne schälen und in nicht zu große Schnitze schneiden und auf dem Käse verteilen.
 1. Die Thymianblätter von den Zweigen lösen und eventuell etwas zerkleinern und auf dem Käse-Birnen-Belag gleichmäßig verteilen. Das Ganze salzen und pfeffern.
@@ -2008,7 +1987,6 @@ Dazu passt natürlich Avocadocreme oder -salat etc. super.
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Avocado und Butter mit der Hälfte der Limettenschale, der Hälfte des Limettensafts sowie ½ TL Salz glatt pürieren. In eine kleine Schüssel umfüllen. Zwei Drittel der Kräuter unterheben. Die Avocadobutter 10 Minuten kaltstellen.
 1. Für die Salsa die Tomaten mit den Kapern, der restlichen Limettenschale, dem restlichen Limettensaft, dem Öl und nicht zu wenig Pfeffer mischen. Bis zum Servieren beiseitestellen.
 1. Die Brotscheiben rösten. Jeweils auf eiern Seite mit der Schnittfläche der Knoblauchzehe einreiben, dann nur kurz abkühlen lassen. Die Scheiben mit der Avocadobutter bestreichen und die Tomatensalsa daraufgeben. Mit dem Kreuzkümmel und den restlichen Kräutern bestreuen. Mit Pfeffer übermahlen, mit Öl beträufeln und servieren.
@@ -2029,7 +2007,6 @@ Info:	Die Ökobilanz der Avocado ist natürlich verheerend. Schmeckt aber trotzd
 Salz
 
 ### Zubereitung
-
 1. alle Zutaten bis auf das Öl mit ½ TL Salz in eine große Schüssel geben. Alles gut mischen und beiseitestellen.
 1. In einer großen beschichteten Pfanne 2 EL Öl bei mittlerer bis hoher Temperatur erhitzen. Die Masse portionsweise in das heiße Öl geben – ergibt ca. 4 Pfuffer mit 12 cm Durchmesser. Die Pfuffer auf jeder Seite 1 – 2 Minuten backen, bis sie knusprig du goldbraun sind; nach Bedarf Öl dazugeben. Fertig gebackene Puffer auf einen mit Zewa bedeckten Teller legen.
 1. Die Pfuffer warm oder bei Zimmertemperatur servieren.
@@ -2051,7 +2028,6 @@ Tipp: 	Für diese Pfuffer kann man gut den Kühlschrank plündern und alle Kräu
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den Backofen auf 180 Grad Umluft vorheizen.
 1. Ciabatta, Milch und Sahne in eine Schüssel geben und sorgfältig mischen. Zudecken und für 30 Minuten beiseitestellen, damit das Brot den Großteil der Flüssigkeit aufnehmen kann.
 1. Die Eier mit 50 g Parmesan, Knoblauch, Kreuzkümmel, ¾ TL Salz und ¼ TL Pfeffer in eine große Schüssel geben. Gut mischen, erst dann das Brot und die restliche Flüssigkeit hinzufügen, anschließend Zucchini und Basilikum. Alles behutsam verrühren.
@@ -2067,7 +2043,6 @@ Salz, Pfeffer
 Salz
 
 ### Zubereitung
-
 1. Das Öl in eine große Pfanne geben und bei mittlerer bis hoher Temperatur erhitzen. Die Zwiebelringe darin 9 – 10 Minuten unter häufigem Rühren braten, bis sie karamellisiert und weich sind.
 1. Harissa zu den Zwiebeln geben und 1 Minute rühren. Dann den Tofu und ¾ TL Salz hinzufügen. Den Tofu mit einem Kartoffelstampfer zerdrücken, bis er wie Rührei aussieht, und weitere 2 Minuten heiß werden lassen. Den Tofu auf dem gerösteten Brot anrichten.
 1. Dazu passt z.B. gut ein Avocado-Gurken-Salat.
@@ -2105,7 +2080,6 @@ Paprikapulver (spanisch, scharf)
 1 Scheibe Sauerteigbrot
 
 ### Zubereitung
-
 1. Die Bärlauchbutter schneidet man längs in Streifen und schwitzt sie in einer Pfanne mit dem Olivenöl an. Dann nimmt man die Blätter aus der Pfanne. Das verbliebene Fett wird erhitzt, bis es kurz davor ist, zu rauchen.
 1. Jetzt werden die Eier und das Eigelb verquirlt und mit den angebratenen Blättern in die Pfanne geben. Man schmeckt mit Salz und Pfeffer ab. Die Eiermasse wendet man nach einem Augenblick und belässt sie dann für ungefähr eine halbe Minute in der Pfanne.
 1. Das Ergebnis sollte weich und locker sein und eine Konsistenz zwischen Rührei und Omelett haben. Die Eier essen sich am besten auf einer Scheibe Sauerteigbrot. Darüber scharfes Paprikapulver gestreut.
@@ -2125,7 +2099,6 @@ Tipp:	Man kann den Bärlauch im Wald oder im Garten selber sammeln. Man sollte d
 2 EL fein gehacktes Koriandergrün
 
 ### Zubereitung
-
 1. Die Kreuzkümmelsamen im Mörser grob zerstoßen und beiseitestellen. Die Eier in eine Schüssel aufschlagen und leicht mit der Gabel verquirlen.
 1. Die Butter in einer Pfanne zerlassen, Kreuzkümmel und Zwiebeln hineingeben und bei mittlerer Hitze 12 – 15 Minuten braten, bis die Zwiebeln weich werden, bräunen und karamellisieren. Nun Tomaten, Chilis, Salz und Pfeffer hinzufügen.
 1. Die Tomaten 30 Sekunden in der Pfanne schwenken, dann die Temperatur auf schwache Hitze reduzieren und die Eier hinzugeben. Unter ständigem Rühren braten. Wenn die Eier zu stocken beginnen, aber noch leicht weich sind, die Pfanne vom Herd nehmen und den gehackten Koriander unterrühren.
@@ -2161,7 +2134,6 @@ Rapsöl
 2 TL Zucker
 
 ### Zubereitung
-
 1. Für die Hoppers Hefe, Zucker, Mehl, Reismehl und Salz in einer großen Schüssel miteinander vermengen. 380 ml lauwarmes Wasser hinzugießen und alles gründlich verrühren, bis eine glatte Masse entsteht. Den Teig an einem warmen Ort 15 Minuten gehen lassen, bis sich viele Blasen bilden.
 1. Für das Zwiebel-Sambol die Kardamonkapseln im Möser grob zerstoßen. Öl in einer großen Pfanne erhitzen, Gewürznelken, Kardamom und Zimtstange hineingeben. Wenn die Gewürze zu duften beginnen, Zwiebeln, Salz und Cayennepfeffer hinzufügen und bei schwacher bis mittlerer Hitze unter gelegentlichem Rühren 30 – 40 Minuten rösten, damit die Zwiebeln nicht anbrennen. Zum Schluss den Zucker einrühren, bis er völlig gelöst ist. Abschmecken und vom Herd nehmen.
 1. Für die Hoppers eine kleine Pfanne mit Deckel leicht mit Öl einfetten. Erhitzen und eine Kelle Teig in die Pfanne geben, dabei die Pfanne am Stiel fassen und schnell schwenken, damit der Teig sich gleichmäßig über Boden und Pfannenwand verteilt. Bei mittlerer Hitze 1 Minute braten, bis der Teig stockt, dann 1 Ei in die Mitte schlagen und den Deckel aufsetzen. Weitere 3 – 4 Minuten braten, bis das Eiweiß gestockt ist und der Hopperteig sich vom Pfannenrand löst, dann vorsichtig auf einen Teller setzen. Der Hopper sollte außen knusprig und golden, das Eigelb in der Mitte aber noch weich sein. Dies wiederholen, bis alle Hoppers fertig sind. 
@@ -2185,7 +2157,6 @@ Dies ist das Lieblingsfrühstück auf Sri Lanka: hauchzarte Crêpes-Schalen, in 
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Die Butter mit 1 EL Öl in einer großen Pfanne bei mittlerer bis hoher Temperatur erhitzen. Sobald die Butter schäumt, den Lauch mit ½ TL Salz und nicht zu wenig Pfeffer hinzufügen. 3 Minuten garen, dabei häufig umrühren, bis der Lauch weich ist. Kreuzkümmel, Zitronen und Gemüsebrühe dazugeben und alles 4 – 5 Minuten sprudelnd kochen lassen, bis der Großteil der Brühe verdampft ist. Den Spinat unterheben und 1 Minute mitgaren, bis er zusammengefallen ist, dann mittlere Hitze einstellen.
 1. Mit einem großen Löffel sechs Mulden in die Mischung drücken und in jede ein Ei schlagen. Die Eier mit 1 Prise Salz bestreuen und rundherum die Fetastücke verteilen. Den Deckel auflegen. Das Gericht 4 – 5 Minuten köcheln lassen, bis das Eiweiß gestockt, das Eigelb aber innen noch flüssig ist.
 1. Das restliche Öl mit Za’atar mischen und die Eier damit bestreichen. Das Gericht sofort servieren, direkt aus der Pfanne.
@@ -2209,7 +2180,6 @@ Salz, Pfeffer
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den Backofengrill auf höchster Stufe vorheizen.
 1. In eine ofenfeste Pfanne 3 EL des Öls geben und bei mittlerer Temperatur erhitzen. Die Zwiebelringe darin 15 Minuten braten, bis sie gut gebräunt und karamellisiert sind, dabei immer umrühren. In eine große Schüssel füllen. Eier, Milch, Harissa, Schwarzkümmel, die Hälfte des Koriandergrüns, ½ TL Salz und nicht zu wenig Pfeffer hinzufügen. Alles mit einem Schneebesen verrühren, dann beiseitestellen.
 1. Die Pfanne auswischen. 2 EL des Öls hineingeben und bei mittlerer bis hoher Temperatur erhitzen. Ein Viertel der Eimischung hineingießen und durch Schwenken der Pfanne gleichmäßig verteilen. Nach 1 Minute mit einem Viertel der Manchego-Raspeln bestreuen und 1 Minute unter den Grill schieben, damit der Käse schmilzt und die Eier fertig garen. Mit einem Teigschaber den Rand des Omelettes rundherum lösen. Das Omelette aus der Pfanne auf einen Teller gleiten lassen. Warmhalten, während aus der restlichen Eimischung drei weitere Omeletts gebacken werden. 
@@ -2302,7 +2272,6 @@ Salz
 1 EL Butter
 
 ### Zubereitung
-
 1. Chili waschen, entstielen, entkernen und mit den Oliven fein hacken. Tomaten waschen und halbieren.
 1. Die Eier mit der Sahne und Salz verquirlen. Die Butter in einer Pfanne zerlassen, die Tomaten darin unter Rühren bei mittlerer Hitze 2-3 Minuten braten.
 1. Eier mit Chili und Oliven mischen, zu den Tomaten gießen und unter Rühren stocken lassen. Chili-Rührei mit Bauernbrot oder Bratkartoffeln servieren.
@@ -2347,7 +2316,6 @@ Blätter von 2 Zweigen frischen Thymian, fein gehackt
 Pfeffer, Salz
 
 ### Zubereitung
-
 1. Den Backofen auf 180 Grad (Gas Stufe 4) vorheizen.
 1. Die Pinienkerne in einer Pfanne ohne Fettzugabe anrösten und in einer Tasse beiseitestellen.
 1. Das Fett in die Pfanne geben, auf mittlerer Stufe erhitzen und Pilze, Spinat und Thymian darin bei gelegentlichem Umrühren einige Minuten braten, bis alles weich und zart ist.
@@ -2375,7 +2343,6 @@ Pfeffer, Salz
 Meersalzflocken und Pfeffer
 
 ### Zubereitung
-
 1. Den Backofen auf 220 Grad Umluft vorheizen.
 1. Die Pilze mit 3 EL des Öls, 1 Knoblauchzehe, ¼ TL Zimt, ½ TL Meeresflocken und nicht zu wenig Pfeffer mischen. Auf einem großen, mit Backpapier bedeckten Backblech verteilen und 15 Minuten im Ofen rösten, bis sie weich und gebräunt sind; nach der Hälfte der Zeit wenden. Zum Schluss Basilikum beiseitestellen.
 1. Während die Pilze im Ofen sind, die restlichen 2 EL Öl mit dem restlichen Zimt (1/4 TL), dem verbliebenen Knoblauch, den Chiliflocken und ¼ TL Meersalzflocken verrühren. Die Brioche-Scheiben mit der Öl-Gewürzmischung bestreichen un mit der bestrichenen Seite nach oben auf ein zweites mit Backpapier belegtes Backblech legen. 6-7 Minuten bevor die Pilze fertig sind, ebenfalls in den Ofen schieben und rösten, bis die Brioche goldbraun und knusprig sind.
@@ -2430,7 +2397,6 @@ Salz, Zucker
 100 g Hartkäse gerieben
 
 ### Zubereitung
-
 1. Das Mehl mit dem Ei, den Eigelben und der Sahne glattrühren und so viel Milch zugießen, dass ein dünnflüssiger Teig entsteht. Den Teig salzen und mindestens 1 Stunde zugedeckt quellen lassen.
 1. Die Butter nach und nach in einer Pfanne zerlassen und aus dem Teig dünne, etwa kuchentellergroße Crêpes braten.
 1. Den Quark mit den Eiweißen verrühren. Den Schinken würfeln und mit dem Salz, dem Pfeffer und den Kräutern unter den Quark mischen. Die Crêpes mit der Quarkmasse bestreichen und aufrollen.
@@ -2452,7 +2418,6 @@ Etwas Butter
 2 EL griechischer Joghurt (10% Fett)
 
 ### Zubereitung
-
 1. Die schon etwas trockenen Toastscheiben in eine Mischung aus Milch, eiern und Vanillemark legen. Etwas Salz kommt hinzu. Brot für 10 Minuten einweichen lassen. 
 1. Butter in der Pfanne erhitzen, Toastscheiben von beiden Seiten anbraten. Mit Zimt bestreuen, Honig und griechischen Joghurt darübergeben.
 
@@ -2515,7 +2480,6 @@ Pancakes zum Frühstück kommen immer gut.
 5-6 Eiweiß (je nach Eiergröße)
 
 ### Zubereitung
-
 1. Backofen auf 150 Grad (Umluft) vorheizen und ein Blech mit Backpapier auslegen. Pekan- und Macademianüsse sowie die Cashewkerne hacken. Mit Hafer- und Dinkelflocken, Mandelblättern, Amaranth, Leinsamen, Zimt und Meersalz mischen. Das Eiweiß steif schlagen und mit einem Spatel so lange unter die Mischung heben, bis alles gut vermengt ist. 
 1. Masse auf das Backblech streichen und ca. 40 Minuten knusprig backen. Nach der Hälfte der Backzeit einmal mit einem Holzlöffel wenden. Sehr gut auskühlen lassen.
 1. Luftdicht verschlossen hält sich das selbstgemachte Granola bis zu vier Wochen. Mit Joghurt und Früchten wird daraus schnell ein vollwertiges Frühstücksmüsli – oder mit heißer Milch ein Porridge. 
@@ -2575,7 +2539,6 @@ Tipp:	Eigentlich eher etwas für die klassische englische Teatime😊
 2 Äpfel, samt Schale grob gerieben (ergibt etwa 175 g), überschüssigen Saft leicht herausdrücken
 
 ### Zubereitung
-
 1. Den Backofen samt Backblech auf 230°C (Gas Stufe 8) vorheizen. Die trockenen Zutaten in einer großen Schüssel vermischen. Butter zur Mehlmischung geben und alles mit den Fingern locker zu Streuseln verarbeiten.
 1. Joghurt und Äpfel hinzufügen und alles mit einem Kochlöffel vermengen, bis der Teig mit den Händen zu bearbeiten ist. Er darf leicht krümelig sein, soll aber zusammenhalten, wenn man ihn knetet. Vorsicht: nicht zu intensiv durchkneten, sonst werden die Scones hart. Wenn der Teig zu trocken ist, etwas mehr Joghurt dazugeben; wenn er zu feucht ist, etwas mehr Mehl untermengen. Den Teig auf einer bemehlten Arbeitsfläche zu etwa 2,5 cm Stärke flachdrücken. Mit einer 7,5 cm großen Ausstechform oder einem Glas Plätzchen ausstechen. Die Teigreste erneut kneten, flachdrücken und weitere Scones ausstechen.
 1. Backpapier auf das heiße Backblech legen und die Scones verteilen. Die Scones im Ofen etwa 15 Minuten backen, bis sie außen knusprig und innen noch saftig sind. Das Blech aus dem Ofen nehmen und die Scones der Länge nach halbieren. Je eine Schnittfläche mit Fruchtkompott oder Marmelade bestreichen, die Hälften wieder zusammensetzen und frisch aus dem Ofen warm servieren.
@@ -2615,7 +2578,6 @@ ca. 400 ml Milch
 ½ TL Zimt
 
 ### Zubereitung
-
 1. Für den Porridge die Amaranthsamen mindestens 30 Minuten (bis zu 8 Stunden) in kaltem Wasser einweichen, dann gut spülen und das Wasser abgießen.
 1. Das Amaranth mit Meersalz und 500 ml Wasser in einen Topf geben und das Ganze bei geschlossenem Deckel kurz aufkochen lassen. Die Hitze sofort reduzieren und den Porridge etwa 20 Minuten sanft köcheln lassen, bis er eine cremige Konsistenz hat. 
 1. Währenddessen in einer Pfanne auf mittlerer Stufe das Kokosfett erhitzen. Die Pflaumen und den Ahornsirup hinzufügen und die Pflaumen ein paar Minuten darin braten, bis sie weich sind und nach Karamell duften.
@@ -2706,7 +2668,6 @@ Ein paar Kakaonibs
 Ein paar Blätter frische Minze, grob gehackt
 
 ### Zubereitung
-
 1. Milch, Chiasamen, Vanille und Salz in eine Schüssel geben und gut verrühren. Die Mischung auf 2 hohe Gläser verteilen und zum Quellen (am besten über Nacht) in den Kühlschrank stellen, bis sie eine geleeartige Konsistenz hat.
 1. In der Zwischenzeit alle Zutaten für die Erdbeersauce sowie einen Spritzer Wasser in einen kleinen Topf geben, kurz aufkochen und 10 Minuten bei geringer Hitze köcheln lassen. Die Mischung in eine Schüssel geben, mit einer Gabel zerdrücken und im Kühlschrank abkühlen lassen.
 1. Die gekühlten Puddinggläser mit einer Schicht Erdbeersauce und Früchten auffüllen, mit Kakoniobs und Minze garnieren und servieren.
@@ -2781,7 +2742,6 @@ Blätter von 5 Zweigen frischen Koriander, grob zerpflückt
 2 EL eingelegt Jalapenos, abgetropft und in dünne Scheiben geschnitten (Vorsicht scharf)
 
 ### Zubereitung
-
 1. ½ EL Olivenöl oder Kokosfett in einer Pfanne erhitzen und darin die gehackte Zwiebel samt Bohnen, Chili, Kreuzkümmel und Salz bei mittlerer Hitze unter Rühren ein paar Minuten anbraten. In eine Schüssel geben, mit den restlichen Zutaten vermengen und den Salat auf 2 Teller verteilen.
 1. ½ EL Olivenöl oder Fett in einer Pfanne auf mittlerer Stufe erhitzen und die Eier darüber aufschlagen. Die Spiegeleier braten, bis die Eiweiß gestockt, die Dotter aber noch flüssig sind. Die Spiegeleier und ein paar Jalapeno-Scheiben auf den Bohnensalat geben und sofort servieren.
 
@@ -2889,7 +2849,6 @@ Meersalzflocken
 ½ TL Chiliflocken
 
 ### Zubereitung
-
 1. Mit einem Schneebesen die Zutaten für das Dressing mit ½ TL Meersalzflocken verrühren. Das Dressing durchziehen lassen.
 1. Das Nori-Blatt grob in Stücke brechen, dann zu grobem Pulver mahlen. Das Pulver mit Sesam, Chiliflocken und ½ TL Meersalzflocken mischen.
 1. Die Tomaten mit Pflaumen, Frühlingszwiebeln, Koriandergrün und Dressing durchheben. Vor dem Servieren mit Nori-Salz bestreuen.
@@ -2913,7 +2872,6 @@ Saft von 1 Limette
 40 g Koriandergrün, fein gehackt
 
 ### Zubereitung
-
 1. In einer Pfanne 1 El Öl erhitzen, die Kichererbsen hineingeben und bei mittlerer Hitze einige Minuten unter Rühren anrösten, bis sie knusprig sind. Dann Tomaten und Frühlingszwiebeln hinzufügen und beständig weiterrühren, bis sie warm sind. Das Gemüse in eine Servierschüssel geben.
 1. Für das Tarka die Butter und 1 EL Öl in einem Topf zerlassen, dann Kreuzkümmel, Chilis, Pfeffer, Salz und Cashewkerne hineingeben. Sorgfältig vermengen und unter gelegentlichem Rühren braten, bis die Cashews goldbraun sind. Den Limettensaft hinzugeben, gut durchrühren und vom Herd nehmen.
 1. Zum Servieren das Tarka über den Salat geben, alles vermischen und zum Schluss den Koriander unterheben.
@@ -2989,7 +2947,6 @@ Frische Beeren
 50 g Ziegenkäse (gefroren, zerbröselt)
 
 ### Zubereitung
-
 1. Für den Mandelkrokant Wasser, Zucker und Salz aufkochen, bis alles sich auflöst und zu einem dicken Sirup wird. Mit den Mandeln mischen, auf ein geöltes Backblech geben und im Ofen bei 160 Grad Umluft für 20 Minuten kochen. Auskühlen lassen, dann in Stückchen brechen.
 1. Für die Holunderblüten-Vinaigrette alle Zutaten (außer dem Öl) gut verrühren, bis sie sich verbinden. Die verschiedenen Öle miteinander vermischen und langsam unter Rühren einträufeln, sodass eine Emulsion entsteht.
 1. Die Salate waschen, Zuckerschoten kurz blanchieren, bis sie bissfest sind. Radieschen in dünne Scheiben schneiden. Alle Salat Zutaten mit der Vinaigrette mischen.
@@ -3010,7 +2967,6 @@ Wenn es duftet, sagt mein innerer Kalender: jetzt ist Sommer. Holunder oder in S
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Die Schalottenringe mit Sumach, Essig, und 1/8 TL Salz in eine kleine Schüssel geben. Alles mit den Händen mischen – der Sumach sollte richtig in die Schalotten einmassiert werden – dann 30 Minuten beiseitestellen, damit die Schalotten weich werden.
 1. Die großen Tomaten längs halbieren. Anschließend in 1 – 1,5 dicke Spalten schneiden und diese in eine große Schüssel füllen. Kleine Tomaten längs halbieren und dazugeben. Olivenöl, Basilikum, 1/3 TL Salz und nicht zu wenig Pfeffer (ist wohl gerade meine Pfefferphase 😊) hinzufügen und alles behutsam mischen.
 1. Die Tomaten auf einer großen Servierplatte anrichten. Die Schalotten darauf verteilen, dann einige Tomaten und Basilikumblätter unter den Schalotten hervorziehen. Das Gericht mit den Pinienkernen bestreuen und servieren.
@@ -3034,7 +2990,6 @@ Sehr lecker 😊
 Salz
 
 ### Zubereitung
-
 1. Ein Sieb auf eine Schüssel setzen. Die Tomaten hineingeben und 20 Minuten abtropfen lassen. Anschließend in eine große Schüssel füllen. Gurke, Paprika, Frühlingszwiebeln, Koriandergrün, Zitronensaft, Öl sowie ½ TL Salz hinzufügen und alles mischen.
 1. Kurz vor dem Anrichten den Salar in eine Servierschüssel umfüllen. Nach Belieben Feta dazufügen. Den Salat behutsam durchheben, dann mit Tahin beträufeln sowie mit Za’atar und etwas Salz bestreuen.
 
@@ -3060,7 +3015,6 @@ Abgeriebene Schale einer Bio-Zitrone
 20 g glatte Petersilie, gehackt
 
 ### Zubereitung
-
 1. Den Backofen auf 220 Grad vorheizen. Eine Grillpfanne auf den Herd stellen und bei starker Hitze heiß werden lassen. Die Zucchini der Länge nach halbieren, die Stielansätze entfernen. Die Tomaten ebenfalls halbieren. Die Schnittflächen von Tomaten und Zucchini mit Olivenöl bestreichen und mit Salz und Pfeffer bestreuen.
 1. Die Zucchinihälften mit der Schnittfläche nach unten in die sehr heiße Pfanne legen und portionsweise 5 Minuten grillen, bis sie dunkle Streifen zeigen. Mit den Tomaten ebenso verfahren. Tomaten und Zucchini anschließend in einer ofenfesten Form verteilen und für ca. 20 Minuten in den Backofenschieben, bis die Zucchini sehr weich sind.
 1. Herausnehmen und etwas abkühlen lassen. Grob hacken, dann 15 Minuten in einem Sieb abtropfen lassen. In einer großen Schale den Joghurt mit Knoblauch, Chili, Zitronenschale, Zitronensaft und Dattelsirup verrühren. Das gehackte Gemüse, Walnusskerne, Minze sowie den größten Teil der Petersilie hinzufügen. Alles gut durchmischen und mit ¾ TL Salz und etwas Pfeffer würzen.
@@ -3133,7 +3087,6 @@ Etwas Olivenöl
 Abgeriebene Schale von ½ Bio-Zitrone
 
 ### Zubereitung
-
 1. Den Backofen auf 200 Grad Ober-/Unterhitze vorheizen. Die Eier in kochendes Wasser gleiten lassen, in etwa 10 Minuten hart kochen, pellen und längs achteln. Die Radieschen waschen und halbieren. Frühlingszwiebeln waschen, putzen, die dunkelgrünen Blätter abschneiden, die äußere Schicht um das Weiß entfernen. Knoblauchzehen schälen, etwas andrücken.
 1. Radieschen, Frühlingszwiebeln und Knoblauch auf einem mit Backpapier ausgelegten Blech verteilen. Salzen und pfeffern, etwas Olivenöl darübergeben und das Gemüse 15-20 Minuten lang im Ofen garen. Das Gemüse sollte dann weich sein, aber noch etwas Biss haben.
 1. Für das Dressing in einer Salatschüssel etwas Olivenöl, Senf, Essig und wenig salz verrühren. Den Dill waschen, trocken schütteln, die Spitzen abzupfen, diese fein hacken und unterrühren, ebenso die Zitronenschale. Das Gemüse in die Schüssel geben, mit dem Dressing vermengen. Die harten Eier dazu servieren.
@@ -3152,7 +3105,6 @@ Meersalz, Pfeffer
 200 g weicher Ziegenfrischkäse, zerkrümelt
 
 ### Zubereitung
-
 1. Das geputzte und geschnittene Gemüse mit der gehackten Petersilie in eine große Schüssel geben. 
 1. Mit Zitronensaft, Olivenöl, Salz und Pfeffer abschmecken und alles gut vermischen. Den Salat mit dem Ziegenkäse garnieren und servieren.
 
@@ -3176,7 +3128,6 @@ Kerne von 1 Granatapfel
 100 g geröstete und gesalzene Mandeln
 
 ### Zubereitung
-
 1. Den Backofen auf 200 Grad (Gas Stufe 6) vorheizen.
 1. Zucchini und Aubergine in dünne Scheiben schneiden und auf ein Grillgitter über einem Backblech legen.
 1. Die Scheiben mit einem Backpinsel auf beiden Seiten sparsam mit Öl bepinseln und mit Salz bestreuen. Im Ofen backen, bis die Gemüsescheiben weich und schön gebräunt sind (dauert ca. 15 Minuten…).
@@ -3205,7 +3156,6 @@ Saft von 1 Limette
 3 EL ungesalzene Erdnüsse
 
 ### Zubereitung
-
 1. Quinoa in einem Topf ungefähr 6 Minuten lang anrösten, nicht anbrennen lassen! Wasser hinzugießen. Zitronengras fein hacken, dazugeben, ebenso Chiliflocken (nach Geschmack) und eine gute Prise Salz. Wasser aufkochen, dann 12 Minuten simmern lassen, bis die Quinoa gar ist (und das Wasser vollständig eingekocht). Topf vom Herd nehmen, Quinoa kalt werden lassen.
 1. Koriander, Minze und Basilikum fein hacken, Zwiebeln in feine Ringe schneiden, zusammen mit der Quinoa in eine Salatschüssel geben. Limettensaft und Kokosmilch zu einem Dressing verrühren und dieses über den Salat geben. Dann Erdnüsse in einer Pfanne ohne Fett anrösten und damit den Salat garnieren.
 
@@ -3231,7 +3181,6 @@ Saft von 1 Zitrone
 Wer will noch Parmesan frisch gehobelt
 
 ### Zubereitung
-
 1. Die Getreidekörner in eine Schüssel geben, mit doppelt so viel Wasser auffüllen und mindestens 1 Stunde (höchstens 12 Stunden) einweichen lassen.
 1. Inzwischen den Backofen auf 200 Grad vorheizen.
 1. Zucchini, Paprikaschote, Fenchel und Tomaten in kleine Würfel schneiden. Das Gemüse auf ein Backblech legen, mit Olivenöl beträufeln, Knoblauch sowie eine Prise Salz und Pfeffer hinzufügen und alles mit den Händen gut vermischen.
@@ -3287,7 +3236,6 @@ Salz, Pfeffer
 2 EL Olivenöl
 
 ### Zubereitung
-
 1. Den Backofen auf 240 Grad (Umluft) vorheizen.
 1. Die Karotten in einer großen Schüssel mit Öl, Ahornsirup, 1 ¼ TL Salz und einer kräftigen Prise Pfeffer mischen. Möglichst großzügig auf zwei mit Backpapier bedeckte Bleche verteilen und im heißen Ofen 18 Minuten rösten, bis sie schön gebräunt, aber noch bissfest sind. Nach der Hälfte der Zeit die Karotten durchheben und die Position der Bleche tauschen.
 1. die Zutaten für die Chamoy-Sauce mit ¼ TL Salz fein zerkleinern.
@@ -3313,7 +3261,6 @@ Info:	Der Salat eignet sich gut für ein vegetarisches Buffet, aber auch als Bei
 Salz
 
 ### Zubereitung
-
 1. Von einer Zitrone sieben dünne Scheiben abschneiden; aus den übrigen Früchten 2,5 EL Saft auspressen und in eine große Schüssel geben. Die Zitronenscheiben entkernen, dann aufeinanderlegen. Die Hälfte der Schale entfernen und wegwerfen. Dann die Scheiben mitsamt der verbliebenen Schale fein hacken.
 1. Mit Öl, getrockneter Minze, Za’atar, Schalotte, Chilis, Gurke sowie 1 TL Salz in die Schüssel geben. Alles gut mischen, dann den Feldsalat und die Kräuter hinzufügen. Den Salat durchheben und sofort servieren.
 
@@ -3337,7 +3284,6 @@ Salz
 1 Prise Salz
 
 ### Zubereitung
-
 1. Die Gurken waschen und mit einem Hobel in feine Scheiben schneiden, die Enden wegwerfen. Chili in Ringe schneiden, Frühlingszwiebeln ebenfalls, Knoblauch fein reiben, Koriander und Minze grob hacken. Ungesalzene Erdnüsse, wie man sie für dieses Rezept braucht, gibt es meistens in der Schale zu kaufen, das ist aber verhältnismäßig aufwändig. Daher die ganz normalen Erdnüsse nehmen, sie sind oft schon geröstet, sodass man sich diesen Schritt sparen kann. Die Erdnüsse werden also einfach geschält und gehackt. Alles in einer großen Schüssel vermengen.
 1. Für das Dressing Öl, Limettensaft, Reisessig, Fischsoße (kann man auch weglassen, aber wieso), Zucker und Salz in einer Schale vermengen. Salat mit dem Dressing anmachen. Mit Salz und Limettensaft abschmecken.
 
@@ -3373,7 +3319,6 @@ Salz, Pfeffer
 1 Prise Sumach
 
 ### Zubereitung
-
 1. Olivenöl, Essig, Koriander, Honig, Salz und Pfeffer in eine Salatschüssel geben und zu einem Dressing vermengen. Die Melone schälen, in ungefähr 2 cm große Würfel schneiden und zum Dressing geben. Die Gurke schälen, der Länge nach vierteln und in dünne Scheiben schneiden, dazugeben. Chilischote waschen, nach Belieben entkernen, hacken und unterrühren. Alles vermengen und 10 Minuten ziehen lassen.
 1. Kürbiskerne in einer Pfanne ohne Fett anrösten, bis sie knusprig sind. Minze waschen, trocken schütteln, die Blätter abzupfen und diese fein hacken, mit dem Sumach dazugeben.
 
@@ -3393,7 +3338,6 @@ Honig- und Galiamelone dürften in diesem Salat genauso gut schmecken, und man k
 200 ml Olivenöl
 
 ### Zubereitung
-
 1. alle Zutaten mit einer kräftigen Prise Salz mischen.
 1. Und schon ist alles fertig.
 
@@ -3427,7 +3371,6 @@ alle Zutaten mit ½ TL Salz mischen. Fertig. 😊
 Meersalzflocken
 
 ### Zubereitung
-
 1. In einer kleinen Schüssel die Schalotte mit dem Zitronensaft und 1 großzügigen Prise Meersalzflocken vermengen.
 1. Das Öl in einem kleinen Topf bei mittlerer bis hoher Temperatur erhitzen. Sobald es heiß ist, die Curry- oder Basilikumblätter und die Senfsamen hineingeben. 30 – 60 Sekunden frittieren und behutsam in dem Öl schwenken, bis sie knusprig sind und alles aromatisch duftet. Das Öl durch ein Sieb in eine kleine Schale gießen, die Aromate beiseitestellen.
 1. Die Melonenstücke mit dem Mozzarella auf einer großen Platte anrichten und mit ½ TL Meersalzflocken bestreuen. Alles mit dem aromatischen Öl beträufeln, dann die Schalotte und en Zitronensaft auf dem Salat verteilen. Mit der abgerieben Zitronenschake, den frittierten Senfsamen, den knusprigen Basilikumblättern sowie dem Kascha granieren und servieren.
@@ -3448,7 +3391,6 @@ Kerne von ½ Granatapfel
 200 g Radieschen
 
 ### Zubereitung
-
 1. Für das Dressing die Granatapfelkerne mit der Hand zerdrücken und mit Limettensaft, Zucker, Salz, Öl und Cayennepfeffer vermengen. Verrühren und abschmecken. Die Zwiebel dazugeben und 1 Stunde marinieren.
 1. Rettich in hauchdünne Scheiben hobeln, ebenso die Radieschen. 
 1. Rettich und Radieschen in das Dressing geben und gut vermischen. 
@@ -3470,7 +3412,6 @@ Tabasco
 Sonnenblumenöl
 
 ### Zubereitung
-
 1. Fenchel in dünne Scheiben schneiden, säuerlichen Apfel schälen und in Stifte schneiden. 1 Bund Radieschen in Stifte schneiden. Walnüsse, Haselnüsse und Mandeln dazugeben.
 1. Für die Vinaigrette Salz, Zitronensaft, 1 Prise Zucker, ein wenig Tabasco und Öl durchmengen und mit Kresse bestreuen.
 
@@ -3509,7 +3450,6 @@ Gemahlener schwarzer Pfeffer
 1 – 2 EL Zucker
 
 ### Zubereitung
-
 1. Mango schälen und dünne Streifen vom Fruchtfleisch abhobeln. Die Mangostreifen in eine Schüssel geben.
 1. Die Zwiebel halbieren und in dünne Halbmonde schneiden. Mit den Chilis, Salz, Pfeffer und Limettensaft zur Mango geben. Den Zucke nach und nach darüberstreuen und zwischendurch abschmecken.
 1. Den Salat sorgfältig mischen und vor dem Servieren mehrere Stunden im Kühlschrank marinieren.
@@ -3530,7 +3470,6 @@ Gemahlener schwarzer Pfeffer
 1 TL Zucker (wenn man braucht)
 
 ### Zubereitung
-
 1. Die harten äußeren Fenchelblätter entfernen, Triebe und Wurzelende abschneiden, das Grün abschneiden und aufbewahren.
 1. Fenchelknolle, Zwiebel und Paprika in 1 cm große Würfel schneiden (je kleiner umso besser) und in eine Schüssel geben. Die Gurke längs halbieren, Samen herausschaben, das Fruchtfleisch ebenfalls in 1 cm große Würfel schneiden und in die Schüssel geben. Den Koriander hacken und mit Salz und Schwarzkümmel hinzugeben.
 1. Für das Dressing Minze und Chili möglichst fein hacken und in einer kleinen Schüssel vermengen. Mit Joghurt, Zitronensaft und Zucker vermischen und abschmecken. Schärfe, Süße, Säure sollten sich die Waage halten.
@@ -3583,7 +3522,6 @@ Gemahlener schwarzer Pfeffer
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Die Kürbiskerne trocken rösten.
 1. Den Kürbis mit der Rösti-Raffel reiben, die Champignons putzen und in Scheiben schneiden. Den Kürbis in der Hälfte des Öls andünsten, aus der Pfanne nehmen und beiseitestellen. In der gleichen Pfanne im restlichen Öl die Pilze andünsten.
 1. Die Sauce zubereiten. Den Ingwer schälen und mit der reibe direkt in die Sauce reiben. Die Petersilie beifügen.
@@ -3610,7 +3548,6 @@ Wieder so ein Mundenhof-Kürbisfest-Rezept
 Salz und Pfeffer
 
 ### Zubereitung
-
 1. Kohlrabi schälen, in 1,5 cm große Würfel schneiden und in eine große Schüssel füllen.
 1. Den Joghurt in einer kleinen Schüssel mit saurer und süßer Sahne, Knoblauch, Zitronensaft, Olivenöl, ¼ TL Salz sowie 1 kräftigen Prise Pfeffer verrühren und das Dressing über die Kohlrabiwürfel gießen. Die Minze und die Hälfte der Brunnenkresse hinzufügen. 
 1. Den Salat vorsichtig durchmischen, in einer Servierschüssel anrichten und mit der restlichen Brunnenkresse und dem Sumach bestreuen.
@@ -3635,7 +3572,6 @@ Saft von ½ Limette
 Eiswasser
 
 ### Zubereitung
-
 1. Staudensellerie waschen. Strunk abschneiden, die inneren 4 bis 5 Stangen entnehmen. Das Grün abzupfen und in kaltes Wasser legen. Minze und Oxalis abbrausen, trockenschütteln, ebenfalls abzupfen und in kaltes Wasser legen. Blaubeeren waschen und je nach Größe halbieren. Haselnüsse halbieren oder grob hacken.
 1. In einem Topf 200 ml Wasser mit 50 ml Ahornsirup, Zimtstange, Sternanis, Piment und Ingwer aufkochen. Die Selleriewürfel 1 bis 2 Minuten darin weichkochen, herausnehmen und in Eiswasser abschrecken. Abtropfen lassen, trockentupfen und beiseitestellen. Fond aufheben und anderweitig verwenden, etwa für Porridge, Obstsalat oder Dressing. Restlichen Ahornsirup mit Rapsöl und Limettensaft verrühren. Blaubeeren, Selleriewürfel und Haselnüsse darin marinieren.
 1. Auf vier kleinen Tellern verteilen. Minze, Oxalis und Selleriegrün klein gezupft darübergeben.
@@ -3658,7 +3594,6 @@ Saft von 1,5 Zitronen
 1 EL Tahini
 
 ### Zubereitung
-
 1. Auberginen in 1 bis 2 cm große Würfel schneiden. Auf einem mit Backpapier ausgelegten Backblech verteilen, etwas Olivenöl darüber gießen. Bei 200 Grad 20 Minuten lang im Ofen backen. Währenddessen die Soße zubereiten. Die Blätter von den Kräutern zupfen und grob hacken. In einer Schüssel Kräuter, angedrückte Knoblauchzehe, Saft von etwa 1 Zitrone, Fenchelsamen, Chili, 1 Prise Salz und etwa 6 EL Olivenöl mit einem Pürierstab zu einer Paste zerkleinern.
 1. Die Soße über die noch warmen Auberginen gießen. Den Salat eine Stunde langziehen lassen. Eventuell nachsalzen. Restlichen Zitronensaft mit Tahini und ungefähr 4 EL Wasser gut verrühren und zum Salat servieren.
 
@@ -3681,7 +3616,6 @@ Olivenöl
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den Saft der Limette auspressen. Die Zwiebel schälen, sehr fein schneiden und in einer Salatschüssel im Limettensaft ungefähr 5 Minuten lang marinieren. Die Maiskörner vom Kolben lösen. 
 1. Kreuzkümmelsamen in der Pfanne ohne Fett rösten. Dann Olivenöl dazugeben und die Maiskörner darin ungefähr 3 Minuten lang rösten. 
 1. Den Mais zum Limettensaft dazugeben. Die restlichen Zutaten vorbereiten und dazugeben: Avocado schälen, entkernen und in Stücke schneiden, Gurke putzen, waschen und in sehr dünne Scheiben schneiden. Tomaten waschen, je nach Größe vierteln oder halbieren.
@@ -3703,7 +3637,6 @@ Schwarzer Pfeffer
 Olivenöl
 
 ### Zubereitung
-
 1. Den Speck in dicke Würfel schneiden (Scheiben sind auch in Ordnung). Man kann alternativ die italienische Variante Pancetta nehmen, die hat noch etwas mehr Fett. In einer Pfanne braten, bis das flüssige Fett ausgetreten ist und der Speck knusprig wird. Das dauert ca. 12 Minuten. Auf einen mit Küchenpapier bedeckten Teller legen und abtropfen lassen.
 1. Petersilienblätter von den Stängeln zupfen, in eine Salatschüssel geben. Die Zitrone in Scheiben von einem halben Zentimeter Dicke schneiden, dann die Schale und die weiße Haut entfernen und die Scheiben schließlich vierteln. Zur Petersilie geben. Die Zwiebel sehr fein schneiden, ebenfalls dazugeben. Parmesan in die Schüssel reiben. Salzen, pfeffern, etwas Olivenöl darüber gießen. Zum Schluss den Speck hinzufügen und alles vermengen.
 
@@ -3731,7 +3664,6 @@ Schwarzer Pfeffer
 *Für das Topping*: 3 EL Sesamsamen
 
 ### Zubereitung
-
 1. Die Enden der Bohnen entfernen, Bohnen waschen und in ungefähr 1 cm lange Stücke schneiden. In etwas Salzwasser 8 bis 10 Minuten lang garkochen.
 1. Währenddessen Tomaten je nach Größe halbieren oder vierteln. Schalotte sehr fein schneiden. Bohnen abgießen, mit kaltem Wasser abschrecken, gut abtropfen lassen. Zusammen mit Tomaten und Schalotten in eine Salatschüssel geben. In einer kleinen Schüssel alle Zutaten außer dem Wasser für das Dressing vermengen. Wasser dann esslöffelweise dazugeben, bis das Dressing eine cremige Konsistenz hat.
 1. Dressing über den Salat gießen. Eine Viertelstunde ziehen lassen. In der Zwischenzeit den Sesam in einer Pfanne ohne Fett kurz rösten. Über den Salat geben.
@@ -3752,7 +3684,6 @@ Etwas Salz
 Schwarzer Pfeffer
 
 ### Zubereitung
-
 1. Den Radicchio in feine Streifen schneiden. Die Blutorangen schälen, halbieren und in 1 cm große Stücke schneiden, dabei die sichtbaren Kerne entfernen.
 1. Die Haselnüsse auf ein Blech legen und bei 170 Grad etwa 10 Minuten lang rösten. Herausnehmen und abkühlen lassen, dann mehrere Nüsse zwischen den Handflächen aneinander reiben, sodass die schwarze Schale abgeht (gelingt ehrlicherweise kaum), und im Mörder grob zerstoßen. Man kann natürlich die Nüsse auch mit dem Messer hacken oder mit dem Hammer zertrümmern.
 1. Dann über den Salat geben. Das Dressing aus Olivenöl, Ahornsirup, Haselnussmus, Zitronensaft, Weißweinessig, Salz und Pfeffer anrühren, damit den Salat anmachen.
@@ -3772,7 +3703,6 @@ Salz, Pfeffer
 8 Ziegenfrischkäsetaler (à 20 g)
 
 ### Zubereitung
-
 1. Die Salate putzen, waschen, trocken schleudern, in mundgerechte Stücke zupfen und in eine Schüssel geben.
 1. Für die Vinaigrette in einer Schüssel den Essig mit dem Zucker, Salz und Pfeffer verrühren, nach und nach das Olivenöl unterschlagen. Den Salat mit der Vinaigrette mischen.
 1. Die Feigen putzen, waschen und in Spalten schneiden. Den Salat auf 4 Teller verteilen. Die Feigen mit jeweils 2 Scheiben Parmaschinken und 2 Ziegenkäsetalern anrichten und sofort servieren.
@@ -3800,7 +3730,6 @@ Tipp:	Man kann es noch raffinierter machen und den Ziegenkäse mit etwas Honig b
 Salz
 
 ### Zubereitung
-
 1. Avocado, Ingwer, Knoblauch, Zitronenschale und -saft, Chili und Tahin mit 5 EL Öl und 1/3 TL Salz zu einer glatten Paste verarbeiten, dann die Kräuter hinzufügen. Noch einmal mixen, dann langsam 60 ml Wasser dazu gießen, bei ein glattes, homogenes Dressing entstanden ist.
 1. Den Salat mit dem restlichen Öl und 1/8 TL Salz mischen. Mit dem Essig beträufeln und dem Sesam bestreuen.
 
@@ -3817,7 +3746,6 @@ Salz, Pfeffer
 2 Stauden Chicorée
 
 ### Zubereitung
-
 1. Die Orangen schälen, das Weiß entfernen und die Orangen in Scheiben schneiden, Die Scheiben vierteln. Ebenso mit der Grapefruit verfahren. Die Früchte in eine Salatschale geben.
 1. Die Zwiebel in feine Streifen schneiden, in einem Schälchen mit Essig ungefähr 10 Minuten lang marinieren. Man kann statt einer roten Zwiebel auch eine Schalotte nehmen. 
 1. Das Olivenöl zur Zwiebel geben, salzen und pfeffern und alles verrühren. Das Ende vom Chicorée entfernen, Chicorée in ungefähr 2 cm dicke Streifen schneiden. Wie Salat waschen und trocknen und zu den Früchten geben. Die Zwiebel-Essig-Mischung darübergießen und alles vermengen.
@@ -3842,7 +3770,6 @@ Info:	Zwei Nachteile des Gerichts will ich nicht verheimlichen: Der Salat ist so
 Salz
 
 ### Zubereitung
-
 1. Für das Dressing den Ingwer im Mörser zu einer groben Paste zerdrücken. Zitronensaft, Öl und ¼ TL Salz unterarbeiten und die Mischung beiseitestellen.
 1. Die Salat Zutaten in eine große Schüssel füllen. Das Dressing hinzufügen. Den Salat durchheben und servieren.
 
@@ -3862,7 +3789,6 @@ Tipp:	Der Salat passt gut zu vielerlei Fleisch.
 Meersalzflocken
 
 ### Zubereitung
-
 1. Den Salat erst unmittelbar vor dem Servieren fertigstellen, sonst wird er zu feucht: Melone und Äpfel in einer großen Schüssel mit Limettenschale und -saft, Öl, Zitronengras, drei Vierteln der Kräuter und ¾ TL Meersalzflocken mischen. 
 1. Den Salat mit den Händen auf einer Platte anrichten. Die Flüssigkeit, die sich am Boden der Schüssel angesammelt hat, wird nicht gebraucht. Den Salat mit den restlichen Kräutern, den Senfsamen und ¼ TL Meersalzflocken bestreuen und servieren.
 
@@ -3908,7 +3834,6 @@ Fleur de Sel
 Salz
 
 ### Zubereitung
-
 1. Die ersten fünf Zutaten in einer großen Schüssel mit 1/3 TL Salz mischen. Die Himbeeren hinzufügen und mit einer Gabel etwas zerdrücken, dann die restlichen Zutaten dazugeben.
 1. Alles gut durchheben und servieren.
 
@@ -3928,7 +3853,6 @@ Saft von 3 Limetten
 2 Frühlingszwiebeln, in feine Scheiben geschnitten
 
 ### Zubereitung
-
 1. Die Erdnüsse in einer Pfanne ohne Fett goldbraun rösten. Die Papayas mit einem Sparschäler in dünne Streifen schneiden, die Spargelbohnen schräg in 3 cm lange Stücke schneiden.
 1. In einem großen Mörser die Chilischoten, die Knoblauchzehen, den Agavendicksaft und die Cocktailtomaten grob zerdrücken und alles gründlich vermischen.
 1. Den Limettensaft und die Sojasauce dazugeben und alles gut vermengen. Zum Servieren mit den Erdnüssen und den Frühlingszwiebeln bestreuen.
@@ -3951,7 +3875,6 @@ Salz
 1 Zitrone
 
 ### Zubereitung
-
 1. Den Ofen auf 180 Grad vorheizen. Weißbrot in mundgerechte Stücke reißen, in einer Schüssel mit etwas Olivenöl und Salz vermengen. Auf einem mit Backpapier ausgelegten Backblech verteilen. 10 Minuten im Ofen backen, dann herausnehmen. Kumin darüber geben und abkühlen lassen.
 1. Die Erbsen ohne Schote in Wasser kurz garkochen. Die Kerne aus dem Granatapfel lösen. Radieschen in dünne Scheiben schneiden, Zwiebeln ebenfalls fein schneiden. Minze fein und Petersilie grob hacken.
 1. Alles in eine Salatschüssel geben, die Brotstücke hinzufügen. Zitrone auspressen und Saft nach Geschmack zum Salat gießen, ebenso einen guten Schuss Olivenöl. Salzen und alles vermengen.
@@ -3970,7 +3893,6 @@ Salz, schwarzer Pfeffer
 2 bis 3 EL Olivenöl
 
 ### Zubereitung
-
 1. Pfirsiche entkernen, in schmale Schnitze schneiden, diese in einer Salatschüssel mit Zitronensaft und Essig vermengen. Salzen.
 1. Die Zwiebel sehr fein schneiden und für 10 Minuten in kaltes Wasser einlegen. So verliert sie ein bisschen von ihrer Schärfe.
 1. Zwiebel abtropfen lassen und zu den Pfirsichen geben, Stiele des Rucola entfernen, je nach Größe die Blätter noch mal in zwei Hälften reißen, waschen und trocknen. Basilikum und Koriander ebenfalls waschen und trocknen.
@@ -3992,7 +3914,6 @@ Etwas Zitronensaft
 1 Handvoll gehackte Petersilie und/oder Dill
 
 ### Zubereitung
-
 1. Blumenkohl in Röschen zerteilen. Sie müssen nicht gleich groß sein, so werden manche beim Backen besonders knusprig, andere etwas weicher. 
 1. Die Röschen auf einem mit Backpapier ausgelegten Blech verteilen, Zwiebeln schälen und vierteln, zwischen den Blumenkohl setzen. Etwas Olivenöl und Salz darüber geben und alles am besten mit den Händen gut vermengen. Das Blech in den auf 200 Grad vorgeheizten Backofen geben, 30 Minuten lang garen lassen. Zwischenzeitlich ab und zu mit dem Kochlöffel die Röschen wenden.
 1. Währenddessen Oliven vierteln, Kapern und Rosinen grob hacken und alles in eine Salatschüssel geben – der Salat schmeckt am Ende besser, wenn man die Zutaten sorgfältig zerkleinert. Olivenöl, Zitronensaft und Senf zu einem Dressing verrühren, darüber gießen. Den gerösteten Blumenkohl in die Schüssel geben, Kräuter hinzufügen, alles gut vermengen, pfeffern und eventuell nachsalzen.
@@ -4016,7 +3937,6 @@ Blumenkohl wird ja oft entweder leidenschaftlich gehasst oder verachtet. Wenn ma
 Salz und schwarzer Pfeffer
 
 ### Zubereitung
-
 1. Den Backofen auf 220 Grad vorheizen.
 1. Den Blumenkohl in einer Mischung aus 3 EL Olivenöl, ½ TL Salz und etwas Pfeffer wenden. In einer ofenfesten Form verteilen und 25-35 Minuten auf der obersten Schiene des Backofens rösten, bis er knusprig braun ist. Anschließend in eine Schüssel füllen und abkühlen lassen.
 1. Die Backofentemperatur auf 170 Grad herunterschalten. Die Haselnüsse auf ein mit Backpapier ausgelegtes Blech streuen und 17 Minuten rösten.
@@ -4043,7 +3963,6 @@ Etwas glatte Petersilie
 Salz und schwarzer Pfeffer
 
 ### Zubereitung
-
 1. Für den Salat wird der Blumenkohl zunächst in kleinere Röschen zerteilt. Diese werden in einer Mischung aus 3 EL Olivenöl, ½ TL Salz und etwas Pfeffer gewendet. Der Backofen sollte inzwischen auf 220°C vorgeheizt sein. 
 1. In einer ofenfesten Form verteilt man den Blumenkohl und grillt ihn ungefähr 25 bis 35 Minuten lang, wobei man in ab und zu wendet. 
 1. Den Backofen auf 170°C herunterschalten und die Haselnüsse auf ein mit Backpapier ausgelegtes Blech streuen. Etwa 15 Minuten lang rösten. Abkühlen lassen, grob hacken und zusammen mit den anderen Zutaten und dem abgekühlten Blumenkohl in eine Schüssel geben. Durchmischen, mit Salz und Pfeffer abschmecken und zimmerwarm servieren.
@@ -4074,7 +3993,6 @@ Joghurt (wer will)
 Salz und Pfeffer
 
 ### Zubereitung
-
 1. Eine große Schüssel mit Wasser füllen, das Backnatron hinzufügen und die Kichererbsen über Nacht darin einweichen. Am nächsten Tag abgießen, in einen großen Topf füllen und mit der doppelten Menge Wasser bedecken. Aufkochen, falls nötig abschäumen und etwa 1 Stunde köcheln lassen, bis die Kichererbsen weich sind. Anschließend in ein Sieb gießen und abtropfen lassen.
 1. Gurken, Radieschen, Tomaten und Paprikaschote in 1,5 cm große Würfel schneiden. Die Zwiebel fein hacken und alles in einer Schüssel mit den Kräutern mischen. In einem Schraubglas 75 ml Olivenöl sorgfältig mit Zitronenschale und -saft, Essig, Knoblauch und Zucker vermischen. Das Dressing mit Salz und Pfeffer abschmecken, über den Salat gießen und kurz durchmischen.
 1. Kardamon, Piment, Kreuzkümmel mit ¼ TL Salz mischen und auf einen Teller streuen. Die Kichererbsen in der Gewürzmischung wenden, bis sie gleichmäßig überzogen sind. Das restliche Öl bei mittlerer Temperatur in einer Pfanne heiß werden lassen und die Kichererbsen 2-3 Minuten darin braten. Die Pfanne dabei vorsichtig rütteln, damit die Kichererbsen nicht anhängen und gleichmäßig gebräunt werden.
@@ -4193,7 +4111,6 @@ Saft und Zesten von 1 kleinen unbehandelten Orange
 Salz, Pfeffer aus der Mühle
 
 ### Zubereitung
-
 1. Den Backofen auf 200°C (Gas Stufe 6) vorheizen.
 1. Den Topinambur gut abreiben, in 1 cm dicke Scheiben schneiden, auf ein Backblech legen und sofort mit Olivenöl beträufeln und mit Meersalz und frischen Thymian bestreuen. Im Ofen 45 Minuten garen, bis der Topinambur in der Mitte weich und außen leicht knusprig ist.
 1. Inzwischen den Reis zubereiten. 750 ml Wasser zum Kochen bringen, den wilden Reis und 1 TL Salz hinzugeben. Die Hitze reduzieren und zugedeckt 40 Minuten köcheln lassen, bis sich die Körner leicht öffnen. Das überschüssige Wasser abgießen.
@@ -4216,7 +4133,6 @@ Saft von 2 Limetten
 4 EL Olivenöl
 
 ### Zubereitung
-
 1. Kokosraspeln und Cashewkerne in einer Pfanne ohne Fettzugabe bei niedriger Hitze rösten, bis sie golden schimmern. Dabei gelegentlich umrühren. Die gerösteten Kokosraspeln und Cashewkerne sofort aus der Pfanne nehmen, damit nichts anbrennt und in eine Salatschüssel geben (Mir brennen die Cashewkerne immer schnell an. Ist echt schwierig).
 1. Beide Enden der Pomelo abschneiden, die Schale mehrmals senkrecht einschneiden und die Segmente abziehen. Das Fruchtfleisch in Filets teilen und die Zwischenhäute entfernen. Die Filets in kleine Stücke schneiden und in eine große Schüssel geben. Die restlichen Zutaten hinzugeben und alles miteinander vermischen.
 1. alle Zutaten für das Dressing verrühren, über den Salat gießen und untermengen. Sofort servieren.
@@ -4234,7 +4150,6 @@ Zucker
 3 EL Öl
 
 ### Zubereitung
-
 1. Die Wurzeln von der Sellerieknolle entfernen du die Knolle gründlich waschen. Die Sellerieknolle in einem Topf mit Brühe bedeckt 1,5 bis 2 Stunden weich garen.
 1. Den Sellerie mit dem Schaumlöffel aus dem Topf heben, schälen und zunächst in Scheiben und dann in Stücke schneiden. Von der Kochbrühe 300 ml abnehmen, mit dem Essig und dem Senf verrühren und mit Chilisalz und 1 Prise Zucker würzen, das Öl unterrühren. Den Sellerie mit der Marinade mischen und mindestens 30 Minuten ziehen lassen.
 
@@ -4256,7 +4171,6 @@ Zucker
 ½ l Öl
 
 ### Zubereitung
-
 1. Kartoffeln kochen, pellen, kalt werden lassen und in dünne Scheiben schneiden. Zwiebeln andünsten und mit Zucker, Salz, Pfeffer abschmecken. Zwiebeln heiß zu den Kartoffeln geben und durchmengen.
 1. Für die Sauce Sahne mit Crème fraîche vermischen und mit der Senfmayonnaise verrühren. Diese durch alle Senfsorten und Cravlax-Sauce, Zucker, Eigelben und Sherry-Sauce anrühren. Öl langsam einlaufen lassen und dann aufschlagen. Mit Salz und Pfeffer würzen und zu den Kartoffeln geben.
 
@@ -4275,7 +4189,6 @@ Etwas Salz, Pfeffer
 4 Eier
 
 ### Zubereitung
-
 1. Zur Vorbereitung zunächst die Blätter von den Stängeln der Kräuter zupfen, waschen, mit einem Küchentuch trocken tupfen und grob hacken. Den Parmesan fein reiben. Die Sonnenblumenkerne in einer Pfanne ohne Fett ein paar Minuten lang anrösten, sie dabei nicht dunkel werden lassen. alle Zutaten in eine hohe Schüssel geben und mit dem Pürierstab zu einer Masse zerkleinern.
 1. Das Pesto kann man zu Spaghetti essen, zu gegrilltem Fleisch oder Fisch (also ich aber nicht). Am besten lässt sich das Dressing aber für eine Kartoffelsalat verwenden. Dazu die Kartoffeln mit Schale kochen, dann schälen und in Scheiben schneiden. In einer Salatschüssel das Pesto umrühren und alles eine Weile ziehen lassen. Dazu wachsweiche Eier servieren.
 
@@ -4297,7 +4210,6 @@ Salz
 1 EL gehackter Schnittlauch
 
 ### Zubereitung
-
 1. Die Kartoffeln in Salzwasser garkochen, schälen und in Scheiben schneiden. Das Dressing anrühre: Die Knoblauchzehe im Mörser zerstampfen, (Anchovis fein hacken), beides mit Senf, Essig und fein gehackten Kapern verrühren. Unter Rühren Olivenöl dazu gießen, bis die Soße sämig ist. 
 1. Dressing über die Kartoffeln gießen. Bohnen in Salzwasser garkochen, mundgerecht zerteilen, zu den Kartoffeln geben. Eier der Länge nach vierteln, zusammen mit dem Schnittlauch auf den Salat anrichten.
 
@@ -4324,7 +4236,6 @@ Salz, mildes Chilipulver
 Zucker
 
 ### Zubereitung
-
 1. Die Kartoffeln waschen und in reichlich Salzwasser mit dem Kümmel weichkochen. Abgießen, möglichst heiß pellen und in 4 bis 5 mm dicke Scheiben schneiden. Die Kartoffelscheiben in eine Schüssel geben.
 1. Für das Dressing die Brühe erhitzen, mit Essig und Senf verrühren und mit Salz sowie 1 Prise Chilipulver und Zucker würzen. Eine Handvoll Kartoffelscheiben hinzufügen und pürieren. Das Dressing nach und nach unter die Kartoffelscheiben mischen, bis die Flüssigkeit vollständig gebunden ist.
 1. Die Zwiebel schälen und in kleine Würfel schneiden. In einer Pfanne das Öl erhitzen und die Zwiebelwürfel darin bei milder Hitze glasig dünsten. Die braune Butter und die Zwiebel unter den Kartoffelsalat heben. Nach Belieben pfeffern.
@@ -4413,7 +4324,6 @@ Tipp:	Fein geschnittener Stangensellerie gibt dem Salat eine besonders knackige 
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Die Kartoffeln in einem großen Topf mit kaltem Wasser bedecken. Zum Kochen bringen, dann die Hitze reduzieren und 15 Minuten köcheln lassen. Sobald sie fertig sind, abgießen und zum Abkühlen beiseitestellen.
 1. Inzwischen die Tomaten, die Zuckererbsenschoten und den Dill in eine große Schüssel geben. die Zutaten für das Dressing in einer kleinen Schüssel verquirlen. Die abgekühlten Kartoffeln halbieren und in die Schüssel mit den Tomaten geben. Das Dressing darüber gießen mit den Händen alles gut vermengen und servieren.
 
@@ -4459,7 +4369,6 @@ Kreuzkümmel oder Raz el Hanout
 3 Zweige Liebstöckl oder Petersilie
 
 ### Zubereitung
-
 1. Linsen kochen bis sie gar, aber noch bissfest sind. (Linsen ohne Salz kochen).
 1. Karotten und Zwiebel in sehr feine Würfel schneiden, Staudensellerie in Schräge Scheiben (0,5 cm) schneiden.
 1. Gemüse einzeln in einer heißen Pfanne stark anbraten, soll aber keine Farbe annehmen. Alles in eine Schüssel füllen.
@@ -4492,7 +4401,6 @@ Chilipulver
 1 Streifen unbehandelte Orangenschale
 
 ### Zubereitung
-
 1. Für den Salat die Linsen in kaltem Wasser 2 Stunden einweichen. Die Zwiebel schälen und in kleine Würfel schneiden. Den Speck ebenfalls in kleine Würfel schneiden. Das Öl in einem Topf erhitzen und die Zwiebel- und Speckwürfel darin andünsten. Die Linsen abgießen und in den Topf geben. Das Tomatenmark unterrühren und etwas mitdünsten. Das Lorbeerblatt dazugeben du die Brühe angießen. Die Linsen 20 Minuten köcheln lassen.
 1. Das Gemüse putzen, schälen bzw. waschen und in sehr kleine Würfel schneiden. Karotten- und Selleriewürfel nach 10 Minuten Garzeit unter die Linsen rühren, mit 1 Prise Majoran würzen. Die Lauchwürfel einige Minuten vor Ende der Garzeit hinzufügen. Den Topf vom Herd nehmen und die Linsen etwas abkühlen lassen.
 1. Den Linsensalat mit Essig, Öl, brauner Butter, Salz, Pfeffer und je 1 Prise Zucker und Chilipulver abschmecken. Ingwer, Knoblauch und Orangenschale und nach Belieben noch 1 kleinen Splitter Zimtrinde hinzufügen. Die ganzen Gewürze im Salat 5 bis 10 Minuten ziehen lassen und danach wieder entfernen.
@@ -4514,7 +4422,6 @@ Saft von ½ Zitrone
 Salz
 
 ### Zubereitung
-
 1. Die Linsen mit ungefähr 1 l kaltem Wasser, der geschälten ganzen Knoblauchzehe, Lorbeer und Sellerie aufsetzen. Flüssigkeit zum Kochen bringen, dann Hitze reduzieren, die Linsen in 20 bis 25 Minuten garkochen.
 1. Schließlich abgießen, Knoblauch, Lorbeer und Sellerie entfernen. Oliven fein hacken und unter die abgekühlten Linsen rühren. 
 1. Für das Dressing fein gehackte Orangenschalen, fein gehackte Petersilie, Olivenöl und Zitronensaft mit etwas Salz vermengen, man kann auch noch etwas scharfen Senf dazugeben. Dressing über die Linsen gießen und alles gut verrühren. 5 Minuten lang ziehen lassen, eventuell nachsalzen.
@@ -4545,7 +4452,6 @@ Abrieb von 1 Bio-Zitrone
 Etwas frische Minze
 
 ### Zubereitung
-
 1. Zunächst Linsen nach Packungsanleitung in Wasser garen. Koriander und Petersilie waschen, inklusive der Stängel fein hacken, ebenso den Spinat. Zwiebeln und zwei Knoblauchzehen schälen, anschließend hacken. In etwas Öl in einem großen Topf dünsten, dabei dürfen sie ein bisschen Farbe annehmen. 
 1. Temperatur herunterschalten, Spinat und Kräuter hinzufügen. Kurkuma dazugeben, ebenso wie etwas Salz. Die gegarten Linsen unterheben, alles gut vermischen.
 1. Verbliebene Knoblauchzehe schälen, in Scheibchen schneiden, in Öl kurz frittieren. Joghurt, Milch und Sahne vermengen, Zitronenabrieb hinzugebe.
@@ -4568,7 +4474,6 @@ Balsamicoessig
 1 Bund Basilikum
 
 ### Zubereitung
-
 1. Die Graupen abspülen, in Salzwasser ca. 20 bis 30 Minuten bissfest kochen. Anschließend mit kaltem Wasser abschrecken und in einem Sieb gründlich abtropfen lassen. Den Pfirsich waschen und in dünne Scheiben schneiden.
 1. Die Pinienkerne in einer Pfanne ohne Fett leicht anrösten. Die Steinpilze in ca. 1 cm dicke Scheiben schneiden, in einer Pfanne Butter aufschäumen und die Pilze anbraten, bis sie etwas Farbe annehmen. Dann die Pfirsichscheiben hinzugeben und diese ebenfalls leicht mitschwitzen. Alles mit etwas Salz und Pfeffer würzen.
 1. Die Pilze und Pfirsichscheiben nun vorsichtig unter die Graupen heben und die Pinienkerne hinzugeben. Abschmecken mit etwas Olivenöl, Balsamicoessig, eventuell noch einmal salzen und pfeffern. Basilikumblätter grob gehackt darüberstreuen.
@@ -4595,7 +4500,6 @@ Graupen galten in meiner Kindheit als die Langweiler im Supermarktregal. Preiswe
 1 EL gerösteter Sesam
 
 ### Zubereitung
-
 1. Brühe kurz zusammen mit den Gewürzen (Zucker, Chili, Salz, Kardamon, Curry, Zitronensaft und Sesamöl) aufkochen.
 1. Den Couscous in die kochende Flüssigkeit rühren, dann vom Feuer nehmen und 15 Minuten quellen lassen, bis keine Flüssigkeit mehr übrig ist. Dabei unbedingt den Deckel auflegen!
 1. Den fertigen Couscous auf ein Blech streichen, damit er schnell abkühlt. Dann die Nüsse, Sesam, due fein gewürfelte Schalotte, die Korianderblättchen, die Minze sowie die Preisebeeren unterrühren. Wenn der Salat zu trocken ist, ein wenig Sesamöl nachgießen. 
@@ -4621,7 +4525,6 @@ Zucker
 2 EL Olivenöl
 
 ### Zubereitung
-
 1. Couscous mit der Brühe aufkochen und bei milder Hitze 7 Minuten ausquellen lassen. Gurke schälen, halbieren, entkernen und würfeln. Tomaten würfeln, mit den Gurken mischen und leicht salzen. Frühlingszwiebeln in dünne Ringe schneiden und unterheben.
 1. Minze- und Petersilienblätter fein hacken. Zitronensaft mit Salz, Pfeffer, 1 Prise Zucker und Olivenöl verquirlen. alle Zutaten mit der Sauce in einer Schüssel mischen, 10 Minuten durchziehen lassen und eventuell noch einmal abschmecken.
 
@@ -4640,7 +4543,6 @@ Zucker
 1 Bio-Zitrone, 1 TL Schale abgerieben, dann 1 EL Saft ausgepresst
 
 ### Zubereitung
-
 1. Den Couscous in einer Schüssel mit 2 EL Olivenöl beträufeln und mit 1 TL Ras el Hanout, ¾ TL Salz und reichlich Pfeffer würzen. 400 ml Wasser zum Kochen bringen. Über den Couscous gießen und umrühren. Die Schüssel mit Folie zudecken und den Couscous 20 Minuten quellen lassen. Mit einer Gabel auflockern und abkühlen lassen.
 1. In einer großen Pfanne 1 EL Olivenöl bei hoher Temperatur erhitzen. Die Tomaten hineingeben und 3 – 4 Minuten anbraten, bis sie Farbe annehmen und aufplatzen. Ab und zu umrühren. Die Tomaten mit dem ausgetretenen Saft auf einen Teller geben, mit 1 Prise Salz bestreuen und beiseitestellen.
 1. Die Pfanne mit Küchenpapier auswischen und das restliche Olivenöl (3 EL) bei mittlerer Temperatur erhitzen. Die Zwiebeln mit dem restlichen Ras el Hanout (1 TL) und 1 Prise Salz hineingeben und 10 – 12 Minuten unter Rühren braten, bis sie kräftig gebräunt und weich sind. Vom Herd nehmen, mit den Rosinen verrühren und abkühlen lassen.
@@ -4787,7 +4689,6 @@ Salz, Pfeffer
 200 g Feta
 
 ### Zubereitung
-
 1. Den Bulgur mit dem Zitronensaft und der Brühe aufkochen. Die Herdplatte ausschalten und en Bulgur 20-30 Minuten quellen lassen.
 1. Die getrockneten Tomaten hacken. Die gurke schälen, längs halbieren und mit einem Löffel die Kerne entfernen. Die Gurkenhälften in kleine Würfel schneiden. Die Kichererbsen in ein Sieb gießen und abtropfen lassen.
 1. Die Frühlingszwiebeln putzen, waschen und in feine Ringe schneiden. Die Kräuter waschen und trocken schütteln, die Blätter zupfen und fein hacken. Den Bulgur in einer großen Schüssel mit den vorbereiteten Zutaten mischen. Das Olivenöl mit Zitronensaft, Salz, Pfeffer und nach Belieben mit Kreuzkümmel verrühren und unter den Salat mischen. Den Salat kurz ziehen lassen und vor dem Servieren noch einmal abschmecken.
@@ -4857,7 +4758,6 @@ Pfeffer
 100 g Feta
 
 ### Zubereitung
-
 1. Weißbrot in 1-2 cm große Stücke reißen. Auf einem Backblech verteilen, salzen und Olivenöl darüber träufeln. Bei 180 Grad Umluft 15 Minuten lang backen, bis das Brot knusprig ist. Aus dem Ofen nehmen.
 1. Zwiebeln in feine Scheiben schneiden, in einer Schüssel mit Essig und Salz 10 Minuten ziehen lassen. Die gurken werden zunächst nicht geschnitten, sondern auf ein Brett gelegt, dann mit einem Nudelholz geschlagen, sodass sie der Länge nach in vier oder mehr Teile brechen. Diese dann in mundgerechte Stücke schneiden (die Gurke nimmt die Soße so besser auf). Zu den Zwiebeln geben, Brotstücke ebenso. Noch mal etwas Olivenöl über den Salat geben, salzen, pfeffern, mit Essig abschmecken. Basilikum und zerkrümelten Feta unterrühren. Salat etwa 15 Minuten ziehen lassen.
 
@@ -4882,7 +4782,6 @@ Pfeffer
 1 EL Sumach zum Bestreuen
 
 ### Zubereitung
-
 1. Das Brot in mundgerechte Stücke reißen und in eine große Schüssel füllen. Buttermilch und die übrigen Zutaten bis auf den Sumach dazugeben, alles gut vermengen und den Salat 10 Minuten durchziehen lassen.
 1. Den Salat auf Portionsschalen verteilen, mit Olivenöl beträufeln und großzügig mit Sumach bestreuen.
 
@@ -4906,7 +4805,6 @@ Saft von ½ Zitronen
 100 g Radieschen
 
 ### Zubereitung
-
 1. Den Ofen auf 200 Grad heizen. Die Pitabrote in mundgerechte Stücke reißen, auf ein Backblech legen. Mit 2 EL Olivenöl beträufeln, etwas salzen und die Kuminsamen darüberstreuen. Das Brot etwa 10 Minuten lang im Ofen backen.
 1. Als Nächstes das Dressing zubereiten. Man nimmt dafür am besten ein Einmachglas oder einen anderen Behälter mit Deckel. Darin Zitronensaft, 3 EL Olivenöl und Essig vermengen, etwas Salz und die Knoblauchzehe dazugeben, die man geschält und mit der Gabel gedrückt hat. Mit geschlossenem Deckel gut schütteln, beiseitestellen.
 1. Tomaten in Würfel schneiden, eventuell die Kerne entfernen, wenn man eine größere Tomatensorte verwendet. Die Gurke in Würfel, die Frühlingszwiebeln in feine Ringe schneiden. Die Blätter der Kräuter fein hacken. Alles in eine große Salatschüssel geben.
@@ -4959,7 +4857,6 @@ Essig
 2 EL fein gehacktes Basilikum
 
 ### Zubereitung
-
 1. Zunächst das Brot in ungefähr 2 cm große Stücke reißen. Ciabatta eignet sich, besonders gut aber schmeckt kräftiges Landbrot, das vom Vortag und nicht zu weiß ist. Die Stücke in einer Schüssel mit Olivenöl beträufeln und mit den Händen so vermengen, dass sie komplett bedeckt sind. 
 1. Auf einem mit Backpapier ausgelegten Backblech verteilen, bei 180 Grad Umluft 15 Minuten lang backen. Das Brot sollte braun und knusprig werden, nicht schwarz. Abkühlen lassen.
 1. Zucchini quer halbieren, dann der Länge nach in dünne Streifen schneiden. Paprika der Länge nach achteln. Beide Gemüse auf einem Backblech, ebenfalls mit Backpapier ausgelegt, verteilen und mit Öl beträufeln. Bei 180 Grad Umluft ungefähr 25 Minuten lang backen, die Paprika braucht vielleicht fünf Minuten länger und kann, wenn sie aus dem Ofen kommt, geschält werden. Gemüse etwas abkühlen lassen.
@@ -4983,7 +4880,6 @@ Der Salat ist ähnlich wie unser Brotsalat und eignet sich sehr gut für Grillab
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Die Tomaten waschen, halbieren und in Spalten schneiden, dabei die Stielansätze entfernen. Den Rucola verlesen, waschen und trocken schütteln, grobe Stiele entfernen.
 1. Den Mozzarella gut abtropfen lassen und in kleine Stücke zupfen. Das Ciabatta erst in Scheiben, dann in kleine Stücke schneiden. Den Knoblauch schälen und andrücken. Die Butter in einer Pfanne erhitzen und das Brot mit dem Knoblauch darin rundum goldbraun anbraten. Die Brotwürfel gelegentlich wenden.
 1. Die Zwiebeln schälen und in feine Ringe schneiden. Mit den Tomaten, dem Mozzarella, Olivenöl und Essig mischen und mit Salz und Pfeffer würzen. Die leicht abgekühlten Brotstücke unterheben und den Salat in Schälchen servieren. Mit dem Rucola garnieren.
@@ -5042,7 +4938,6 @@ Olivenöl
 2 EL Granatapfelsirup
 
 ### Zubereitung
-
 1. Fladenbrote auseinanderfalten und in mundgerechte Stücke reißen, anschließend mit Olivenöl bepinseln. Im Ofen bei 140 Grad Umluft maximal 3-4 Minuten goldbraun backen. Alternativ kann man das Brot auch in der Pfanne anbraten. 
 1. Den Römersalat in kleine Stücke reißen, Tomaten und Gurken fein würfeln, Frühlingszwiebeln in dünne ringe schneiden und Petersilie grob hacken. Alles miteinander vermengen. Je nach Saison kommen auch gehobelte Radieschen hinzu. Schließlich die Minze unter das Gemüse mischen.
 1. 1 EL Sumach, frisch gepressten Zitronensaft und Essig mischen. Olivenöl dazugeben sowie je nach Geschmack (und Säuregrad der Tomaten) einen halben Teelöffel Salz und 2-3 Prisen Pfeffer. Traditionell wird zudem am Ende, je nach Geschmack, etwas Granatapfelsirup über en Salat gegeben. 
@@ -5067,7 +4962,6 @@ Schwarzer Pfeffer
 2 Zweige Basilikum
 
 ### Zubereitung
-
 1. Die Haut der Tomaten mit dem Messer einschneiden, zehn Sekunden in kochendes Wasser legen. Danach etwas abkühlen lassen und häuten. Die Tomaten würfeln. Die Gurke schälen und halbieren, Kerne entfernen, Gurkenhälften in Würfel schneiden. Knoblauch schälen und mit Salz und Chilischote (Kerne besser vorher entfernen) im Mörser zerdrücken. Die Tomaten- und Gurkenwürfel mit der Knoblauchpaste vermengen.
 1. Brotscheiben mit etwas Wasser durchfeuchten, bis sie weich sind. Das Wasser herausdrücken. Brotscheiben mit Essig beträufeln und zehn Minuten lang stehen lassen. Dann in kleine Stücke schneiden und zur Tomatenmischung geben. Schwarzen Pfeffer und 3 EL Olivenöl hinzufügen.
 1. Zum Schluss das Basilikum unterrühren. Zum Servieren gibt man noch mal etwas Olivenöl darüber.
@@ -5093,7 +4987,6 @@ Schwarzer Pfeffer
 1 EL Apfelessig
 
 ### Zubereitung
-
 1. Das Gemüse und die Kräuter in eine große Schüssel geben.
 1. die Zutaten für das Dressing in einem Schälchen verquirlen, über den Salat gießen und alles gut vermischen.
 1. Mit Fladenbrot und Naturjoghurt servieren.
@@ -5110,7 +5003,6 @@ Salz
 1 TL geriebener Meerrettich (oder aus dem Glas)
 
 ### Zubereitung
-
 1. Die roten Beten ungeschält in gesalzenem Wasser ungefähr 45 Minuten lang garkochen, bis sie weich sind. Etwas abkühlen lassen, danach schälen und in feine Würfel schneiden.
 1. Die Essiggurken fein hacken, den Apfel schälen und in kleine Stücke schneiden. Dann fügt man saure Sahne, Mayonnaise, Essig und Salz sowie Meerrettich dazu. Anschließend gut vermengen.
 
@@ -5134,7 +5026,6 @@ Kümmel, mildes Chilipulver
 1 Zwiebel
 
 ### Zubereitung
-
 1. Für die Rote Beten in einem Topf reichlich Salzwasser erhitzen und die Kümmelsamen hinzufügen. Die Rote Beten darin 1 ¼ bis 1 ½ Stunden weich garen. Abgießen, kalt abschrecken und in etwa 2 mm dicke Scheiben, in Spalten oder in Stifte schneiden.
 1. Für die Marinade die Brühe erwärmen und mit beiden Essigsorten, dem Senf und dem Olivenöl mit dem Schneebesen verrühren. Mit Salz, Pfeffer, je 1 Prise Zucker, Kümmel und Chilipulver kräftig würzen.
 1. Die Zwiebel schälen, in dicke Spalten schneiden und in einer Schüssel mit den Roten Beten mischen. Die Marinade über das Gemüse gießen, alles mischen und zugedeckt bei Zimmertemperatur 30 Minuten ziehen lassen. Nochmal abschmecken.
@@ -5154,7 +5045,6 @@ Salz, Pfeffer
 2 EL Sonnenblumenkerne
 
 ### Zubereitung
-
 1. Die Rote Bete waschen und in Salzwasser ca. 50 Minuten garkochen. Herausnehmen, abkühlen lassen und schälen. Die Rote Bete mit einer Reibe in feine Scheiben hobeln. 
 1. Schalotte schälen und fein würfeln. Essig, Öl, 1 EL Wasser, Honig, Salz und Pfeffer in einer Schüssel zu einem Dressing verrühren und über die Rote Bete gießen.
 1. Dann die Petersilie, die Schalotten und die Sonnenblumenkerne unterrühren und servieren.
@@ -5216,7 +5106,6 @@ Etwas Olivenöl
 Etwas frisch gehobelter Parmesan
 
 ### Zubereitung
-
 1. Von beiden Sorten die holzigen Enden abschneiden, den weißen Spargel schälen. Dann die Stangen in 5 cm große Stücke schneiden, vielleicht etwas kürzer, wenn sie sehr dick sind. Das Rapsöl in der Pfanne lässt man richtig heiß werden. Die Spargelstücke hineingeben und 5 Minuten lang braten. Nach 2 Minuten die Hitze etwas herunterschalten, Spargel salzen und weitere 3 Minuten braten oder so lange, bis der Spargel die gewünschte Konsistenz hat (eventuell die Pfanne zudecken). 
 1. Spargel aus der Pfanne nehmen. Wenn man das Gemüse als Beilage essen will, ist die Arbeit jetzt getan. Man kann den Spargel, wenn er etwas abgekühlt ist, aber auch gut als Salat anmachen.
 1. Dann die Eier pellen, fein hacken und zusammen mit den schwarzen Oliven und dem Dill zum Spargel geben. Zitronensaft, Olivenöl und scharfen Senf verrühren und über die Spargel-ei-Mischung geben. Salat großzügig pfeffern, gut vermengen, anschließend am besten 30 Minuten ziehen lassen, danach abschmecken und zum Schluss vielleicht etwas gehobelten Parmesan darüberstreuen.
@@ -5240,7 +5129,6 @@ Es kostet am Anfang etwas Überwindung, das stolze Gemüse in die heiße Pfanne 
 Salz
 
 ### Zubereitung
-
 1. Den Backofen auf 200 Grad Umluft vorheizen.
 1. Ein Drittel des Blumenkohls in eine Schüssel raspeln und beiseitestellen. Den restlichen Blumenkohl in etwa 3 cm große Röschen zerteilen und diese mit den Blumenkohlblättern (falls vorhanden und gewollt) und der Zwiebel in eine zweite Schüssel geben. Alles mit 2 EL Öl und ¼ TL Salz mischen, dann auf einem mit Backpapier bedeckten Backblech verteilen. Etwa 20 Minuten im Ofen rösten, bis die Röschen gar und goldbraun sind. Aus dem Ofen nehmen und abkühlen lassen.
 1. Das abgekühlte geröstete Gemüse mit 3,5 EL Öl, den Blumenkohlraspeln, den übrigen Zutaten sowie ¼ TL Salz in eine große Schüssel geben. Alles behutsam durchheben, dann auf einer Platte anrichten und servieren.
@@ -5262,7 +5150,6 @@ Salz
 3 Frühlingszwiebeln
 
 ### Zubereitung
-
 1. Erdnüsse auf ein Backblech legen und im Ofen bei 180 Grad Umluft ungefähr 6 Minuten lang rösten. Aus dem Ofen nehmen und kurz abkühlen lassen. Knoblauchzehe schälen und mit der breiten Seite eines Messers andrücken. Dann zusammen mit Erdnüssen, Sojasauce, Limettensaft und Chili zu einer Paste pürieren. Kokosmilch dazugeben und noch mal alles glatt pürieren.
 1. Soße in eine Salatschüssel geben. die Zutaten für den Salat vorbereiten: Brokkoli putzen, waschen, in Röschen teilen und dämpfen oder in wenig Wasser dünsten. Kartoffeln in Salzwasser gar kochen. Eier in einen Topf mit kochendem Wasser gleiten lassen und in etwa 10 Minuten hart kochen. 
 1. Frühlingszwiebeln putzen, waschen und in feine Ringe schneiden. Kartoffeln und Eier pellen und würfeln. Brokkoliröschen, Kartoffeln, Eier und Frühlingszwiebeln i die Schüssel mit dem Dressing geben und gut vermengen.
@@ -5287,7 +5174,6 @@ Wenn ihr richtig mitgezählt habt, braucht man für diesen Salat 3 Töpfe. Gemü
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den Backofen auf 230 Grad Umluft vorheizen. Die Blumenkohlröschen mit den Zwiebelspalten, Öl, 2 TL Currypulver, ¾ TL Salz und reichlich Pfeffer in eine große Schüssel gebe. Alles mischen, dann auf einem mit Backpapier belegten Backblech verteilen und 15 Minuten im Ofen rösten, bis die Röschen weich und goldbraun sind, aber noch etwas Biss haben. Aus dem Ofen nehmen und abkühlen lassen.
 1. In einem Topf reichlich Wasser zum Kochen bringen und die Eier bei mittlerer bis starker Hitze in 10 Minuten hart kochen. Die Eier in ein Sieb geben, dann den Topf mit kaltem Wasser füllen und die Eier wieder hineinlegen. Sobald sie abgekühlt sind, die Eier pellen, in eine große Schüssel geben und mit einer Gabel grob zerdrücken.
 1. Den Joghurt in einer kleinen Schüssel mit Mayonnaise, einem TL Currypulver, der Hälfte der Chiliflocken, Kreuzkümmel, Zitronensaft und ¼ TL Salz verrühren. Das Dressing mit Blumenkohl, Zwiebelspalten und Estragon zu den Eiern geben. Alles gut mischen, dann auf einem großen Teller anrichten, mit den restlichen Chiliflocken bestreuen und mit Zitronenspalten servieren.
@@ -5314,7 +5200,6 @@ Salz, Pfeffer
 Meersalz
 
 ### Zubereitung
-
 1. Die Eier in einen Topf mit jochendem Wasser gleiten lassen. Die Hitze reduzieren und 7-8 Minuten leicht köcheln lassen. Die Kürbiskerne in einer Pfanne rösten.
 1. Das Currydressing zubereiten. alle Zutaten in einer kleinen Schüssel verrühren und beiseitestellen.
 1. Die Eier vom Herd nehmen und den Topf unter fließendes kaltes Wasser stellen. Die abgekühlten Eier schälen und in 1 cm große Würfel schneiden. Mit den anderen Zutaten in eine Schüssel geben und mit einem großen Löffel leicht umrühren (darauf achten, dass man dabei die Eier nicht zerdrückt), bis alle Zutaten mit dem Currydressing überzogen sind. Mit 1 Handvoll Schnittlauchröllchen garniert servieren.
@@ -5357,7 +5242,6 @@ Salz, Pfeffer
 Rucola
 
 ### Zubereitung
-
 1. Die Nudeln kochen und mit kaltem Wasser abschrecken. Die Pinienkerne in der Pfanne bei mittlerer Hitze ohne Fett leicht anbräunen. Rucola gut waschen, trockenschleudern und etwas kleiner schneiden. Die getrockneten Tomaten gut abtropfen lassen und wie den Mozzarella und den Parmaschinken klein schneiden.
 1. Alles in eine große Schüssel geben, salzen und pfeffern
 1. Öl, Essig, klein gehackte Knoblauchzehe, Pesto, Senf und Honig miteinander vermischen und kurz vor dem Essen über den Salat geben.
@@ -5385,7 +5269,6 @@ Pfeffer
 2 Mango
 
 ### Zubereitung
-
 1. Nudeln al dente kochen.
 1. Knoblauch fein hacken und im Mörser mit etwas Salz fein zerreiben. Essig, Brühe, Senf, Honig und 1 Prise Chili mit Pfeffer verquirlen. Öl dazugeben. Zwiebeln in Ringe schneiden, Pilze fein hobeln und dann alles mischen.
 1. Rucola und Mango vorsichtig unter die Nudeln heben. Mit Salz, Pfeffer und Chili bestreuen.
@@ -5663,7 +5546,6 @@ Salz, Pfeffer
 Je 2 EL gehackter Dill, Petersilie und Estragon
 
 ### Zubereitung
-
 1. Die Hühnchenfilets dämpft man am besten in einem Dämpfeinsatz über köchelndem Wasser, in das man Pimentkörner und Lorbeer gegeben hat. Es dauert je nach Größe der Filets ungefähr 10 Minuten, manchmal 15 Minuten, bis die Hähnchenbrust gar ist.  Man sollte den Zeitpunkt nicht verpassen, zu dem das Fleisch schon gegart, aber noch saftig ist. Wenn man keinen Dämpfeinsatz hat, pochiert man das Fleisch: Wasser mit Lorbeer, Piment und etwas Zitronensaft aufkochen. Bei niedriger Hitze das Fleisch darin 15 Minuten ziehen lassen.
 1. Den Sellerie in Schiebchen schneiden und die Frühlingszwiebeln in Ringe. Mit den beiden Reissorten vermengen. Das Huhn in Stücke schneiden oder rupfen und dazugeben. Für das Dressing Olivenöl, Zitrone, Joghurt, Salz und Pfeffer vermengen und über den Salat geben. Noch einmal abschmecken und zum Schluss die Kräuter darübergeben.
 
@@ -5686,7 +5568,6 @@ Tipp: 	gibt einen guten Partysalat ab!
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den Backofen auf 200 Grad vorheizen. Von der Orange oben und unten jeweils 1 cm abschneiden und die ungeschälte Frucht in 12 Spalten teilen.
 1. Die Orangenspalten mit Honig, Safran und Essig in einen kleinen Topf geben und knapp mit Wasser bedecken. Aufkochen und etwa 1 Stunde köcheln lassen, bis die Orange weich und die Flüssigkeit zu einem dicken Sirup (etwa 3 Esslöffel) eingekocht ist. Wenn die Flüssigkeit beim Kochen zu schnell verdampft, noch etwas Wasser hinzufügen. Den Topfinhalt glatt pürieren. Ist das Püree zu dick, etwas Wasser hinzufügen.
 1. Die Hähnchenbrüste mit reichlich Salz und Pfeffer würzen, mit der Hälfte des Öls bestreichen und in einer sehr heißen Grillpfanne auf jeder Seite etwa 2 Minuten grillen. In eine ofenfeste Form legen und 15-20 Minuten im Backofen fertig garen.
@@ -5707,7 +5588,6 @@ Weißer Pfeffer, Salz
 1 EL kalte Butter
 
 ### Zubereitung
-
 1. Das Schweinefilet von Fett und Sehnen befreien und in Streifen schneiden. Eine Zitrone heiß waschen und trocken reiben. Die Schale fein abreiben und en Saft auspressen. Den Zitronensaft mit 4 EL Olivenöl kräftig verquirlen und mit Pfeffer würzen. Die abgeriebene Zitronenschale hinzufügen. Die Marinade über die Fleischstreifen gießen und zugedeckt im Kühlschrank etwa 20 Minuten ziehen lassen.
 1. In der Zwischenzeit die Erdbeeren wachen, putzen, trocken tupfen und vierteln. Den Rucola verlesen, waschen und trocken schleudern, grobe Stiele entfernen. Die Frühlingszwiebeln putzen, waschen und in 2 cm breite Ringe schneiden.
 1. Das Fleisch aus der Marinade nehmen und abtropfen lassen. Das restliche Olivenöl in einer Pfanne erhitzen. Das Fleisch darin rundum anbraten. Herausnehmen und beiseitestellen.
@@ -5730,7 +5610,6 @@ Weißer Pfeffer, Salz
 4 EL gehackte Walnüsse
 
 ### Zubereitung
-
 1. Entenbrüste salzen, pfeffern und auf der Hautseite ohne Öl bei niedriger Temperatur anbraten, sodass Fett ausläuft. Nach 6 – 8 Minuten Brüste umdrehen und nochmal 2 Minuten braten. Pfanne vom Herd nehmen.
 1. In der Zwischenzeit Saft und ein bisschen Zeste von den Orangen in einen Topf zusammen mit Zucker, Limettensaft, Zimtstange und Rosmarin geben und zu einem dickflüssigen Fond kochen. Entenbrüste reinlegen, über Nacht im Kühlschrank zeihen lassen.
 1. Ente in dünne Scheiben schneiden, ebenso Sellerie und Schalotten. Mit Fleisch mischen. 
@@ -5749,7 +5628,6 @@ Saft von ½ Zitrone bzw. 60 ml Zitronensaft
 12 mittelgroße Basilikumblätter
 
 ### Zubereitung
-
 1. Zunächst die Beeren verlesen, die schlechteren aussortieren. Brombeeren und Heidelbeeren waschen. Zitrone auspressen und den Saft abmessen. 
 1. Die Beeren in einem Topf mit einem Kartoffelstampfer andrücken. Zitronensaft und Gelierzucker unter die Beeren mischen und 30 Minuten lang ziehen lassen. Dann unter rühren langsam zum Kochen bringen und 5 Minuten lang kochen lassen. Basilikumblätter in die heiße Masse geben, alles fein pürieren. Kurz aufkochen.
 1. Schließlich in sterilisierte Gläser füllen – sie sollten randvoll sein – und gut verschließen. 
@@ -5769,7 +5647,6 @@ Etwa 30 ml Zitronensaft
 50 ml Obstbrand oder Walnusslikör (wenn man will)
 
 ### Zubereitung
-
 1. Die Zwetschgen werden gewaschen, entsteint, längs geviertelt und mit Zucker, Zitronensaft, Walnusskernen (in der Hand grob zerdrückt, nicht gemahlen) und Obstbrand (wenn man will) vermengt. Einige Stunden lang durchziehen lassen, nach Möglichkeit über Nacht. Immer mal wieder umrühren.
 1. Die Masse zum Kochen bringen und ungefähr 5 Minuten lang sprudelnd kochen. Ist sie fest genug, dann in sterilisierte Gläser füllen.
 
@@ -5781,7 +5658,6 @@ Etwa 30 ml Zitronensaft
 10 g ungesüßtes Kakaopulver
 
 ### Zubereitung
-
 1. Die Pflaumen waschen, halbieren und entsteinen. Man kann die Früchte kleiner schneiden, dann wird die Konsistenz der Konfitüre feiner.
 1. In einem Topf mit dem Zucker vermengen. Aufkochen, 3 Minuten unter Rühren köcheln lassen. Zitronensaft hinzufügen und weitere 2 Minuten lang köcheln lassen. Kakaopulver unterrühren. 
 1. Konfitüre heiß in (ausgekochte) Gläser füllen, diese verschließen.
@@ -5798,7 +5674,6 @@ Tipp:	Wenn man nicht weiß, ob die Marmelade die richtige Konsistenz hat, kann m
 80 g dunkle Schokolade (70 Prozent)
 
 ### Zubereitung
-
 1. Die Kirschen waschen und entkernen. Die Vanilleschote längs halbieren und das Mark herauskratzen. 14 kg Früchte (so viel sollen nach dem Entkernen noch übrig sein) in einem großen Topf mit dem Mark der Vanilleschote, er ausgekratzten Schote sowie dem Gelierzucker vermengen, dann 5 Stunden kühl und zugedeckt stehen lassen. Diese Ruhezeit ist wichtig, damit der Zucker die Früchte durchdringen kann und die Marmelade nach dem Öffnen des Glases haltbar bleibt.
 1. Nachdem sie durchgezogen ist, die Kirschmasse aufkochen, Vanilleschote entfernen. 6 Minuten sprudelnd kochen lassen, nach 5 Minuten den Zitronensaft hinzufügen. Mit dem Pürierstab etwa die Hälfte der der Kirschmasse zerkleinern.
 1. Am Schluss die grob gehackte Schokolade zugeben, umrühren und sofort in heiß ausgespülte Schraubgläser füllen, fest verschließen und auf den Kopf gestellt auskühlen lassen.
@@ -5810,7 +5685,6 @@ Tipp:	Wenn man nicht weiß, ob die Marmelade die richtige Konsistenz hat, kann m
 2 TL Ahornsirup
 
 ### Zubereitung
-
 1. Die Himbeeren in eine Schüssel geben und mit einer Gabel zerdrücken. Die Chiasamen und den Ahornsirup einrühren und alles gut verrühren.
 1. Die Mischung 10 Minuten ruhen lassen, dabei gelegentlich umrühren, damit die Chiasamen nicht zusammenkleben.
 1. Die Marmelade in ein luftdicht verschließbares Glas füllen. So hält sie sich 5 Tage im Kühlschrank.
@@ -5824,7 +5698,6 @@ Tipp:	Wenn man nicht weiß, ob die Marmelade die richtige Konsistenz hat, kann m
 4 EL roher Kakao
 
 ### Zubereitung
-
 1. Den Backofen auf 150 Grad (Gas Stufe 2) vorheizen. 
 1. Die Nüsse in einer Schicht auf ein Blech legen und im Ofen etwa 20 Minuten rösten, bis sie goldbraun sind und die Häute aufzuplatzen beginnen (dabei aufpassen, dass sie nicht anbrennen). Aus dem Ofen nehmen und etwas abkühlen lassen.
 1. Die Nüsse auf ein raues, sauberes Geschirrtuch legen und die Häute damit abrubbeln. Die Nüsse zerkleinern, bis eine glatte Masse entsteht und das Nussöl ausgetreten ist. Das Nussmus mit einem Teigspatel vom Rand nach unten schaben.
@@ -5843,7 +5716,6 @@ Tipp:	Man kann auch einen Teil des Wassers durch die abgeriebene Schale und den 
 1 gestrichener TL Guakernmehl
 
 ### Zubereitung
-
 1. Rhabarber putzen und in 2 cm breite Stücke schneiden. Erdbeeren putzen und vierteln. Alles zusammen mit Zucker und Guakernmehl in einem Topf mischen. 30 min. Saft ziehen lassen.
 1. Die Fruchtmischung unter Rühren aufkochen und 10 Minuten bei mittlerer Hitze unter Rühren köcheln lassen. Noch heiß in saubere Schraubgläser füllen und verschließen. Gläser 10 Min. lang auf den Deckel stellen, dann wenden und vollständig abkühlen lassen.
 
@@ -5897,7 +5769,6 @@ Schokolade sehr fein hacken, Butter mit dem Mixer cremig rühren, dann die Schok
 100 g weiche Butter
 
 ### Zubereitung
-
 1. Die Knoblauchknolle mit 1 TL Öl beträufeln und mit etwas Salz und Pfeffer bestreuen. Fest in Alufolie wickeln und im 200 Grad warmen Ofen (Umluft) 40 Minuten garen, bis die Zehen weich sind. Die Folie entfernen. Sobald die Knolle soweit abgekühlt ist, die Zehen aus der Schale in den Mörser drücken. 
 1. Den gehackten rohen und den schwarzen Knoblauch mit 1,5 TL Meersalzflocken und 1 sehr kräftigen Prise Pfeffer ebenfalls in den Mörser gehen. Alles zu einer Paste zerstoßen, dann mit Petersilie, Kümmel und Butter in eine Schüssel füllen. Gut vermischen, dann beiseitestellen.
 
@@ -5928,7 +5799,6 @@ Abgeriebene Schale von 1 Limette
 Meersalz und schwarzer Pfeffer aus der Mühle
 
 ### Zubereitung
-
 1. Die Kräuter sehr fein hacken und in einer Schüssel mit Butter, Limettenschale, Salz und Pfeffer verrühren. Die Butter in einem Stück Backpapier rollenförmig einwickeln und die Papierenden zusammendrehen, um das Päckchen zu verschließen.
 1. Dann die Kräuterbutter im Kühlschrank fest werden lassen (oder falls man es eilig hat, für etwa 10 Minuten ins Tiefkühlfach geben).
 
@@ -6196,7 +6066,6 @@ Saft von ½ Zitrone
 2 Zweige Rosmarin, Blätter abgezupft
 
 ### Zubereitung
-
 1. Den Backofen auf 200°C (Gas Stufe 6) vorheizen.
 1. Die Paprikaschoten auf ein Backblech legen und ca. 40 Minuten rösten, bis sich schwarze Bläschen bilden. Aus dem Ofen nehmen und leicht abkühlen lassen.
 1. Inzwischen die Sonnenblumenkerne mit Cayennepfeffer und Salz in einer Pfanne kurz rösten. Wenn die Paprikaschoten abgekühlt sind, die Haut abziehen, hacken und in einer Küchenmaschine oder einem Standmixer mit den Sonnenblumenkernen, dem Zitronensaft und dem Rosmarin fein pürieren. Abschmecken und eventuell nachwürzen. In ein luftdicht verschließbares Glas füllen. Der Aufstrich hält sich etwa 2 Wochen im Kühlschrank
@@ -6213,7 +6082,6 @@ Saft von ½ Zitrone
 300 ml lauwarmes Wasser
 
 ### Zubereitung
-
 1. 50 g Mehl und die Hefe mit fingerhutvollem ziemlich warmem Wasser mischen. Teig bedecken und an einem warmen Ort gehen lassen (am besten über Nacht)
 1. Restliches Mehl und 300 ml lauwarmes Wasser mit dem Vorteig verkneten und eine Kugel formen. In diese mit einem scharfen Messer ein Kreuz schneiden. An einem warmen Ort 1 Stunde zur doppelten Größe gehen lassen. Sobald der Teig sein Volumen verdoppelt hat, erneut kneten und die gewünschte Form formen.
 1. Backofen auf 200 Grad vorheizen. Brot ca. 20 Minuten bei 200 grad backen. Dann die Temperatur herunterschalten und weitere 15-20 Minuten backen.  Das Brot sollte am ende eine schöne goldene Farbe angenommen haben. Auf einem Gitter abkühlen lassen.
@@ -6228,7 +6096,6 @@ Info:	Das toskanische Brot ist als einziges in Italien ohne Salz gebacken.
 120 ml lauwarmes Wasser
 
 ### Zubereitung
-
 1. Mehl, Hefe, Öl und ½ TL Salz in eine große Schüssel geben. Das Wasser dazugeben und alles verrühren. Die Mischung auf eine dünn geölte Arbeitsfläche geben. Mit dünn eingeölten Händen den Teig etwa 5 Minuten kneten, bis er weich und elastisch ist. Den Teig zurück in die Schüssel geben, mit einem leicht feuchten Küchentuch bedecken und an einem warmen Ort mindestens eine (besser zwei) Stunden gehen lassen, bis sich das Volumen verdoppelt hat. Den Teig in vier Stücke schneiden, zu Kugeln formen und mit einem Küchentuch abdecken.
 1. Den Backofen auf 200 Grad (Umluft) vorheizen. Die Teigkugeln nacheinander von Hand etwa 5 mm dick flach drücken und ausziehen.
 1. Immer zwei Fladenbrote auf einmal backen. Der Teig ist sehr dünn, solle aber so elastisch sein, dass er nicht reißt. 
@@ -6246,7 +6113,6 @@ Info:	Dazu passt gut Knoblauchbutter und Tomatengeraspel (wie bei Bruschetta).
 Etwas Öl für die Pfanne
 
 ### Zubereitung
-
 1. Mehl, Joghurt, Backpulver und Olivenöl in einer Schüssel vermengen. Anschließend alles mit den Händen kneten und nach und nach einen Esslöffel Wasser dazugeben, bis die Masse eine teigige Konsistenz hat. 
 1. Den Teig weitere zwei Minuten kneten, danach mit einem Handtuch bedecken und 30 Minuten ruhen lassen.
 1. Der Teig sollte jetzt elastisch und weich sein. Falls er zu klebrig ist, etwas mehr Mehl hinzufügen. Den Teig vierteln. Jedes Stück auf der Arbeitsfläche mit den Händen ausbreiten, dann mit einem Nudelholz so dünn wie möglich ausrollen. Die Fladen sollten einzeln in die Pfanne passen. Etwas Öl in der Pfanne erhitzen und die Fladen auf jeder Seite bei mittlerer Temperatur ca. zwei Minuten braten.
@@ -6259,7 +6125,6 @@ Etwas Öl für die Pfanne
 1 EL Olivenöl plus etwas mehr zum Anbraten
 
 ### Zubereitung
-
 1. Für den Teig Hefe und 200 ml lauwarmes Wasser verrühren. Mehl und Salz in einer Schüssel mischen. Aufgelöste Hefe und das Öl dazugießen und alles mit den Knethaken des Mixers zu einem Teig verkneten. Mit Mehl bestäuben, abgedeckt 15 bis 30 Minuten gehen lassen.
 1. Den Teig kurz durchkneten, dann in acht bis zehn gleich große Stücke teilen. Ein Teigstück auf der bemehlten Arbeitsfläche mit einem Nudelholz zu einem dünnen runden Fladen ausrollen.
 1. Eine große Pfanne erhitzen, Olivenöl hineingeben, den Fladen hineinlegen, etwas Öl darauf geben. Den Fladen wenden, wenn sich die untere Seite leicht braun gefärbt hat. Deckel auf die Pfanne legen, den Fladen noch ein paar Minuten durchziehen lassen.
@@ -6279,7 +6144,6 @@ Je 375 g Roggen- und Weizenmehl
 1 EL zerstoßene Korianderkörner
 
 ### Zubereitung
-
 1. Ein Backblech mit Backpapier belegen. 
 1. Das Mehl in eine Schüssel sieben und eine Vertiefung in die Mitte drücken. Die Hefe hineinbröckeln und mit dem Wasser und der Milch verrühren. Den Vorteig mit etwas Mehl bestreut an einem warmen Ort 15 Minuten gehen lassen. Den Vorteig mit dem gesamten Mehl, dem Salz, dem Kümmel und dem Koriander zu einem Hefeteig schlagen. Den Teig nochmals 40 Minuten gehen lassen.
 1. Den Hefeteig in vier gleichgroße Stücke teilen. Jedes Stück zu einem Fladen ausrollen, die Fladen auf das Backblech legen, mit etwas Mehl bestäuben und noch einmal 20 Minuten gehen lassen. Den Backofen auf 250 Grad (Umluft 230 Grad) vorheizen.
@@ -6294,7 +6158,6 @@ Je 375 g Roggen- und Weizenmehl
 ½ TL Meersalz
 
 ### Zubereitung
-
 1. Für den Manakisch den Backofen auf 50 Grad vorheizen und wieder ausschalten. Die Hefe zusammen mit 1 EL Mehl und dem Zucker in 250 ml warmen Wasser auflösen und die Mischung 15 Minuten ruhen lassen. Anschließend die restlichen Zutaten für die Brote dazugeben und alles 10 Minuten geduldig zu einem elastischen Teig verarbeiten. Den Teig in acht Stücke teilen und im warmen Backofen bedeckt etwa 1 Stunde bis auf die doppelte Größe aufgehen lassen.
 1. Anschließend den Backofen auf 200 Grad vorheizen. Die Teigstücke zu handflächengroßen Kreisen formen und diese auf ein Backblech legen. In jeden Fladen 4 – 5 kleine Mulden drücken. Die Brote mit je 1 EL Zatar bestreichen, dabei 1 cm Rand frei lassen. Etwa 8 Minuten goldbraun backen. 
 1. Noch warm mit Hummus oder/und Baba Ganoush servieren.
@@ -6424,7 +6287,6 @@ Salz, Meersalzflocken, Pfeffer
 60 ml eiskaltes Wasser
 
 ### Zubereitung
-
 1. Den Backofen auf 220 Grad (Umluft) vorheizen. Für den Teig die ersten acht Zutaten vermengen. Die Butter in Würfeln dazu fügen und mit den Fingern in die Mischung reiben, jedoch nicht zu sorgfältig. Das Wasser dazu gießen und alles mit den Händen zu einem Teig verkneten. Den Teig auf der gut bemehlten Arbeitsfläche zu einem Rechteck ausrollen (28X18 cm). Die beiden langen Seiten nach innen umschlagen, sodass sie sich in der Mitte treffen, dann einmal darüberrollen. Nun die kürzeren Seiten zur Mitte umschlagen und ebenfalls einmal darüberrollen. Anschließend den Teig in der Mitte zusammenfalten, sodass ein Quadrat entsteht. Das Quadrat zu einem Kreis formen, in Frischhaltefolie einwickeln und für 30 Minuten in den Kühlschrank legen.
 1. Inzwischen den Kürbis und die Karotten mit dem Öl, 1 EL gehacktem Salbei, den Kümmel, 1 TL Meersalzflocken und reichlich Pfeffer vermengen und auf zwei mit Backpapier bedeckte Bleche verteilen. Die Knoblauchknolle und die Schalotte mit etwas Öl beträufeln, separat in Folie wickeln und dazulegen. Kürbis und Karotten im Ofen in 25 Minuten goldbraun rösten, Knoblauch und Schalotte weitere 15 Minuten im Ofen lassen. Wenn sie etwas abgekühlt sind, Knoblauchzehen und Schalotte aus der Schale drücken und fein hacken. Die Ofentemperatur auf 200 Grad reduzieren.
 1. Den Teig auf der gut bemehlten Arbeitsfläche ausrollen (Durchmesser 30 cm). Vorsichtig auf das mit Backpapier belegte Blech legen und weitere 30 Minuten kaltstellen.
@@ -6467,7 +6329,6 @@ Pfeffer, Salz, Kümmel
 500 ml Wasser
 
 ### Zubereitung
-
 1. Die Brotmischungen mit dem Wasser nach der Vorschrift auf der Packung zubereiten und gehen lassen.
 1. Den Teig mit etwas Weizenmehl bestäuben, aus der Schüssel nehmen und kurz durchkneten. Aus zwei Dritteln des Teiges drei etwa 40 cm lange Rollen formen, diese als Zopf auf ein gefettetes (oder mit Backpapier ausgelegtes Blech) legen und der Länge nach mit einem Rollholz eindrücken. Den Rest des Teiges in drei gleichmäßige Stücke schneiden, diese zu etwa 35 cm langen Rollen formen. Daraus einen zweiten Zopf flechten, ihn auf den größeren legen und nochmals an einem warmen Ort gehen lassen.
 1. Den Teig mit Wasser bestreichen, mit Mehl bestäuben und im vorgeheizten Backofen bei 200-225 Grad (Gas Stufe 3 – 4) in etwa 50 Minuten fertig backen. 
@@ -6494,7 +6355,6 @@ Ca. 250 ml lauwarmes Wasser
 *Außerdem:* Mehl zum Bestäuben
 
 ### Zubereitung
-
 1. Für den Teig das Mehl mit Salz und Öl in eine Schüssel geben. Die Hefe mit etwa 250 ml lauwarmem Wasser verrühren und dazugeben. Alles zu einem glatten Hefeteig verkneten. Den Teig zugedeckt 1 Stunde gehen lassen.
 1. Für die Füllung die Oliven entsteinen und klein schneiden. Die Tomaten klein würfeln, Den Rosmarin fein hacken.
 1. Den Teig durchkneten, dabei den Rosmarin unterkneten. Anschließend den Teig halbieren. Unter die eine Teighälfte die Oliven kneten. Die Tomaten unter die andere Teighälfte kneten. Aus jeder Teighälfte 10 kleine Brötchen rollen.
@@ -6515,7 +6375,6 @@ Ca. 250 ml lauwarmes Wasser
 1 EL gehäuft, Salz
 
 ### Zubereitung
-
 1. Für den Vorteig die Hefe mit etwa 125 ml lauwarmem Wasser verrühren. Mit Zucker, Mehl und restlichem Wasser dickbreiig verrühren. Abgedeckt warm stellen und etwa 45 Minuten gehen lassen.
 1. Für den Brotteig Mehl, etwa 350 ml lauwarmes Wasser, Honig und Salz zum Vorteig geben. Alles zu einem glatten Teig verkneten. Mit Mehl bestäubt etwa 1 Stunde gehen lassen.
 1. Teig durchkneten und 10 Minuten ruhen lassen. Backofen auf 250 °C vorheizen. Aus dem Teig zwei Brote formen. Auf ein mit Mehl bestäubtes Backblech abgedeckt etwa 30 Minuten gehen lassen.
@@ -6579,7 +6438,6 @@ Mark von 1 Vanilleschote
 5 EL Wasser
 
 ### Zubereitung
-
 1. Mehl, Zucker, Hefe, Salz, Zimt und Orangenabrieb in einer Schüssel vermischen. Milch vorsichtig erwärmen – auf keinen Fall über 40 Grad! (Denn sonst werden die Hefekulturen sofort getötet 😊). Milch in einer separaten Schüssel mit Butter, Ei und Vanillemark verrühren. Diese Mischung zur Mehl-Mischung geben. Mit dem Knethaken des Handrührgeräts den Teig kneten, 5 Minuten lang. Die Rosinen dazugeben, Teig nochmal 2 Minuten kneten. 
 1. Teig zu einer Kugel formen und in eine neue Schüssel geben, die man zuvor mit Sonnenblumenöl ausgepinselt hat. Mit einem Handtuch bedeckt 1 bis 2 Stunden lang bei Raumtemperatur gehen lassen. Das Volumen sollte sich dann verdoppelt haben.
 1. Teig auf einer bemehlten Arbeitsfläche zu 12 gleich großen Kugeln formen. Brötchen auf ein mit Backpapier ausgelegtes Blech legen und abgedeckt noch mal 1 Stunde lang gehen lassen. Die Brötchen dürfen sich berühren.
@@ -6622,7 +6480,6 @@ Info:	Der Name geht den Allerseelentag zurück (2.November, (lateinisch [Dies] i
 1 EL Apfelessig
 
 ### Zubereitung
-
 1. Den Ofen auf 170 Grad (Umluft 150 Grad) vorheizen. Eine ofenfeste Schale mit Wasser auf den Ofenboden stellen.
 1. Koriander in einem Mörser fein zerstoßen, dass mit Leinsamenmehl, Flohsamenschalen, Backpulver und Salz in einer Schüssel gut durchmischen.
 1. In einer zweiten Schüssel Quark, Eier und Essig mit dem Handmixer 2 Min. sehr gut verrühren. Die Leinsamenmischung nach und nach unter Rühren zugeben und unterrühren, bis die Masse fester wird. Dann mit einem Tuch abgedeckt 5 Minuten quellen lassen.
@@ -6664,7 +6521,6 @@ Salz
 1 Ei
 
 ### Zubereitung
-
 1. Mehl, Hefe, ½ TL Salz, Zucker und Kardamom in einer großen Schüssel mischen. Die Bananen schälen. Zerdrücken, in die Schüssel geben und alles gründlich vermengen.
 1. Milch und Butter sanft erhitzen, bis sie lauwarm sind, dann in die Schüssel geben. Mit der Mehlmischung zu einem Teig vermengen und 5 Minuten kneten. Der Teig wird sehr klebrig. Mit Frischhaltefolie abgedeckt auf doppeltes Volumen gehen lassen.
 1. Den Teig dann in acht Portionen teilen. Jeweils zu einer Kugel rollen, dann mit mindestens 5 cm Abstand auf ein mit Backpapier belegte Backblech setzen. Mit einem sauberen Küchentuch abdecken und erneut auf doppelte Größe gehen lassen. 
@@ -6711,7 +6567,6 @@ Salz
 Rapsöl
 
 ### Zubereitung
-
 1. Beide Mehlsorten mit Sesam, Ajowan, Kurkuma, Cayennepfeffer und Salz in eine Schüssel geben. Gründlich mischen, dann 1 EL Öl hinzugeben und mit den Fingern feinkrümelig verreiben. Eine Mulde in die Mitte drücken und nach und nach mit bis zu 120 ml warmem Wasser 5 Minuten verknete, bis ein weicher, geschmeidiger Teig entsteht.
 1. Eine Arbeitsfläche möglichst nah am Herd bemehlen und eine Teigrolle und eine Schüssel mit Mehl bereitstellen, um die Teigkugeln darin zu wälzen.
 1. Eine große Pfanne erhitzen. Den Teig teilen und zu acht Kugeln formen. Eine Kugel großzügig mit Mehl bestäuben, dann zu einem 16 cm großen Kreis ausrollen, dabei zwischendurch frisch bemehlen, damit der Teig nicht kleben bleibt. In die heiße Pfanne legen.
@@ -6739,7 +6594,6 @@ Rapsöl
 Salz
 
 ### Zubereitung
-
 1. Den Backofen auf 180 Grad (Umluft) vorheizen. Den Boden einer Kastenform (20 x 10 cm) fetten und mit Backpapier auslegen.
 1. Die Haferflocken in einer kleinen Schüssel mit Thymian, Kürbiskernen, Kümmel- und Schwarzkümmelsamen mischen. Das Mehl mit Backpulver, Speisenatron und ¾ TL Salz in eine zweite Schüssel geben. Mit einem Schneebesen verrühren, dann die Rote Bete und die Haferflockenmischung (bis auf 1 EL) hinzufügen. Nicht verrühren, sondern einfach beiseitestellen.
 1. In einer weiteren Schüssel die Eier mit Öl, saurer Sahne, Honig und Parmesan verquirlen. Die Mehlmischung daraufschütten und alles mithilfe eines Teigschabers mischen. Den Ziegenkäse sorgfältig unterheben, die Stücke möglichst ganz lassen.
@@ -6768,7 +6622,6 @@ Salz, Pfeffer
 Sonnenblumenöl zum Einfetten
 
 ### Zubereitung
-
 1. Für den Teig das altbackene Brot zu Bröseln zerkleinern. Die Maronen klein hacken. Eine der beiden Zwiebeln und den Knoblauch klein schneiden, in Olivenöl goldgelb anbraten, anschließend mit Bröseln und Maronen mischen.
 1. Die Nüsse grob hacken und mit den gemahlenen Mandeln, Basilikum, getrockneten Tomaten, Ei und Käse vermengen. Nach Geschmack salzen und pfeffern. Eine Brotbackform einfetten und mit Backpapier auslegen. Die Hälfte des Teiges hineingeben und glattstreichen.
 1. Anschließend die Paprika waschen, halbieren und entkernen. Auf einem mit Backpapier ausgelegten Blech im vorgeheizten Ofen bei 180 Grad (Umluft) rösten. Aus dem Ofen nehmen, sobald die Schale schwarz geworden ist und Blasen wirft (nach ungefähr 30 Minuten), dann die Schale vorsichtig abziehen, und die Paprika in Streifen schneiden. Die verbliebene Zwiebel und die Zucchini würfeln, dann getrennt voneinander in Olivenöl anbraten. Jetzt schichtweise Paprika, Zucchini und Zwiebeln auf den Teig in der Backform geben, mit der verbliebene Hälfte des Teigs abschließen. Mit Backpapier abdecken und etwa 40 Minuten im Ofen bei 180 Grad (Umluft) backen. Mit Kirschtomaten, Basilikumblättern und Ketchup servieren.
@@ -6798,7 +6651,6 @@ Pfeffer
 1 EL Wasser
 
 ### Zubereitung
-
 1. Mehl in eine Rührschüssel geben und mit der Trockenhefe sorgfältig vermischen. Zucker, Salz, Pfeffer und 250 ml lauwarmes Wasser hinzufügen. die Zutaten mit dem Rührgerät mit Knethaken zunächst auf niedrigster, dann auf höchster Stude in etwa 5 Minuten zu einem glatten Teig verkneten. Teig an einem warmen Ort so lange gehen lassen, bis er etwa doppelt so hoch ist.
 1. Für die Füllung die Zwiebeln hacken. Butter zerlassen und die Zwiebelwürfel darin bei milder Hitze andünsten. Ei, Gouda und Kräuter unterrühren. Den aufgegangenen Teig aus der Schüssel nehmen, gut durchkneten und auf einer mit Mehl bestäubten Fläche zu einem Rechteck (30x40 cm) ausrollen. Mit weicher Butter bestreichen und die Füllung darauf gleichmäßig verteilen. Die längeren Seiten des Teiges etwas einschlagen und den Teig von den kürzeren Seiten her zur Mitte aufrollen. Den Teig in eine gefettete Kastenform geben und nochmals einem warmen Ort gehen lassen.
 1. Den Teig auf der oberen Seite auf beiden Rollen zickzackförmig etwa 1 cm tief einschneiden (nicht drücken). Eigelb mit Wasser verschlagen, den Teig damit bestreichen und bei 175-200 Grad im vorgeheizten Backofen ca. 40 – 50 Minuten fertig backen.
@@ -6827,7 +6679,6 @@ Saft von ½ Zitrone
 Schwarzer Pfeffer aus der Mühle
 
 ### Zubereitung
-
 1. Die Hefe mit Wasser, dem Honig und Salz in einer großen Schüssel verrühren, bis sich die Hefe auflöst.
 1. Die Mehle in eine zweite Schüssel sieben (oder auch nicht) und die Hälfte davon zur Hefemischung geben. Mit einem Holzkochlöffel verrühren, bevor man das restliche Mehl einarbeitet. 1 Minute in der Schüssel kneten, dann einige Minuten auf einer bemehlten Arbeitsfläche weiterkneten. Mehl hinzugeben, wenn sich der Teig klebrig anfühlt. Er sollte elastisch sein, aber nicht an den Händen kleben.
 1. Teig zu einer Kugel formen, mit Olivenöl einreiben, wieder in die Schüssel geben. Mit Frischhaltefolie abdecken und ca. 1 Stunde gehen lassen.
@@ -6852,7 +6703,6 @@ Etwas Pfeffer
 1 EL Wasser
 
 ### Zubereitung
-
 1. Mehl in die Rührschüssel geben und mit der Trockenhefe sorgfältig vermischen. Zucker, Salz, Pfeffer und 250 ml lauwarmes Wasser hinzufügen. die Zutaten mit dem rührgerät mit Knethaken zunächst auf der niedrigsten, dann auf der höchsten Stufe in etwa 5 Minuten zu einem glatten Teig verarbeiten. Gegen Ende der Knetzeit 150 g grob geraspelten Gouda unterkneten.
 1. Den Teig an einem warmen Ort so lange gehen lassen, bis er etwa doppelt so hoch ist. Teig aus der Schüssel nehmen und gut durchkneten. Aus dem Teig etwa 10 ovale glatte Brötchen formen, auf ein mit Backpapier ausgelegtes Bech legen und nochmals an einem warmen Ort gehen lassen.
 1. Eigelb mit Wasser verschlagen, die Brötchen damit bestreichen. Mit 50 g grob geraspelten Gouda bestreuen und im vorgeheizten Backofen bei 175-200 Grad etwa 25 Minuten backen.
@@ -6911,7 +6761,6 @@ Mehl, Salz, Öl und Wasser verkneten. 15 Minuten ruhen lassen, in der Pfanne je 
 Öl
 
 ### Zubereitung
-
 1. Das Mehl in eine Schüssel geben und mit dem Salz mischen. Eine Mulde in die Mitte drücken, 3 EL Öl hineingeben und die Mischung mit den Fingern krümelig verreiben. 250 ml warmes Wasser hinzugießen, dann 6-8 Minuten zu einem weichen, formbaren teig verkneten. Wenn nötig, nach und nach weitere 50 ml Wasser hinzugeben.
 1. Den Teig dünn mit Öl einreiben (damit er nicht austrocknet) und während der weiteren Vorbereitung beiseitestellen. Eine Arbeitsfläche nahe dem Herd, eine Teigrolle, eine Schüssel mit Mehl (um die teigkugeln darin zu wälzen), einen Pfannenwender, eine Pfanne und einen Teller für die fertigen Chapatis vorbereiten.
 1. Den Teig zu 16 Kugeln formen. Die Pfanne stark erhitzen. Eine Teigkugel großzügig im Mehl wenden, dann auf 16 cm Durchmesser ausrollen und dabei mit weiterem Mehl bestäuben, wenn der Teig an der Rolle kleben bleibt. In die heiße Pfanne legen.
@@ -6931,7 +6780,6 @@ Mehl, Salz, Öl und Wasser verkneten. 15 Minuten ruhen lassen, in der Pfanne je 
 3 EL vegane Butter
 
 ### Zubereitung
-
 1. alle Zutaten außer der Butter in einer Schüssel mit 120 – 130 ml Wasser zu einem dicken Teig verkneten. Mindestens 30 Minuten abgedeckt ruhen lassen. In zehn gleich große Portionen teilen und diese zu Teigbällchen formen. Die Bällchen in Mehl wenden und dann zu flachen Broten mit 15- 18 cm Durchmesser ausrollen.
 1. Eine Pfanne auf mittlere Temperatur erhitzen und die Brote darin auf jeder Seite etwa 3 Minuten rösten, bis sie braune Flecken bekommen. Die fertigen Brote mit etwas Butter bestrichen, auf einem angewärmten Teller stapeln und mit einem sauberen Geschirrtuch abdecken, bis alle fertig sind.
 
@@ -6955,7 +6803,6 @@ Pfeffer
 250 g reife kleine Tomaten, in dünne Scheiben geschnitten
 
 ### Zubereitung
-
 1. Beide Mehle mit Natron, Salz und Joghurt in eine Schüssel geben und vermischen. Eine Mulde hineindrücken und 240 ml warmes Wasser und die Eier hineingeben. Zu einem glatten Teig verrühren und beiseitestellen.
 1. Für den Belag Öl in der Pfanne erhitzen du die Zwiebeln hineingeben. Etwa 12 -15 Minuten braten, bis sie karamellisiert sind, dann Chilis, Salz und Pfeffer unterrühren. Die Tomatenscheiben hinzugeben, vermengen und vom Herd nehmen.
 1. Für die Uttapams wenig Öl in einer Pfanne erhitzen, dann eine kleine Kelle Teig in die Pfanne geben, verteilen und bei mittlerer Hitze 1 Minute stocken lassen. Dann 1 EL der Tomatenmischung darauf verteilen. Das Uttapam wenden und 1 weitere Minute backen, bis es gar ist, dann auf einen Teller geleiten lassen.
@@ -6978,7 +6825,6 @@ Salz, Pfeffer
 150 g Cheddar, gerieben
 
 ### Zubereitung
-
 1. Für die Füllung den Blumenkohl reiben. Das Öl in einer Pfanne erhitzen, die Zwiebel darin bei mittlerer Hitze 8 Minuten glasig anschwitzen. Chilis und Kreuzkümmel hinzufügen und 1 Minute unter Rühren anrösten. Den Blumenkohl dazugeben und 4 – 5 Minuten braten. Salz und Pfeffer unterrühren, vom Herd nehmen, den Käse einstreuen, umrühren und beiseitestellen.
 1. Für den Rotiteig das Mehl in einer großen Schüssel mit dem Salz mischen, dann das Öl unterrühren. Eine Mulde in die Mitte drücken und nach und nach mit bis zu 300 ml warmen Wasser zu einem glatten, elastischen Teig verkneten und mit Öl einreiben. Die Arbeitsfläche bemehlen und den Teig in 12 Teile teilen. Jede Portion mit den Händen zu einer Kugel rollen, flach drücken und mit Mehl bestäuben. Auf 10 cm Durchmesser ausrollen, erneut bestäuben und auf 20 cm Größe ausrollen.
 1. Auf eine Hälfte eines Roti 2 EL der Füllung geben und dabei einen schmalen Rand freilassen. Die andere Hälfte darüberschlagen und den Rand zusammendrücken. Das gefüllte Roti sanft mit der Teigrolle flach rollen und beiseitestellen. Mit den übrigen Rotis wiederholen.
@@ -6996,7 +6842,6 @@ Rapsöl
 1 Stück Ingwer (1 cm), geschält und gerieben
 
 ### Zubereitung
-
 1. Die Mehlsorten und das Salz in einer Schüssel mischen, 1 EL Öl hinzugeben und mit den Fingern fein krümelig verreiben. Chilis und Ingwer hinzugeben und gut vermengen. Nach und nach mit bis zu 140 ml lauwarmem Wasser 5 Minuten verkneten, bis ein weicher, geschmeidiger Teig entsteht.
 1. Die Hälfte des Teigs auf einer bemehlten Fläche 5 mm dick ausrollen. Mit einem Plätzchenausstecher (10 cm Durchmesser) Scheiben ausstechen. Die zweite Hälfte ausrollen und ebenfalls ausstechen.
 1. Zum Backen der Rotis die Pfanne stark erhitzen, ein wenig Öl hineinträufeln und jeweils 2 – 3 Rotis auf einmal 3 Minuten backen, bis sie gar sind und keine dunklen Flecken mehr zu sehen sind. Dabei jede Minute wenden.
@@ -7010,7 +6855,6 @@ Rapsöl
 Öl
 
 ### Zubereitung
-
 1. 80 g Butter bei mittlerer Hitze in einem Topf zerlassen. Mehl und Salz in einer großen Schüssel mischen, dann die zerlassene Butter hinzugeben und mit den Fingern fein krümelig verreiben. Nach und nach 185 ml warmes Wasser hinzugeben und alles zu einem klebrigen Teig vermengen.
 1. Den Teig auf einer bemehlten Fläche 5 Minuten kneten, bis er weich ist, dann in eine eingeölte Schüssel geben, mit Frischhaltefolie abdecken und 1 Stunde an einem warmen Ort ruhen lassen.
 1. Den Teig anschließend in zehn Kugeln teilen, auf ein Backblech legen und mit einem sauberen Küchentuch abgedeckt weitere 20 Minuten ruhen lassen.
@@ -7082,7 +6926,6 @@ Salz
 Schwarzkümmelsamen zum Bestreuen
 
 ### Zubereitung
-
 1. Ein Backblech einölen. Für die Knoblauchbutter die Butter bei schwacher bis mittlerer Hitze in einem kleinen Topf zerlassen, Knoblauch und einige große Prisen Salz hineingeben. 5 Minuten andünsten, dann vom Herd nehmen.
 1. Das Mehl in eine große Schüssel geben, eine Mulde in die Mitte drücken und 2 EL Öl, den Joghurt, Hefe, Backpulver, Zucker und 2 TL Salz hineingeben. Mit den Findern fein krümelig vermengen, dann nach und nach mit der warmen Milch zu einem Teig verkneten. Den Teig auf eine saubere und bemehlte Fläche setzen. Er ist anfangs sehr klebrig und weich, aber auch robust. Etwa 5 Minuten kneten. Dann den Teig mit einem Löffel von den Fingern kratzen. Rundum mit 1 TL Öl einreiben.
 1. Den Teig in eine große, weite Schüssel geben. Mit einem sauberen Küchentuch abdecken und mindestens 1 Stunde an einem warmen Ort gehen lassen.
@@ -7246,7 +7089,6 @@ Pfeffer
 300 ml Wasser
 
 ### Zubereitung
-
 1. Am Abend in einer Schüssel einen kleinen, sehr weichen Teig aus 50 g Mehl und der Hefe vorbereiten. Hefe vorher in sehr wenig (fingerhutvoll) ziemlich warmen Wasser zerbröseln. Teig mit einem Tuch bedecken und an einem warmen Ort gehen lassen.
 1. Am nächsten Tag den Rest des Mehls auf Die Arbeitsfläche schütten. Eine Mulde hineindrücken. Mit 300 ml lauwarmen Wasser verkneten und ein weiches und lockeres kleines Brot formen. In einer Schüssel an einem warmen Ort zugedeckt 1 Stunde gehen lasse. Den Brotteig mit einem scharfen Messer etwas einritzen.
 1. Sobald der Teig sein Volumen verdoppelt hat, erneut durchkneten und zu einem Brotlaib formen. In dem vorgeheizten Backofen bei 200 Grad zuerst 10 Minuten backen, dann die Temperatur herunterschalten und weiter 15 – 20 Minuten backen.
@@ -7504,9 +7346,7 @@ Salz, weißer Pfeffer
 40 g Dill, grob gehackt, plus 2 EL Spitzen zum Servieren
 
 5 Frühlingszwiebeln, in feine Röllchen geschnitten
-
 2,5 TL gemahlener Zimt
-
 2,5 TL gemahlener Kreuzkümmel
 1 TL gemahlene Kurkuma
 400 g Babyspinat
@@ -7516,7 +7356,6 @@ Salz, weißer Pfeffer
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Eine gut eingeölte Grillpfanne bei hoher Temperatur erhitzen, bis sie raucht. Die Auberginen hineinlegen, 45-50 Minuten rösten und zwischendurch zwei- bis dreimalwenden, bis rundherum vollständig schwarz sind. Auberginen in einem Sieb über einer Schüssel etwa 30 Minuten abtropfen lassen. Anschließend das Fruchtfleisch aus der Schale lösen, Schale und Stiele wegwerfen. Das Fruchtfleisch in lange Streifen zupfen und in einer Schüssel mit 1 EL Zitronensaft, 1/3 TL Salz und 1 kräftigen Prise Pfeffer sorgfältig vermengen. Beiseitestellen.
 1. Währenddessen in einem großen Topf 60 ml Öl bei mittlerer bis hoher Temperatur erhitzen und die Zwiebeln darin unter häufigem Rühren etwas 12 Minuten anbraten, bis sie kräftig gebräunt und weich sind. Den Knoblauch dazugeben, die Hitze nach 30 Sekunden auf niedrige bis mittlere Stufe reduzieren und die Kräuter, die Frühlingszwiebeln sowie 3 EL Wasser hinzufügen. Etwa 15 Minuten garen, bis die Kräuter dunkelgrün gefärbt haben; immer wieder umrühren, damit nicht ansetzt. Die Temperatur wieder leicht erhöhen, Zimt, Kreuzkümmel und 1 TL Kurkuma untermengen und 30 Sekunden rühren. Dann den Spinat, die Brühe und 400 ml Wasser dazugeben und die Suppe mit 1 3/4 TL Salz und 1 kräftigen Prise Pfeffer würzen. Zum Kochen bringen und bei mittlere Hitze 20 Minuten köcheln lassen.
 1. Die Suppe vom Herd nehmen, mit den restlichen 2 EL Zitronensaft verrühren, grob pürieren. Warm stellen.
@@ -7540,7 +7379,6 @@ Reichlich Olivenöl
 1 Zitrone
 
 ### Zubereitung
-
 1. Man braucht hier wirklich getrocknete Bohnen, denn mit Bohnen aus der Dose schmeckt es nicht. Also, dafür die getrocknete Bohnen mindestens 12 Stunden einweichen. Eine Herausforderung, denn man muss sich im Voraus festlegen, was man essen will 😊
 1. Nach dem Einweichen werden die Bohnen 1 Stunde lang in Wasser gar gekocht. Erst zum Schluss das Kochwasser auffangen. Sellerie waschen, in Scheiben schneiden, Paprika entkernen, waschen, in Streifen schneiden und diese noch mal halbieren und in ½ cm dicke Scheiben schneiden.
 1. Petersilie waschen, trocken schütteln und die Stiele zu den Zucchinischeiben geben. Salzen, pfeffern und alles ungefähr 5 Minuten lang in Olivenöl dünsten. Bohnen dazugeben und mit dem Kochwasser bedecken – wenn es nicht reicht, frisches Wasser hinzufügen. Die Rinde des Parmesanstücks hinzufügen. Nach ungefähr 30 Minuten die Rinde entfernen, etwa 3 Kellen der Suppe herausnehmen und pürieren.
@@ -7565,7 +7403,6 @@ Olivenöl
 4 Scheiben Weißbrot (am besten vom Vortag)
 
 ### Zubereitung
-
 1. Bohnen über Nacht in Wasser einweichen, abgießen. Eine der Zwiebeln schälen und in Streifen schneiden, eine Knoblauchzehe schälen und halbieren, Sellerie in Scheibchen schneiden. Alles mit den Bohnen sowie den Tomaten (samt Saft) in 1,2 l kaltem Wasser aufsetzen. Salzen und etwas Olivenöl hinzufügen. Das Ganze aufkochen, auf mittlere Hitze herunterschalten und ungefähr 1 Stunde lang bei geschlossenem Deckel simmern lassen, bis die Bohnen weich sind. Von dieser Mischung die Hälfte abzweigen und pürieren.
 1. In der Zwischenzeit die verbliebene Zwiebel fein schneiden, in einem anderen Topf zusammen mit einer geschälten, mit der flachen Seite des Messers angedrückten Knoblauchzehe und der Chilischote anschwitzen. Kartoffeln schälen und in kleine Würfel schneiden, hinzufügen. Die Grünkohlblätter von den harten Stielen zupfen, eventuell kleiner reißen, in den Topf geben. Zwei Kellen vom Bohnenkochwasser dazugießen. Alles ungefähr 15 Minuten lang bei geschlossenem Deckel dünsten.
 1. Die pürierten Bohnen unterrühren, sodass eine dicke Suppe entsteht. Abschmecken mit Salz und Olivenöl. Schließlich Weißbrot in mundgerechte Stücke reißen, in einer Pfanne in etwas Olivenöl zusammen mit einer geschälten, angedrückten Knoblauchzehe knusprig braten. Weißbrotstücke auf Teller verteilen, die Suppe darüber geben.
@@ -7619,7 +7456,6 @@ Wasser
 200 g Wirsing
 
 ### Zubereitung
-
 1. Zwiebel schälen, in Streifen schneiden. Knoblauch schälen und hacken. Sellerie und Lauch putzen, waschen und klein schneiden. Basilikum waschen, trocken schütteln, die Blätter von den Stielen zupfen – Stiele hacken.
 1. In einem großen Topf Olivenöl erhitzen. Vorbereitetes Gemüse zusammen mit Thymian und etwas Salz und Pfeffer anschwitzen. Hitze herunterschalten, die Gemüsemischung 20 Minuten lang unter regelmäßigem Rühren dünsten. Wasser dazugießen, sodass das Gemüse knapp bedeckt ist. Außerdem geschälte, klein geschnittene Kartoffeln, Tomaten und abgegossene Bohnen dazu sowie die Rinde eines Parmesanstücks. 30 Minuten zugedeckt köcheln lassen.
 1. Dann Pasta und in Steifen geschnittenen Wirsing dazu, 10 Minuten weiterköcheln lassen. Parmesanrinde und Thymianzweige entfernen. Die Suppe auf Tellern verteilen, etwas Olivenöl darübergeben, geriebenen Parmesan und klein gehackte Basilikumblätter darüberstreuen.
@@ -7668,7 +7504,6 @@ Salz, Pfeffer
 100 g getrocknete Kichererbsen, eingeweicht und gekocht ( oder einfach eine Dose, abgetropft)
 
 ### Zubereitung
-
 1. In einem Topf auf niedriger bis mittlerer Stufe das Öl erhitzen. Zwiebel, Knoblauch, Staudensellerie und Karotten darin etwa 5 Minuten anbrate. Gelegentlich umrühren, damit nichts anbrennt. Ingwer, Paprika, Kurkuma und Kreuzkümmel gut einrühren und kurz unter Rühren anbraten, bis die Gewürze duften.
 1. Tomatenmark, Gemüsebrühe und Tomaten hinzufügen und 30 Minuten köcheln lassen.
 1. Zitronensaft dazugießen und abschmecken. Die Kichererbsen zugeben und alles 1 weiter Minute köcheln lassen.
@@ -7713,7 +7548,6 @@ Saft von ½ Zitrone
 Chiliflocken nach Geschmack
 
 ### Zubereitung
-
 1. Zwiebeln schälen und hacken. Die Maiskörner zusammen mit Zwiebeln und einer großzügigen Prise Salz in Sonnenblumenöl in einem großen Topf anschwitzen. Unter Rühren ungefähr 5 Minuten lang dünsten, nicht anbrennen lassen.
 1. Ablöschen mit Wasser, so viel, dass der Mais gerade bedeckt ist. Das Ganze bei zugedecktem Deckel 20 Minuten lang köcheln lassen. Alles pürieren und durch ein Passiersieb streichen. Dazu braucht man etwas Geduld (und vor allem eben leider ein Passiersieb oder ein anderes feinmaschiges Sieb), aber der Schritt ist wichtig, weil die Häutchen, die die Maiskörner umgeben, nicht schmecken. Schmand unterrühren.
 1. Die Suppe abschmecken mit Salz, Kreuzkümmel, Zitrone und Chili und vielleicht noch einmal erhitzen.
@@ -7736,7 +7570,6 @@ Einige Scheiben Weißbrot
 Ein paar EL Joghurt (am besten griechischen mit 10% Fett)
 
 ### Zubereitung
-
 1. Den Ofen auf 200 Grad (Umluft) heizen. Ein Blech mit Backpapier auslegen. Karotten schälen, die Enden abschneiden, in vier Stücke schneiden. Zwiebel schälen und vierteln, Knoblauchknolle ungeschält quer halbieren. 
 1. Das Gemüse auf dem Blech verteilen, salzen, ungefähr zwei Drittel des Olivenöls darüberträufeln. Die Hälfte der Kuminsamen darauf verteilen. Alles gut vermengen, sodass das Gemüse von Öl benetzt ist. Blech in den Ofenschieben, 50 Minuten lang rösten.
 1. Den Knoblauch aus der papierenen Haut in einen großen Topf drücken. Karotten, Zwiebel, die Hälfte der Kichererbsen, Tahini, Gemüsebrühe und 250 ml Wasser dazugeben. Etwas salzen. Die Flüssigkeit zum Kochen bringen, dann simmern lassen, ungefähr 20 Minuten lang.
@@ -7757,7 +7590,6 @@ Ein paar EL Joghurt (am besten griechischen mit 10% Fett)
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den Lauch putzen, waschen und schräg in feine Scheiben schneiden. Die Möhren putzen, schälen und in Scheiben schneiden. Die Kartoffeln schälen, waschen und in kleine Würfel schneiden. Eine Orange heiß waschen, trocken reiben und die Schale abreiben. Beide Orangen auspressen. Den Ingwer schälen und in feine Würfel schneiden.
 1. Das Öl in einem Topf erhitzen, den Lauch und die Kartoffeln darin andünsten. Die Möhren, den Ingwer und das Kurkuma hinzufügen und kurz mitdünsten. Die Brühe und den Orangensaft angießen, die Orangenschale hinzufügen und das Gemüse bei mittlerer Hitze 25 Minuten weich garen.
 1. Die Suppe pürieren. Nochmals kurz aufkochen, dann die Kokosmilch hinzufügen und mit Salz und Pfeffer würzen. Fertig.
@@ -7807,7 +7639,6 @@ Ein Schuss Schlagsahne
 100 g Cheddar
 
 ### Zubereitung
-
 1. Zwiebel fein hacken, in etwas Olivenöl andünsten. Blumenkohl in Röschen zerteilen, diese eventuell noch einmal zerteilen. Zur Zwiebel geben, kurz mitdünsten. Salzen und pfeffern. Lorbeerblatt hinzufügen. Die Brühe dazugießen, alles aufkochen. Etwas 25 Minuten bei geschlossenem Deckel köcheln lassen, bis das Gemüse gar ist. Lorbeer entfernen. Dann das Gemüse glatt pürieren, etwas Sahne dazugeben. Man kann zum Abschmecken noch etwas Senf unterrühren.
 1. In der Zwischenzeit das Brot mit den Fingern in etwa 1 bis 2 cm große Croûtons reißen – sie dürfen ruhig unterschiedlich groß sein. In einer Schüssel Senf, zerlassene Butter und den fein geriebenen Cheddar vermengen. Die Brotstücke dazugeben, mit einem Löffel alles verrühren, bis sie von der Masse bedeckt sind. Dazu eine Prise Pfeffer. Die Croûtons auf einem mit Backpapier ausgelegtem Blech verteilen, dann im Backofen bei 180 Grad Umluft backen. Suppe auf Teller verteilen und jeweils ein paar Croûtons daraufgeben.
 
@@ -7825,7 +7656,6 @@ Eventuell etwas Salz
 1 gestrichener TL scharfer Senf
 
 ### Zubereitung
-
 1. Zwiebel in feine Ringe schneiden. In einem großen Topf Butter zergehen lassen, die Zwiebelstreifen hineingeben, etwas 10 Minuten lang unter Rühren dünsten. Nicht braun werden lassen. 
 1. Kartoffeln schälen und in grobe Stücke schneiden. Brokkoli in Röschen teilen, den Stamm schälen und in Stücke schneiden. Kartoffeln und Brokkoli zur Zwiebel geben, anschließend mit Brühe aufgießen. Eventuell salzen.
 1. Die Flüssigkeit aufkochen. Das Ganze etwa 20 Minuten lang köcheln, bis das Gemüse weich ist. Den Käse in die Suppe reiben. Alles fein pürieren. Zum Schluss eine Prise schwarzen Pfeffer hinzugeben und mit Senf abschmecken.
@@ -7843,7 +7673,6 @@ Salz
 Etwas Zitronensaft
 
 ### Zubereitung
-
 1. Für die Suppe die Sellerieknollen schälen und in 2 cm große Würfel schneiden. Zwiebel schälen, hacken und in Butter in einem großen Topf anschwitzen. Salzen und ungefähr 5 Minuten lang unter Rühren dünsten. Dann Sellerie dazugeben und mit Wasser ablöschen. Eine großzügige Prise Salz hinzufügen.
 1. 15 – 20 Minuten lang bei geschlossenem Deckel köcheln lassen, bis die Selleriestücke weich sind. Das Gemüse abgießen, den Fond auffangen. Die Safranfäden im Mörser zerstoßen und zum Sellerie geben. Sellerie pürieren, die Sahne und so viel von dem Fond dazugeben, dass eine Suppe entsteht. Mit Salz und Zitronensaft abschmecken.
 
@@ -7878,7 +7707,6 @@ Pfeffer
 ½ Bund frische Petersilie
 
 ### Zubereitung
-
 1. Eine Brühe kocht man aus gemüseschalen. Fast alle Gemüsesorten sind dazu geeignet: Karotten, Zwiebeln, Pastinaken, Petersilienwurzeln, Sellerie. Sie werden in einem Topf mit Wasser bedeckt. Es werden außerdem Salz, Pfeffer, Lorbeer du Piment hinzugegeben. Wer will, fügt noch Knoblauch, Ingwer, eine Zitronenscheibe. Ein wenig Kurkuma hinzu. Das Ganze ungefähr eine halbe Stunde auskochen, dann abschmecken und abgießen. Die Brühe ist am Ende eher braun und trübe. Man sollte sich davon nicht verunsichern lassen. Echte Frauen sehen auch anders aus als Models auf bearbeiteten Fotos.
 1. Pastinaken putzen oder schälen, in dicke Scheiben schneiden. Zwiebeln grob würfeln, in Butter andünsten. Pastinaken dazugeben, mit Brühe aufgießen, weich kochen, dann pürieren. Mit Zitronensaft abschmecken, mit Muskatblüte und Pfeffer würzen. Die Pekannüsse in einer beschichteten Pfanne mit Olivenöl und Cayennepfeffer rösten. Die Suppe auf Tellern anrichten. Die Nüsse darübergeben und mit gehackter Petersilie bestreuen.
 
@@ -7942,7 +7770,6 @@ Tabasco
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Salatgurke schälen, längs halbieren, entkernen und in Stücke schneiden. Rucola putzen, waschen und grob hacken. 
 1. Gurke und Rucola zusammen mit Buttermilch (oder für die vegane Variante mit kaltem Gemüsefond) fein pürieren. 
 1. Mit Zitronensaft und einigen Spritzern Tabasco, Salz und Pfeffer abschmecken. Im Kühlschrank mindestens 30 Minuten durchkühlen lassen.
@@ -7995,7 +7822,6 @@ Info:	Gazpacho ist eine andalusische Spezialität, die an heißen Tagen wunderba
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Kichererbsen mindestens 12 Stunden in reichlich kaltem Wasser einweichen. Abwaschen und abtropfen lassen. Die Kichererbsen in einen Topf mit kaltem Wasser und einer Prise grobem Salz geben und bei mäßiger Hitze mindestens 2 Stunden köcheln lassen. 
 1. Sobald die Kichererbsen lauwarm abgekühlt sind, pürieren. In einem Topf mit schwerem Boden mit 4 EL Öl die 2 geschälten Knoblauchzehen und einem Rosmarinzweig andünsten. Sobald der Knoblauch Farbe annimmt, die passierten Kichererbsen und 1 – 2 Schöpflöffel Kochwasser hinzufügen. Cremig einkochen lassen. In der Suppe die mit den Fingern zerbrochenen Pappardelle kochen. Die Suppe 15 – 20 Minuten ruhen lassen und am Tisch mit einem EL Öl und einer Prise frisch gemahlenen Pfeffer pro Portion servieren. 
 
@@ -8038,7 +7864,6 @@ Wasser
 1 Zitrone
 
 ### Zubereitung
-
 1. Die Kichererbsen wäscht man unter kaltem Wasser ab und lässt sie abtropfen. Zwiebel schälen, in Streifen schneiden und in einem Topf mit etwas Salz und Olivenöl anschwitzen, ungefähr 20 Minuten lang bei niedriger Temperatur.
 1. Die Kichererbsen dazugeben, so viel Wasser in den Topf gießen, dass sie gerade bedeckt sind. Aufkochen und 1 Stunde lang zugedeckt köcheln lassen, dann ist der Fond schön würzig.
 1. Die Suppe auf Tellern verteilen, Pfeffer daraufgeben sowie etwas Zitronensaft und Olivenöl
@@ -8068,7 +7893,6 @@ Weißbrot
 Evtl. eine weitere Knoblauchzehe
 
 ### Zubereitung
-
 1. Zunächst die Karotten in kleine Stücke schneiden und die Selleriestangen in Scheiben. Die Zwiebeln fein hacken. Alles in einem Topf mit Wasser bedecken, die Pimentkörner und das Lorbeerblatt dazugeben, salzen und pfeffern und das Ganze zum Kochen bringen. Vor Ende der Garzeit (15 Minuten) kommen die abgetropften Kichererbsen dazu. Pimentkörner und Lorbeerblatt entfernen. Zwei oder drei Kellen der Suppe in einer Schüssel pürieren, das Püree kommt zurück in den Topf. Falls die Suppe zu dick ist, mit Wasser verdünnen.
 1. Den Knoblauch in feine Scheiben schneiden und in der Pfanne in Olivenöl mit einer Prise Chilipulver und den Thymianzweigen andünsten. Hat der Knoblauch etwas Farbe angenommen, gibt man den Spinat dazu. Salzen und pfeffern, weiterköcheln lassen. Die geschälten Tomaten dazugeben und einige Minuten andünsten. Man entfernt die Thymianzweige und gibt die Spinat-Tomaten-Mischung zur Suppe in den Topf. Noch ein paar Minuten köcheln lassen. Die Suppe wird mit geriebenem Parmesan und einigen tropfen Olivenöl serviert. Dazu kommt eine Scheibe Weißbrot, die man mit einer Knoblauchzehe eingerieben und kurz im Ofen getoastet hat.
 
@@ -8111,7 +7935,6 @@ Saft von ½ Zitrone
 1 Prise Salz
 
 ### Zubereitung
-
 1. In einem hohen Topf 2 EL von dem Öl erhitzen, die Zwiebel hineingeben und anschwitzen, aber nicht bräunen. Ingwer, Knoblauch und Chili dazugeben. Einige Minuten unter Rühren braten, dann Erbsen, Brühe, Zitronensaft und Garam Masala hinzufügen.
 1. Aufkochen lassen, die Kräuter einrühren und vom Herd nehmen. Pürieren.
 1. In einer kleinen Pfanne 1 EL Öl erhitzen, die Kreuzkümmelsamen hineingeben und bei mittlerer Hitze bräunen lassen. Salzen und vom Herd nehmen.
@@ -8126,7 +7949,6 @@ Salz, Muskat, Pfeffer
 1 l Gemüsebrühe
 
 ### Zubereitung
-
 1. Die Butter schaumig aufschlagen (bis sie weiß ist) und das Ei unterrühren, bis die Masse bindet. Dann den Grieß unterheben. Mit Salz, Muskat und Pfeffer abschmecken und eine Stunde stehen lassen.
 1. Mit zwei Esslöffeln, die man zwischendurch immer wieder in heißes Wasser taucht, Nocken abstechen. Am besten lassen sich die länglichen Klößchen formen, indem man den Teig mehrmals von einem Löffel in den anderen streicht.
 1. Nocken in einer heißen Gemüsebrühe 5 Minuten leicht kochen lassen und weitere 10 Minuten ziehen lassen. Auf Suppenteller verteilen und mit Schnittlauch bestreut servieren.
@@ -8173,7 +7995,6 @@ Etwas Dill
 Chiliflocken
 
 ### Zubereitung
-
 1. Linsen waschen und mit 600 ml Wasser, Salz und Lorbeer bei mittlerer Hitze und geschlossenem Deckel 15 – 20 Minuten lang weichkochen. Dabei immer wieder umrühren
 1. Lorbeerblätter entfernen.
 1. Zwiebeln und Knoblauch schälen und klein schneiden. In einer Pfanne Olivenöl erhitzen. Pinienkerne, Kreuzkümmel und Zucker dazugeben. Einige Minuten dünsten. Alles zu den Linsen geben und die Suppe pürieren. Mit Zitrone und Dill abschmecken und mit Chili bestreuen.
@@ -8200,7 +8021,6 @@ Saft von ½ Zitrone
 Grob gehackte Minze, Koriander, Petersilie
 
 ### Zubereitung
-
 1. Eine Zwiebel mit Knoblauch, Ingwer und verschiedenen Gewürzen (Pul Biber, Lorbeer, Piment und einer Zimtstange) in Olivenöl anschwitzen. Nach ein paar Minuten die Linsen dazugeben und die heiße Gemüsebrühe dazugießen. Die Linsen sind nach ungefähr 20 Minuten Kochzeit gar. Sie sind dann nicht mehr rot, sondern gelb, und sie bleiben im Gegensatz zu schwarzen Beluga-Linsen und grünen Puy-Linsen nicht bissfest, sondern werden weich.
 1. So hat die Suppe am Ende der Garzeit eine Konsistenz wie ein Eintopf und wird nicht püriert. Zum Schluss entfernt man die Zimtstange. Mit Salz, Pfeffer und Zitronensaft abschmecken. Vor dem Servieren etwas Joghurt auf die Suppe geben und die grob gehackten Kräuter. Die dienen nicht der Dekoration, sondern sind Bestandteil des Gerichts.
 
@@ -8221,7 +8041,6 @@ Salz
 1 Limette
 
 ### Zubereitung
-
 1. Öl in einem Topf erhitzen. Zwiebel schälen, fein schneiden und zum Öl geben, ungefähr 5 Minuten lang dünsten, dabei oft umrühren. Chiliflocken, fein gehackten Knoblauch und fein gehackten Ingwer dazugeben und mitdünsten. Linsen hinzufügen, sowie die geschälten Tomaten und die gehackten Korianderstängel. Dann gießt man 600 ml Wasser dazu. Salzen und pfeffern. Kokosmilch dazugießen.
 1. Flüssigkeit einkochen. Hitze herunterschalten und 25 Minuten lang bei geschlossenem Deckel köcheln lassen, bis die Linsen gar sind.
 1. Zum Servieren Suppe auf Teller verteilen, Korianderblättchen hacken und darüberstreuen. Dazu das Limettenviertel servieren, sodass sich jeder frisch etwas Saft auf die Suppe träufeln kann.
@@ -8244,7 +8063,6 @@ Pfeffer, Salz
 Saft von 1 Orange
 
 ### Zubereitung
-
 1. Das Olivenöl in einem Suppentopf erhitzen und die Zwiebel und den Sellerie darin sanft anbräunen. Die Linsen, die Karottenwürfel, den Knoblauch, den Kreuzkümmel, den Koriander, das Chilipulver und etwas Pfeffer dazugeben und alles 5 Minuten braten. Die Mischung mit der Gemüsebrühe und dem Orangensaft ablöschen und bei niedriger Temperatur 30 Minuten köcheln lassen.
 1. Die Suppe mit Salz und Pfeffer abschmecken, pürieren und eventuell mit Sahne etwas verfeinern. 
 ##
@@ -8270,7 +8088,6 @@ Ein paar frische Korianderblätter
 Etwas Joghurt
 
 ### Zubereitung
-
 1. Linsen in ein Sieb geben, abspülen und verlesen, also Steinchen und beschädigte Samen aussortieren. In einen Topf zusammen mit 1,5 l Wasser geben. Zum Kochen bringen, Hitze herunterschalten, zugedeckt 40 Minuten lang köcheln lassen.
 1. Inzwischen Zwiebel und Knoblauch schälen und fein hacken. Mangold waschen und Blätter sowie Stiele in Streifen schneiden. Koriandersamen im Mörser zerstoßen.
 1. 5 Minuten bevor die Linsen gar sind, Zwiebel mit Öl in einem großen Topf erhitzen und 5 Minuten lang dünsten. Knoblauch, Mangold, Koriander und Linsen samt Kochflüssigkeit dazugeben. Mit Salz, Pfeffer und Cayennepfeffer würzen. 
@@ -8296,7 +8113,6 @@ Info:	Die Suppe schmeckt übrigens auch kalt und lauwarm sehr gut.
 2 EL Kokosfett
 
 ### Zubereitung
-
 1. Die Linsen mindestens 10 Minuten in kaltem Wasser einweichen. Gut spülen und das Wasser abgießen. Linsen in einen Topf geben und die Hälfte der Curryblätter, der Zwiebel, des Knoblauchs und des Ingwers hinzufügen. Dann Zimt, Kurkuma, Currypulver und Salz dazugeben, Kokosmilch und 450 ml Wasser angießen und kurz aufkochen lassen. Die Hitze reduzieren und alles 10-20 Minuten unter gelegentlichem Rühren sanft köcheln lassen, bis die Linsen weich sind und das Dhal eine dickflüssige Konsistenz hat.
 1. Das Dhal in eine hitzebeständige Schüssel füllen. Im bereits benutzten topf das Fett erhitzen und darin den Rest der Curryblätter, der Zwiebel, des Knoblauchs udnd es Ingwers einige Minuten unter ständigem Rühren rösten, bis alles duftet und leicht gebräunt ist.
 1. Das Dhal zurück in den Topf mit den Gewürzen geben und unter ständigem Rühren kurz aufkochen (oder bis zur gewünschten Konsistenz weiter eindicken lassen, wenn man es cremiger mag).
@@ -8349,7 +8165,6 @@ Salz, schwarzer Pfeffer aus der Mühle
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. In einer großen Pfanne 2 EL Olivenöl bei mittlerer Temperatur erhitzen. Knoblauch, Zwiebel, Thymian und ¼ TL Salz hineingeben und 8 Minuten goldgelb anbraten, dabei regelmäßig umrühren. In eine Schüssel füllen – ohne das Öl – und beiseitestellen.
 1. Auberginen und Tomaten in einer Schüssel mit ¼ TL Salz und reichlich Pfeffer würzen. Das restliche Öl (1 EL) in der Pfanne kräftig erhitzen. Auberginen und Tomaten hineingeben, bei mittlerer bis starker Hitze 10 Minuten braten und immer wieder wenden, bis die Auberginen goldbraun und weich sind und die Tomaten sich stellenweise dunkel färben. Knoblauch und Zwiebel wieder dazugeben. Linsen, Brühe, Wein und 450 ml Wasser unterrühren und alles mit ¾ TL Salz würzen. Zum Kochen bringen und bei mittlerer Hitze 40 Minuten köcheln lassen, bis die Linsen gar sind, aber noch etwas Biss haben.
 1. Den Eintopf warm oder abgekühlt servieren, mit einem Klecks Crème fraîche und paar Tropfen Olivenöl, mit Chiliflocken und Oreganoblättchen bestreuen.
@@ -8370,7 +8185,6 @@ Salz, Pfeffer
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Das Öl in einen Topf geben und bei mittlerer bis hoher Temperatur erhitzen. Die Zwiebelwürfel darin unter häufigem Rühren 8 Minuten braten, bis sie weich und karamellisiert sind. Currypulver, Chiliflocken, Knoblauch und Ingwer hinzufügen und 2 Minuten mitbraten, dann weiterrühren. Die Linsen in den Topf geben und 1 Minute unterrühren, dann Tomaten, Korianderstängel, 600 ml Wasser, 1 TL Salz und 1 sehr kräftige Prise gemahlenen Pfeffer hinzufügen.
 1. Die Kokosmilch in eine Schüssel gießen und mit einem Schneebesen glattrühren. 4 EL abnehmen und bis zum Servieren beiseitestellen, die restliche Kokosmilch zur Suppe geben. Die Suppe aufkochen, dann bei mittlerer Hitze 25 Minuten köcheln lassen, bis die Linsen weich, aber noch nicht zerfallen sind. Falls nötig, die Suppe mit etwas Wasser (etwa 100-150 ml) verdünnen.
 1. Die Suppe auf vier Schalen verteilen, mit der beiseitegestellten Kokosmilch beträufeln, mit Korianderblättern bestreuen und servieren.
@@ -8413,7 +8227,6 @@ ca. 1,5 kg Kürbisfleisch
 Salz, Pfeffer, Muskat
 
 ### Zubereitung
-
 1. Kürbisfleisch in kleine Würfel schneiden. Zwiebel fein hacken, in Öl glasig dünsten. Kürbis, Brühe und knapp 500 ml Milch hinzufügen. So lange köcheln lassen bis der Kürbis matschig wird.
 1. Von der Kochstelle nehmen und zu feinem Brei pürieren. Mit restlicher Milch auffüllen, mit Salz, Pfeffer und Muskat abschmecken und bei schwacher Hitze unter Rühren erwärmen.
 
@@ -8433,7 +8246,6 @@ Salz, Pfeffer
 Zucker
 
 ### Zubereitung
-
 1. Zwiebeln in feine Würfel schneiden. Kürbis waschen, halbieren, die Kerne und das weiche Innere entfernen. Kürbisfleisch grob in Würfel schneiden.
 1. Öl in einem Topf erhitzen, Zwiebeln darin glasig dünsten. Kürbis zugeben, kurz mitdünsten und 600 ml Wasser zugießen. Zugedeckt 15 Minuten bei milder Hitze köcheln lassen.
 1. Kürbis fein pürieren. Sahne zugießen, aufkochen und mit Salz, Pfeffer und Essig abschmecken.
@@ -8452,7 +8264,6 @@ Zucker
 Salz, Pfeffer aus der Mühle
 
 ### Zubereitung
-
 1. Den Kürbis putzen, waschen und viertel, anschließend entkernen und grob würfeln. Die Zwiebeln fein würfeln.
 1. Die Butter in einem Topf erhitzen. Zwiebeln, Kürbis und Paprikapulver etwa 3 Minuten darin andünsten.
 1. Mit Sahne, Orangensaft und Gemüsebrühe auffüllen. Zugedeckt 15 Minuten bei mittlerer Hitze weichkochen. Anschließend fein pürieren. Mit Salz und Pfeffer würzen. 
@@ -8498,7 +8309,6 @@ Etwas glatte Petersilie
 6 EL Schlagsahne
 
 ### Zubereitung
-
 1. Kürbis der Länge nach vierteln, die Kerne entfernen. Kürbisschnitze mit etwas Olivenöl beträufeln, salzen du pfeffern, Sumach darübergeben. Bei 180 Grad (Umluft) ca. 40 Minuten lang garen, bis das Kürbisfleisch weich ist. In einem Topf Olivenöl erhitzen, fein geschnittene Zwiebel mit etwas Salz einige Minuten lang dünsten.
 1. Wenn der Kürbis aus dem Ofen kommt, das Fleisch mit einem Löffel herauslösen, zu den Zwiebelstückchen geben. Die Brühe in den Topf gießen und das Ganze 10 Minuten lang köcheln lassen, dann pürieren.
 1. In einer Pfanne Butter langsam zergehen lassen, Pinienkerne darin rösten, bis sie sich bräunlich färben. Die Butter darf auch ein bisschen braun werden. Petersilienblättchen fein hacken, dazugeben. Suppe auf tiefe Teller verteilen mit je 1 EL Sahne. Die Butter mit den Pinienkernen darübergießen. Dazu passt getoastetes Brot.
@@ -8523,7 +8333,6 @@ Pfeffer, Muskatnuss
 1 Bund Petersilie
 
 ### Zubereitung
-
 1. Gehackte Zwiebel in Butter dünsten. Sellerie und Kürbisfleisch würfeln, mitdünsten. Tomatenmark, Lorbeerblatt und Gemüsebrühe beifügen. Kürbis ca. 20 Minuten garen. Lorbeerblatt entfernen und Suppe pürieren.
 1. Suppe zusammen mit der Sahne aufkochen und würzen. Mit Petersilie garnieren.
 
@@ -8571,7 +8380,6 @@ Frisch geriebene Muskatnuss
 1 EK gehackte Dillspitzen
 
 ### Zubereitung
-
 1. Die Kartoffeln schälen, waschen und in Würfel schneiden. Den Kürbis putzen, waschen und vierteln. Die Kerne mit einem Löffel entfernen, den Kürbis ggf. schälen und das Fruchtfleisch in Würfel schneiden. Zwiebeln und Knoblauch schälen und in feine Würfel schneiden.
 1. Die Butter in einem topf erhitzen, Zwiebel, Knoblauch, Kürbis und Currypulver hinzufügen und andünsten. Die Brühe angießen, die Kartoffeln dazugeben und bei mittlerer Hitze etwa 30 Minuten weich garen.
 1. Die Kürbiskerne in einer Pfanne ohne Fett rösten. Die Suppe fein pürieren Die Sahne und die Crème fraîche unterrühren und die Suppe noch einmal aufkochen lassen. Mit Salz, Cayennepfeffer und etwas Muskatnuss würzen.
@@ -8595,7 +8403,6 @@ Etwas glatte Petersilie
 6 EL Schlagsahne (wenn man will)
 
 ### Zubereitung
-
 1. Kürbis der Länge nach vierteln, die Kerne entfernen. Kürbisschnitze mit etwas Olivenöl beträufeln, salzen und pfeffern. Bei 180 Grad (Umluft) ca. 40 Minuten lang garen, bis das Kürbisfleisch weich ist. 
 1. In einem Topf Olivenöl erhitzen, fein geschnittene Zwiebel mit etwas Salz einige Minuten lang dünsten. Wenn der Kürbis aus dem Ofen kommt, das Fleisch mit einem Löffel herauslösen, zu den Zwiebelstückchen geben. Die Brühe in den Topf gießen und das Ganze 10 Minuten lang köcheln lassen, dann pürieren.
 1. In einer Pfanne Butter langsam zergehen lassen, Pinienkerne darin rösten, bis sie sich bräunlich färben. Die Butter darf auch ein bisschen braun werden. Petersilienblättchen fein hacken, dazugeben.
@@ -8624,7 +8431,6 @@ Ca. 6 EL Joghurt
 1 TL Chiliflocken
 
 ### Zubereitung
-
 1. Olivenöl, in Ringe geschnittene Zwiebel und ebenfalls in Ringe geschnittene Lauchstange in einem großen Topf erhitzen. Kürbis in ungefähr 2 cm große Würfel schneiden und dazugeben. Gewürze hinzufügen, mit Brühe aufgießen, Honig und Reis dazugeben.
 1. Die Flüssigkeit einmal aufkochen, dann das Ganze zugedeckt bei mittlerer Hitze ungefähr 40 Minuten lang köcheln lassen, bis der Kürbis weich ist. Schließlich fein pürieren. Die Suppe mit 1 EL Joghurt pro Teller garnieren sowie einigen Chiliflocken.
 
@@ -8675,7 +8481,6 @@ Salz, Pfeffer
 Koriander
 
 ### Zubereitung
-
 1. Schalotten und Knoblauch in Würfel schneiden und in Kokosfett (setzt sich oberhalb der Kokosmilch ab) langsam anschwitzen. Den Hokkaidokürbis vierteln und entkernen, mit Schale in Würfel schneiden, hinzugeben und mitrösten.
 1. Die Currypaste hinzugeben und mitschwitzen lassen. Mit Weißwein ablöschen und einköcheln lassen.
 1. Mit Brühe aufgießen, bis der Kürbis bedeckt ist. Das Zitronengras mit dem Messerrücken aufschlagen, aber nicht schneiden, den Ingwer in grobe Stücke schneiden und beides hinzugeben. Den Kürbis weichkochen.
@@ -8727,7 +8532,6 @@ Salz
 Petersilie zum Garnieren
 
 ### Zubereitung
-
 1. Das Kürbisfleisch würfeln und die Zwiebeln fein hacken. Kürbis, Zwiebeln und Gewürze im Olivenöl andünsten. Die Rosinen und die Kastanien beifügen, mit der Gemüsebrühe angießen. Das Ganze zugedeckt 15 Minuten köcheln lassen. Je nach Konsistenz noch ein wenig Gemüsebrühe angießen. Mit Salz abschmecken.
 1. Den Eintopf anrichten, garnieren mit einem Klecks Crème fraîche, den Kürbioskernen und der Petersilie
 
@@ -8754,7 +8558,6 @@ Pfeffer
 1 Bund Petersilie, feingehackt
 
 ### Zubereitung
-
 1. Reis, Zwiebeln und Knoblauch in der warmen Butter dämpfen, Tomaten dazugeben, unter Rühren kochen lassen bis die Tomaten zusammenfallen, mit Brühe ablöschen und 20 – 30 Minuten auf kleiner Flamme kochen lassen (nicht zudecken) und würzen. Tomatenpüree dazugeben.
 1. Suppe durch ein Sieb streichen, in die Pfanne zurückgeben, aufkochen, mit Zitronensaft abschmecken. Frisch geschlagenen Rahm mit Basilikum und Petersilie vermischen und würzen.
 1. Tomatensuppe verteilen und mit „grünem“ Rahm dekorieren.
@@ -8775,7 +8578,6 @@ Cayennepfeffer
 Oregano, Basilikum
 
 ### Zubereitung
-
 1. Tomaten waschen, abtropfen lassen, vierteln und Stängelansätze herausschneiden. Tomaten würfeln. Zwiebeln und Knoblauchzehen abziehen und fein würfeln.
 1. Öl in einem Topf erhitzen. Zwiebel- und Knoblauchwürfel darin unter Rühren dünsten. Tomatenwürfel darin unter Rühren dünsten. Tomatenwürfel, Brühe, Zucker, Salz, Pfeffer, Cayennepfeffer, Lorbeerblatt und Oregano zufügen, zum Kochen bringen und mit Deckel etwa 15 Minuten bei schwacher Hitze kochen.
 1. Das Lorbeerblatt herausnehmen, die Suppe pürieren und durch ein Sieb streichen. Suppe aufkochen, nochmals mit den Gewürzen abschmecken. Mit vorbereiteten Basilikumblättchen bestreut servieren.
@@ -8798,7 +8600,6 @@ Oregano, Basilikum
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Das Öl in einem mittelgroßen Topf erhitzen und die Zwiebel etwa 5 Minuten unter häufigem Rühren glasig anschwitzen.
 1. Kreuzkümmel und Knoblauch dazugeben und 2 Minuten mitbraten. Die Brühe angießen, Tomatenwürfel, Dosentomaten sowie Zucker hinzufügen und mit 1 TL Salz und 1 kräftigen Prise Pfeffer würzen.
 1. Die Suppe zum Köcheln bringen und 20 Minuten köcheln lassen. Nach der Hälfte der Zeit das in Stücke gebrochene Brot hinzufügen. Zum Schluss 2 EL Koriandergrün unterrühren. Die Suppe kurz pürieren (sie sollte noch Tomatenstücke enthalten und relativ dick sein). Falls nötig, mit etwas Wasser verdünnen. Mit Olivenöl beträufeln und mit dem restlichen Koriandergrün bestreuen.
@@ -8816,7 +8617,6 @@ Salz, Pfeffer
 40 g geriebener Ricotta salata
 
 ### Zubereitung
-
 1. Tomaten vierteln und entkernen. Stücke und den Tomatensaft in einen Mixer geben oder zerstampfen oder mit dem Pürierstab kurz durchmixen. Es sollte aber kein Püree entstehen!
 1. Olivenöl in einem Topf erhitzen. Gehackte Zwiebel und die Knoblauchzehen im Ganzen dazugeben. Sie sollen dort dünsten, aber nicht braun werden. Dann die zerkleinerten Tomaten hinzugeben und mit Salz und gemahlenem Pfeffer abschmecken.
 1. Das Ganze dann 45 Minuten lang köcheln lassen. Ab und zu umrühren. Zum Schluss die Brotstücke zur Suppe geben und dann nochmal 10 bis 15 Minuten weiterköcheln lassen. Dann die Knoblauchzehen entfernen.
@@ -8885,7 +8685,6 @@ Naturjoghurt
 Oreganoblättchen zum Garnieren
 
 ### Zubereitung
-
 1. Den Backofen auf 200°C (Gas Stufe 6) vorheizen.
 1. Die Tomaten, die Kichererbsen, den Oregano und das Paprikapulver auf einem Backblech verteilen. Mit Olivenöl beträufeln und im Ofen ca. 1 Stunde backen, bis die Tomaten gebräunt sind und Blasen werfen. Aus dem Ofen nehmen (einige Kichererbsen zum Garnieren beiseitelegen), alle Zutaten in einem Standmixer oder einer Küchenmaschine pürieren. Ist das Ganze nicht flüssig genug, etwas Wasser hinzufügen.
 1. In Schüsseln oder Gläsern mit einem Klecks Joghurt, frischen Oreganoblättern und einigen gerösteten Kichererbsen servieren. Schmeckt super zu einer Scheibe Sauerteigbrot.
@@ -8908,7 +8707,6 @@ Pfeffer, Salz
 1 ½ TL Tamarindenpaste
 
 ### Zubereitung
-
 1. Die Linsen in kaltem Wasser waschen, bis das Wasser klar abläuft. Mit frischem Wasser bedecken und beiseitestellen.
 1. Die Kreuzkümmelsamen im Mörser grob zerstoßen und auf einen Teller geben. Ingwer, Knoblauch und Chili zu einer möglichst feinen Paste zerstoßen/pürieren.
 1. Das Öl in der Pfanne erhitzen und Curryblätter, Senfsamen, den zerstoßenen Kreuzkümmel und Pfeffer bei mittlerer Hitze hineingeben. Sobald die Curryblätter knistern und durchscheinend werden, einige Blätter vorsichtig als Garnitur für später herausnehmen und beiseitestellen. Die Ingwer-Knoblauch-Chili-Paste in den Topf geben und 3 Minuten anrösten. Die Tomaten hinzugeben. Etwa 4 Minuten köcheln lassen, bis sie zerfallen.
@@ -8932,7 +8730,6 @@ Salz, Pfeffer
 2 EL gehackte Petersilie
 
 ### Zubereitung
-
 1. Die Paprikaschoten längs halbieren, entkernen, waschen und schälen. Das Fruchtfleisch in Würfel schneiden. Die Zwiebel und den Knoblauch schälen und in feine Würfel schneiden.
 1. Die Butter in einem Topf erhitzen, die Zwiebel und den Knoblauch darin andünsten. Die Paprika dazugeben und mit der Brühe aufgießen. Etwa 15 Minuten leicht köcheln lassen.
 1. Die Suppe fein pürieren. Die Crème fraîche und die Kurkuma unterrühren und die Suppe mit Salz und Pfeffer würzen. Den Schafskäse in Würfel schneiden und die Oliven halbieren. Beides auf Schälchen verteilen, die Suppe einfüllen und mit der Petersilie garnieren.
@@ -8947,7 +8744,6 @@ Etwas Essig
 50 ml Öl
 
 ### Zubereitung
-
 1. Paprika in einer Auflaufform im Ofen bei 200 Grad garen, bis die Haut verbrannt ist und Blasen wirft. 
 1. Währenddessen ab und zu wenden. Aus dem Ofen nehmen, in eine Schüssel geben, die mit Frischhaltefolie abgedeckt wird. Nach 20 Minuten kann man die Schoten mit der Hand schälen.
 1. Der Saft, der sich in der Auflaufform gesammelt hat, aufheben. Zusammen mit Paprika glatt pürieren. Suppe langsam erwärmen, mit Salz, Pfeffer, Zucker, Essig, Olivenöl abschmecken.
@@ -8970,7 +8766,6 @@ Salz, mildes Chilipulver
 2 EL Petersilienblätter, fein geschnitten
 
 ### Zubereitung
-
 1. Zwiebeln schälen, halbieren und in möglichst dünne Scheiben schneiden. 20 g Butter und das Öl in einem breiten, hohen Topf erhitzen und die Zwiebelscheibe darin bei mittlerer Hitze langsam bräunen.
 1. Mit Portwein und Weißwein ablöschen und mit der Rindersuppe aufgießen. Lorbeerblätter, Zitronenschale und Knoblauch einlegen und die Suppe bei milder Hitze knapp unter den Siedepunkt 6 -8 Minuten ziehen lassen. Mit Majoran, Salz und Chilipulver herzhaft abschmecken. Die Lorbeerblätter, die Zitronenschale und den Knoblauch wieder entfernen.
 1. In der Zwischenzeit die Laugenstangen in dünne Scheiben schneiden und in einer Pfanne bei milder Hitze in der restlichen Bitter von beiden Seiten kross braten. Auf Küchenpapier abtropfen lassen und leicht salzen.
@@ -8989,7 +8784,6 @@ Salz, schwarzer Pfeffer
 3 Scheiben helles Brot
 
 ### Zubereitung
-
 1. Zwiebeln in Ringe schneiden. In einen großen feuerfesten Topf geben und mit etwas Olivenöl, Lorbeeren, Salz und Pfeffer bei niedriger Hitze und geschlossenem Deckel ungefähr 20 Minuten lang sanft dünsten.
 1. Brühe angießen. Flüssigkeit aufkochen, dann Hitze wieder runterschalten und die Suppe weitere 20 Minuten bei geschlossenem Deckel köcheln lassen.
 1. Schließlich die Brotscheiben in die Suppe geben, sie sollen auf der Flüssigkeit schwimmen. Frisch geriebenen Pecorino und Greyezer darüberstreuen.
@@ -9008,7 +8802,6 @@ Eigentlich ist die toskanische Zwiebelsuppe nichts anderes als eine französisch
 1 l Gemüsebrühe
 
 ### Zubereitung
-
 1. Zwiebeln in dünne Scheiben schneiden. Die Butter in der Pfanne zerlassen und die Zwiebeln darin weich dämpfen.
 1. Brotschieben toasten, In eine Auflaufform lagenweise Zwiebeln und Brot schichten. Dazwischen 100 g Käse streuen. 
 1. Gemüsebrühe erhitzen und in die Auflaufform gießen. Dann die letzten 50 g Gruyère darüberstreuen und im Ofen bei großer Hitze ca. 15 Minuten überbacken.
@@ -9078,7 +8871,6 @@ Salz, Pfeffer
 ¼ kleiner Kohlkopf (100 g), in 2-3 Stücke geschnitten und die Blätter zerteilt
 
 ### Zubereitung
-
 1. In einem großen Topf auf mittlerer Stufe das Öl erhitzen. Zwiebel, Knobaluch, Salbei und Lauch dazugeben und 1 Minute braten. Kartoffeln, Karotten und Süßkartoffel hinzufügen und unterrühren. Das Gemüse mit Wasser bedecken und Salz und Pfeffer abschmecken. Aufkochen lassen, den Deckel auflegen, die Hitze reduzieren und köcheln lassen, bis das Gemüse weich ist.
 1. Das Gemüse vom Herd nehmen und cremig pürieren. Wieder auf den Herd stellen und mit Zitronensaft abschmecken. Verwendet man frische Favabohnen, diese jetzt hinzufügen, 4 Minuten mitköcheln lassen, dann den Kohl zugeben und etwa 1 Minute köcheln lassen, bis er gerade zart ist. Verwendet man gekochte getrocknete Favabohnen, gibt man sie zusammen mit dem Kohl zur Suppe.
 1. Die Suppe nochmals abschmecken, in Schüsselchen füllen und mit etwas Olivenöl und Pfeffer verfeinern.
@@ -9108,7 +8900,6 @@ Gemüsebrühe oder Wasser
 Schwarzer Pfeffer
 
 ### Zubereitung
-
 1. Die in Ringe geschnittene Zwiebel in einem großen Topf in etwas Olivenöl ungefähr 5 Minuten lang unter Rühren dünsten. Karotte und Zucchini in 1 cm dicke Würfel und grüne Bohnen in ungefähr 2 cm lange Stücke schneiden. Gemüse zusammen mit Knoblauch und etwas Salz zu den Zwiebeln geben. Tomaten hinzufügen – entweder man nimmt geschälte aus der Dose oder frische, die man selbst häutet.
 1. Das Gemüse im Topf mit Wasser bedecken und alles garkochen, was ca. 15 bis 20 Minuten dauert. Dann die weißen Bohnen und die Pasta dazugeben, nochmal mit Wasser auffüllen, dass alles bedeckt ist, salzen – vorsichtig, wenn man Gemüsebrühe statt Wasser verwendet (was ich übrigens mache).
 1. Das Ganze aufkochen, dann die Temperatur runterschalten und köcheln lassen, bis die Pasta gar ist. Wenn die Suppe zu dickflüssig ist, erneut Wasser (oder Gemüsebrühe) nachgießen. 
@@ -9177,7 +8968,6 @@ Salz
 Ein paar Scheiben Brot
 
 ### Zubereitung
-
 1. Die Fenchelknollen in grobe Stücke schneiden, Lauch in ringe, Zwiebeln grobhacken. Olivenöl in den Topf geben, darin das Gemüse erhitzen. Gewürze und eine Prise Salz dazugeben, den Topf zudecken und bei mittlerer Hitze ungefähr 25 Minuten lang dünsten. Dabei sollte das Gemüse nicht ansetzen.
 1. Schließlich Weißwein dazugießen, Flüssigkeit ungefähr um die Hälfte einkochen, was ungefähr 3 oder 4 Minuten dauert. Dann die Brühe angießen, das Ganze weitere 10 Minuten lang köcheln lassen. Die Suppe fein pürieren. Sahne und Pastis hineinrühren, eventuell nachsalzen. Dazu Brot servieren.
 
@@ -9203,7 +8993,6 @@ Salz, Pfeffer
 Frisch geriebenen Parmesan zum Servieren
 
 ### Zubereitung
-
 1. Zwiebeln schälen, Karotten putzen und schälen, Fenchel waschen und vom Strunk befreien und alle drei Zutaten hacken. Kartoffeln waschen, schälen und in 2 cm große Würfel schneiden. Mangold waschen, die Stiele abschneiden und in Stücke schneiden. Blätter beiseitelegen. Thymian waschen, trocken schütteln.
 1. In einem großen Topf 3 EL Olivenöl erhitzen, darin Zwiebeln, Karotten und Fenchel andünsten. Salzen und pfeffern. Nach 5 Minuten Lorbeer, Thymian, Tomatenmark, Brühe und Kartoffeln dazugeben- ebenso die Mangoldstiele hinzufügen – die Blätter in Streifen schneiden und beiseitestellen.
 1. Die Gemüsemischung im Topf mit Brühe begießen. Brühe aufkochen, Hitze reduzieren und den Eintopf 20 Minuten lang köcheln lassen. 
@@ -9232,7 +9021,6 @@ Crème fraîche
 Dill
 
 ### Zubereitung
-
 1. Zunächst wird das Gemüse vorbereitet. Zwiebeln in feine Streifen schneiden. Bete, Karotten und Kartoffeln - alles roh – schälen und würfeln. Sellerie und Lauchstange in Scheiben schneiden. Knoblauch schälen und mit der flachen Seite des Messers andrücken.
 1. Zunächst die Zwiebeln in einem großen Topf in Butter ungefähr 5 Minuten lang unter Rühren anschwitzen. Dann das Gemüse hinzufügen sowie Lorbeerblatt, Piment und eine gute Prise Salz. Weitere 5 Minuten lang dünsten, gut umrühren, damit nichts ansetzt. Brühe dazugießen und alles zum Kochen bringen. Dann die Hitze runterschalten und alles bei mittlerer Temperatur 20 Minuten simmern lassen. Weißkohl dazugeben und die Suppe weitere 20 Minuten köcheln lassen. Wenn nötig, noch Wasser dazugießen. Zum Schluss mit Salz und Essig abschmecken. Mit Crème fraîche und etwas Dill abschmecken.
 
@@ -9267,7 +9055,6 @@ Salz, Pfeffer
 Ca. 80 ml Milch
 
 ### Zubereitung
-
 1. In einem großen Topf in Olivenöl Zwiebeln, Knoblauch und Lauch für einige Minuten unter Rühren andünsten. Dann Karotten und Sellerie dazugeben, kurz mitdünsten. Wein, Brühe, Lorbeer, Rosmarinzweige, Tomatenmark und Salz dazugeben. Aufkochen. Hitze herunterschalten, den Deckel auf den Topf setzen, ungefähr 1 Stunde und 15 Minuten lang simmern lassen.
 1. Währenddessen die Knödel vorberieten: Mehl, Backpulver und Salz in einer Schüssel vermengen. Butter in Würfel schneiden und mit den Fingern hineinkneten, sodass eine krümelige Masse entsteht. Gerieben Käse hinzugeben. Milch hinzugießen, sodass der Teig sich zusammenfügt. Eventuell nimmt man etwas mehr der weniger Milch als angegeben. Der Teig sollte nicht trocken, sondern etwas klebrig sein. Mit einem Esslöffel Teignocken auf den Eintopf setzen, das Ganze ohne Deckel 10 Minuten lang garen, dann noch mal 10 Minuten mit Deckel.
 
@@ -9290,7 +9077,6 @@ Salz, Pfeffer
 2 Scheiben Brot
 
 ### Zubereitung
-
 1. Enden der Bohnen abschneiden, in 1 bis 2 cm lange Stücke schneiden. Einen Topf mit Wasser aufsetzen. Wenn es kocht, Bohnen darin 5 Minuten lang garen. Abgießen.
 1. Pancetta (oder Speck) in Streifen schneiden, in einem Topf unter Rühren erhitzen, bis sie knusprig ist. Etwas Olivenöl hinzufügen, Frühlingszwiebeln in Ringe schneiden und mit den Zehen der Knoblauchknolle (2 bis 3 Stück für später beiseite legen) in den Topf geben. Erbsen aus der Schale befreien, dazugeben, ebenso die vorbereiteten Bohnen. Wasser hinzugießen. Salzen und pfeffern. Aufkochen, dann auf mittlere Hitze schlafen und ungefähr 15 Minuten lang köcheln lassen.
 1. Den Spargel von den holzigen Enden befreien und eventuell schälen, in 2 cm große Stücke schneiden. Römersalatblätter in 2 cm breite Streifen schneiden. Beides in den Topf geben, das Ganze weitere 5 Minuten garen (oder bis die Spargel die gewünschte Konsistenz hat). 
@@ -9319,7 +9105,6 @@ Info:	Eigentlich ist die ein frühlingshafte Eintopf aus Italien mit frischen Er
 400 g Kokosmilch
 
 ### Zubereitung
-
 1. Für die Currypaste die Chilischoten waschen, klein schneiden, Kerne eventuell entfernen, je nachdem, wie scharf ihr es mögt. Zwiebeln, Knoblauch und Ingwer schälen und fein hacken, Zitronengras klein schneiden. Alles in den Mörser geben, Koriander- und Kreuzkümmelsamen dazugeben und das Ganze zu einer groben Paste vermengen. Zuletzt Kurkuma und Salz zufügen.
 1. Für die Suppe Karotten putzen, schälen und in grobe Stücke schneiden. Das Kokosöl in einen Topf geben, darin die Paste erhitzen, bis sie zu duften beginnt. Dann Karotten dazugeben, kurz andünsten. Mit Kokosmilch aufgießen. Ungefähr eine halbe Stunde bei geschlossenem Deckel auf mittlerer Hitze köcheln lassen. Zum Schluss pürieren und eventuell nachsalzen.
 
@@ -9343,7 +9128,6 @@ Je ein kleines Bund Petersilie, Basilikum, Minze
 Crème fraîche zum Garnieren
 
 ### Zubereitung
-
 1. Das Dunkelgrün der Lauchstangen in größere Stücke schneiden, waschen, in einen großen Topf geben. Das Hellgrün und Weiß in Ringe schneiden und beiseitestellen. In den Topf auch die Stängel der Kräuter geben, die geviertelte Zwiebel, außerdem 1,5 l Wasser und 1,5 TL Salz. Flüssigkeit zum Kochen bringen, das Ganze ungefähr 30 Minuten lang köcheln lassen. Dann das Gemüse aus der Brühe sieben, die Brühe beiseitestellen, das zerkochte Gemüse braucht man nicht mehr.
 1. In demselben Topf, Butter zergehen lassen. Dann das Hellgrün und Weiß des Lauchs in den Topf geben, salzen und den Lauch ungefähr zehn Minuten lang dünsten, bis er weich ist und glasig. Die Erbsen dazugeben, dann die warme Brühe hinzugießen. Die Temperatur abschalten, die Suppe abkühlen lassen. Die Blättchen der Petersilie, der Minze und des Basilikums dazugeben. Mit dem Pürierstab das Ganze mixen. Mit Salz abschmecken. Die Suppe vor dem Servieren wieder erwärmen, mit etwas Crème fraîche garnieren.
 
@@ -9444,7 +9228,6 @@ Für die Brühe:
 2 EL Schnittlauchröllchen
 
 ### Zubereitung
-
 1. Das Mehl in eine Schüssel geben. Eier, Salz und Öl hineingeben. Mit dem Knethacken des Handrührgeräts zu einem festen, geschmeidigen Teig verkneten. Eventuell etwas Wasser zugeben. Zu einer Kugel formen und in Frischhaltefolie gewickelt ca. 20 Minten ruhen lassen.
 1. Währenddessen für die Füllung das Brötchen in lauwarmer Milch einweichen. Die Zwiebel schälen, fein würfeln und in der Butter glasig anschwitzen. 
 1. Den Spinat waschen, trocken schütteln, kurz in Salzwasser blanchieren, mit kaltem Wasser abschrecken, ausdrücken und fein hacken. Zusammen mit dem ausgedrückten Brötchen, der Zwiebel, dem Brät und dem Ei in eine Schüssel geben und gut vermengen. Mit Salz, Pfeffer und Muskat abschmecken.
@@ -9493,7 +9276,6 @@ Salz, Pfeffer
 5 EL Petersilie
 
 ### Zubereitung
-
 1. Die Kartoffeln waschen, schälen und würfeln. Das Suppengrün putzen, ggf. schälen und in kleine Stücke schneiden. Die Zwiebeln schälen, fein hacken und in einem großen Topf in 2 EL Butter andünsten. Die Kartoffeln und das Suppengrün dazugeben. Das Lorbeerblatt und den Majoran zugeben.
 1. Die Suppe aufkochen und bei geringer Temperatur ca. 20 Minuten köcheln lassen. Das Lorbeerblatt entfernen. Die Sahne dazugeben, und die Suppe pürieren. Mit frischer Muskatnuss, Salz und Pfeffer abschmecken. 
 1. Für die Kracherle die Brotscheiben entrinden, würfeln und in 2 EL heißer Butter anrösten. Die Suppe mit Petersilie und Kracherle servieren.
@@ -9542,7 +9324,6 @@ Info:	Dies ist unsere allseits beliebte und berüchtigte Hexensuppe. Ich lasse a
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Das Öl in einen sehr großen Topf und bei mittlerer bis hoher Temperatur erhitzen. Die Knoblauchzehen unzerkleinert hineingeben und 2 – 3 Minuten braten, bis sie Farbe annehmen, dabei immer wieder rühren. Die Zucchini mit 2 TL Salz und reichlich Pfeffer hinzufügen. Unter ständigem Rühren 3 Minuten mitbraten, bis sie bräunen. Die Brühe und 500 ml Wasser angießen und bei starker Hitze zum Kochen bringen. Die Suppe 7 Minuten kochen lasse, bis die Zucchini weich, aber immer noch grün sind.
 1. Die gefrorenen Erbsen hinzufügen. 1 Minuten rühren, dann das Basilikum in den Topf geben. Die Suppe vom Herd nehmen und pürieren, bis sie glatt und leuchtend grün ist.
 1. Zum Servieren die Suppe auf Schalen verteilen und mit Feta und Zitronenschale bestreuen. Zum Schluss mit 1 kräftigen Prise Pfeffer würzen und mit etwa Öl beträufeln.
@@ -9609,7 +9390,6 @@ Etwas Joghurt
 Je 1 Prise Salz und Pfeffer
 
 ### Zubereitung
-
 1. Zwiebeln, Knoblauch und Ingwer schälen und fein hacken. Chili waschen, nach Belieben entkernen und fein würfeln. In etwas Rapsöl werden Zwiebel, Knoblauch, Ingwer und Chilischote ungefähr 10 Minuten lang erhitzt. Chilipulver und Kreuzkümmelsamen hinzufügen und 2 Minuten lang unter Rühren dünsten. 
 1. Dann Tomaten, Linsen, Bulgur, Quinoa, Bohnen, Brühe und Kakao dazugeben. Erhitzen, bis die Flüssigkeit sanft köchelt, dann Hitze senken, Deckel schließen und alles bei mittlerer Hitze ungefähr 35 Minuten lang schmoren. 
    Währenddessen das Thymianöl zubereiten: Chili waschen, nach Belieben entkernen und hacken. Thymian waschen, trocken schütteln und die Blätter abzupfen. Olivenöl in einer Pfanne erhitzen, Chilischote, Thymianblättchen, Salz und Pfeffer dazugeben. Einen Moment lang dünsten, dann alles pürieren. Zum Servieren in einem Teller erst den Joghurt auf das Chili geben, darauf dann als Topping das Thymianöl.
@@ -9670,7 +9450,6 @@ Meersalz und schwarzer Pfeffer aus der Mühle
 4 Maistortillas, in der Pfanne geröstet
 
 ### Zubereitung
-
 1. In einem großen Topf mit schwerem Boden bei mittlerer Hitze das Öl erhitzen. Zwiebel, Knoblauch, Kreuzkümmel, Chili, Paprikapulver und Oregano darin unter gelegentlichem Rühren anbraten, bis die Gewürze duften und die Zwiebel weich, aber nicht braun ist.
 1. Paprikaschoten, Karotte, Mais und Staudensellerie hinzufügen und ein paar Minuten mitbraten. Walnüsse, Bohnen, Tomaten, 250 ml Wasser (optional 120 ml davon durch Rotwein ersetzen) und Salz dazugeben.
 1. Das Chili kurz aufkochen lassen und die Hitze reduzieren. Das Ganze 20 Minuten köcheln lassen, vom Herd nehmen, die Schokolade einrühren und alles noch ein paar Minuten köcheln lassen. Das Chili mit Salz und Pfeffer abschmecken.
@@ -9697,7 +9476,6 @@ Tipp:	Reste halten sich 3-5 Tage im Kühlschrank.
 Pfeffer, Salz
 
 ### Zubereitung
-
 1. Vier Maronen beiseitelegen. Die Zwiebel, die Selleriestangen und den Knoblauch fein hacken und in dem Öl sanft anbraten. Die Karotten, die Kartoffel und die restlichen Maronen würfeln. Zu dem Gemüse in den Topf geben und 5 Minuten mitbraten. Mit der Gemüsebrühe, der Hafermilch und der Hafersahne aufgießen. Die Gewürznelke, den Thymian und das Lorbeerblatt dazugeben und alles 40 Minuten bei mittlerer Temperatur köcheln lassen, bis die Maronen weich sind.
 1. Die Suppe mit Pfeffer und Salz abschmecken. Das Lorbeerblatt entfernen und die Suppe pürieren. Die beiseitegelegten Maronen zerkrümeln und damit die Suppe garnieren.
 
@@ -9854,7 +9632,6 @@ Tipp:	Cantal gilt als eine der ältesten französischen Käsesorten. Schon Plini
 Saure Sahne zum Servieren
 
 ### Zubereitung
-
 1. Den Backofen auf 180 Grad vorheizen.
 1. Die Safranfäden in einer kleinen Tasse mit 2 EL kochendem Wasser bedecken und 30 Minuten ziehen lassen.
 1. Die Pistazien 1 Minute in kochendem Wasser blanchieren, abgießen und die Häutchen mit den Fingern abrubbeln. Es macht nichts, wenn sich die Häutchen nicht vollständig entfernen lassen. Die Pistazien auf einem Backblech verteilen, 8 Minuten im Ofen rösten, herausnehmen und abkühlen lassen.
@@ -9880,7 +9657,6 @@ Etwas Olivenöl
 Schnittlauch zum Servieren
 
 ### Zubereitung
-
 1. Spargelabschnitte und -schalen in ca. 1,2 l Wasser bei geschlossenem Deckel 45 Minuten lang auskochen (etwas mehr oder weniger Wasser wird nicht schaden). Den Fond durch ein feines Sieb absieben, die Flüssigkeit aus den Spargelstücken drücken.
 1. Schalotte fein hacken, in Butter kurz dünsten, bis sie glasig ist. Kartoffeln schälen und in kleine Würfel schneiden. Zur Schalotte in den Topf geben, dann nach und nach langsam den Spargelfond dazu gießen. Salzen. Die Kartoffeln im Fond garkochen, ungefähr 15 Minuten lang. Sahne hinzufügen. Pürieren und eine Prise Zucker dazugeben, mit Salz abschmecken.
 1. Während die Suppe kocht, ein Brötchen (vom Vortag) in Stücke reißen, in einer Pfanne in Olivenöl rösten, bis die Croûtons etwas Farbe annehmen. Dann abkühlen lassen, eventuell zwischen den Fingern zerkrümeln, sodass die Croûtons kleiner werden. Die Suppe mit gehacktem Schnittlauch und Croûtons servieren.
@@ -9997,7 +9773,6 @@ Knusprige Brotwürfel:
 2 Korianderwurzeln
 
 ### Zubereitung
-
 1. Gemüse in grobe Stücke schneiden, in einem Topf mit kaltem Wasser und Salz aufkochen und etwa 30 Minuten köcheln lassen. 
 1. Limettenblätter, Zitronengras, Korianderwurzeln, Gewürze hinzugeben und nochmals etwa 30 Minuten köcheln lassen. Durch ein Sieb seihen.
 
@@ -10044,7 +9819,6 @@ Gemüsezwiebeln mit Schale halbieren und in einer unbeschichteten Pfanne ohne Ö
 2 TL Meersalz
 
 ### Zubereitung
-
 1. Das Öl in einem Suppentopf bei mittlerer Hitze erwärmen. Die Zwiebeln, den Knoblauch, die Karotten, den Lauch, den Fenchel und den Sellerie hinzufügen. 3-5 Minuten leiht anbraten und weich werden lassen.
 1. Die Petersilie, die Lorbeerblätter, Pfeffer, Salz und 4 Liter Wasser hinzugeben. Zum Kochen bringen, danach die Hitze stark reduzieren und ca. 1 Stunde oder länger leicht köcheln lassen. Abschmecken und falls nötig nachwürzen.
 1. Die Suppe abseihen und abkühlen lassen, dabei gelegentlich umrühren. Portionen von 250 ml oder 450 ml abmessen und in Gläser füllen. Die Suppe hält sich im Kühlschrank ca. 1 Woche, im Gefrierfach 6 Monate.
@@ -10069,7 +9843,6 @@ Gemüsezwiebeln mit Schale halbieren und in einer unbeschichteten Pfanne ohne Ö
 2 Korianderwurzeln
 
 ### Zubereitung
-
 1. Das Huhn abbrausen, mit kaltem Wasser und Salz langsam zum Kochen bringen. Sobald das Wasser kocht, die Hitze reduzieren und alles eine Stunde leise köcheln lassen. Währenddessen den aufkommenden Schaum und das Fett abschöpfen.
 1. Gemüse in grobe Stücke schneiden und mit dem Salz der Hühnerbrühe beifügen. Weitere 30 Minuten köcheln lassen. 
 1. Limettenblätter, Zitronengras, Korianderwurzeln, Gewürze hinzugeben und nochmals etwa 30 Minuten sanft köcheln lassen. Durch ein Sieb seihen.
@@ -10189,7 +9962,6 @@ Verschiedene Kräuter, z.B. Petersilie, Kerbel, Schnittlauch
 2 EL Butterschmalz oder Sonnenblumenöl
 
 ### Zubereitung
-
 1. Eier, Milch und Salz in eine Schüssel geben. Butter in der Pfanne schmelzen und dazugießen. Mehl hinzugeben und gut einrühren. Die fein geschnittenen Kräuter dazugeben.
 1. Eine kleine Pfanne mit Butterschmalz oder Öl auspinseln, etwas Teig in die Pfanne geben, gleichmäßig und dünn verteilen und beide Seiten bei schwacher Hitze goldgelb backen. Nach dem Erkalten die Fladen übereinanderlegen, einrollen und in dünne Streifen schneiden.
 
@@ -10255,7 +10027,6 @@ Verschiedene Kräuter, z.B. Petersilie, Kerbel, Schnittlauch
 Salz
 
 ### Zubereitung
-
 1. Fleisch und Zwiebel in feine Würfel schneiden. Paprika in feine Würfel schneiden.
 1. Öl im Topf erhitzen und Zwiebel und Fleisch darin anbraten.
 1. Tomatenmark und Paprikapulver dazugeben und kurz untermischen. Mit Wein und Brühe ablöschen und zum Kochen bringen.
@@ -10287,7 +10058,6 @@ Mildes Chilipulver
 1 – 2 EL Brühe
 
 ### Zubereitung
-
 1. Für die Suppe das Fleisch in 1 cm große Würfel schneiden. Die Zwiebeln schälen, halbieren und in kleine Würfel schneiden. In einem großen, flachen Topf das Öl erhitzen, die Fleischstücke darin bei mittlerer Hitze rundherum gut anbraten und aus dem Topf nehmen. Die Zwiebelwürfel in den Topf geben und darin glasig dünsten, das Tomatenmark unterrühren und einige Minuten mitdünsten. Das Fleisch wieder hinzufügen und die Brühe dazugießen. Bei milder Hitze zugedeckt etwa 2,5 Stunden knapp unter dem Siedepunkt ziehen lassen.
 1. In der Zwischenzeit die roten und gelben Paprikaschoten entkernen, waschen und in 0,5 – 1 cm große Würfel schneiden. Den Zucchino waschen und wie die Paprika in Würfel schneiden. Die Kartoffeln waschen, schälen und in 1 cm große Würfel schneiden.
 1. Nach 2 Stunden Garzeit die Paprika-, Zucchini- und Kartoffelwürfel in die Suppe geben. Mit Salz und 1 Prise Chilipulver würzen und das Lorbeerblatt dazugeben und weitere 30 Minuten garen.
@@ -10312,7 +10082,6 @@ Je 1 Prise Pfeffer, Rosenpaprika und Knoblauch
 1/16 l Sahne
 
 ### Zubereitung
-
 1. Das Fleisch waschen, trockentupfen und gleich in kleine Würfel schneiden. Die Zwiebeln schälen und in Ringe schneiden. Die Möhren schaben, waschen und in Scheiben schneiden. Die Paprikaschote halbieren, von Rippen und Kernen befreien, die Schotenhälften waschen und in Streifen schneiden. Die Tomaten häuten, von den Stängelansätzen befreien und die Tomaten würfeln; den dabei ausfließenden Saft aufbewahren.
 1. Das Öl in einem Topf erhitzen und die Zwiebelringe darin anbraten. Die Fleischwürfel zugeben und unter Umwenden 5 Minuten von allen Seiten anbraten. Die Möhrenscheiben und die Paprikastreifen sowie die Tomaten mit dem Saft dazugeben, kurz andünsten, mit dem heißen Wasser auffüllen, das Salz und das Paprikapulver zufügen und die Suppe zugedeckt bei schwacher Hitze 1 Stunde leicht kochen lassen.
 1. Die Suppe danach mit dem Pfeffer, den Paprikapulver und dem Knoblauch und eventuell noch etwas Salz abschmecken. Vor dem Servieren die Sahne in die Suppe rühren.
@@ -10336,7 +10105,6 @@ Geriebener Pecorino
 Chiliflocken
 
 ### Zubereitung
-
 1. Das Huhn, Zwiebel, Karotten, Knoblauch, Pfeffer, Lorbeer und Salz in einen großen Suppentopf geben. So viel Wasser hinzufügen, dass das Huhn knapp bedeckt ist. 
 1. Flüssigkeit zum Kochen bringen, herunterschalten, sodass es simmert. Schaum abschöpfen. Ungefähr 1 Stunde und 10 Minuten köcheln lassen. Die Brühe abgießen und beiseitestellen.
 1. Den Reis in Salzwasser garen. Das Fleisch, sobald es abgekühlt ist, mit den Fingern von den Knochen zupfen. Die Karotten in mundgerechte Stücke schneiden. Karotten und ungefähr 600 ml Brühe in den Suppentropf zurückgeben. Das weiche Knoblauchmus aus der Schale drücken, in die Brühe geben- Tomatenmark der Brühe hinzufügen. Das Ganze noch mal kurz aufkochen, gegarten Reis hinzufügen. Den in feine Streifen geschnittenen Grünkohl hinzugeben. Er soll nach wenigen Minuten in der heißen Brühe gar sein. Die Suppe mit geriebenem Pecorino und Chiliflocken servieren.
@@ -10362,7 +10130,6 @@ Ein kleines Stück Butter
 Salz
 
 ### Zubereitung
-
 1. Ungefähr 2,5 l Wasser in einem großen Topf aufsetzen. Hinein gibt man Pfefferkörner, 2 in grobe Stücke zerteilte Selleriestangen, 2 in grobe Stücke zerteilte und geschälte Karotten, thymianzweige, Petersilienzweige, Lorbeerblätter, die geschälte, grob zerteilte Zwiebel und schließlich das in 8 Stücke zerteilte Huhn. Wasser aufkochen, dann Hitze runterschalten, das Ganze ungefähr 45 Minuten lang köcheln lassen, ab und zu umrühren. Das Huhn ist dann gar. Fleisch aus dem Topf nehmen, abkühlen lassen, das Fleisch abzupfen und beiseitestellen.
 1. Die Brühe durch ein Sieb gießen und beiseitestellen, das Gemüse entfernen. In dem großen Topf Butter erhitzen. Die verbliebenen Selleriestangen und Karotten fein schneiden und gemeinsam in der Butter dünsten, ungefähr 6 Minuten lang. Das Hühnerfleisch und die Brühe zurück in den Topf geben. Großzügig salzen. Nudeln hinzufügen. Alles einmal aufkochen und dann ungefähr 8 Minuten lang köcheln lassen, bis die Nudeln gar sind.
 
@@ -10386,7 +10153,6 @@ Etwas Oliven- oder Sonnenblumenöl
 Etwas griechischer Joghurt
 
 ### Zubereitung
-
 1. Das Huhn in einem großen Topf mit kaltem Wasser aufsetzen, in den man außerdem eine geviertelte Zwiebel, leicht angedrückte Kardamomkapseln, Lorbeer und Salz gibt. Deckel auf den Topf setzen, Wasser einmal zum Kochen bringen, dann die Hitze herunterschalten, sodass die Flüssigkeit köchelt. In 45 Minuten das Huhn gar kochen.
 1. Zwiebel und Gewürze mit einem Schaumlöffel aus dem Fond nehmen. Fond abgießen und beiseitestellen. Wenn das Huhn etwas abgekühlt ist, das Fleisch von den Knochen zupfen.
 1. In dem großen Topf die zweite Zwiebel fein gehackt in Olivenöl andünsten. Freekeh dazugeben, kurz mitdünsten, dann mit dem Hühnerfond ablöschen. Freekeh in 20 bis 25 Minuten gar kochen.
@@ -10415,7 +10181,6 @@ Ein kleines Stück Butter
 Salz
 
 ### Zubereitung
-
 1. Ungefähr 2,5 l Wasser in einem großen Topf aufsetzen. Hinein gibt man Pfefferkörner, 2 grobe Stücke zerteilte Selleriestangen, 2 in grobe Stücke zerteilte und geschälte Karotten, Thymianzweige, Petersilienzweige, Lorbeerblätter, die geschälte, grob zerkleinerte Zwiebel und schließlich das in 8 Stücke zerteilte Huhn.
 1. Wasser aufkochen, dann Hitze herunterschalten, das Ganze halb zugedeckt bei mittlerer Hitze herunterschalten, das Ganze halb zugedeckt bei mittlerer Hitze ungefähr 45 Minuten köcheln lassen, ab und zu umrühren. Das Huhn ist gar. Fleisch aus dem Topf nehmen, abkühlen lassen, das Fleisch abzupfen und beiseitestellen.
 1. Die Brühe durch ein Sieb abgießen und beiseitestellen, das Gemüse entfernen. In dem großen Topf Butter erhitzen. Die verbliebenen Selleriestangen und Karotten fein schneiden und gemeinsam in der Butter dünsten, ungefähr 6 Minuten lang. Das Hühnerfleisch und die Brühe zurück in den Topf geben. Großzügig salzen. Nudeln hinzufügen. Alles einmal aufkochen und dann ungefähr 8 Minuten lang köcheln lassen, bis die Nudeln gar sind.
@@ -10443,7 +10208,6 @@ Tipp:	Hühnersuppe hilft auch immer gut bei Erkältungen😊
 5 Frühlingszwiebeln
 
 ### Zubereitung
-
 1. Ingwer schälen und in Scheiben schneiden. Lauch putzen, waschen und in Ringe schneiden. Koriander waschen, trocken schütteln und die Blättchen von den Stängeln zupfen. In einen großen Topf gibt man Hühnerfleisch, Pfeffer, Sternanis, die Zimtstange, Zucker, Salz, Ingwer, Lauch, Korianderstängel und Chili. Außerdem gießt man das Wasser hinzu.
 1. Das Ganze aufkochen, die Hitze reduzieren und etwa 1 Stunde lang zugedeckt köcheln lassen. Brühe abseihen, mit Salz abschmecken. Die Haut vom Fleisch entfernen (sie wird nicht mitgegessen), das Fleisch vom Knochen lösen und in mundgerechte Stücke reißen. Nudeln separat gar kochen, abgießen. Spinat putzen, sehr große Blätter zerteilen, blanchieren, abschrecken.
 1. Hühnerfleisch, Nudeln und Spinat auf Suppenteller verteilen. Brühe dazugießen. In Ringe geschnittene Frühlingszwiebeln und gehackte Korianderblätter darüberstreuen.
@@ -10463,7 +10227,6 @@ Saft und abgeriebene Schale von 2 kleinen Bio-Zitronen
 Olivenöl
 
 ### Zubereitung
-
 1. Karotte putzen, schälen und in grobe Stücke schneiden. Lauch putzen, waschen, das Weiße und Hellgrüne in Hälften teilen. Zwiebel schälen und halbieren. Fleisch, Karotte, Lauch und Zwiebel mit dem Wasser zum Kochen bringen. 45 bis 60 Minuten lang köcheln lassen, bis das Fleisch ganz durchgegart ist. Das Fleisch aus dem Topf nehmen, abkühlen lassen und beiseitestellen. Karotte. Lauch und Zwiebel aus dem Fond entfernen. Den Fond weitere 30 Minuten lang etwa auf die Hälfte der Flüssigkeit einkochen. Dann mit Salz abschmecken.
 1. Zunächst die Eier mit Zitronensaft gründlich verquirlen. Dann etwa 250 ml heißen Hühnerfond sehr langsam in die Ei-Mischung rühren – am besten beginnt man, den Fond esslöffelweise dazu zugießen. Es geht darum, die Eier langsam zu erhitzen, damit sie nicht stocken.
 1. In der Zwischenzeit den Reis in den verbliebenen Fond einrühren. Nach ungefähr 5 Minuten das Hühnerfleisch dazugeben. Alles weitere 5 – 10 Minuten lang kochen, bis der Reis weich ist und das Fleisch erhitzt ist, dabei ab und zu umrühren. Schließlich die Ei-Zitronen-Mischung zur Suppe geben, alles noch mal unter Rühren aufkochen, die Suppe sollte dann cremig und leicht angedickt sein. Auf Teller verteilen, mit Pfeffer und nach Geschmack mit fein gehackter Zitronenschal bestreuen, eventuell etwas Olivenöl darüber geben.
@@ -10527,7 +10290,6 @@ Fischsoße
 Saft von 1 -2 Limetten
 
 ### Zubereitung
-
 1. Die Hühnerbrühe mit der Kokosmilch in einen Topf geben, zum Kochen bringen. Salz und Zucker hinzufügen. Zitronengras, Schalotten, Ingwer und Chilis in einem Mörser zerkleinern, zusammen mit den Kaffirlimettenblättern in die kochende Brühe geben. Suppe ein paar Minuten köcheln lassen.
 1. Pilze dazugeben, ebenso Hühnerschenkel. Am besten wären solche, die schon entbeint sind (aber ich würde es auch mit Brust versuchen). Hitze herunterschalten, das Ganze köcheln lassen, bis das Fleisch gar isst (ungefähr 20 Minuten lang)
 1. Das Fleisch aus der Suppe nehmen und in mundgerechte Stücke reißen oder schneiden. Fleisch in 2 Suppenteller legen, etwas Fischsoße, Limettensaft, eventuell noch mehr gehackte Chilis hinzufügen. Mit Suppe aufgießen.
@@ -10629,7 +10391,6 @@ Gehacktes Koriandergrün, Salz, Pfeffer
 Zitronenspalten zum Servieren
 
 ### Zubereitung
-
 1. Öl in einer Pfanne erhitzen und die Zwiebel mit dem Sellerie 5 Minuten bei mittlerer Hitze anbraten, bis sie Farbe annimmt. Die Knoblauchzehen und den Kreuzkümmel dazugeben und 2 Minuten mitbraten. Die Pfanne danach vom Herd nehmen und zur Seite stellen.
 1. Das Fleisch mit 1,75 l Wasser in einen großen Topf geben. Bei mittlerer bis starker Hitze zum Kochen bringen und 10 Minuten köcheln lassen. Aufsteigenden Schaum abschöpfen. Die Zwiebel-Sellerie-Mischung hinzufügen und das Ganze wieder zum Kochen bringen. Den Deckel auflegen und die Suppe 1 Stunde köcheln lassen, bis das Fleisch weich ist.
 1. Die Kartoffeln dazugeben, mit 1 TL Salz und ½ TL Pfeffer würzen, erneut zum Kochen bringen und die Suppe bei geöffnetem Topf weitere 20 Minuten köcheln lassen, bis die Kartoffeln und die Bohnen weich sind. Die Suppe sollte dick sein. Falls nötig, noch etwas einkochen lassen. Abschmecken, mit Koriandergrün bestreuen und mit Brot und Zitronenspalten servieren.
@@ -10674,7 +10435,6 @@ Lammfleisch aus der Schulter oder Keule in Würfel geschnitten
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Zunächst die Feigen in einmal aufgekochten Wasser 45 Minuten lang einweichen. Den Ofen auf 170 Grad vorheizen. Die Hälfte des Olivenöls erhitzt man in einem feuerbeständigen Bräter. So sollte man die Zwiebeln präparieren: schälen, das Wurzelende intakt lassen und der Länge nach vierteln. Sie werden in das heiße Öl gegeben. Jetzt rührt man 15 Minuten lang häufig um, bis die Zwiebeln goldbraun sind und vor sich hin schmoren.
 1. Dann werden sie in eine Schüssel gegeben und beiseite gestellt. Das Fleisch bestäubt man mit Mehl. In derselben Auflaufform wird das restliche Öl bei mittlerer Stufe erhitzt, und darin brät man das Lammfleisch portionsweise an. Nach ein paar Minuten färbt sich das Fleisch goldbraun. So kommt es in die Schüssel mit den Zwiebeln.
 1. Im Bratensatz werden Tomatenmark und Piment unter ständigem Rühren geröstet. Man löscht mit Wein ab und lässt alles 3 -4 Minuten köcheln, bis etwas Flüssigkeit verdampft ist. Dazu kommen die Brühe, die Feigen und das Wasser, in dem man die Feigen eingeweicht hat, das Fleisch, die Zwiebeln und die Lorbeerblätter. Außerdem Salz und Pfeffer dazugeben. Das Ganze schmort zugedeckt 1,5 Stunden lang im Ofen. Wenn das Fleisch zart ist, entfernt man die Lorbeerblätter und schneidet schon mal das Weißbrot auf, das man zum Lammtopf isst. Vielleicht macht man noch einen grünen Salat dazu.
@@ -10694,7 +10454,6 @@ Salz
 Evtl. 2 – 3 TL Zucker
 
 ### Zubereitung
-
 1. Olivenöl, fein gehackte Zwiebel und Kurkuma in einem Topf mit schwerem Boden langsam erhitzen und alles ungefähr 3 Minuten lang unter Rühren andünsten. Fleisch in mundgerechte Stücke schneiden, hinzufügen und kurz mitbraten. Dann mit Wasser gerade so bedecken. Etwas Salz hinzufügen. Die Flüssigkeit einmal aufkochen. Den Topf zudecken und alles 1 Stunde lang bei mittlerer Hitze köcheln lassen.
 1. Petersilie fein hacken, in einer Pfanne ungefähr 5 Minuten lang in etwas Olivenöl dünsten, dann in den Topf geben. Den Eintopf weitere 30 Minuten schmoren lassen.
 1. Man kann die Rhabarberstangen schälen, muss es aber nicht. Jedenfalls werden sie in ungefähr 4 cm große Stücke geschnitten und dann wie zuvor die Petersilie in der Pfanne in etwas Öl kurz angedünstet. Zum Fleisch in den Topf geben. Weitere 15 Minuten lang schmoren lassen. (Insgesamt beträgt die Garzeit also etwas mehr als 1 Stunde und 45 Minuten). Am Ende mit Salz und Zucker – falls der Rhabarber doch zu sauer ist – abschmecken. Dazu Reis.
@@ -10717,7 +10476,6 @@ Salz, Pfeffer
 4 EL gehackter Kerbel
 
 ### Zubereitung
-
 1. Spitzkohl putzen, vierteln, den Strunk entfernen. Viertel in ca. 2 cm breite Streifen schneiden. Zwiebeln würfeln. Lammrücken ca. 2 cm groß würfeln. Kartoffeln und Möhren schälen und 1,5 cm große würfeln.
 1. Fleisch in 2 Portionen in einem Bräter in je 2 EL heißem Öl rundherum scharf anbraten. Mit Salz, Pfeffer und je ½ TL Kümmelkörner würzen. Fleisch herausnehmen. Kartoffeln, Möhren, Spitzkohl und Zwiebeln in 2 EL Öl im Bräter anbraten. Mit Salz, Pfeffer und 1 TL Kümmel würzen.
 1. Gemüsebrühe zugießen, Zwiebelsuppenpulver einrühren. Zugedeckt bei mittlerer Hitze 20 Minuten garen. Fleisch 3 Minuten vor Ende zugeben. Kerbel unterheben und eventuell nachwürzen.
@@ -10735,7 +10493,6 @@ Salz, Pfeffer
 Thymian
 
 ### Zubereitung
-
 1. Gemüse putzen und zerkleinern, mit dem Fleisch und den geschälten und gewürfelten Kartoffeln sowie dem Thymian abwechselnd in einem großen Topf schichten. Lagenweise mild salzen und pfeffern, mit Wasser hoch angießen und 2,5 Stunden im Ofen bei 180 Grad garen.
 
    Tipp:	Statt Lamm kann man durchaus auch Rindfleisch nehmen. Dazu Guinness und Brot servieren.
@@ -10762,7 +10519,6 @@ Butter
 1 Stängel Rosmarin, 1 Lorbeerblatt
 
 ### Zubereitung
-
 1. Für den Fonds den Ofen auf 200 Grad vorheizen und die Lammknochen und Fleischabschnitte mit dem grob zerkleinerten Gemüse, den Zwiebeln und Knoblauch für eine Stunde braten. Danach die Zutaten in einen großen Topf geben, die Kräuter hinzufügen und alles mit Wasser bedecken. Den Fond für mindestens 2 -4 Stunden zugedeckt auf dem Herd simmern lassen. Dann die Brühe durch ein Sieb gießen und im Kühlschrank aufbewahren. Nach dem Erkalten das Fett abschöpfen.
 1. Für das Stew das Olivenöl in eine große Kasserolle geben und die Lammstücke auf mittlerer bis hoher Temperatur einige Minuten braun anbraten lassen- Die Hitze herunterschalten, die Butter zufügen und die Gemüse ca. 15 Minuten darin andünsten. Mit 400 ml Fond angießen, Lorbeer und Rosmarin zugeben und 90 Minuten sanft kochen lassen. Bei Bedarf Fond oder Wasser dazugießen. Die Sauce eventuell mit etwas Mehl binden.
 # Fisch
@@ -10780,7 +10536,6 @@ Saft von ½ Zitrone
 1 Handvoll Petersilie
 
 ### Zubereitung
-
 1. Fisch salzen und pfeffern und in etwas Olivenöl in einer beschichteten Pfanne auf beiden Seiten braten.
 1. In derselben Pfanne Butter zerlassen und erhitzen, bis sie ein bisschen schäumt und sich bräunlich färbt. Schalotten sehr fein hacken, mit den Kapern in die Pfanne geben und alles 1 Minute dünsten. Zitronensaft und Petersilie dazugeben.
 
@@ -10800,7 +10555,6 @@ Mindestens 60 g ungesalzene Butter
 1 Zitrone
 
 ### Zubereitung
-
 1. Ofen auf 200 Grad Umluft vorheizen.
 1. Beim Spargel die holzigen Enden abschneiden und die Stangen halbieren, falls sie zu dick sind. Frühlingszwiebeln ebenfalls halbieren, falls sie zu dick sind.
 1. #Den Fisch auf ein Backblech legen, dann Spargel und Frühlingszwiebeln rundherum verteilen. Olivenöl darüber geben, salzen und pfeffern. So lange im Ofen lassen, bis der Fisch gerade durch ist und sich der Spargel mit einer Gabel leicht zerteilen lässt. Das dauert ungefähr 10-12 Minuten.
@@ -10819,7 +10573,6 @@ Grated zest of ½ lemon
 1 tsp. sunflower oil
 
 ### Zubereitung
-
 1. Reheat oven to 200 celsius. Remove skin from salmon. Mix together Quaker oats, lemon zest, thyme, seed topper and seasoning. Add egg and mix well. Place salmon on oiled baking sheet, skinned side up. Brush with littler oil, put on oat crust, drizzle with remaining oil.
 1. Bake in oven for 25 minutes, until salmon is cooked, and crust is crisp and golden.
 1. Serve with potatoes and steamed broccoli.
@@ -10849,7 +10602,6 @@ Salz
 Erdnussöl
 
 ### Zubereitung
-
 1. Schalotten, Ingwer und Zitronengras in heißem Rapsöl schwenken, Weißwein zugeben und auf die Hälfte reduzieren. Mit Geflügelfond auffüllen, 8 Minuten köcheln lassen. Anschließend Sahne, Kokosmilch, Currypulver und Currypaste hineingeben und weitere 5 Minuten köcheln lassen.
 1. Entkernten Apfel, Ananas und geschälte Banane grob zerteilen, mit Petersilienblättchen sehr fein pürieren und in die Suppe geben. Alles nochmals etwa 3 Minuten sieden lassen. Dann durch ein feines Sieb passieren und in die heiße Flüssigkeit die kalte Butter einrühren. Gut würzig mit Salz abschmecken.
 1. Die Jakobsmuscheln mit Currysalz würzen, in Öl 1 bis 2 Minuten saftig braten, halbieren und auf Spieße stecken. Die Suppe mit dem Stabmixer aufschäumen, sofort in heiße Schalen verteilen und mit den Muscheln servieren.
@@ -10873,7 +10625,6 @@ Salz, Pfeffer, Cayennepfeffer
 1 Zitrone
 
 ### Zubereitung
-
 1. Für das Dressing Senf, Honig, Essig, Salz, Pfeffer, 4 EL Wasser und Olivenöl verrühren. Von 3 Stielen Estragon die Blätter abzupfen, fein schneiden und zum Dressing geben. Granatapfel halbieren, die Schale kurz mit der Hand andrücken und die Kerne mit einem Kochlöffel herausklopfen. Salate putzen, waschen, abtropfen lassen und längs vierteln.
 1. Für die Fisch-Nuggets Fischfilet in 3 – 4 cm große Stücke schneiden. Mehl, Eier und Semmelbrösel jeweils in tiefe Teller geben. Eier mit ½ TL Salz, Pfeffer und ¼ TL Cayennepfeffer gut verquirlen. Fischstücke nacheinander in Mehl, Ei und Brösel wälzen. Brösel gut andrücken.
 1. Öl in einem kleinen Topf auf höchstens 170 Grad erhitzen (könnte man mit einem Küchenthermometer kontrollieren, wenn man eines hätte 😊) Fischstücke darin portionsweise schwimmend goldbraun ausbacken, mit der Schaumkelle herausheben und auf Küchenpapier abtropfen lassen. Salat auf einer Platte anrichten, mit Honig-Senf-Dressing beträufeln und mit Granatapfelkernen bestreuen. Fisch-Nuggets daraufgeben und mit restlichem abgezupften Estragonblättern bestreuen. Zitrone in Spalten schneiden und dazu servieren.
@@ -10895,7 +10646,6 @@ Salz, Pfeffer
 1 Handvoll schwarze Oliven ohne Stein
 
 ### Zubereitung
-
 1. Knoblauch schälen und andrücken. Rosmarin waschen, trocken schütteln, die Nadeln abzupfen und diese fein hacken. 
 1. Olivenöl in einen großen Topf mit schwerem Boden geben, erhitzen, dann das Hühnchenfleisch darin von beiden Seiten anbraten, bis es Farbe angenommen hat. Das dauert ungefähr 15 Minuten.
 1. Chili, Knoblauch und Rosmarin dazugeben, salzen und pfeffern und mit Weißwein ablöschen. Den Topf zudecken und das Ganze ungefähr 40 Minuten lang bei kleiner Hitze schmoren (die Flüssigkeit sollte ständig leicht köcheln). Zum Schluss Essig und Oliven dazugeben.
@@ -10920,7 +10670,6 @@ Salz
 4 Knoblauchzehen, ungeschält
 
 ### Zubereitung
-
 1. Honig mit Chilipaste vermengen, 1 El Olivenöl dazugeben. Eine der Blutorangen mit heißem Wasser abwaschen, in feine Scheiben schneiden. Die andere Blutorange auspressen, den Saft mit 2 EL Olivenöl vermengen. Die Blättchen von den Thymian- und den Estragonzweigen zupfen, in die Ölmischung geben. Kartoffeln waschen, aber nicht schälen, dafür halbieren, in eine Auflaufform legen. Die Orangen-Öl-Mischung darübergeben, mit den Händen verengen.
 1. Die Hühnerteile zwischen die halbierten Kartoffeln setzen. Die Chilimischung darübergeben und auf Fleisch und Kartoffeln verteilen. Großzügig salzen. Die Knoblauchzehen (ungeschält) in die Auflaufform geben. Zum Schluss die Scheiben der Blutorange auf Huhn und Kartoffeln verteilen. Bei 180 Grad Umluft 45 bis 60 Minuten schmoren.
 
@@ -10948,7 +10697,6 @@ Schwarzer Pfeffer
 ¼ TL Safranfäden
 
 ### Zubereitung
-
 1. Die Quitten waschen, eventuell den Flaum abreiben, dann schälen, halbieren, entkernen und vierteln; wenn man will, sogar achteln 😊. 
 1. Butter in einem feuerfesten Topf zergehen lassen, die Quittenschnitze hineingeben und etwa 15 Minuten lang dünsten, dabei nicht ansetzen lassen. Dann den Honig unterrühren, Quitten herausnehmen und beiseitestellen.
 1. In dem selben Topf Olivenöl erhitzen, darin die Hähnchenschenkel von beiden Seiten anbraten. Salzen und pfeffern. Aus dem Topf nehmen und beiseitestellen. Zwiebeln schälen und in Streifen schneiden, in dem Topf andünsten. Dann Quitten und Huhn zu den Zwiebeln zurück in den Topf geben. Zimtstange und das ganze (gewaschene) Bund Koriander dazufügen, ebenso wie Ingwer und Safran. Etwa 200 ml Wasser dazugießen, aufkochen. Den Topf abdecken und das Huhn für ungefähr 50 Minuten im 180 Grad heißen Ofen (Umluft) garen. Den Koriander entfernen. Als Beilage passt zum Quittenhuhn zum Beispiel gebutterter Cousous.
@@ -10969,7 +10717,6 @@ ca. 700 g nicht zu große Tomaten
 Salz
 
 ### Zubereitung
-
 1. Den Ofen auf 200 Grad Umluft heizen. Das Huhn in eine Auflaufform setzen. Zitrone halbieren, aus einer Hälfte den Saft pressen und über das Huhn träufeln, beide Zitronenhälften in den Bauch des Huhns stecken, ebenso die geschälten Knoblauchzehen und die Thymianzweige. 1 EL Olivenöl über dem Huhn verteilen. Wein in die Auflaufform gießen, Huhn in den Ofen geben.
 1. Nach 30 Minuten die Temperatur auf 180 Grad runterschalten. Tomaten im Ganzen um das Huhn herum in die Auflaufform geben. Noch mal 1 EL Olivenöl über das Huhn träufeln. Salzen. Huhn wieder in den Ofen geben, eine Stunde lang garen.
 1. Das Fleisch mit den Tomaten und dem entstandenen Fond servieren. Dazu passe gut eine cremige Polenta und als Gemüse gedünsteter Spinat.
@@ -10987,7 +10734,6 @@ Salz, Pfeffer
 1 Handvoll Estragonblätter
 
 ### Zubereitung
-
 1. Pilze putzen und in 2 cm große Stücke schneiden. Schalotte schälen und fein hacken. Pilze im Topf in Öl andünsten, die Schalotte dazugeben. Salzen und pfeffern, unter Rühren weiterdünsten, bis beides gar ist. Beiseitestellen.
 1. Hühnerfleisch in ungefähr ½ cm dicke Scheiben schneiden. In demselben Topf in Öl anbraten. Salzen, pfeffern, mit Wein ablöschen. Einkochen lassen, bis das Fleisch gar ist (falls es anzusetzen droht, etwas Wasser dazugießen). Sahne hinzugießen, kurz unter Rühren einkochen lassen. Zum Schluss die Pilze wieder in den Topf, fein geschnittenen Estragon dazugeben. Mit Salz und Pfeffer würzen. Dazu passt mit Parmesan abgeschmeckte Polenta.
 
@@ -11034,7 +10780,6 @@ Salz, Zucker
 2-3 EL frischer Koriander, fein gehackt
 
 ### Zubereitung
-
 1. die Zutaten für die Marinade in einer Schüssel vermischen und das Hühnchen für mindestens 30 Minuten darin einlegen. Am besten über Nacht und im Kühlschrank lagern.
 1. Das Hühnchen im Ofen bei 180 Grad (Ober-/Unterhitze) für 12 bis 15 Minuten backen, bis es fast durch ist. Abkühlen lassen und mit zwei Gabeln in kleine Stücke reißen.
 1. Für die Soße Öl in einem großen Topf erhitzen, die Tomaten mit Pfeffer, Kardamom Zimt, Lorbeer und Chilipulver dazugeben. Etwa einen halben Liter Wasser hineingießen und mindestens eine Stunde kochen lassen, bis die Tomatenhaut aufreißt.
@@ -11191,7 +10936,6 @@ Salz und Pfeffer
 1 kleiner Granatapfel
 
 ### Zubereitung
-
 1. Im Mörser erst die erst die Gewürze zerstoßen, dann Ingwer und Knoblauch hinzugeben und zu einer Paste zerstoßen. Schale der Orange, eine Prise Salz und Olivenöl hinzugeben. DAS Hähnchen etwa 30 Minuten marinieren. Dann die Hähnchenkeulen in dem Olivenöl knusprig braten. Orangensaft mit Tomatenmark und dem Weißwein anrühren. Damit ablöschen und etwa 30 Minuten schmoren. Mandelkerne hinzugeben. Petersilie hacken und hinzugeben. Mit Salz und Pfeffer würzen. Sauce etwas einkochen lassen und mit Peperoni und Olivenöl abschmecken.
 
 *Für das Tabouléh*
@@ -11224,7 +10968,6 @@ Salz
 1 EL Sonnenblumenöl
 
 ### Zubereitung
-
 1. Einen halben Liter Wasser in einen Topf geben und mit Selleriestangen, Karotte (geschält und in große Stücke geschnitten), Zwiebel (geschält und geachtelt), Piment, Pfeffer, Lorbeer und Salz zum Kochen bringen. Wenn das Wasser sprudelt, Temperatur hinunterschalten, bis das Wasser simmert. Hühnerfleisch hineinlegen und etwa 10 bis 15 Minuten bei geschlossenem Deckel garen. Das Fleisch sollte komplett durch sein, eventuell noch ein paar Minuten länger im Topf lassen, schließlich herausnehmen, den Fond auffangen.
 1. Für die Soße Walnüsse mit dem Pürierstab zu einer Art Mehl zerkleinern. Geschälten Knoblauch dazugeben und ebenfalls pürieren. Gewürze fein zerstoßen, in die Masse rühren (oder gleich dazugeben, wenn man gemahlene Gewürze verwendet). Salzen.
 1. Dann die Zwiebel schälen und fein reiben und in einer Pfanne mit Sonnenblumenöl anbraten, die Walnuss-Gewürz-Mischung hinzufügen, eine Minute lang unter Rühren dünsten und die Hälfte des Hühnerfonds zugießen. Warten, bis die Soße eindickt. Etwas mehr dazugießen. Rühren. Kurz einkochen lassen. Die Soße soll am Ende dickflüssig, aber cremig sein. Vielleicht hat man Fond übrig, den hebt man für ein anderes Gericht auf. Das Huhn in Scheiben schneiden und mit der Soße anrichten.
@@ -11254,7 +10997,6 @@ Für den Bulgur:
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Hähnchenschenkel von beiden Seiten in heißem Öl in einem schweren Topf anbraten, sodass sie Farbe bekommen. Aus dem Topf nehmen und beiseitestellen.
 1. Zwiebeln, Knoblauch, Ingwer und Chili hacken und im selben Topf mit Piment anschwitzen. Mit Brühe angießen. Safran in etwas heißem Wasser auflösen und samt Flüssigkeit dazugeben. Zitronen inklusive Schale klein schneiden und dazugeben. 50 Minuten bei kleiner Hitze zugedeckt garen, bis sich das Fleisch vom Knochen löst.
 1. Für den Bulgur die Körner in Salzwasser garkochen. Vor dem Servieren klein gehackte Cranberries, Pinienkerne (geröstet) und Butter unterrühren. Salzen und pfeffern.
@@ -11274,7 +11016,6 @@ Salz, Pfeffer
 Salz
 
 ### Zubereitung
-
 1. Huhn in kleine Stücke schneiden bzw. Die Schlegel mit einer Gabel oder einem dünnen Spieß ringsum einstechen (in ca. 1 cm Abstand und 0,5 cm tiefe Schnitte ins Fleisch machen). Fleisch in eine große Schüssel legen.
 1. Zitronensaft in die Einschnitte und über das ganze Fleisch geben, einreiben. Zudecken und ½ Stunde ziehen lassen.
 1. alle Zutaten für die Marinade zusammen zu einer glatten Sauce pürieren evtl. etwas Salz zugeben.
@@ -11297,7 +11038,6 @@ Je 1 Prise Kurkuma, Ingwerpulver, süßes Paprikapulver
 1 kg junge Möhren
 
 ### Zubereitung
-
 1. Zwiebeln hacken und in Olivenöl anschwitzen. Hühnerfleisch dazugeben und mit einer zerquetschten Knoblauchzehe leicht anbraten. Ein wenig frische Petersilie, Salz, Pfeffer, Kurkuma, Ingwer- und Paprikapulver hinzugeben und einige Minuten brutzeln lassen.
 1. Mit einem ½ Liter Wasser auffüllen und weitere 15 Minuten kochen. Die Erbsen und die in Steigen geschnittenen Möhren dazugeben. 
 1. 30 Minuten auf mittlerer Flamme köcheln lassen. Ziel ist es, einen salzigen Sud zu erhalten, um das Brot einzutunken.
@@ -11324,7 +11064,6 @@ Je 1 Rosmarin und Thymianzweig
 1 geschälte große mehlige Kartoffel
 
 ### Zubereitung
-
 1. Hähnchen in je 4 Brust- und Keulenstücke teilen. Salzen und pfeffern. Öl erhitzen und Fleisch darin anbraten. Karotten, Zwiebeln, Lauch, Sellerie, Knoblauch mit anschwitzen. Tomatenmark einrühren. Mit etwas Spätburgunder ablöschen. Lorbeer, Pfefferkörner, Wacholder, Rosmarin und Thymian einlegen. Kartoffel zur Bindung einreiben.
 1. Restlichen Wein angießen. Topf mit Deckel verschließen und ca. 1 Stunde bei niedriger Hitze köcheln lassen. Fleisch entnehmen. Sud mit Pürierstab pürieren, durch ein Sieb geben und auf die Hälfte einköcheln lassen und abschmecken. Geflügelteile einlegen.
 1. Als Beilage eigenem sich Karotten, Perlzwiebeln, geschmorte Tomatenviertel, Frühlingszwiebeln. 
@@ -11388,7 +11127,6 @@ Salz
 500 g Champignons
 
 ### Zubereitung
-
 1. Man mariniert die Teile 12 Stunden lang in Rotwein, dem eine in Stücke geschnittene Karotte, eine geviertelte Zwiebel, eine zerdrückte Knoblauchzehe, etwas Cayennepfeffer, Apfelsinenschale und Öl zugefügt wurden. Die Fleischstücke aus der Marinade nehmen, abtropfen lassen und im ausgelassenen Speck anbraten, bis sie eine schöne braune Farbe annehmen. Ablöschen mit Obstwasser. Die abgeseihte Marinade dazugeben, salzen. Bei kleiner Hitze etwa 60 Minuten lang köcheln lassen.
 1. Die Champignons in der Zwischenzeit in nicht zu kleine Stücke schneiden und 5 bis 7 Minuten lang in einer Pfanne anbraten.
 1. Die Sauce ist am Ende der Garzeit noch recht flüssig. Also nimmt man das Fleisch aus dem Topf und kocht die Sauce ein. Zum Binden gibt man etwas mit Mehl verknetete Butter dazu. Abschmecken mit dem Saft der Apfelsine, Orangenlikör, Honig: Eure Wahl. Hat die Sauce Geschmack und Konsistenz, wie man sich das wünscht, gibt man das Fleisch wieder dazu sowie die Champignons.
@@ -11448,7 +11186,6 @@ Die Blättchen von 5 Zweigen Thymian
 Eine Handvoll Granatapfelkerne, frischer Koriander
 
 ### Zubereitung
-
 1. Die Sauce wie einen Drink zubereiten. Man schmeißt alle Zutaten in den Mixer oder eine Schüssel, gern auch etwas mehr von allem, weil sie bei diesem Gericht wirklich der Clou ist, und püriert sie. 
 1. Den Ofen auf 190 Grad (Umluft 170 Grad) vorheizen. Olivenöl in einer feuerfesten Pfanne erhitzen. Die Hähnchenbrustfilets mit Salz und Pfeffer würzen und im heißen Öl von beiden Seiten goldbraun braten. 
 1. Alle übrigen Zutaten – bis auf die Granatapfelkerne und den Koriander – in den Standmixer geben oder eben mit dem Mixstab zu einer glatten Sauce pürieren. Die Hähnchenbrustfilets damit übergießen und etwa 20 Minuten im Ofen garen.
@@ -11482,7 +11219,6 @@ Ca. 80 ml Wasser
 1 Handvoll gehackter frischer Koriander
 
 ### Zubereitung
-
 1. In einer größeren Schüssel Joghurt mit Zitronensaft, Kurkuma und Garam Masala vermengen. Das Fleisch hineingeben und mit der Marinade bedecken. Die Schüssel mit Klarsichtfolie abdecken und für einige Stunden in den Kühlschrank stellen.
 1. In einem großen Topf die Butter im Öl schmelzen. Zwiebeln hinzufügen und unter Rühren andünsten. Dann angedrückte Knoblauchzehen, fein gehackten Ingwer und Kumin dazugeben. Alles weiterdünsten. Zimtstange, gewürfelte Tomaten, klein geschnittene Chilischoten und Salz hinzufügen.
 1. Fleisch mit der Marinade in den Topf geben, fünf Minuten lang dünsten, Wasser dazugießen. Aufkochen, dann Hitze herunterschalten und alles ungefähr 30 Minuten lang simmern lassen. Sahne und Tomatenmark hinzufügen, das Ganze weitere 10 bis 15 Minuten lang köcheln lassen. Schließlich die Mandeln hineinrühren, noch kurz weiterköcheln lassen. Zum Schluss mit Koriander garnieren.
@@ -11507,7 +11243,6 @@ Schwarzer Pfeffer
 Saft von ½ Zitrone
 
 ### Zubereitung
-
 1. Backofen auf 180 Grad Umluft heizen. Hähnchen in eine Auflaufform legen, mit der Hautseite nach oben. Sumach und Koriander darüberstreuen, mit Olivenöl beträufeln. Salzen und pfeffern.
 1. Die Zwiebel in feine Ringe schneiden, zwischen dem Fleisch verteilen. Die Pflaumen entkernen und achteln (oder vierteln, je nach Größe), zwischen das Fleisch drücken.
 1. 2 bis 3 TL Honig mit Zitronensaft vermengen, über das Huhn und die Pflaumen geben. In den Ofen schieben, ungefähr 2 bis 3 TL Honig auf das Fleisch streichen. Die Zwiebeln und die Pflaumen drückt man so zurecht, dass sie mit der entstandenen Flüssigkeit bedeckt sind, dann trocknen sie nicht aus, während das Huhn brutzelt. Das Ganze weitere 15 Minuten lang garen. Fertig.
@@ -11522,7 +11257,6 @@ Salz, Pfeffer
 250 ml Weißwein
 
 ### Zubereitung
-
 1. Den Ofen auf 200 Grad Umluft heizen. Das Huhn in einen Bräter setzen und mit Essig einreiben, salzen und pfeffern. Die (ungeschälten) Knoblauchzehen in den Topf um das Huhn herum verteilen, und den Weißwein hinzugießen. Topf zudecken, und das Ganze eine Stunde lang im Ofen garen. Dann den Deckel abnehmen, das Huhn mit dem Bratensaft begießen und weitere 45 Minuten lang garen.
 1. Dazu passt grüner Salat mit einer scharfen Senf-Vinaigrette. Die geschmorten Knoblauchzehen sind ganz weich geworden und haben ihre Schärfe verloren, das Mus lässt sich leicht aus der papierenen Hülle lösen und schmeckt super – süß und etwas buttrig – auf geröstetem Weißbrot.
 
@@ -11545,7 +11279,6 @@ Salz
 400 g Süßkartoffeln
 
 ### Zubereitung
-
 1. Pfefferkörner im Mörser zerstoßen. Mit Zimt, Piment, Nelke, Cayennepfeffer, Zucker und Thymianblättchen vermengen. Dann Olivenöl dazugießen und alles gut verrühren. Die Hähnchenschenkel samt Haut abwaschen, mit einem Küchentuch abtupfen und in eine Auflaufform legen, die so groß sein sollte, dass die Hähnchenschenkel nebeneinanderpassen. 
 1. Süßkartoffeln ungeschält erst mal quer halbieren, dann vierteln oder achteln, wenn sie sehr groß sind. Die Schnitze zwischen das Fleisch (nicht auf das Fleisch) in die Auflaufform setzen. Bei 180 Grad Ober- und Unterhitze für 45 bis 55 Minuten in den Ofen geben. In den letzten drei Minuten der Garzeit den Grill anstellen.
 
@@ -11563,7 +11296,6 @@ Das ist sozusagen ein halbes jamaikanisches Huhn (jerk chicken), weil es nicht m
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den Backofen auf 190 Grad Umluft vorheizen.
 1. Butter, Thymian, Knoblauch, eingelegte Zitrone und Zitronenschale mit ¼ TL Salz und 1 kräftige Prise Pfeffer zu einer Paste verarbeiten.
 1. Das Hähnchen so platzieren, dass die keulen zum Eingang zeigen. Mit den Händen vorsichtig die Haut von der Brust lösen, die Buttermischung darunterschieben und gleichmäßig auf den Brustfilets verstreichen. Mit der restlichen Butter die Keulen einreiben.
@@ -11588,7 +11320,6 @@ Salz, Pfeffer
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den Bacon in einer Pfanne knusprig braten. Minze und Schnittlauch waschen, grob hacken und mit dem Bacon vermengen. Zur Seite stellen.
 1. Die Hähnchenbrustfilets in kleinere Stücke schneiden, kurz in einer großen Pfanne mit etwas Öl bei starker Hitze anbraten, bis sie gebräunt sind. 
 1. Den Rhabarber putzen und in 4 cm große Stücke schneiden. Zwiebeln schälen, halbieren und in dünne Streifen schneiden. Den Herd auf mittlere Hitze zurückschalten und Perlgraupen, Rhabarber, Zwiebel und zerstoßenen Ingwer zum Huhn geben. Kurz anschwitzen lassen. Mit Weißwein ablöschen und 10 Minuten einkochen lassen. Gemüsebrühe dazugießen und ca. 15 Minuten weitere köcheln lassen. Sahne hinzufügen und simmern lassen, bis alles etwas eingekocht ist. Mit Salz und Pfeffer abschmecken. Zuletzt Bacon mit Kräutern darüberstreuen, sofort servieren.
@@ -11614,7 +11345,6 @@ In Garten beim Kompost wächst und gedeiht unser Rhabarber. Im Frühling leuchte
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Die Hähnchenkeulen in eine große Schüssel legen. Die anderen Zutaten – außer Weißwein und Dattelsirup – zugeben und alles mit 1 TL Salz und reichlich Pfeffer würzen. Behutsam vermengen, die Schüssel zudecken und das Hähnchen 1 -2 Tage (!) im Kühlschrank marinieren. Zwischendurch ab und zu wenden.
 1. Den Backofen auf 180 Grad Umluft vorheizen.
 1. Die Hähnchenkeulen samt der Marinade in einem großen Bräter verteilen. Den Wein mit dem Sirup verrühren, die Keulen damit übergießen und 50 Minuten im Ofen braten, bis die Haut goldbraun und das Fleisch durchgegart ist. Zwischendurch zwei-, dreimal mit dem Bratensaft übergießen.
@@ -11636,14 +11366,12 @@ Info:	Marinieren ist natürlich das Beste, aber wenn die Zeit nicht reicht, dann
 
 4 Bio-Clementinen mit Schale waagrecht in 0,5 cm dicke Scheiben geschnitten
 1 EL Thymianblätter
-
 2,5 TL Fenchelsamen, leicht zerstoßen
 
 Gehackte, glatte Petersilie zum Bestreuen
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Arak, Olivenöl, Orangen- und Zitronensaft, Senf, Zucker, 2,5 TL Salz und 1,5 TL Pfeffer in einer Schüssel mit dem Schneebesen verrühren.
 1. Die Fenchelknollen der Länge nach halbieren, die Hälften jeweils in 4 Spalten schneiden und mit den Hähnchenteilen, den Clementinen, dem Thymian und den Fenchelsamen in die Marinade geben. die Zutaten sorgfältig mischen und das Ganze einige Stunden oder über Nacht im Kühlschrank durchziehen lassen.
 1. Den Backofen auf 220 Grad vorheizen. Die Hähnchenteile mit der Hautseite nach oben mitsamt der Marinade in einer ofenfesten Form verteilen und 35-44 Minuten im Backofen braten, bis sie schön braun und durchgegart sind. Die Form aus dem Ofen nehmen.
@@ -11668,7 +11396,6 @@ Je 1 TL gehackte Petersilie, Dill und Koriander
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den Zucker mit 40 ml Wasser in einem Topf erhitzen, bis er sich aufgelöst hat. Vom Herd nehmen, die Berberitzen hineingeben und in dem Sirup einweichen (bei Korinthen entfällt das Einweichen).
 1. Die Hälfte des Öls in einer großen Deckelpfanne erhitzen und die Zwiebeln 10 – 15 Minuten bei mittlerer Hitze braun braten. Die Zwiebeln in eine Schüssel füllen.
 1. Die Hähnchenstücke in einer Schüssel mit 1,5 TL Salz und mit Pfeffer würzen. Das restliche Öl und die Gewürze hinzufügen und alles mit den Händen mengen. Die Pfanne erneut erhitzen, das Fleisch mit den Gewürzen hineingeben und auf jeder Seite 5 Minuten anbraten. Das Fleisch herausnehmen. Das Fett bis auf 1 mm wegschütten. Den Reis und die angebratenen Zwiebeln in die Pfanne geben und mit 1 TL Salz und reichlich Pfeffer würzen. Die Berberitzen abgießen und dazugeben. Gut umrühren, das Fleisch darauflegen und in den Reis drücken.
@@ -11698,7 +11425,6 @@ Salz, Pfeffer
 3 Eier, getrennt
 
 ### Zubereitung
-
 1. Das Öl in einer großen Pfanne bei mittlerer bis hoher Temperatur erhitzen und die Zwiebeln darin 8 – 9 Minuten anbraten, bis sie leicht gebräunt und weich sind. Ab und zu umrühren. Die Hitze ein wenig reduzieren, Knoblauch, Harissa, Paprikapulver, das Fleisch sowie 1 TL Salz und 1 Prise Pfeffer zugeben und alles unter häufigem Rühren weitere 5 Minuten bräunen. Die passierten und frischen Tomaten sowie 350 ml Wasser zugeben. Alles zum Kochen bringen und bei mittlerer Hitze zugedeckt 30 Minuten schmoren. Hin und wieder umrühren.
 1. Die Paprikaschoten und die Schokolade unterrühren du das Ragout unbedeckt weitere 35 – 40 Minuten köcheln lassen und regelmäßig umrühren, bis die Sauce allmählich eindickt und das Fleisch förmlich zerfällt. Vom Herd nehmen und das Koriandergrün unterziehen. Als Ragout ohne Kruste ist das Hähnchen jetzt servierfertig. Soll es mit Kruste serviert werden, das Hähnchen in eine ofenfeste Form (20 x 30 cm) füllen und vorerst beiseitestellen.
 1. Den Backofen auf 180 Grad Umluft vorheizen.
@@ -11720,7 +11446,6 @@ Salz, Pfeffer
 Salz, Pfeffer aus der Mühle
 
 ### Zubereitung
-
 1. Backofen mit feuerfester Form auf 80°C vorheizen. Filets mit Salz und Cayennepfeffer würzen. Im Öl 4-5 Minuten anbraten. In der Form 30 Minuten im Ofen garen.
 1. Mandeln, Brot und geschälten Knoblauch im Bratfett goldbraun rösten. Im Mörser zerstoßen. Bratensatz mit Sherry und Brühe ablöschen, einkochen. Mandelmischung einrühren, alles 2 Minuten köcheln lassen. Sauce über die Hähnchenbrüste geben, mit Petersilie bestreuen.
 
@@ -11959,7 +11684,6 @@ Gehobelter Parmesan zum Servieren
 180 g mittelalter Gouda gerieben
 
 ### Zubereitung
-
 1. Die Filets von überschüssigem Fett und Sehnen befreien. Den Backofen auf 180 Grad vorheizen. Die Makkaroni al dente kochen. Abtropfen lassen.
 1. Die Filets in lange Streifen schneiden und fein würfeln. Das Öl in einer gusseisernen Pfanne erhitzen und die Filets bei hoher Hitze anbraten, bis sie Farbe angenommen haben, aber noch nicht gar sind. Auf Zewa abtropfen lassen. Die Zwiebel, die Möhre und den Speck in die Pfanne geben und bei mittlerer Hitze 10 Minuten anbraten. Nun die Zucchini zugeben, und die Suppe eingießen. Aufkochen, dann 5 Minuten köcheln lassen.
 1. Die Pasta mit dem Fleisch, der Tomatensauce und der Crème fraîche mengen, und mit Salz und Pfeffer abschmecken. In eine flache ofenfeste Form füllen und den Käse überstreuen. 20 Minuten goldbraun durchbacken.
@@ -12121,7 +11845,6 @@ Salz, Pfeffer
 1 EL Butter
 
 ### Zubereitung
-
 1. Die Avocados halbieren, die Kerne entfernen und die Avocadohälften schälen. Das Fruchtfleisch in kleine Würfel schneiden. Die Tomaten waschen, vierteln und entkernen, dabei die Stielansätze entfernen. Die Tomatenviertelebenfalls in kleine Würfel schneiden. Den Zucchino putzen, waschen und in sehr kleine Würfel schneiden. Die gurke schälen, der Länge nach halbieren, mit einem Löffel die Kerne entfernen und das Fruchtfleisch in feine Würfel schneiden.
 1. Das Gemüse in einer Schüssel mit Salz, Pfeffer, Zitronensaft und 3 EL Olivenöl verrühren. Das Basilikum untermischen und die Salsa im Kühlschrank ziehen lassen.
 1. In der Zwischenzeit die Hähnchenbrustfilets waschen und trocken tupfen. Die Zitronen heiß waschen, trocken reiben und achteln. Den Rosmarin waschen und trocken tupfen.
@@ -12272,7 +11995,6 @@ Frischer Koriander
 Fleur de Sel
 
 ### Zubereitung
-
 1. Die Hühnerkeulen entbeinen (oder einfach Hühnchenbrust nehmen) und die Haut entfernen. In 2 cm große Würfel schneiden.
 1. Pfeffer im Mörser zu einem feinen Pulver zerstoßen. Knoblauch, Zitronengras und Koriander feinhacken und im Mörser mit Salz zu einer feinen Paste zerstoßen. Mit Kokosblütenzucker, Kurkumapulver, ausgekratzter Vanilleschote, Fischsauce und Sonnenblumenöl mischen. Das Fleisch darin marinieren. Dann auf die Spießchen stecken und in der Pfanne bei mittlerer Hitze etwa 3 Minuten von jeder Seite braten. 
 1. Mit Fleur de Sel bestreuen und servieren.
@@ -12301,7 +12023,6 @@ Tipp:	Am besten schmecken die Spießchen natürlich auf dem Holzkohlengrill (nic
 Weißer Pfeffer gemahlen
 
 ### Zubereitung
-
 1. Hähnchenbrust in dünne Scheiben schneiden. Fischsauce, Kokosblütenzucker, Austernsauce und Wasser in einer Schüssel vermischen. Öl im Wok erhitzen und bei mittlerer Hitze die Cashewkerne frittieren und herausnehmen. 
 1. Knoblauch fein hacken und zusammen mit dem Hähnchen im gleichen Öl goldgelb 3-4 Minuten bei hoher Temperatur rösten. Die Karotte und die Zwiebel in Streifen schneiden, Peperoni mit Kernen (kann man natürlich auch ohne Kerne machen – ist dann weniger scharf) in Ringe schneiden, alles hinzugeben und ca. 2 Minuten unter Rühren anbraten.
 1. Mit der Sauce ablöschen und kurz einköcheln lassen. Cashewnüsse und Frühlingszwiebeln hinzugeben, mit Fischsauce und dem gemahlenen Pfeffer abschmecken.
@@ -12355,7 +12076,6 @@ Etwas Erdbeersirup
 Salz, Pfeffer aus der Mühle
 
 ### Zubereitung
-
 1. Die Filets in heißem Butterschmalz anbraten. Zugedeckt etwa 10 Minuten garziehen lassen.
 1. Inzwischen für den Rhabarber den Rhabarber putzen, waschen und je nach Sorte schälen, anschließend in dicke Scheiben oder lange Stücke schneiden.
 1. Den Zucker in einer Pfanne karamellisieren lassen. Die Butter und den Rhabarber unterrühren. Den Wein und etwas Sirup angießen. Den Rhabarber gründlich durchschwenken. Der Rhabarber wird schnell weich, er soll aber nicht zerfallen.
@@ -12698,7 +12418,6 @@ Salz, Pfeffer aus der Mühle
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Olivenöl in eine Pfanne gießen und auf mittlere Temperatur erhitzen. Mehl und Grieß in zwei flache Schüsseln geben (so groß, dass je ein Schnitzel darin Platz findet). Das Ei mit dem Senf verquirlen.
 1. Hähnchenfilets auf ein Schneidebrett legen und, in Ermangelung eines Fleischhammers, mit einem weiteren Schneidbrett vorsichtig daraufhauen, sodass die Schnitzel ungefähr noch 2 cm dick sind. Das ist wichtig, weil das Schnitzel so durchgart, bevor die Panade zu dunkel wird. Das Fleisch salzen und pfeffern.
 1. Eines der Schnitzel zunächst im Mehl wenden, dann in der Ei-Senf-Mischung, schließlich im Grieß. 
@@ -12762,7 +12481,6 @@ Zerlassene Butter zum Einfetten der Pfanne
 Salz
 
 ### Zubereitung
-
 1. Die Auberginenscheiben auf Küchenpapier verteilen, auf beiden Seiten mit ein wenig Salz bestreuen und 20 Minuten Wasser ziehen lassen.
 1. Den Reis waschen und mindestens 30 Minuten in reichlich kaltem Salzwasser einweichen.
 1. Inzwischen einen großen Topf erhitzen und die Hähnchenkeulen bei mittlerer bis starker Hitze rundherum goldbraun anbraten. Zwiebel, Pfefferkörner und Lorbeerblätter dazugeben und 900 ml Wasser angießen. Zum Kochen bringen und zugedeckt 20 Minuten bei geringer Hitze garen. Die Hähnchenkeulen herausnehmen und beiseitestellen. Die Brühe durch ein Sieb passieren und einfetten.
@@ -12786,7 +12504,6 @@ Salz
 2 Wacholderbeeren
 
 ### Zubereitung
-
 1. Die gewaschenen Knochen in einem großen mit fünf Liter kaltem Wasser geben. Ohne Salz aufkochen lassen, abschäumen. Dann Tafelspitz, Lorbeerblätter, Pfefferkörner und Wacholderbeeren zugeben und 2,5 Stunden bei schwacher Hitze leicht dahinwallen lassen. Regelmäßig Schaum abnehmen.
 1. Die ungeschälten Zwiebeln halbieren und auf der Schnittfläche in einer Pfanne mit etwas Öl dunkelbraun rösten. Gemüse waschen, grob schneiden und mit der Zwiebel in die Brühe geben. Nochmals 1 Stunde köcheln lassen.
 
@@ -12808,7 +12525,6 @@ Tipp:	Dazu passen Bratkartoffeln, Apfelmerettich und Schnittlauchsauce
 2 Stangen Lauch
 
 ### Zubereitung
-
 1. Das Fleisch kalt abbrausen.
 1. Das Wasser mit dem Salz und den Pfefferkörnern zum Kochen bringen. Die Zwiebel ungeschält waschen, halbieren und eine Hälfte mit dem Lorbeerblatt und den Gewürznelken bestecken. 
 1. Die Zwiebelhälften mit dem Fleisch ins kochende Wasser geben und während der ersten 20 Minuten den sich bildenden Schaum immer wieder abschöpfen. Das Fleisch dann bei schwacher Hitze 2 Stunden im offenen Topf kochen lassen. 
@@ -12890,7 +12606,6 @@ Weißer Pfeffer
 Saft von 1 Limette
 
 ### Zubereitung
-
 1. Fleisch und Knochen in sprudelndes Wasser geben und einmal aufkochen. Wasser abgießen. Fleisch und Knochen abbrausen und im Topf mit kaltem Wasser und Salz langsam zum Kochen bringen. Auf kleiner Flamme etwa 90 Minuten köcheln lassen, und dabei immer wieder den zu Beginn aufsteigenden Schau, vorsichtig abschöpfen.
 1. Zitronengras mit dem Messerrücken aufschlagen. Knoblauch andrücken. Schalotten grob würfeln und anch etwa 60 Minuten beigeben. Das Fleisch ist gar, wenn es langsam von der Gabel flutscht.
 1. Aus dem Sud nehmen und etwas abkühlen lassen, damit es sich besser schneiden lässt. Den Fond abpassieren.
@@ -12943,7 +12658,6 @@ Salz, Pfeffer
 Frische Korianderblättchen
 
 ### Zubereitung
-
 1. Das Fleisch in etwa 12 mm dicke Scheiben schneiden. Für die Marinade Knoblauch schälen und mit der stumpfen Seite des Messers andrücken. Thymian waschen, trocken schütteln und die Blätter abzupfen. Zwiebeln schälen und fein schneiden. Koriander und Fenchel im Mörser fein zerstoßen. Mit Knoblauch, Paprika und Thymian in eine Schüssel geben, Olivenöl dazugießen, alles gut vermengen. Das Fleisch damit einreiben und 24 Stunden lang kühlstellen.
 1. Um die Linsen zu kochen, Traubenkern- oder Olivenöl in einem Topf erhitzen, Zwiebeln darin glasig dünsten. Linsen und Lorbeer dazugeben. Hitze herunterstellen, den Wein dazugeben und einkochen lassen. Dann Brühe dazugeben, sodass die Linsen knapp bedeckt sind. Flüssigkeit aufkochen, dann auf mittlerer Hitze bei geschlossenem Deckel kochen, bis die Linsen gar sind. Salzen und pfeffern.
 1. Inzwischen die Tomaten waschen, von den Stielansätzen befreien, grob hacken und zu den Linsen geben.
@@ -13005,7 +12719,6 @@ Für die Würzmischung
 2 EL Worcestersauce
 
 ### Zubereitung
-
 1. Den Räuchergrill nach Anweisung des Herstellers für indirektes Grillen über niedriger Hitze vorbereiten.
 1. die Zutaten für die Würzmischung in einer mittleren Schüssel vermengen. Davon 2 EL für die Sauce beiseitestellen.
 1. Die Ribs nach St. Louis Art zuschneiden und jeweils auf beiden Seiten großzügig mit der Würzmischung verrühren.
@@ -13177,7 +12890,6 @@ Salz und Pfeffer
 1 Spritzer Limettensaft
 
 ### Zubereitung
-
 1. Den Backofen auf 80°C vorheizen. Das Steak mit Salz leicht würzen und in einer Pfanne mit Sonnenblumenöl von jeder Seite etwa 2 Minuten scharf anbraten.
 1. Auf ein Backblech setzen und 30 Minuten im Ofen garen. Dabei ab und zu wenden.
 1. Butter in einer Pfanne mit Kräutern aufschäumen und das Fleisch 2 Minuten darin wenden. Mit grobem Pfeffer und Fleur de Sel würzen.
@@ -13250,7 +12962,6 @@ Salz, Pfeffer, Muskat
 1-2 TL Essig
 
 ### Zubereitung
-
 1. Das Fleisch in ca. 0,5 dünne Scheiben schneiden. In einer kleinen Schüssel mit 1 EL Sojasauce, 1 EL Öl und Maisstärke vermengen. (Maisstärke sorgt dafür, dass die Soße nachher etwas andickt und das Fleisch besser bräunt). Beiseitestellen.
 1. Geputzte Selleriestangen in 1 cm dicke Scheiben schneiden – man kann die Stücke auch länger lassen, 2 bis 3 cm, aber nur wenn die Stangen wirklich frisch und nicht faserig sind. Frühlingszwiebeln inklusive dem Dunkelgrün in Ringe schneiden. Ingwer reiben oder fein hacken.
 1. In einer Edelstahlpfanne 3 EL Öl erhitzen, darin das Fleisch braten, ungefähr 4 Minuten lang. Beiseitestellen. 
@@ -13285,7 +12996,6 @@ Salz, Pfeffer
 Butter, Salz, Pfeffer
 
 ### Zubereitung
-
 1. Möhren und Sellerie schälen und in kleine Würfel schneiden. Zwiebeln in feine Streifen schneiden. 
 1. Öl in einem Bräter erhitzen. Fleisch darin bei starker Hitze 2 Minuten rundherum anbraten, salzen und pfeffern. 
 1. Öl in den Topf geben und die Zwiebeln darin 5 Minuten anbraten. Möhren und Sellerie dazugeben und weitere 5 Minuten braten. 
@@ -13374,7 +13084,6 @@ Salz
 1 zerdrückte Knoblauchzehe
 
 ### Zubereitung
-
 1. Mayonnaise, saure Sahne, Käse, Zitronensaft und Knoblauch zu einer glatten Sauce verrühren, salzen und pfeffern, eventuell Petersilie dazugeben.
 1. Das Steak eine Stunde vor dem Braten aus dem Kühlschrank nehmen. In einer unbeschichteten Pfanne erhitzbares Öl heiß werden lassen. Steak wenden, wenn es sich vom Boden der Pfanne lösen lässt, salzen. Die Garzeit ist abhängig von der Dicke des Fleischs: 1 Minute pro Zentimeter.
 1. Zum Ende der Garzeit etwas Butter dazugeben sowie Rosmarin, Thymianzweige oder Salbei. Wenn die Butter schaumig wird, mit einem Löffel über das Fleisch geben. Die Kräuter werden nicht mitgegessen.
@@ -13527,7 +13236,6 @@ Etwas Salz
 1 Dose Kidneybohnen (400 g)
 
 ### Zubereitung
-
 1. In einem Bräter ein wenig Öl erhitzen. Das Fleisch darin anbraten, bis es etwas Farbe angenommen hat. Salzen, dann Wasser hinzugießen, den Bratensatz mit einem Pfannenheber lösen. Frühlingszwiebeln putzen und in 2 cm lange Stücke schneiden. Knoblauchzehen schälen und hacken, Chilischote hacken (Kerne entfernen), Ingwer schälen und fein hacken. Alles zusammen mit Thymianzweigen, Sojasoße und Zucker zum Fleisch geben. Flüssigkeit aufkochen, den Topf halb zudecken, bei mittlerer Hitze ungefähr 1,5 Stunden schmoren lassen, bis das Fleisch zart ist.
 1. Für den Reis etwas Butter in einem kleinen Topf schmelzen. Darin fein gehackten Knoblauch und Ingwer ungefähr 3 Minuten lang andünsten, nicht anbrennen lassen. Kokosmilch hinzufügen, ebenso Wasser und Zucker. Salzen. Reis und Bohnen hinzufügen. Alles aufkochen. Den Topf zudecken, Hitze reduzieren, garen, bis der Reis weich ist, etwa 15 – 20 Minuten.
 
@@ -13551,7 +13259,6 @@ Salz
 Reis
 
 ### Zubereitung
-
 1. Brokkoli waschen, in Röschen teilen. Fisch- und Sojasauce mit 2 EL Wasser vermengen, beiseitestellen. Öl in einer Pfanne erhitzen, Brokkoli darin anbraten. Hitze runterschalten, Pfanne abdecken, eventuell einen Schluck Wasser dazugeben, wenn man die dunkelbraunen Stellen doch befürchtet. Den Brokkoli ungefähr 5 Minuten lang braten, aus der Pfanne nehmen und beiseitestellen.
 1. Das Steak in ca. 0,5 cm dicke Scheiben schneiden, salzen. In derselben Pfanne noch mal Öl erhitzen, Fleisch darin höchstens 3 Minuten lang braten, dabei ab und zu wenden – das Fleisch sollte nicht durchgegart sein. Ebenfalls aus der Pfanne nehmen und beiseitestellen.
 1. Frühlingszwiebeln putzen, waschen und in ringe schneiden. Knoblauch und Ingwer schälen, fein hacken. Karotten putzen, schälen und in feine Streifen schneiden. Chili nach Belieben entkernen, waschen und hacken. 
@@ -13605,7 +13312,6 @@ Salz, Pfeffer
 1/8 l Gemüsebrühe
 
 ### Zubereitung
-
 1. Die Rouladen mit Frischhaltefolie bedecken und flachklopfen. Mit Senf einreiben, salzen und pfeffern. Den Speck und die Gewürzgurke in dünne Streifen schneiden. 
 1. Zwiebeln schälen und würfeln. Die Speck- und Gurkenstreifen und die Hälfte der Zwiebeln auf den Rouladen verteilen. Mit Petersilie und Thymian bestreuen. Dann die Rouladen gleichmäßig aufrollen und mit Küchengarn fixieren (oder mit Rouladennadeln).
 1. Lauch, Möhre und Sellerie putzen, ggf. schälen und klein schneiden. Öl in einem Bräter erhitzen und das Gemüse mit dem Rest der Zwiebeln andünsten. Mit Wein ablöschen und die Gemüsebrühe angießen.
@@ -13708,7 +13414,6 @@ Pfeffer, Muskat
 Etwas Butter, Etwas Pflanzenöl, Salz
 
 ### Zubereitung
-
 1. Zwei Zwiebeln schälen, in Streifen schneiden. Im Mörser Nelken, Piment, Wacholder und Pfeffer etwas andrücken, in eine Schüssel geben. Lorbeer, Essig und Rotwein dazu, kurz durchrühren, Fleisch einlegen. Mit Frischhaltefolie abdichten. Im Kühlschrank tagelang marinieren……Wenn das Fleisch schon gut abgehangen ist, 5 Tage, wenn es ganz frisch ist, 10-14 Tage. Der Metzger weiß Bescheid.
 1. Fleisch aus der Marinade nehmen, trocken tupfen. Marinade durchs Sieb abgießen, die Flüssigkeit auffangen.
 1. Die übrigen zwei Zwiebeln und die Karotten schälen, grob schneiden. Butter und Öl im Schmortopf erhitzen, Fleisch von allen Seiten anbraten, Gemüse dazugeben und anschwitzen. Mit so viel Marinade ablöschen, dass das Fleisch 2 cm hoch in der Flüssigkeit liegt. Salzen. Hitze reduzieren, alles zugedeckt 3 Stunden lang schmoren. Falls nötig, währenddessen mehr Marinade dazugießen. Fleisch aus dem Topf heben, die Soße pürieren – am besten entfernt man die Karotten und gibt sie einzeln wieder dazu, so viele, bis die Soße eine sämige Konsistenz hat.
@@ -13921,7 +13626,6 @@ Salz, Pfeffer (weiß)
 4 Kalbsmedaillons (ca. 600 g)
 
 ### Zubereitung
-
 1. Sahne und 100 g Crème fraîche in einer Pfanne oder einem breiten Topf offen 8 – 10 Minuten cremig einkochen lassen. Zucchini in dünne, gleichmäßige Scheiben schneiden. Parmesan fein raspeln.
 1. Vom Basilikum die Blätter abzupfen und einige zum Garnieren beiseitelegen, den Rest in nicht zu feine Streifen schneiden.
 1. Eingekochte Sahne mit Salz, Pfeffer und durchgedrückte Knoblauchzehen würzen. Sahne mit Saucenbindemittel aufkochen, bis sie sehr dick ist und beiseitestellen. Kalbsmedaillons von beiden Seiten mit Salz und Pfeffer würzen und in sehr heißem Butterschmalz von jeder Seite 1 Minute scharf anbraten, dann aus der Pfanne nehmen.
@@ -14128,7 +13832,6 @@ Ca. 12 getrocknete Pflaumen ohne Stein
 Schale von 1 Biolimette oder -Zitrone
 
 ### Zubereitung
-
 1. Zunächst die Mandeln blanchiere, und zwar so: in eine kleine Schüssel geben, mit kochendem Wasser übergießen, ungefähr 5 Minuten lang warten. Dann kann man die Mandeln aus der Schale drücken. 
 1. Zwiebeln schälen und in Streifen schneiden. Knoblauch und Ingwer schälen und klein hacken. Sonnenblumenöl in einem großen schweren Topf erhitzen. Fleisch darin von allen Seiten anbraten, bis es etwas Farbe angenommen hat. 
 1. Die Mandeln, die Zwiebel, den Knoblauch und den Ingwer dazugeben. Salzen und unter Rühren ungefähr 5 Minuten lang dünsten. Wasser dazugießen, sodass das Fleisch gerade bedeckt ist. Topf abdecken, das Fleisch ungefähr eine Stunde lang köcheln lassen. Etwas Wasser dazugießen, falls das Fleisch am Topfboden anzusetzen droht.
@@ -14300,7 +14003,6 @@ Etwas Butter
 1 kg neue Kartoffeln
 
 ### Zubereitung
-
 1. Für das Auberginenmus die Auberginen in einer Auflaufform bei 200 – 230 Grad ca. 30 Minuten backen. Vorher mit der Gabel einstechen. Mit einem Löffel das weichgekochte Fruchtfleisch aus der Schale kratzen und evtl. zerkleinern. Mit den übrigen Zutaten würzen.
 1. Frühlingszwiebeln vierteln in zerlassener Butter anbraten und würzen.
 1. Koteletts braten.
@@ -14386,7 +14088,6 @@ Pfeffer
 Grobes Meersalz, Pfeffer
 
 ### Zubereitung
-
 1. Den Backofen auf 150 Grad vorheizen. Das Fleisch mehrfach tief einschneiden, in einen großen Bräter legen. Alles Zutaten für die Paste verrühren. Die Keule damit gut einreiben, 4 – 5 Stunden im Ofen schmoren und dabei regelmäßig mit dem austretenden Saft übergießen, bis das Fleisch goldbraun ist. Die Keule auf einen Teller legen, mit Alufolie abdecken und ca. 30 Minuten ruhen lassen. Etwa 10 Minuten vor dem Servieren die Ofentemperatur auf 200 Grad erhöhen.
 1. Die Feigen in eine feuerfeste Form setzen, mit Granatapfelsirup und Olivenöl übergießen, salzen, pfeffern und 10 Minuten im Ofen backen. In der Zwischenzeit das überschüssige Fett aus dem Bräter abgießen, den Bodensatz im Bräter lassen, auf den Herd stellen und den Zitronensaft hineingeben. Den Bodensatz unter Rühren loskochen und bei Bedarf ein wenig Wasser hinzugeben (es soll eine konzentrierte Reduktion entstehen und keine Bratensoße).
 1. Die Keule mit Bratensaft und Feigen servieren.
@@ -14410,7 +14111,6 @@ Salz, Pfeffer
 1 Zitrone
 
 ### Zubereitung
-
 1. Den Ofen auf 160 Grad heizen. Die Lammschulter mit Salz und Pfeffer würzen und in einen ofenfesten Topf, am besten einen Bräter legen.
 1. Harissa, Essig, Tomatenmark, Zucker und Knoblauch in einer Schüssel verrühren. Mit der Paste, die sich ergibt, das Fleisch einreiben. 380 ml Wasser in den Topf gießen, Deckel aufsetzen und Topf in den Ofen stellen. Ungefähr 2 Stunden lang garen, bis das Fleisch zerfällt. (Da die Garzeit variiert, fragt man am besten den Metzger, wie lange er das Fleisch wohl schmoren würde)
 1. Schließlich die Bohnen hinzufügen, noch mal salzen und pfeffern. Temperatur auf 215 Grad erhöhen. Das Fleisch ohne Deckel kurz weitergaren, bis die Bohnen die Flüssigkeit aufgesogen haben und das Fleisch eine braune Kruste hat, dann Fleisch aus dem Topf nehmen, auf einem Brett in Scheiben schneiden. Fein geschnittene Mangoldblätter (und optional – fein gehackte eingelegte Zitrone) unter die heißen Bohnen heben. Bohnen und Fleisch auf Tellern oder einer Platte anrichten. Dazu ein paar Zitronenschnitze reichen.
@@ -14450,7 +14150,6 @@ Saft und abgeriebene Schale von 1 Biozitrone
 6 Anchovis, die lass ich selbstverständlich weg 😊
 
 ### Zubereitung
-
 1. Das Fleisch mit Olivenöl einreiben. Fenchel und Pfeffer im Mörser fein zerstoßen. Knoblauch schälen, mit der flachen Seite des Messers andrücken. Gewürze und Knoblauch in das Fleisch massieren, das man in eine Auflaufform legt, mit Frischhaltefolie abdeckt und über Nacht im Kühlschrank lässt.
 1. Bohnen in eine Schüssel mit Wasser geben und über Nacht einweichen lassen.
 1. Backofen auf 180 grad Ober-/Unterhitze vorheizen. 
@@ -14477,7 +14176,6 @@ Saft und abgeriebene Schale von 1 Biozitrone
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Zitronenschale und -saft sowie Knoblauch, Gewürze, Kräuter und Öl mit 1,5 TL Salz und reichlich Pfeffer grob pürieren und beiseitestellen.
 1. Die Lammschulter in eine große Schüssel legen und mit einem kleinen scharfen Messer rundherum etwa 30-mal einstechen. Die Würzpaste sorgfältig in das Fleisch reiben, auch die Einschnitte berücksichtigen. Die Schüssel mit Frischhaltefolie verschließen und das Fleisch mindestens 4 Stunden (besser über Nacht) im Kühlschrank marinieren.
 1. Den Backofen auf 170 Grad Umluft vorheizen.
@@ -14500,7 +14198,6 @@ Salz, Pfeffer
 1 Zitrone
 
 ### Zubereitung
-
 1. Den Ofen auf 160 Grad heizen. Die Lammschulter mit Salz und Pfeffer würzen und in einen ofenfesten Topf, am besten einen Bräter legen. Harissa, Essig, Tomatenmark, Zucker und Knoblauch in einer Schüssel verrühren. Mit der Paste, die sich ergibt, das Fleisch einreiben.
 1. 380 ml Wasser in den Topf gießen, Deckel draufsetzen und Topf in den Ofen stellen. Ungefähr 2 Stunden lang garen. (Da die Garzeit variiert, fragt man am besten den Metzger, wie lange er das Fleisch wohl schmoren würde).
 1. Schließlich Bohnen hinzufügen, noch mal salzen und pfeffern. Temperatur auf 215 Grad erhöhen. Das Fleisch ohne Deckel kurz weitergaren, bis die Bohnen die Flüssigkeit aufgesogen haben und das Fleisch eine braune Kruste hat, dann Fleisch aus dem Topf nehmen, auf einem Brett in Scheiben schneiden.
@@ -14619,7 +14316,6 @@ Etwas Essig
 24 Frühlingszwiebeln
 
 ### Zubereitung
-
 1. Kartoffeln in 1 cm dicke Scheiben schneiden, Zwiebeln in dünne Streifen. Beides auf einem Backblech auslegen. Darauf kommen die Knoblauchknolle, nicht geschält und quer halbiert, sowie die Rosmarinzweige. Salzen und pfeffern. Olivenöl darüber geben, mit Wasser und Wein auffüllen, sodass die Kartoffeln gerade bedeckt sind. Das mit Pfeffer und Salz eingeriebene Lamm darauflegen, bei 180°C zwei Stunden garen, wobei alle 30 Minuten das Fleisch mit dem Sud begossen wird. Die Garzeit hängt von der Größe der Lammschulter ab, man muss also mit Gefühl an die Sache gehen.
 1. Für die Romesco-Sauce gibt man auf ein zweites Blech je mim Ganzen Tomaten und 1 bis 2 ungeschälte Knoblauchknollen. 30 Minuten garen, dann Tomaten schälen. Der Knoblauch ist weich und schmeckt süßlich, das Mus lässt sich leicht aus der Schale herausdrücken. Mit Mandeln, Haselnüssen, getrockneten Paprika (wer keine bekommen kann, lässt sie weg), Paprikapulver, Petersilie und Essig im Mixer zerkleinern.
 1. Die Kartoffeln sind zum Schluss goldgelb, die Flüssigkeit ist fast vollständig verdampft. Man entfernt Rosmarin und Knoblauch und gibt das Fleisch auf eine Servierplatte. Die Romesco-Sauce mit den Kartoffeln vermengen, ebenfalls auf der Platte anrichten. Die Frühlingszwiebeln in einer Pfanne in heißem Öl braten, bis sie etwas Farbe angenommen haben. Salzen und pfeffern.
@@ -14644,7 +14340,6 @@ Etwas Essig
 ½ TL grobes Meersalz
 
 ### Zubereitung
-
 1. Fettauflage auf dem Lammkarree entfernen und Rippenknochen sauber abschaben. die Zutaten für die Würzpaste in einer kleinen Schüssel vermischen. Das Lammfleisch damit bestreichen und vor dem Grillen 20-30 Minuten bei Zimmertemperatur ruhen lassen.
 1. Für den Sirup beide Säfte, Honig und Aceto balsamico in einem kleinen Topf vermischen und rasch aufkochen. Die Hitze reduzieren und die Mischung 15-20 Minuten auf etwa 5 EL einkochen. Den Situp mit Salz würzen und abkühlen lassen.
 1. Den Grill für direkte mittlere Hitze vorbereiten. Den Grillrost mit der Bürste reinigen. Die Lammkarrees zuerst mit der Knochenseite nach unten über direkter mittlerer Hitze bei geschlossenem Deckel grillen, bis der gewünschte Gargrad erreicht ist (dauert etwas). Wenn sich Flammen bilden, das Fleisch über die indirekte Hitze ziehen. Sobald die Kerntemperatur etwas über 50 Grad erreicht hat, die Karrees vom Grill nehmen und 5 Minuten ruhen lassen (Die Temperatur steigt während der Ruhezeit noch einmal um etwa 2 Grad), dann in Koteletts aufschneiden.
@@ -14690,7 +14385,6 @@ Salz und schwarzer Pfeffer
 1 Zitrone
 
 ### Zubereitung
-
 1. Zwiebel, Knoblauch und Ingwer schälen, hacken. Fleisch in 2 cm große Würfel schneiden. Olivenöl in einem Topf mit dickem Boden erhitzen. Zwiebeln, Knoblauch, Koriander und Ingwer dazugeben. 4 Minuten lang unter Rühren dünsten, dann Fleisch zugeben.
 1. Mit Wasser aufgießen, bis das Fleisch gerade bedeckt ist. Wasser aufkochen, Hitze reduzieren und den Topf zudecken. 1,5 Stunden lang sanft köcheln lassen.
 1. Inzwischen Zucchini waschen, putzen, schräg in dicke Scheiben schneiden. Paprika entkernen, waschen und in breite Streifen schneiden. Tomaten häuten. Kerne entfernen, das Fruchtfleisch würfeln. Kräuter waschen, trocken schütteln und die Blättchen grob hacken. 
@@ -14714,7 +14408,6 @@ Etwas Olivenöl
 Saft von ½ Zitrone
 
 ### Zubereitung
-
 1. Zwiebeln schälen, in Ringe schneiden. Lammschulter in ungefähr 2 cm große Würfel schneiden. Mit etwas Olivenöl in einen Topf mit schwerem Boden geben und anbraten, sodass das Fleisch etwas Farbe annimmt. 
 1. Äpfel und Zwiebeln zum Fleisch geben, ebenso Lorbeer, Nelke, Chili und Salz. Unter Rühren alles kurz andünsten.
 1. Dann mit Wein und 150 ml Wasser ablöschen. Flüssigkeit aufkochen. Die Hitze runterschalten, den Topf zudecken und alles bei mittlerer Temperatur ungefähr 1 Stunde schmoren. Das Fleisch sollte weich und zart sein. 
@@ -14736,7 +14429,6 @@ Olivenöl
 Fleur de Sel
 
 ### Zubereitung
-
 1. Gewürze mit der geschälten Knoblauchzehe im Mörser zu einer Paste zerstoßen. Olivenöl hinzugeben und die Lammkoteletts damit marinieren.
 1. Eine Pfanne mit Olivenöl erhitzen und die Lammkoteletts von jeder Seite etwa 2 Minuten scharf anbraten. Fleisch aus der Pfanne nehmen und abgedeckt etwa 5 Minuten ruhen lassen. Mit Fleur de Sel würzen.
 
@@ -14820,7 +14512,6 @@ Saft aus ½ Zitronen
 2 Dillstängel
 
 ### Zubereitung
-
 1. Das Fleisch in ungefähr 5 cm große Stücke schneiden. Etwas Olivenöl in einen Schmortopf geben, das Fleisch darin von allen Seiten anbraten. Salzen. Pfefferkörner, Lorbeerblatt, Rosmarinzweig hinzufügen sowie so viel kochendes Wasser, dass das Fleisch gerade nicht davon bedeckt ist. Fleisch in dem Wasser mit geschlossenem Deckel ungefähr 1 Stunde lang kochen.
 1. Fleisch aus dem Topf nehmen, die Fleischbrühe durch ein feines Sieb abgießen. In den Topf wieder etwas Olivenöl geben, darin das klein geschnittene Gemüse andünsten, also Knoblauch, Schalotten, Möhre, Kartoffeln. Etwas Farbe annehmen lassen, dann die Brühe dazugeben sowie das Fleisch. 20 bis 25 Minuten lang köcheln lassen, bis das Gemüse gar ist.
 1. Das Eigelb mit Zitronensaft verquirlen, 2 EL von der heißen Fleischbrühe hineinrühren. Diese Mischung in den Topf geben, sodass die Soße gebunden wird. Mit etwas fein gehacktem Dill servieren.
@@ -14892,7 +14583,6 @@ Gemahlener Kümmel
 1 EL Rapsöl
 
 ### Zubereitung
-
 1. Für das Schäufele den Backofen auf 130 Grad vorheizen. Die Brühe in einen Bräter gießen, die Schäufele mit der Schwarte nach untern dicht aneinandergelegt hineinsetzen und im Ofen auf mittlerer Schiene 1 Stunde garen.
 1. Die Zwiebeln schälen, die Karotte und den Knollensellerie putzen und schälen. Das Gemüse in 1 bis 2 cm große Stücke schneiden. DAS Öl in einer Pfanne erhitzen und das Gemüse darin bei mittlerer Hitze leicht anrösten.
 1. Die Backofentemperatur auf 160 Grad erhöhen. Das Fleisch aus dem Bräter nehmen, umdrehen und die Schwarte mit einem scharfen Messer rautenförmig einritzen. Das Gemüse in den Bräter zur Brühe geben, die Schäufele mit der Schwarte nach oben daraufsetzen. Im Ofen weitere 1,5 bis 2 Stunden garen.
@@ -14958,7 +14648,6 @@ Salz, Pfeffer
 Salz
 
 ### Zubereitung
-
 1. Die Auberginen in einer großen Schüssel mischen, dann in einem Dämpfeinsatz geben und beiseitestellen.
 1. Einen großen Topf 3 cm hoch mit Wasser füllen. Das Wasser bei starker Hitze zum Kochen bringen. Die Auberginen hineinsetze und mit dem Deckel zudecken, sodass kein Dampf entweichen kann. Die Hitze ein wenig reduzieren du die Auberginen 12 Minuten dämpfen. Herausnehmen und beiseitestellen.
 1. Inzwischen 2 EL Öl in einer Pfanne bei hoher Temperatur erhitzen. Frühlingszwiebeln, Ingwer, Knoblauch und Chili hineingeben und unter häufigem Rühren 5 Minuten anbraten, bis der Knoblauch allmählich Farbe annimmt. Alles in eine Schüssel umfüllen und beiseitestellen. Das restliche Öl (2 EL) erhitzen und das Hackfleisch 3 Minuten anbraten und zerkleinern. Mirin, Sojasauce, Kecap manis, Sesamöl, Reisessig und ½ TL Salz hinzufügen und alles weitere 2 Minuten köcheln lassen. Die Frühlingszwiebelmischung wieder unterrühren, noch 1 Minuten mitgaren, dann die Pfanne vom Herd nehmen – es sollte reichlich Flüssigkeit darin sein. Zwei Drittel des Koriandergrüns und die Erdnüsse unterziehen. Die Hackfleischmischung mit Auberginen, Sesam und restlichem Koriandergrün servieren.
@@ -15018,7 +14707,6 @@ Für die Würzmischung:
 ¼ TL frisch gemahlener schwarzer Pfeffer
 
 ### Zubereitung
-
 1. Den Räuchergrill nach den Angaben des Herstellers für indirektes Grillen über niedriger Hitze vorbereiten.
 1. In einer kleinen Schüssel die Zutaten für die Würzmischung vermengen und das Fleisch rundum kräftig damit einreiben.
 1. Die Braten über indirekter niedriger Hitze bei geschlossenem Deckel räuchern. Während der ersten drei (!) Stunden jede Stunde 1 Handvoll abgetropfte Holzchips auf die Glut legen. Die gesamte Räucherzeit beträgt 8 – 10 Stunden. Wenn die Kerntemperatur nach dieser Zeit knapp 90 Grad erreicht hat, sollte der Knochen leicht aus dem Fleisch rutschen und das Fleisch an einigen Stellen auseinanderfallen. Die Temperatur des Räuchergrills sollte konstant zwischen 110 und 120 Grad gehalten werden.
@@ -15040,7 +14728,6 @@ Salz, schwarzer Pfeffer
 5 Zweige Thymian
 
 ### Zubereitung
-
 1. Butter in einem Topf mit schwerem Boden zerlassen. Koteletts salzen und pfeffern und in der Butter einige Minuten lang von beiden Seiten anbraten, bis das Fleisch goldbraun ist. Wermut darüber gießen.
 1. Die Kirschen entsteinen und mit den Thymianzweigen in den Topf geben. Topf abdecken und das Ganze ungefähr 10 Minuten lang bei mittlerer Hitze garen.
 1. Falls die Soße zu dünnflüssig ist, nimmt man das Fleisch aus dem Topf und kocht die Flüssigkeit noch eine Weile ein.
@@ -15057,7 +14744,6 @@ Salz, schwarzer Pfeffer
 1-2 EL Butterschmalz
 
 ### Zubereitung
-
 1. Koteletts waschen und abtrocknen. Ananas abtropfen lassen und mit dem Schinken umlegen. In jede Kotelett-Tasche eine Schinken-Ananasscheibe geben, mit Holzstäbchen feststecken. 
 1. Butterschmalz erhitzen, die Koteletts von beiden Seiten 15 – 18 Minuten darin braten. Und fertig. 
 
@@ -15079,7 +14765,6 @@ Um es ganz originalgetreu wie in den 70er Jahren zu machen, mit krauser Petersil
 2 EL Austernsauce
 
 ### Zubereitung
-
 1. Das Fleisch in dünne Scheiben schneiden. Pfeffer und Sternanis im Mörser zu Pulver zerstoßen. Knoblauch und Koriander hacken, hinzufügen und zu einer feinen Paste verrühren. Sojasauce, Fischsauce, Kokoszucker und die Paste miteinander verrühren. Das Fleisch über Nacht darin marinieren. Anschließend abtropfen lassen, auf Spießchen stecken und bei mittlerer Hitze grillen oder braten.
 
 ## Schweinebraten mit Kräutern
@@ -15245,7 +14930,6 @@ Für den Kartoffelsalat
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Für die Schäufele das Fleisch kalt abspülen, trocken tupfen und auf ein Stück Alufolie legen. Zwiebeln schälen und fein würfeln. Das Fleisch mit dem Lorbeerblatt, den Wacholderbeeren, Thymian, Pfefferkörnern und Zwiebelwürfel bedecken. Die Alufolie gut verschließen. Das Fleisch in einen Topf legen und kaltes Wasser zugeben, bis das Fleisch vollständig bedeckt ist. Wasser kurz aufkochen lassen und dann 1 ¼ Stunden bei niedriger Hitze köcheln lassen. Das Fleisch nach der Garzeit aus dem Wasserbad nehmen, 10 Minuten ruhen lassen und in dünne Scheiben schneiden.
 1. Für den Kartoffelsalat die Kartoffeln putzen und mit Schale in ca. 20 Minuten garkochen. Die Kartoffeln herausnehmen, warm pellen und in dünne Scheiben schneiden. Zwiebeln schälen, fein würfeln und mit den Kartoffeln vermengen. Essig, Öl und Senf vermengen und gemeinsam mit der heißen Brühe unterrühren. Mit Salz und Pfeffer abschmecken. Den Salat vor dem Verzehr mindestens 1,5 Stunden durchziehen lassen und ggf. noch etwas Brühe dazugeben.
 
@@ -15310,7 +14994,6 @@ Je 1 EL gehackte Petersilie, Kerbel und Schnittlauch
 3 EL Öl
 
 ### Zubereitung
-
 1. Die Filetscheiben waagrecht so einschneiden, dass sie auf einer Seite noch zusammenhängen. Das Toastbrot in kleine Stücke brechen und in kaltem Wasser einweichen. Die Knoblauchzehen schälen und kleinwürfeln.
 1. Das Toastbrot ausdrücken und mit den Knoblauchstückchen, den gehackten Kräutern, dem Salz, der Sahne und dem Pfeffer mischen.
 1. Jede Filetscheibe mit Kräutermasse bestreichen, zusammenklappen und gut aufeinanderdrücken. Eine Grillpfanne mit dem Öl bestreichen und die Filetscheiben unter öfterem Wenden insgesamt 20 Minuten bei mittlerer Hitze grillen. Nach jedem Wenden erneut mit Öl bestreichen.
@@ -15322,7 +15005,6 @@ Je 1 EL gehackte Petersilie, Kerbel und Schnittlauch
 1 Ei
 
 ### Zubereitung
-
 1. Den Blätterteig auftauen lassen. 
 1. Vom Fleisch möglichst alle Fettreste abschneiden, das Fleisch kurz kalt waschen und abtrocknen. Den Backofen auf 210 Grad vorheizen.
 1. Die aufgetauten Blätterteigscheiben in einem Rechteck zusammenlegen und auf die doppelte Größe ausrollen. Von den Rändern des Teiges mit einem Teigrädchen etwa 1 cm breite Steifen abrädeln und beiseitelegen. 
@@ -15634,7 +15316,6 @@ Etwas Öl oder Butter zum Braten
 Salz, schwarzer Pfeffer aus der Mühle
 
 ### Zubereitung
-
 1. Das Schweinefilet in etwa 2-3 cm dicke Scheiben schneiden. Diese von beiden Seiten in heißem Öl oder Butterschmalz anbraten. Die Fleischtomaten anschließend in eine Auflaufform legen, salzen und pfeffern. Den Backofen auf 200°C vorheizen.
 1. Die Tomaten waschen, den Stielansatz entfernen und die Tomaten in 1 cm dicke Scheiben schneiden. Den Gorgonzola ebenfalls in 1 cm dicke Scheiben schneiden. Tomaten- und Gorgonzolascheiben abwechselnd auf das Schweinefilet legen. 
 1. Im vorgeheizten Backofen bei 200°C etwa 30 Minuten backen lassen.
@@ -15747,7 +15428,6 @@ Außerdem: Basilikum zum Garnieren
 2 Sternanis
 
 ### Zubereitung
-
 1. Zwiebeln und Knoblauch schälen, fein würfeln und mit Honig, Sojasauce, Thymian, Salz, Pfeffer, Kümmel, Essig und 4 EL Öl zu einer Marinade vermischen. (Den Kümmel kann man vorher im Mörser zerstoßen). Fleisch mit der Mischung einreiben, in eine feuerfeste Form legen, abdecken und einige Stunden – am besten über Nacht – im Kühlschrank marinieren lassen.
 1. Backofen auf 130°C Ober-/Unterhitze heizen. Gewürze vom Fleisch abtupfen und in die Form zurückgeben. 2 EL Öl in einer Pfanne erhitzen, Fleisch rundherum anbraten. Herausnehmen, zurück in die Form setzen. Bratensaft in der Pfanne mit Brühe ablöschen, zusammen mit dem Sternanis in die Form geben.
 1. Fleisch mit Alufolie abdecken und 5 bis 6 Stunden lang im Ofen garen. Das Fleisch sollte am Ende nahezu zerfallen. Folie entfernen, Fleisch mit dem Sud begießen und leicht salzen. Backofenhitze auf 250°C erhöhen, Braten 15 bis 20 Minuten bräunen (immer wieder überprüfen, dass er nicht verbrennt). Den Grill für die letzten 5 Minuten anschalten. Die entstandene Soße mit Salz und Pfeffer abschmecken. Oder die Soße in einen Topf abgießen, 1 gehäuften TL Speisestärke mit Wasser glattrühren und die Soße damit auf dem Herd andicken. 
@@ -15947,7 +15627,6 @@ Basilikum
 400 g Pasta 
 
 ### Zubereitung
-
 1. Knoblauch und Zwiebel fein hacken, das Fleisch in zwei mal zwei Zentimeter große Stücke schneiden und zusammen in einem Topf in Olivenöl anbraten. Mit dem Rotwein ablöschen. Tomatenmark zugeben, gut mischen und die Tomaten hinzufügen. Dosen oder Flaschen mit etwas Wasser ausspülen und zur Soße geben.
 1. Alternativ das Fleisch aus dem Topf nehmen, bevor die Tomaten hineinkommen. Tomaten erwärmen und dann das Fleisch wieder hinzugeben.
 1. Salz, Zucker und Basilikum hinzufügen. Die Hitze reduzieren und mindestens 8 Stunden auf kleiner Flamme zugedeckt köcheln lassen. Hede Stunde kurz rühren und kontrollieren, ob nichts anbrennt. Das Ragù ist fertig, wenn sich die Tomatensoße um die Hälfte reduziert hat. Für einen kräftigeren Geschmack kann man das Ganze auch länger köcheln lassen.
@@ -15975,7 +15654,6 @@ Je 10 Schalotten und Knoblauchzehen
 1 Zweig Rosmarin
 
 ### Zubereitung
-
 1. Fleisch würfeln und 24 Stunden bei Zimmertemperatur in der Marinade lassen. Trocknen. Salzen. Gemüse in Marinade und Tomaten sowie Schinkenreste und 1 Glas Cognac legen. Das Fleisch sollte gut mit Marinade bedeckt sein.
 1. Im Ofen bei 100 Grad 4 Stunden schmoren. Nach Beendigung des Schmorens wird die Flüssigkeit mit allen Kräutern und Gewürzen durch ein Sieb in eine Kasserolle geben.
 1. Oliven, Knoblauch, Schalotten zum Schmorsaft geben. Kurz vor dem Servieren mit frischem Thymian und durchgepressten Knoblauch würzen.
@@ -16036,7 +15714,6 @@ Butterschmalz
 Rotwein und saure Sahne
 
 ### Zubereitung
-
 1. Fleisch sorgfältig parieren und in gleichmäßige Würfel schneiden. Von allen Seiten in Butterschmalz kräftig anbraten und mit Rotwein in kleinen Mengen (El für EL) ablöschen. 3–4-mal wiederholen. Nach dem Ablöschen das Tomatenmark unterrühren und kurz mitrösten. Zwiebeln dazugeben und goldbraun braten. Lorbeerblatt zufügen und mit etwas Brühe auffüllen, soviel das Fleisch und Zwiebeln bedeckt sind. Topf zudecken und 60 – 80 Minuten bei milder Hitze schmoren.
 1. Zwischendrin immer mal umrühren. Gulasch mit Salz, Zucker, etwas Rotwein und saurer Sahne abschmecken.
 
@@ -16062,7 +15739,6 @@ Rosenpaprika (Scharf)
 200 g Crème fraîche
 
 ### Zubereitung
-
 1. Fleisch parieren und in gleichmäßige Würfel schneiden. Schmalz im Schmortopf erhitzen. Zwiebeln und Knoblauch goldgelb anbraten. Tomatenmark dazu geben und kurz mitrösten. Topf vom Herd ziehen und edelsüßen Paprika unterrühren. Fleisch rein, bisschen umrühren. Zugedeckt bei milder Hitze ca. 30 Minuten dünsten. 
 1. Jetzt Sauerkraut mit Kümmel unterrühren. 10 Minuten mitschmoren. Gulasch mit Salz, Zucker, Rosenpaprika würzen und mit Kümmel abschmecken. Zum Schluss Crème fraîche unterrühren.
 
@@ -16085,7 +15761,6 @@ Je 1 TL Kümmelsamen und getrockneten Majoran
 150 ml Crème fraîche
 
 ### Zubereitung
-
 1. Das Fleisch in 3 cm große Würfel schneiden. Die Zwiebeln schälen, halbieren und in dünne Scheiben schneiden.
 1. Das Öl in einem Topf erhitzen. Das Fleisch darin portionsweise bei milder Hitze anbraten und aus dem Topf nehmen. Die Zwiebeln im Bratensatz bei milder Hitze andünsten. Das Tomatenmark unterrühren. Das Fleisch wieder hinzufügen und die Brühe angießen.
 1. Den Deckel so auf den Topf legen, dass ein Spalt offen bleibt. Das Fleisch bei milder Hitze 2 Stunden schmoren, dabei nicht kochen lassen. Nach 1 Stunden den Deckel abnehmen, damit die Sauce noch etwas einkocht und sämiger wird.
@@ -16111,7 +15786,6 @@ Sonnenblumenöl
 1 Becher Schmand
 
 ### Zubereitung
-
 1. Für das Gulasch Paprika entkernen, waschen und in Streifen schneiden. Zwiebel schälen und ebenfalls in Streifen schneiden. Öl in einem Topf erhitzen. Das Fleisch darin kurz anbraten, aus dem Topf nehmen, beiseitestellen.
 1. Im verbliebenen Fett Paprika und Zwiebel anschwitzen, umrühren, damit nichts anbrennt. Mit Wasser ablöschen. Salz, Kümmel, Paprikapulver, Paprikamark, Lorbeer und das angebratene Fleisch dazugeben.
 1. Sauerkraut abtropfen lassen, in den Topf geben. 1,5 Stunden lang bei geschlossenem Deckel köcheln lassen. Mit Schmand und vielleicht ein paar Pellkartoffeln servieren
@@ -16135,7 +15809,6 @@ Sonnenblumenöl
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Zwiebeln fein schneiden und im Schweineschmalz bei schwacher Hitze 3 Stunden ohne Farbe anschwitzen. Das Fleisch parieren, in Würfel (ca. 5x5 cm) schneiden, mit Salz und Pfeffer würzen und zu den Zwiebeln geben.
 1. Knoblauch fein schneiden, Pfefferonen hacken und mit den Gewürzen und Kräutern zum Fleisch geben.
 1. Schwarzbrot in Würfel schneiden und ebenfalls dazugeben. Alles mit Rindersuppe bedecken und etwa 90 Minuten köcheln lassen. 
@@ -16156,7 +15829,6 @@ Etwas Butter
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. In einem Topf mit schwerem Boden das Fleisch in Butter anbraten, dabei gelegentlich wenden. Wenn die Stücke von allen Seiten gleichmäßig gebräunt sind, aus dem Topf nehmen und beiseitestellen. 
 1. Karotten und Sellerie fein würfeln, Zwiebel in Streifen schneiden. Ebenfalls in etwas Butter im selben Topf unter Rühren anrösten.
 1. Das Fleisch zum Gemüse in den Topf zurückgeben. Dann mit Bier ablöschen. Lorbeer, Wacholder, je eine Prise Salz und Pfeffer dazugeben. Das Ganze zugedeckt etwa 90 Minuten lang schmoren.
@@ -16206,7 +15878,6 @@ Salz, Pfeffer
 Saft von 1 Zitrone
 
 ### Zubereitung
-
 1. Das Fleisch wird in Butter kurz angebraten. Man gibt das Mehl dazu und schwitzt das Ganze an. Mit Weißwein abgelöscht, dann kommt die Brühe dazu.
 1. Jetzt werden die längs geviertelten Schalotten hinzugegeben sowie Lorbeer, Thymian, Petersilie und Nelke. Etwas salzen und pfeffern. Der Schmortopf köchelt für 1,5 Stunden vor sich hin. Währenddessen achtet man darauf, dass das Fleisch immer mit Flüssigkeit bedeckt ist.
 1. Gegen Ende der Garzeit werden Zuckerschoten, Erbsen und Karotten separat blanchiert oder gedämpft. Das Gemüse zum fertig gegarten Ragout geben.
@@ -16223,7 +15894,6 @@ Salz
 Weißbrot
 
 ### Zubereitung
-
 1. Am besten nimmt man das Rindfleisch aus der Hesse, also dem Unterschenkel des Tiers. Das Fleisch wird durch Schmoren zart und aromatisch. Oft bietet der Metzger quer zum Knochen geschnittene Scheiben an. Der Knochen sitzt dann in der Mitte der Beinscheibe und kann mitgekocht werden.
 1. Fleisch in 2 cm große Würfel schneiden, in einem Topf mit schwerem Boden ohne Fett bräunen.
 1. Pfeffer im Mörser zerstoßen, mit dem Rotwein in den Topf geben.
@@ -16253,7 +15923,6 @@ Weißbrot
 1 kg Schweinelende
 
 ### Zubereitung
-
 1. Zunächst bereitet man eine Paste als Grundlage für das Curry zu. Dafür getrocknete Chilis 15 Minuten lang einweichen, abseihen und fein hacken. Inzwischen frische Chilis putzen, waschen und nach Belieben mit oder ohne Kerne hacken. Zitronengras von äußeren Hüllblättern befreien und das Innere hacken. Ingwer schälen und grob hacken. Knoblauchzehen und Schalotten schälen und hacken. Limette heiß waschen und die Schale fein abreiben. Eingeweichte und frische Chilis, Pfeffer, Zitronengras, Ingwer, Kurkuma, Knoblauch, Schalotten, Limettenschale, Salz im Mörser nach und nach zu einer Paste zerstoßen. (man kann auch den Pürierstab nehmen😊). Zum Schluss die Garnelenpaste dazugeben (die bekommt man im Asialaden)
 1. Öl in einem Topf mit schwerem Boden heiß werden lassen. Chilipaste darin 1 bis 2 Minuten lang anbraten. Wenn man Angst vor der Schärfe bekommen sollte, nimmt man einfach etwas weniger Paste und hebt den Rest für den nächsten Tag auf.
 1. Das Fleisch trockentupfen und in dünne Scheiben schneiden. Zur Paste in die Pfanne geben, unter Rühren 10 Minuten lang braten. Man kann auch Rindfleisch verwenden, dann reduziert sich die Garzeit auf 5 Minuten, da man das Fleisch nicht ganz durchbrät. 
@@ -16281,7 +15950,6 @@ Ca. 2 l sehr gute Hühnerbrühe
 Salz
 
 ### Zubereitung
-
 1. Zwiebeln und Knoblauch werden gehäutet und fein gehackt. Roter Pfeffer, Kreuzkümmel und Thymian im Mörser zerstoßen und die Mischung in einen Topf geben. Die fein gewürfelte Aubergine kommt dazu und dünstet mit.
 1. Nach ungefähr 5 Minuten fügt man die Cranberrys hinzu sowie die in mundgerechte Stücke geschnittene Hühnerbrust. Auf mittlere Temperatur schalten und das Ganze köcheln lassen, bis das Fleisch gar ist, was ungefähr 5 Minuten dauert. Währenddessen bleibt man aber neben dem Herd stehen, denn ab und zu rührt man um, damit nichts am Boden ansetzt.
 1. Schließlich gießt man Hühnerbrühe dazu -vielleicht braucht man weniger als 2 l, je nach Geschmack. Die Kichererbsen hinzufügen und den Eintopf noch einmal aufkochen. Die gehackte Petersilie mit den Granatapfelkernen in einer Schüssel vermengen. 
@@ -16335,7 +16003,6 @@ Salz, Pfeffer aus der Mühle
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den Backofen auf 200 Grad Umluft vorheizen.
 1. Das Hackfleisch in einer großen Schüssel mit Feta, Thymian, Knoblauch, Petersilie, Weißbrotbröseln, Zimt, ¾ TL Salz du reichlich Pfeffer sorgfältig vermengen. Aus der Masse 18 Bällchen formen.
 1. Das Öl in einer großen Pfanne bei mittlerer bis hoher Temperatur erhitzen. Sobald es heiß ist, die Bällchen hineinlegen, 5 – 6 Minuten braten und immer wieder vorsichtig wenden, bis sie von allen Seiten goldbraun sind. Auf ein mit Backpapier belegtes Blech legen, nach Belieben mit dem Granatapfelsirup beträufeln und 5 Minuten im Ofen fertig garen. Heiß servieren.
@@ -16359,7 +16026,6 @@ Salz, Pfeffer
 1 EL Zitronensaft
 
 ### Zubereitung
-
 1. Sämtliche Zutaten für den Sumach-Joghurt in einer kleinen Schüssel verrühre und bis zur Verwendung in den Kühlschrank stellen.
 1. Für die Fleischküchlein die Pistazienkerne grob hacken und in eine große Schüssel umfüllen. Nun den Rucola grob zerkleinern und zu den Pistazien geben. Anschließend Zwiebel und Knoblauch glatt pürieren und ebenfalls in die Schüssel geben. Das Hackfleisch, 1 EL Öl, ¾ TL Salz und 1 kräftige Prise Pfeffer hinzufügen und alles gründlich vermengen. Aus der Masse mit befeuchteten Händen etwa 20 Fleischküchlein formen.
 1. In einer großen beschichteten Pfanne 1 EL Öl bei mittlerer Temperatur erhitzen. Sobald es heiß ist, die Fleischküchlein 7 Minuten braten und nach der Hälfte der Zeit umdrehen, bis sie goldbraun und eben durchgegart sind. Warm stellen, während die restlichen Fleischküchlein gebraten werden. Nach Bedarf noch weiteres Öl dazugeben. Dann auf einer großen Platte anrichten und mit dem Sumach-Joghurt servieren.
@@ -16416,7 +16082,6 @@ Salz, Pfeffer
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Hackfleisch, Zwiebel, Brotbrösel, Petersilie, Ei, Piment sowie ½ TL Salz und etwas Pfeffer in einer großen Schüssel mit den Händen sorgfältig vermengen. Aus der Masse etwa 20 Bällchen formen. 
 1. Das Öl in einer großen Pfanne bei hoher Temperatur erhitzen. Die Hackbällchen hineinlegen und rundherum etwa 5 Minuten goldbraun anbraten. Auf einen Teller legen. Sellerie, Knoblauch und die restlichen Gewürze in die Pfanne geben und bei starker Hitze unter Rühren 2 Minuten anbraten, bis der Knoblauch ein wenig Farbe angenommen hat und die Gewürze aromatisch duften. Die Hackbällchen wieder dazugeben, Brühe und Zitronensaft angießen und alles mit ½ TL Salz und etwas Pfeffer würzen. Zum Kochen bringen und zugedeckt bei schwacher bis mittlerer Hitze 30 Minuten garen. Den Deckel abnehmen und die Sauce noch 10 Minuten reduzieren.
 1. Die Pfanne vom Herd nehmen und die Hackbällchen weitere 5 – 10 Minuten durchziehen lassen.
@@ -16439,7 +16104,6 @@ Salz, Pfeffer
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Mit der Tomatensauce beginnen: In einem Topf 2 EL Olivenöl bei mittlerer bis hoher Temperatur erhitzen, jeweils die Hälfte Zwiebeln, Knoblauch und Oregano hineingeben und 8 – 10 Minuten unter Rühren anschwitzen, bis die Zwiebeln weich, jedoch nicht gebräunt sind. Die Tomaten und die Hälfte der Brühe zufügen, mit ½ TL Salz und etwas Pfeffer würzen und die Sauce bei mittlerer Hitze 10 – 15 Minuten köcheln lassen, bis sie eingedickt ist. Hin und wieder umrühren.
 1. Inzwischen die Hackbällchen vorbereiten: Die restlichen Zwiebeln, die restlichen beiden Knoblauchzehen sowie den Oregano in eine große Schüssel geben. Hackfleisch, Brotbrösel, Ricotta, Parmesan, Ei, Petersilie sowie ¾ TL Salz und etwas Pfeffer hinzufügen und alles mit den Händen sorgfältig vermengen. Aus der Masse 12 – 14 Bällchen formen.
 1. In einer großen Pfanne 1 EL Öl erhitzen, die Hackbällchen darin in zwei Portionen von allen Seiten 8 Minuten anbraten, beim zweiten Durchgang noch 1 EL Öl dazugeben. Fertige Bällchen auf einen Teller legen.
@@ -16473,7 +16137,6 @@ Je 2 EL glatte Petersilie, Minze, Dill und Koriandergrün, gehackt plus 1,5 EL z
 1 Ei, verquirlt
 
 ### Zubereitung
-
 1. die Zutaten für die Fleischbällchen mit ¾ TL Salz und reichlich Pfeffer in eine große Schüssel geben, mit den Händen vermengen und tischtennisballgroße Kugeln formen. In einer großem Deckelpfanne 1 EL Öl erhitzen und die Fleischbällchen darin portionsweise bei mittlerer Hitze etwa 5 Minuten rundherum anbräunen. Bevor die zweite Portion gebraten wird, nochmals ½ EL Öl in die Pfanne geben. Die Fleischbällchen beiseitestellen und die Pfanne mit Küchenpapier ausreiben.
 1. In der Zwischenzeit die Bohnen 2 Minuten in reichlich kochendem Salzwasser blanchieren. In ein Sieb abgießen und unter fließendem kaltem Wasser abschrecken. Die Hälfte der Bohnen häuten.
 1. Das restliche Öl in der Pfanne, in der die Fleischbällchen gebraten wurden, erhitzen und den Thymian mit Knoblauch und Frühlingszwiebeln 3 Minuten bei mittlerer Hitze darin anschwitzen. Die ungehäuteten Bohnen, 1,5 EL Zitronensaft und etwa 80 ml Brühe dazugeben (die Bohnen sollten fast bedeckt sein), mit ¼ TL Salz und reichlich Pfeffer würzen und die Bohnen zugedeckt 10 Minuten bei geringer Hitze garen.
@@ -16505,7 +16168,6 @@ Je 2 EL glatte Petersilie, Minze, Dill und Koriandergrün, gehackt plus 1,5 EL z
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Das Fleisch in einer großen Schüssel mit Zwiebeln, Petersilie, Knoblauch, Piment, Zimt, Berberitzen, Ei, 1 TL Salz sowie ½ TL Pfeffer vermengen und golfballgroße Kugeln formen.
 1. Ein Drittel des Öls in einem Schmortopf erhitzen und die Fleischbällchen in kleinen Portionen einige Minuten bei mittlerer Hitze rundherum anbräunen.
 1. Den Topf anschließend mit Küchenpapier ausreiben, das restliche Öl darin erhitzen und die Schalotten unter häufigem Wenden 10 Minuten bei mittlerer Hitze goldbraun braten. Den Wein angießen und 1-2 Minuten einkochen lassen.  Die Brühe angießen, Lorbeerblätter, Thymian und Zucker hinzufügen und mit etwas Salz und Pfeffer würzen. Die Feigen dazugeben, die Fleischbällchen hineinlegen (sie sollten fast mit Flüssigkeit bedeckt sein). Aufkochen und zugedeckt 30 Minuten bei sehr geringer Hitze garen. Den Deckel abnehmen und das Ganze weiterköcheln lassen, bis die Sauce eingedickt ist und die Schalotten weich sind. Das kann bis zu 1 Stunde dauern. Das Gericht zum Schluss noch einmal abschmecken und in einer großen Schüssel anrichten.
@@ -16525,7 +16187,6 @@ Salz, Pfeffer
 Salz und schwarzer Pfeffer
 
 ### Zubereitung
-
 1. Den Lauch in 2 cm breite Ringe schneiden und etwa 20 Minuten dämpfen, bis er weich ist. Anschließend abgießen, abkühlen lassen, in ein Geschirrtuch schlagen und die überschüssige Flüssigkeit herauspressen. Das Gemüse danach grob zerkleinern. In einer großen Schüssel mit Hackfleisch, Semmelbröseln, Eiern, 1 ¼ TL Salz sowie 1 TL Pfeffer vermengen. Acht etwa 7x2 cm große Frikadellen daraus formen und 30 Minuten im Kühlschrank ruhen lassen.
 1. Das Öl bei mittlerer Hitze in einer großen Deckelpfanne mit schwerem Boden erhitzen. Die Frikadellen auf beiden Seiten goldbraun braten und danach aus der Pfanne nehmen.
 1. Die Pfanne mit Küchenpapier ausreiben, die Frikadellen wieder hineinlegen und so viel Hühnerbrühe angießen, dass die Frikadellen fas bedeckt sind. Den Zitronensaft sowie ½ TL Salz hinzufügen und aufkochen. Den Deckel auflegen und die Frikadellen 30 Minuten bei geringer Hitze garen. Danach den Deckel abnehmen und die Flüssigkeit fast vollständig einkochen lassen. Die Pfanne vom Herd nehmen und zum Abkühlen beiseitestellen. Die Frikadellen warm oder mit Zimmertemperatur mit einem Klecks Joghurt und mit Petersilie bestreut servieren.
@@ -16572,7 +16233,6 @@ Für die Specksauce:
 300 ml Geflügelfond
 
 ### Zubereitung
-
 1. Für die Fleischküchle zwei altbackene Kaisersemmeln in kleine Würfel schneiden. Petersilie und Schalotten fein schneiden und in etwas Olivenöl anschwitzen. Knoblauch fein hacken und ebenfalls kurz anschwitzen. Die Milch aufkochen und zusammen mit Schalotten, Petersilie und Knoblauch über die Semmelwürfel geben. Die Masse durchrühren und kaltstellen.
 1. Dann das Putenfleisch ohne Haut durch den Fleischwolf drehen (mittlere Scheibe) oder von Hand sehr fein schneiden (wie Tartar). Eier zur Fleischmasse geben, dann mit Salz, Pfeffer, Apfelmus, Paprikapulver und der eingeweichten Semmelmasse gut vermengen. Daraus acht bis zwölf schöne Fleischküchle formen.
 1. Für das Püree die Petersilienwurzeln schälen und in ca. 1 cm große Würfel schneiden, dann in einem Topf mit Gemüsebrühe und Milch langsam erhitzen und köcheln lassen, bis die Petersilienwurzel weich ist. Danach stampfen. Wenn ihr ein besonders feines Püree wollt, dann due Masse durch ein feines Sieb streichen. Sahne unterheben. Mit Salz, Pfeffer und Himbeeressig abschmecken.
@@ -16629,7 +16289,6 @@ Salz, Pfeffer
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Die Schale der Zitronen fein abreiben. Schalotten sowie Knoblauch in sehr feine Streifen schneiden, in 1 EL Butterschmalz glasig anschwitzen und unter die Hackmasse mengen. Diese mit Garam Masala, roter Currypaste, scharfem Paprikapulver, Zitronenschalenabrieb, Salz und Pfefferherzhaft abschmecken. 
 1. Die Masse zu Kugeln mit 3 bis 4 cm Durchmesser formen. In Butterschmalz rundum anbraten, anschließend circa 4 Minuten bei 140 Grad im Ofen (Umluft nicht geeignet) garen, danach kurz ruhen lassen. Zuletzt in Butterschmalz nachbraten.
 1. Für die Sauce die Limettenschale dünn abreiben, anschließend die Limette auspressen. Abrieb und Saft mit dem Joghurt verrühren und mit Salz und Pfeffer abschmecken.
@@ -16646,7 +16305,6 @@ Salz, Pfeffer
 Olivenöl
 
 ### Zubereitung
-
 1. Den Backofen auf 190 Grad Ober-/Unterhitze vorheizen.
 1. Das Hähnchenfleisch mit Salz, Pfeffer, Petersilie und Parmesan vermengen. 
 1. Fleischbällchen formen: Das Fleisch portionsweise erst in der Handfläche etwas flach drücken, dann 1 Käsewürfel in die Mitte legen und alles zu einer Kugel zusammenrollen.
@@ -16773,7 +16431,6 @@ Etwas Olivenöl
 Ein kleines Stück Butter
 
 ### Zubereitung
-
 1. Rinde des Brötchens abreiben, das Innere in Stück reißen, beides mit Wasser knapp bedecken, kurz einweichen lassen.
 1. Zwiebel schälen und fein hacken.
 1. Zwiebel und Petersilie in einer Pfanne mit der Brötchenmasse sanft erhitzen, sodass die Flüssigkeit verdampft.  Mit Hackfleisch, Ei, Muskat, Salz und Pfeffer verkneten. Flache Küchlein formen, in Semmelbröseln wälzen.
@@ -16794,7 +16451,6 @@ Salz, Pfeffer
 Öl zum Braten
 
 ### Zubereitung
-
 1. Die Brötchen in Wasser einweichen und ausdrücken. Die Zwiebel schälen und in feine Würfel schneiden.
 1. Die Zwiebel, Brötchen, Fleisch, Ei, Senf und Gewürze zu einem Fleischteig verkneten. Aus dem Geig gleichmäßige Küchle formen.
 1. Öl in einer Pfanne erhitzen und die Fleischküchle von beiden Seiten in je 5 Minuten braten.
@@ -16822,7 +16478,6 @@ geriebene Schale und Saft von 1 Zitrone
 1 Knoblauchzehe, zerdrückt
 
 ### Zubereitung
-
 1. In einer großen Schüssel das Hackfleisch mit den Semmelbröseln, dem Parmesan, Zwiebel, Petersilie, dem Ei, Knoblauch, Zitronensaft und -schale mengen, und mit Salz und Pfeffer abschmecken. Die Masse zu esslöffelgroßen Bällchen rollen und im Mehl wälzen.
 1. Das Öl in einer großen Pfanne erhitzen und die Fleischbällchen goldbraun braten. Auf Zewa abtropfen lassen. Fettreste und Bratensaft aus der Pfanne entfernen.
 1. Für die Sauce nun die Tomaten, die Brühe, den Wein, das Basilikum, den Knoblauch sowie Salz und Pfeffer in die Pfanne geben und aufkochen.
@@ -16994,7 +16649,6 @@ Reste sollten zugedeckt im Kühlschrank stellen. Beim Erhitzen nicht aufkochen, 
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. In einer großen Pfanne 3 EL Olivenöl bei mittlerer bis hoher Temperatur erhitzen. Knoblauch und Schalotten darin unter Rühren 5 Minuten goldgelb anschwitzen. Die Hitze heraufschalten, das Hackfleisch mit Kreuzkümmel, Piment, der Hälfte der Zitronenschale und ½ TL Salz zugeben und 5 Minuten bräunen, ab und zu umrühren. Anschließend Tomatenmark, Harissa und Aprikosen unterrühren und 2 Minuten mitbraten. Brühe und Wein zugießen und alles bei mittlerer Hitze zugedeckt 30 Minuten garen. Abkühle lassen und die Oliven untermengen. Die Mischung in eine tiefe ofenfeste Form (etwa 20 x 25 cm) umfüllen und für mindestens 30 Minuten kaltstellen, damit die Masse etwas fester wird und sich das Püree leichter auftragen lässt.
 1. Den Backofen auf 180 Grad Umluft vorheizen.
 1. Für das Püree die Bohnen in eine Schüssel mit der restlichen Zitronenschale (1 TL), 2 EL Olivenöl, Tahin, 3 EL Wasser, ¾ TL Salz und 1 Prise Pfeffer vermengen und mit einem Stampfer zerdrücken. Die Masse soll nicht ganz glatt werden, aber streichfähig sein. Das Püree gleichmäßig auf dem Hackfleisch verstreichen und mit einem Löffel einige kleine Mulden hineindrücken. Mit dem verbliebenen 1 EL Öl beträufeln und 30 Minuten im Ofen backen, bis die Kruste schön braun ist. Den Auflauf vor dem Servieren 10 Minuten abkühlen und ruhen lassen.
@@ -17020,7 +16674,6 @@ Salz, Pfeffer
 Salz
 
 ### Zubereitung
-
 1. Den Backofen auf 190 Grad Umluft vorheizen. Eine Kastenform (20 x 10 cm) mit etwas Öl einfetten.
 1. Zucchini, Möhre, Zwiebel und Tomaten zerkleinern. Die Mischung sollte von ähnlicher Konsistenz sein wie die Hackmasse. Das Gemüse in einem Sieb über einer Schüssel abtropfen lassen und so viel Flüssigkeit wie möglich herauspressen. Das Gemüse in eine große Schüssel geben, Hackfleisch, 2 Knoblauchzehen, sämtlichen Pecorino sowie Brotbrösel, Eier, Tomatenmark, Gewürze und 1 TL Salz hinzufügen und alles sorgfältig vermengen. Die Masse in die vorbereitete Form füllen.
 1. Die Form in einen hohen Bräter stellen und bis zur halben Höhe der Form kochendes Wasser zugießen. In den Ofen stellen und 1 Stunde und 10 Minuten im Wasserbad garen, bis der Hackbraten goldbraun ist.
@@ -17044,7 +16697,6 @@ Pfeffer, Salz
 2 EL Mehlschwitze/Mondamin
 
 ### Zubereitung
-
 1. Knödel kochen und dann in Scheiben schneiden. Hackfleisch mit fein gewürfelter Zwiebel und Knoblauch in Öl krümelig braten, salzen, pfeffern und herausnehmen. Knödelscheiben anbraten, dann herausnehmen.
 1. Spinat in der Pfanne zerfallen lassen, mit Brühe ablöschen und Frischkäse einrühren. Salzen, pfeffern. Aufkochen, Mondamin einrühren und 1 Minute köcheln lassen. Tomaten halbiere, alles in die Pfanne geben und ablöschen.
 
@@ -17301,7 +16953,6 @@ Reis
 Etwas Butter
 
 ### Zubereitung
-
 1. Das Fleisch in 2 cm große Würfel schneiden. Zwiebel, Knoblauch und Ingwer schälen, fein hacken. Chili putzen, waschen und fein schneiden. Die Kartoffeln schälen und in ungefähr 2 bis 3 cm große Stücke schneiden.
 1. Das Kokosöl in einem großen Topf schmelzen lassen, das Fleisch einen Augenblick lang anbraten. Nach ungefähr 5 Minuten Zwiebel, Knoblauch, Ingwer und Chilischote dazugeben. Dann folgen Kurkuma und Koriander. Man kann noch etwas Currypulver dazugeben oder z.B. zerdrückte Kardamonsaat, Zimtstange, zerstoßenen Pimentkörner, gemahlenen Nelken… muss man aber nicht.
 1. Unter Rühren alles einen Augenblick lang weiterdünsten. Kartoffeln in den Topf geben. Mit Kokosmilch aufgießen, die Lorbeerblätter hinzufügen. Salzen. Alles ungefähr 1 Stunde lang zugedeckt köcheln lassen. Mit Salz abschmecken. Am Ende ein wenig gehackten Koriander darüberstreuen. Dazu Reis servieren.
@@ -17522,7 +17173,6 @@ Etwas gehackter Koriander
 Currypulver zum Bestäuben
 
 ### Zubereitung
-
 1. Kalbsbratwurst in Scheiben schneiden. Rundherum goldgelb anbraten, herausnehmen und mit einem Küchenkrepp abtupfen. Zwiebeln mit den Tomaten in der Pfanne anschwitzen. Das Currypulver hinzufügen und etwa 1 Minute bei mittlerer Hitze mitrösten.
 1. Mit Mango-Chutney und Sweet Chili Sauce ablöschen und den Herd ausschalten. Die Bratwurst wieder in die Pfanne geben und in der Sauce schwenken. Mit Fleur de Sel und Koriander verfeinern. Mit Currypulver bestäuben. 
 
@@ -17731,7 +17381,6 @@ Sonnenblumenöl
 Abgeriebene Schale von ½ Bio-Orange
 
 ### Zubereitung
-
 1. Das Fleisch in mundgerechte Stücke schneiden. Sellerie schälen und in kleine Würfel schneiden. Karotten putzen und würfeln. Zwiebeln schälen und in Ringe schneiden. 
 1. In einem großen Topf mit schwerem Boden die Butter in dem Öl schmelzen lassen. Fleisch dazugeben und von allen Seiten anbraten. Fleisch aus der Pfanne nehmen und beiseite stellen.
 1. Gemüse im verbliebenen Fett anbraten, eventuell etwas Öl hinzugießen. Lorbeer, Pfeffer, Nelke und Salz dazugeben und unter Rühren ungefähr 5 Minuten lang etwas Farbe annehmen lassen. Fleisch wieder beifügen.
@@ -17768,7 +17417,6 @@ Ungefähr 600 g Pasta
 Parmesan nach Geschmack
 
 ### Zubereitung
-
 1. Das Fleisch wird zunächst mit etwas Mehl bestäubt und dann in einem schweren Topf in Olivenöl scharf anbraten. Wenn das Fleisch eine braune Farbe angenommen hat, aus dem Topf nehmen, beiseitestellen.
 1. Karotten und Sellerie schälen und klein schneiden, Zwiebeln in Streifen schneiden und im selben Topf anschwitzen. Mit etwas Rotwein ablöschen, Fleisch wieder dazugeben, den restlichen Rotwein (eventuell etwas Portwein) und Fond dazugießen, sodass das Fleisch von der Flüssigkeit gerade bedeckt ist. Den Topf zudecken, das Ragout bei mittlerer Hitze köcheln lassen.
 1. Nach 30 Minuten gibt man die Gewürze dazu. Eine Stunde später ist das Ragout gar, das Fleisch sollte jetzt zart sein. Man schmeckt mit Salz, Pfeffer und vielleicht noch ein bisschen Portwein ab.
@@ -17850,7 +17498,6 @@ Info:	Dazu passen Spätzle ganz gut.
 Etwas frisch geriebenen Parmesan zum Servieren
 
 ### Zubereitung
-
 1. Fleisch in 1 cm große Würfel schneiden. Zwiebeln schälen, in Ringe schneiden. Karotte in kleine Stücke schneiden, Sellerie in Scheibchen. Wacholderbeeren und Pfefferkörner leicht andrücken. 
 1. In einem Schmortopf den gewürfelten Speck anbraten. Fleisch dazugeben und ebenfalls anbraten. Dann das Gemüse dazugeben und mitbraten. Mit Wein ablöschen, also in zwei bis drei Schritten dazugießen und warten, bis die Flüssigkeit verdampft ist. Dann Tomaten, Lorbeer, Wacholder, Pfefferkörner und Salz hinzufügen. 
 1. Bei kleiner Hitze 1,5 Stunden lang schmoren lassen. Ab und zu etwas Wasser hinzugießen. Das Ragout mit Pasta und Parmesan servieren.
@@ -17898,7 +17545,6 @@ Etwas Salz
 Etwas Salz
 
 ### Zubereitung
-
 1. Für den Brotteig alle Zutaten bis auf das Salz am Vortag für etwa 10 Stunden in Wasser einweichen.
 1. Für die Ente Öl in eine große Pfanne geben und erhitzen, dann Senfkörner, Ingwer, Chilischoten und Curryblätter hinzugeben, anschließend das Kurkumapulver. Kurz anbraten.
 1. Dann die Entenbrust hineinlegen. Zuerst mit der Haut nach unten, dann von beiden Seiten anbraten, bis sie goldbraun ist. Anschließend so viel Wasser hinzugeben, dass die Ente bedeckt ist, und mit einem Deckel schließen. 90 Minuten bei mittlerer Hitze kochen lassen. Dann das Kochwasser abschütten und die Ente in eine Schale geben und mit zwei Gabeln in Stücke reißen.
@@ -17920,7 +17566,6 @@ Sonnenblumenöl
 1 TL Kokosblütenzucker
 
 ### Zubereitung
-
 1. Die Hautseite mit einem Messer einritzen, die Entenbrust mit Salz und Pfeffer würzen und auf der Hautseite etwa 4 Minuten bei mittlerer Hitze knusprig anbraten. Entenbrust wenden und auf der Fleischseite etwa 1 Minute anbraten. Herausnehmen und auf ein Gitter mit Backblech setzen. 15 Minuten im vorgeheizten Backofen bei 125°C garen. Backofen ausschalten und die Türe ganz öffnen und in der Restwärme die Entenbrust 10 Minuten ruhen lassen.
 1. Honig mit Austernsauce, Sojasauce und Kokosblütenzucker verrühren, bis sich der Zucker aufgelöst hat. Die E3 Minuten vor dem Servieren mit der Mischung einpinseln und mit der Grillfunktion knusprig grillen. Achtung: die Sauce kann leicht verbrennen.
 1. Dazu passt sehr gut Kokos-Klebreis.
@@ -18148,7 +17793,6 @@ Je 2 Scheiben Ingwer und Knoblauch
 20 g kalte Butter
 
 ### Zubereitung
-
 1. Für die Ente den Backofen auf 140 Grad vorheizen. Die Zwiebel schälen und in große Würfel schneiden. Den Apfel waschen, halbieren, das Kerngehäuse entfernen und das Fruchtfleisch ebenfalls in grobe Würfel schneiden. Zwiebel- und Apfelstücke vermischen und mit Salz, Pfeffer und 1 Prise Majoran würzen. Von der Ente die Flügelknochen abschneiden und alle Innereien entfernen. Innen und außen waschen und trocken tupfen.
 1. Die Bauchhöhle der Ente mit der Zwiebel-Apfel-Mischung füllen. Die Ente mit der Bauchseite nach oben in einen Bräter legen und die Flügelknochen dazugeben. Die Brühe angießen und die Ente zugedeckt im Ofen auf der untersten Schiene etwa 3,5 Stunden garen, bis die Haut hell und das Fleisch weich ist. Das dabei austretende Fett zwischendurch abschöpfen und beiseitestellen. Die Ente aus dem Bräter nehmen, die Brühe weitgehend entfetten und für die Sauce beiseitestellen.
 1. Die Backofentemperatur auf 220 Grad erhöhen. Von der Ente die Brüste und die Keulen auslösen und aus den Keulen die Oberschenkelknochen entfernen. Die Füllung aus der Bauchhöhle entfernen. Entenkarkasse und Flügelknochen mit einer Geflügelschere zerkleinern, auf ein Backblech legen und im Ofen auf mittlerer Schiene etwa 20 Minuten knusprig braun braten. Ausgetretenes Fett entfernen.
@@ -18174,7 +17818,6 @@ Etwas Olivenöl
 Baguette, Ciabatta oder Fladenbrot
 
 ### Zubereitung
-
 1. Den Strunk der Tomaten großzügig entfernen und die Tomaten kreuzförmig einschneiden. Um die Tomaten zu häuten, etwa 1,5 l Wasser kochen. Tomaten in einer Schüssel oder einem Topf mit dem kochenden Wasser vollständig übergießen. Etwa 1 Minute im heißen Wasser lassen. Dann in kaltem Wasser abschrecken. Nun lässt sich die Haut leicht abziehen. Tomaten grob schneiden.
 1. In einer hohen Pfanne etwas Olivenöl erhitzen, die Tomaten und je einen TL Salz und Zucker hinzugeben. Bei mittlerer Hitze ca. 30 bis 40 Minuten köcheln lassen, bis die Soße gut eingedickt ist.
 1. Die Eier aufschlagen, nur leicht verkleppern. Man sollte noch gut Eigelb und Eiweiß unterscheiden können. Eier in die Soße geben und vorsichtig unterheben. Bei niedriger Hitze 3 – 5 Minuten stocken lassen. Hin und wieder vorsichtig umrühren. Nicht zu oft, damit größere Stücke Ei erkennbar bleiben.
@@ -18197,7 +17840,6 @@ Baguette, Ciabatta oder Fladenbrot
 1 Grill
 
 ### Zubereitung
-
 1. Schalotten und Öl in eine mittelgroße Bratpfanne geben und auf niedriger Stufe unter häufigem Rühren etwa 20 Minuten sanft bräunen. Vom Herd nehmen und auf Zimmertemperatur abkühlen lassen.
 1. Den Grill für direkte starke Hitze vorbereiten. Zutaten für die Burger in einer großen Schüssel behutsam vermischen und daraus 4 Burger von gleicher Größe und Dicke formen. In die Mitte jedes Burgers eine Vertiefung für den Käse drücken.
 1. Die Rinde des Bries nach Belieben abschneiden. In jeden Burger etwa 10 g Käse drücken und gut verschließen. Der Käse sollte oben und unten von mindestens 8 mm Hackfleisch umschlossen sein, damit er beim Grillen nicht ausfließt. 
@@ -18226,7 +17868,6 @@ Für die Burger:
 3 Tomaten, in dünne Scheiben geschnitten
 
 ### Zubereitung
-
 1. Zutaten für die Paste pürieren. 
 1. Den Grill für direkte starke Hitze vorbereiten. In einer großen Schüssel Lammfleisch, Kräuter, Salz und Pfeffer vorsichtig vermengen. Aus der Masse 6 möglichst gleichförmige Burger von 10 cm Durchmesser und 2 cm Dicke formen und mit einem Löffel eine etwa 2,5 cm breite Vertiefung in die Mitte jedes Burgers drücken. 
 1. Den Grillrost mit der Bürste reinigen. Die Burger über direkter starker Hitze bei geschlossenem Deckel 8 – 10 Minuten grillen, bis sie halb durch sind. Einmal wenden. Während der letzten Grillminute den Käse auf den Burgern weich werden lassen, gleichzeitig die Brötchen rösten.
@@ -18251,7 +17892,6 @@ Senf
 1 Grill
 
 ### Zubereitung
-
 1. Das Öl in einer großen Bratpfanne auf mittlerer Stufe erhitzen. Die Zwiebel hinzufügen und mit Zucker bestreuen. Bei geschlossenem Deckel 15-20 Minuten braten, bis die Zwiebeln goldbraun und weich sind. Gelegentlich umrühren. Brotscheiben mit Butter bestreichen und beiseitestellen.
 1. Den Grill für direkte starke Hitze vorbereiten. In einer Schüssel das Hackfleisch mit der Worcestersauce, 1 TL Salz und dem Pfeffer gut vermischen. Aus der Masse sechs 2 cm dicke Burger formen. Mit einem Teelöffel eine 2,5 cm breite Mulde in jeden Burger drücken.
 1. Den Grillrost mit der Bürste reinigen. Die Burger über direkter starker Hitze bei geschlossenem Deckel 8-10 Minuten grillen, bis sie halb durch sind. Einmal wenden. Die Burger auf eine Arbeitsfläche legen. Die Grilltemperatur auf mittlere Hitze absinken lassen, Die Brotscheiben 1 Minuten über direkter mittlerer Hitze nur auf einer Seite grillen. Das Brot mit der getoasteten Seite nach oben auf eine Arbeitsfläche legen.
@@ -18310,7 +17950,6 @@ Salz, Pfeffer, Muskat
 Salz
 
 ### Zubereitung
-
 1. Sämtliche Zutaten für die Füllung, ohne den Käse, in einer großen Schüssel mit 1 TL Salz vermengen. Die erste Tortilla auf die Arbeitsfläche auf die Arbeitsfläche legen und auf einer Hälfte 1/8 der Füllung verteilen, dabei einen 5 mm breiten Rand frei lassen. Die Hackmasse mit etwa 10 g Käse bestreuen und die Tortilla zusammenklappen, sodass ein Halbkreis entsteht. Behutsam, andrücken, damit sich die Füllung darin gleichmäßig und etwa 1 – 1,5 c, dick verteilt. Die restlichen Tortillas ebenso füllen.
 1. In einer großen beschichteten Pfanne 1 EL Olivenöl bei niedriger bis mittlerer Temperatur erhitzen. Sobald es heiß ist, zwei gefüllte Tortillas hineinlegen und 2 – 3 Minuten sanft braten. Umdrehen und weitere 2 – 3 Minuten garen, bis die Tortillas von beiden Seiten goldbraun sind und die Füllung durchgegart ist. Auf einen Teller legen, leicht salzen und beiseitestellen. Die Pfanne sorgfältig mit Küchenpapier auswischen und auf die gleiche Weise in dem restlichen Öl die übrigen Tortillas braten.
 1. Den Sumach mit 2 TL Öl verrühren. Die Tortillas leicht mit dem Sumach-Öl besteichen und warm oder kalt servieren.
@@ -18389,7 +18028,6 @@ Saft und fein abgeriebene Schale von 1 Biozitrone
 Ca. 500 ml Olivenöl
 
 ### Zubereitung
-
 1. Tomaten kurz mit kochendem Wasser überbrühen, kalt abschrecken und häuten. Feta in Würfel schneiden. Mit Tomaten, Zitronenschale und -saft mischen. Fenchelsamen im Mörser grob zerstoßen. Blättchen von 3 Stielen Oregano fein schneiden. Mit den Fenchelsamen zu den Tomaten geben. 1 Stunde unter gelegentlichen Schwenken marinieren.
 1. In jedes heiß ausgespültes Glas 2 Stiele Oregano geben. Tomaten, Fetawürfel und Marinade auf die Gläser verteilen. Mit Olivenöl aufgießen. Eingelegte Tomaten im Kühlschrank lagern, etwa 2 Stunden vor dem Servieren aus dem Kühlschrank nehmen.
 
@@ -18408,7 +18046,6 @@ Meersalz
 250 g reifer Camembert
 
 ### Zubereitung
-
 1. Zwetschgen waschen, vierteln und entsteinen. Pfefferkörner im Mörser leicht zerdrücken und mit Rohrzucker, Essig, Rotwein, Portwein und 2 Messerspitzen Salz in einer Pfanne sirupartig einköcheln. Die Zwetschgenstücke dazugeben und etwa 2 – 3 Minuten im Sirup garen. Abkühlen lassen und mindestens eine Nacht bei Zimmertemperatur durchziehen lassen.
 1. Backofen auf 170 Grad (Umluft 150 Grad) vorheizen. Ein Blech mit Backpapier auslegen. Baguette diagonal in möglichst dünne Scheiben schneiden und auf dem Backblech verteilen. Mit Olivenöl beträufeln, salzen und einige Minuten im Ofen goldgelb backen. Den Camembert vierteln und mit den Zwetschgen und Brotchips servieren.
 
@@ -18429,7 +18066,6 @@ Salz, Pfeffer
 Etwas Brühe
 
 ### Zubereitung
-
 1. Die kernigen Haferflocken mit Milch bedecken und ca. eine halbe Stunde einweichen (am besten gleich in der Teigschüssel). Danach eventuell übrige Milch abtropfen lassen. Die Zwiebel reiben oder sehr fein schneiden. Mit dem Käse und dem Ei verrühren und mit frischen oder getrockneten Kräutern und den Gewürzen abschmecken. Bei mittlerer Hitze in Öl je 2 EL ausbreiten und goldbraun braten.
 1. Dazu eine bunte Salatschüssel oder Blechkartoffeln reichen.
 
@@ -18445,7 +18081,6 @@ Salz, schwarzer Pfeffer
 300 g Reblochon (oder andere gereifter Weichkäse aus Kuhmilch)
 
 ### Zubereitung
-
 1. Die Kartoffeln mit Schale im Salzwasser garkochen. Abgießen, abkühlen lassen und schälen. Zwiebeln schälen, in Streifen schneiden. In einer Pfanne etwas Butter zergehen lassen, die zwiebeln darin anschwitzen. Salzen und mit Weißwein ablöschen. Pfanne zudecken, die Zwiebeln ungefähr 25 Minuten lang dünsten.
 1. In einer anderen Pfanne Speck anbraten, mit den Zwiebeln vermengen, eine großzügige Prise Pfeffer unterrühren. Die Hälfte dieser Mischung in einer Auflaufform verteilen. Die Kartoffeln in 1 cm dicke Scheiben schneiden und in die Form geben, es folgen die restlichen zwiebeln. Käse in Tortenviertel zerteilen und dann längs halbieren. Mit der Schale (die essbar sein sollte) nach oben auf die kartoffel-Zwiebel-Mischung legen. Bei 180°C 30 Minuten lang backen.
 
@@ -18462,7 +18097,6 @@ Butter
 Ca. 120 g würziger Schnittkäse (Gruyère, alter Cheddar, Bergkäse), schwarzer Pfeffer
 
 ### Zubereitung
-
 1. Zwei Scheiben Brot mit Butter bestreichen, eine (gusseiserne) Pfanne bei mittlerer Temperatur heiß werden lassen, die Brotscheiben mit der Butter nach unten in die Pfanne legen. Den Käse in Scheiben schneiden und auf den beiden Broten verteilen. Schwarzer Pfeffer darüber geben. Die anderen beiden Brotscheiben darauflegen, mit der Butterseite nach oben. Das Brot ungefähr 4 Minuten lang braten. Die Hitze im mittleren Bereich lassen, das Brot soll langsam Farbe annehmen und nicht schwarz werden. Dann die Brotscheiben wenden und weitere 4 Minuten braten lassen, bis der Käse geschmolzen ist.
 
 ## Camembert mit Zitrone aus dem Ofen
@@ -18479,7 +18113,6 @@ Schale von 1 Bio-Zitrone (sehr fein gehackt)
 Schwarzer Pfeffer
 
 ### Zubereitung
-
 1. Backofen auf 200 Grad Umluft heizen. Den Käse in eine ofenfeste Form legen; sie sollte möglichst passgenau sein, falls der Käse ausläuft. Man kann dafür auch die Spannholzform nehmen, in der der Camembert meist verkauft wird. 
 1. Den Käse sternförmig 1 cm tief einritzen. In die Spalten drückt man Rosmarinblättchen, Zitronenschale, Knoblauchscheibchen möglichst so tief, dass sie nicht mehr herausragen (damit sie nicht verbrennen). Käse mit Olivenöl und Weißwein beträufeln.
 1. Den Camembert ungefähr 20 bis 25 Minuten lang im Ofen backen. Zum Schluss schwarzen Pfeffer darüberstreuen.
@@ -18555,7 +18188,6 @@ Salz, Pfeffer
 150 g Frischkäse
 
 ### Zubereitung
-
 1. Backofen auf 200 Gard vorheizen.
 1. In einem mittelgroßen Topf Wasser zum Kochen bringen. Die Enden des Spargels abschneiden, Stangen in drei etwa gleich große Stücke zerteilen. Spargel in den Topf geben, zwei Minuten lang kochen lassen, dann herausnehmen.
 1. Blätterteig in sechs gleich große Quadrate schneiden, die man auf ein mit Backpapier ausgelegtes Blech gibt. Mit einem Messer ringsum einritzen, und zwar einen Zentimeter vom Rand entfernt. Die Randstreifen mit verquirltem Ei bestreichen.
@@ -18678,7 +18310,6 @@ Salz, Pfeffer, Muskat
 1 Zitronen, geviertelt, zum Servieren
 
 ### Zubereitung
-
 1. Vom frischen Maiskolben die Blätter und das Stroh abziehen. Einen Topf Wasser zum Kochen bringen und due Kolben hineingeben. Etwa 8 Minuten kochen, bis sie gar sind. Abgießen und unter kaltem Wasser abschrecken. Mit dem stumpfen ende in eine flache Schale stellen. Die Spitze mit einer Hand sicher festhalten und die Körner mit einem scharfen Messer eng am Kolben entlang nach unten abschneiden.
 1. Eine große Pfanne erhitzen und den Kreuzkümmel hineingeben, 1 Minute unter Rühren anrösten, bis er duftet, dann die Butter hinzufügen. Die Temperatur erhöhen und den Mais hineingeben, sobald die Butter leicht raucht. 6 – 8 Minuten braten, dabei nur wenig rühren, damit der Mais karamellisieren kann. Er sollte aber nicht aufplatzen. Wenn der Mais eine kräftige dunkle Farbe hat, Pfeffer, Cayennepfeffer, Salz und Zitronensaft hinzugeben und die Flüssigkeit verkochen lassen.
 1. Den Mais auf vier Teller verteilen und rote Zwiebel, Koriander und Sev darauf verteilen. Mit etwas Cayennepfeffer bestreuen und mit einer Zitronenspalte servieren.
@@ -18701,7 +18332,6 @@ Etwas Salz
 Abgeriebene Schale 1 Zitrone
 
 ### Zubereitung
-
 1. alle Zutaten bis auf die Zitronenschale in einer Schüssel vermengen. Abschmecken: Fehlt Salz? Fehlt Schärfe? Fehlt Süße? Ihr entscheidet! 
 1. Nüsse auf einem mit Backpapier ausgelegten Blech verteilen. Bei 160°C backen. Währenddessen ab und zu wenden, sodass sie gleichmäßig bräunen. Ab ca. 12 Minuten genau beobachten und schnell reagieren, nicht dass die Nüsse verbrennen. (Meine Spezialität 😊)
 1. Wenn man die Cashew aus dem Ofen herausholt, sind sie noch etwas weich, mit dem Abkühlen erden sie knusprig. Dann ist der Moment gekommen, in dem man den Abrieb der Zitrone unterrührt.
@@ -18715,7 +18345,6 @@ Salz
 Rosenscharfes Paprikapulver
 
 ### Zubereitung
-
 1. Die Mandeln portionsweise im heißen öl bei mittlerer Hitze goldgelb rösten.
 1. Alle gerösteten Mandeln wieder in die Pfanne schütten, mit Salz und Paprika würzen und noch kurz weiterrösten.
 
@@ -18733,7 +18362,6 @@ Rosenscharfes Paprikapulver
 2 EL Kichererbsenmehl
 
 ### Zubereitung
-
 1. Den Backofen auf 150°C vorheizen und zwei Backbleche mit Backpapier auslegen.
 1. Die Nüsse mit dem Öl in eine große Rührschüssel geben und gründlich vermengen, bis sie rundum mit dem Öl überzogen sind. In einer zweiten Schüssel die übrigen Zutaten mischen, dann zu den Nüssen geben und alles vermengen.
 1. Die Nüsse auf die beiden Bleche verteilen und 30 Minuten backen. Nach der Hälfte der Zeit durchrühren, damit sie gleichmäßig rösten.
@@ -18772,7 +18400,6 @@ Eine gute Prise schwarzer Pfeffer
 2 EL Butter
 
 ### Zubereitung
-
 1. Den Ofen auf 170 Grad Umluft heizen. Ein Backblech mit Backpapier belegen. Die Nüsse in eine Schüssel geben. Man kann einen Teil der Cashewnüsse auch durch Walnüsse, Macadamianüsse und Mandeln ersetzen. Den Nüssen fügt man Zucker, Kumin, Cayennepfeffer, fein gehackten Rosmarin, Ahornsirup, Salz und Pfeffer hinzu. Die Butter langsam auf dem Herd zergehen lassen zu den Nüssen gießen. Alles vermengen.
 1. Die Nüsse auf dem Backblech verteilen. Für 10 bis 15 Minuten in den Ofen geben, ein- bis zweimal die Nüsse wenden. Am Ende der Garzeit darauf achten, dass die Nüsse nicht zu dunkel werden. Aus dem Ofen nehmen und abkühlen lassen.
 
@@ -18786,7 +18413,6 @@ Salz, Pfeffer
 4 EL Zitronensaft
 
 ### Zubereitung
-
 1. Von den Kirschtomaten die Deckel abschneiden und die Kerne mit einem Teelöffel entfernen.
 1. Den Großteil der Minze hacken, ein paar ganze Blättchen für die Garnierung beiseitelegen. Die gehackte Minze mit Ricotta und Zitronensaft verrühren und mit Salz und Pfeffer abschmecken.
 1. Die Ricottafüllung mit dem Teelöffel in die Tomaten füllen. Die gefüllten Tomaten auf einer Servierplatte anrichten und mit den restlichen Minzeblättchen garnieren.
@@ -18928,7 +18554,6 @@ Zwiebeln schälen und in sehr dünne Ringe schneiden. In einem Topf Wasser, Essi
 2 EL grobes Meersalz
 
 ### Zubereitung
-
 1. Die beiden Enden der Zitrone entfernen. Die Zitrone längs vierteln, aber nur so weit, dass sie nicht auseinanderfällt. In die Öffnung das Salz drücken. Die Zitrone in ein sterilisiertes Glas geben, fest auf den Boden drücken. Mit fast kochend heißem Wasser auffüllen.
 1. Nach vier Wochen ist die Salz-Zitronen fertig (manchmal dauert es auch zwei Wochen länger). Die Schale wird dann klein geschnitten, sie schmeckt toll zu einem Schmorhühnchen mit Oliven und anderen Eintöpfen und in bitteren Salaten wie Radicchio und Endivie.
 
@@ -18987,7 +18612,6 @@ Salz, Meersalzflocken
 1 rote Chilischote, fein gehackt
 
 ### Zubereitung
-
 1. Für den Dip den Knoblauch mit Kurkuma und 1/8 TL Meersalzflocken im Mörser zu einer groben Paste zerstoßen. Reiswein, Limettensaft und Chili unterrühren. Bis zum Servieren beiseitestellen.
 1. Die Buttermilch mit Essig und Kurkuma verrühren. Beiseitestellen. Das Mehl mit Schwarzkümmel. Kümmel, Limettenschale und 1 TL Salz mischen. Portionsweise Zwiebelring und Frühlingszwiebeln erst in die Mehl-, dann in die Buttermilchmischung tauchen. Herausheben und kurz abtropfen lassen, dann noch einmal in das Mehl tauchen und anschließend mit etwas Abstand zueinander auf einem Gitter abtropfen lassen.
 1. Das Öl in einer großen Pfanne mit hohem Rand bei mittlerer bis hoher Temperatur erhitzen. Zwiebelringe und Frühlingszwiebeln darin 2-3 Minuten ausbacken, bis sie knusprig und goldbraun sind; nach der Hälfte der Zeit wenden. Mit einem Schaumlöffel auf ein mit Küchenpapier ausgelegtes Blech/Gitter heben. Mit reichlich Meersalzflocken bestreuen. Mit dem Dip und den Limettenspalten servieren.
@@ -19008,7 +18632,6 @@ Salz
 1 EL Zitronensaft
 
 ### Zubereitung
-
 1. Den Backofen auf 180 Grad vorheizen und zwei Backbleche mit leicht eingeölter Alufolie belegen. Ingwer, Chili und Kreuzkümmelsamen mit 1 kleinen Prise Salz in einen Mörser geben und zu einer groben Paste zerstoßen. Beiseitestellen.
 1. Die Zwiebeln schälen und halbieren, dann in 5 mm dicke Scheiben schneiden. Das Öl in einer großen Pfanne erhitzen und die Zwiebeln bei mittlerer Hitze unter gelegentlichem Rühren 15 Minuten darin anschwitzen, bis sie glasig sind und sich mit einem Holzlöffel zerteilen lassen.
 1. Die Zwiebeln in eine Schüssel geben und die Ingwer-Chili-Paste, Kichererbsenmehl, Koriandergrün, Cayennepfeffer, gemahlenen Koriander, Kurkuma, Zitronensaft und 1,5 TL Salz hinzugeben. Gründlich vermengen und nach und nach bis zu 30 ml Wasser hinzugießen, bis ein sehr dickflüssiger Teig entsteht.
@@ -19041,7 +18664,6 @@ Zucker
 ½ TL Chiliflocken
 
 ### Zubereitung
-
 1. Die Mango schälen und das Fruchtfleisch vom Kern schneiden. Die Hälften in Stücke schneiden.
 1. Zucker, Salz und Chiliflocken miteinander mischen. Die Mangostücke damit bestreuen oder sie in diese Zuckermischung dippen.
 
@@ -19077,7 +18699,6 @@ Meersalzflocken
 400 ml Olivenöl
 
 ### Zubereitung
-
 1. Eine große beschichtete Pfanne bei hoher Temperatur vorheizen (denkt ans Lüften😊). Sobald die Pfanne raucht, die Hitze etwas herunterstellen. Chilis, Knoblauch, Chilischoten, Limetten- und Zitronenschale hineingeben und rösten, bis die Zutaten stellenweise sehr dunkel sind und einen kräftigen Duft verströmen. Das dauert ca. 3 Minuten bei den Zitrusschalen, 4 Minuten beim Knoblauch und 9 Minuten bei den Chilis. die Zutaten herausnehmen, wenn sie soweit sind.
 1. Sämtliche geröstete Zutaten in einem mittelgroßen Topf mit Koriander und Kreuzkümmel, Limetten- und Zitronensaft, Olivenöl und 2 TL Meersalzflocken vermengen und bei niedriger Temperatur etwa 4 Minuten erhitzen, bis das Öl leicht zu sieden anfängt. Vom Herd nehmen und die Zutaten in dem Öl mit einem Kartoffelstampfer zerstampfen, damit sie Aroma und Öl abgeben, Die Bohnen unterrühren und beiseitestellen.
 1. Nach dem Abkühlen alles in ein großes Einmachglas füllen und im Kühlschrank aufbewahren. Die Bohnen mindestens noch 2 Stunden oder über Nacht durchziehen lassen.
@@ -19183,7 +18804,6 @@ Die Paprikschoten waschen und für ca. 20 Minuten bei 180 Grad im Backofen blanc
 3 EL Rapsöl
 
 ### Zubereitung
-
 1. Tomaten, Zwiebel, Chilis und Koriander fein hacken. Mit Salz und Limettensaft in eine Schüssel geben und gut durchrühren. Bis zur Verwendung kaltstellen (wird mit der Zeit nur besser).
 1. Für die Papadams den Backofen auf 160 Grad vorheizen und zwei Backbleche mit leicht eingeölter Alufolie belegen. Das Mehl mit Schwarzkümmel, Pfeffer, Salz, Kreuzkümmel und Cayennepfeffer in eine Schüssel geben. Gründlich mischen, dann das Öl hinzufügen und die Masse mit den Fingern zu einem fein krümeligen Teig verarbeiten.
 1. Eine Mulde in die Mitte drücken und unter Rühren nach und nach 100 ml Wasser dazugießen. Den Teig kneten, bis er sich zu einer Kugel formen lässt und sich leicht klebrig anfühlt. Aus der Schüssel heben, fest in Frischhaltefolie einschalen und 30 Minuten ruhen lassen.
@@ -19259,7 +18879,6 @@ Salz
 Pfeffer
 
 ### Zubereitung
-
 1. Man heizt den Ofen auf 200°C Umluft vor. Dann stellt man einen Brandteig her: Man gibt Wasser und Butter in einen Topf, salzt etwas und bringt die Flüssigkeit zum Kochen. Wenn das Wasser sprudelt, Mehl dazu schütten, sofort kräftig umrühren, bis ein glatter Teig entsteht. Das dauert nur wenige Minuten. Den Topf vom Herd nehmen.
 1. Eier einzeln aufschlage und in den Teig rühren. Den Käse reiben oder in etwa ½ cm große Würfel schneiden und unter den Teig heben. Diesen pfeffern.
 1. Mit zwei Teelöffeln aus dem Teig Knödel in der Größe einer Walnuss formen und auf ein mit Backpapier ausgelegtes Blech setzen. Dabei genügend Abstand zwischen den einzelnen Windbeuteln lassen, denn sie gehen auf und verdoppeln ihr Volumen. 
@@ -19299,7 +18918,6 @@ Etwas Salz
 Etwa 20 blanchierte Mandeln zum Dekorieren
 
 ### Zubereitung
-
 1. Man röstet dafür zunächst Mandeln ohne Fett in der Pfanne, Mandeln dann hacken. In einer Schüsselwerden klein gewürfelte Butter, Parmesan, Thymian, Mehl und etwas Salz vermengt. Die Krümel, die so entstehen, fügt man zu einem Teig zusammen, der kurz geknetet wird. Teig 5 mm dick ausrollen und Kreise mit ungefähr 4 cm Durchmesser ausstechen. Die Kekse verteilt man auf einem mit Backpapier ausgelegtem Blech. Eine Mandelhälfte auf jeden Keks geben, dann 15 bis 20 Minuten bei 150°C backen.
 1. Bevor man die Kekse serviert, kann man sie im Ofen noch einmal kurz aufwärmen.
 
@@ -19391,7 +19009,6 @@ Butter für das Blech
 1/2 TL gemahlener Kreuzkümmel
 
 ### Zubereitung
-
 1. Minze waschen und fein hacken. Frühlingszwiebeln und Chili putzen und ebenfalls sehr fein zerkleinern.
 1. Den Schafskäse mit einer Gabel fein zerdrücken, mit Frischkäse, Frühlingszwiebeln, Chili, einem Viertel der Minze und Kreuzkümmel verkneten.
 1. Aus der Masse kleine Bällchen rollen, in der übrigen Minze wälzen. 2 Stunden kühl stellen.
@@ -19407,7 +19024,6 @@ Salz
 13 Kapseln Kardamom, fein gemörsert
 
 ### Zubereitung
-
 1. Für die Käsestangen den Ofen auf 180 Grad (Umluft 160 Grad) vorheizen. Blätterteigplatten auf die jeweils doppelte Größe ausrollen. Eigelb und Milch verquirlen. Eine Teigplatte dünn mit der Hälfte davon einpinseln. 
 1. Ziegenkäse darüber bröseln, mit Salz würzen und die Hälfte des Kardamoms darüberstreuen. Zweite Teigplatte darauflegen. Teige mit dem Nudelholz zusammenwalzen. Die Oberseite der Teigplatte mit übrigem Eigelb bepinseln und restlichen Kardamom darüberstreuen.
 1. Teig in ca. 1,5 cm breite Streifen schneiden. Die enden so gegeneinander verdrehen, dass eine korkenzieherartige Form entsteht. Auf mittlerer Schiene etwa 25 Minuten goldgelb backen.
@@ -19460,7 +19076,6 @@ Salz
 200 ml Erdnussöl zum Ausbacken
 
 ### Zubereitung
-
 1. Den Maiskolben einige Minuten in Salzwasser abkochen, dann die Körner mit einem großen Messer abschneiden.
 1. Reismehl, Weizenmehl, Backpulver, Salz und Zucker in eine Schüssel geben, die Eier von Hand einrühren und gut vermischen. Fischsauce und Currypaste in einer kleinen Schüssel miteinander verrühren, dann mit dem Schneebesen unter den Teig rühren. Die Maiskörner darunterziehen.
 1. Das Öl in einer Pfanne oder einem Topf erhitzen. Mit einem großen Löffel den Teig in Plätzchenform in das Öl gleiten lassen und knusprig ausbacken, dabei immer wieder wenden. Die Plätzchen mit einer Siebkelle herausnehmen und auf Zewa abtrocknen lassen.
@@ -19498,7 +19113,6 @@ Reichlich Olivenöl
 Salzflocken zum Garnieren
 
 ### Zubereitung
-
 1. In einer Schüssel mit der Hand beide Mehlsorten, 120 ml Wasser, 1 EL Olivenöl und Salz zu einem Teig vermengen. Eventuell muss man noch 1 TL Wasser dazugeben. Mit den Knethaken eines Rührgeräts die Masse sehr gut kneten, ungefähr 7 Minuten lang (nicht schummeln😊) Der Teig sollte eine fast elastische Konsistenz haben. Wenn er zu klebrig erscheint, kann man 1 TL Mehl unterkneten.
 1. Die Schüssel mit Klarsichtfolie bedecken, 1 Stunde lang bei Zimmertemperatur ruhen lassen. Ofen auf 180 Grad Umluft vorheizen. Auf einem Blech Backpapier auslegen, Teig in vier Teile teilen.
 1. Den ersten Teil auf einer leicht bemehlten Arbeitsfläche mit einem ebenso bemehlten Nudelholz sehr dünn ausrollen (ungefähr 2 mm dick). An dieser Stelle staunt man, warum der Teig so reißfest ist. ich weiß es nicht, akzeptieren wir das Wunder einfach 😊. Mit einem scharfen Messer Teig in Rechtecke schneiden, zum Beispiel 2 cm breit und 15 cm lang, oder man schneidet kleinere Quadrate. Auf sdas Backblech legen, großzügig auf beiden Seiten mit Olivenöl bepinseln. Die Oberseite mit Meersalzflocken bestreuen (vielleicht auch zusätzlich mit schwarzem Pfeffer, Oregano, was einem halt so einfällt).
@@ -19612,7 +19226,6 @@ Ein Röster ist kein Kompott, keine Konfitüre, eben ein Röster. Passt z. B. zu
 Pfeffer
 
 ### Zubereitung
-
 1. Die Trauben mit allen anderen Zutaten gut mischen. Dann auf Spieße stecken (ca. 5 – 6 Stück je Spieß) 
 1. Die Traubenspieße portionsweise in eine knallheiße Pfanne geben und jeweils etwa 2 – 3 Minuten grillen; nach der Hälfte der Zeit wenden.
 
@@ -19633,7 +19246,6 @@ Pfeffer
 Je 1 TL weiße und schwarze Sesamsamen
 
 ### Zubereitung
-
 1. Den Backofen auf 200 Grad vorheizen.
 1. Das Mehl in eine Schüssel sieben und eine Mulde in die Mitte drücken. Das Öl hineingießen, Butter, Hefe, Backpulver, Zucker, Salz und Gewürze dazugeben und die Zutaten vermengen. Nach und nach etwa 100 ml Wasser unterrühren, bis der Teig glatt ist. Anschließend einige Minuten durchkneten.
 1. Zwei Backbleche mit Backpapier auslegen. Aus dem Teig kleine Kugel formen und auf der Arbeitsfläche zu etwa 1 cm dicken und 12-15 cm langen Steigen rollen. Zu Ringen formen und im Abstand von etwa 2 cm auf die Bleche legen. Mit dem verquirlten Ei bepinseln, mit Sesam bestreuen und 30 Minuten gehen lassen.
@@ -19697,7 +19309,6 @@ Außerdem: frische Weinblätter zum dekorieren
 ½ TL Chiliflocken
 
 ### Zubereitung
-
 1. Den Teig zu zwei 3 mm dicken Quadraten mit einer Seitenlänge von 30 cm ausrollen und auf ein mit Backpapier ausgelegte Backblech legen. Das Blech anschließen d 1 Stunde in den Kühlschrank stellen.
 1. In zwei Schüsseln die Zutaten für die Füllungen verrühren. Die Samen in einer dritten Schüssel mischen.
 1. Aus den Teigquadraten jeweils neun 10 cm große Quadrate ausschneiden und die Füllungen jeweils zur Hälfte auf diese verteilen. Dabei 1 Löffel Füllung in die Mitte setzen. Zwei aneinanderstoßende Seiten am, Rand mit Ei bepinseln und die nicht bestrichenen Seiten darüberschlagen, sodass ein Dreieck entsteht. Die Luft herausdrücken und die Ränder fest zusammenpressen, damit sie sich bei Backen nicht öffnen. Die Burekas auf ein mit Backpapier ausgelegtes Blech legen und mindestens 15 Minuten in den Kühlschrank stellen. Inzwischen den Backofen auf 220 Grad vorheizen.
@@ -19725,7 +19336,6 @@ Pfeffer
 1 Packung türkischer Blätterteig (12-16 Blätter, dreieckig)
 
 ### Zubereitung
-
 1. Den Spinat waschen, abtropfen lassen, klein schneiden und in eine Schüssel geben. In einer Pfanne das Öl erhitzen, die Zwiebel schälen, klein hacken und anschwitzen. (Wer will, brät ein bisschen Knoblauch mit an). In die Schüssel zum Spinat geben und mit Salz, Paprika und Pfeffer abschmecken. Die Blätterteig-Dreiecke nebeneinander auslegen.
 1. In einer Schüssel Eier, Joghurt, Öl und Milch verquirlen. Je ein Teigdreieck mit dieser Mischung bestreichen und ein anderes Dreieck darauflegen. Jetzt auf dem spitzen Drittel der Dreiecke jeweils etwas von der Spinat-Zwiebel-Mischung verteilen. Die anderen beiden Ecken des Dreiecks einschlagen und von der Spitze her einrollen. 
 1. Auf ein gefettetes Backblech legen. Die übrige Sauce auf die Böreks streichen, mit Sesam bestreuen und im auf 200°C vorgeheizten Backofen ungefähr 15 Minuten goldbraun backen.
@@ -19914,7 +19524,6 @@ Pfeffer, Oregano, Salz
 1 Eigelb 
 
 ### Zubereitung
-
 1. Blätterteig auftauen lassen.
 1. Für die Füllung Schinken, Zwiebel und Petersilie sehr fein hacken. Mit Crème fraîche, Eiweiß und frisch geriebenen Pikantje mischen. Mit Pfeffer, Oregano und Salz würzen.
 1. Teig in 5 Teile schneiden und jeweils in einem Rechteck (15x35 cm) auswellen. Mit der Füllung bestreichen. Von der langen Seite her aufrollen.
@@ -20192,7 +19801,6 @@ Tipp:	Eignet sich als Rohkost-Dip, für gemischte Salate und Kartoffelsalat
 Salz, Zucker, Pfeffer
 
 ### Zubereitung
-
 1. Knoblauch sehr fein hacken. Thymianblättchen von den Stängeln zupfen und sehr fein schneiden. 
 1. Essig mit Öl, Salz und 1 Prise Zucker verrühren. Thymian und Knoblauch zugeben, mit Pfeffer würzen.
 
@@ -20279,7 +19887,6 @@ Schwarzer Pfeffer aus der Mühle
 Frische Kräuter z.B. Schnittlauch, Petersilie, Kerbel, Dill, Borretsch
 
 ### Zubereitung
-
 1. Schalotte und Knoblauch schälen und fein hacken.
 1. In einer Schüssel Senf mit Rotwein- und Weißweinessig und Zucker verrühren. Salz und Pfeffer hinzugeben und einige Minuten ziehen lassen.
 1. Die beiden Ölsorten mit dem Schneebesen nacheinander einrühren, sodass eine sämige Emulsion entsteht. Schalotte und Knoblauch dazugeben.
@@ -20318,7 +19925,6 @@ Schwarzer Pfeffer aus der Mühle
 50 g gehackte Walnüsse
 
 ### Zubereitung
-
 1. Schalotte und Knoblauch fein hacken und in eine Schüssel geben.
 1. Essig, Salz und Pfeffer hinzugeben, verrühren und einige Minuten rühren lassen.
 1. Die beiden Ölsorten nacheinander mit dem Schneebesen kräftig einrühren.
@@ -20369,7 +19975,6 @@ Pfeffer, Meersalz
 80 g Pinienkerne
 
 ### Zubereitung
-
 1. Für das Dressing die Kerne aus dem Granatapfel lösen. Alle Dressing### Zutaten dazugeben und zu einer glatten Mischung pürieren.
 1. Die Tomaten und die Gurken entkernen und fein hacken. Salzen und 30 Minuten in einem Sieb abtropfen lassen. Die Paprika- und Peperonischoten, die Petersilie und die Zwiebel sehr fein hacken und zusammen mit den Tomaten, den Gurken und den Pinienkernen in das Dressing geben. Alles gut mischen und zugedeckt mindestens einige Stunden, am besten jedoch über Nacht in den Kühlschrank stellen. Nach Geschmack als Salat servieren oder weiter zerkleinern und als Dip reichen. Nach Bedarf mit 1 – 2 EL Tomatenmark eindicken.
 
@@ -20406,7 +20011,6 @@ Grobes Meersalz
 80 g Senfmehl
 
 ### Zubereitung
-
 1. Lorbeer mehrmals einschneiden. Schalotte in feine Würfel schneiden, mit Lorbeer und Nelken in einen Einmalteebeutel geben und verschließen. Mit Cider und Essig zugedeckt aufkochen, bei milder Hitze 30 Minuten kochen lassen.
 1. Aprikosen in kleine Würfel schneiden. Koriander und 1 TL Salz fein zerkleinern. Senfsaat dazugeben und grob hacken.
 1. Topf von der Herdplatte nehmen, 10 Minuten abkühlen lassen. Gewürzbeutel entfernen. Nacheinander Senfmehl, Senfmischung und Aprikosen unterrühren. Senf in 3 saubere Gläser füllen und verschließen. Senf mindestens 2 Tage durchziehen lassen. 
@@ -20542,7 +20146,6 @@ Salz, Meersalzflocken, Pfeffer
 ½ EL fein gehackte Petersilie
 
 ### Zubereitung
-
 1. Den Backofen auf 200 Grad (Umluft) vorheizen.
 1. Die Knoblauchknollen mit 1 TL Öl beträufeln und mit etwas Salz und Pfeffer bestreuen. Fest in Alufolie wickeln und 40 Minuten im Ofen backen, bis die Zehen weich und goldbraun sind. Die Folie entfernen und, sobald die Knollen etwas abgekühlt sind, die weichen Zehen aus der Schale drücken.
 1. Für die Pilze eine große Grillpfanne bei hoher Temperatur erhitzen. Die Pilze hineingeben und verteilen. Etwa 8 Minuten grillen, dabei immer wieder wenden, bis überall dunkle Streifen zu sehen sind. Die Pilze mit zerdrücktem Knoblauch, Öl, Zitronenschale und -saft, Thymian und Ahornsirup, 1,5 TL Meersalzflocken und 1 kräftigen Prise Pfeffer in eine Schüssel geben und alles gut mischen.
@@ -20591,7 +20194,6 @@ Meersalzflocken
 100 ml eiskaltes Wasser
 
 ### Zubereitung
-
 1. Am Vortag die Kichererbsen gründlich waschen, in eine große Schüssel füllen, mit der doppelten Menge Wasser bedecken und über Nacht einweichen.
 1. Die Kichererbsen am nächsten Tag abgießen. Mit dem Backnatron in einen mittelgroßen Topf geben und bei starker Hitze etwa 3 Minuten unter Rühren erhitzen. 1 ½ l Wasser angießen, zum Kochen bringen und abschäumen. Je nach Sorte und Alter der Kichererbsen beträgt die Kochzeit zwischen 20 und 40 Minuten. Die Kichererbsen sollten anschließend sehr weich sein und sich mühelos zwischen Daumen und Zeigefinger zerdrücken lassen.
 1. Die Kichererbsen abgießen (das Gewicht sollte jetzt etwa 600 g betragen) und pürieren. Währenddessen Tahini, Zitronensaft, Knoblauch und Salz hinzufügen. Zum Schluss das Eiswasser langsam dazugießen und das Ganze etwa 5 Minuten verrühren, bis eine glatte, cremige Paste entstanden ist. In eine Schüssel füllen, mit Frischhaltefolie abdecken und mindestens 30 Minuten ruhen lassen. Wenn es nicht sofort verbraucht wird, im Kühlschrank aufbewahren und vor dem Servieren rechtzeitig herausnehmen.
@@ -20821,7 +20423,6 @@ Meersalz
 1,5 TL Zucker
 
 ### Zubereitung
-
 1. Das Öl in einen großen Topf geben. Knoblauch und Zwiebel darin bei mittlerer Hitze 7-9 Minuten anbraten, bis sie weich sind. Die restlichen Zutaten, 400 ml heißes Wasser und ¾ TL Salz hinzufügen. Alles etwa 25 Minuten köcheln lassen, bis die Tomaten ganz weich sind.
 1. Die Sauce glatt pürieren.
 
@@ -20834,7 +20435,6 @@ Meersalz
 2 EL Limettensaft
 
 ### Zubereitung
-
 1. Soviel Wasser wie möglich aus den Gurkenraspeln drücken. Es sollten 180 g ausgedrückte Raspeln übrig bleiben.
 1. In eine große Schüssel geben und die restlichen Zutaten sowie 1/3 TL Salz unterrühren. Bis zum Servieren kalt stellen.
 
@@ -20868,7 +20468,6 @@ Tomaten in feine Würfel schneiden, Stielansätze dabei entfernen. Mango schäle
 Saft von ½ Limette
 
 ### Zubereitung
-
 1. Den Backofen auf 200 Grad (Gas Stufe 6) vorheizen.
 1. Tomaten, Paprika mit den Schnittflächen nach unten auf ein Backblech legen und etwa 30 Minuten rösten, bis sie leicht geschwärzt sind. Aus dem Ofen nehmen und etwas abkühlen lassen. Wenn sie kühl genug sind, um sie mit den Händen anzufassen, Tomaten und Paprika häuten und das Fruchtfleisch pürieren, dann die restlichen Zutaten einrühren. Nach Belieben abschmecken.
 1. Die Salsa hält sich luftdicht verschlossen im Kühlschrank mehrere Wochen.
@@ -21009,7 +20608,6 @@ Saft von ½ Zitrone
 Weißbrot zum Servieren
 
 ### Zubereitung
-
 1. Den Backofen auf 200 Grad Umluft vorheizen. 
 1. Paprikaschoten halbieren, Stiel und Kerne entfernen, Paprikahälften vierteln, auf ein mit Backpapier ausgelegtes Blech setzen, mit Olivenöl benetzen, salzen und im heißen Ofen ungefähr 25 Minuten lang backen. 
 1. Währenddessen Walnüsse und Kreuzkümmel ungefähr 5 Minuten lang in einer beschichteten Pfanne ohne Fett rösten. Weißbrot toasten (man kann auch welches vom Vortag nehmen, dann entfällt das Toasten), grob zerbröseln. Paprika aus dem Ofen holen.
@@ -21037,7 +20635,6 @@ Je ½ TL helle und dunkle Sesamsamen (oder nur helle)
 Salz
 
 ### Zubereitung
-
 1. Den Backofen auf 200 Grad vorheizen.
 1. Die Kürbisstücke in einer ofenfesten Form oder in der Fettpfanne des Backofens verteilen, mit dem Olivenöl beträufeln und mit Zimt und ½ TL Salz bestreuen. Das Ganze gut durchmischen, mit Alufolie abdecken und den Kürbis für 70 70 Minuten in den Backofen schieben. Die Stücke nach der Hälfte der Zeit wenden. Anschließend aus dem Ofen nehmen und abkühlen lassen.
 1. Den Kürbis mit Tahini, Joghurt und Knoblauch grob pürieren, mit der mit Gabel oder dem Kartoffelstampfer zerdrücken.
@@ -21059,7 +20656,6 @@ Kerne von ½ Granatapfel
 Salz und Pfeffer
 
 ### Zubereitung
-
 1. Die Auberginen im Backofen rösten, dabei zunächst mehrfach mit einem Messer einige Zentimeter tief einstechen. Dann auf ein Backblech legen und für 1 Stunde unter den heißen Backofengrill schieben, bis sie aufplatzen und zerfallen. Die Auberginen dabei etwa alle 20 Minuten wenden.
 1. Die Auberginen etwas abkühlen lassen. Eine Öffnung hineinschneiden, das Fruchtfleisch herauslösen und mit den Händen in lange dünne Streifen zerteilen. Die Schalen wegwerfen. Das Fruchtfleisch mindestens 1 Stunde in einem Sieb abtropfen lassen, um ihm die Flüssigkeit möglichst vollständig zu entziehen. Danach sollten etwa 500 g Fruchtfleisch übrig sein.
 1. Das Fruchtfleisch in einer mittelgroßen Schüssel mit Knoblauch, dem größten Teil der Zitronenschale, Zitronensaft, Olivenöl, ½ TL Salz sowie frisch gemahlenem Pfeffer vermengen. Anschließend mindestens 1 Stunde bei Zimmertemperatur durchziehen lassen.
@@ -21083,7 +20679,6 @@ Olivenöl
 Gehackte Petersilie, Pinienkerne, Sumach, Granatapfelkerne
 
 ### Zubereitung
-
 1. Die Auberginen je viermal einstechen und bei 200 Grad Umluft auf einem Blech unter gelegentlichem Wenden ca. 45 Minuten backen, bis sie weich und schlaff sind. In einem Sieb 10 Minuten abkühlen lassen; wenn dabei etwas Wasser abläuft: umso besser.
 1. Den Stängel abschneiden und von dort ausgehend die Haut in Streifen abziehen und zusammen mit den Samen aus dem Fruchtfleisch wegwerfen. Dann das Fruchtfleisch mit einem Messer fein hacken und in eine große Schale legen. 
 1. Zitronensaft, Salz, gepressten Knoblauch und zwei TL Tahina dazugeben und alles zusammen mit einer Gabel pürieren. 
@@ -21124,7 +20719,6 @@ Pinienkerne ohne Fett anrösten. Eigelb, Senf, Zitronensaft, Salz und Pfeffer in
 Schwarzer Pfeffer
 
 ### Zubereitung
-
 1. In einer beschichteten Pfanne ohne Fett die Fenchelsamen rösten, bis sie duften. Das dauert ungefähr 1 bis 2 Minuten. Man sollte auf keinen Fall bis zur Rauchentwicklung warten. In einem Mörser fein zerstoßen. In einer Schüssel Fenchelsamen, abgetropfte Bohnen, Knoblauch (wenn man will), Zitronenschale und -saft zu einer Masse pürieren. Dann langsam das Öl hinzugießen du dabei den Pürierstab weiterlaufen lassen. Zum Schluss abschmecken mit Salz, schwarzem Pfeffer und Zitronensaft.
 1. Zu Weißbrot und Rohkost (Karotte, Gurke…) ist der Dip eine gute Vorspeise
 
@@ -21142,7 +20736,6 @@ Ca. 50 g frische Blätter von jungem Basilikum
 1/2 TL grobes Salz
 
 ### Zubereitung
-
 1. Basilikumblätter abzupfen, waschen und mit Küchenpapier abtropfen. Parmesan, Pecorino und die Knoblauchzehe in Stücke schneiden und zusammen mit den Pinienkernen, den Walnusskernen, Salz und Basilikumblätter sorgfältig zerkleinern (pürieren). Olivenöl nach und nach dazufügen und gut vermengen. 
 
 Info:	Das wahre Pesto wird mit dem Mörser gemacht. Man beginnt mit dem Zerstoßen von Basilikumblättern und Knoblauch. Diese zerquetscht man, bis sie zu Brei geworden sind. Dann Pinienkerne und Salz hinzufügen und fortfahren. Nach und nach Öl dazugießen. Vervollständigt wird die Soße mit dem Käse. So habe ich es auch von den Italienern während meiner Zeit in Luxemburg gelernt
@@ -21192,7 +20785,6 @@ Etwas Salz
 Pasta
 
 ### Zubereitung
-
 1. Knoblauch schälen. Im Mörser Knoblauch, Salz und Basilikumblätter zerstoßen (Ungewöhnlich, aber ohne Weiteres möglich).
 1. Die Mischung in eine Schüssel geben, mit Olivenöl vermengen. Mandeln in einer Pfanne ohne Fett 4 Minuten lang rösten. Man kann die Mandeln vor dem Rösten schälen, indem man sie kurz in kochendes Wasser gibt, unter kaltem Wasser abschreckt und dann aus der Schale drückt. Die Mandeln im Mörser zerstoßen, bis ein grobes Mehl entsteht. In die Schüssel mit der Knoblauch-Salz-Basilikum-Masse geben. Tomaten waschen, halbieren und unterrühren. Eventuell noh mehr Olivenöl dazugießen, falls due Soße noch nicht soßig genug ist. Geriebenen Parmesan hinzufügen. Zum Schluss mit Salz, Pfeffer und Zitronensaft abschmecken. Die Soße unter die heißen Mandeln rühren und sofort servieren.
 
@@ -21212,7 +20804,6 @@ Salz
 1 EL Basilikumblätter
 
 ### Zubereitung
-
 1. Die getrockneten Tomaten in einem Topf mit 500 ml Wasser mit dem Essig knapp unter dem Siedepunkt 30 Minuten ziehen lassen. In ein Sieb gießen und gut abtropfen lassen.
 1. Die Tomate kreuzweise einritzen, überbrühen, häuten, vierteln und entkernen. Die Tomatenviertel in Filets schneiden. Die Kerne auf einem Sieb ausdrücken, dabei den Saft auffangen. Den Knoblauch schälen und in Würfel schneiden.
 1. Die weichen Trockentomaten mit den Tomatenfilets und dem -saft, Knoblauch, Mandeln, Parmesan und Olivenöl mit dem Stabmixer pürieren und mit Salz, Zucker und Chilipulver abschmecken. Zuletzt das Basilikum unterrühren.
@@ -21254,7 +20845,6 @@ Pfeffer
 4 Eier
 
 ### Zubereitung
-
 1. Zur Vorbereitung zunächst die Blätter von den Stängeln der Kräuter zupfen, waschen, mit einem Küchentuch trocken tupfen und grob hacken. Den Parmesan fein reiben. Die Sonnenblumenkerne in einer Pfanne ohne Fett ein paar Minuten lang anrösten, sie dabei nicht dunkel werden lassen. alle Zutaten in eine hohe Schüssel geben und mit dem Pürierstab zu einer Masse zerkleinern.
 1. Das Pesto kann man zu Spaghetti essen, zu gegrilltem Fleisch oder Fisch (also ich aber nicht). Am besten lässt sich das Dressing aber für eine Kartoffelsalat verwenden. Dazu die Kartoffeln mit Schale kochen, dann schälen und in Scheiben schneiden. In einer Salatschüssel das Pesto umrühren und alles eine Weile ziehen lassen. Dazu wachsweiche Eier servieren.
 
@@ -21313,7 +20903,6 @@ Saft von ½ Zitrone
 1 Prise schwarzer Pfeffer
 
 ### Zubereitung
-
 1. In einer beschichteten Pfanne die Pistazien kurz anrösten, wieder aus der Pfanne nehmen und einen Augenblick abkühlen lassen. Parmesan reiben, mit den Pistazien und den restlichen Zutaten zu einer glatten Paste pürieren.
 
 Problem:	Dieses Pesto sieht so zartgrün aus wie der Frühling, nur liegt das nicht an der Frische der Zutaten, die kommen fast alle aus dem Vorratsschrank, sondern an den Pistazien. Man nimmt nämlich statt Pinienkernen die noch teureren Nüsse 😊
@@ -21457,7 +21046,6 @@ Info:	Passt zu geröstetem Gemüse, gebratenem Fleisch, Tofu, Spiegelei…
 8 EL Olivenöl
 
 ### Zubereitung
-
 1. Gewürze in der Pfanne ohne Fett rösten. Abkühlen lassen und im Mörser fein mahlen. Koriander waschen, Blätter abzupfen, Stiele klein schneiden. Stiele und Blätter in eine hohe Schüssel geben. Knoblauchzehen schälen. Die Chilihälfte von Kernen befreien und waschen. Gewürze, Knoblauchzehen, Chilischote und Olivenöl zum Koriander geben und alles pürieren. Wenn die Soße zu trocken wird, mehr Öl hinzufügen.
 
 Tipp:	Diese Sauce schmeckt gut zu gegrilltem Lamm und Rind, zu gegrilltem Gemüse, Spiegelei und Omelette und als Dressing mit etwas Zitronensaft zu geriebenen Karotten.
@@ -21532,7 +21120,6 @@ Tipp:	48 Stunden kochen sind kein lustiges Unterfangen. Am besten die Sauce auch
 Salz und Pfeffer
 
 ### Zubereitung
-
 1. Schalotten schälen, fein würfeln und in einer Pfanne mit Öl anschwitzen. Mit Weißwein und Zitronensaft ablöschen und auf 1/3 reduzieren. Die Sahne hinzugeben und diese ebenso auf 1/3 herunterköcheln lassen.
 1. Sofern vorhanden 2 EL Klassische Sauce hinzugeben und einmal aufkochen.
 1. Die Speisestärke in Weißwein oder Sekt einrühren und hinzugeben. Mit Salz und Pfeffer sowie der fein abgeriebenen Zitronenschale abschmecken.
@@ -21554,7 +21141,6 @@ Salz und schwarzer Pfeffer aus der Mühle
 Etwas Zitronensaft
 
 ### Zubereitung
-
 1. Schalotten und Knoblauch schälen und in feine Würfel schneiden. Olivenöl in einer Pfanne erhitzen, in der zuvor das Fleisch angebraten wurde. Erst die Schalotten und etwas später den Knoblauch hinzugeben und anschwitzen.
 1. Mit Rotwein ablöschen und diesen auf 1/3 reduzieren. Mit Aceto Balsamico ablöschen und ebenso auf 1/3 reduzieren. Mit der Gemüsebrühe auffüllen und alles leicht köchelnd auf etwa 1/3 reduzieren.
 1. Durch ein feines Sieb in einen Topf passieren, mit Balsamico angerührter Speisestärke leicht abbinden und mit Butter aufrühren. Mit Salz und Pfeffer sowie etwas Zitronensaft abschmecken.
@@ -21569,7 +21155,6 @@ Tipp:	Diese Sauce eignet sich besonders gut für kurz gebratenes Fleisch wie Ste
 Salz und Pfeffer aus der Mühle
 
 ### Zubereitung
-
 1. Orangensaft in einem Topf aufkochen und auf ca. 1/5 reduzieren.
 1. Währenddessen die Schale der Orange mit einer reibe fein abreiben und hinzugeben.
 1. Mit Olivenöl, Salz und Pfeffer abschmecken.
@@ -21874,7 +21459,6 @@ Olivenöl
 3 EL Essig
 
 ### Zubereitung
-
 1. Um ein Chutney herzustellen, muss man nicht viel können. Zunächst schält man den Rhabarber, falls nötig (einige Sorten muss man nicht schälen. Den aus dem Garten muss man schälen). 
 1. Man schneidet die Stängel in 2 cm lange Stücke. In einer Pfanne Zwiebeln, Chili, Ingwer, Knoblauch in Olivenöl einen Augenblick anschwitzen.
 1. Den Rhabarber dazugeben. Wenn er etwas Flüssigkeit abgegeben hat, nach ungefähr 10 Minuten, fügt man den Zucker hinzu und schmeckt mit Essig ab. Bei kleiner Hitze ungefähr 20 Minuten weiterköcheln lassen, bis das Chutney eine kompottartige Konsistenz hat.
@@ -21951,7 +21535,6 @@ Sonnenblumenöl
 1 ¼ TL Salz
 
 ### Zubereitung
-
 1. Das Stielende der Auberginen abschneiden, dann die Auberginen vierteln. Eine Pfanne 4 cm hoch mit Öl füllen und erhitzen. Eine Teller mit Küchenpapier belegen.
 1. Wenn das Öl 180 Grad erreicht hat, die Auberginen in kleinen Portionen hineingeben und 2 -4 Minuten frittieren, bis sie hellgolden sind, dann herausheben und auf dem Teller abtropfen lassen. In einer Pfanne 6 EL Öl erhitzen, dann Schwarzkümmelsamen und Curryblätter hineingeben. Sobald die Blätter knistern, die Chilis hinzugeben. Bei mittlerer Hitze 1 Minute unter Rühren anrösten, dann Tamarindenpaste und 200 ml Öl einrühren. Kochen, bis das Wasser verdampft und die Paste recht dick ist, dann das Salz und die frittierten Auberginen dazugeben. Einige Minuten weiterköcheln lassen, dann vom Herd nehmen.
 1. Das abgekühlte Chutney in ein sauberes Glas füllen und kaltstellen. Es hält sich ca. 10 Tage im Kühlschrank.
@@ -22032,7 +21615,6 @@ Zucker und Zitronensaft hinzufügen und alles bei mittlerer Hitze unter ständig
 Saft von 2 Limetten
 
 ### Zubereitung
-
 1. Die Ananas schälen. Fruchtfleisch würfeln.
 1. Das Öl in einer großen Pfanne erhitzen und die Senfsamen hineingeben. Sobald sie zu platzen beginnen, Ingwer, Cayennepfeffer, Pfeffer, Salz und Ananaswürfel hinzugeben, gründlich mischen und bei mittlerer Hitze 20 Minuten unter gelegentlichem Rühren rösten.
 1. Zucker und Limettensaft hinzugeben und weitere 15-20 Minuten garen, bis die Ananas glasig und weich und die Flüssigkeit geleeartig ist.
@@ -22051,7 +21633,6 @@ Saft von 2 Limetten
 210 Jaggery oder 160 g Vollrohrzucker
 
 ### Zubereitung
-
 1. Die Mangos waschen, aber nicht schälen. Das Fruchtfleisch nahe am Stein abschneiden und in 1 cm große Würfel schneiden und mit ½ TL Salz und Kurkuma in eine Schüssel geben. Vermischen und 10 Minuten ziehen lassen.
 1. Das Öl in der Pfanne erhitzen und die Senfsamen hineingeben. Sobald sie platzen und im Öl tanzen, die Mangowürfel dazugeben und abdecken. Bei mittlerer Hitze 8 Minuten garen, bis die Mangoschale dunkler wird und die Mango weich ist, dann das restliche Salz und Cayennepfeffer hinzufügen. Umrühren, dann nach und nach das Jaggery oder den Zucker hineingeben.
 1. Weitere 5 Minuten garen, bis das Jaggery/Zucker gelöst ist und das Chutney eindickt. Eventuell mit Salz und Cayennepfeffer nachwürzen. In ein sauberes Glas füllen und auskühlen lassen.
@@ -22065,7 +21646,6 @@ Saft von 2 Limetten
 Salz
 
 ### Zubereitung
-
 1. Eine Pfanne erhitzen, die Kreuzkümmelsamen hineingeben und 3 – 4 Minuten bei mittlerer Hitze rösten, bis sie schokoladenbraun sind. Die Pfanne dabei mehrfach schwenken, damit die Samen gleichmäßig rösten. Anschließend im Mörser leicht zerstoßen.
 1. Die Gurke reiben und in ein Sieb geben. Überschüssiges Wasser herausdrücken und die Gurk ein eine Schüssel geben.
 1. Joghurt, Minzeblätter, Salz und ½ TL zerstoßenen Kreuzkümmel hinzufügen und umrühren. Zum Servieren ein wenig Gurke über die Raita reiben und mit ein paar Kreuzkümmelsamen bestreuen.
@@ -22089,7 +21669,6 @@ Salz
 2,5 EL Olivenöl
 
 ### Zubereitung
-
 1. alle Zutaten für die Chilipaste mit ¼ TL Salz zu einer groben Paste verarbeiten.
 1. Den Joghurt in einer Schüssel mit Minze, Zitronensaft, 1,5 TL Kreuzkümmelsamen und 1/3 TL Salz verquirlen. Gurke, Zwiebelwürfel und Tomaten behutsam unterrühren. In eine Schüssel füllen. Die Chilipaste darauf geben und spiralförmig einrühren. Die Raita mit dem restlichen ½ TL Kreuzkümmel bestreuen und servieren.
 
@@ -22113,7 +21692,6 @@ Salz
 ½ TL Salz
 
 ### Zubereitung
-
 1. Alle Gewürze in einen Aufgussbeutel (oder in ein Stück Mull- oder Seihtuch) geben und verschließen.
 1. Das Mangofruchtfleisch in einem Topf mit dem Gewürzsäckchen, den Rosinen und 175 ml Wasser bei mittlerer Hitze aufkochen lassen. Die Hitze reduzieren und die Mischung 10 Minuten unter gelegentlichem Rühren sanft köcheln lassen. Essig, Chili, Honig und Salz dazugeben, den Deckel auflegen und das Chutney in etwa 30 Minuten dick und breiig garen. Nach Belieben mit Essig, Honig oder Salz abschmecken.
 1. Vollständig auskühlen lassen und in ein luftdicht verschließbares Glas füllen.
@@ -22134,7 +21712,6 @@ Salz
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. die Zutaten werden eine ganze Weile bei wenig Hitze eingekocht, und durch den Zucker bekommt die Sauce eine marmeladige Konsistenz. Die Zwiebeln fein schneiden, Tomaten grob hacken, Knoblauch in feine Scheiben schneiden, Die Kerne der Chilischote entfernen und die Schote in feine ringe schneiden. 
 1. Ingwer schälen und fein hacken. Koriandersamen im Mörser zermahlen. Alles wird in eine beschichtete Pfanne gegeben. Hinzu kommen außerdem Apfelessig, Zucker, Salz und Pfeffer. 40 Minuten lang einkochen. Am Ende mit Essig und Zucker abschmecken, bis das Chutney so schmeckt, wie man sich das vorgestellt hat.
 1. Das heiße Chutney gibt man in ein Marmeladenglas, das man vorher mit heißem Wasser ausgespült hat. Das Glas verschließen. Das Chutney hält sich ungeöffnet im Kühlschrank ca. vier Wochen.
@@ -22156,7 +21733,6 @@ Salz, Pfeffer
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Ingwer und Zwiebeln fein würfeln. Aprikosen überbrühen, schälen, entsteinen und grob würfeln. Die getrockneten Tomaten würfeln. 
 1. Öl in einem Topf erhitzen, Ingwer hellbraun braten, herausnehmen. Zwiebeln und Aprikosen im Bratfett kurz andünsten. Mit Orangensaft und Obstessig ablöschen. Zucker, Tabasco, Lorbeerblatt, Pimentkörner und Gewürznelke und Tomatenstücke einrühren. Offen bei schwacher Hitze unter Rühren einkochen lassen. Mit Salz und Pfeffer abschmecken.
 
@@ -22174,7 +21750,6 @@ Salz, Pfeffer
 1 TL Paprikapulver, edelsüß
 
 ### Zubereitung
-
 1. Den Backofen auf 160 Grad vorheizen. Die Haselnusskerne in einer ofenfesten Form verteilen und für 20 Minuten in den Ofen schieben. Nach 10 Minuten die Sonnenblumenkerne dazugeben, jedoch nicht mit den Nüssen mischen. Anschließend herausnehmen und abkühlen lassen.
 1. Eine gusseiserne Pfanne 5 Minuten bei mittlerer Temperatur heiß werden lassen und die Fenchelsamen 30 Sekunden ohne Fett darin rösten. Den Kreuzkümmel dazugeben und ebenfalls 30 Sekunden rösten. Den Pfanneninhalt danach in eine kleine Schüssel füllen. Die Pfefferkörner in die Pfanne geben und etwa 30 Sekunden rösten, bis sie aufplatzen, und in eine zweite Schüssel füllen. Die Koriandersamen etwa 1 Minute rösten und danach ebenfalls in eine Schüssel füllen.
 1. Die Wärmezufuhr verringern und den Sesam mit dem Schwarzkümmel bei geringer Hitze unter gelegentlichem Rühren rösten, bis er leicht gebräunt ist. Beides anschließend in eine Schüssel füllen.
@@ -22238,7 +21813,6 @@ Info:	Currypulver ist eine Mischung aus verschiedenen Gewürzen. Die Zusammenset
 Salz
 
 ### Zubereitung
-
 1. Karotten schälen und in 1 cm dicke Scheiben schneiden. Staudensellerie waschen und in Scheiben schneiden. Die Sellerieblätter hacken. Ebenso die Zwiebel und den Knoblauch. Lauch in schmale Ringe schneiden. Die Petersilie inklusive Stängeln grob hacken. Das Gemüse jetzt wiegen, um zu berechnen wieviel Salz man braucht: 12 g pro 100 g Gemüse. Gemüse und Salz in einer Schüssel vermengen, 15 Minuten langziehen lassen. Es sollte dann etwas Wasser aus dem Gemüse getreten sein. Mit dem Pürierstab zu einer Paste mixen.
 1. Die Schraubgläser zur Aufbewahrung sollten sterilisiert werden, also 10 Minuten lang in Wasser köcheln lassen. Die Paste einfüllen. Sie ist einige Monate haltbar.
 
@@ -22264,7 +21838,6 @@ Salz
 1 TL Garnelenpaste
 
 ### Zubereitung
-
 1. Koriander, Kreuzkümmel und Pfeffer in einer Pfanne ohne Öl anrösten, bis das Aroma sich entfaltet und die Gewürze sich dunkel färben, dann im Mörser zu einem feinen Pulver zerstoßen.
 1. Die restlichen Zutaten fein hacken, mit Salz und Garnelenpaste in den Mörser geben und zerstampfen, bis eine geschmeidige Paste entsteht.
 
@@ -22281,7 +21854,6 @@ Grünen Majoran
 Weißes Salz
 
 ### Zubereitung
-
 1. Einen Teil weiße Zwiebeln und zwei Teile rote Tomaten. Alles grob schneiden und dann in einem großen Topf anschwitzen. Etwas gezupften Majoran und Salz dazugeben. Auf kleiner Flamme langsam garen und dabei immer rühren. Das kann den ganzen Tag dauern. Man kocht es so lange ein, bis das ganze Wasser der Tomaten verkocht ist. Dann mixt man die Masse richtig gut durch.
 1. Am Ende kommt eigenes Tomatenmark raus.
 
@@ -22387,7 +21959,6 @@ Für das Öl Chili- und Paprikaflocken in einer kleinen Pfanne bei mittlerer bis
 Abgeriebene Schale von 1 Zitrone
 
 ### Zubereitung
-
 1. Den Backofen auf 180°C (Gas Stufe 4) vorheizen. 
 1. Mit einem scharfen Messer vorsichtig je ein Kreuz in die runde Seite der Kastanien schneiden.
 1. Die Kastanien in eine Auflaufform legen und Butter, Rosmarin, Salz und Zitronenschale darübergeben.
@@ -22412,7 +21983,6 @@ Und immer daran denken, gute und trockene Kastanien kaufen. Manchmal sind die Ka
 140 g Ricotta
 
 ### Zubereitung
-
 1. Den Backofengrill vorheizen.
 1. Die Feigen in einer Schüssel in der Sojasauce und 1 ½ EL Ahornsirup wenden und mit der Schnittfläche nach oben auf ein mit Backpapier ausgelegtes Blech legen. Die Feigen auf der obersten Schiene 12 Minuten grillen, bis sie weich und karamellisiert sind, aber noch ihre Form bewahren. Die Feigen und ihren Saft wieder in die Schüssel zurückgeben. Den Reiswein und den Balsamico und den restlichen 1 EL Ahornsirup hinzufügen, alles behutsam miteinander vermengen und mindestens eine Stunde (oder über Nacht) durchziehen lassen.
 1. Inzwischen das Öl in einem Topf bei mittlerer Hitze erhitzen. Sobald es heiß ist, die Chilis darin 3 Minuten frittieren – umrühren, damit die Ringe nicht zusammenkleben. Die Zitronenschale hineingeben und 30 Sekunden mitfrittieren, anschließend das Ganze sofort ein eine hitzebeständige Schüssel gießen und mindestens 30 Minuten (oder über Nacht) durchziehen lassen.
@@ -22432,7 +22002,6 @@ Info:	Das Rezept dauert etwas länger….also Obacht.
 Salz
 
 ### Zubereitung
-
 1. Den Backofen auf 200 Grad (Umluft) vorheizen.
 1. Eine große beschichtete Pfanne bei hoher Temperatur sehr stark erhitzen. Die Zwiebeln mit 2 EL Öl und ¼ TL Salz mischen. Mit der Schnittfläche nach unten und mit etwas Abstand zueinander in die heiße Pfanne setzen. Einen Topf zum Beschweren auf die Zwiebeln stellen, damit sie gleichmäßig braun werden. Die Zwiebeln in aller Ruhe bei mittlerer bis starker Hitze 6 Minuten braten, bis die Schnittflächen sehr dunkel sind. Anschließend mit der angebratene Seite nach oben auf ein mit Backpapier ausgelegtes Blech legen und etwa 20 Minuten rösten, bis sie weich sind. 
 1. Inzwischen den Granatapfelsaft in einen Topf gießen. Bei mittlerer bis starker Hitze zum Kochen bringen, dann etwa 12 Minuten köcheln lassen, bis die Flüssigkeit auf etwa 70 ml reduziert ist und etwa die Konsistenz von Ahornsirup hat. Beiseitestellen und abkühlen lassen; dabei dickt der Sirup weiter ein.
@@ -22455,7 +22024,6 @@ Saft von 1 Zitrone
 80 g würzigen Ziegenkäse
 
 ### Zubereitung
-
 1. Zwiebeln fein hobeln und in einer Pfanne mit Butter, Öl und etwas Salz bei milder Hitze für 20 Minuten unter Rühren dünsten, ohne dass die zwiebeln bräunen.
 1. Die dicken Bohnen aus der Schote befreien und kurz in kochendem Wasser blanchieren, abschrecken und die Haut entfernen. In die Pfanne zu den Zwiebeln geben, Sauerampfer und Zitronensaft dazugeben und für 3 -4 Minuten simmern lassen. Ein Stück kalte Butter rasch unterrühren und sofort servieren. 
 1. Dazu passt ein Salat aus Spinat, der nur mit Olivenöl und Ziegenkäse verfeinert wird.
@@ -22485,7 +22053,6 @@ Kerne von ½ Granatapfel
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Das Fleisch in einer Schüssel mit Knoblauch, Chili, Koriandergrün, Semmelbröseln, Piment, der Hälfte des Ingwers und der Zwiebeln, dem Ei, ¾ TL Salz und etwas Pfeffer vermengen.
 1. Eine Schüssel mit kalte, Wasser und dem Saft der halben Zitrone vorbereiten. Die Quitten schälen, der Länge nach halbieren und sofort in das Zitronenwasser legen, damit sie sich nicht verfärben. Die Kerngehäuse mit einem Kugelausstecher oder einem Teelöffel herauslösen (Ist etwas mühsam, nun ja). Anschließend so viel Fruchtfleisch entfernen, dass ein 1,5 breiter Rand stehen bleibt. Das Fruchtfleisch aufheben. Die Quittenhälften mit dem Hackfleisch füllen und die Füllung mit den Fingern andrücken.
 1. Das Olivenöl in einer großen Deckelpfanne erhitzen. Das Quittenfruchtfleisch fein zerkleinern und mit der restlichen Zwiebel, dem restlichen Ingwer du den Kardamomkapseln 10 – 12 Minuten im heißen Öl braten, bis die Zwiebel weich ist. Granatapfelsirup, 1 EL Zitronensaft und Zucker hinzufügen, die Brühe angießen und mit ½ TL Salz sowie etwas Pfeffer würzen. Die Quittenhälften mit der Füllung nach oben in die Pfanne legen und zugedeckt etwa 30 Minuten bei geringer Hitze garen, bis die Früchte weich sind, die Füllung gut durchgegart und die Sauce eingedickt ist. Die Sauce, falls nötig, noch 1-2 Minuten ohne Deckel einkochen lassen.
@@ -22506,7 +22073,6 @@ Salz, Pfeffer
 1/8 l Wasser
 
 ### Zubereitung
-
 1. Zunächst die Artischocken waschen, Stiele entfernen. Wer will, schneidet das obere Drittel der Köpfe ab.
 1. Für die Füllung Parmesan reiben, mit Olivenöl vermengen und zusammen mit Pinienkernen, Knoblauchzehen, Petersilie und etwas Salz und Pfeffer mit dem Pürierstab zu einer groben Paste zerkleinern.
 1. Die Artischocken mit Paste füllen, indem man die Blätter etwas auseinanderzieht, die Paste gibt man in die Zwischenräume. Artischocken in einem Topf mit Wasser nebeneinandersetzen, bei geschlossenem Deckel etwa 30 Minuten auf kleiner Flamme dämpfen.
@@ -22527,7 +22093,6 @@ Tipp:	Das Gericht eignet sich gut als Vorspeise. Das Rezept stammt von einer ita
 Cayennepfeffer
 
 ### Zubereitung
-
 1. Zuerst werden die Senfkörner gemahlen oder in Salzwasser aufgekocht. Etwas quellen lassen, kurz abschrecken, abtropfen lassen, und mit den drei Senfsorten verrühren.
 1. Dann die Schalotten mit Knoblauch in nicht zu heißer Butter anschwitzen. Jetzt kommt der Spitzkohl dazu. Durchschwenken, sodass er eben nur zusammenfällt. Dann einen EL der Senfmischung unterrühren, damit der Kohl etwas kräftiger wird. Mit Salz und Cayennepfeffer abschmecken
 
@@ -22616,7 +22181,6 @@ Info:	Berühmt für Bohnen ist die Toskana, was man kaum glaubt.
 ½ TL gemahlener schwarzer Pfeffer
 
 ### Zubereitung
-
 1. Die Bohnen waschen, die Enden abschneiden und die Seiten mit einem Gemüseschäler abschälen, um Fäden zu entfernen. Diagonal in 4 cm lange Stücke schneiden.
 1. Das Öl in einer großen Pfanne erhitzen, Curryblätter und Senfsamen hineingeben. Sobald sie knistern, Knoblauch, Chili und Ingwer hinzufügen und 2 Minuten unter Rühren anrösten. Die Schalotten dazugeben und 12 – 15 Minuten braten, bis sie goldbraun und karamellisiert sind.
 1. Die Tomaten hinzugeben und einige Minuten köcheln lassen, dann Kurkuma, Salz und Pfeffer unterrühren. Die Bohnen und einige EL Wasser hinzufügen, umrühren und die Pfanne abdecken.
@@ -22641,7 +22205,6 @@ Info:	Berühmt für Bohnen ist die Toskana, was man kaum glaubt.
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Eine große Pfanne bei hoher Temperatur erhitzen. Sobald sie raucht, ein Viertel beider Bohnensorten hineingeben und etwa 5 Minuten kräftig rösten, bis sie stellenweise sehr dunkel sind. Gelegentlich durchschwenken. Auf einen Teller geben und nacheinander die restlichen Bohnen rösten. Anschließend den Knoblauch und die Chilischote ebenso in der Pfanne rösten und rundherum kräftig bräunen, das dauert 3-4 Minuten. Zu den Bohnen geben und die Pfanne ein wenig abkühlen lassen.
 1. Etwa 90 ml Öl in die Pfanne gießen und bei mittlerer bei hoher Temperatur erhitzen. Die Zwiebeln hineingeben und in etwa 10 Minuten unter gelegentlichem Rühren goldbraun anbraten. Die gerösteten Bohnen, Knoblauch und Chili sowie die Brühe hinzufügen und mit 1 ½ TL Salz und eine großzügigen Prise Pfeffer würzen. Leicht zum Sieden bringen und dann zugedeckt bei schwacher bis mäßiger Hitze etwa 20 Minuten schmoren, bis die Bohnen sehr weich sind. Zum Schluss Zitronenschale und -saft unterrühren.
 1. Die Kräuter in einer kleinen Schüssel mit den eingelegten Zitronen, den verbliebenen 2 EL Öl und ¼ TL Salz und reichlich Pfeffer verrühren.
@@ -22692,7 +22255,6 @@ Ein paar Stängel Liebstöckel (oder Petersilie)
 Abgeriebene Schale einer halben Bio-Zitrone
 
 ### Zubereitung
-
 1. Getrocknete Bohnen über Nacht einweichen. Frische müssen nicht eingeweicht werden, sondern aus ihren Hülsen gepult werden. Wasser abgießen und die Bohnen in einen Topf mit 700 ml Wasser geben.
 1. Den Knoblauch und die Zwiebel in zwei Hälften schneiden und ungeschält mit den Lorbeerblättern, 1 EL Salz und dem Olivenöl zu den Bohnen geben. Salz und Fett sind hier die wichtigsten Zutaten, das Wasser soll salzig schmecken. Kleine oder frische Bohnen brauchen etwas weniger Zeit. Einen Schuss Weißweinessig hinzugeben, probieren und eventuell nachsalzen.
 1. Wenn die Bohnen gar sind, noch eine Weile abgedeckt stehen lassen. Die Liebstöckelblätter von den Stängeln zupfen. Anschließend die Bohnen mit einem Schaumlöffel aus dem Wasser nehmen und vor dem Servieren mit den Liebstöckelblättern, dem Zitronenabrieb und etwas Olivenöl garnieren.
@@ -22713,7 +22275,6 @@ Frische Kräuter, z.B. Bohnenkraut, Thymian, Petersilie
 Salz und Pfeffer
 
 ### Zubereitung
-
 1. Bohnen an beiden Enden abschneiden. 3 l Wasser mit dem Salz in einem Topf zum Kochen bringen und die Bohnen darin 5 Minuten garen, sodass diese noch knackig sind.
 1. Bohnen abgießen und für einige Minuten in eine Schüssel mit Eiswürfeln und kaltem Wasser geben, um sie abzuschrecken.
 1. Zwiebel und Knoblauch fein würfeln. Butter und Olivenöl in einem Topf schmelzen, Zwiebel und Knoblauch darin glasig schwitzen.
@@ -22738,7 +22299,6 @@ Salz und Pfeffer
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Das Öl in einem großen Topf bei mittlerer bis hoher Temperatur erhitzen. Die Zwiebelwürfel darin 8 Minuten anschwitzen, bis sie Farbe annehmen und weich werden; gelegentlich umrühren. Knoblauch, Kreuzkümmel, Paprika und Muskat hinzufügen und alles unter Rühren weitere 2 Minuten garen. Das Tomatenmark und 1 Minute später Bohnen, Tomaten, Brühe, ¾ TL Salz und etwas Pfeffer dazugeben. Mittlere Hitze einstellen, den Deckel auflegen und das Ganze 30 Minuten köcheln lassen.
 1. Den Deckel abnehmen und alles 30 Minuten weiterköcheln lassen, bis die Sauce dickflüssig ist und die Bohnen richtig weich sind, dabei gelegentlich umrühren. Vom Herd nehmen und das Koriandergrün unterrühren. Warm oder bei Zimmertemperatur servieren.
 
@@ -22761,7 +22321,6 @@ Salz, Pfeffer
 2 Limetten, 1 EL Saft, die andere zum Servieren in 4 Spalten geschnitten
 
 ### Zubereitung
-
 1. Einen Topf halb mit Wasser füllen und das Wasser zum Kochen bringen. Die Bohnen für 5 – 6 Minuten hineingeben, bis sie gar sind, aber noch etwas Biss haben. In einem Sieb abtropfen lassen, dann abschrecken und erneut abtropfen lassen. 
 1. Das Öl in einen großen Topf geben und bei mittlerer bis hoher Temperatur erhitzen. Den Tofu mit 1/3 TL Salz darin 4-5 Minuten braten, dabei immer wieder wenden, damit er rundherum goldbraun wird. Aus dem Topf nehmen und beiseitestellen.
 1. Für die Sauce den Knoblauch in einer kleinen Schüssel mit den Gewürzen und dem Öl mischen. In den großen Topf geben und bei mittlerer bis starker Hitze etwa 1 Minute braten, dann Tomatenmark, Zucker, Limettensaft und ¾ TL Salz hinzufügen. Umrühren, dann 250 ml Wasser angießen. Wenn die Sauce brodelt, noch 2 Minuten kochen lassen, bis sie eindickt, dabei immer wieder umrühren. Die Bohnen dazugeben und alles noch 1 Minute garen, bis die Sauce dickflüssig ist und die Bohnen heiß sind.
@@ -22790,7 +22349,6 @@ Püree:
 2 Dosen weiße Bohnen à 400 g, abgespült und abgetropft
 
 ### Zubereitung
-
 1. Den Backofen auf 220 Grad Umluft vorheizen.
 1. Paprikaschoten und Öl in einer Schüssel mischen. Auf einem großen, mit Backpapier belegten Backblech verteilen und im Ofen 15 Minuten rösten. Den Knoblauch hinzufügen und 15 Minuten mitrösten, bis er goldbraun ist. Die Schoten sollten dann weich und sehr dunkel sein.
 1. Paprikaschoten und Knoblauch mit Thymianblättern, Paprikapulver, Chiliflocken, Essig, Walnüssen und ½ TL Salz grob pürieren.
@@ -22837,7 +22395,6 @@ Schale von ½ Limette
 Salz und Pfeffer
 
 ### Zubereitung
-
 1. Bohnen 24 Stunden in Wasser einweichen. Im Einweichwasser kochen, bis sie weich sind. Zwiebeln und Knoblauch in Olivenöl anschwitzen. Bohnen hinzugeben und mit Milch und Brühe aufgießen. Mit dem Mixer fein pürieren. Kaffir-Limettenblätter fein hacken. Limettenschale fein abreiben und beides unter das Püree heben. Mit Olivenöl, Salz und Pfeffer abschmecken.
 
 Tipp:	Ist eine tolle Beilage zu Fleisch.
@@ -22859,7 +22416,6 @@ Tipp:	Ist eine tolle Beilage zu Fleisch.
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Die Bohnen abgießen, mit der Zwiebel in einen großen Topf geben und etwa 4 cm hoch mit Wasser bedecken. Bei mittlerer bis starker Hitze zum Kochen bringen und dann bei mittlerer Hitze ca. 50 Minuten garen, bis die Bohne sehr weich sind und zu zerfallen beginnen. Falls nötig, verkochtes Wasser zwischendurch ergänzen. Die Bohen gut abtropfen lassen.
 1. Während die Bohnen garen, Knoblauch, Rosmarin, Thymian, Chili und Öl in einen kleinen Topf geben. Zugedeckt bei schwacher bis mittlerer Hitze 25-30 Minuten erhitzen, bis der Knoblauch weich ist und Farbe annimmt. Vom Herd nehmen und zugedeckt bei Resthitze weitere 10 Minuten ziehen lassen. Das Öl durch ein Sieb in eine Schüssel gießen, Knoblauch, Kräuter und Chili beiseitelegen.
 1. Für das Aioli den gegarten Knoblauch mit 100 g der gegarten Bohnen, dem Senf, 2 EL Zitronensaft, 75 ml des Knoblauchöls, 1 EL Wasser sowie etwas Salz und 1 kräftigen Prise Pfeffer fein pürieren.
@@ -22885,7 +22441,6 @@ Salz, Pfeffer
 Salz
 
 ### Zubereitung
-
 1. Die Bohnen waschen und alle, die auf dem Wasser schwimmen, wegwerfen. Über Nacht einweichen und am nächsten Tag in einem großen Topf mit frischem Wasser bedecken und zum Kochen bringen. Bei mittlerer Hitze 10 Minuten köcheln lassen, dann abdecken, die Temperatur reduzieren und bis zu 1 Stunde garen. Bei Bedarf mehr Wasser dazugeben. Abtropfen lassen und das Kochwasser für später aufbewahren.
 1. Zwiebeln, Tomaten (mit ihrem Saft), Chilis, Ingwer und Knoblauch fein pürieren. Das Öl in einem großen Topf erhitzen, dann Kreuzkümmelsamen du die Zwiebel-Tomaten-Mischung hineingeben. Unter gelegentlichem Rühren bei mittlerer Hitze etwa 30 Minuten köcheln lassen, bis die Paste dockflüssig und deutlich dunkler ist als zuvor. Dann Cayennepfeffer, gemahlene Kreuzkümmel, Kurkuma und gemahlenen Koriander dazugeben. Weitere 5 Minuten köcheln lassen.
 1. Die Bohnen in den Topf geben. 500 ml Wasser hinzugeben. Weitere 10 Minuten köcheln lassen, dann mit Salz und Cayennepfeffer abschmecken und die Konsistenz nach Wunsch anpassen.
@@ -22988,7 +22543,6 @@ Meersalz
 500 g Babyspinat, gewaschen
 
 ### Zubereitung
-
 1. Das Öl in einem großen Topf erhitzen und Senf- und Kreuzkümmelsamen hineingeben. Bei mittlerer Hitze 1 Minute unter Rühren anrösten, bis die Samen platzen, dann die Zwiebeln dazufügen.
 1. Etwa 10 – 12 Minuten andünsten, bis sie glasig sind und zu karamellisieren beginnen, dann Knoblauch und Ingwer hinzugeben. Unter Rühren 3 Minuten braten, danach die Tomaten über dem Topf aus der Dose in die Hand gleiten lassen und zerdrücken. Die Dose zu einem Drittel mit Wasser füllen und in den Topf entleeren.
 1. Ungefähr 10 Minuten köcheln lassen, bis die Mischung recht trocken und pastös ist. Die Kichererbsen dazugeben und einige Minuten erhitzen, dann Koriander, Cayennepfeffer, Kurkuma und Salz unterrühren. Anschließend den Spinat hinzufügen. 
@@ -23036,7 +22590,6 @@ Pfeffer, Salz, Muskat
 Ca. 40 g Butter
 
 ### Zubereitung
-
 1. Spinat gründlich waschen und von Stielen und Wurzeln befreien.
 1. Die Blätter 5 Minuten lang in kochendem Wasser garen. Abschrecken, abtropfen und abkühlen lassen, mit der Hand das Wasser ausdrücken. Dann die Blätter fein hacken. Den Knoblauch schälen und andrücken. In einer Pfanne Olivenöl erhitzen, Knoblauchzehe dazugeben und den Spinat im Öl kurz schwenken. Salzen und die Knoblauchzehe entfernen. Parmesan reiben. In einer Schüssel Spinat, Ricotta, 60 g Parmesan, Ei, Salz, Pfeffer und Muskat vermengen. Mehl einarbeiten, sodass ein Teig entsteht. Mit bemehlten Händen Knödel von 2 bis 3 cm Durchmesser formen. In einem Topf gesalzenes Wasser zum Kochen bringen. Malfatti hineingeben. Sie sind gar, wenn sie nach oben steigen, nach ungefähr 5 Minuten.
 1. Man kann die Malfatti so servieren, mit geriebenem Parmesan. Oder mit einer schnellen Soße: In einer Pfanne (man kann die nehmen, in der man den Spinat erhitzt hat) die Butter zerlassen, eine Kelle vom Kochwasser der Malfatti dazugeben, etwas Parmesan hineinreiben und die Soße kurz einkochen, bis sie cremig ist.
@@ -23110,7 +22663,6 @@ Frisch geriebene Muskatnuss
 2 EL Walnusskerne
 
 ### Zubereitung
-
 1. Den angetauten Spinat mit wenig Wasser in einem Topf erhitzen. Abkühlen lassen, auf ein Küchentuch geben und gut ausdrücken. Den Blattspinat hacken (es sollten etwa 250 g sein). Den frischen Spinat verlesen, waschen und trocken schleudern, grobe Stiele entfernen. Die Spinatblätter in kochendem Salzwasser blanchieren, in ein Sieb abgießen, kalt abschrecken und abtropfen lassen. Den Blattspinat mit den Händen gut ausdrücken und hacken.
 1. Das Brot in ½ cm große Würfel schneiden, in eine Schüssel füllen und mit der Milch übergießen. Den Käse entrinden und die Hälfte grob reiben, den Rest in kleine Würfel schneiden. In einer Pfanne 2 EL Butter erhitzen und die Zwiebel und den Knoblauch darin andünsten.
 1. Die Zwiebel-Knoblauch-Mischung mit dem gehackten Spinat, den Eiern und den Käsewürfeln unter das eingeweichte Brot mischen. Mit ½ TL Salz und Pfeffer sowie etwas Muskatnuss würzen. Die Masse mit den Händen gut verkneten und zugedeckt 30 Minuten ruhen lassen.
@@ -23134,7 +22686,6 @@ Frisch geriebene Muskatnuss
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Breitere Mangoldstiele längs halbieren (oder dritteln). In einer großen Pfanne bei mittlerer bis hoher Temperatur erhitzen. Die Mangoldstiele darin 4 Minuten schwenken, dann die Blätter hinzufügen und 3 Minuten unter Rühren mitgaren, bis sie zusammenfallen. In eine große Schüssel umfüllen, mit einem Teller zudecken und in der Resthitze 3 Minuten nachgaren lassen. 
 1. Die Pfanne auswischen, 90 ml Öl darin bei mittlerer Temperatur erhitzen. Knoblauch, Zwiebel, Zitronenschale und Oregano darin 12 Minuten sanft braten, bis die Zwiebelwürfel weich und goldgelb sind, dabei immer wieder umrühren. Die Tomaten mit ½ TL Salz und 1 kräftigen Prise Pfeffer hinzufügen und garen, bis sie gerade eben beginnen, weich zu werden. Den vorgegarten Mangold sowie die Oliven unterrühren. Die Pfanne von Herd nehmen und 5 Minuten stehen lassen, damit sich die Aromen verbinden können.
 1. Oreganostängel und Zitronenschale entfernen. Das Gericht auf einer Platte mit höherem Rand anrichten. Mit Zitronensaft und den restlichen 2 EL öl beträufeln, mit dem Basilikum und einer kräftigen Prise Pfeffer bestreuen und servieren.
@@ -23160,7 +22711,6 @@ Ein paar Basilikumblätter
 2 EL Semmelbrösel
 
 ### Zubereitung
-
 1. Ofen auf 190 Grad Umluft heizen. Auberginen waschen, von den Stielen befreien, der Länge nach in Scheiben schneiden (keinen ½ cm dick!) auf einem  mit Backpapier ausgelegten  Blech nebeneinander verteilen, Salz und etwas Olivenöl darübergeben. 30 Minuten lang im Ofen backen, nach 15 Minuten die Scheiben umdrehen.
 1. In der Zwischenzeit die Tomatensoße vorbereiten: Schalotte schälen, fein schneiden, in einer Pfanne mit Öl andünsten, salzen, pfeffern, Oregano dazugeben. Tomaten hinzufügen. Die Soße ungefähr 20 Minuten lang einkochen lassen. Zum Schluss mit Zucker, Salz, Pfeffer und Essig abschmecken.
 1. Den Backofen auf 190 Grad vorheizen. In einer ofenfesten Form die Hälfte der Tomatensauce verteilen, darauf die Hälfte der gebackenen Auberginenscheiben nebeneinanderlegen. Auf die Auberginen wiederum gibt man gewürfelten Mozzarella und fein geschnittene Basilikumblätter. Es folgen eine Schicht Tomatensauce sowie die restlichen Auberginen. Parmesan darüberreiben, der Käse bildet eine geschlossene Decke. Semmelbrösel auf dem Auflauf verteilen, noch mal pfeffern. 25 – 30 Minuten lang im Ofen backen.
@@ -23186,7 +22736,6 @@ Evtl. 1 Glas Wasser
 Weißer Reis als Beilage
 
 ### Zubereitung
-
 1. In einem großen Topf Kokosöl zerlassen, darin in ringe geschnittenen Zwiebeln, fein gehackten Ingwer, angedrückte Knoblauchzehen du Chilipulver ungefähr 5 Minuten lang andünsten. Auberginen erst der Länge nach halbieren, dann vierteln, dann in Schnitze von ungefähr 1 cm Dicke schneiden. In den Topf geben. Dazu die in Stücke zerteilten Tomaten.
 1. Tamadindenpaste und Kokosmilch hinzufügen, salzen. Ungefähr 20 Minuten lang köcheln lassen. Die aus der Schale gelösten Erbsen hinzufügen, das Ganze weitere 5 Minuten lang mit geschlossenem Deckel köcheln lassen. Wenn einem die Soße zu dickflüssig erscheint, etwas Wasser dazugießen.
 
@@ -23223,7 +22772,6 @@ Tamarindenpaste wird aus der an Bäumen wachsenden Tamarinde hergestellt. In Tha
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den Backofen auf 160 Grad (Umluft) vorheizen. Die Brösel auf einem Backblech verteilen und 12 Minuten rösten, bis sie hellbraun sind. Zum Abkühlen beiseitestellen, die Temperatur auf 220 Grad (Umluft) erhöhen.
 1. Die Auberginen auf ein mit Backpapier bedecktes Blech geben. Mit 75 ml Öl, ½ TL Salz und 1 kräftigen Prise Pfeffer durchheben und verteilen. 30 Minuten rösten, bis sie goldbraun sind; nach der Hälfte der Zeit wenden.
 1. Die Auberginen zu einem stückigen Püree hacken. In eine Schüssel geben und für etwa 20 Minuten in den Kühlschrank stellen. Danach Ricotta, Parmesan, Petersilie, Ei, Eigelb, Mehl, Brösel, ein Drittel des Knoblauchs, 10 g Basilikum, ¼ TL Salz und 1 kräftige Prise Pfeffer dazugeben. Alles gut mischen, dann mit eingeölten Händen aus der Masse 16 golfballgroße Kugeln formen und gut zusammendrücken.
@@ -23296,7 +22844,6 @@ Nach Belieben Zitronenviertel
 100 g Erbsen (frisch oder TK)
 
 ### Zubereitung
-
 1. Das Öl in einem weiten Topf erhitzen, die Kreuzkümmelsamen hineingeben, 30 Sekunden rühren und danach die Zwiebeln hinzufügen.
 1. Die Zwiebeln bei mittlerer Hitze 10 Minuten anbraten, bis sie glasig sind, aber noch nicht bräunen. Den Knoblauch dazugeben und einige Minuten unter Rühren anbraten, Tomaten und Tomatenmark hinzufügen und den Topf abdecken. Die Tomaten-Zwiebel-Mischung ungefähr 5 Minuten köcheln lassen, dann Salz, Cayennepfeffer, Kurkuma und Zucker unterrühren.
 1. Nun die Aubergine hineingeben und wenden, damit sie rundherum mit dem Masala überzogen sind. Den Topf wieder abdecken und das Gemüse weitere 10 Minuten köcheln lassen. Die Auberginen sollen zart und weich sein und nur wenig oder gar kein Wasser abgeben. 
@@ -23321,7 +22868,6 @@ Salz
 10 g Minzeblätter
 
 ### Zubereitung
-
 1. Tomaten Sesamsamen, Knoblauch, Tamarindenpaste, Kreuzkümmel, Koriander, Cayennepfeffer und 1 TL Salz zu einer Sauce pürieren. Beiseitestellen.
 1. Das Öl in einer großen Pfanne erhitzen und die Zwiebel bei mittlerer Hitze 10 – 12 Minuten goldbraun anbraten. Die Sauce hinzugeben, einige Minuten köcheln lassen, dann die Auberginen und 5 EL Wasser hinzufügen. Durchrühren, abdecken und 15 Minuten garen, bis die Auberginen weich und zart sind. Ein wenig mehr Wasser dazugeben, wenn sie am Pfannenboden ansetzen.
 1. Den Bulgur in einer hitzebeständigen Schüssel mit 280 ml siedendem Wasser übergießen. ¼ TL Salz hinzugeben, abdecken und etwa 8 Minuten quellen lassen.
@@ -23340,7 +22886,6 @@ Rapsöl
 20 g Dill, nur die Spitzen
 
 ### Zubereitung
-
 1. Die Auberginen in 1x5 cm große Stifte schneiden.
 1. In einer Pfanne 80 ml Öl erhitzen und die Auberginen bei mittlerer Hitze hineingeben. Sie werden zunächst das ganze Öl aufsaugen, geben es dann aber wieder ab. Wenn nach 10 -12 Minuten das Öl austritt und die Auberginen schön zart aussehen, Frühlingszwiebeln, Knoblauch und ½ TL Salz hinzugeben und umrühren. Vom Herd nehmen und 5 Minuten abkühlen lassen.
 1. Die Eier verquirlen und mit dem restlichen Salz und dem Pfeffer würzen. Die abgekühlte Auberginenmischung zum Ei geben und gut verrühren.
@@ -23369,7 +22914,6 @@ Kerne von 1 Granatapfel
 1 Handvoll Koriandergrün
 
 ### Zubereitung
-
 1. Den Backofen auf 200 Grad vorheizen und ein Backblech mit Backpapier belegen. Walnüsse krümelig zerkleinern und beiseitestellen.
 1. Die Auberginen in 5x2 cm große Stifte schneiden, in Öl wenden, leicht salzen und pfeffern und 25 Minuten auf dem Backblech rösten, bis sie wirklich weich sind.
 1. 3 EL Öl in einer großen Pfanne erhitzen, die Zwiebeln hineingeben und bei mittlerer Hitze 12 Minuten anbraten, dabei häufig rühren, damit sie nicht anbrennen. Den Knoblauch hinzufügen und weitere 3 Minuten braten.
@@ -23398,7 +22942,6 @@ Meersalzflocken
 1 TL sehr fein gehackter Ingwer
 
 ### Zubereitung
-
 1. Für die Salsa eine Pfanne bei hoher Temperatur erhitzen. Sobald sie sehr heiß ist, die Chilis hineinlegen, etwa 10 Minuten rösten und immer wieder mal umdrehen, bis sie rundherum kräftig gebräunt sind. In eine kleine Schüssel legen, zudecken und in 10 Minuten weich werden lassen. Eine Chilischote entkernen, dann ungehäutet fein hacken. In einer Schüssel mit den Tomaten, dem Essig und ¼ TL Meersalzflocken verrühren. Beiseitestellen.
 1. Für das Knoblauch-Ingwer-Öl sämtliche Zutaten mit ½ TL Meersalzflocken in einem kleinen Topf vermengen und bei niedriger Temperatur etwa 8 Minuten erhitzen, bis Knoblauch und Ingwer weich sind. Ab und zu umrühren und achtgeben, dass das Öl nicht zu heiß wird. Beginnt es zu sieden, den topf kurz vom Herd nehmen, bis es sich wieder abgekühlt hat.
 1. Die Auberginen in 7x2 große Stücke schneiden und in einer großen Schüssel in 2 EL Meersalzflocken wenden. In einen Dämpfeinsatz/Sieb legen und vorerst beiseitestellen.
@@ -23452,7 +22995,6 @@ Salz, Pfeffer
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den Backofen auf 210 Grad Umluft vorheizen.
 1. Die Auberginen in 3 cm große Stücke schneiden und mit 100 ml Öl, ¾ TL Salz und 1 kräftigen Prise Pfeffer in eine große Schüssel geben. Durchheben, dann auf zwei mit Backpapier bedeckten Blechen verteilen. 35 Minuten rösten, bis die Auberginen dunkelbraun sind; nach der Hälfte der Zeit durchrühren und die Position der Bleche tauschen, damit das Gemüse gleichmäßig gart. Aus dem Ofen nehmen und abkühlen lassen.
 1. Während die Auberginen im Ofen sind, die restlichen 75 ml Öl in einem kleinen Topf bei mittlerer bis hoher Temperatur erhitzen und einen Teller mit Küchenpapier auslegen. Sobald das Öl sehr heiß ist, den Knoblauch darin etwa 1 Minute braten, bis er ganz leicht gebräunt ist, dabei rühren, um die Scheibchen voneinander zu trennen. Den Knoblauch nicht länger braten, sonst verbrennt er und wird bitter. Den Knoblauch mit einem Schaumlöffel auf den mit Papier bedeckten Teller heben; Das Öl aufbewahren. Den gebratenen Knoblauch mit etwas Salz bestreuen und beseitestellen.
@@ -23481,7 +23023,6 @@ Evtl. 1 Glas Wasser
 Weißer Reis als Beilage
 
 ### Zubereitung
-
 1. In einem großen Topf Kokosöl zerlassen, darin in Ringe geschnittene Zwiebeln, fein gehackten Ingwer, angedrückte Knoblauchzehen und Chilipulver ungefähr 5 Minuten lang andünsten.
 1. Auberginen erst der Länge nach halbieren, dann vierteln, dann in Schnitze von ca. 1 cm Dicke schneiden. In den Topf geben, dazu die in Stücke zerteilten Tomaten.
 1. Tamarindenpaste und Kokosmilch hinzufügen, salzen. Ungefähr 20 Minuten lang köcheln lassen. Die aus der Schale gelösten Erbsen hinzufügen, das Ganze weitere 5 Minuten lang mit geschlossenem Deckel köcheln lassen.
@@ -23508,7 +23049,6 @@ Weißer Reis als Beilage
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den Backofen auf 220 Grad vorheizen. Die Auberginenhälften mit der Schnittfläche nach oben nebeneinander in eine ofenfeste Form legen. Mit 4 EL Olivenöl einpinseln und mit 1 TL Salz sowie reichlich Pfeffer bestreuen. 20 Minuten im Backofen goldbraun rösten, danach abkühlen lassen.
 1. Inzwischen für die Füllung das restliche Öl in einer großen Pfanne erhitzen. Die Gewürze mischen und die Hälfte der Gewürzmischung mit den Zwiebeln etwa 8 Minuten bei mittlerer bis starker Hitze unter häufigem Rühren anbraten. Hackfleisch, Pinienkerne, Petersilie, Tomatenmark, 1 TL Salz, 1 TL Zucker sowie etwa Pfeffer dazufügen und das Ganze weitre 8 Minuten unter Rühren braten, bis das Fleisch durchgegart ist.
 1. Die restliche Gewürzmischung in einer kleinen Schüssel mit 150 ml Wasser, Zitronensaft, Tamarindenpaste, dem restlichen Zucker, den Zimtstangen und ½ TL Salz verrühren.
@@ -23527,7 +23067,6 @@ Abgeriebene Schale von 2 Limetten
 2 EL klarer Honig
 
 ### Zubereitung
-
 1. Die Aubergine in etwa 7,5cm lange, fingerdicke Stücke schneiden, in eine große Schüssel geben. Die Stücke mit Milch übergießen und etwa 1 Stunde ziehen lassen, damit das Gemüse die Bitterstoffe verliert.
 1. Den Backofen auf 220°C (Gas Stufe 7) vorheizen. Den Gries auf einem tiefen Teller mit dem Meersalz vermischen. Die Auberginenstücke aus der Milch nehmen, im Grieß wenden, bis sie gleichmäßig damit bedeckt sind, und auf ein mit Backpapier ausgelegtes Backblech legen.
 1. Die panierten Auberginenstücke mit etwas Olivenöl beträufeln und etwa 12 Minuten im Ofen backen, bis sie außen goldbraun knusprig und innen weich sind. Die Auberginenstücke mit Limettenschale bestreuen und mit Honig beträufelt warm servieren.
@@ -23549,7 +23088,6 @@ Abgeriebene Schale von 2 Limetten
 40 g Granatapfelkerne
 
 ### Zubereitung
-
 1. Den Backofen auf 220 Grad Umluft vorheizen.
 1. Von den Auberginen mit einem Sparschäler die Schale in Streifen abziehen, sodass abwechselnd helle und dunkle Streifen entstehen. Die Auberginen quer in 2 cm dicke Scheiben schneiden. In eine große Schüssel geben und sorgfältig mit 4,5 EL Öl, ½ TL Salz und reichlich Pfeffer mischen. Auf einem mit Backpapier bedecken Backblech verteilen und 40 – 45 Minuten rösten, bis sie dunkelbraun sind. Aus dem Ofen nehmen und abkühlen lassen.
 1. Den Joghurt mit 1 TL Currypulver sowie Kurkuma, Limettensaft, 1 großzügigen Prise und 1 kräftigen Prise frisch gemahlenen Pfeffer verrühren. Bis zur Verwendung kühl stellen.
@@ -23627,7 +23165,6 @@ Schwarzer Pfeffer, Meersalz
 4 EL Olivenöl
 
 ### Zubereitung
-
 1. Die Stielansätze der Auberginen knapp anschneiden. Längs in knapp 1 cm dicke Scheiben schneiden, sodass sie am Stielansatz noch zusammenhängen. Die Zucchini ebenso vorbereiten. Reichlich leicht gesalzenes Wasser mit Rosmarin und Thymian aufkochen. Die vorbereiteten Auberginen darin ca. 4 Minuten, Zucchini ca. 2 Minuten bei schwacher Hitze vorgaren. Gemüse gut abtropfen lassen und in einzelne Scheiben teilen. Auberginenscheiben mit Küchenpapier trockentupfen.
 1. Basilikumblätter grob hacken. Mozzarella in etwa 4 cm lange Stifte schneiden. Mit Zitronenschale, Pfeffer und Basilikum mischen. Die Gemüsestreifen mit Salz und Pfeffer würzen. Eine Hälfte jedes Streifens dünn mit Pesto bestreichen und je 1 Mozzarellastück darauflegen. Gemüse um den Käse herum fest aufrollen und mit kleinen Holzspießchen feststecken. Röllchen dünn mit Olivenöl bestreichen und auf dem heißen Grill rundherum bräunen, bis der Mozzarella zu schmelzen beginnt.
 
@@ -23645,7 +23182,6 @@ Saft ½ Zitrone
 1 EL Meersalz, schwarzer Pfeffer aus der Mühle
 
 ### Zubereitung
-
 1. Den Backofen auf 200°C (Gas Stufe 6) vorheizen. Die Haselnusskerne und die Rosinen in eine große Schüssel geben. Die Auberginen in 1 cm große Würfel schneiden, die Champignons vierteln und ebenfalls in die Schüssel geben.
 1. Den Oregano grob hacken und zusammen mit dem Ricotta in die Schüssel geben. Den Zitronensaft, Salz und Pfeffer hinzugeben. Mit einem Holzlöffel vorsichtig umrühren, bis alles gut vermengt ist.
 1. 8 25+25 cm große Quadrate aus Backpapier schneiden. Die Füllung gleichmäßig auf die Quadrate verteilen. Die Ecken zusammenfassen und mit Bindfaden zu Papillottes schnüren. Auf ein Backblech legen und 25 Minuten backen.
@@ -23671,7 +23207,6 @@ Tipp: Dazu passt gut ein grüner Salat oder auch Kartoffelsalat.
 1 Handvoll Koriandergrün
 
 ### Zubereitung
-
 1. Zunächst den Dämpfer vorbereiten. Am besten geht es mit einem Dampfeinsatz.
 1. Das Kichererbsenmehl in eine Schüssel geben und nach und nach 110 ml Wasser zu einem Teig ohne Klümpchen verrühren. Joghurt, Zitronensaft, Salz, Chili, Ingwer und Fruchtsalz hinzugeben.
 1. Das Wasser im Topf mit dem Dampfeinsatz zum Kochen bringen. Dann den Teig auf den eingeölten Einsatz gießen und vorsichtig in den Topf setzen. Etwa 8 Minuten dämpfen. Bleibt an einem eingesteckten Messer kein Teig mehr kleben, ist der Dhokla fertig. Wieder aus dem Topf heben und abkühlen lassen. Der Dhokla lässt sich dann besser ablösen.
@@ -23717,7 +23252,6 @@ Tipp:	Die Pfannkuchen zum Servieren mit der Panir-Mischung belegen und mit gehac
 Salz, Cayennepfeffer
 
 ### Zubereitung
-
 1. Die Zwiebel schälen und in feine Würfel schneiden. Die Kartoffeln schälen, waschen, in kleine Würfel schneiden, Die Aprikosen waschen, halbieren, entsteinen und in Stücke schneiden.
 1. Das Öl in einem Topf erhitzen und die Zwiebel darin glasig dünsten. Die Kartoffeln und en Ingwer dazugeben und kurz mitdünsten. Das Currypulver unterrühren und die Brühe angießen. Das Curry bei mittlerer Hitze etwa 10 Minuten köcheln lassen.
 1. Inzwischen die Mandeln in einer Pfanne ohne Fett anrösten und abkühlen lassen. Die Kichererbsen in ein Sieb gießen, kalt abbrausen und abtropfen lassen.
@@ -23743,7 +23277,6 @@ Schwarzer Pfeffer, Salz
 100 g Butter
 
 ### Zubereitung
-
 1. Kichererbsen über Nacht oder 12 Stunden lang in reichlich Wasser mit 1 TL Speisenatron oder Backpulver einweichen. Die Kichererbsen abgießen und abtropfen lassen. In einem ofenfesten Topf 2 EL Olivenöl erhitzen, Knoblauchzehen darin anbraten. Parmesanrinde dazugeben, ebenso Kichererbsen, noch mal Speisenatron und 1,2 Liter Wasser sowie eine Menge grob gemahlenen schwarzen Pfeffer (etwa 40 Umdrehungen mit der Mühle).
 1. Flüssigkeit zum Kochen bringen, Schaum auf der Oberfläche abschöpfen. Topf verschließen, Kichererbsen 75 Minuten lang im Ofen bei 160 Grad Umluft garen.
 1. ¾ TL Salz hinzufügen, Kichererbsen weitere 30 Minuten lang schmoren lassen, bis sie weich sind und die Flüssigkeit mindestens um die Hälfte reduziert ist.
@@ -23763,7 +23296,6 @@ Olivenöl
 Salz, Pfeffer, Chiliflocken
 
 ### Zubereitung
-
 1. Die Zwiebel in feine Ringe schneiden. In einer Pfanne in nicht zu wenig Olivenöl ungefähr 3 Minuten lang unter Rühren andünsten. Salzen. Die abgetropften Kichererbsen und die gehackten Tomaten dazugeben. Das Ganze etwa 5 Minuten lang weiterdünsten. Dann die getrockneten Kirschen unterheben.
 1. Den Spinat waschen und putzen, trocknen und in feine Streifen schneiden. In die Pfanne geben. Etwa 100 ml Wasser dazugießen, 15 Minuten bei geschlossenem Deckel dünsten. Ist die Soße zu dünnflüssig, das Ganze noch einen Augenblick ohne Deckel köcheln lassen. Zum Servieren etwas Schafskäse zerkrümeln und darübergeben, ebenso noch etwas Olivenöl, schwarzen Pfeffer und vielleicht ein paar milde Chiliflocken.
 
@@ -23801,7 +23333,6 @@ Salz und schwarzer Pfeffer
 ¼ TL Salz
 
 ### Zubereitung
-
 1. Die Kichererbsen (wie bei Humusrezept) einweichen und garen. Die Kochzeit jedoch ein wenig verkürzen, damit sie noch ein wenig Biss haben. Die gekochten Kichererbsen abgießen und 80 ml Kochwasser auffangen. Die Kichererbsen wiegen (es werden 600 g benötigt) 150 g abnehmen und beiseitestellen. Die restlichen 450 g mit der aufgefangenen Kochflüssigkeit, dem Kreuzkümmel, ½ TL Salz und ¼ TL gemahlenem schwarzem Pfeffer verrühren und warm stellen.
 1. Die restlichen 150 g pürieren. Langsam Tahini, Zitronensaft, Knoblauch und ½ TL Salz dazugeben. Zum Schluss das Eiswasser langsam hineingießen und das Ganze etwa 3 Minuten rühren bis eine glatte, cremige Paste entstanden ist.
 1. Während die Kichererbsen kochen, die Saucen zubereiten. die Zutaten für die Tahinisauce in einer kleinen Schüssel mit 60 ml Wasser und 1 Prise Salz verrühren. Ist die Sauce zu dick, noch etwas Wasser dazufügen.
@@ -23917,7 +23448,6 @@ Salz, Pfeffer, gemahlener Kümmel, mildes Chilipulver
 1 EL Petersilienblätter
 
 ### Zubereitung
-
 1. Die Zwiebel schälen und in kleine Würfel schneiden. 1 EL Öl in einem Topf erhitzen und die Zwiebelwürfel darin glasig dünsten. Die Brühe dazugießen, das Lorbeerblatt hinzufügen und die Zwiebel etwa 10 Minuten weich garen. Die Egerlinge dazugeben, den Topf vom Herd nehmen und die Sauce 10 Minuten ziehen lassen.
 1. Das Lorbeerblatt entfernen. Die Sahne dazugeben, die Sauce mit dem Stabmixer aufschäumen und durch ein Sieb in den Topf streichen.
 1. Die Sauce erneut zum Köcheln bringen. Die Speisestärke mit wenig kaltem Wasser glattrühren, in die Sauce geben und weitere 2 Minuten sanft köcheln lassen. Die Butter untermixen. Den Knoblauch schälen, halbieren und mit der Zitronenschale in die Sauce geben. Knapp unter dem Siedepunkt einige Minuten ziehen lassen, beides wieder entfernen. Die Sauce mit Salz, Pfeffer, je 1 Prise Kümmel und Chilipulver würzen.
@@ -24072,7 +23602,6 @@ Meersalzflocken
 1 EL Olivenöl
 
 ### Zubereitung
-
 1. Den Backofen auf 150 Grad (Umluft) vorheizen.
 1. die Zutaten für die Portobello-Steaks mit 1 EL Meersalzflocken in einen großen ofenfesten Topf mit passendem Deckel geben. Die Pilze so arrangieren, dass die Wölbung der Köpfe nach oben zeigt, dann ein Stück Backpapier darauflegen und damit alles nach unten drücken. Den Deckel auflegen und den Topf für 1 Stunde in den Backofen stellen. Die Pilze wenden, Papier und Deckel wieder auflegen und den Topf für weitere 20 Minuten in den Ofen stellen bis die Pilze sehr weich sind, aber noch nicht zerfallen. Die Pilze auf ein Schneidebrett legen. Halbieren und beiseitestellen.
 1. Mit einem Löffel Knoblauch, Zwiebel und Chilischote aus dem Topf nehmen. Glatt pürieren. Das Püree zusammen mit den Pilzen zurück in den Topf geben. Bei mittlerer bis hoher Temperaturn noch etwa 5 Minuten erhitzen.
@@ -24130,7 +23659,6 @@ Zucker
 1 Grill
 
 ### Zubereitung
-
 1. die Zutaten für das Aioli in einer kleinen Schüssel verrühren. Bis zum Bestreichen der Sandwiches kaltstellen.
 1. die Zutaten für die Marinade in einer kleinen Schüssel mit dem Schneebesen verrühren. Die Pilzhüte mit der Lamellenseite nach unten auf ein großes Backblech legen, großzügig mit Marinade bestreichen und umdrehen. Die restliche Marinade mit einem Löffel in die Pilze füllen. 15 – 20 Minuten marinieren.
 1. Den Grill für direkte mittlere Hitze vorbereiten.
@@ -24191,7 +23719,6 @@ Nadeln von 2 Zweigen Rosmarin
 2 Eier
 
 ### Zubereitung
-
 1. Das Mehl und das Salz vermengen, Olivenöl und 80 ml Wasser hinzugießen. Erst mit einem Löffel, dann mit den Händen zu einem Teig verkneten. Diesen in den Kühlschrank legen.
 1. Den Backofen auf 170 Grad Ober- und Unterhitze vorheizen. Für den Belag getrocknete Steinpilze mit heißem Wasser übergießen, sodass sie gerade bedeckt sind. Zwiebeln schälen und fein schneiden. Olivenöl in einer Pfanne erhitzen und die Zwiebel darin unter Rühren andünsten, etwa 8 Minuten lang. Die gemischten Pilze putzen, klein schneiden und dazu geben. Pilze mit Weißwein ablöschen, salzen und pfeffern. Rosmarinnadeln fein hacken und dazugeben. Die eingeweichten Steinpilze abgießen, klein schneiden hinzufügen. Das Ganze ungefähr 10 Minuten schmoren, bis die Flüssigkeit eingekocht ist und die Pilze gar sind. Den Teig in eine Tarteform drücken. Die Pilzmischung gleichmäßig auf dem Teig verteilen. Gruyère und Parmesan reiben. Milch, Eier und gerieben Käse in einer Schüssel verrühren. Auf die Tarte gießen. Die Tarte im Ofen 30 bis 35 Minuten lang backen.
 
@@ -24209,7 +23736,6 @@ Nadeln von 2 Zweigen Rosmarin
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den Backofen auf 220 Grad Umluft vorheizen.
 1. Champignons, Schalotten, Esskastanien, Salbei, Öl und Knoblauch in einer großen Schüssel mit ¾ TL Salz und richtig viel Pfeffer mischen. Auf einem großen, mit Backpapier belegten Backblech verteilen und 25 Minuten im Ofen rösten, bis Pilze und Schalotten karamellisiert und weich sind. Aus dem Ofen nehmen und 5 Minuten abkühlen lassen.
 1. Die warme Pilzmischung in eine große Schüssel gehen. Estragon, Za’atar, Zitronensaft und die zusätzlichen 2 TL Öl hinzufügen und untermischen. Alles in eine große Schüssel füllen und servieren.
@@ -24231,7 +23757,6 @@ Je 1/3 TL Salz und Pfeffer
 2 TL gehackter Thymian
 
 ### Zubereitung
-
 1. Pilze putzen. Die Zwiebeln schälen und mit dem Speck kleinwürfeln. Den Speck ausbraten und die Zwiebelwürfel im Speckfett glasig braten. Die Pilze hinzufügen, kurz unter Umwenden mitbraten und mit der Gemüsebrühe auffüllen. 
 1. Das Salz, den Pfeffer und den Knoblauch untermischen und alles zugedeckt bei schwacher Hitze 8 Minuten kochen lassen. Die Tomaten brühen, häuten würfeln, dabei die Kerne entfernen, zu den Pilzen geben und alles weitere 5 Minuten kochen lassen. Das Mehl mit der Butter verkneten, in dem Pilzragout auflösen und einige Minuten mitkochen lassen. Die Sahne untermischen. Das Ragout mit dem Thymian bestreuen. Dazu passen Semmelknödel oder Rösti.
 
@@ -24247,7 +23772,6 @@ Je 1/3 TL Salz und Pfeffer
 1 Tasse geriebenen Käse
 
 ### Zubereitung
-
 1. Kartoffeln in der Schale kochen, schälen und in ca. 0,5 cm dicke Scheiben schneiden. Die Pilze vierteln und in der zerlassenen Butter dämpfen.
 1. Mit Zitrone (und eventuell etwas Gemüsebrühe) würzen.
 1. Die Pilze in eine gebutterte Auflaufform zusammen mit den Kartoffeln legen und die Kräuter dazwischen streuen. Zuletzt den Käse drüberstreuen und den Auflauf ca. 25 Minuten im Ofen gratinieren. 
@@ -24265,7 +23789,6 @@ Salz
 2 EL Olivenöl
 
 ### Zubereitung
-
 1. Pilze putzen und in Scheiben schneiden.
 1. Den Backofen auf 225°C vorheizen. Pilze mit Tomaten, Schinken, Kräutern, Salz und Paprikapulver in einer flachen hitzebeständigen Form mischen.
 1. Käse mit Semmelbröseln mischen und darüber streuen. Mit dem Öl beträufeln und im Ofen (Mitte) etwa 20 Minuten backen. Mit Reis, Polenta oder Brot servieren.
@@ -24288,7 +23811,6 @@ Saft von ½ Zitrone
 Kerne von 1 Granatapfel (zum Bestreuen)
 
 ### Zubereitung
-
 1. Den Backofen auf 180°C (Gas Stufe 4) vorheizen. 
 1. Die Pilze putzen und dabei die Stiele entfernen: Die Pilzköpfe mit der Unterseite nach oben auf ein Backblech legen, mit Olivenöl beträufeln und etwa 15 Minuten im Ofen backen, bis sie weich und saftig sind.
 1. In der Zwischenzeit die Quinoa in einem Sieb spülen und abtropfen lassen. In einen Topf geben, mit 250 ml Wasser aufgießen und eine Prise Meersalz hinzufügen. Kurz zum Kochen bringen, die Hitze reduzieren und 15-20 Minuten leicht köcheln lassen. Etwas abkühlen lassen, dann mit den Zutaten für den Taboulé in eine Schüssel füllen und vermischen.
@@ -24318,7 +23840,6 @@ Tipp:	Quinoa stammt wie Amaranth aus der Andenregion und ist eine alte Kulturpfl
 1 Handvoll gehacktes Koriandergrün
 
 ### Zubereitung
-
 1. Den Backofen auf 180 Grad vorheizen.
 1. Die Champignons putzen und auf die Größe von Linsen kleinhacken.
 1. Die Butter mit dem Öl in einer großen Pfanne bei mittlerer Hitze zerlassen und die Kreuzkümmelsamen und drei Viertel der Zwiebeln hineingeben. Etwa 10 Minuten anschwitzen, dann Knoblauch, Ingwer und Chilis dazugeben. Weitere 3 Minuten braten, die Tomaten hinzufügen du die Pfanne bedecken.
@@ -24341,7 +23862,6 @@ Tipp:	Quinoa stammt wie Amaranth aus der Andenregion und ist eine alte Kulturpfl
 Ca. 300 g Blätterteig
 
 ### Zubereitung
-
 1. Ofen auf 180 Grad Umluft heizen. Zwiebeln schälen und fein schneiden. Butter in einer Pfanne langsam zerlassen, Öl hinzugeben, darin die Zwiebel zusammen mit den Thymianblättchen andünsten. Zucker hinzufügen. Das Ganze einige Minuten lang dünsten, bis die Zwiebeln weich sind.
 1. Äpfel schälen und in Schnitze schneiden. Camembert in Scheiben. Teig auf einem mit Backpapier ausgelegten Blech ausrollen. Darauf die Zwiebel verteilen, einen Rand von ungefähr 2 cm frei lassen. Auf den Zwiebeln die Apfelschnitze anordnen (wie auf einer klassischen Apfeltarte). In Abständen eine Scheibe Camembert stecken. Den Teig an den Rändern umklappen. Etwa 35 Minuten lang backen.
 
@@ -24397,7 +23917,6 @@ Süßkartoffeln sind wirklich für vieles gut und immer lecker. Süßkartoffeln 
 Salz
 
 ### Zubereitung
-
 1. Die Süßkartoffeln mit ¾ TL Salz in einen kleinen Topf geben. So viel kochend heißes Wasser dazugießen, dass sie knapp bedeckt sind. Bei mittlerer bis starker Hitze 10-12 Minuten garen, bis sie so weich sind, dass man sie zerstampfen kann. Die Süßkartoffeln abgießen und gut abtropfen lassen (etwas Kochwasser auffangen, falls man für das Püree noch etwas Wasser braucht). 2 EL Öl hinzufügen und die Kartoffeln glatt zerstampfen. Etwas abkühlen lassen, dann die Hälfte der Limettenschale und 2 EL Joghurt unterzeihen. Den Süßkartoffelstampf auf eine Servierplatte geben und Mulden hineindrücken.
 1. Den restlichen Joghurt mit dem Knoblauch verrühren und gleichmäßig auf den Süßkartoffelstampf löffeln. Mit Granatapfelsirup und den restlichen 2 TL Öl beträufeln, dann mit Koriandergrün, Chili, Sesam, restlicher Limettenschale und einer Prise Salz bestreuen. Mit Limettenspalten servieren.
 
@@ -24474,7 +23993,6 @@ Schwarzer Pfeffer
 Meersalzflocken
 
 ### Zubereitung
-
 1. Den Backofen auf 220 Grad Umluft vorheizen.
 1. Die Süßkartoffelstäbchen in einer großen Schüssel mit Paprikapulver, Cayennepfeffer, Knoblauch, Maisgrieß und 1 TL Meersalzflocken mischen. Die Süßkartoffeln und das gesamte Öl auf zwei mit Backpapier bedeckten Backblech verteilen und 25 – 30 Minuten im Ofen rösten, bis die Pommes goldbraun und knusprig sind, dabei ein- bis zweimal wenden.
 1. Aus dem Ofen nehmen, mit dem Sumach und 1 TL Meersalzflocken bestreuen und sofort servieren.
@@ -24525,7 +24043,6 @@ Pfeffer, Salz
 Joghurt zum Servieren
 
 ### Zubereitung
-
 1. In einer großen Pfanne 1 EL Öl erhitzen und Gewürznelken, Sternanis, Pfefferkörner, Zimtstange und Kreuzkümmelsamen hineingeben. Bei mittlerer Hitze 2 Minuten anrösten, bis die Pfefferkörner und die Nelken anschwellen und die Gewürze duften. Vom Herd nehmen.
 1. Die Gewürze im Mörser zerstoßen. Knoblauch, Ingwer und Essig hinzugeben und alles zu einer glatten Paste zermahlen, dann den Cayennepfeffer unterrühren.
 1. In der Pfanne 3 EL Öl erhitzen und die Zwiebeln hineingeben. Unter gelegentlichem Rühren bei mittlerer Hitze 15 Minuten braten, bis sie gebräunt und karamellisiert sind. Die Gewürzpaste, Salz und Zucker hinzufügen. Einige Minuten schmoren lassen, dann die Tomaten aus der Dose in die Hand gleiten lassen und über der Pfanne zerdrücken. Die Dose zur Hälfte mit Wasser füllen und in die Pfanne leeren. Die Pfanne abdecken und die Tomatenmischung 5 Minuten köcheln lassen, danach die Süßkartoffeln hineingeben.
@@ -24557,7 +24074,6 @@ Salz, schwarzer Pfeffer
 2 TL fein gehackter Dill
 
 ### Zubereitung
-
 1. Den Backofen auf 240 Grad (Umluft) vorheizen.
 1. Die Süßkartoffeln in einer großen Schüssel mit Öl, Ahornsirup, Kardamom, Kreuzkümmel, ½ TL Salz und 1 kräftigen Prise Pfeffer vermengen, Auf einem mit Backpapier bedeckten Blech verteilen, sorgfältig mit Alufolie zudecken und im Ofen 25 Minuten backen, bis sie durchgegart und von unten etwas braun sind.
 1. Für die Sauce Öl, Knoblauch, Chili und 1 Prise Salz in einer großen Schmorpfanne mit Deckel vermengen und den Knoblauch bei mittlerer Hitze 8-10 Minuten ganz sanft anschwitzen bis er weich ist. Ab und zu umrühren, Die Hälfte der Mischung in eine kleine Schüssel umfülle. Die Schalotten zu der Restmischung in der Pfanne geben und 5 Minuten unter häufigem Rühren glasig anschwitzen. Die pürierten Tomaten, das Tomatenmark sowie Zucker, Kardamom, Kreuzkümmel, Limettenschale und 1 TL Salz hinzufügen und 5 Minuten erhitzen. Hin und wieder umrühren, 250 ml Wasser zugießen und die Sauce noch 5 Minuten köcheln lassen.
@@ -24580,7 +24096,6 @@ Salz
 Saure Sahne zum Servieren
 
 ### Zubereitung
-
 1. Kartoffeln schälen und in feine Scheiben zerteilen. Die Scheiben sollten sehr dünn sein.
 1. In einer Schüssel Olivenöl, Harissa, Weißweinessig mit etwas Salz vermengen. Die Süßkartoffelscheiben in die Schüssel legen, mit den Händen vermengen, bis die Kartoffelscheibchen mit der Paste bedeckt sind.
 1. 1 EL Olivenöl in einer Auflaufform verteilen. Die Süßkartoffelscheiben aufrecht hinstellen, damit sie am oberen Rand schön knusprig werden. Noch mal 2 EL Olivenöl darübergeben, noch mal salzen. Die Form mit Alufolie locker abdecken, Gratin bei 200 Grad Umluft für 45 Minuten backen. Dann die Folie entfernen und das Gratin für weitere 15 Minuten backen.
@@ -24597,7 +24112,6 @@ Saure Sahne zum Servieren
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den Backofen auf 200 g Umluft vorheizen.
 1. Die Süßkartoffeln mit 1 EL Öl und ¼ TL Salt würze. Mit der Schnittfläche nach unten auf ein mit Backpapier bedecktes Backblech legen und 30 – 35 Minuten im Ofen rösten, bis sie sehr weich sind.
 1. Während die Süßkartoffeln im Ofen sind, kann man die Salsa machen. Dafür das restliche Öl (3 EL) in eine kleine Schüssel geben und mit den übrigen Zutaten sowie einer kräftigen Prise Salz mischen.
@@ -24622,7 +24136,6 @@ Schale von 1 ungespritzten Orange
 Sauer Sahne oder Naturjoghurt
 
 ### Zubereitung
-
 1. Kokosöl oder neutrales Pflanzenöl in einem Topf heiß werden lassen. Kumin darin anrösten. Die Zwiebeln schälen und in feine Streifen schneiden, den Ingwer schälen, zusammen mit der Chilischote fein hacken und dazugeben. Salzen und alles etwa 5 Minuten lang dünsten.
 1. Inzwischen die Süßkartoffeln schälen, in etwa 2 cm große Würfel schneiden und in den Topf geben. Dosentomaten hinzufügen und mit dem Kochlöffel sanft zerdrücken. Dann folgen die Kichererbsen. Schließlich 500 ml Wasser dazugießen.
 1. Den Topf zudecken, und alles bei mittlerer Hitze ungefähr 35 Minuten lang köcheln lassen. Zum Schluss rührt man die fein gehackte Orangenschale unter. Das Curry mit etwas saurer Sahne oder Naturjoghurt servieren.
@@ -24648,7 +24161,6 @@ Salz
 1,5 TL Zucker
 
 ### Zubereitung
-
 1. Die Blumenkohlblätter so stutzen, dass jeweils 5 cm des eigentlichen Blumenkohls frei liegen. Beide Köpfe längs vierteln; die Blätter sollen unbedingt am Strunk bleiben.
 1. In einem sehr großen Topf reichlich gesalzenes Wasser aufkochen. Die Blumenkohlviertel darin 2 Minuten blanchieren. Die Blumenkohlstücke in ein Sieb geben und gut abtropfen lassen. Den Backofen auf 180 Grad (Umluft) vorheizen.
 1. die Zutaten für die Chilibutter in einer kleinen Schüssel mit 1 TL Salz verrühren. Blumenkohlviertel, Zwiebeln und Chilischoten auf ein mit Backpapier bedecktes Blech legen und mit der Chilibutter begießen. Sorgfältig mischen, bis alles gut überzogen ist. Die Blumenkohlviertel so arrangieren, dass zwischen ihnen so viel Abstand wie möglich ist; eine Schnittfläche sollte jeweils unten sein, die Blätter sind also der Hitze ausgesetzt. 30 Minuten rösten, großzügig mit Garsud und Chilibutter bestreichen und die Ofentemperatur auf 170 Grad (Umluft) reduzieren. Das Gemüse weitere 35-40 Minuten rösten, dabei zweimal mit der Garflüssigkeit bestreichen, bis der Blumenkohl schön gebräunt ist und die Blätter knusprig sind.
@@ -24674,7 +24186,6 @@ Salz
 1 Handvoll Mandelsplitter
 
 ### Zubereitung
-
 1. Den Backofen auf 180 Grad vorheizen und zwei Backbleche mit Backpapier belegen.
 1. Den Blumenkohl in mundgerechte Röschen brechen. Die Röschen in eine große Schüssel geben, mit 4 EL Öl beträufeln und mit 1 TL Salz bestreuen. Mit den Händen vermengen, dann in einer Lage auf die Backbleche verteilen. Etwa 30 – 40 Minuten backen, bis die Röschen zart und schön gebräunt sind. Alle 10 Minuten überprüfen, sonst mit Alufolie abdecken.
 1. 3 EL Öl in einer großen Pfanne erhitzen und die Zwiebeln hineingeben. Bei mittlerer Hitze 12 – 15 Minuten anbraten bis sie weich sind und bräunen. Den Knoblauch dazupressen und den Ingwer hineinreiben. Einige Minuten braten, dann Kardamom, Pfeffer, Garam masala, Cayennepfeffer, gemahlene Mandeln, Honig und ca. 1 ¼ TL Salz hinzugeben. Weiter 3 Minuten unter Rühren garen und danach den Joghurt unterheben.
@@ -24726,7 +24237,6 @@ Saft von 2 Limetten
 1 TL gemahlener Kreuzkümmel
 
 ### Zubereitung
-
 1. Das Öl in einer großen Pfanne erhitzen, dann Senfsamen und Curryblätter bei mittlerer Hitze darin anrösten. Sobald die Samen knistern und aufplatzen und die Blätter knusprig und durchscheinend werden, den Blumenkohl dazugeben.
 1. Unter gelegentlichem Rühren 5 Minuten braten. Den Ingwer reiben und seinen Saft mit den Händen direkt über der Pfanne pressen und das Fruchtfleisch wegwerfen. Chili hinzugeben und weiter 5 Minuten braten. Die Röschen sollten ansetzen und karamellisieren.
 1. Wenn der Blumenkohl eine schöne Farbe hat, 4 EL Wasser hinzugeben, umrühren, dann abdecken und 5 Minuten gar dämpfen. Limettensaft, Salz, Kurkuma, Koriander und Kreuzkümmel hinzugeben und weitere 6 – 8 Minuten unter Rühren garen, bis die Flüssigkeit vollständig verkocht ist.
@@ -24745,7 +24255,6 @@ Butter
 2 EL gehackter Kerbel
 
 ### Zubereitung
-
 1. Große Röschen aus dem Blumenkohl brechen und halbieren. Schnittflächen in Öl tauchen, salzen und in einer Pfanne langsam dunkelbraun fast schwarz anbraten. Dann Röschen auf ein Blech legen (Schnittfläche nach unten), etwas Salz und Butterflocken darüberträufeln und mit Alufolie bedeckt im Backofen 10 Minuten bei 1600 Grad backen.
 1. 150 g Couscous mit Garam Masala und 1 Prise Salz. Dann 150 ml kochendes Wasser darübergießen und einige Minuten quellen lassen. Mandeln und er Pfanne anschwitzen, Couscous dazugeben zusammen mit Pistazien, Rosinen, gehacktem Kerbel. 
 1. Dazu kann man auch noch einen Dip servieren: einen halben Bund Petersilie, Schnittfläche, Kerbel, Basilikum, Radieschenblätter mit 125 ml Olivenöl zu einer Paste mixen. Mit 200 g körnigen Hüttenkäse (und 100 g Mascarpone) vermengen, salzen, pfeffern und etwas Tabascospritzer hinzufügen.
@@ -24760,7 +24269,6 @@ Butter
 Meersalzflocken
 
 ### Zubereitung
-
 1. Mit einer Schere die Blumenkohlblätter oben so stutzen, dass etwa 5 cm vom eigentlichen Kohl frei liegen.
 1. Einen Topf drei Viertel hoch mit Wasser füllen. Das Wasser salzen und zum Kochen bringen. Den Blumenkohl vorsichtig mit dem Strunk nach oben darin versenken. Sollte der Strunk etwas herausragen, mach das gar nichts. Das Wasser erneut aufkochen lassen. Den Blumenkohl 6 Minuten darin garen, dann mit einem Schaumlöffel mit dem Strunk nach oben in ein Sieb heben. Beiseitestellen und 10 Minuten abtropfen und abkühlen lassen.
 1. Den Backofen auf 170 Grad Umluft vorheizen.
@@ -24787,7 +24295,6 @@ Info: Dazu passt auch gut grüne Tahin-Sauce.
 Salz
 
 ### Zubereitung
-
 1. Den Backofen auf 180 Grad Umluft vorheizen.
 1. Den Blumenkohl in einem großen Topf mit Dämpfeinsatz/Sieb über kochendem Wasser 5 Minuten dämpfen. Vom Herd nehmen und etwas abkühlen lassen.
 1. Die Butter in einem Schmortopf bei mittlerer Hitze zerlassen. Die Zwiebelwürfel darin 8 Minuten anschwitzen, bis sie weich sind und etwas Farbe angenommen haben. Kreuzkümmel, Curry- und Senfpulver sowie die Chilischoten hinzufügen und unter gelegentlichem Rühren 4 Minuten anschwitzen. Die Senfsamen dazugeben, 1 Minute später die Sahne angießen. 100 g Cheddar und ½ TL Salz unterrühren und die Sauce 2-3 Minuten köcheln lassen, bis sie etwas eingedickt ist. Den Blumenkohl hinzufügen und vorsichtig unterrühren. Das Ganze 1 Minute köcheln lassen, dann vom Herd nehmen.
@@ -24815,7 +24322,6 @@ Abgeriebene Schale von 1 Bio-Zitrone
 Maldon Sea Salt und schwarzer Pfeffer
 
 ### Zubereitung
-
 1. Das Öl bei mittlerer bis starker Temperatur in einem großen Topf erhitzen. Die Blumenkohlröschen in kleinen Portionen mit einer Zange vorsichtig ins heiße Fett geben und 2-3 Minuten unter häufigem Wenden frittieren, bis sie gleichmäßig gebräunt sind. Mit einem Schaumlöffel herausheben, in einem Sieb abtropfen lassen und mit etwas Salz bestreuen. Die Frühlingszwiebeln ebenfalls portionsweise etwa 1 Minute frittieren, zum Blumenkohl geben und das Gemüse etwas abkühlen lassen.
 1. Tahini mit Knoblauch, Kräutern, Joghurt, Zitronenschale und -saft, Granatapfelsirup sowie etwas Salz und Pfeffer in eine große Schüssel geben. die Zutaten sorgfältig mit einem Kochlöffel verrühren und dabei etwa 180 ml Wasser hinzufügen, bis ein dickes, glattes Dressing entstanden ist. 
 1. Blumenkohl und Frühlingszwiebeln dazugeben, gut durchheben und noch einmal abschmecken.
@@ -24837,7 +24343,6 @@ Etwas Gemüsebrühe
 Je 1 TL gehackter Borretsch und Zitronenmelisse
 
 ### Zubereitung
-
 1. Vom Blumenkohl den Strunk anschneiden und dabei die äußeren Blätter vom Kohl entfernen. Den Blumenkohl mit den röschen nach unten in kaltes Salzwasser legen, damit eventuell im Blumenkohl hausendes Ungeziefer herausschwimmt.
 1. 1 l Wasser mit dem Zitronensaft zum Kochen bringen und den Blumenkohl darin 25 – 30 Minuten kochen lassen. Den Blumenkohl dann aus dem Wasser heben und warm stellen.
 1. 3/8 l vom Kochwasser abmessen und die Gemüsebrühe darin auflösen. Die Bitter in einem Topf zerlassen, das Mehl hineinstäuben unter Rühren hellgelb anbraten und nach und nach mit der heißen Gemüsebrühe ablöschen. Die Sahne unterrühren und die Sauce mit Salz abschmecken. Die Kräuter unter die Sauce mischen, über den Blumenkohl gießen.
@@ -24905,7 +24410,6 @@ Je 1 EL Butter und Mehl
 2 EL Semmelbrösel
 
 ### Zubereitung
-
 1. Den Blumenkohl in Röschen teilen und gründlich waschen. 2 l Wasser mit dem Zitronensaft zum Kochen bringen, die Röschen einlegen und zugedeckt etwa 15 Minuten kochen, dann in einem Sieb abtropfen lassen und über dem kochenden Sud warmhalten.
 1. Den Käse reiben. Die Butter zerlassen, das Mehl hineinstäuben und unter Rühren hellgelb anbraten. Nach und nach mit der Gemüsebrühe auffüllen und aufkochen lassen. Die Milch mit dem Schneebesen einrühren, das Salz, den Muskat und den Käse zufügen und die Sauce unter Rühren 8 Minuten köcheln lassen.
 1. Das Eigelb verquirlen, mit 2 – 3 EL heißer Sauce verrühren und in de Sauce mischen. Die Butter zerlassen, die Semmelbrösel darin hellbraun anrösten. Den Blumenkohl mit den Semmelbröseln bestreuen. Käsesauce dazureichen. Dazu passen z.B. Frikadellen…
@@ -24926,7 +24430,6 @@ Salz, Pfeffer
 500 g Maccheroni
 
 ### Zubereitung
-
 1. Den Blumenkohl in 3 – 4 cm große Stücke zerkleinern, waschen, auf einem Backblech ausbreiten, mit etwas Öl beträufeln und salzen. Dann etwa 20 Minuten bei 200 Grad Umluft backen, bis er etwas braun ist. Derweil den Grünkohl waschen, zerteilen und in kochendem Wasser zwei Minuten blanchieren, danach herausnehmen und zur Seite stellen. Statt des Grünkohls kann man auch die Blumenkohlblätter verwenden.
 1. Den Käse grob reiben. In einem mittelgroßen Topf eine Béchamelsauce zubereiten. Dafür die Bitter bei kleiner bis mittlerer Hitze schmelzen und nach und nach mit dem Mehl unter ständigem Rühren mit einem Schneebesen vermengen. Dann die Milch langsam einrühren. Etwas Salz (höchstens ¼ TL), Pfeffer und den Senf hinzugeben. Bei mittlerer Hitze immer wieder rühren, damit keine Klumpen entstehen. Wenn die Sauce dick geworden ist, vom Herd nehmen und die Hälfte des Käses einrühren, bis er geschmolzen ist. Abschmecken und eventuell mehr Salz und Pfeffer hinzugeben.
 1. Den Blumenkohl aus dem Ofen nehmen und die Temperatur auf 220 Grad erhöhen. Die Maccheroni in gesalzenem Wasser al dente kochen. Eine Auflaufform mit Butter einfetten. Die Maccheroni, den Blumenkohl, den Grünkohl und die Sauce in die Form geben, vermengen und mit dem restlichen Käse bestreuen. Etwa 20 Minuten backen, bis der Käse goldbraun ist.
@@ -24986,7 +24489,6 @@ Meersalz
 1 große Handvoll Koriandergrün
 
 ### Zubereitung
-
 1. Zuerst die Gewürzmischung vorbereiten. Die koriander- und Senfsamen sowie die Kardamonkapseln in einem Mörser zerstoßen. Die restlichen Gewürze und die Aprikosen hinzugeben und mit den Fingern gut vermengen.
 1. Das Ghee in einem großen Topf bei mittlerer Hitze erwärmen, die Gewürzmischung hinzugeben und rösten, bis sie braun wird und zu duften beginnt. Dabei ständig mit einem Holzlöffel umrühren, damit die nicht anbrennt. Sollte sie zu trocken sein, 1 EL Wasser oder mehr hinzufügen.
 1. Die Zwiebel und den Knoblauch hinzugeben und unter Rühren einige Minuten braten. Den Blumenkohl und die Karotten hinzufügen und umrühren, bis sie mit der Gewürzmischung ganz überzogen sind.
@@ -25002,7 +24504,6 @@ Meersalz
 Salz, Pfeffer aus der Mühle
 
 ### Zubereitung
-
 1. Blumenkohl waschen oder eben TK-Blumenkohl nehmen.
 1. Den Backofen auf 225°C (Umluft 200°C) vorheizen. Die Zitrone heiß waschen und in dünne Scheiben schneiden. Die Zwiebel schälen, halbieren und in breite Streifen schneiden. Den Knoblauch schälen und der Länge nach halbieren.
 1. Blumenkohl in einer hitzebeständigen form mit Zitrone, Zwiebeln, Knoblauch und Öl mischen. Mit Salz und Pfeffer würzen. Im Ofen (Mitte) etwa 25 Minuten backen. Mit Weißbrot servieren.
@@ -25030,7 +24531,6 @@ Salz
 1 Handvoll Mandelsplitter
 
 ### Zubereitung
-
 1. Den Backofen auf 180°C vorheizen und zwei große Backbleche mit Alufolie belegen.
 1. Den Blumenkohl in mundgerechte Röschen brechen. Die Röschen in eine große Schüssel geben, mit 4 EL Öl beträufeln und mit 1 TL Salz bestreuen. Mit den Händen vermengen, dann in einer Lage auf die Backbleche verteilen. Etwa 30-40 Minuten backen, bis die Röschen zart und schön gebräunt sind. Alle 10 Minuten überprüfen – wenn sie anzubrennen drohen, locker mit Alufolie abdecken.
 1. In der Zwischenzeit 3 EL Öl in einer großen Pfanne erhitzen und die Zwiebeln hineingeben. Bei mittlerer Hitze 12-15 Minuten anbraten, bis sie weich sind und bräunen. Den Knoblauch dazu pressen und den Ingwer hineinreiben. Einige Minuten braten, dann Kardamon, Pfeffer, Garam Masala, Cayennepfeffer, gemahlene Mandeln, Honig und 1 ¼ TL Salz hinzugeben. Weitere 3 Minuten unter Rühren garen und danach den Joghurt unterheben.
@@ -25058,7 +24558,6 @@ Salz und gemahlener Pfeffer
 1 Handvoll Koriandergrün
 
 ### Zubereitung
-
 1. Den Backofen auf 180°C vorheizen. Die Blätter vom Blumenkohl ablösen du die Unterseite gerade schneiden, damit er gut steht. Den Blumenkohl gründlich mit Öl einreiben, soweit möglich auch zwischen den Stielen und Röschen, und mit Salz und Pfeffer würzen. In einen Bräter setzen und 45 Minuten backen.
 1. Währenddessen die Butter in einer Pfanne bei mittlerer Hitze zerlassen. Sobald sie siedet, die Zwiebeln hineingeben und 10 Minuten anschwitzen, bis sie goldgelb und weich sind. Ingwer und Knoblauch hinzugeben und einige Minuten braten. Die Tomaten über der Pfanne in die Hand gleiten lassen und zerdrücken, die Dose zu drei Vierteln mit Wasser füllen und in die Pfanne leeren. Etwa 5 Minuten köcheln lassen, dann gemahlene Mandeln, Zimt, Bockshornkleeblätter (wenn man will), Gewürznelken, Cayennepfeffer und 1 TL Salz hinzugeben. Weitere 5 Minuten köcheln lassen, anschließend vom Herd nehmen.
 1. Nach 45 Minuten zur Garprobe mit einem scharfen Messer tief in den Blumenkohl stechen. Er sollte beinahe gar sein, aber nicht weich sein. Die Sauce über den Blumenkohl gießen und den offenen Bräter weitere 20 Minuten in den Ofen schieben. Die Mandelsplitter in einer kleinen Pfanne bei mittlerer Hitze rösten, bis sie hellgoldgelb sind, dann beiseitestellen.
@@ -25109,7 +24608,6 @@ Salz
 Salz
 
 ### Zubereitung
-
 1. Die Brokkolistrünke zu Quadern zurechtschneiden, dann längs in dünne Scheiben hobeln. Jeweils mehrere Scheiben aufeinanderlegen und in feine Stifte schneiden. In eine Schüssel geben und sorgfältig mit ½ TL Salz mischen. Eine Stunde ziehen lassen, dann mit den Händen behutsam etwas von der salzigen Flüssigkeit herausdrücken. Die Stifte in eine saubere Schüssel geben. Mit 2 EL Essig und den Chiliringen mischen. Beiseitestellen und durchziehen lassen (aber nicht länger als 3 Stunden)
 1. Die Sojasauce mit dem Zucker und dem restlichen Essig (1 EL) in einem kleinen Topf bei mittlerer bis starker Hitze zum Kochen bringen. 2 Minuten köcheln lassen, dann vom Herd nehmen und zum Abkühlen beiseitestellen. Die Mischung dickt dabei etwas ein.
 1. Das Sonnenblumenöl in einem hohen Topf sehr stark erhitzen. Jeweils eine Handvoll Brokkoliröschen hineingeben. Frittieren, bis sie weich und stellenweise gebräunt sind (etwa 45 Sekunden dauert das😊). Abtropfen lassen. Den Brokkoli dann in einer großen Schüssel mit der Sojasaucenmischung durchheben, bis die Röschen gut davon überzogen sind.
@@ -25130,7 +24628,6 @@ Frisch geriebene Muskatnuss
 80 g Parmesan (am Stück)
 
 ### Zubereitung
-
 1. Den Brokkoli putzen, waschen und in Röschen teilen. Die Brokkoliröschen in einem Topf mit reichlich kochendem Salzwasser 2 bis 3 Minuten blanchieren. In ein Sieb gießen, kalt abschrecken und abtropfen lassen.
 1. Die Zwiebel und den Knoblauch schälen und in feine Würfel schneiden. Die Butter in einem Topf erhitzen und die Zwiebel und den Knoblauch darin andünsten. Das Mehl dazugeben und unter Rühren bei schwacher Hitze 1 Minute anschwitzen. Nach und nach die Milch hinzufügen und die Béchamelsauce unter Rühren 5 Minuten köcheln lassen. Kräftig mit Salz, Pfeffer und Muskatnuss würzen.
 1. Den Backofen auf 180 Grad vorheizen. Den Brokkoli in eine ofenfeste Form geben und die Béchamelsauce darübergießen. Den Mozzarella in dünne Scheiben schneiden und darauf verteilen. Den Parmesan fein darüberreiben. Das Gratin im Ofen auf der mittleren Schiene etwa 25 Minuten goldbraun überbacken. 
@@ -25153,7 +24650,6 @@ Als Beilage passen Pellkartoffeln oder Kartoffelpüree. Man kann das Gratin auch
 3 EL Zitronensaft
 
 ### Zubereitung
-
 1. Den Backofen auf 200 Grad vorheizen und zwei Backbleche mit Backpapier belegen.
 1. Die Röschen in mundgerechte Stücke brechen. alle Zutaten mit Ausnahme der Röschen in einer Schüssel vermengen. Dann die Röschen dazugeben und mit vermengen, sodass der Brokkoli rundum von der Mischung überzogen ist.
 1. Brokkoli auf dem Backblech verteilen. 10 Minuten backen, dann die Stücke wenden und weitere 10 Minuten backen, bis der Brokkoli gar, knusprig und stellenweise leicht angesengt ist.
@@ -25199,7 +24695,6 @@ Salz, Pfeffer
 Salz
 
 ### Zubereitung
-
 1. Das Öl in einem kleinen Topf bei mittlerer bis hoher Temperatur erhitzen. Knoblauch, Ingwer, Orangenschale und Erdnüsse darin unter häufigem Rühren 2 -3 Minuten braten, bis der Knoblauch etwas Farbe angenommen hat. Mitsamt dem Öl in eine kleine Schüssel geben, um den Garprozess abzubrechen; beiseitestellen.
 1. In einem großen Topf mit Dämpfeinsatz so viel Wasser gießen, dass es den Boden des Einsatzes gerade nicht berührt. Bei starker Hitze zum Kochen bringen. Den Brokkoli in den Einsatz geben und 4 – 5 Minuten dämpfen, bis er gar ist. Vom Herd nehmen, auf einer Servierplatte abrichten und beiseitestellen.
 1. Den Topf, in dem die Erdnüsse gebraten wurden, bei hoher Temperatur erneut erhitzen. Sojasauce und Honig mit 1/8 TL Salz hineingeben. Etwa 1 Minute erhitzen- die Mischung sollte auf ungefähr 1,5 EL einkochen. Die Erdnussmischung und 2 EL von dem Öl auf den Brokkoli löffeln. Die eingekochte Sojasaucenmischung dazugießen. Alles behutsam unterheben, dann sofort servieren.
@@ -25220,7 +24715,6 @@ Für das Dressing:
 1 EL Zitronensaft 1 TL Dijon-Senf
 
 ### Zubereitung
-
 1. Die Brokkolistangen auf einem Backblech ausbreiten, mit zwei Esslöffel Olivenöl beträufeln und vermengen. Die Äpfel entkernen und vierteln, mit einem Esslöffel Olivenöl in einer Schüssel vermengen. Zitrone heiß abwaschen, in sechs Spalten schneiden und zusammen mit den Apfelspalten zwischen den Brokkoli verteilen. Alles mit ein wenig Salz und Pfeffer würzen und a. 10 bis 15 Minuten ohne Wenden im Ofen bei 200 Grad (ober-/Unterhitze) rösten, bis der Brokkoli goldbraun und zart ist.
 1. Für das Dressing Olivenöl mit Zitronensaft und Senf in einer Schale verrühren und über Brokkoli und Äpfel träufeln. Auf Tellern verteilen und alles mit etwas Saft aus den geröstetes Zitronenspalten bespritzen. Dazu passt als Beilage Butterreis.
 
@@ -25241,7 +24735,6 @@ Info:	Seit einiger Zeit findet man im Herbst immer häufiger Wilden Brokkoli im 
 Je 60 g gereifter Cheddar und fester Mozzarella, gerieben
 
 ### Zubereitung
-
 1. Für die Tamales die Maiskörner zerkleinern, bis ein feuchtes Püree entstanden ist. Die Butter in eine große Pfanne geben und bei mittlerer bis starker Hitze zerlassen. Unter gelegentlichem Rühren 3 Minuten erhitzen, bis er durchgegart ist und die Konsistenz von Haferbrei angenommen hat. Vom Herd nehmen und 5 Minuten abkühlen lassen, dann Mehl, Öl, Backpulver und Ei unterrühren, bis alles gut verbunden ist. Der Teig sollte die Konsistenz von Knete haben (aber natürlich nicht so schmecken 😊)
 1. Aus Backpapier sechs Rechtecke (etwa 25x16 cm) schneiden. Mit dünn eingeölten Händen etwa 110 g Teig abnehmen und zu einer glatten Kugel rollen. Mittig auf eins der Backpapierstücke legen und zu einem Rechteck (15x9 cm) flach drücken. Beide Käsesorten in einer kleinen Schüssel mit dem restlichen Kreuzkümmel (1 TL) mischen. 20 g Käse als Streifen auf die Mitte des Teigs geben. Mit den Händen den Teig über dem Käse zusammendrücken, bis er komplett davon umschlossen ist, dabei mit den Fingern kneifen und glätten, bis keine Risse mehr vorhanden sind. Das Backpapier von allen Seiten über die Tamale klappen und als Hilfe zum Formen verwenden. Das Päckchen mit der Naht nach unten auf ein Tablett legen. 
 1. In einem großen Topf mit Dämpfeinsatz reichlich Wasser bei starker Hitze zum Kochen bringen. Die Tamales mit der Nahtseiten nach unten in einen Dämpfeinsatz legen. Den Deckel auflegen und die Tamales bei mittlerer Hitze 30 Minuten dämpfen. Vor dem Auswickeln einige Minuten abkühlen lassen.
@@ -25381,7 +24874,6 @@ Salz, Meersalzflocken, Pfeffer
 60 g Mayonnaise
 
 ### Zubereitung
-
 1. Den Backofen auf 230 Grad (Umluft) vorheizen.
 1. Mit der Sauce beginnen. Die Knoblauchknolle mit etwas Salz und Pfeffer bestreuen und fest in Alufolie einwickeln. Mit den Kirschtomaten und en Chilis auf ein mit Backpapier belegtes Blech legen und im Ofen 30 Minuten rösten, bis die Tomaten und Chilis schwarz und schrumpelig werden. Herausnehmen und die Knoblauchzehen aus ihrer Schale drücken. Die Chilis und die Tomaten sowie Ahornsirup, Worcestersauce, Chiliflocken und ¼ TL Salz dazugeben und alles zu einer groben Paste pürieren. Vollständig abkühlen lassen, die Mayo untermixen und die Sauce bis zum Servieren kalt stellen.
 1. Inzwischen die Paprikaschoten an der Basis 5 cm lang senkrecht einschneiden und auf ein großes, mit Backpapier belegtes Blech legen. Die Schoten 16 Minuten im Ofen rösten, bis sie durchgegart sind und die Haut stellenweise schwarz zu werden beginnt; nach der Hälfte der Zeit umdrehen. Mit dem Einschnitt nach unten in ein Sieb legen, damit sie abtropfen können. Die Stiele sollten ganz bleiben. Dann vorsichtig die Haut abziehen, ohne das Fruchtfleisch zu beschädigen. Anschließend jeweils mit einer kräftigen Prise Salz bestreuen.
@@ -25430,7 +24922,6 @@ Salz, Cayennepfeffer
 20 g Koriandergrün, gehackt
 
 ### Zubereitung
-
 1. Den Backofen auf 180 Grad vorheizen und ein Backblech mit Backpapier belegen.
 1. Die Paprika 1 cm unterhalb des Stiels einschneiden, das Stielende aber nicht abschneiden. Die Paprika bis zur Spitze aufschneiden, mit den Händen aufdrücken und vorsichtig entkernen.
 1. Eine Pfanne erhitzen, Öl und Kreuzkümmel hineingeben und bei mittlerer Hitze 30 Sekunden anrösten. Die Zwiebel hinzufügen, etwa 8 Minuten glasig andünsten, dann Chilis und Ingwer unterrühren und nochmals einige Minuten rösten. Panir und Tomaten hinzufügen und weitere 5 Minuten braten, bis sie weich sind, dann Salz, Cayennepfeffer und Koriander untermischen. Vom Herd nehmen und abkühlen lassen.
@@ -25483,7 +24974,6 @@ Salz
 2 EL gehacktes Basilikum
 
 ### Zubereitung
-
 1. Paprikaschoten vierteln, auf einem mit Backpapier ausgelegten Blech verteilen, etwas Olivenöl darüberträufeln, salzen. Den Grill des Backofens anstellen und das Blech ungefähr 15 bis 20 Minuten im Ofen lassen. Die Haut der Paprikas hat sich dann schwarz gefärbt. Ein Küchenhandtuch nass machen, feucht über das Blech legen und ungefähr 10 Minuten warten. Dann lässt sich die verbrannte Haut der Paprikas leicht mit den Fingern entfernen.
 1. In einem Topf gehackte Zwiebeln und Knoblauch in Olivenöl andünsten. In Stücke geschnittene Paprikas, Dosentomaten, Essig und Lorbeer dazugeben. Ungefähr 20 Minuten schmoren lassen. Mit Zucker und etwas Essig abschmecken, nicht zu sparsam sein. Gehacktes Basilikum hinzufügen. Dazu passt wunderbar in Olivenöl geröstetes Weißbrot.
 
@@ -25523,7 +25013,6 @@ Salz, Pfeffer
 Alle Gewürze zusammenschmeißen und zu feinem Pulver zermahlen (in der Mühle oder mit dem Mörser) und in ein Schraubglas füllen.
 
 ### Zubereitung
-
 1. Für die Füllung den Reis in einem Topf mit leicht gesalzenem Wasser bedecken, zum Kochen bringen und 4 Minuten kochen lassen. In ein Sieb abgießen, unter fließendem Wasser abschrecken und zur Seite stellen.
 1. Die Gewürze in einer Pfanne ohne Fett anrösten. Olivenöl und Zwiebel hinzufügen und die Zwiebel unter häufige, Rühren etwa 7 Minuten anschwitzen, bis sie weich ist. Den Pfanneninhalt mit Reis, Fleisch, Kräutern, Zucker sowie 1 TL Salz in eine große Schüssel füllen und die Zutaten sorgfältig mit den Händen vermengen.
 1. Die Paprikaschoten vom Stielansatz her mit einem kleinen Messer zu zwei Dritteln aufschneiden, sodass eine Öffnung entsteht. Die Stielansätze stehen lassen. Die Samen vorsichtig entfernen und die Schoten mit der Farce füllen.
@@ -25597,7 +25086,6 @@ Pfeffer#2 EL neutrales Öl
 Salz
 
 ### Zubereitung
-
 1. Den Backofen auf 220 Grad (Umluft) vorheizen.
 1. Die ersten acht Zutaten mit 2 EL Wasser und ½ TL Salz in eine ofenfeste Form mit hohem Rand geben. Vermengen, mit Alufolie zudecken und im Ofen 40 Minuten backen, bis das Gemüse weich zu werden beginnt, Die Folie entfernen und den Kürbis weitere 35-40 Minuten garen, bis er weich und an der Oberfläche gebräunt ist. Die Chilischoten herausnehmen, in feine Streifen schneiden und beiseitelegen.
 1. Den Kürbis grob zerdrücken. Mit dem restlichen Öl beträufeln und die Hälfte der Limettenspalten über dem Püree auspressen. Mit der Limettenschale, den Frühlingszwiebeln und den Chilis garnieren und mit den Limettenspalten zum Auspressen servieren.
@@ -25624,7 +25112,6 @@ Salz, Pfeffer
 10 frische Curryblätter
 
 ### Zubereitung
-
 1. Den Backofen auf 200 Grad vorheizen und zwei Backbleche mit Backpapier belegen. Den Kürbis halbieren, entkernen und in maximal 2 cm breite Halbmonde schneiden. In eine Schüssel geben, mit Öl beträufeln und mit Garam masala, 1 TL Salz und ½ TL Pfeffer bestreuen. Gründlich in der Mischung wenden und jeweils in einer Lage auf den Backblechen ausbreiten. Etwa 30 Minuten im Ofen rösten, bis der Kürbis weich und zart ist.
 1. 2 EL Öl in einer großen Pfanne erhitzen, dann die Senfsamen hineingeben. Sobald sie platzen, die Chilis und die Zwiebel hinzugeben. Bei mittlerer Hitze 12 Minuten braten, bis die Zwiebel goldgelb ist. Den Knoblauch dazugeben und einige Minuten anrösten. Dann die Bohnen hinzufügen und sorgfältig vermengen. Die Tomaten unterrühren und das Gemüse einige Minuten köcheln lassen, bis die Tomaten weich sind und an den Rändern zerfallen.
 1. Kurkuma, Pfeffer, Salz, Kokosmilch in die Pfanne geben und umrühren. Die Pfanne abdecken und das Curry 5 Minuten durchwärmen lassen. Abschmecken.
@@ -25653,7 +25140,6 @@ Salz, Zucker, Cayennepfeffer
 200 g grüne Bohnen 
 
 ### Zubereitung
-
 1. Die Linsen in kaltem Wasser waschen, bis das Wasser klar abläuft. Dann in einem hohen Topf mit der dreifachen Menge Wasser bedecken und aufkochen. Etwa 25 Minuten köcheln, bis die Linsen weich sind, dabei den Schaum von der Oberfläche abschöpfen.
 1. In der Zwischenzeit 1 EL Öl in einer großen Pfanne erhitzen. Bockshornklee-, Koriander- und Kreuzkümmelsamen hineingeben und 1 Minute unter Rühren rösten, dann vom Herd nehmen und im Mörser zu einer groben Paste zerstoßen.
 1. Das restliche Öl in der Pfanne erhitzen, die Senfsamen und Curryblätter, dann die Schalotten hineingeben und bei mittlerer bis starker Hitze 10 Minuten anschwitzen, bis die Schalotten goldgelb sind. Die Kürbiswürfel und 2 EL Wasser hinzufügen, die Pfanne abdecken und alles 5 Minuten garen.
@@ -25679,7 +25165,6 @@ Saft von ½ Zitrone
 400 ml Kokosmilch
 
 ### Zubereitung
-
 1. Den Backofen auf 180 Grad vorheizen und zwei Backbleche mit Backpapier belegen. Den Kürbis schälen, halbieren und die Kerne auslösen. Das Fruchtfleisch in 1 cm dicke Scheiben schneiden, auf die Bleche verteilen und mit 1 – 2 EL Öl beträufeln. Mit den Händen vermischen, damit die Kürbisscheiben rundum mit Öl überzogen sind. Ungefähr 35 – 40 Minuten backen, bis der Kürbis weich ist und zu karamellisieren beginnt. Dabei nach der Hälfte der Zeit wenden.
 1. Die Zwiebel für die Garnierung rösten. Dafür 2 EL Öl in einer Pfanne erhitzen, die Zwiebel hineingeben und bei mittlerer Hitze 15 – 20 Minuten braten, bis sie karamellisiert und knusprig ist. Vom Herd nehmen und beiseitestellen.
 1. Für die Sauce Koriander, Ingwer, Knoblauch und Chilis klein schneiden und pürieren. Kreuzkümmel, Zimt, Zitronensaft, Salz, Pfeffer und Kokosmilch hinzufügen und zu einer Sauce mixen.
@@ -25697,7 +25182,6 @@ Salz, Pfeffer, Currypulver, Chili
 Muskat
 
 ### Zubereitung
-
 1. Fruchtfleisch in etwa 3 cm große Würfel schneiden und in einer Auflaufform nicht höher als 10 – 12 cm schichten. Sahne mit den Gewürzen gut mischen und über das Kürbisfleisch gießen. Obenauf den geriebenen Käse verteilen.
 1. Die mit Alufolie abgedeckte Auflaufform in den auf 220 Grad vorgeheizten Backofen schieben. Nach 30 – 45 Minuten die Folie entfernen. Wenn der Käse zerlaufen und braun gebacken ist, kann das Gratin serviert werden.
 1. Dazu passt Knoblauchbaguette und Wein 
@@ -25719,7 +25203,6 @@ Salz
 50 g Gorgonzola
 
 ### Zubereitung
-
 1. Kürbis quer durchschneiden und zwar so, dass das obere Viertel einen Deckel bilden kann. Die Kerne mit einem Löffel gründlich herauslösen und entsorgen. Den Kürbis von innen und außen mit Olivenöl einpinseln, salzen, ein Lorbeerblatt hineinlegen. Den Kürbisdeckel darauflegen, Kürbis in eine Auflaufform stellen. Ungefähr 50 Minuten lang bei 190 Grad Umluft garen. Aus dem Ofen nehmen und beiseite stellen.
 1. Während der Garzeit die Füllung vorbereiten. In etwas Olivenöl die fein geschnittene Zwiebel glasig dünsten. Esskastanien vierteln, dazugeben. Birne schälen und in kleine Würfel schneiden, ebenfalls dazugeben. Mit Wermut ablöschen. Das zweite Lorbeerblatt hinzufügen, die Brioche in kleine Stücke reißen und dazugeben. Das Ganze einige Minuten lang garen. Zum Schluss Gorgonzola würfeln, unter die Füllung heben. Füllung in den Kürbis geben, noch mal 5 Minuten im heißen Ofen durchziehen lassen.
 
@@ -25759,7 +25242,6 @@ Je 5 Stiele Rosmarin, Salbei, Thymian
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Kürbis zerteilen, entkernen und in kleine Stücke schneiden. Kartoffeln waschen und längs halbieren. 
 1. Knoblauch klein schneiden. Tomaten vierteln
 1. Alles auf dem Backblech verteilen und mit gehackten Kräutern bestreuen. Salzen und pfeffern.
@@ -25781,7 +25263,6 @@ Salz, Pfeffer
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den Backofen auf 220 Grad Umluft vorheizen.
 1. Kürbis und Zwiebeln mit 2 EL Öl, den Salbeiblättern sowie ¾ TL Salz und viel Pfeffer in eine große Schüssel geben. Alles gut mischen, dann auf einem großen, mit Backpapier belegten Backblech verteilen. 25 – 30 Minuten im Ofen rösten, bis das Gemüse gar und gebräunt ist. Aus dem Ofen nehmen und 10 Minuten zum Abkühlen beiseitestellen.
 1. Während der Kürbis im Ofen ist, einen Topf zur Hälfte mit Wasser füllen und das Wasser bei starker Hitze aufkochen lassen. Die Linsen hineingeben und bei mittlerer Hitze 20 Minuten köcheln lassen, bis sie gar sind. In ein Sieb schütten. Abtropfen und etwas abkühlen lassen, dann in eine große Schüssel füllen. Zitronenschale und -saft, dann in eine große Schüssel geben. Zitronenschale und -saft, Knoblauch, Kräuter, 1 EL Öl sowie ¼ TL Salz unterrühren.
@@ -25834,7 +25315,6 @@ Maldon Sea Salt und schwarzer Pfeffer
 Salz, schwarzer Pfeffer
 
 ### Zubereitung
-
 1. Das Öl in einer großen Schmorpfanne bei mittlerer bis hoher Temperatur erhitzen. Sobald es heiß ist, die Chilis hineingeben, nach 3 Minuten die Curryblätter (wenn man sie will), nach weiteren 45 Sekunden die Senfsamen und alles noch 15 Sekunden frittieren. die Zutaten ab und zu in dem Öl schwenken. Das Öl durch ein Sieb in eine Schüssel gießen. Chilis, Curryblätter und Senfsamen auf einen mit Zewa bedeckten Teller legen und großzügig mit Salz bestreuen. Das Öl 5 Minuten abkühlen lassen.
 1. Die Dosentomaten mit der Flüssigkeit in eine Schüssel geben und mit einer Gabel grob zerdrücken und zerteilen.
 1. In der Schmorpfanne 3 EL des abgekühlten Öls mit dem Knoblauch und ¼ TL Salz bei mittlerer Temperatur erhitzen und den Knoblauch 4 Minuten unter Rühren sanft anschwitzen, bis er weich ist und aromatisch duftet. Die Dosentomaten, 400 g frische Tomaten, die Lorbeerblätter, zwei Drittel des Basilikums, den Zucker sowie ½ TL Salz und 1 kräftige Prise Pfeffer dazugeben und bei mittlerer bis hoher Hitze 8 Minuten erhitzen. Vom Herd nehmen, das Brot und die restlichen Tomatenwürfel unterrühren und 5 Minuten durchziehen lassen. Die Lorbeerblätter wegwerfen.
@@ -25858,7 +25338,6 @@ Info:	Pappa al Pomodoro ist ein toskanisches Bauerngericht, das üblicherweise a
 Vinaigrette: Olivenöl, weißer Balsamico, Zucker, Salz, Basilikumblätter
 
 ### Zubereitung
-
 1. Von den Tomaten den Deckel abschneiden und die Tomaten aushöhlen. Zwiebel, Paprika und Zucchini in kleine Würfel schneiden und in der Pfanne anbraten.
 1. Pinienkerne, 1 zerdrückte Knoblauchzehe, Zucker und das Ausgelöste aus den Tomaten vermengen. Das Ganze mit einem TL Puderzucker bestäuben, salzen und pfeffern.
 1. Mozzarella in 4 Scheiben schneiden, abgerundete Enden klein würfeln und unter das Ragout geben. Basilikumblätter unter das Gemüse mischen.
@@ -25905,7 +25384,6 @@ Salz
 Meersalzflocken, Pfeffer
 
 ### Zubereitung
-
 1. Den Backofengrill auf höchste Stufe vorheizen.
 1. Das Öl in einem Topf bei mittlerer bis hoher Temperatur erhitzen. Chilis, Knoblauch und Ingwer darin 5 Minuten braten, bis der Knoblauch zu bräunen beginnt, dabei gelegentlich umrühren. Die Korianderstängel hinzufügen und das Ganze weitere 2 – 3 Minuten braten, bis der Knoblauch hellbraun ist und die Chilis duften. Alles mit einem Schaumlöffel aus dem Topf heben – das aromatisierte Öl wird gleich gebraucht – und zum Abkühlen auf einen Teller geben.
 1. Die Tomatenscheiben nebeneinander (nicht überlappend) auf einem Backblech (30x40 cm) verteilen. Mit 2 EL des aromatisierten Öls bestreichen, dann mit 1,5 TL Meersalzflocken und reichlich frisch gemahlenen Pfeffer würzen. Das Blech mit etwa 5 cm Abstand unter den Grill schieben. Die Tomaten 10 – 12 Minuten grillen, bis sie braun werden. Herausnehmen, mit dem restlichen aromatisierten Öl begießen, mit der Chili-Knoblauch-Mischung bestreuen und für 10 Minuten bereitstellen.
@@ -25929,7 +25407,6 @@ Meersalzflocken, Pfeffer
 Meersalzflocken, Pfeffer
 
 ### Zubereitung
-
 1. Den Backofen auf 200 Grad Umluft vorheizen.
 1. Die Tomaten mit Olivenöl, Kreuzkümmel, Zucker, Knoblauch, Thymian, drei Stängel Oregano, Zitronenschalenstreifen sowie ½ TL Meersalzflocken und 1 kräftige Prise frisch gemahlenen Pfeffer in eine Schüssel geben. Alles gut mischen, dann in eine ofenfeste Form geben, in der alles gerade eben Platz findet. Im Ofen 20 Minuten rösten, bis die Haut der Tomaten Blasen wirft und die Flüssigkeit brodelt. Den Backofengrill einschalten und die Tomaten 6 – 8 Minuten grillen, bis sie oben dunkelt werden.
 1. Während die Tomaten im Ofen sind, den Joghurt mit der abgeriebenen Zitronenschale und ¼ TL Meersalzflocken verrühren. Bis zum Servieren in den Kühlschrank stellen.
@@ -25956,7 +25433,6 @@ Frische Kräuter
 grobes Meersalz
 
 ### Zubereitung
-
 1. In einer Schüssel Zucker, Salz, Olivenöl, Knoblauch, Thymian, Essig und Pfeffer gut verrühren. Die Tomaten darin wenden, 45 Minuten marinieren, herausnehmen (die Marinade aber aufbewahren) und in 5 mm dicke Scheiben schneiden.
 1. Diese dachziegelartig auf ein mit Backpapier ausgelegtes Backblech legen, etwas von der Marinade darüberträufeln und 30 Minuten im vorgeheizten Ofen bei 190 Grad backen. Abkühlen lassen. Die Marinade in einem Topf zum Sieden bringen, 10 Minuten leise köchelnd leicht eindicken und danach abkühlen lassen.
 1. Auf einer bemehlten Arbeitsfläche den Blätterteig 2 mm dick zu einem etwa 22x33 cm großen Rechteck ausrollen, auf ein geöltes Backblech legen. Den Teig mit einer Gabel einstechen, mit Ei bestreichen und die Tomaten darauf verteilen. Mit Olivenöl einpinseln und 30-40 Minuten bei 200 Grad backen, bis der Teig goldgelb ist. Herausnehmen und mit der eingedickten Marinade bestreichen. Mit Öl beträufeln, mit Kräutern sowie Meersalz bestreuen und servieren.
@@ -25973,7 +25449,6 @@ Etwas Pfeffer
 1 TL frische Oreganoblättchen
 
 ### Zubereitung
-
 1. Das Kichererbsenmehl in eine Schüssel geben und das Wasser dazugießen. Mit einem Schneebesen gut verrühren. Die Schüssel mit einem Teller bedecken und den Teig einige Stunden lang ruhen lassen, am besten über Nacht. Den Teig salzen und pfeffern. Die Tomaten in dünne Scheiben schneiden. Eine feuerfeste Form mit Backpapier auslegen, zuerst Olivenöl, dann den Teig hineingießen. Die Tomaten auf den Teig legen (es ist nicht schlimm, wenn sie ein bisschen einsinken). Oreganoblättchen darüberstreuen. Oder Zatar.
 1. Den Pfannkuchen 40 bis 45 Minuten lang bei 200 Grad Umluft backen. Abkühlen lassen, dann wird der Teig fest, anschließend in Quadrate schneiden.
 
@@ -26001,7 +25476,6 @@ Salz, schwarzer Pfeffer
 4 Scheiben Landbrot
 
 ### Zubereitung
-
 1. Lauch in feine Ringe schneiden, diese waschen. Knoblauchzehe schälen, fein hacken. Chilischote und den geschälten Ingwer fein hacken. Alles zusammen mit etwas Olivenöl in einem ofenfesten Topf andünsten. Salzen und pfeffern.
 1. Wenn der Lauch nach ungefähr 10 Minuten weich geworden ist und süßlich schmeckt, Dosentomaten, Kokosmilch und Bohnen hinzufügen. Einige Minuten lang simmern lassen, vom Herd nehmen, eventuell nachsalzen. Darüber die frischen Tomaten verteilen, die man vorher halbiert hat. Basilikum grob hacken und darüber streuen.
 1. Das Brot in Stücke zupfen und zwischen die Tomaten drücken. Am Schluss ist die gesamte Oberfläche mit Tomaten und Brot bedeckt. Noch mal etwas Olivenöl darübergeben und das Ganze für 30 Minuten bei 180 Grad Umluft in den Ofen stellen, bis das Brot schön kross gebacken ist.
@@ -26027,7 +25501,6 @@ Einige Zweige Thymian
 250 g Tomaten
 
 ### Zubereitung
-
 1. Für den Teig beide Mehlsorten und das Salz miteinander vermengen. Dann Olivenöl und Wasser hinzufügen, alles zu einem Teig kneten. Teig in Frischhaltefolie einwickeln, in den Kühlschrank legen. Schalotten schälen, längs halbieren, in etwa 3 mm dicke Scheiben schneiden, dann in einer großen beschichteten Pfanne in Olivenöl anbraten, Hitze runterschalten, salzen, pfeffern, Essig dazugeben, eventuell ein bisschen Wasser (falls die Schalotten ansetzen). Die Hälfte der Thymianzweige hineingeben, das Ganze ungefähr 25 Minuten lang bei geschlossenem Deckel schmoren lassen, bis die Schalotten weich sind und süßlich schmecken.
 1. Tomaten in Scheiben schneiden, den grünen Strunk entfernen. Den Boden einer Springform mit Backpapier auslegen, die Ränder mit Olivenöl fetten. Teig mit den Fingern darin in Form drücken, einen Rand stehen lassen. Schalotten abschmecken, eventuell noch mal salzen, auf dem Teig verteilen. Dann die Tomaten darauflegen, sodass die Tarte vollständig mit Tomaten bedeckt ist, eventuell nimmt man eine oder zwei mehr. Den restlichen Thymian verteilen, noch mal salzen und pfeffern, mit etwas Olivenöl beträufeln, für 35 Minuten bei 200 Grad im Ofen backen
 
@@ -26051,7 +25524,6 @@ Salz, Pfeffer
 Muskatnuss
 
 ### Zubereitung
-
 1. Mehl in eine Schüssel sieben und gewürfelte Butter hinzufügen, mit den Händen verkneten, bis eine krümelige Mischung entstanden ist. Ei, frisch geriebenen Parmesan und Salz hinzufügen. Zu einem glatten Teig kneten. Teigkugel in Plastikfolie eingewickelt im Kühlschrank ruhen lassen.
 1. Währenddessen Ricotta mit einem Löffel cremig rühren. Ei, frisch geriebenen Parmesan, Salz und Pfeffer untermischen.
 1. Geputzten Spinat in Salzwasser ein paar Momente lang kochen, in einem Sieb abkühlen lassen. Dann das Wasser mit den Händen sorgfältig ausdrücken, bis fast keine Flüssigkeit mehr austritt (Das dauert eine Weile). Spinat mit einem Messer fein hacken, zur Ricotta-Creme geben, gut vermischen und mit Muskat abschmecken. Teig aus dem Kühlschrank nehmen und zwei Drittel davon auf einer bemehlten Fläche ausrollen. Form buttern, Teig drauflegen. 
@@ -26074,7 +25546,6 @@ Maldon Sea Salt, schwarzer Pfeffer
 Bauernbrot zum Servieren
 
 ### Zubereitung
-
 1. Den Knoblauch in einer kleinen Schüssel mit Chili und Petersilie mischen. Die Tomaten von den Stielansätzen befreien und in etwa 1,5 dicke Scheiben schneiden.
 1. Das Öl bei mittlerer Temperatur in einer großen Pfanne erhitzen. Die Tomatenscheiben in die Pfanne legen, mit Salz und Pfeffer würzen und etwa 1 Minute braten. Die Scheiben wenden, wiederum mit Salz und Pfeffer würzen und mit der Knoblauchmischung bestreuen. 
 1. Die Tomaten noch etwa 1 Minute weiterbraten und die Pfanne dabei gelegentlich rütteln. Die Scheiben erneut wenden und noch ein paar Sekunden garen, bis sie weich sind. Sie dürfen aber nicht zerfallen.
@@ -26095,7 +25566,6 @@ Je Tomate 1 Prise weißen Pfeffer
 1 EL Olivenöl
 
 ### Zubereitung
-
 1. Denn Backofen auf 200 Grad vorheizen. Die Tomaten waschen, abtrocknen und einen Deckel abschneiden. Die Tomaten mit einem kleinen Löffel aushöhlen und mit dem Salz und dem Pfeffer ausstreuen. 
 1. Die abgeschnittenen Deckelchen in kleine Würfel schneiden, dabei die Stängelansätze entfernen. Die Knoblauchzehen schälen und kleinhacken. Den Schafkäse in eine Schüssel bröckeln, mit den Knoblauchstückchen, den Semmelbröseln, dem kleingeschnittenen Tomatenfleisch und den gehackten Kräutern mischen, in die Tomaten füllen und die Tomaten mit dem Öl beträufeln.
 1. Eine feuerfeste Form mit Butter ausstreichen und die Tomaten hineinsetzen. Die Tomaten im Backofen auf der mittleren Schiene 20 Minuten überbacken. Dazu passt Salat und frisch getoastetes Brot.
@@ -26143,7 +25613,6 @@ Salz, Pfeffer
 1 Knolle Knoblauch, quer halbiert
 
 ### Zubereitung
-
 1. Den Amarant mit 600 ml Wasser und Salz in einem Topf zum Kochen bringen. Die Hitze stark reduzieren und 20 Minuten sanft köcheln lassen. Den gekochten Amarant abgießen und leicht abkühlen lassen.
 1. Den Amarant in einer Schüssel mit den Pistazienkernen, dem Halloumi, den Kapern und dem Ei vermischen. Beiseitestellen.
 1. Mit einem scharfen Messer von den Tomaten die Kappen abschneiden. Vorsichtig die Samen und das Fruchtfleisch mit einem kleinen Löffel auslösen. Die Tomaten mit der Amarantmischung füllen und die Kappen aufsetzen.
@@ -26208,7 +25677,6 @@ Meersalzflocken
 90 g griechischer Joghurt
 
 ### Zubereitung
-
 1. Den Backofen auf 220 Grad vorheizen
 1. Die rohen Rote Bete Knollen in eine ofenfeste Form legen, in der sie alle nebeneinander Platz haben, und etwa 2 cm hoch Wasser einfüllen. Das Gemüse mit 1 EL Meersalzflocken bestreuen, die Form sorgfältig mit Alufolie verschließen und für 1 Stunde 20 Minuten in dem Ofen schieben, bis sich die Knollen mühelos mit einer Messerspitze einstechen lassen. Das Wasser weggießen, die Rote Beten ein wenig abkühlen lassen und dann unter fließendem kaltem Wasser die Schale abziehen. Die Ofentemperatur auf 190 Grad reduzieren. 
 1. Während die Rote Beten im Ofen sind, die Kaffir-Limetten-Butter zubereiten: Butter, Öl, Kaffirlimettenblätter, Ingwer und Knoblauch in einem kleinen topf vermengen und bei mittlerer bis hoher Temperatut etwa 4 Minuten erhitzen, bis die Butter geschmolzen ist und zu schäumen beginnt. Vom Herd nehmen und die Mischung mindestens noch 40 Minuten durchziehen lassen. Die Butter durch ein Sieb gießen, die festen Rückstände wegwerfen, und dann 1 EL Limettensaft und 1 TL Meersalzflocken unterrühren.
@@ -26243,7 +25711,6 @@ Man kann ruhig schon die vorgegarten Roten Beten nehmen. Ist viel einfacher, sch
 200 g Shiitakepilze
 
 ### Zubereitung
-
 1. Zwiebeln schälen und in feine Streifen schneiden, Beten schälen und in ungefähr 2 cm große Würfel schneiden. Keine Panik, die Hände färben sich rot, aber das ist nicht bleibend. Karotten schälen, ebenfalls würfeln. Das Gemüse mit Lorbeer, Thymian und etwas Salz in Butter in einem großen Schmortopf ungefähr 5 Minuten lang unter Rühren dünsten. Dann Tomatenmark, Wein. Brühe und Linsen dazugeben. Alles ungefähr 30 bis 40 Minuten bei geschlossenem Deckel schmoren lassen. Mit Salz abschmecken.
 1. Während des Schmorvorgangs in einer Pfanne Butter zergehen lassen du darin di in dünne Streifen geschnittenen Schlotten schmelzen, also bei niedriger Temperatur langsam unter regelmäßigem Rühren dünsten, bis sie ganz weich werden. Das dauert 20 bis 25 Minuten. Zwischendurch salzen. Die Schalotten beiseitestellen. In derselben Pfanne die halbieren Shiitakepilze einige Minuten lang dünsten, angedrückte Knoblauchzehen mitdünsten. 
 1. Die geschmorten Beten auf Teller verteilen, Schalotten und Pilze als Topping daraufgeben. Als Beilage eignet sich zum Beispiel Kartoffelpüree oder Polenta.
@@ -26268,7 +25735,6 @@ Und was noch wichtig zu wissen ist: dies ist kein schnelles Rezept, da die roten
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den Backofen auf 220 Grad Umluft vorheizen.
 1. Die Roten Beeten einzeln in Alufolie wickeln, auf ein Backblech setzen und 30 bis 60 Minuten im Ofen rösten, bis eine Messerklinge sich leicht hineinstechen lässt. Sobald sie so weit abgekühlt sind, dass man sie anfassen kann, die Knollen häuten und in 5 mm dicke Scheiben schneiden. In eine große Schüssel geben und beiseitestellen.
 1. Das Olivenöl in einer kleinen Pfanne bei mittlerer Temperatur erhitzen. Die Kreuzkümmelsamen darin etwa 3 Minuten rösten, bis sie zu hüpfen beginnen. Samen und Öl auf die Rote-Bete-Scheiben gießen. Zwiebel, eingelegte Zitrone, Zitronensaft, 10 g Dill, 1 TL Salz und 1 Prise Pfeffer hinzufügen. Alles gut mischen und den Salat auf einer großen Servierplatte anrichten.
@@ -26317,7 +25783,6 @@ Salz
 Meersalzflocken
 
 ### Zubereitung
-
 1. Den Backofen auf 170 Grad Umluft vorheizen.
 1. Den Sellerie mit einer Gabel rundherum etwa 40-mal einstechen und auf ein mit Backpapier bedecktes Blech legen. Das Öl mit 1 ½ TL Meersalzflocken verrühren und die Knolle großzügig damit einreiben. Den Sellerie je nach Größe im Ofen 2 ¼  oder bis zu 2 ¾ Stunden backen und alle 20 Minuten mit seinem Saft beträufeln, bis er dunkelbraun und durch und durch weich ist und eine Art Karamell austritt.
 1. Den Sellerie 15 Minuten ruhen lassen und anschließend in Spalten oder in Steaks schneiden. Die Schnittflächen jeweils mit etwas von dem Öl und dem Karamell vom Blech bestreichen.         
@@ -26348,7 +25813,6 @@ Meersalzflocken
 2 EL Schnittlauchröllchen
 
 ### Zubereitung
-
 1. Sämtliche Zutaten für den eingelegten Sellerie in einer großen Schüssel mit 20 g meersalzflocken vermengen und mindestens 2 Stunden durchziehen lassen. Ab und zu durchrühren.
 1. Das Öl für das Chilidressing in einem kleinen Topf bei mittlerer bis hoher Temperatur erhitzen. Sobald es heiß ist, den Knoblauch, die Chilis und den Sternanis hineingeben und 2 – 2,5 Minuten frittieren, bis der Knoblauch goldgelb und knusprig ist (er dunkelt noch nach, also nicht übertreiben). Hin und wieder umrühren, damit die Scheiben nicht zusammenkleben. Das Öl durch ein Sieb in eine hitzebeständige Schüssel geben. Die frittierten Chiliringe und Knoblauchscheiben bis zum Servieren beiseitelegen. Von dem aromatischen Öl 40 ml abmessen und mit den restlichen Zutaten für das Dressing verrühren; das übrige Öl für eine andere Verwendung aufbewahren.
 1. Den Backofen auf 200 Grad Umluft vorheizen.
@@ -26369,7 +25833,6 @@ Salz, schwarzer Pfeffer
 100 g Parmesan
 
 ### Zubereitung
-
 1. Die Knollen schälen und in ungefähr 2 cm große Würfel schneiden. Zwiebeln schälen und in feine Ringe schneiden. In einem Topf in 2 EL Olivenöl die Zwiebeln mit einer guten Prise Salz ungefähr 10 Minuten lang andünsten. Selleriewürfel hinzufügen, ebenso 150 ml Wasser und den Essig, Topf schließen und das Ganze ungefähr 15 Minuten lang garen. Dann Crème fraîche hinzugeben, großzügig pfeffern. Kurz alles noch einmal aufkochen. Abschmecken und eventuell salzen. In eine Auflaufform geben.
 1. Die Vollkornscheiben in kleine Stücke bröseln und mit fein gehackter Petersilie, frisch geriebenem Parmesan und dem restlichen Öl vermengen. Die Brotmischung auf die gegarten Selleriewürfel verteilen und ungefähr 30 bis 35 Minuten bei 190 Grad Umluft im Ofen backen.
 
@@ -26386,7 +25849,6 @@ Hätte man mir gesagt, Knollensellerie sei in Wirklichkeit kein Gewächs, sonder
 1 Prise grobes Salz zum Servieren
 
 ### Zubereitung
-
 1. Ofen auf 190 Grad vorheizen.
 1. Sellerie gründlich waschen, Wurzelansatz entfernen und die Knolle auf ein mit Backpapier belegtes Blech legen. Schale mit Olivenöl einreiben und mit Salz bestreuen. Knolle in den Ofen schieben.
 
@@ -26402,7 +25864,6 @@ Hätte man mir gesagt, Knollensellerie sei in Wirklichkeit kein Gewächs, sonder
 Meersalzflocken
 
 ### Zubereitung
-
 1. Den Backofen auf 170 Grad Umluft vorheizen.
 1. Den Sellerie mit einem kleinen scharfen Messer rundherum etwa 20-mal einstechen. Die Knolle in eine ofenfeste Form setzen und großzügig mit Öl, Koriandersamen und 2 TL Meersalzflocken einreiben. 2,5 – 3 Stunden im Ofen rösten, dabei alle 30 Minuten mit der Flüssigkeit aus der Form beträufeln, bis die Knolle durch und durch weich und außen goldbraun ist.
 1. Den Sellerie in Spalten schneiden, mit Salz bestreuen, mit Olivenöl beträufeln und mit Zitronenspalten servieren.
@@ -26476,7 +25937,6 @@ Salz, Schwarzer Pfeffer aus der Mühle
 Salz
 
 ### Zubereitung
-
 1. Die Kochbananen in eine mittelgroße Schüssel legen, 3 EL Öl, den Zucker, ¼ TL Ingwer, 1/2 TL Zimt, ½ TL Kreuzkümmel sowie den Cayennepfeffer und die Muskatnuss dazugeben und alles sorgfältig miteinander vermengen und beiseitestellen.
 1. Den Backofen auf 180 Grad Umluft erhitzen.
 1. In einer großen, ofenfesten beschichteten Pfanne die Butter bei starker Hitze zerlassen. Sobald sie heiß ist, die Bananenstücke mit etwas Abstand zueinander hineinlegen. Das Öl und die Gewürze in der Schüssel, in der die Bananen mariniert wurden, beiseitestellen – sie werden später noch für den Salat benötigt. Die Bananen bei mittlerer bis starker Hitze 3 Minuten braten und ab und zu wenden, bis sie goldbraun und knusprig sind. Die Pfanne für 3 Minuten in den Ofen schieben.
@@ -26590,7 +26050,6 @@ Salz, Pfeffer
 1 Zitrone
 
 ### Zubereitung
-
 1. Rotkraut vierteln, den Strunk entfernen und in feine Streifen schneiden oder hobeln. Die Zwiebel schälen und würfeln.
 1. Butter oder Schmalz in einem Topf zerlassen und die Zwiebel darin anschwitzen. Mit Rotwein ablöschen, mit Apfelsaft, Honig, Ahornsirup und Salz einmal aufkochen.
 1. Die Gewürze in ein Tee-Ei oder Gewürzsäckchen geben und in die Flüssigkeit hängen. Orangen- und Zitronenschale abreiben und den Saft auspressen. Beides hinzufügen.
@@ -26621,7 +26080,6 @@ Tipp: dauert zwar lange, aber schmeckt super.
 1 Handvoll Koriandergrün, gehackt
 
 ### Zubereitung
-
 1. Tomaten, Knoblauch, Ingwer und Chilis zu einer Paste pürieren.
 1. Das Öl in einer Pfanne erhitzen, die Zwiebel hineingeben und 10 Minuten anschwitzen, bis sie goldbraun und weich ist. Die Tomatenpaste hinzufügen und etwa 5 Minuten köcheln lassen, dann Kreuzkümmelsamen und Sojasauce unterrühren, Rotkohl und Möhren dazugeben.
 1. Etwa 6 Minuten kochen, bis Rotkohl und Möhren gerade weich werden, aber noch Biss haben. Die Rotis in etwa 1 cm breite Streifen reißen und zum Gemüse geben. Mit einem Holzlöffel gut unterrühren und weitere 4 Minuten köcheln lassen. Eier in die Pfanne gleiten lassen, salzen und einige Minuten unter Rühren köcheln lassen, bis das Ei stockt, dann vom Herd nehmen.
@@ -26645,7 +26103,6 @@ Saft von ½ Limette
 90 g Erdnussbutter (möglichst nicht zu süß)
 
 ### Zubereitung
-
 1. Backofen auf 190 Grad Umluft heizen.
 1. Karotten schälen, halbieren, dann der Länge nach vierteln. Die Wurzeln und die vertrockneten Teile des Dunkelgrüns von den Frühlingszwiebeln abschneiden. Karotten auf ein mit Backpapier ausgelegtes Blech legen, mit Olivenöl vermengen, salzen. In den Backofen geben. Nach ungefähr 10 Minuten die Frühlingszwiebeln dazulegen und weitere 15 bis 20 Minuten lang backen. (Die Garzeit bezieht sich auf Karotten von mittlerer Dicke).
 1. In der Zwischenzeit die Sauce vorbereiten. Dazu den Ingwer sehr fein reiben. Mit Limettensaft, Sojasauce, Honig und Erdnussbutter vermengen und 3 EL Wasser dazugeben, um die Masse glatt zu rühren.
@@ -26675,7 +26132,6 @@ Saft von ½ Limette
 Salz
 
 ### Zubereitung
-
 1. Die Chilis, den Essig und den Zucker mit ¼ TL Salz in einer kleinen Schüssel vermengen, alles mit den Fingern durchkneten und mindestens 30 Minuten durchziehen lassen.
 1. Die Karotten in einem Dampfeinsatz auf einen Topf mit kochendem Wasser setzen und zugedeckt bei starker Hitze etwa 25 Minuten dämpfen, bis sie sich mit einem Messer mühelos einstechen lassen. Dem Gemüse Öl, Currypulver, Zimt und 1 TL Salz hinzufügen und alles pürieren, bis die Masse halbwegs glatt ist (sie sollte noch etwas stückig bleiben).
 1. In einem kleinen Topf die Butter mit Ingwer, den Schwarzkümmel-, Fenchel- und Kreuzkümmelsamen sowie einer kräftigen Prise Salz vermengen. Bei mittlerer Temperatur 3-5 Minuten unter gelegentlichem Rühren erhitzen, bis die Butter schäumt und sich hellbraun färbt und die Gewürze aromatisch duften. Bis zum Servieren beiseitestellen. Falls sich die Butter zwischenzeitlich wieder verfestigt, einfach kurz vor dem Servieren wieder zerlassen.
@@ -26695,7 +26151,6 @@ Salz
 Salz
 
 ### Zubereitung
-
 1. Den Backofen auf 230 Grad Umluft vorheizen.
 1. In einer großen Schüssel Kreuzkümmel, Honig, Harissa, Butter, Öl und ¾ TL Salz verrühren. Die Möhren hinzufügen und alles gut mischen, dann auf einem großen, mit Backpapier belegten Backblech verteilen. Die Möhren sollten nicht zu dicht nebeneinanderliegen.
 1. Die Möhren 12 – 14 Minuten im Ofen rösten, bis sie zu bräunen beginnen, aber noch bissfest sind. Aus dem Ofen nehmen und abkühlen lassen.
@@ -26717,7 +26172,6 @@ Joghurt
 1 Knoblauchzehe
 
 ### Zubereitung
-
 1. Ofen auf 190 Grad vorheizen. Karotten zurechtschneiden, nicht zu schmale Stifte schneiden.
 1. Auf einem mit Backpapier ausgelegten Blech verteilen, salzen. Kümmel darüberstreuen, etwas Öl darübergießen und 30 Minuten backen, evtl. länger.
 1. Sie soll zum Schluss weich sein und dürfen an der ein oder anderen Stelle Farbe annehmen. Etwas abkühlen lassen und mit Chiliflocken, Pfeffer, Zitronensaft und ca. 3 EL Olivenöl pürieren. Joghurt und Salz anrühren, eventuell fein gehackte Knoblauchzehe unterrühren
@@ -26738,7 +26192,6 @@ Reichlich Olivenöl
 Saft von ½ Zitrone
 
 ### Zubereitung
-
 1. Karotten schälen, die Enden abschneiden. Karotten fein reiben. Man kann sie auch grob reiben, aber ich finde es besser, wenn die Teigmasse eher homogen ist. Karotten mit den Eiern gut verrühren. Dill fein hacken und dazugeben. Petersilie oder Koriander sind auch geeignet, oder eine Mischung. Senf und Mehl unterrühren. Salzen und pfeffern. In der Pfanne reichlich Olivenöl bei mittlerer Temperatur erhitzen – mindestens sollte der ganze Pfannenboden bedeckt sein.
 1. Mit einem Esslöffel die Pfuffer in die Pfanne setzen. Sie sollten einen Durchmesser von 5 – 6 Zentimetern haben. Zu dick sollten sie nicht sein, etwa 0,5 bis 1 cm, sonst werden sie außen schwarz und bleiben innen roh. Von beiden Seiten einige Minuten lang knusprig braten. Ich lasse sie meist brauner werden als erlaubt 😊
 1. Joghurt mit einer Prise Salz und Zitronensaft vermengen. Eventuell fügt man noch ein bisschen Tahin hinzu. Die Soße zu den Puffern servieren, ebenso wie einen grünen Salat.
@@ -26785,7 +26238,6 @@ Sind die Spargel grau oder bräunlich verfärbt, so deutet dies auf längere ode
 Und jetzt noch richtig aufbewahren: Spargel schmeckt am besten, wenn er morgens gestochen und mittags gegessen wird, Müssen frische Spargelstangen für einige Tage aufbewahrt werden, dann empfiehlt es sich, die Stangen ungeschält in ein feuchtes Tuch zu wickeln und sie im Gemüsefach des Kühlschranks aufzubewahren. Dann hält sich frischer Spargel bis zu 3 Tagen.
 
 ### Zubereitung
-
 1. Den Spargel unter fließendem Wasser waschen und abtropfen lassen.
 1. Die Spargelstangen mit einem Schälmesser schälen. Unterhalb der Köpfchen beginnen und zum Ende hin etwas dicker schälen. Bei grünem Spargel nur das untere Drittel schälen.
 1. Die harten Spargelenden abschneiden und mit den Schalen für Suppe oder Fond auskochen.
@@ -26811,7 +26263,6 @@ Etwa 1 kg grüner Spargel
 1 EL Olivenöl
 
 ### Zubereitung
-
 1. Die Kräuter waschen, trocknen und grob hacken, dann mit dem Pürierstab pürieren. Joghurt, Tahini unterrühren, mit Zitronensaft abschmecken, salzen und pfeffern. Die Enden des Spargels entfernen, den unteren Teil der Spargelstangen schälen. Spargel auf ein mit Backpapier belegtes Blech legen. Das Grün der Radieschen entfernen, Radieschen waschen und halbieren. Neben den Spargel legen. Alles mit Olivenöl beträufeln und salzen. Blech in den auf 180 Grad Umluft geheizten Ofen schieben.
 1. Das Gemüse ungefähr 10 Minuten lang im Ofen garen; je nach Dicke der Spargelstangen kann es auch etwas länger dauern – bräunlich soll das Gemüse sich färben, nicht schwarz. Dazu die Joghurtsauce servieren.
 
@@ -26836,7 +26287,6 @@ Der grüne Spargel hofft, nein erwartet, wie da schlank und elegant im Gemüsefa
 ½ TL Salz
 
 ### Zubereitung
-
 1. Für die Senfpaste Senf, Chili, Zitronensaft, Knoblauch, Ingwer, Joghurt und Kokosraspel zu einer feinen Paste pürieren.
 1. Dann das Öl in einer großen Pfanne erhitzen, Kreuzkümmel- und Senfsamen hineingeben. Sobald die Samen im Öl tanzen, die Zwiebel dazugeben und bei mittlerer Hitze etwa 8 Minuten glasig anschwitzen. Die Temperatur reduzieren und die Senfpaste hinzufügen.
 1. Die Senfpaste einige Minuten rühren, damit sie sich nicht trennt, dann die Temperatur wieder auf mittlerer Hitze erhöhen und den Spargel, ohne die Spitzen dazugeben. Etwa 2 Minuten garen, anschließend die Erbsen hinzufügen und weitere 2 Minuten garen. Zuletzt die Spargelspitzen unterheben, weitere 30 Sekunden ziehen lassen, dann vom Herd nehmen. Mit Salz abschmecken.
@@ -26862,7 +26312,6 @@ Vom Spargel großzügig Enden abschneiden. Spargel auf ein mit Backpapier ausgel
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den Backofen auf 200 Grad Umluft vorheizen.
 1. Den Spargel mit 1 EL Öl, 1 großzügigen Prise Salz und 1 kräftigen Prise frisch gemahlenem Pfeffer mischen. Auf einem mit Backpapier belegten Backblech verteilen, sodass zwischen den Stangen viel Platz bleibt. 8-12 Minuten im Ofen rösten bis der Spargel weich ist und stellenweise braun wird. Auf einer großen Servierplatte geben und beiseitestellen.
 1. Die Butter in einen kleinen Topf geben und bei mittlerer bis starker Hitze zerlassen. Die Mandelblättchen darin 1 – 2 Minuten braten, bis sie goldbraun sind, dabei immer wieder umrühren. Butter und Mandeln gleichmäßig auf dem Spargel verteilen.
@@ -26936,7 +26385,6 @@ Salz
 1 TL Salz
 
 ### Zubereitung
-
 1. Eine große Pfanne erhitzen und die Sesamsamen hineingeben. Bei mittlerer Hitze 2 -3 Minuten anrösten, bis sie bräunen, dann herausnehmen und beiseitestellen.
 1. Das Öl in der Pfanne erhitzen und Kreuzkümmelsamen, Senfsamen und Curryblätter hineingeben. Bei mittlerer Hitze 1 Minute rösten, bis die Samen platzen und die Blätter knistern. Den Knoblauch hinzufügen.
 1. Nach 1 Minute die Kartoffeln zu den Gewürzen geben und 3 Minuten unter Rühren anbraten, danach 2 EL Wasser hinzugießen, die Pfanne abdecken und alles 5 Minuten garen. Die Okraschoten dazugeben die Temperatur leicht erhöhen, umrühren, wieder abdecken und weitere 8 Minuten garen.
@@ -26960,7 +26408,6 @@ Ich mag Okras gerne. Paula ja nicht so. Und Simon war immer nur an Orkas 	intere
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den Backofen auf 200 Grad Umluft vorheizen.
 1. Die Okraschoten mit 2 EL Öl, dem Knoblauch, ¾ TL Salz und 1 kräftigen Prise Pfeffer in eine große Schüssel geben. Auf zwei mit Backpapier belegte Backbleche verteilen und 7 Minuten im Ofen rösten, bis das Gemüse leicht gegart, aber noch fest und kräftig grün ist. Aus dem Ofen nehmen und zum Abkühlen 10 Minuten beiseitestellen.
 1. Das restliche Öl mit Chili, Ahornsirup, Limettenschale und -saft, Sesamöl und 1/8 TL Salz in eine große Schüssel geben. Alles verrühren, dann unmittelbar vor dem Servieren die Okraschoten und das Koriandergrün hinzufügen. Das Ganze sehr gut mischen – das Dressing neigt dazu, sich am Boden der Schüssel zu sammeln -, dann in eine Servierschüssel geben.
@@ -26984,7 +26431,6 @@ Ich weiß Paulchen, du magst keine Okraschote, aber schaden tut das Rezept nun a
 Maldon Sea Salt und Schwarzer Pfeffer
 
 ### Zubereitung
-
 1. Die Okraschoten mit einem kleinen scharfen Messer putzen und die Stielansätze abschneiden. Dabei nicht zu viel wegschneiden, sonst lösen sich die Samen.
 1. Eine große Pfanne mit schwerem Boden einige Minuten bei hoher Temperatur sehr heiß werden lassen und die Okraschoten in zwei Portionen jeweils 4 Minuten ohne Fett rösten, bis sie an einigen Stellen sehr dunkel sind. Die Pfanne dabei gelegentlich rütteln.
 1. Sämtliche Schoten in die Pfanne geben. Olivenöl, Knoblauch sowie die Schale der eingelegten Zitronen hinzufügen und das Gemüse unter stetigem Wenden 2 Minuten braten. Die Temperatur reduzieren. Die Tomaten, 2 EL Wasser, die Kräuter und den Zitronensaft dazugeben, mit ½ Teelöffel Salz und etwas Pfeffer würzen und das Ganze 2-3 Minuten unter vorsichtigem Rühren erhitzen, bis die Tomaten heiß sind. Dabei darauf achten, dass sie nicht zerfallen. Das Gericht in eine Servierschüssel füllen, mit Olivenöl beträufeln, mit etwas Salz bestreuen und servieren.
@@ -27034,7 +26480,6 @@ Rapsöl
 1 ¼ TL Salz
 
 ### Zubereitung
-
 1. Den Backofen auf 200 Grad vorheizen. Zwei Backbleche mit Backpapier auslegen. Leicht eingeölt.
 1. Die Zucchini raspeln. In ein Sieb über eine Schüssel geben und mit 2 TL Salz bestreuen. Gut vermengen und 30 Minuten abtropfen lassen.
 1. In einer großen Pfanne 3 EL Öl erhitzen und die Zwiebeln hineingeben. Bei mittlerer Hitze 8 – 10 Minuten anschwitzen, bis sie glasig und goldgelb sind. Den Ingwer hinzufügen und weitere 3 Minuten braten, dann die passierten Tomaten dazugeben. Umrühren, die Pfanne abdecken und die Sauce unter gelegentlichem Rühren 10 Minuten köcheln lassen. Kreuzkümmel, Koriander, Garam masala und Cayennepfeffer hinzufügen und gut vermischen. Honig, Mandeln und Salz unterrühren. Die Sauce mit 200 ml heißem Wasser verdünnen, weitere 5 Minuten köcheln lassen, dann vom Herd nehmen.
@@ -27054,7 +26499,6 @@ Rapsöl
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Quark mit Sahne cremig rühren. Eier und Butter gut unterrühren und würzen. Grieß einrühren und 30 Minuten quellen lassen.
 1. Zucchini grob hobeln, Zwiebeln und Petersilie fein hacken.
 1. Nach 30 Minuten die Zucchini, Zwiebeln und Petersilie unterrühren. In die Auflaufform geben und bei 200 Grad ca. 50 – 60 Minuten garen.
@@ -27074,7 +26518,6 @@ Salz, Pfeffer
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den Backofen auf 200 Grad Umluft vorheizen.
 1. Die Zucchini mit getrockneter Minze, Thymian, Öl, ¾ TL Salz und etwas Pfeffer in eine Schüssel geben. Alles mischen, dann in eine ofenfeste Form füllen. Die Zucchini sollten mit der Schnittstelle nach oben und leicht überlappend in einer Schicht darin liegen. 15 Minuten im Ofen backen, dann die Knoblauchzehen hinzufügen. Alles weitere 15 Minuten garen, bis die Zucchini weich sind und ein wenige Farbe angenommen haben. Ein Sieb auf eine Schüssel setzen oder in die Spüle stellen. Die Zucchinimischung hineingeben und zusammendrücken, damit sie etwas Flüssigkeit abgibt. Beiseitestellen und mindestens 30 Minuten abkühlen lassen. Die ausgetretene Flüssigkeit wegschütten.
 1. Den Siebinhalt in eine Rührschüssel füllen. Die Knoblauchzehen aus ihrer Haut drücken. Alles mit einer Gabel grob zerkleinern. Falls die Schale der Zucchinistücke noch recht fest ist, eventuell ein Messer zu Hilfe nehmen. Minzeblätter, Dill und Zitronensaft unterrühren und das Gericht servieren.
@@ -27092,7 +26535,6 @@ Saft von ½ Zitrone
 Schwarzer Pfeffer aus der Mühle
 
 ### Zubereitung
-
 1. Die Zucchini längs in feine, ca. 6 mm dicke Scheiben schneiden, in ein großes Sieb legen, mit Salz bestreuen und gut vermengen. Beiseitestellen und 30 Minuten ziehen lassen. Gut abspülen.
 1. Die Zucchini auf ein sauberes Küchentuch legen, trockentupfen und mit Olivenöl bestreichen. Eine Grillpfanne bei mittlerer Hitze erwärmen und die Scheiben 4 Minuten auf jeder Seite grillen, bis sie weich sind und grillstreifen haben. Zum Abkühlen beiseitestellen.
 1. Den Ricotta in eine Schüssel geben. Die Passionfruits halbieren, die Samenkerne und das Fruchtfleisch von 3 Früchten herausnehmen und ebenfalls in die Schüssel geben. Den Zitronensaft, die Basilikumblätter, Salz und Pfeffer dazugeben und gut umrühren.
@@ -27115,7 +26557,6 @@ Tipp:	Statt Passionfruits kann man auch fein gehackte Mangos verwenden.
 Salz
 
 ### Zubereitung
-
 1. Den Backofen auf 230 Grad Umluft vorheizen.
 1. Die Zucchinihälften mithilfe eines Teelöffels aushöhlen, sodass jeweils ein etwa 1 cm dicker Rand stehen bleibt. Das Fruchtfleisch in ein Sieb geben und so viel Flüssigkeit wie möglich herausdrücken. Es sollten etwa 100 g ausgedrücktes Fruchtfleisch übrigbleiben. In eine Schüssel geben und mit Knoblauch, Ei, Parmesan, Brotbröseln sowie ¼ TL Salz verrühren. Die Tomaten mit den Händen kräftig zusammendrücken, dann zur Zucchinimischung geben. Alles verrühren und beiseitestellen.
 1. In einer weiteren Schüssel Zitronenschale, Oregano und Pinienkerne mischen. Die Hälfte davon unter die Zucchinimischung rühren, den Rest aufheben.
@@ -27176,7 +26617,6 @@ Salz, Pfeffer aus der Mühle
 Salz, Muskatnuss
 
 ### Zubereitung
-
 1. Die Kohlrabi mit einem Messer dünn schälen, dabei die holzigen Enden entfernen, vierteln und in 3 bis 4 mm dicke Scheiben oder schmale Spalten schneiden. Die Kohlrabischeiben mit der Brühe in einem flachen, weiten Topf geben und zugedeckt knapp unter dem Siedepunkt etwa 12 Minuten weichgaren.
 1. Ein Drittel der Kohlrabischeiben mit dem Schaumlöffel herausheben und beiseitelegen. Die Sahne, die Butter, die braune Butter zum Kohlrabi geben und alles mit dem Stabmixer glatt pürieren. Das Kohlrabipüree mit Salz und Muskatnuss würzen und noch einmal kurz aufmixen.
 1. Die Kohlrabistücke unter das Kohlrabipüree heben.
@@ -27213,7 +26653,6 @@ Je 1 TL gehackte Kräuter (Petersilie, Pimpinelle, Liebstöckel…)
 5 EL Crème fraîche
 
 ### Zubereitung
-
 1. Den Kohlrabi schälen, alle holzigen Teile abscheiden, Blätter aufbewahren, die Knollen vierteln und in nicht zu dünne Stifte schneiden.
 1. Etwa 2 l Wasser mit dem Zitronensaft zum Kochen bringen, die Kohlrabistifte in ein Sieb schütten und ins kochende Zitronenwasser hängen. Kohlrabi darin 5 Minuten blanchieren, kalt abbrausen und gut abtropfen lassen
 1. Die Butter in einem genügend großen Schmortopf zerlassen, die Kohlrabistifte unter Umwenden darin andünsten. Das Salz, den Zucker und die Gemüsebrühe zugeben und den Kohlrabi 15 – 20 Minuten dünsten. Die zurückbehaltenen Kohlrabiblättchen feinhacken und mit den Kräutern mischen. Die Crème fraîche und die Kräuter unter das Gemüse mischen.
@@ -27232,7 +26671,6 @@ Pfeffer
 30 g Brie
 
 ### Zubereitung
-
 1. Radicchio waschen, in Schnitze schneiden, etwa 4 cm breit. In einer Auflaufform nebeneinanderlegen. Salzen. Mandeln grob zerstoßen. Zusammen mit Parmesan, Semmelbröseln, Olivenöl und Pfeffer auf dem Radicchio verteilen.
 1. Bei 180 Grad Umluft im Ofen ungefähr 30 Minuten lang garen, dabei die Form mit einem Stück Backpapier abdecken, damit der Radicchio nicht zu braun wird. Nach 15 Minuten das Papier entfernen, 5 Minuten vor Ende der Garzeit den gewürfelten Brie auf dem Radicchio verteilen.
 
@@ -27254,7 +26692,6 @@ Salz
 50 g Pinienkerne (geröstet)
 
 ### Zubereitung
-
 1. Die Schwarzwurzeln gründlich in kaltem Wasser waschen. Vier gleichmäßige Wurzeln auswählen, die Schalen mit Eiern harten Bürste oder einem Kratzschwamm so abbürsten, dass ein Camouflage-Effekt entsteht, in gleichmäßige Stücke schneiden. Die eine Hälfte davon in Salzwasser blanchieren, die Schwarzwurzeln sollten noch Biss haben, kaltstellen, das Kochwasser aufbewahren. Die andere Hälfte salzen, in 2 EL Öl anbraten, anschließend mit 50 g Butter, Rosmarin und Brühe für ca. 10 Minuten schmoren.
 1. Restliche Schwarzwurzeln komplett schälen, eine Stange zur Seite legen, die übrigen klein schneiden und mit Sahne, Kochwasser, 150 g Butter und Salz weichkochen. Flüssigkeit abgießen und auffangen, Wurzeln pürieren, gegebenenfalls etwas vom Kochfond wieder hinzugeben, sodass eine cremige Konsistenz entsteht.
 1. Mit dem Sparschäler die restliche Wurzel in lange Streifen schneiden, 100 ml Öl in einem Topf erhitzen und die Streifen für ca. 30 Sekunden frittieren, auf Küchenkrepp abtropfen lassen.
@@ -27298,7 +26735,6 @@ Saft von ½ Zitrone
 Stängel von 1 Bund Koriandergrün (30 g) sehr fein gehackt
 
 ### Zubereitung
-
 1. Den Topinambur schälen und in Stücke schneiden. In einem Topf mit kaltem Wasser bedecken, zum Kochen bringen und 15 Minuten köcheln lassen, bis er weich ist. Abgießen und kurz mit der Gabel zerdrücken.
 1. Butter in einer Pfanne erhitzen, den Kreuzkümmel hineingeben, umrühren, Knoblauch, Ingwer, Chili, Salz und Pfeffer hinzufügen und sorgfältig verrühren. Den Topinambur hineingeben, durchrühren und 5 Minuten anbraten. Erneut umrühren und weitere 5 – 10 Minuten schmoren, bis der Topinambur knusprig wird und leicht bräunt.
 1. Mit Zitronensaft beträufeln und die Stängel vom Koriandergrün unterheben. Mit Salz und Pfeffer abschmecken.
@@ -27315,7 +26751,6 @@ Stängel von 1 Bund Koriandergrün (30 g) sehr fein gehackt
 Salz, Pfeffer aus der Mühle
 
 ### Zubereitung
-
 1. Den Porree putzen, gründlich waschen und in etwa 5 cm lange Stücke schneiden. Porreestücke in Salzwasser etwa 5 Minuten blanchieren, anschließend abtropfen lassen. Den Kochschinken in breite Streifen schneiden. Porreestücke damit umwickeln und in eine Auflaufform legen. Den Backofen auf 200°C vorheizen.
 1. Für den Guss die Walnüsse grob hacken. Den Frischkäse mit Ei, Sahne und Paprikapulver glatt verrühren. Walnusskerne darunterheben. Mit Salz und Pfeffer abschmecken und über den Porree gießen.
 1. Im vorgeheizten Backofen bei 200°C etwa 25 Minuten goldbraun backen.
@@ -27437,7 +26872,6 @@ Butterschmalz
 Zucker, Zimt
 
 ### Zubereitung
-
 1. Eier trennen. Eigelbe mit Mehl, Salz, Zucker und Milch glattrühren. Eiweiße steif schlagen und unter den Teig heben.
 1. In einer beschichteten Pfanne etwas Butterschmalz erhitzen und aus dem Teig portionsweise Pfannkuchen backen. Die fertigen Pfannkuchen mit 2 Gabeln in der Pfanne in Stücke reißen und im Backofen warm stellen, bis der Teig verbraucht ist. Kratzete mit Zucker und Zimt oder auch Puderzucker bestreuen und dazu Kompott oder Apfelmus servieren.
 
@@ -27453,7 +26887,6 @@ Info:	Also, man kann auch deftige Kratzete machen (also ohne Milch, ohne Zucker)
 Öl
 
 ### Zubereitung
-
 1. Reis und Dal mehrmals in kaltem Wasser waschen, bis das Wasser klar abläuft, dann abtropfen lassen. Mit den Bockshornkleesamen in eine hitzebeständige Schüssel geben. Mit 280 ml Wasser bedecken und über Nacht einweichen.
 1. Am nächsten Morgen Reis und Dal abgießen und pürieren. Mit Frischhaltefolie abdecken und 24 Stunden an einem warmen Ort fermentieren lassen. Am nächsten Morgen den Teig durchrühren und salzen.
 1. Eine große Pfanne erhitzen. Einen Teller für die Dosas, einen kleinen Topf mit Öl und ein Blatt Küchenpapier und eine Kelle bereitstellen. Die Pfanne ist heiß genug, wenn ein Spritzer Wasser sofort siedet und verkocht.
@@ -27511,7 +26944,6 @@ Wasser
 Bratöl
 
 ### Zubereitung
-
 1. Mehl mit Salz, Backpulver und Ei vermengen. Dann esslöffelweise so viel Wasser hinzufügen, dass der Teig tatsächlich die Konsistenz eines dicken Pfannkuchenteigs hat.
 1. Salbeiblätter waschen und gut abtrocknen. Dann in dem Teig großzügig baden. Währenddessen das Bratöl in einer Pfanne erhitzen. Darin dann die mit Teig ummantelten Salbeiblätter ein paar Augenblicke von beiden Seiten frittieren. Kurz auf einem mit Küchenpapier ausgelegten Teller ruhen lassen (Damit die Blätter etwas von dem Fett abgeben). Am besten noch warm essen.
 
@@ -27528,7 +26960,6 @@ Neulich habe ich entdeckt, dass es „Erwachsenenpfannkuchen“ gibt, und zwar d
 Salz, Pfeffer, Sonnenblumenöl
 
 ### Zubereitung
-
 1. Die Frühlingszwiebeln putzen, das heißt das Dunkelgrün entfernen und entsorgen. Eventuell welke äußere Schichten von den weißen und hellgrünen Teilen entfernen. Weiß und Hellgrün waschen. Etwa ein Viertel der Frühlingszwiebeln in ungefähr 3 cm große Stücke schneiden, den Rest fein hacken.
 1. In einem Topf leicht gesalzenes Wasser zum Kochen bringen. Darin die 3 cm langen Stücke garkochen, das dauert ungefähr 5 Minuten. Abgießen und etwa 50 ml von der Kochflüssigkeit aufbewahren. Die Flüssigkeit mit den gekochten Frühlingszwiebeln mithilfe eines Pürierstabs glatt pürieren.
 1. Das Püree mit Ei, Sojasauce und Mehl verrühren. Etwas Pfeffer (oder Chili) dazugeben, ebenso die fein gehackten Frühlingszwiebeln. 
@@ -27573,7 +27004,6 @@ Kerne von 1 Granatapfel
 20 g Koriandergrün, Blätter abgezupft und gehackt
 
 ### Zubereitung
-
 1. Die Linsen mehrmals in kaltem Wasser waschen, bis das Wasser klar abläuft. Dann 6 Stunden oder über Nacht einweichen. Anschließend die Chutneys zubereiten: alle Zutaten für das Paprika-Chutney fein pürieren, dabei bei Bedarf 1 – 2 EL Wasser dazugeben. Danach alle Zutaten für das Dattel-Chutney mit 100 ml Wasser pürieren und in eine Schüssel füllen. Für das Joghurt-Dressing den Joghurt in eine Schüssel geben und mit Zucker, Salz und 75 ml Wasser verquirlen. Die Chutneys und das Dressing abdecken und kaltstellen.
 1. Für die Beignets die Linsen abtropfen lassen, mit Chili, Ingwer, Salz, Kurkuma und Kreuzkümmelsamen zu einer Hummus-ähnlichen Konsistenz pürieren. Dabei bis zu 200 ml Wasser dazugießen. Öl 4 cm hoch in eine Pfanne geben und erhitzen. Es ist heiß genug, wenn ein Tropfen des Linsenteigs auf der Oberfläche schwimmt.
 1. Einen großzügigen TL vom Linsenteig aufnehmen und mit einem zweiten Löffel ins Öl schaben. Mit einem Schaumlöffel 2 – 4 Minuten im Öl hin und her bewegen, bis der Beignet die Farbe von Mandeln annimmt. Aus dem Öl heben und zum Abtropfen auf ein Küchenpapier setzen. Konsistenz und Geschmack prüfen. Die Beignets sollten im Inneren locker sein. Wenn er noch teigig ist, dann länger backen. Salz und Chilimenge anpassen. Die Beignets zu jeweils 10 Stück ausbacken, bis der Teig aufgebraucht ist. Auf einem großen Teller anrichten. Joghurtdressing darübergeben und mit dem Paprika- und Dattel-Chutney beträufeln. Zum Schluss mit Granatapfelkernen bestreuen und mit gehacktem Koriander garnieren. Sofort servieren.
@@ -27742,7 +27172,6 @@ Salz, Pfeffer
 Öl, Essig, Salz, Pfeffer, gehackte Kapern
 
 ### Zubereitung
-
 1. Blumenkohlröschen abtrennen. Möhren der Länge nach halbieren und in einer Schüssel mit Olivenöl, Salz und Pfeffer vermengen. Dann mit geviertelten roten Zwiebeln auf ein mit Backpapier belegtes Blech 25 Minuten bei 200 Grad rösten. Ab und zu wenden. 
 1. Für die Vinaigrette alle Zutaten vermengen und dann über das Gemüse geben. Dazu Eier servieren.
 
@@ -27770,7 +27199,6 @@ Salz
 75 ml Olivenöl
 
 ### Zubereitung
-
 1. Für die Brühe die Zwiebel mit ¾ TL Salz in einem großen Topf in dem Öl bei mittlerer bis starker Hitze 6 Minuten anschwitzen, bis sie goldgelb und weich ist, dabei ab und zu umrühren. Den Knoblauch und die Oliven dazugeben und 2 Minuten mitbraten. Von den Parmesanstücken die Rinde abschneiden, Parmesan in den Topf geben, nach weiteren 30 Sekunden den Zitronensaft, die Kräuterstängel und 1,8 l Wasser dazugeben und das Ganze mit 1 ¼ TL Salz würzen. Zum Kochen bringen und bei mittlerer Hitze 20 Minuten köcheln lassen. Die Brühe durch ein Sieb gießen, zurück in den Topf geben und warm stellen. Die festen Rückstände wegwerfen.
 1. Für die Salsa eine beschichtete Pfanne bei hoher Temperatur erhitzen. Sobald sie heiß ist, vier Zitronenscheiben hineinlegen und von jeder Seite etwa 3 Minuten rösten, bis sie kräftig gebräunt, aber nicht verbrannt sind. Die gebräunten und die frischen Scheiben fein hacken und in eine Schüssel geben. Mit den restlichen Zutaten sowie ¼ TL Salz verrühren und die Salsa bis zum Servieren beiseitestellen.
 1. Die passierte Brühe bei mittlerer bis starker Hitze wieder zum Sieden bringen. Anschließend die Hitze auf die niedrigste Stufe stellen, sämtliches Gemüse in den Topf geben und 3 Minuten garen, sodass es noch Biss hat.
@@ -27802,7 +27230,6 @@ Tipp:	 Die Salsa passt auch gut zu gegrilltem Gemüse.
 100 g Erbsen (frisch oder TK)
 
 ### Zubereitung
-
 1. Die Kartoffeln waschen und vierteln. Den Brokkoli in Röschen von der Größe der Kartoffelstücke schneiden und separat beiseitestellen. Die Möhren schälen und in Stifte schneiden, dann die Bohnen putzen.
 1. In einer großen Pfanne 3 EL Öl erhitzen, dann Nelken, Zimtstange, Pfefferkörner und Curryblätter hineingeben und bei mittlerer Hitze anrösten. Sobald die Pfefferkörner anschwellen, die Zwiebel hinzufügen und 8 Minuten glasig schwitzen, anschließend Ingwer, Knoblauch und Chili dazugeben und einige Minuten rösten.
 1. Kokosmilch, 100 ml Wasser, Kurkuma, Salz und Kartoffeln hinzugeben. Aufkochen lassen, die Temperatur auf schwache Hitze regulieren, die Pfanne abdecken und alles 5 Minuten köcheln lassen. Die Möhren hineingeben und weitere 5 Minuten garen, bis sie gerade zart sind. Bohnen und Brokkoli dazugeben und noch einmal 3 Minuten köcheln lassen, dann die Erbsen hineingeben udn1 Minute erhitzen.
@@ -27819,7 +27246,6 @@ Tipp:	 Die Salsa passt auch gut zu gegrilltem Gemüse.
 Salz, Pfeffer aus der Mühle
 
 ### Zubereitung
-
 1. Öl im Wok erhitzen, die Currypaste darin 2 Minuten braten. Kokosmilch und 100 ml Wasser angießen und unter Rühren aufkochen lassen.
 1. Gemüse untermischen, anbraten (TK-gemüse bei schwacher Hitze 10 Min. garen). Tofu würfeln und unterheben. Curry mit Sojasauce, Salz und Pfeffer abschmecken.
 1. Dazu passt Reis.
@@ -27842,7 +27268,6 @@ Weißer Pfeffer
 100 g Joghurt
 
 ### Zubereitung
-
 1. Kürbis vierteln, die Kerne entfernen und in Spalten schneiden. Petersilienwurzeln und Sellerie schälen und in grobe Stücke schneiden. Gemüse mit der Hälfte des Knoblauchs, Kürbiskernöl, Salz, 2 EL Zitronensaft und Pfeffer vermischen. Auf einem Backblech verteilen und im Ofen bei 190 Grad ca. 35 Minuten backen.
 1. Für den Dip Salbei kleinhacken und Gorgonzola grob würfeln. Gorgonzola, Salbei, restlichen Knoblauch, Salz, Crème fraîche, 1 EL Joghurt, 1 EL Zitronensaft und Pfeffer fein pürieren.
 1. Mit Gemüse und Fladenbrot servieren.
@@ -28000,7 +27425,6 @@ Zucker, Salz, Pfeffer
 Salz, Pfeffer, Blättchen von 2 Thymianzweigen
 
 ### Zubereitung
-
 1. Die verschiedenen Gemüse schälen und in sehr feine Scheiben schneiden. Die beiden Käsesorten reiben und vermengen. Die Hälfte des geriebenen Käses mit der Sahne vermischen, etwas Salz und Pfeffer hinzufügen. Diese Mischung in einer Schüssel mit den Gemüsescheibchen vermengen.
 1. Nun die Gemüsescheibchen in einer großen Auflaufform (z.B. 24x32 cm) aufrecht aneinanderreihen. Noch mal etwas salzen und pfeffern.
 1. Die Form mit Alufolie fest abdecken. Bei 200 Grad Umluft für 30 Minuten im Ofen backen. Dann auf 180 Grad schalten., Folien entfernen, den restlichen Käse auf dem Gratin verteilen und das Ganze weitere 20 Minuten lang backen. Zum Schluss noch mal pfeffern und ein paar Thymianblättchen auf dem Gratin verteilen.
@@ -28019,7 +27443,6 @@ Salz, Pfeffer (schwarz und rot)
 2 Knoblauchzehen
 
 ### Zubereitung
-
 1. Das Gemüse waschen und gleichmäßig in sehr dünne Scheiben schneiden. Immer abwechselnd in eine Auflaufform schichten. Zwischen die Gemüsescheiben steckt man dann den ebenfalls in Scheiben geschnittenen Ziegenkäse. 
 1. In einer kleinen Schüssel Olivenöl, Wasser, Salz und Pfeffer mit dem fein gehackten Rosmarin und dem ebenso fein gehacktem Knoblauch vermengen. Die Mischung über das Gemüse geben. Bei 180 Grad Umluft 50 Minuten lang backen. Mit Brot servieren.
 
@@ -28036,7 +27459,6 @@ Ein alter Trick, den alle Frauen kenne: wenn man sich mies fühlt und nichts zum
 Salz, Pfeffer aus der Mühle
 
 ### Zubereitung
-
 1. Gemüse wachen, putzen, eventuell schälen, und in große Stücke schneiden. Kräuter waschen, trockenschütteln und fein hacken. Zitrone wachen und in Spalten schneiden.
 1. Gemüse mit Kräutern, Zitrone und Öl mischen. In einer großen heißen Grillpfanne in etwa 10 Minuten knackig garen. Zitrone herausnehmen. Gemüse mit Salz und Pfeffer würzen.
 
@@ -28058,7 +27480,6 @@ Pfeffer, Salz
 Olivenöl
 
 ### Zubereitung
-
 1. Zucchini waschen, putzen und raspeln. Zucchiniraspel salzen und ungefähr 30 Minuten lang in einem Sieb abtropfen lassen. Inzwischen Spinat verlesen, waschen, putzen und in Streifen schneiden. Knoblauch schälen und fein hacken. Zucchini zusammen mit Spinat, zerkrümeltem Feta, fein geriebenem Parmesan, Knoblauch, grob gehacktem Basilikum, Zitronenschale, Salz und Pfeffer in einer großen Schüssel am besten mit der Hand vermengen.
 1. Eier aufschlagen und unterrühren. In einer Pfanne Olivenöl erhitzen. Wenn es heiß ist, je 2 Esslöffel vom Teig in die Pfanne setzen und etwas flach drücken, sodass Puffer entstehen. 2 bis 3 Minuten lang braten, dann wenden, bis das Ei durchgegart ist.
 1. Dazu passt ein Salat mit Senfdressing.
@@ -28120,7 +27541,6 @@ Meersalz und schwarzer Pfeffer aus der Mühle
 2 EL Ghee (Butterschmalz), Kokosfett oder Olivenöl zum Braten
 
 ### Zubereitung
-
 1. Die Quinoa kochen – 500 ml Wasser, Quinoa und Salz in einem mittelgroßen Topf zum Kochen bringen, die Hitze reduzieren und 15 Minuten leicht köcheln lassen, bis man kleine Fäden an den Quinoasamen erkennen kann. Das überschüssige Wasser abgießen und zum Abkühlen beiseitestellen.
 1. Den Blumenkohl in einer Küchenmaschine körnig pürieren. Mit der Quinoa und den anderen Zutaten in eine Schüssel geben und gut verrühren. 30 Minuten im Kühlschrank ruhen lassen.
 1. Aus dem Teig mit den Händen 12 Küchlein formen. Das Ghee oder Öl in einer großen Pfanne bei mittlerer Hitze erwärmen. Je 4 Küchlein 3-4 Minuten goldbraun braten. Vorsichtig wenden und auf der anderen Seite weitere 2-3 Minuten braten. Mit den restlichen Küchlein gleich verfahren. Auf Küchenpapier abtropfen lassen. Warm oder kalt servieren.
@@ -28205,7 +27625,6 @@ Tipp:	Dazu einfach einen Sesamfladen und gut isses.
 4 EL Zitronensaft
 
 ### Zubereitung
-
 1. Die Milch in einen Topf geben und zum Kochen bringen, dabei ständig rühren, damit sie nicht ansetzt. Sobald die Milch aufkocht, die Temperatur reduzieren. Den Zitronensaft einrühren, bis die Milch gerinnt. Sobald sich der Bruch von der Molke trennt, den Topf vom Herd nehmen.
 1. Ein Sieb mit einem Presstuch auslegen und über die Spüle stellen. Den Bruch langsam hineingießen, sodass die Molke ablaufen kann. Wasser in den Topf füllen und über den Bruch gießen, um allen Zitronensaft abzuspülen.
 1. Die Ecken des Presstuchs zusammennehmen und fest verdrillen, um das Wasser aus dem Panir zu winden. Dann ein Gewicht zum Pressen daraufsetzen und den Käse im Sieb über der Spüle abtropfen lassen.
@@ -28243,7 +27662,6 @@ Rapsöl
 1 rote Chilischote, entkernt und in feine Streifen geschnitten
 
 ### Zubereitung
-
 1. Etwas Öl in der Pfanne erhitzen, Panir bei mittlerer Hitze etwa 4 Minuten braten, bis er goldbraun und knusprig ist. Dabei jede Minute wenden. Mit dem Schaumlöffel herausnehmen und auf einen Teller geben.
 1. Für die Sauce 1 EL Öl in einem Topf erhitzen, den Knoblauch hineingeben und unter Rühren anbraten. Die Tomaten hinzufügen und 6 Minuten andünsten, bis sie weich sind und zerfallen. Salz, Pfeffer, Kreuzkümmel, Cayennepfeffer und Kurkuma unterrühren und 1 Minute kochen. Vom Herd nehmen.
 1. Einen Topf Wasser zum Kochen bringen, die Bohnen hineingeben und 2 Minuten köcheln lassen. Die Zuckerschoten hinzufügen und weitere 2 Minuten garen, anschließend die Erbsen dazugeben und nochmals 1 Minute köcheln lassen. Dann abgießen und das Gemüse ausdampfen lassen.
@@ -28267,7 +27685,6 @@ Rapsöl
 2 grüne oder gelbe Paprikaschoten, in 3 cm große Stücke geschnitten
 
 ### Zubereitung
-
 1. In einer Pfanne 2 EL Öl erhitzen und das Kichererbsenmehl hineingeben. Das Mehl bei mittlerer Hitze einige Minuten anrösten, bis es nussig zu duften beginnt und die Farbe von Mandelschalen annimmt. Dann vom Herd nehmen.
 1. Koriander, Minzeblätter, Joghurt, Knoblauch, Chilis, Salz und Zitronensaft zu einer feinen Paste pürieren. Zum Kichererbsenmehl geben und gründlich vermengen. Die Panir-Würfel mit der Masse bedecken und zwischen 15 Minuten und mehreren Stunden marinieren.
 1. Holzspieße in einer Schüssel mit kaltem Wasser quellen lassen. Den Backofen auf 220 Grad vorheizen und ein Backblech mit Backpapier belegen.
@@ -28291,7 +27708,6 @@ Rapsöl
 1 ½ rote Paprikaschoten, in 3 c, große Würfel geschnitten
 
 ### Zubereitung
-
 1. Das Öl in einer kleinen Pfanne erhitzen, das Kichererbsenmehl hinzugeben und bei schwacher Hitze unter Rühren anrösten, bis eine Paste entsteht. Sie soll nussig braun sein, aber nicht anbrennen, und der Marinade ihr herzhaftes Aroma verleihen. Etwa 3 Minuten abkühlen lassen.
 1. Die Kichererbsenpaste mit allen Zutaten bis auf die Paprika in eine Schüssel geben. Alles gründlich vermengen und mindestens 30 Minuten marinieren (länger ist besser). Holzspieße in kaltem Wasser quellen lassen.
 1. Panir und Paprika abwechselnd auf die Spieße fädeln. In der Zwischenzeit eine Grillpfanne/den Grill erhitzen. Die Kebabs unter mehrfachem Wenden 8 Minuten braten oder grillen, bis sie rundum geröstet sind.
@@ -28317,7 +27733,6 @@ Rapsöl
 1 Handvoll geröstete Mandelblättchen
 
 ### Zubereitung
-
 1. In einer großen Pfanne 1 EL Öl erhitzen, dann die Panirwürfel hineingeben. Einige Minuten bei mittlerer Hitze braten, bis sie rundum goldbraun sind, aber regelmäßig wenden. Dann auf einen Teller geben.
 1. Die Butter bei mittlerer Hitze in derselben Pfanne zerlassen und die Zwiebeln 10 Minuten darin anschwitzen, bis sie glasig sind und zu bräunen beginnen. Ingwer und Knoblauch dazugeben und 2 – 3 Minuten unter Rühren anrösten, dann die passierten Tomaten hinzufügen. Den Deckel auflegen und 12 – 15 Minuten kochen, bis die Sauce dickflüssig ist.
 1. Bockshornkleeblätter, Zimt, Nelken, Cayennepfeffer, Honig und Salz in die Sauce geben und unterrühren. Den Panir hinzufügen, den Deckel auflegen und 5 Minuten ziehen lassen, bis der Panir durchgewärmt ist. Erbsen und Sahne hinzugeben und weitere 5 Minuten köcheln lassen.
@@ -28343,7 +27758,6 @@ Rapsöl
 4 Parathos oder Tortilla-Wraps
 
 ### Zubereitung
-
 1. Zuerst das Chutney vorbereiten. Koriander, Zitronensaft, ½ TL Salz, 4 EL Öl und die Chilischoten mit 4 EL Wasser zu einer glatten Paste pürieren.
 1. Die Eier in eine kleine Schüssel aufschlagen und mit der Gabel leicht verquirlen. 1 EL Öl in einer Pfanne erhitzen, den Panir hineingeben. Unter häufigem Wenden 3 – 4 Minuten braten, bis er goldbraun und knusprig ist, und auf einen Teller geben.
 1. Erneut 1 EL Öl in der Pfanne erhitzen, dann Zwiebeln und Paprika hinzufügen und 8-10 Minuten braten, bis sie anfangen, weich zu werden. Cayennepfeffer, gemahlener Koriander, Kreuzkümmel und Salz unterrühren und dann den Panir dazugeben. Einige Minuten braten, dann vom Herd nehmen, abdecken und warm stellen.
@@ -28389,7 +27803,6 @@ Rapsöl
 1 EL getrockneter Oregano
 
 ### Zubereitung
-
 1. In einer Schüssel Mehl, Salz und Backpulver vermischen. Warmes Wasser und 30 ml Öl hinzufügen, zu einem glatten Teig verkneten. Eine Kugel formen und zugedeckt für 20 Minuten ruhen lassen.
 1. Den Mozzarella abtropfen lassen und in Stücke reißen. Die Kirschtomaten halbieren, 1 EL Olivenöl in einem Topf erwärmen, Tomaten hinzufügen, bei mittlerer Hitze für einige Minuten schmoren, sodass sie noch nicht zerfallen.
 1. Den Teig in vier Stücke teilen und zu Kugeln formen. Die erste Kugel zu einer etwa 2 Millimeter dünnen Scheibe ausrollen, den Rest des Teiges abdecken. 
@@ -28466,7 +27879,6 @@ Blätter von 4 Zweigen Minze, grob gehackt
 6 Eier
 
 ### Zubereitung
-
 1. In einer Pfanne auf mittlerer Stufe das Fett erhitzen. Die Senfsamen hinzufügen und etwa 1 Minute braten, bis sie anfangen aufzuplatzen. Zwiebel, Knoblauch und Ingwer dazugeben und anbraten, bis die Mischung aromatisch duftet. Chilipulver, Kurkuma und Garam Masala unterrühren und etwa 30 Sekunden mitbraten. 120 ml Wasser angießen und nach etwa 5 Minuten Tomaten und Meersalz unterrühren.
 1. Den Deckel auflegen und das Curry 20 Minuten köcheln lassen. Erbsen, Kokoscreme und die Hälfte der Minze einrühren. 6 Vertiefungen ins Curry drücken und die Eier direkt über den Mulden aufschlagen. Den Deckel auflegen und das Curry nochmals etwa 5 Minuten sanft köcheln lassen, bis die Eiweiße gestockt sind.
 1. Mit der restlichen Minze bestreuen und mit Beilagen (Salat, Reis, Chapati oder Naan) servieren.
@@ -28491,7 +27903,6 @@ Salz
 8 Eier
 
 ### Zubereitung
-
 1. Ingwer und Knoblauch mit ¼ TL Salz zu einer Paste zerstoßen und beiseitestellen.
 1. Das Öl in einem großen Topf erhitzen, Zwiebeln und Lorbeerblätter hineingeben und bei mittlerer Hitze 10 Minuten anbraten, bis die Zwiebeln glasig sind und zu bräunen beginnen. Die Ingwer-Knoblauch-Paste hinzufügen, gründlich verrühren und einige Minuten braten, dann die passierten Tomaten unterheben.
 1. Etwa 10 Minuten köcheln lassen, bis die Tomaten gut einreduziert sind. Cayennepfeffer, Zimt, Kreuzkümmel, Garam masala, Kurkuma, 1 TL Salz und Zucker hinzugeben und weitere 10 Minuten köcheln lassen.
@@ -28525,7 +27936,6 @@ Etwas Salz
 Evtl. frischen Koriander
 
 ### Zubereitung
-
 1. Öl in einem Topf erhitzen. Kreuzkümmel- und Fenchelsamen sowie Pfefferkörner darin erhitzen. Fein geschnittene Zwiebeln, gehackten Ingwer und gehackte Chilischote in den Topf geben und unter Rühren andünsten.
 1. Klein geschnittene Tomaten hinzufügen und alles etwa 5 Minuten lang mit Deckel simmern lassen. Dann Salz, Lorbeer und Kurkuma hinzufügen und noch mal 6 bis 7 Minuten köcheln lassen. 200 ml Wasser hinzugießen.
 1. Die geschälten hart gekochten Eier in den Topf geben sowie die Erbsen. Noch mal 5 bis 6 Minuten köcheln lassen. Man kann das Curry zum Servieren mit frischem Koriander bestreuen. Dazu schmeckt natürlich Reis.
@@ -28558,7 +27968,6 @@ Raps- oder Kokosöl
 15 frische Curryblätter
 
 ### Zubereitung
-
 1. Die Enden der ungeschälten Bananen abschneiden und die Bananen in Drittel schneiden, dann die Stücke halbieren. Erst kurz vor dem Braten schälen, damit das Fruchtfleisch sich nicht verfärbt.
 1. Eine große Pfanne erhitzen, Kreuzkümmel- und Koriandersamen hineingeben. Bei mittlerer Hitze einige Minuten anrösten, bis der Kreuzkümmel etwas dunkler wird und der Koriander sich goldbraun färbt. Die Kokosraspel hinzugeben und eine weiter Minute rösten, dann alles in einen Mörser geben du so fein wie möglich zerstoßen.
 1. Die Tomaten achteln. 2 EL Öl in der Pfanne erhitzen, Senfsamen und Schalotten hineingeben und 6 Minuten anschwitzen, bis die Schalotten glasig sind. Den Knoblauch hinzugeben und weitere 2 Minuten braten, dann die Tomaten dazugeben. Etwa 6 Minuten köcheln lassen, bis sie zusammenfallen. Die Kokosmischung, Cayennepfeffer, Kurkuma und Salz sorgfältig unterrühren.
@@ -28648,7 +28057,6 @@ Rote Curry-Paste
 ¼ TL Kurkuma, gemahlen
 
 ### Zubereitung
-
 1. Cashewkerne eine Stunde lang in einer Schüssel Wasser einweichen lassen. Gut abtropfen lassen.
 1. Öl in einem Wok (oder eine mittelgroße Pfanne) auf mittlerer Stufe erhitzen. Dann Zwiebel, Knoblauch, Curryblätter, grüne Chilischoten, Bockshornklee, Fenchel und Kardamom hinzugeben. Drei bis vier Minuten anbraten, bis alles weich ist, die Curryblätter aber noch hellgrün sind.
 1. Cashews dazugeben. Sri Lankisches Currypulver, Kurkuma, Zimt und 125 ml Wasser dazumischen. Auf leichte bis mittlerer Hitze reduzieren und für 5 Minuten köcheln lassen.
@@ -28709,7 +28117,6 @@ Olivenöl
 Zitronensaft
 
 ### Zubereitung
-
 1. Zwiebeln, Chili, Knoblauch und Ingwer hacken und zusammen mit den Gewürzen in Olivenöl anschwitzen.  Die in Würfel geschnittenen, geschälten Kartoffeln dazugeben und sofort mit Wasser angießen, sodass sie fast bedeckt sind. Zugedeckt köcheln lassen. Nach 10 Minuten Linsen und klein geschnittene Datteln dazugeben und mit Wasser bedecken. Weiter köcheln lassen, bis die Kartoffeln und die Linsen gar sind. (ca. 15-20 Minuten)
 1. Für die Raita die Gurke fein hacken. Joghurt mit dem Schneebesen aufschlagen und mit der Gurke vermengen. Mit Salz und Zitronensaft abschmecken.
 1. Mit Kräutern (Dill, Minze, Koriander) bestreuen.
@@ -28728,7 +28135,6 @@ Zitronensaft
 Salz
 
 ### Zubereitung
-
 1. Zwiebeln halbieren und in 5 mm breite Streifen schneiden. Möhren schälen und schräg in 1 cm dicke Scheiben schneiden. Öl in einem großen Topf erhitzen, Zwiebeln darin bei mittlerer Hitze 3 Minuten glasig dünsten. Möhren unterrühren und 2 Minuten mitdünsten.
 1. 2 TL Currypulver unterrühren, Linsen zugeben und unterrühren. Fond und 300 ml Wasser zugeben, zugedeckt aufkochen und bei milder Hitze 25 Minuten kochen lassen (Vielleicht auch weniger lang).
 1. Inzwischen Spinat verlesen, waschen und trockenschleudern. Spinat unter das Curry rühre und zusammenfallen lassen. Limette heiß waschen, trocken tupfen und 2 TL Schale fein abreiben. Limettenschale und Joghurt verrühren.
@@ -28802,7 +28208,6 @@ Salz
 Salz
 
 ### Zubereitung
-
 1. Das Dal waschen, bis das Wasser klar abläuft, dann abtropfen lassen und in einem hohen Topf mit 1,5 l Wasser bedecken. Aufkochen lassen, die Temperatur reduzieren und 30 – 40 Minuten gar köcheln lassen.
 1. Butter in einer Pfanne zerlassen, Kreuzkümmel und Schalotten hineingeben. Bei mittlerer Hitze 5 Minuten anschwitzen, dann Chilis du Knoblauch dazugeben und weitere 5 Minuten andünsten, bis die Schalotten zu bräunen beginnen. Nun Kurkuma und Gram masala hinzufügen.
 1. Die Mischung mit dem Dal verrühren und salzen. Das Dal bei Bedarf mit heißem Wasser verdünnen. Mit Reis oder Naan servieren.
@@ -28870,7 +28275,6 @@ Salz
 Saft von 1 Limette
 
 ### Zubereitung
-
 1. Die Linsen waschen, bis das Wasser klar abläuft, dann mit frischem Wasser bedecken und beiseitestellen. Die Kardamomkapseln im Mörser aufbrechen.
 1. In einem hohen Topf 2 EL Kokosöl erhitzen, Kardamom, Zimtstange und Nelken hineingeben. Bei mittlerer Hitze 1 Minute unter Rühren rösten, dann die Zwiebel dazugeben. Etwa 10 Minuten anschwitzen, bis sie zu bräunen anfängt. Knoblauch, Ingwer und Chilis hinzufügen und einige Minuten unter Rühren anbraten. Ein Drittel der Mischung herausnehmen und beiseitestellen.
 1. Die Linsen abgießen und mit Kurkuma und 1 l heißem Wasser in den Topf geben. Aufkochen lassen, die Temperatur reduzieren und 20 – 25 Minuten köcheln lassen, bis die Linsen weich und cremig sind. Den Kohl waschen, die Blätter in 5 cm breite Streifen schneiden und harte Stücke entfernen. Wenn die Linsen gar sind, die Kokosmilch und Salz hinzugeben, weiter 5 Minuten kochen du dann vom Herd nehmen. Warmhalten.
@@ -28896,7 +28300,6 @@ Info:	Auf Sri Lanka nimmt man alle möglichen Blattgemüse für Mallum, von	Chry
 Salz, Zucker
 
 ### Zubereitung
-
 1. Das Chana Dal mehrmals in kaltem Wasser waschen, bis das Wasser klar abläuft, dann 1 Stunde in warmem Wasser einweichen. In einem Topf mit der doppelten Menge Wasser bedecken und 45 Minuten garen, dann beiseitestellen.
 1. Eine Pfanne erhitzen und die Kokosraspel darin bei mittlerer Hitze unter ständigem Rühren rösten, bis sie bräunen, dann in eine Schüssel geben. Öl, Knoblauch, Ingwer und Chilis in die Pfanne geben und unter Rühren anbraten, bis der Knoblauch zu bräunen anfängt. Die Tomaten hinzufügen und 5 Minuten köcheln lassen, bis sie zerfallen.
 1. Gewürze, Salz und Zucker untermischen und noch einige Minuten unter Rühren garen, dann die Mischung mit den Kokosraspeln zum Dal geben und gut unterrühren.
@@ -28921,7 +28324,6 @@ Salz, Zucker
 1 Dose Kokosmilch (400 g)
 
 ### Zubereitung
-
 1. Zwei EL Öl in einer großen Pfanne bei mittlerer bis hoher Temperatur erhitzen. Die Schalottenwürfel darin 8 Minuten braten, bis sie goldbraun sind. Den Ingwer, die Hälfte der Chilischoten und die Hälfte der Curryblätter hinzufügen. Zwei Minuten anbraten, dann die Gewürze, das Tomatenmark und die Linsen dazugeben. Eine Minute rühren, anschließend Kokosmilch, 600 ml Wasser und ¾ TL Salz dazugeben.
 1. Aufkochen und bei mittlerer Hitze 20 Minuten köcheln lassen, bis die Linsen weich sind und die Sauce eingedickt ist; gelegentlich umrühren. 
 
@@ -28948,7 +28350,6 @@ Rapsöl
 30 g Erdnüsse mit roter Schale, zerstoßen
 
 ### Zubereitung
-
 1. Die Linsen über Nacht in kaltem Wasser oder 1 Stunde im warmen Wasser einweichen. Anschließend mehrmals in kaltem Wasser waschen, bis das Wasser klar abläuft, dann in einem Topf 4 cm hoch mit frischem Wasser bedecken. Den Sternanis dazugeben und die Linsen bei mittlerer Hitze zum Kochen bringen. Sie brauchen etwa 1 Stunde, bis sie gar sind. Unter Umständen zwischendurch Schaum abschöpfen.
 1. Für die Würze 2 EL Öl in einer Pfanne erhitzen, Senfsamen, Kreuzkümmelsamen, Nelken, Chili und 6 Curryblätter hineingeben. Bei mittlerer Hitze 2 – 3 Minuten unter Rühren anrösten, bis die Gewürze duften. Dann die Tomaten hinzufügen und 5 Minuten köcheln lassen, bis die Tomaten zerkocht sind. Kurkuma, Salz, Honig und Zitronensaft unterrühren, einige Minuten köcheln lassen und dann vom Herd nehmen.
 1. Die gegarten Linsen kräftig durchrühren, damit sie zerfallen und die Würze hinzugeben. Die Mischung wird recht dickflüssig und muss mit mindestens 200 ml heißem Wasser verdünnt werden. Dann weitere 15 Minuten köcheln lassen. Einen weiteren EL Öl in einer zweiten Pfanne erhitzen und einen Curryzweig und die zerstoßenen Nüsse hineingeben. Rösten, bis die Curryblätter knusprig und die Nüsse gebräunt sind, dann vom Herd nehmen. Das Dal in eine Schüssel füllen und mit Curryblättern und Nüssen bestreuen.
@@ -28967,7 +28368,6 @@ Salz
 40 g Koriandergrün, fein gehackt
 
 ### Zubereitung
-
 1. Das Öl in einer Pfanne erhitzen und die Zwiebel hineingeben. Bei mittlerer Hitze 5 Minuten anschwitzen, dann den Zitronensaft hinzugießen und weitere 5 Minuten dünsten.
 1. Chilis und Knoblauch dazugeben und 3 Minuten dünsten, bis der Knoblauch nicht mehr roh riecht. Die Tomaten und 6 EL Wasser hinzufügen und unter ständigem Rühren 5 Minuten braten, bis die Tomaten zerfallen. Kreuzkümmel, Salz und dann die Sprossen hinzugeben und gründlich vermengen. Etwa 3 Minuten kochen, bis die sprossen heiß sind, dann den gehackten Koriander hinzugeben. Umrühren und vom Herd nehmen.
 
@@ -29097,7 +28497,6 @@ Blätter von 4 Zweigen frischem Thymian, abgezupft
 Olivenöl zum Beträufeln
 
 ### Zubereitung
-
 1. In einem Topf mit schweren Boden 1 l Wasser zum Kochen bringen, gleichzeitig 0,5 l Wasser in einem separaten Topf erhitzen. Polenta und Salz in den ersten Topf einrühren. Die Hitze sofort stark reduzieren und die Polenta unter ständigem Rühren köcheln lassen, bis der Grieß das Wasser aufgesogen hat. Die Polenta weiter köcheln lassen und alle 5 Minuten etwas heißes Wasser aus dem zweiten topf angießen, bis der Maisbrei nach etwa 45 Minuten dick und cremig ist uns dich vom Topfrand löst (oder Polenta einfach nach Packungsanweisung kochen 😊) Dann das Olivenöl einrühren.
 1. Das restliche Öl in einem separaten Topf auf mittlerer Stufe erhitzen. Knoblauch und Pilze darin einige Minuten anbraten. Dann Artischockenherzen und Thymian dazugeben und mitbraten, bis das Gemüse zart und saftig ist. 
 1. Das Gemüse an den Topfrand schieben und die Ziegenkäsescheiben auf beiden Seiten etwa 1 Minute in der Topfmitte bräunen.
@@ -29138,7 +28537,6 @@ Abrieb von 1 Zitrone
 Meersalz, Pfeffer
 
 ### Zubereitung
-
 1. Bulgur und Gemüsebrühe in einem Topf zum Kochen bringen, den Herd ausschalten und zugedeckt auf der heißen Platte 5 Minuten ziehen lassen. Von der Herdplatte nehmen und weitere 5 Minuten im zugedeckten Topf stehen lassen, bis der Bulgur bissfest ist. Pinienkerne und Kürbiskerne in einer kleinen Pfanne bei mittlerer Temperatur rösten, bis die Kerne goldbraun sind und duften. Dabei häufig umrühren, damit nichts anbrennt. Zwiebel fein hacken, Tomaten und gurke würfeln, Petersilie und Minze ebenfalls fein hacken. Alles in einer großen Schüssel unter den warmen Bulgur mischen. Zitronensaft und Olivenöl dazugeben. Mit Salz und Pfeffer abschmecken. In eine flache Schüssel geben und mit den Pinien- und Kürbiskernen bestreuen.
 1. Für die Keftedes die Zucchini grob reiben und mit den Händen das überschüssige Wasser ausdrücken. Zwiebel und Kräuter fein hacken und mit gepresstem Knoblauch, gerieben Käse, Zitronenabrieb und Sumach in eine Schüssel geben. Eier verschlagen und dazugeben, dann vorsichtig das Mehl einrühren, bis keine Klumpen mehr zu sehen sind. Mit Salz und Pfeffer abschmecken. Öl in einer großen Pfanne bei mittlerer Temperatur erhitzen. Sobald es heiß ist, viermal jeweils einen gehäuften EL des Zucchini-Teigs hineingeben. 2 bis 3 Minuten braten, bis die Keftedes untern fest und goldbraun sind, dann wenden. Aus der Pfanne nehmen und mit Zewa abtupfen. Im vorgewärmten Ofen warmhalten, während die nächsten braten. Die Keftedes mit Bulgur anrichten.
 
@@ -29158,7 +28556,6 @@ Meersalz, Pfeffer
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den Backofen auf 200 Grad Umluft vorheizen. Die Auberginen in einer großen Schüssel mit 4 EL Olivenöl, ½ TL Salz und 1 kräftigen Prise Pfeffer sorgfältig vermengen. Auf einem großen, mit Backpapier belegten Blech verteilen und im Ofen 35 bis 40 Minuten rösten, bis die Aubergine goldbraun und weich sind. Nach der Hälfte der Zeit einmal durchrühren. Aus dem Ofennehmen und beiseitestellen.
 1. Das restliche Öl (3 EL) in einer großen Pfanne bei mittlerer bis hoher Temperatur erhitzen du die Zwiebeln 8 Minuten anbraten, bis sie gebräunt und weich sind. Ab und zu umrühren. Knoblauch und Piment zugeben und unter Rühren 1 Minuten mitbräunen, bis der Knoblauch duftet. Die Kirschtomaten hinzufügen und mit einem Kartoffelstampfer zerdrücken. Das Tomatenmark, 400 ml Wasser und 1 TL Salz unterrühren, alles zum Kochen bringen und zugedeckt bei schwacher bis mittlerer Hitze 12 Minuten garen. Den Bulgur untermischen, sodass er vollständig von der Flüssigkeit bedeckt ist. Die Pfanne vom Herd nehmen und den Bulgur 20 Minuten quellen lassen, bis er die Sauce aufgenommen hat.
 1. Den Joghurt in einer Schüssel mit der eingelegten Zitrone, der Hälfte der Minze und 1 Prise Salz verrühren.
@@ -29179,7 +28576,6 @@ Salz, Pfeffer
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den Bulgur waschen und in einer großen Schüssel mit ¼ TL Salz und 1 kräftigen Prise Pfeffer würzen. 250 ml Wasser zum Kochen bringen und den Bulgur damit übergießen. Die Schüssel mit Frischhaltefolie zudecken und den Bulgur 20 Minuten quellen lassen, bis er die Flüssigkeit aufgenommen hat und weich ist. Den Bulgur beiseitestellen.
 1. Inzwischen 2 EL Öl in der Pfanne bei hoher Temperatur erhitzen. Die Zwiebelringe darin 7 – 8 Minuten goldbraun anbraten, ½ TL Kreuzkümmelsamen zugeben und weitere 1 – 2 Minuten kräftig bräunen. Aus der Pfanne nehmen und beiseitestellen.
 1. Weitere 2 EL Öl in der Pfanne bei hoher Temperatur erhitzen. Die Pilze hineingeben, mit ½ TL Salz würzen und 6 – 7 Minuten braten, bis sie Farbe angenommen haben und weich sind. Mit dem restlichen Kreuzkümmel (1/2 TL) und Thymian bestreuen und 1 Minute unter Rühren weitergaren. Den Balsamicoessig zugießen und 30 Sekunden verkochen lassen – er sollte fast restlos verdampfen. Bulgur, Zwiebelringe, Dill, Feta und Chiliflocken unterrühren, alles noch einmal erwärmen.
@@ -29206,7 +28602,6 @@ Salz, Pfeffer
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den Backofen auf 200 Grad vorheizen. Eine Springform (20 cm Durchmesser) mit Backpapier auslegen.
 1. Den Bulgur 30 Minuten in 200 ml Wasser einweichen.
 1. Inzwischen 4 EL Öl in einer großen Pfanne erhitzen. Knoblauch, Zwiebeln und Chili darin bei mittlerer bis starker Hitze anschwitzen, bis alles weich ist, dann aus der Pfanne nehmen. Das Fleisch bei hoher Temperatur 5 Minuten unter stetigem Rühren in der Pfanne anbräunen.
@@ -29230,7 +28625,6 @@ Eventuell Tomatenmark
 3 EL Zitronensaft oder Essig
 
 ### Zubereitung
-
 1. Linsen mit dreifacher Menge Wasser aufkochen und weichkochen. Mit Salz, Paprika, Chilipulver, eventuell Tomatenmark, würzen.
 1. Peperoni und Tomaten hinzufügen und mitkochen.
 1. Gegen Schluss Honig und Zitronensaft dazugeben.
@@ -29297,7 +28691,6 @@ Eventuell Tomatenmark
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den Backofen auf 230 Grad Umluft vorheizen.
 1. Die Auberginen auf ein Backblech legen und im Ofen 1 Stunde rösten, bis das Fruchtfleisch sehr weich ist und ein rauchiges Aroma angenommen hat. Nach 30 Minuten wenden. Aus dem Ofen nehmen und etwas abkühlen lassen, anschließend das Fruchtfleisch aus der Schale lösen und auf einer Schüssel 30 Minuten abtropfen lassen. Die Schale wegwerfen.
 1. Auf demselben Blech die Kirschtomaten 12 Minuten im Ofen rösten, bis sie stellenweise dunkel und aufgeplatzt sind. Herausnehmen und beiseitestellen.
@@ -29352,7 +28745,6 @@ Info:	Oder wenn man das Rezept vorgesungen haben will: <https://www.youtube.com/
 Salz
 
 ### Zubereitung
-
 1. Die Graupen unter fließendem kaltem Wasser gründlich abspülen und abtropfen lassen.
 1. In einem Topf die Butter mit 2 EL Esslöffeln Öl erhitzen und darin Sellerie, Schalotten und Knoblauch 5 Minuten bei geringer Hitze anschwitzen, bis sie weich sind. Graupen, Thymian, Paprikapulver, Lorbeer, Zitronenschale, Chiliflocke, Tomaten, passierte Tomaten, Brühe sowie ½ TL Salz dazugeben und die Zutaten gut verrühren. Das Ganze zum Kochen bringen und 45 Minuten bei sehr geringer Hitze köcheln lassen, bis die Graupen weich sind und die Flüssigkeit fast vollständig aufgesogen haben. Dabei regelmäßig umrühren, damit der Risotto nicht anhängt. Falls nötig, etwas Wasser dazugießen.
 1. In der Zwischenzeit die Kümmelsamen einige Minuten ohne Fett in einer Pfanne rösten und danach grob zerstoßen. Mit dem restlichen Öl zum Feta geben und die Zutaten vorsichtig mischen.
@@ -29379,7 +28771,6 @@ Etwa 250 ml Sonnenblumenöl
 Salz und Pfeffer
 
 ### Zubereitung
-
 1. Die Linsen in einem kleinen Topf mit reichlich Wasser bedecken, aufkochen, 12-15 Minuten bissfest garen, dann in ein Sieb gießen.
 1. Die Zwiebeln schälen und in feine Ringe schneiden. Auf einer großen Platte verteilen, mit Mehl bestäuben und mit 1 TL Salz würzen. Das Ganze dann mit den Händen durchmischen. In einem Topf mit schwerem Boden das Sonnenblumenöl bei hoher Temperatur erhitzen. Die Wärmezufuhr etwas verringern und die Zwiebelringe portionsweise 5-7 Minute im heißen Öl frittieren, bis sie goldbraun und knusprig sind. Dabei gelegentlich mit einem Schaumlöffel umrühren und die Temperatur, falls nötig, reduzieren, damit die Zwiebeln nicht zu dunkel werden. Mit dem Schaumlöffel aus dem Topf heben, auf Küchenpapier abtropfen lassen und noch einmal nachsalzen.
 1. Das restliche Öl aus dem Frittiertopf abgießen, den Boden mit Küchenpapier anreiben. Kreuzkümmel und Koriander hineingeben und 1-2 Minuten bei mittlerer Hitze rösten. Reis, Olivenöl, die Gewürze, Zucker, ½ TL Salz und reichlich Pfeffer hinzufügen und das Ganze verrühren, bis die Reiskörner mit Öl überzogen sind. Die gekochten Linsen dazugeben und 350 ml Wasser angießen. Aufkochen und zugedeckt 15 Minuten bei sehr geringer Hitze köcheln lassen.
@@ -29402,7 +28793,6 @@ Salz und Pfeffer
 Salz und Schwarzer Pfeffer
 
 ### Zubereitung
-
 1. Den Bulgur in ein feines Sieb geben und unter fließendem kaltem Wasser waschen, bis das Wasser klar bleibt und die Stärke weitgehend abgespült isst. Den Bulgur anschließend in eine Schüssel füllen.
 1. Die Tomaten in 0,5 cm dicke Scheiben, dann in 0,5 cm breite Streifen und anschließend in Würfel schneiden (😊). Die Tomatenwürfel mit ihrem Saft, der Schalotte und dem Zitronensaft zu dem Bulgur geben und alles gut durchmischen.
 1. Ein paar Stängel Petersilie fest zusammendrücken, den größten Teil der Stiele abschneiden und wegwerfen. Die Blätter anschließend so fein wie möglich hacken (1 mm) und zu den übrigen Zutaten in die Schüssel geben. Auf diese Weise die gesamte Petersilie zerkleinern.
@@ -29427,7 +28817,6 @@ Olivenöl
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Man nimmt ein sehr großes Bündel Petersilie, vielleicht sogar zwei, löst die Blätter von den Stielen und hackt die Blättchen klein. Das sollte man ausnahmsweise ordentlich machen: Wenn die Blätter zu grob geschnitten sind, lässt sich der Salat nicht essen. Es kommt jetzt noch etwas Minze hinzu, ebenfalls gehackt. Den Bulgur in Salzwasser gar kochen, abkühlen lassen und dazugeben. Zwiebel und Tomaten fein hacken und hinzufügen. Das Dressing besteht aus nicht mehr als Zitronensaft, etwas Olivenöl, Salz und Pfeffer.
 1. Man kann dazu ein paar Scheiben Halloumi braten oder man isst dazu in Gottes Namen ein paar Lammspieße, wenn man sonst befürchtet, bei so viel Grün zum Kaninchen zu werden.
 
@@ -29449,7 +28838,6 @@ Olivenöl
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Man nimmt ein sehr großen Bund Petersilie, vielleicht sogar zwei, löst die Blätter von den Stielen und hackt die Blättchen sehr klein. Das sollte man ausnahmsweise ordentlich machen: Wenn die Blätter zu grob geschnitten sind, lässt sich der Salat nicht essen. Es kommt jetzt noch etwas Minze hinzu, ebenfalls fein gehackt. Den Bulgur in Salzwasser garkochen (oder eben Couscous), abkühlen lassen und dazugeben. Zwiebel und Tomaten fein hacken und hinzufügen. Das Dressing besteht aus nicht mehr als etwas Zitronensaft, etwas Olivenöl, Salz und Pfeffer.
 
 ### Kommentar
@@ -29474,7 +28862,6 @@ Sonnenblumenöl zum Braten
 Salz und Pfeffer
 
 ### Zubereitung
-
 1. Das Brot 1 Minute in reichlich kaltem Wasser einweichen und danach gut ausdrücken.
 1. Über einer mittelgroßen Schüssel zerkrümeln und mit Eiern, Gewürzen, ½ TL Salz und ¼ TL Pfeffer vermengen. Zum Schluss die Kräuter und en Feta untermischen.
 1. 1 EL Öl bei mittlerer bis starker Temperatur in einer mittelgroßen Pfanne erhitzen. Etwa 5 EL der Brotmischung in die Mitte der Pfanne geben, mit dem Löffelrücken zu einem 2-3 cm dicken Fladen flach drücken und auf jeder Seite 2-3 Minuten goldbraun backen. Auf diese Weise die gesamte Brotmischung verarbeiten.
@@ -29576,7 +28963,6 @@ Meersalz
 Salz, Pfeffer aus der Mühle
 
 ### Zubereitung
-
 1. Den Backofen auf 200°C (Gas Stufe 6) vorheizen. Die Auberginenscheiben über einem Backblech auf einen Grillrost legen. Dünn mit Öl bepinseln, mit Salz bestreuen und im Ofen rösten, bis sie weich und leicht gebräunt sind (etwa 10 Minuten, je nach Dicke).
 1. Für die Linsen-Tomaten-Sauce in einem Topf das Öl erhitzen. Zwiebel, Knoblauch, Zimt und Oregano darin anbraten, bis sie duften, dabei gelegentlich umrühren. Das Tomatenmark unterrühren, dann Linsen, 600 ml Wasser und Tomaten dazugeben. Aufkochen lassen, die Hitze auf mittlerer Stufe reduzieren und alles 30-40 Minuten köcheln lassen, bis die Linsen weich sind und die Sauce sämig ist.
 1. Für die Béchamelsauce in einem kleinen Topf auf mittlerer Stufe das Öl erhitzen. Mit einem Kochlöffel das Mehl einrühren, bis die Mehlschwitze zäh und leicht gebräunt ist. Unter ständigem Rühren mit einem Schneebesen zunächst die Hälfte der Milch, dann die restliche Milch einrühren. Die Béchamelsauce mit Muskat sowie Salz und Pfeffer abschmecken, dann unter ständigem Quirlen erhitzen, bis sie aufkocht und eindickt.
@@ -29658,7 +29044,6 @@ Salz, Pfeffer
 Salz und schwarzer Pfeffer
 
 ### Zubereitung
-
 1. In einer beschichteten Pfanne 2 EL Olivenöl bei mittlerer Hitze erhitzen und die Zwiebel 5 Minuten unter häufigem Rühren glasig anschwitzen. Tomatenmark und Zucker einrühren und 1 Minute erhitzen. Die Tomaten hinzufügen, mit ½ TL Salz sowie etwas Pfeffer würzen und die Sauce 3 Minuten kochen lassen.
 1. Inzwischen den Couscous in einer flachen Schüssel mit der kochenden Brühe übergießen. Mit Frischhaltefolie abdecken und 10 Minuten quellen lassen. Anschließend mit einer Gabel auflockern und mit der Tomatensauce mischen.
 1. Die Pfanne mit Küchenpapier ausreiben und die Butter bei mittlerer Temperatur mit dem restlichen Öl erhitzen. Den Couscous in die Pfanne geben und mit einem Löffelrücken gleichmäßig darin verteilen, dabei vorsichtig andrücken. Den Deckel auflegen und den Couscous 10-12 Minuten bei sehr geringer Hitze braten, bis Boden und Rand leicht gebräunt und knusprig sind. Gegen Ende der Garzeit mit einer Palette oder einem Messer den Couscous vorsichtig vom Rand der Pfanne lösen, um zu prüfen, ob er knusprig genug ist.
@@ -29690,7 +29075,6 @@ Zucker
 Ras-el-Hanout
 
 ### Zubereitung
-
 1. Die Rosinen in einer Tasse mit kochendem Wasser übergießen und quellen lassen. Den Couscous in eine Schüssel geben, mit der Brühe übergießen und zugedeckt mindestens 7 Minuten quellen lassen.
 1. Den Staudensellerie putzen und waschen. Die Blätter abzupfen und grob hacken. Die Selleriestangen in dünne Scheiben schneiden. Die Tomaten waschen, vierteln und entkernen, dabei die Stielansätze entfernen. Das Fruchtfleisch in kleine Würfel schneiden.
 1. Die Gurke schälen, längs halbieren, entkernen und ebenfalls in Würfel schneiden. Die Oliven je nach Größe halbieren oder vierteln. Den Feta zerbröckeln. Die Mandelblättchen in einer Pfanne ohne Fett goldbraun rösten. Die Kräuter waschen, trocken tupfen, die Blätter abzupfen und fein hacken.
@@ -29778,7 +29162,6 @@ Salz und Pfeffer
 Petersilie (gehackt)
 
 ### Zubereitung
-
 1. Zunächst Zwiebel hacken und in Öl andünsten, bis sie glasig ist. Die Graupen waschen, abtropfen lassen und dazugeben, eine Weile unter Rühren andünsten, bevor mit Weißwein abgelöscht wird. Salz und Pfeffer dazu geben. Weiterrühren, bis die Flüssigkeit verdampft ist, dann etwas Gemüsebrühe dazugeben, sodass die Graupen gerade mit Flüssigkeit bedeckt sind. Wenn die Brühe verdampft ist, etwas Brühe nachgießen. Diesen Vorgang wiederholen, bis die Graupen schließlich gar sind. Das ist nach ca. 25 Minuten der Fall.
 
 In der Zwischenzeit die Pilze zerkleinern, kleine Pilze können ganz bleiben. In Olivenöl in einer beschichteten Pfanne dünsten, bis sie gar sind. Gemeinsam mit Parmesan und Butter zu den Graupen geben. Mit Salz und Pfeffer abschmecken. Vor dem Servieren gehackte Petersilie darübergeben.
@@ -29804,7 +29187,6 @@ Pfeffer
 Etwas gehackte Petersilie
 
 ### Zubereitung
-
 1. Die Zwiebeln in Streifen schneiden und in Olivenöl mit Kumin glasig dünsten. Paprika, in Streifen geschnitten, dazugeben. 10 Minuten lang braten, bis der Paprika etwas Farbe angenommen hat. Dabei oft rühren. 
 1. Es kommen Zucker, Lorbeerblätter, Oregano dazu. Mit den Tomaten ablöschen. Chilischote, Pfeffer und Salz dazugeben.
 1. 15 Minuten bei mittlerer Hitze köcheln lassen, bis die Sauce eindickt und der Paprika weich ist.
@@ -29827,7 +29209,6 @@ Etwas gehackte Petersilie
 120 g stichfester Joghurt
 
 ### Zubereitung
-
 1. Das Öl bei mittlerer Temperatur in einer großen Pfanne erhitzen. Harissa, Tomatenmark, Paprika, Knoblauch, Kreuzkümmel und ¾ TL Salz hineingeben, umrühren und das Ganze etwa 8 Minuten bei geringer Hitze anschwitzen, bis die Paprikawürfel weich sind. Die Tomaten dazugeben und die Mischung weitere 10 Minuten köcheln lassen, bis eine relativ dicke Sauce entstanden ist.
 1. Die Sauce abschmecken, acht kleine Vertiefungen hineindrücken. Die Eier aufschlagen und vorsichtig in die Mulden gleiten lassen. Anschließend die Eigelbe auf die Vertiefungen verteilen. Mit einer Gabel die Eiweiße leicht mit der Sauce verquirlen. Dabei darauf achten, dass die Eigelbe nicht auslaufen. Das Gericht 8-10 Minuten köcheln lassen, bis die Eiweiße gestockt, die Eigelbe aber noch flüssig sind (um den Prozess zu beschleunigen, die Pfanne eventuell mit einem Deckel verschließen).
 1. Die Pfanne anschließend vom Herd nehmen und ein paar Minuten stehen lassen. Shakshuka auf Tellern anrichten und mit Joghurt servieren.
@@ -29849,7 +29230,6 @@ Etwas Saft einer ausgepressten Zitrone
 Dill
 
 ### Zubereitung
-
 1. Mangold waschen. Blätter von den Stielen trennen, dann Blätter in feine Streifen und Stiele in Scheiben schneiden. Kümmel in einer beschichteten Pfanne kurz anrösten, etwas abkühlen lassen und im Mörser möglichst fein zerstoßen. Die Stiele zusammen mit einer fein geschnittenen Zwiebel, Kümmel Chiliflocken und Salz in der Pfanne mit Olivenöl ungefähr 5 Minuten lang andünsten.
 1. Dann mit einem Löffel zwei Mulden im Gemüse bilden, Eier aufschlagen und vorsichtig hineinsetzen. Bei niedriger Hitze ohne Deckel garen, ungefähr 7 Minuten lang oder bis das Eiklar weiß geworden ist. Mit etwas Zitronensaft abschmecken, eventuell nachsalzen, fein gehackten Dill darübergeben.
 
@@ -29877,7 +29257,6 @@ Blätter von 4 Zweigen Minze, grob gehackt
 Optional ein paar Schwarzkümmelsamen
 
 ### Zubereitung
-
 1. In einer Pfanne auf mittlerer Stufe das Fett erhitzen, die Senfsamen hinzufügen und etwa 1 Minuten braten, bis sie anfangen aufzuplatzen. Zwiebel, Knoblauch und Ingwer dazugeben und anbraten, bis die Mischung aromatisch duftet. Chilipulver, Kurkuma und Garam Masala unterrühren und etwa 30 Sekunden mitbraten. 120 ml Wasser angießen und nach etwa 5 Minuten Tomaten und Salz unterrühren.
 1. Den Deckel auflegen und das Curry 20 Minuten köcheln lassen. Erbsen, Kokoscreme und die Hälfte der Minze einrühren. 6 Vertiefungen ins Curry drücken und die Eier direkt über den Mulden aufschlagen. Den Deckel auflegen und das Curry nochmals etwa 5 Minuten sanft köcheln lassen, bis die Eiweiß gestockt sind. Vorsicht: nicht zu lange, sonst wird auch das Eigelb hart.
 1. Mit der restlichen Minze (und optional mit Schwarzkümmelsamen) bestreuen und servieren.
@@ -29902,7 +29281,6 @@ Pfeffer, Salz
 Ein paar Blättchen frische Minze
 
 ### Zubereitung
-
 1. Die Auberginen im Ofen rösten. Das wirkt sich positiv auf ihre Konsistenz aus. Sie werden längs halbiert und in möglichst gleich große Stücke von 1 bis 2 cm geschnitten. (oder in 1 cm dicke Scheiben). In einer Schüssel mit 2 EL Olivenöl und Salz vermengen. Auberginen auf einem Backpapier ausgelegtem Blech gleichmäßig verteilen. Bei 200°C Umluft 15 Minuten lang backen, herausnehmen, wenden, noch mal 15 Minuten garen, bis die Auberginen weich sind. 
 1. Man legt zu den Auberginen eine quer aufgeschnittene Knoblauchknolle (ungeschält) auf das Blech. In der Schale wird der Knoblauch durch die Hitze zu einem süßlichen Mus, das sich leicht herausdrücken lässt, bevor man es weiterverarbeitet.
 1. Während Auberginen und Knoblauch im Ofen sind, die Zwiebeln schälen und hacken. Zucchini waschen, putzen und in Stücke schneiden. Paprika entkernen, waschen und würfeln. Öl in einer großen Pfanne erhitzen, Zwiebeln dazu, salzen, nach 2 Minuten Hitze runterschalten, Zwiebeln unter Rühren dünsten.
@@ -29933,7 +29311,6 @@ Salz, Pfeffer
 2 EL Weißweinessig
 
 ### Zubereitung
-
 1. Den Backofen auf 190 grad Ober-/Unterhitze vorheizen. Auberginen putzen, waschen, abtrocknen, in 1 cm große Würfel schneiden, auf einem mit Backpapier ausgelegten Blech verteilen. Von der Knoblauchknolle quer das obere Drittel entfernen, Knolle und Auberginen auf das Blech legen. Salzen, mit etwas Olivenöl beträufeln und im Backofen 20 – 25 Minuten lang backen (nicht zu schwarz werden lassen). 
 1. Währenddessen Zwiebel schälen, Paprika waschen und entkernen. Beides in Streifen schneiden. Zucchini putzen, waschen und in dünne Streifen schneiden.
 1. Zwiebel in etwas Olivenöl in der Pfanne ungefähr 5 Minuten lang dünsten. Paprika und Zucchini dazugeben, ebenso die Dosentomaten. Salzen und pfeffern und das Ganze ungefähr 25 Minuten lang in der zugedeckten Pfanne schmoren.
@@ -29964,7 +29341,6 @@ Der Trick ist, dass die Auberginen, die oft ein Ratatouille verderben, weil sie 
 Salz
 
 ### Zubereitung
-
 1. Den Backofen auf 210 Grad (Umluft) vorheizen.
 1. Die ersten 5 Zutaten mit ¾ TL Salz in einer großen Schüssel mischen. Anschließend auf zwei mit Backpapier ausgelegte Bleche verteilen. 40 Minuten rösten, bis das Gemüse gar und kräftig gebräunt ist; nach der Hälfte der Zeit durchrühren und die Position der Bleche tauschen. Alles mit Ingwer, Knoblauch, Sojasauce, Ahornsirup, Kirschtomaten und Schwarzkümmel in eine große Schüssel geben.
 1. Während das Gemüse im Ofen ist, eine Pfanne bei hoher Temperatur sehr stark erhitzen. Die Chilis darin 12 Minuten braten und einige Male wenden, bis sie rundherum kräftig geröstet sind. Die Chilis fein hacken und unter das Gemüse rühren. Das Ratatouille für 30 Minuten beiseitestelllen, damit sich die Aromen verbinden. 
@@ -29990,7 +29366,6 @@ Tipp:	 Am besten passen dazu Injera, das gesäuerte Fladenbrot aus Äthiopien.
 2 EL Apfelessig
 
 ### Zubereitung
-
 1. Das Öl in einer großen Pfanne erhitzen. Aubergine, Paprika, Oregano und Chiliflocken hineingeben, bei mittlerer Hitze etwa 5 Minuten anbraten und dabei gelegentlich umrühren. Sobald die Gemüsewürfel auf allen Seiten schön gebräunt sind, Knoblauch, Zwiebel, den Großteil der Petersilie und Minze (etwas für die Garnierung beiseitelegen) hinzufügen und alles 3 Minuten weiter garen, dabei gelegentlich umrühren.
 1. Tomaten, Oliven, Kapern und Apfelessig zuletzt dazugeben und alles nochmals 20 Minuten garen, bis die Aubergine sehr weich ist.
 1. Die Caponata mit den restlichen Kräutern garnieren und etwas Olivenöl darüberträufeln.
@@ -30016,7 +29391,6 @@ Salz, Pfeffer, etwas Zucker
 Ein paar Scheiben Weißbrot, geröstet
 
 ### Zubereitung
-
 1. Die Auberginen werden der Länge nach halbiert und 30 Minuten lang in kaltes Wasser eingelegt. Würfeln und in einer großen Pfanne das Olivenöl erhitzen. Die Auberginenwürfel darin dünsten, bis sie fast gar sind, aber noch nicht zerfallen. Zwiebel und Sellerie dazugeben. Ungefähr 15 Minuten lang weiterdünsten. Dann Kapern und Rosinen dazugeben sowie Tomaten, Oregano und Essig. Salzen und pfeffern. 
 1. Bei kleiner Hitze soll das Ganze einkochen, was ungefähr 15 Minuten dauert. Die Caponata soll eine sämige Konsistenz haben. Am ende wird mit Essig und etwas Zucker abgeschmeckt. Vor dem Servieren Petersilie darübergeben. Mandelblättchen oder Pinienkerne in einer Pfanne ohne Fett rösten und ebenfalls über die Caponata geben.
 
@@ -30040,7 +29414,6 @@ Frisches Basilikum (oder getrockneter Oregano)
 Salz, Pfeffer, Evtl. etwas Gemüsebrühe
 
 ### Zubereitung
-
 1. Die Aubergine in ca. 1,5 cm große Würfel schneiden und mit reichlich Salz bestreuen, damit die Bitterstoffe später durch das Pressen ausgeschieden werden. Paprika waschen, Strunk und Kerngehäuse entfernen, in ca. 2,5 – 3 cm große Würfel schneiden. Die Zwiebeln ebenfalls in 2,5 cm große Stücke zerteilen.
 1. In einer hohen Pfanne etwas Olivenöl auf mittlerer Stufe erhitzen. Eine gepresste Knoblauchzehe (nur für den Geschmack) darin kurz anschwitzen und wieder rausnehmen. Die gewürfelten Tomaten in die Pfanne geben, anbraten und die Paprika-Zwiebel-Mischung hinzufügen. Die gesalzene Aubergine pressen, sodass das gesamte enthaltene Wasser ausgeschieden wird, kurz abwaschen, nochmals pressen, in die Pfanne geben.
 1. Als letztes kommen die geschälten und in kleine Würfel geschnittenen Kartoffeln und die Lorbeerblätter hinzu. Das Ganze lässt man ca. 40 Minuten auf niedriger Stufe schmoren. Zum Schluss wird das Gericht mit reichlich Basilikum verfeinert; mit Salz und Pfeffer abschmecken. Wichtig ist, dass die Zutaten nicht an der Pfanne kleben; bei Bedarf kann man etwas Gemüsebrühe oder mit mehr Olivenöl arbeiten.
@@ -30114,7 +29487,6 @@ Saft von ½ Zitrone
 Etwas Dill, Chiliflocken
 
 ### Zubereitung
-
 1. Die Linsen waschen und mit Wasser, Salz und Lorbeer bei mittlerer Hitze und geschlossenem Deckel 15 bis 20 Minuten lang weichkochen. Dabei immer wieder umrühren. Die Linsen saufen das Wasser komplett auf und zerfallen. Die Masse soll nicht anbrennen, deshalb zum Ende der Garzeit nicht aus den Augen lassen.
 1. Lorbeerblätter entfernen. Zwiebeln und Knoblauch schälen und klein schneiden. In einer Pfanne mit Olivenöl erhitzen.
 1. Pinienkerne, Kreuzkümmel und Zucker dazugeben. Alles einige Minuten bei mittlerer Hitze dünsten, bis die Zwiebeln weich sind. Diese Mischung zu den Linsen geben, alles mit dem Stabmixer pürieren. Mit Zitronensaft abschmecken und mit gehacktem Dill und Chiliflocken bestreuen.
@@ -30142,7 +29514,6 @@ Salz
 Pfeffer aus der Mühle
 
 ### Zubereitung
-
 1. Für die Zubereitung der Bällchen zuerst die Linsen abspülen und mit 500 ml kaltem Wasser in einem Topf zum Kochen bringen. Die Hitze reduzieren und 15 Minuten köcheln lassen, bis die Linsen weich sind. Gut abtropfen lassen und leicht abkühlen lassen.
 1. Die Linsen entweder mit einer Gabel zerdrücken oder mit einem Pürierstab grob pürieren. Die Konsistenz sollte so sein, dass einige Linsen noch ganz sind. In eine Schüssel geben und mit den übrigen Zutaten für die Bällchen mit einem Löffel gut verrühren. Für 30 Minuten in den Kühlschrank stellen.
 1. Den Backofen auf 190°C (Gas Stufe 5) vorheizen und ein Backblech mit Backpapier auslegen. Mit den Händen 15 Bällchen formen, auf das Backpapier legen und 15-20 Minuten backen. Alle 5 Minuten wenden, damit sie gleichmäßig bräunen und nicht die Form verlieren.
@@ -30188,7 +29559,6 @@ Salz, Pfeffer
 10 g Koriandergrün, fein gehackt
 
 ### Zubereitung
-
 1. Den Backofen auf 200 Grad (Umluft) vorheizen. Die rote Zwiebel mit Zitronensaft und 1/8 TL Salz mischen. Beiseitestellen.
 1. Cashewkerne und Mandeln in einem kleinen Topf mit Wasser bedecken, bei mittlerer Hitze 20 Minuten köcheln lassen; in einem Sieb abtropfen lassen.
 1. Für die Klößchen das Öl in einer Pfanne stark erhitzen. Die Pilze und den festen Tofu darin etwa 8 Minuten etwas Farbe annehmen lassen. Den Knoblauch dazufügen. 30 Sekunden rühren, dann die Pfanne vom Herd nehmen, Pilze und Tofu grob zerkleinern. Mit den restlichen Zutaten für die Klößchen, ¾ TL Salz und einer kräftigen Prise Pfeffer gründlich vermengen. Mit geölten Händen aus dem Teig 16 tischtennisballgroße Kugeln formen, dabei die Masse gut zusammendrücken. Mit etwas Abstand auf ein mit Backpapier belegtes Blech verteilen und im heißen Ofen etwa 25 Minuten backen, bis sie leicht gebräunt sind. Beiseitestellen.
@@ -30211,7 +29581,6 @@ Salz, Pfeffer
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Mehl, Speisestärke, Kardamom, 2,5 TL Salz und reichlich Pfeffer in eine Schüssel geben und gut vermischen.
 1. In einer großen Pfanne mit hohem Rand oder in einem Wok 900 ml Öl bei mittlerer Temperatur erhitzen. Sobald es heiß isst, den Tofu in der Mehlmischung wenden. Die Tofuwürfel portionsweise vorsichtig in das heiße Öl geben und jeweils 3-4 Minuten frittieren, bis sie knusprig und goldbraun sind; nach der Hälfte der Zeit wenden. Den Tofu mit einem Schaumlöffel herausholen und abtropfen lassen. Warmhalten.
 1. Die Pfanne spülen und gut abtrocknen. Die restlichen 2,5 EL Öl darin bei hoher Temperatur erhitzen. Knoblauch und Chilis darin 1-2 Minuten braten, bis der Knoblauch leicht goldbraun ist. Die Spinatstiele hinzufügen und 4 Minuten rühren, dann die Blätter dazugeben und weiterrühren, bis sie nach ca. 2 Minuten zusammenfallen. 
@@ -30239,7 +29608,6 @@ Abrieb und etwas Saft von 1 Biozitrone
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Basilikumblättchen von den Zweigen zupfen, waschen, trocken schütteln. Etwa 2/3 davon in einer Pfanne mit einem Spritzer Wasser kurz dünsten, bis die Blätter zusammenfallen. Wenn sie ausgekühlt sind, mit den Händen das Wasser rausdrücken. Dann zusammen mit 75 g Ricotta pürieren. In eine größere Schüssel geben und mit dem restlichen Ricotta, den Eiern, dem Eigelb und dem geriebenen Parmesan vermengen, alles mit einem Löffel glatt rühren.
 1. Das Mehl unterheben. Grieß auf einen Teller geben. Mit den Händen aus dem Teig walnussgroße Kugeln formen, diese im Grieß rollen, sodass sie von allen Seiten bedeckt sind. Die Teigkugeln auf eine Platte setzen, mit einem sauberen Küchentuch abdecken und 30 Minuten lang ruhen lassen.
 1. Einen großen Topf mit gesalzenem Wasser aufsetzen; wenn es sprudelt, die Knödelchen hineingeben, bis sie nach wenigen Minuten an die Oberfläche steigen. Butter und Olivenöl in einer Pfanne erhitzen, dann die restlichen Basilikumblättchen in der Pfanne „frittieren“. Zitronenschale dazureiben. Mit Salz und Pfeffer abschmecken. Das ist die Soße für die Gnudis. Man kann von der Zitrone, die man übrighat, außerdem noch etwas Saft darübergeben.
@@ -30267,7 +29635,6 @@ Flüssige Butter zum Bestreichen
 Mehl zum Formen
 
 ### Zubereitung
-
 1. Das Toastbrot in kleine Würfel schneiden. Die Toastbrotwürfel mit der Butter in einer Pfanne bei milder Hitze goldbraun rösten und auf Küchenpapier abtropfen lassen.
 1. Das Mehl mit ½ TL Salz, 1 Prise Zucker und etwas Muskatnuss in einer Schüssel vermischen. Die Hefe mit den Fingern zerbröseln und in der lauwarmen Milch auflösen. Die Hefemischung mit dem Ei und dem Eigelb unter das Mehl rühren und alles mit dem Knethaken des Handrührgeräts zu einem glatten teig verkneten. Die gerösteten Brotwürfel untermischen und den Teig zugedeckt an einem warmen Ort etwa 20 Minuten gehen lassen.
 1. In einem breiten oder länglichen, flachen Topf reichlich Salzwasser zum Kochen bringen. Die Teigrollen nicht allzu fest in die Serviette wickeln, sodass der Teig beim Garen noch etwas aufgehen kann. Die Serviettenenden mit Küchengarn locker zubinden. Die Serviettenknödel in den Topf geben und im sanft siedenden Wasser etwa 35 Minuten garen, dabei gelegentlich wenden.
@@ -30289,7 +29656,6 @@ Etwas griffiges Mehl
 Salz, Pfeffer, Muskat
 
 ### Zubereitung
-
 1. Zwiebel fein schneiden, in Butter anschwitzen und mit Milch ablöschen.
 1. Semmeln in Würfel schneiden und mit der Zwiebelmilch übergießen.
 1. Eier und fein gehackte Petersilie untermischen und mit Salz, Pfeffer und Muskat abschmecken.
@@ -30309,7 +29675,6 @@ Salz, Pfeffer, Muskat
 Weißer Pfeffer
 
 ### Zubereitung
-
 1. Gruyère und Raclettekäse reiben, vom Brie die Rinde entfernen und diesen in Stücke schneiden. Cidre zum Kochen bringen. Essig und dann den Käse hinzufügen. In langsamen Achten rühren.
 1. Die Speisestärke mit Calvados verrühren, zur Käsemischung geben und alles einmal aufkochen. Mit Pfeffer würzen.
 
@@ -30371,7 +29736,6 @@ Tipp:	 Wird der Käse während des Essens dickflüssig, einfach etwas Weißwein 
 1 Msp. Weißer Pfeffer
 
 ### Zubereitung
-
 1. Die beiden Käsesorten auf einer Reibe fein raspeln. Vom Weißbrot die Rinde abreiben und das Brot in nicht zu kleine Würfel schneiden.
 1. Die Knoblauchzehe schälen, halbieren und mit den Schnittflächen einen Fonduetopf gründlich ausreiben.
 1. Den Käse mit dem Zitronensaft bei äußerst schwacher Hitze auf dem Herd unter ständigem Rühren mit dem Schneebesen schmelzen lassen. Die Speisestärke darüberstäuben und unterrühren.
@@ -30395,7 +29759,6 @@ Je 400 g Greyerzer und Emmentaler Käse
 800 g Baguette
 
 ### Zubereitung
-
 1. Den ganzen Käse grob raspeln und mit der Milch, der Butter, dem Pfeffer, dem Paprikapulver und den Zwiebelwürfeln in einem Käsefonduetopf auf dem Herd bei schwacher Hitze unter ständigem Rühren schmelzen lassen.
 1. Das Fondue muss gut erhitzt werden; dabei am besten mit einem Kochlöffel kräftig rühren, damit die Käsemasse nicht ansetzt.
 1. Die Speisestärke mit wenig Weißwein anrühren. Den Weißwein in das Fondue mischen, die angerührte Speisestärke und das Kirschwasser unterrühren und alles noch kurz aufkochen lassen. Das heiße Fondue dann auf den Rechaud stellen. Und los geht`s.
@@ -30413,7 +29776,6 @@ Etwas geriebene Muskatnuss
 1 Messerspitze Backpulver
 
 ### Zubereitung
-
 1. Käse in Scheiben schneiden und dann in eine Schüssel fein reiben. Man gibt Weißwein, Knoblauchzehen sowie etwas Muskat dazu und lässt die Mischung eine Stunde marinieren.
 1. Dann wird das Ganze in einem Topf unter ständigem Rühren erhitzt, bis der Käse schmilzt. Schließlich kommt das Kirschwasser dazu. Mit Backpulver kann man für eine cremige Konsistenz sorgen, wenn das Fondue zu flüssig geworden ist.
 
@@ -30474,7 +29836,6 @@ Salz, frisch gemahlener Pfeffer
 1 EL Weißwein
 
 ### Zubereitung
-
 1. Den Ofen auf 180 Grad Umluft heizen. Kartoffeln schälen und in sehr dünne Scheiben schneiden. Die Zwiebeln schälen und in sehr feine Streifen oder Ringe schneiden. Tomaten halbieren und entkernen.
 1. In einer Auflaufform etwas Olivenöl verteilen. Dann wird das Gemüse in die Auflaufform geschichtet, und zwar so: Zunächst den Boden der Form mit einigen Kartoffelscheiben bedecken. Salzen und pfeffern. Ein bisschen Oregano darauf geben. Dann eine Schicht Zwiebelstreifen, ein paar Tomatenhälften ebenso wie ein paar mit den Fingern gerupfte Basilikumblättchen auf den Kartoffeln verteilen, es folgen einige Spritzer Olivenöl, mehr Öl schmeckt meiner Meinung nach besser. Die Tomaten kann man ein bisschen platt drücken oder in kleinere Stücke rupfen, wenn sie zu viel Platz einnehmen.
 1. Dann geht es von vorn los: Kartoffeln einschichten, Salz, Pfeffer und Oregano drauf, dann Zwiebeln, Tomaten, Basilikum. Das wiederholt man, bis sämtliches Gemüse verbraucht ist. Zum Schluss Weißwein darüber gießen.
@@ -30507,7 +29868,6 @@ Salz, Pfeffer
 4 Frühlingszwiebeln, schräg in feine Scheiben geschnitten
 
 ### Zubereitung
-
 1. Den Backofen auf 180 Grad (Umluft) vorheizen. Schalotten, Knoblauch, Öl und ¼ TL Salz in einer ofenfesten Pfanne vermengen und alles bei mittlerer Hitze in 8-10 Minuten goldbraun anbraten. Ab und zu umrühren. Die Mischung in eine große Schüssel umfüllen.
 1. Kartoffeln, Kokoscreme, Limettensaft, 2 TL Salz sowie reichlich Pfeffer zu den Schalotten in die Schüssel geben und sehr behutsam untermengen.
 1. Ein Viertel der Mischung in die Pfanne füllen. Gleichmäßig verteilen und dann die restlichen drei Viertel spiralförmig wie eine Rosette leicht überlappend darauflegen. Mit der Brühe übergießen, die Pfanne sorgfältig mit Alufolie zudecken und das Gratin im Ofen 40 Minuten backen.
@@ -30608,7 +29968,6 @@ Salz, Pfeffer
 Salz, Pfeffer, Muskatnuss
 
 ### Zubereitung
-
 1. Den Backofen auf 180 Grad vorheizen. Eine ofenfeste Form mit Butter einfetten. Die Kartoffeln schälen, waschen und in 2 mm dicke Scheiben hobeln. Die Kartoffelscheiben mit der Sahne und dem Thymian vermischen und mit Salz, Pfeffer und etwas Muskatnuss würzen.
 1. Die Kartoffelmischung in die Form geben und im Ofen auf mittlerer Schiene etwa 40 Minuten goldbraun backen. Bach Belieben das Gratin vor dem Backen mit 100 g geriebene Bergkäse bestreuen. Noch würzige wird das Gratin mit 1 Prise Oregano.
 
@@ -30665,7 +30024,6 @@ Salz, Pfeffer
 1 Bio-Zitrone, 1 EL Schale abgerieben, dann 1 EL Saft ausgepresst
 
 ### Zubereitung
-
 1. Die Kartoffeln mit Thymianzweigen, Minzestängeln, Knoblauch, Zitronenschake und 2 TL Salz in einen großen Topf geben. Kochend heißes Wasser dazugießen, bis sie 2 cm hoch bedeckt sind. Etwa 25 Minuten köcheln lassen, bis die Kartoffeln weich genug zum Zerstampfen sind.
 1. Inzwischen für das Topping Öl, Knoblauch, Thymianblätter, Minzeblätter, Zitronenschale und -saft mit 1/8 TL Salz und 1 kräftigen Prise frisch gemahlenen Pfeffer in eine kleine Schüssel geben. Alles verrühren. Beiseitestellen.
 1. Ein Sieb auf eine große Schüssel setzen und die Kartoffeln (etwas von dem Kochwasser braucht man noch). Thymian und Minze entfernen. Die Kartoffeln wieder in den Topf geben (Mit Knoblauch und Zitronenschale) und mit einem Kartoffelstampfer zerdrücken, dabei nach und nach 100 ml Öl sowie etwa 140 ml Kochwasser hinzufügen, bis ein glattes Püree entsteht.
@@ -30766,7 +30124,6 @@ Salz und Meersalzflocken
 4 Limetten, 1,5 EL Schale abgerieben, dann 20 ml Saft ausgepresst, die übrigen zu Spalten geschnitten
 
 ### Zubereitung
-
 1. Für die Mayonnaise den Kardamom und die gemahlenen Curryblätter in einem kleinen Topf bei starker Hitze 1 Minute rösten. Das Öl dazugießen und 30 Sekunden erhitzen, bis es leicht siedet, nun die ganzen Curryblätter hinzufügen und in etwa 30 Sekunden behutsam knusprig frittieren. Den Topf vom Herd nehmen, die ganzen Curryblätter mit einer Schaumkelle herausfischen und für später zur Seite legen, Das Öl mit den restlichen Aromaten darin 30 Minuten ziehen lassen, bis es vollständig abgekühlt ist, Etwa ½ EL Öl zum Servieren abnehmen, den Rest durch ein Sieb mit Messbecher gießen, die Rückstände wegwerfen.
 1. Das Eigelb, den Knoblauch, 1 EL Limettensaft und eine kräftige Prise Salz vermengen (am besten mit dem Pürierstab fein mixen). Langsam das Öl dazugießen, bis die Masse dick wird. Die Mayonnaise in eine kleine Schüssel umfüllen und den restlichen 1 EL Limettensaft dazugeben, damit sie etwas geschmeidiger wird. Wenn die Mayo gerinnt oder zu dich wird, 1 TL Wasser unterrühren, bis sie wieder glatt ist.
 1. Den Backofen auf 200 Grad (Umluft) vorheizen.
@@ -30788,7 +30145,6 @@ Pommes mal ganz anders aber super lecker! Und mit Mayo, Paulchen 😊
 Meersalzflocken
 
 ### Zubereitung
-
 1. Den Backofen auf 220 Grad Umluft vorheizen.
 1. In einem großen Topf reichlich Salzwasser zum Kochen bringen. Die Kartoffeln darin 7 – 8 Minuten garen, bis sie an den Rändern weich werden, aber noch die Form behalten. In einem Sieb abtropfen lassen und 5 Minuten zum Trocknen beiseitestellen, dann in eine große Schüssel füllen. Das Sonnenblumenöl mit 1 EL Meersalzflocken untermischen.
 1. Die Kartoffeln mitsamt dem Öl auf zwei mit Backpapier bedeckte Backbleche verteilen und 40 – 50 Minuten im Ofen backen, bis sie goldbraun und knusprig sind, dabei gelegentlich wenden.
@@ -30825,7 +30181,6 @@ Salz
 Salz
 
 ### Zubereitung
-
 1. Das Öl in einem großen Topf geben und bei mittlerer Temperatur erhitzen. Die Kartoffeln mit dem Knoblauch und ¾ TL Salz hineingeben. Unter häufigem Rühren 30 Minuten braten, bis sie goldbraun und weich sind. Rosmarin und Thymian hinzufügen und noch 5 Minuten mitbraten, bis die Kräuter knusprig und aromatisch sind.
 1. Die Kartoffeln mit einem Schaumlöffel - der Großteil des Öls soll abtropfen – in eine Servierschüssel umfüllen. Den Sumach unterrühren und die Bratkartoffeln servieren.
 
@@ -30844,7 +30199,6 @@ Salz
 Meersalzflocken
 
 ### Zubereitung
-
 1. Den Backofen auf 150 Grad Umluft vorheizen.
 1. Die Knoblauchzehen mit Schmalz und Kräutern in einen kleinen ofenfesten Topf mit Deckel geben. Zugedeckt im Ofen 40 Minuten garen, bis sie weich und karamellisiert sind. Aus dem Ofen nehmen. Das Fett durch ein Sieb in eine große, hitzebeständige Schüssel geben und aufbewahren. Kräuter und Knoblauch beiseitestellen.
 1. Die Ofentemperatur auf 200 Grad Umluft erhöhen.
@@ -30899,7 +30253,6 @@ Muskatnuss
 1-2 EL Öl
 
 ### Zubereitung
-
 1. Die Kartoffeln waschen, schälen und auf der Gemüsereibe in feine Streifen raspeln. Die Kartoffelstreifen mit etwas Salz, Pfeffer und Muskatnuss würzen und einige Minuten ziehen lassen. Das austretende Wasser mit den Händen gut ausdrücken.
 1. Das Öl in einer Pfanne erhitzen. Die Kartoffelstreifen hineingeben, gleichmäßig etwa ½ cm dick verteilen und etwas andrücken. Die Rösti bei mittlerer Hitze etwa 4 Minuten goldbraun anbraten. Zum Wenden die Rösti aus der Pfanne auf einen Teller gleiten lassen, die umgedrehte Pfanne darüberlegen du die Rösti wieder in die Pfanne stürzen. Etwas Öl hinzufügen du die andere Seite ebenfalls langsam goldbraun braten. Die Rösti herausnehmen und auf Küchenpapier abtropfen lassen.
 1. Man kann auch gegarte Kartoffeln nehmen. Dazu die Kartoffeln am Vortag kochen und kalt werden lassen. Am nächsten Tag reiben, mit Salz, Pfeffer und Muskatnuss würzen. Und die Rösti in der Pfanne in 3 EL Öl auf beiden Seiten knusprig braun braten.
@@ -30914,7 +30267,6 @@ Muskatnuss
 Salz
 
 ### Zubereitung
-
 1. Den Backofen auf 240 Grad vorheizen.
 1. Die Kartoffeln schälen, kleinere ganz lassen, größere halbieren. Unter fließendem kaltem Wasser abspülen, in einen großen, mit reichlich kaltem Wasser gefüllten Topf legen, zum Kochen bringen und 8-10 Minuten köcheln lassen. In ein Sieb abgießen, gut abtropfen lassen und das Sieb danach schwenken, um die Kartoffeln aufzurauen.
 1. Das Schmalz in eine ofenfeste Form geben und etwa 8 Minuten im Backofen erhitzen, bis es raucht. Die Form herausnehmen, die Kartoffeln mit einer Zange in das heiße Fett legen und darin wenden. Die Backofentemperatur auf 200 Grad reduzieren, die Form auf der obersten Schiene einschieben und die Kartoffeln unter gelegentlichem Wenden 50-65 Minuten rösten, bis sie goldbraun und knusprig sind.
@@ -30939,7 +30291,6 @@ Salz, Pfeffer
 1,5 EL Reisessig
 
 ### Zubereitung
-
 1. Den Backofen auf 240 Grad (Umluft) vorheizen.
 1. Die ersten vier Zutaten mit ¾ TL Salz und einer Prise Pfeffer sorgfältig mischen. Auf ein mit Backpapier bedecktes Blech geben und so weit wie möglich verteilen, dann fest mit Alufolie zudecken und 15 Minuten rösten.
 1. Die Folie entfernen. Die Ofentemperatur auf 200 Grad reduzieren. Die Kartoffeln offen weitere 25 Minuten rösten, bis sie durchgegart und schön gebräunt sind; nach der Hälfte der Zeit einmal durchrühren.
@@ -30966,7 +30317,6 @@ Saft einer halben Zitrone
 Pfeffer, Salz
 
 ### Zubereitung
-
 1. Backofen auf 220 Grad Ober-/Unterhitze vorheizen. Kartoffeln 20 Minuten lang im Salzwasser kochen.
 1. Backblech mit Olivenöl einpinseln, sodass eine dünne Schicht die Oberfläche bedeckt. Gegarte Kartoffeln auf das Blech legen, mit einem Kartoffelstampfe flach drücken, sodass die Schale aufplatzt und die Kartoffelfladen ungefähr 1,5 cm dich sind – nicht zu fest drücken, die Kartoffeln sollen nicht komplett gequetscht werden.
 1. Mit Öl bepinseln, salzen, pfeffern und 25 – 30 Minuten im Backofen backen. Kräuter fein hacken oder mit dem Zauberstab pürieren, mit Quark, Crème fraîche, Senf und fein gehackten Essiggurken vermengen, mit Zitronensaft, Pfeffer und Salz abschmecken.
@@ -30991,7 +30341,6 @@ Etwas Schnittlauch
 150 g Crème fraîche
 
 ### Zubereitung
-
 1. Kartoffeln schälen und in mundgerechte Stücke schneiden. Zwiebeln fein hacken. Butter in einem Topf zergehen lassen, Zwiebeln dazugeben, einige Minuten lang unter Rühren dünsten. Die Zwiebeln sollen keine Farbe annehmen. Paprikapulver dazugeben, mit Essig ablöschen. Die Brühe hinzugießen und die Flüssigkeit aufkochen. Die Kartoffeln dazugeben, die beiden Knoblauchzehen schälen, halbieren und dazugeben. Kümmel im Mörser fein zerstoßen und zusammen mit dem Lorbeer, etwas Salz und Pfeffer in den Topf geben. Das Gulasch nun bei niedriger Temperatur und geschlossenem Deckel köcheln lassen, etwa 25 bis 30 Minuten lang.
 1. Vor dem Servieren die frischen Kräuter fein hacken, in einer Schüssel mit Crème fraîche glattrühren. Wenn man keinen frischen Majoran findet, lässt man ihn einfach weg, aber es lohnt sich, ihn zu suchen: schmeckt dann besonders. Das Gulasch auf Tellern verteilen und die Kräuter-Crème-fraîche dazu essen.
 
@@ -31010,7 +30359,6 @@ Cayennepfeffer, Paprikapulver, Salz
 2 EL gehackte Petersilie
 
 ### Zubereitung
-
 1. Die Zwiebeln und den Knoblauch schälen und in feine Würfel schneiden. Beide Kartoffelsorten schälen, waschen und in mundgerechte Stücke schneiden. Das Öl in einem großen Topf erhitzen und die Zwiebeln und den Knoblauch darin andünsten.
 1. Die Kartoffeln hinzufügen, das Tomatenmark einrühren und so lange braten, bis die Kartoffeln leicht angebräunt sind. Mit der Brühe ablöschen und zugedeckt bei mittlerer Hitze etwa 20 Minuten köcheln lassen, bis die Kartoffeln weich sind. Falls die Flüssigkeit sehr schnell einziehen sollte, noch etwas mehr Brühe hinzufügen.
 1. Das Gulasch mit Cayennepfeffer, Paprikapulver und Salz würzen. Die saure Sahne unterrühren und das Kartoffelgulasch auf tiefe Teller verteilen. Mit der Petersilie und etwas Paprikapulver bestreut servieren.
@@ -31043,7 +30391,6 @@ Cayennepfeffer, Paprikapulver, Salz
 Rapsöl
 
 ### Zubereitung
-
 1. Für die Raita den Joghurt in eine Schüssel geben. Das Öl in einer kleinen Pfanne erhitzen und die Limettenspalten bei mittlerer Hitze von jeder Seite 1 Minute braten, bis sie schwarz und klebrig werden. Vom Herd nehmen und abkühlen lassen, dann den Saft über den Joghurt presse, Salz und Honig hinzugeben und verrühren. Mit Schwarzkümmelsamen und einer ausgepressten Limettenspalte garnieren und bis zum Servieren kaltstellen.
 1. Die Kartoffeln waschen und schälen und in einem Topf mit kaltem Wasser bedecken. Garen, abgießen und gut stampfen. In der Zwischenzeit den Kreuzkümmel im Mörser grob zerstoßen und in eine kleine Schüssel geben. Chilis und Ingwer ebenfalls im Mörser zerstoßen und dann mit dem Kreuzkümmel vermengen. Den Spinat waschen. Wasser zum Kochen bringen und den Spinat 1 Minute hineintauchen, dann abgießen und 30 Sekunden unter fließendem kaltem Wasser abschrecken. Sobald der Spinat nur noch lauwarm ist, so viel Wasser wie möglich herausdrücken, dann den Spinat fein hacken und zum Kartoffelpüree geben.
 1. Erbsen, Kreuzkümmel-Chili-Ingwer-Paste, Kichererbsenmehl, Zitronensaft, Salz, Garam masala und Koriander zum Püree geben. Mit den Händen verkneten. In einer großen Pfanne 2 EL Öl erhitzen. Ein golfballgroßes Stück der Mischung zu einer 6 cm langen und 2 cm dicken Frikadelle formen. Bei mittlerer Hitze 2,5 Minuten von einer Seite goldgelb und knusprig braten, dann wenden und weitere 2,5 Minuten braten. Den von beiden Seiten goldgelben Kebab mit einem Schaumlöffel aus der Pfanne heben.
@@ -31063,7 +30410,6 @@ Rapsöl
 Je 1 EL gehackte Petersilie, Schnittlauch und Dill
 
 ### Zubereitung
-
 1. Die Kartoffeln dünn schälen, kalt waschen und 500 g davon abwiegen und vierteln. Etwa 1 l Wasser mit 1 TL salz zum Kochen bringen, die Kartoffelviertel einlegen und zugedeckt in etwa 30 Minuten sehr weichkochen. Die rohen Kartoffeln in eine Schüssel mit kaltem Wasser reiben dann in einem Küchentuch kräftig auspressen, das Kartoffelwasser in der Schüssel stehen lassen, bis sich das Kartoffelmehl am Boden abgesetzt hat.
 1. Die gekochten Kartoffeln gut ausdämpfen lassen und durch eine Kartoffelpresse zu der rohen Kartoffelmasse drücken. Das Wasser von den geriebenen Kartoffeln vorsichtig abgießen, aber aufbewahren, und a s Kartoffelmehl zur Kartoffelmasse geben.
 1. Den Speck und die geschälten Zwiebeln kleinwürfeln. Den Speck in einer Pfanne knusprig braun ausbraten und die Zwiebelwürfel darin hellgelb anbraten. Die Pfanne beiseitestellen.
@@ -31080,7 +30426,6 @@ Je 1 EL gehackte Petersilie, Schnittlauch und Dill
 4 EL Schmalz
 
 ### Zubereitung
-
 1. Die Kartoffeln schälen, waschen und in eine Schüssel mit kaltem Wasser reiben, dann in einem Tuch gut ausdrücken.
 1. Das Wasser stehen lassen, bis sich das Kartoffelmehl am Boden der Schüssel abgesetzt hat, dann vorsichtig abgießen und das Kartoffelmehl zur Kartoffelmasse geben. Die Kartoffelmasse mit dem Mehl, den Eiern und dem Salz mischen. Die Zwiebeln schälen, reiben und unter die Kartoffelmasse mengen. 
 1. Den Backofen auf 100 Grad vorheizen. Das Schmalz nach und nach in einer großen Pfanne erhitzen. Jeweils 2 EL von der Kartoffelmasse in die Pfanne geben und die Puffer nacheinander rasch von beiden Seiten knusprig braten. Im Backofen warmhalten.
@@ -31118,7 +30463,6 @@ Saure Sahne zum Servieren
 Salz und Pfeffer
 
 ### Zubereitung
-
 1. Die Kartoffeln in eine große Schüssel mit kaltem Wasser geben, um die Stärke abzuspülen, In einem Sieb abtropfen lassen, ausdrücken und auf einem sauberen Geschirrtuch ausbreiten. Sie sollten vollständig trocknen.
 1. In einer großen Schüssel die Kartoffeln mit den Pastinaken, dem Schnittlauch den Eiweißen, der Stärke, 1 TL Salz und reichlich Pfeffer vermengen
 1. In einer großen Pfanne die Hälfte der Butter mit der Hälfte des Öls bei mittlerer bis hoher Temperatur erhitzen. Etwa 2 EL von der Kartoffelmischung abstehen und die Flüssigkeit zwischen den Handflächen herauspressen. Die Masse zu etwa 1 cm dicken und 8 cm breiten Küchlein formen. Die Latkes portionsweise in die Pfanne legen, mit einem Löffelrücken glattstreichen und auf jeder Seite 3 Minuten knusprig braun backen. Aus der Pfanne nehmen, auf Küchenpapier abtropfen lassen und warm stellen, bis alle gebacken sind. Dabei nach und nach die restliche Butter und das restliche Öl hinzufügen. Die Latkes sofort servieren und die saure Sahne dazu reichen.
@@ -31183,7 +30527,6 @@ Salz, Pfeffer
 Muskat
 
 ### Zubereitung
-
 1. Kartoffeln in Scheiben schneiden und kochen. Dann abwechslungsweise mit dem Käse in eine Auflaufform schichten.
 1. Milch mit Eiern vermischen, hinzufügen. Die Eiermilch über die Kartoffeln gießen und alles bei mittlerer Hitze ca. 1 Stunde im Ofen backen.
 
@@ -31207,7 +30550,6 @@ Saft von 1 Zitrone
 1 Handvoll Sev (Kichererbsennudeln)
 
 ### Zubereitung
-
 1. Zunächst das Dattel-Tamarinden-Chutney zubereiten. Die Datteln mit der Tamarindenpaste, 1 Prise Salz und 100 ml Wasser pürieren und beiseitestellen. Tamarindenpaste ist teilweise sehr speziell. Besser als nach und nach hinzugeben und immer wieder probieren.
 1. Den Joghurt mit einigen EL Wasser verrühren, bis er vom Löffel tropft und beiseitestellen.
 1. Die Kartoffeln waschen und etwa 15 Minuten kochen, bis sie gar sind und man mit einem Messer leicht hineinstechen kann. Abgießen, auf einen Teller geben und leicht mit einer Gabel zerdrücken.
@@ -31235,7 +30577,6 @@ Salz, Pfeffer
 60 ml Olivenöl
 
 ### Zubereitung
-
 1. Den Backofen auf 220 Grad Umluft vorheizen.
 1. Die Kartoffeln mit 2 TL Salz in einen Topf geben und 4 cm hoch mit kaltem Wasser bedecken. Bei mittlerer bis starker Hitze zum Kochen bringen, dann etwa 6 Minuten köcheln lassen, bis sie fast gar sind, aber noch etwas bissfest. In ein Sieb abgießen und trocken tupfen, dann auf einem mit Backpapier belegten Blech verteilen und mit Öl, Chaat masala, Kurkuma, 1/3 TL Salz und 1 kräftigen Prise Pfeffer mischen. 35 Minuten rösten, bis die Kartoffeln kräftig gebräunt sind.
 1. Inzwischen das Korianderchutchney zubereiten. Dafür alle Zutaten mit ¼ L Salz glatt pürieren. Bis zur Verwendung beiseitestellen.
@@ -31253,7 +30594,6 @@ Salz, Pfeffer
 Etwas Olivenöl
 
 ### Zubereitung
-
 1. Die Kartoffeln schälen und in 3 mm dicke Scheiben schneiden oder hobeln. Pilze putzen, größere Exemplare eventuell halbieren. Die Petersilie fein hacken, mit Semmelbröseln und Parmesan vermengen. Die Mischung großzügig salzen und pfeffern.
 1. Eine Auflaufform mit Olivenöl ausstreichen. Mit einer Schicht Kartoffelscheiben auslegen. Diese salzen und mit der Kräutermischung bestreuen, darauf eine Schicht Pilze geben. Wieder salzen und etwas von der Kräutermischung darüber streuen. Es folgt wieder eine Schicht Kartoffeln. Nach diesem Prinzip weiter vorgehen, mit einer Schicht Kartoffeln abschließen. Etwas geriebene Parmesan darüberstreuen.
 1. Ungefähr 1 Stunde lang bei 180°C Ober-/Unterhitze im Ofen backen.
@@ -31272,7 +30612,6 @@ Tipp:	Dazu passt ein grüner Salat oder das Ganze als Beilage zu geschmortem Fle
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den Backofen auf 220 Grad (Umluft) vorheizen.
 1. Die Kartoffeln mehrmals mit einer Gabel einstechen. Auf ein mit Backpapier belegte Backblech legen und 1 Stunde oder etwas länger im Ofen backen, bis sie durch und durch weich sind. Aus dem Ofen nehmen und längs halbieren. Das Fruchtfleisch in eine Schüssel geben, die Schalen auf dem Blech für später beiseitestellen. Das Fruchtfleisch mit 20 g Butter sowie Sahne, Gorgonzola, 11/2 TL Salz und reichlich Pfeffer grob zerdrücken. Beiseitestellen.
 1. Die restliche Butter (5 g) auf die leeren Kartoffelschalen verteilen. Die Schalen mit einer kräftigen Prise Salz würzen und für 8 Minuten in den Ofen schieben, damit sie knusprig werden. Herausnehmen und beiseitestellen.
@@ -31295,7 +30634,6 @@ Salz
 1 TL Kreuzkümmelsamen, geröstet und grob zerstoßen
 
 ### Zubereitung
-
 1. Den Backofen auf 220 Grad Umluft vorheizen.
 1. Die Kartoffeln auf ein Backblech legen. 50 – 55 Minuten backen, bis sie durch und durch weich sind. Aus dem Ofen nehmen und etwas abkühlen lassen, dann halbieren. Das Fruchtfleisch aus den Schalen lösen – nicht komplett, es soll etwas davon drinbleiben – und für ein anderes Rezept aufbewahren 😊.
 1. Die Kartoffelschalen in 5 – 6 große Stücke reißen. In eine Schüssel geben und gründlich mit Harissa, Öl und ¼ TL Salz mischen. Gleichmäßig auf einem Gitter über einem großen Backblech verteilen und 12 Minuten im Ofen rösten, bis die Schalen dunkelbraun und knusprig sind; nach der Hälfte der Zeit wenden. Aus dem Ofen nehmen und beiseitestellen, damit sie abkühlen und noch knuspriger werden. Mit Salz und Estragon in eine große Schüssel geben.
@@ -31316,7 +30654,6 @@ Nur nix verkomme lasse😊Ich bin schließlich Schwäbin.
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. In einem kleinen Topf reichlich Wasser gießen und zum Kochen bringen. Die Erbsen für 1 Minute hineingeben, dann in ein Sieb schütten und abtropfen lassen. Ein Drittel der Erbsen beiseitestellen. Die restlichen mit Chilis, eingelegter Zitrone, Koriandergrün, Olivenöl, Zitronenschale, 172 TL Salz und viel Pfeffer pürieren, bis eine stückige Paste entstanden ist.
 1. In einem großen Topf reichlich Wasser gießen. Das Wasser salzen und zum Kochen bringen. Sobald es sprudelt, die Kartoffeln hineingeben und 15 Minuten garen, bis sie weich sind. In ein Sieb schütten und abtropfen lassen, dann in eine große Schüssel füllen und beiseitestellen. Grob zerdrücken: Die Erbsen – sowohl die gemixten als auch die ganzen – mit Zitronensaft und Korianderblätter zu den Kartoffeln geben. Alles behutsam durchheben und warm servieren.
 
@@ -31361,7 +30698,6 @@ Tipp:	Dazu einen Feldsalat und fertig ist das Mittagessen. Speed-Tipp: Schneller
 Außerdem: Waffeleisen mit rechteckigen Förmchen
 
 ### Zubereitung
-
 1. Kartoffeln schälen, waschen und auf einer Reibe sehr fein reiben. Mehl und Backpulver mischen und mit Milch, Ei, Butter, ½ TL Salz und etwas Pfeffer mit dem Mixer zu einem glatten Teig verrühren. Kartoffeln und Röstzwiebeln unterrühren. 10 Minuten quellen lassen.
 1. Petersilienblätter von den Stielen zupfen und grob schneiden. Kresse vom Beet schneiden. Schnittlauch in feine Röllchen schneiden. 50 g Joghurt mit Zitronenschale, Petersilie, 2/3 Kresse und 2 EL Olivenöl sehr fein mixen. In ein Schälchen füllen und mit dem restlichen Joghurt verrühren. 2/3 des Schnittlauchs unterrühren.
 1. Das Waffeleisen erhitzen und mit etwas Olivenöl fetten. Teig portionsweise hineingeben und zu goldbraunen Waffeln backen. Waffeln mit Kräuter-Dip anrichten, mit restlicher Kresse und restlichem Schnittlauch garniert servieren.
@@ -31471,7 +30807,6 @@ Salz
 Frischer Koriander
 
 ### Zubereitung
-
 1. Senfkörner in Öl in der Pfanne erhitzen. Wenn sie zu springen anfangen, Knoblauch, Ingwer, Chili und Zwiebel dazugeben. Unter Rühren 7 Minuten lang braten, auf niedrige Hitze schalten, damit nichts anbrennt. Kurkuma und Koriander untermengen. Kartoffeln und Bohnen hinzufügen sowie Kokosraspeln. Die Kokosmilch nach und nach dazugießen, eventuell weniger als angegeben, denn das Curry sollte nicht zu flüssig werden. 
 1. Köcheln lassen, bis Kartoffeln und Bohnen gar sind und die Kokosmilch eingedickt ist. Das sollte 20 Minuten dauern, die ihr damit verbringen könnt, aus dem Küchenfenster zu starren oder das Koriandergrün zu waschen, zu trocknen und grob zu hacken – was ich zwar langweilig finde, ich aber trotzdem immer und immer wieder mache, denn das Kochen lehrt die Einsicht, dass Langweile und Wiederholung leider zum Leben dazugehören.
 
@@ -31492,7 +30827,6 @@ Salz
 2 EL getrocknete oder frische Kokosraspel
 
 ### Zubereitung
-
 1. Die Reisflocken in ein Sieb geben und 1 Minute unter fließendem kaltem Wasser waschen. Die Flocken vorsichtig mit der Hand bewege, damit alle nass werden.
 1. Eine große Pfanne erhitzen und Kreuzkümmel- und Senfsamen, Chilis und Curryblätter hineingeben. Sobald die Blätter knistern, die Zwiebeln hinzufügen. Bei mittlerer Hitze 6 Minuten glasig anschwitzen, dann die Kartoffelwürfel dazugeben.
 1. Die Kartoffeln unter Rühren 1 Minute anbraten, dann 4 EL Wasser hinzugießen, abdecken und 4 Minuten dünsten. Danach noch etwas mehr Wasser zugeben, damit die Kartoffeln ansetzen, und weitere 4 Minuten dünsten, bis die Kartoffeln gar sind.
@@ -31516,7 +30850,6 @@ Mit Salz und Zitronensaft abschmecken und mit heißem Ingwer-Chai servieren.
 1 TL Salz
 
 ### Zubereitung
-
 1. Die Cashewkerne 10 Minuten in 100 ml kochendem Wasser einweichen. Währenddessen die Fenchelsamen im Mörser so fein wie möglich zerstoßen.
 1. Die Kartoffeln waschen. Die kleinesten ganz lassen, größere halbieren oder vierteln, damit alle Stücke die gleiche Größe haben. In einer Pfanne 2 EL Öl erhitzen und die Kartoffeln unter gelegentlichem Wenden 8 Minuten darin braten bis sie leicht bräunen. Auf einen Teller geben. Die Cashewkerne mit dem Wasser zu einer feinen Paste pürieren.
 1. In der Pfanne die restlichen 2 EL Öl erhitzen und die Zwiebeln bei mittlerer Hitze 10 Minuten anschwitzen, bis sie goldgelb und weich sind. Knoblauch und Ingwer hinzugeben und weitere 2 Minuten braten, dann die Tomaten unterrühren. Etwa 5 – 8 Minuten kochen lassen, bis die Sauce andickt. Fenchelsamen, Garam masala, Cayennepfeffer und Salz dazugeben, verrühren und die Cashewpaste untermischen. Einige Minuten köcheln lassen, danach etwa 300 ml Wasser hinzugießen und durchrühren.
@@ -31561,7 +30894,6 @@ Mit Salz und Zitronensaft abschmecken und mit heißem Ingwer-Chai servieren.
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Champignons putzen, waschen und fein hacken. Zwiebeln klein würfeln und in 1 EL heißem Öl glasig braten. Champignons und Petersilie untermischen und zugedeckt 5 Minuten dünsten.
 1. Gemüse vom Herd nehmen und mit Salz und Pfeffer abschmecken. Etwas abkühlen lassen. Ei und so viel Semmelbrösel untermischen, dass eine geschmeidige Masse entsteht. 
 1. Kartoffeln dünn schälen, waschen, abtrocknen und das obere Drittel längs als Deckel abschneiden. Die unteren Teile der Kartoffel aushöhlen und die Füllung hineingeben. Deckel wieder aufsetzen, mit Garn zubinden und Kartoffel von allen Seiten mit dem restlichen heißen Öl braun anbraten. 
@@ -31575,7 +30907,6 @@ Salz, Pfeffer
 10 g frisch geriebener Parmesan
 
 ### Zubereitung
-
 1. Die Kartoffel in ganz dünne Scheiben schneiden. Die Scheiben in kochendem Salzwasser kurz blanchieren und dann auf einem Tuch trocknen lassen. Teller mit Butter besteichen. Die Kartoffelscheiben fächerartig darauf anordnen und mit Pfeffer und Salz würzen. Eventuell restliche Butter darauf träufeln. Parmesan verteilen, im Ofen kurz grolle.
 1. Viel Käse – wenig Kartoffel 😊
 
@@ -31586,7 +30917,6 @@ Salz, Pfeffer
 100 ml Milch
 
 ### Zubereitung
-
 1. Kartoffeln kochen und heiß pellen. Die Kartoffeln in dünne Scheiben schneiden und fächerartig in eine gebutterte Form legen.
 1. Käse reiben und mit Frischkäse und Milch verrühren und über die Kartoffeln verteilen. Im vorgeheizten Ofen (220 – 250 Grad) 15 Minuten backen.
 
@@ -31650,7 +30980,6 @@ Tipp:	Passt als Beilage zu Fleisch oder einfach mit einem tollen grünen Salat.
 Muskat, Salz, Pfeffer
 
 ### Zubereitung
-
 1. Kartoffeln in Schale kochen, dann pellen. In nicht zu dünne Scheiben schneiden. Weckle in Scheiben schneiden, ebenso Pilze, Zwiebeln und Speck fein würfeln und in Butter hellbraun in der Pfanne anrösten.
 1. Die Hälfte der Zwiebel-Speck-Mischung in einer eingefetteten Auflaufform verteilen. Brotscheiben, Kartoffelscheiben, Pilze abwechselnd und leicht überlappend in die Form schichten. Eier mit Milch verquirlen, salzen, pfeffern und mit Muskat würzen. Thymianblättchen dazugeben. Die Mischung über die Kartoffeln geben. Dann zweite Hälfte der Zwiebel-Speck-Mischung darüber verteilen.
 1. 10 Minuten stehen lassen, dann bei 220 Grad im Backofen 20 Minuten backen.
@@ -31675,7 +31004,6 @@ Vier randvolle Espressotassen Carnaroli Risottoreis
 1 gehäufter EL kalte Butter
 
 ### Zubereitung
-
 1. Cocktailtomaten waschen, halbieren und auf einem mit Backpapier ausgelegten Blech verteilen. Mit etwas Salz, Pfeffer und Zucker bestreuen. 30 Minuten bei 140 Grad (Umluft) garen, dann mit Olivenöl beträufeln und weitere 30 Minuten bei 100 Grad (Umluft) garen.
 1. In einem Topf etwas Olivenöl erhitzen, Ingwer und Schalotte darin andünsten. Einen gestrichenen TL Zucker hinzufügen. Den Reis dazugeben und unter Rühren erhitzen, nicht ansetzen lassen. Mit dem Weißwein ablöschen. Gemüsefond erhitzen. Unter Rühren alle paar Minuten etwas Fond zum Reis geben. Der Reis darf nie am Topfboden festkleben. Am Ende muss er weich, aber noch al dente sein.
 1. Mit Salz abschmecken, den Parmesan und die Butter unterheben. Risotto auf tiefe Teller verteilen, die übrige Flüssigkeit an den Tellerrand gießen. Zum Schluss die Tomatenhälften auf den Reis legen und alles mit dem Öl vom Backpapier übergießen.
@@ -31704,7 +31032,6 @@ Salz, Pfeffer
 50 g Parmesan
 
 ### Zubereitung
-
 1. Für den Fond werden die zweige von Rosmarin, Lorbeer und Salbei und das Grün der Frühlingszwiebeln in einen Topf gegeben, Wasser und 1 Prise Salz hinzufügen. Wasser zum Kochen bringen, alles ½ Stunde lang zugedeckt bei mittlerer Hitze köcheln lassen. Der Fond wird am Ende etwas bitter, was man aber im Risotto nicht schmeckt.
 1. Für den Risotto das Weiß der Frühlingszwiebeln putzen, waschen und in feine Ringe schneiden. Olivenöl in einem Topf erhitzen, Reis hinzugeben. 5 Minuten lang unter Rühren die Reiskörner toasten. Das Weiße der Frühlingszwiebeln dazugeben sowie etwas Salz. Weiterdünsten. Mit Wein ablöschen. Wenn die Flüssigkeit verdampft ist, gießt man vom Kräuterfond eine oder zwei Kellen dazu.
 1. Einkochen lassen, dabei rühren. Sobald keine Flüssigkeit mehr im Topf ist, wieder zwei Kellen vom Fond dazugeben. Den Vorgang wiederholt man so oft, bis die Reiskörner weich sind, was 20 Minuten dauert, Am Ende sollte der Risotto cremig sein, also die Flüssigkeit eingekocht. Nachsalzen und pfeffern. Die Kräuter waschen, trocken schütteln, fein hacken und unterrühren, ebenso Butter und gerieben Parmesan.
@@ -31732,7 +31059,6 @@ Abgeriebene Schale von 1 Bio-Zitrone
 40 g Parmesan (inklusive Rinde)
 
 ### Zubereitung
-
 1. Für den Risotto Zucchini waschen, putzen und in sehr dünne Scheiben schneiden. Basilikum waschen, trocken schütteln, Blätter von den Stielen zupfen und die Stiele klein schneiden. Schalotte schälen, fein hacken, in Olivenöl andünsten, salzen.
 1. Reis hinzufügen, unter Rühren kurz mitdünsten, dann die Zucchini und Basilikumstängel dazugeben. Weiterrühren, bis das Gemüse etwas Wasser abgegeben hat. Mit Weißwein ablöschen. Pfeffern und noch mal salzen. Die Parmesanrinde in den Topf geben. Wenn der Wein verdampft ist, Wasser dazugießen, sodass der Reis gerade bedeckt ist. Einkochen lassen, dabei regelmäßig rühren. Sobald die Flüssigkeit verdampft ist, den Vorgang wiederholen, bis der Reis gar ist (nach ungefähr 20 Minuten). Zwischendurch noch mal 1 Prise Salz dazugeben (aber nicht zu viel): Zum Schluss sollte das Risotto cremig sein und keine Flüssigkeit mehr im Topf stehen.
 1. Wenn der Reis gar ist, Käserinde entfernen und den Topf vom Herd nehmen. Für diesen Risotto braucht man keine Brühe, sondern kann Wasser nehmen, weil jetzt verschiedene Geschmacksverstärker hinzukommen: Zitronenschale, fein gehackte Basilikum- und Minzeblätter, Butter und frisch geriebenen Parmesan unterrühren.
@@ -31755,7 +31081,6 @@ Etwas Honig und etwas Mehl
 2 Stiele Oregano
 
 ### Zubereitung
-
 1. Die Schalotten schälen und in feine Würfel schneiden. Das Olivenöl in einem Topf erhitzen und die Schalotten darin andünsten. Den reis hinzufügen und mitdünsten lassen. Mit 200 ml heißer Brühe und dem Tomatensaft ablöschen und 10 Minuten köcheln lassen.
 1. Die Peperoni längs halbieren, entkernen, waschen und in feine Würfel schneiden. Die Paprikaschoten längs halbieren, entkernen, waschen und klein schneiden. Die Peperoni und Paprika zum Reis geben, die restliche Brühe dazugießen und den Risotto weitere 10 Minuten köcheln lassen. Den Risotto vom Herd nehmen und zugedeckt 10 Minuten ruhen lassen.
 1. Den Ziegenkäse in 1,5 dicke Scheiben schneiden und in etwas Mehl wenden. In einer beschichteten Pfanne ohne Fett auf beiden Seiten goldgelb braten.
@@ -31779,7 +31104,6 @@ Butter
 350 g Risottoreis
 
 ### Zubereitung
-
 1. In einem großen Topf fein gewürfelte Schalotte in einer Mischung aus Olivenöl und Butter anrösten, dann klein geschnittenen Rotkohl dazugeben und 5 – 6 Minuten mit andünsten.
 1. Mit Rotwein ablöschen, Rosmarin und Reis dazugeben, umrühren, etwas Brühe angießen. Weiter rühren und heiße Brühe dazugeben.
 1. Fertiges Risotto mit Butter, Scarmorza und Parmesan verfeinern, gut durchrühren. Dann den Deckel auf den Topf legen und 2 Minuten stehen lassen. Eventuell mit Olivenöl darüberträufeln, frische Kräuter (Thymian, Rosmarin) darüberstreuen.
@@ -31799,7 +31123,6 @@ Salz
 50 g Butter
 
 ### Zubereitung
-
 1. Die Zwiebel schälen, fein hacken, in Olivenöl mit etwas Salz ungefähr 7 Minuten lang anschwitzen. Den Reis dazugeben, kurz mitdünsten, dabei rühren, damit er nicht ansetzt. Mit Wein ablöschen, Flüssigkeit einkochen lassen. Dann die Brühe aufgießen, sodass der Reis gerade bedeckt ist. Einkochen lassen. Diesen Vorgang wiederholen, bis der Reis gar ist, das heißt ungefähr 20 Minuten lang. Sollte die angegebene Menge Brühe nicht ausreichen, nimmt man etwas mehr. Sollte der Reis gar sein, bevor sie aufgebraucht ist, nimmt man etwas weniger Brühe.
 1. Währenddessen die Birnen schälen, Gehäuse entfernen. Die Hälfte der Birnen pürieren, die anderen Hälfte in kleine Würfel schneiden. Gorgonzola in Würfel schneiden, Parmesan reiben. Wenn der Reis gar ist, Birnenwürfel und -püree, Gorgonzola, Parmesan und Butter unterrühren. Gut umrühren, dann kurz ziehen lassen. Man kann auch einen anderen Käse verwenden: Und vielleicht könnte man auch ein paar Streifen geschnittene Radicchioblätter mitkochen oder zum Schluss ein paar gehackte Walnüsse unterrühren.
 
@@ -31842,7 +31165,6 @@ Ca. 500 ml Brühe
 50 g Parmesan
 
 ### Zubereitung
-
 1. Wasser zum Kochen bringen. Petersilienblätter 3 Minuten lang auskochen. Abgießen und abtropfen lassen. Zusammen mit Zitronensaft, Salz, Pfeffer und Olivenöl zu einer glatten Masse pürieren.
 1. Zwiebel fein hacken, Sellerie in feine Scheiben schneiden. Speck würfeln und in einem Topf braten. Das Fett sollte austreten – wenn nicht, etwas Olivenöl dazugeben. Zwiebel und Sellerie hinzufügen und alles unter Rühren 5 Minuten lang anschwitzen. Risottoreis dazugeben, noch mal 3 Minuten dünsten. Mit Weißwein ablöschen. Brühe dazugießen: jeweils ungefähr 100 ml, unter Rühren einkochen lassen, wiederholen, bis der Reis gar ist. Zum Schluss Petersilienpüree, Butter und Parmesan.
 
@@ -31866,7 +31188,6 @@ Etwas Salz
 Salz, schwarzer Pfeffer
 
 ### Zubereitung
-
 1. Zunächst die Brühe vorbereiten. Den Lauch von Schmutz und Erde befreien, die dunkelgrünen Enden gründlich waschen. Zusammen mit einer Stange Sellerie und einer geschälten Karotte (beide kann, muss man aber nicht zerkleinern) in etwa 1,5 Liter gesalzenem Wasser, in das man außerdem Pfefferkörner und Lorbeer gibt, etwa 20 Minuten lang bei geschlossenem Deckel köcheln lassen.
 1. Den hellgrünen Teil der Lauchstangen waschen, längs halbieren und in feine Ringe schneiden (eventuell nachwaschen). Olivenöl und Butter in einem Topf erhitzen, die Lauchringe hineingeben, salzen. 1 bis 2 Kellen von der Brühe dazugießen. Das Ganze etwa 15 – 20 Minuten lang unter gelegentlichem Rühren bei mittlerer Temperatur garen, bis der Lauch weich ist und süßlich schmeckt.
 1. Zur gleichen Zeit in einem anderen Topf den Reis ohne Fett einige Minuten lang rösten, umrühren, nicht anbrennen lassen, aber ein bisschen Farbe darf das eine oder andere Reiskorn annehmen. Dann kellenweise die Brühe dazugeben, jeweils einkochen lassen und dabei rühren. Wenn der Reis gar ist (nach weniger als 20 Minuten) und der Lauch weich, beides in einem Topf vermengen. Den Gorgonzola in kleine Würfel schneiden und in den heißen Risotto rühren. Zum Schluss noch Pfeffer darübergeben.
@@ -31906,7 +31227,6 @@ Ein paar Safranfäden
 25 g frisch geriebener Parmesan
 
 ### Zubereitung
-
 1. Die Spitzen des Spargels abschneiden und beiseitestellen. Die holzigen Enden großzügig abschneiden und beiseitestellen. Die Stangen in kleine Scheiben schneiden. Für den Fond einen Topf mit 1 Liter Wasser aufsetzen, Zwiebel schälen und halbieren, in das Wasser geben, dazu die Spargelenden sowie Salz und Olivenöl. Das Ganze ungefähr 20 Minuten lang mit Deckel köcheln lassen.
 1. Die Hälfte der Butter in einem Topf zergehen lassen, darin die fein gehackte Schalotte für 5 Minuten anschwitzen. Spargelscheibchen dazugeben, salzen. 1 bis 2 Kellen von dem Fond dazugeben, einkochen lassen. Diesen Vorgang eventuell wiederholen. Wenn die Spargel weich sind, vom Herd nehmen und beiseitestellen.
 1. Reis unter Rühren in einem Topf kurz anrösten, er soll nicht bräunen. Mit 2 Kellen des Fonds ablöschen die gegarten Spargelscheibchen dazugeben. Von dem Fond nachgießen, sodass das Ganze knapp bedeckt ist. Einkochen lassen. Eventuell den Vorgang wiederholen. Dabei stets rühren. Nach 10 Minuten die Spargelspitzen dazugeben, ebenso den etwas lauwarmem Wasser eingeweichten Safran. Noch mal Fond zum Risotto gießen. Nach ungefähr weiteren 10 Minuten sollte der Reis gar sein. Dann die restliche Butter und den geriebenen Parmesan unterrühren.
@@ -31931,7 +31251,6 @@ Abgerieben Schale von 1 unbehandelten Limetten
 Pfeffer, Salz
 
 ### Zubereitung
-
 1. Die Zwiebel im Olivenöl sanft anbräunen. Den Reis dazugeben und glasig anbraten. Mit der Hälfte der Gemüsebrühe und dem Weißwein ablöschen. Den Limettensaft dazugeben und die Flüssigkeit bei niedriger Temperatur 5 – 10 Minuten einkochen lassen. Nach und nach die restliche Brühe unter den Risotto unter Rühren noch etwa 20 Minuten garen.
 1. In der Zwischenzeit den Spargel von holzigen Enden befreien und die Stangen bei Bedarf unten ein wenig abschälen. Schräg in 3 cm lange Stücke schneiden und 5 Minuten mit den Erbsen (nur bei den frischen Erbsen) und dem Zucker in kochendem Wasser garen. Vorsichtig unter kaltem Wasser abschrecken und beiseitestellen.
 1. Ein paar Minzeblätter zum Dekorieren beiseitelegen. Die restliche Minze, die Pinienkerne, die Erbsen, die Limettenschale und das Olivenöl in den fertigen Risotto einrühren und alles mit Pfeffer und Salz abschmecken. Zum Schluss vorsichtig die Spargelstücke unterheben, ohne die Spitzen abzubrechen.
@@ -31951,7 +31270,6 @@ Olivenöl, Salz, Pfeffer
 30 g Walnusskerne
 
 ### Zubereitung
-
 1. Zwiebel schälen, hacken. Radicchiokopf halbieren, vom Strunk befreien, in feine Streifen schneiden, waschen, abtropfen lassen.
 1. Olivenöl in einem Topf erhitzen, Zwiebel dazu, salzen und unter Rühren 5 Minuten lang dünsten. Reis hinzufügen, einen Moment mitdünsten, dabei nicht anbrennen lassen. Radicchio in den Topf geben. Umrühren, bis die Blätter zusammenfallen. Mit Weißwein ablöschen, noch mal salzen, pfeffern. Die Flüssigkeit einkochen lassen. So viel Wasser dazu gießen, dass der Reis bedeckt ist. Wieder einkochen lassen, dabei rühren. Diesen Vorgang so oft wiederholen, bis der Reis gar ist – ungefähr 20 Minuten. Falls 400 ml Wasser nicht reichen, etwas mehr nehmen.
 1. Den Topf vom Herd nehmen, gewürfelten Gorgonzola, Butter und frisch geriebenen Parmesan unterrühren. Die grob zerkleinerten Walnüsse in einer Pfanne ohne Fett anrösten, Risotto damit garnieren. Oder die Nüsse einfach weglassen😊
@@ -31977,7 +31295,6 @@ Salz, Pfeffer
 2 Knoblauchzehen
 
 ### Zubereitung
-
 1. Zunächst den gewaschenen Radicchio (den kennt ihr ja nach euerer Edeka-erfahrung nun) in Stücke zupfen. Ziegenkäse zerbröseln, mit dem Salat in eine Schüssel geben und in Olivenöl (20 ml), Balsamico, etwas Salz und Pfeffer drei Stunden lang marinieren.
 1. Für den Risotto Schalotten in Butter glasig schwitzen, Reis dazugeben, alles einen Moment weiter anschwitzen. Mit Rotwein ablöschen, reduzieren lassen. Bei kleiner Hitze nach und nach den Gemüsefond dazugießen, leicht köcheln lassen und dabei ständig rühren. Dieser Vorgang dauert ungefähr 20 Minuten, je nach Reissorte, dann ist der Risotto cremig und bissfest. Ihr müsst also probieren. Parmesan unterrühren und mit Salz und Pfeffer abschmecken.
 1. Kürbis waschen, Kerne auskratzen, das Fleisch in Spalten schneiden. Den Hokkaidokürbis muss man nicht schälen. Die Haut ist aber sehr dick, das Schneiden wird also nicht lustig. Kürbisstücke in eine Auflaufform geben und salzen. Knoblauch und Kräuter dazugeben (beides wird später nicht mitgegessen). Mit Olivenöl (50 ml) beträufeln und 40 Minuten lang bei 200°C im Ofen schmoren.
@@ -32103,7 +31420,6 @@ Salz, Pfeffer
 50 Parmesan
 
 ### Zubereitung
-
 1. Für den Fond werden die Zweige von Rosmarin, Lorbeer und Salbei und das Grün der Frühlingszwiebeln in einen Topf geben. Wasser und 1 Prise Salz hinzufügen. Wasser zum Kochen bringen, alles eine ½ Stunde lang zugedeckt bei mittlerer Hitze köcheln lassen. Der Fond wird am Ende etwas bitter, was man aber im Risotto nicht schmeckt.
 1. Für den Risotto das Weiß der Frühlingszwiebeln putzen, waschen und in feine Ringe schneiden. Olivenöl in einem Topf erhitzen, Reis hinzugeben. 5 Minuten lang unter Rühren die Reiskörner toasten. Das Weiße der Frühlingszwiebeln dazu geben sowie etwas Salz. 
 1. Wenn die Flüssigkeit verdampft ist, gießt man vom Kräuterfond eine oder zwei Kellen dazu. Einkochen lassen, dabei rühren. Sobald keine Flüssigkeit mehr im Topf ist, wieder zwei Kellen vom Fond dazu gießen. Den Vorgang wiederholt man so oft, bis die Reiskörner weich sind, was 20 Minuten dauert. Am Ende sollte der Risotto cremig sein, also die Flüssigkeit eingekocht. Die Kräuter waschen, trocken schütteln, fein hacken und unterrühren, ebenso Butter und geriebenen Parmesan.
@@ -32180,7 +31496,6 @@ Schale von ½ Bio-Zitrone
 4 EL Olivenöl
 
 ### Zubereitung
-
 1. Für den Fond gibt man ein großes Bund Petersilie im Ganzen in 1 l Wasser, salz großzügig. Aufkochen und etwa 10 Minuten köcheln lassen.  (Man kann natürlich auch Brühe aus dem Glas nehmen 😊) 
 1. Frühlingszwiebeln fein schneiden, das Grün für später beiseitelegen. Frühlingszwiebeln in Butter andünsten. Reis hinzufügen und unter Rühren mitrösten. Mit Wein ablöschen. Einkochen lassen. Salzen (nicht zu viel, später kommt ja noch der salzige Parmesan dazu). Eine Kelle vom Petersilienfond hinzugießen, Flüssigkeit einkochen lassen. Den Vorgang einige Male wiederholen, der Reis sollte immer knapp mit Wasser bedeckt sein. Nach ungefähr 20 Minuten ist der Reis gar. Eventuell bleibt etwas Fond übrig.
 1. Geriebenen Parmesan und Butter unterheben sowie den Spinat. Für die Gremolata die Kräuter fein hacken, mit dem Mörser zerstoßenen Knoblauch, dem Abrieb der Zitronen, Salz und Olivenöl vermengen. 
@@ -32201,7 +31516,6 @@ Schale von ½ Bio-Zitrone
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Zwiebeln fein würfeln. Butter in einer Pfanne schmelzen und die Zwiebeln darin 2 Minuten glasig dünsten. Reis und Kurkuma zugeben und 2 Minuten mitdünsten. Brühe zugießen, aufkochen und zugedeckt bei milder Hitze 25-30 Minuten garen.
 1. Möhre und Kohlrabi schälen und in 1 cm große Stücke schneiden. Nach 10 Minuten zum Reis geben und mitgaren. Broccoli putzen, in kleine Röschen teilen und nach 15 Minuten zugeben. Erbsen in einem Sieb mit heißem Wasser abspülen und abtropfen lassen.
 1. Am Ende der Garzeit die Erbsen unter den Reis mischen. Sahne zugießen und bei mittlerer Hitze aufkochen. Reispfanne mit Salz und Pfeffer würzen.
@@ -32219,7 +31533,6 @@ Salz, Pfeffer
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Möhren schälen und grob raspeln. Zwiebel fein hacken. Gemüsebrühe erhitzen.
 1. Olivenöl in einem Topf erhitzen. Zwiebeln darin glasig düsten. Risottoreis zugeben und unter Rühren bei mittlerer Hitze 1 – 2 Minuten andünsten. Mit 500 ml Gemüsebrühe ablöschen. Unter Rühren so lange kochen, bis die Flüssigkeit fast verdampft ist.
 1. Möhrenraspel und 500 ml Brühe zugeben. Weitere 10 Minuten unter Rühren kochen. TK-Erbsen zugeben. Weiterkochen, bis die Flüssigkeit verdampft ist. Parmesan und Petersilie unterziehen. Vom Herd nehmen und mit Salz und Pfeffer würzen.
@@ -32237,7 +31550,6 @@ Salz, Pfeffer
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den Kohlrabi und die Möhre putzen, schälen und beide in 1 cm große Würfel schneiden. Die Zwiebel schälen und fein würfeln.
 1. Die Butter in einer Pfanne zerlassen. Die Zwiebel darin glasig braten. Die Kohlrabi- und Möhrenwürfel sowie den Reis dazugeben und 2 Minuten anbraten. Die Brühe erhitzen, dazu gießen und alles zugedeckt bei mittlerer Hitze 10 Minuten garen.
 1. Inzwischen die Erbsen in einem Sieb heiß abbrausen und abtropfen lassen. Am Ende der Garzeit unter den Gemüsereis mischen. Die Sahne dazugießen und alles 2-3 Minuten kräftig kochen lassen. Die Risibisi-Pfanne mit Salz und Pfeffer würzen.
@@ -32280,7 +31592,6 @@ Tipp:	Ich mache meist eine rein vegetarische Variante und die Petersilie lasse i
 Öl zum Frittieren
 
 ### Zubereitung
-
 1. Die Brühe in einem Topf zum Kochen bringen. Die Hitze reduzieren, wobei die Brühe weiter simmern soll. Die Butter in einem großen, gusseisernen Topf erhitzen. Die Zwiebel 2-3 Minuten glasig dünsten. Den Reis zugeben und weitere 2-3 Minuten rühren, bis er mit Zwiebel und Butter überzogen ist.
 1. Wein und Safran mischen und zugießen. Rühren, bis der Reis die gesamte Flüssigkeit aufgenommen hat. 125 ml Brühe zugeben; stetig rühren, bis sie absorbiert ist, dann nach und nach weitere Brühe zugießen und rühren, bis nur noch 125 ml Brühe übrig sind (ca. 15 Minuten). Diesen Rest zugießen, umrühren und einen festsitzenden Deckel auflegen. Auf sehr niedriger Stufe 10-15 Minuten quellen lassen, bis der Reis weich ist. Abkühlen lassen.
 1. Vorsichtig Parmesan und Eier unterrühren, mit Salz und Pfeffer würzen. Mozzarella in 30 kleine Würfel schneiden. Die Reismasse mit feuchten Händen zu 30 walnussgroßen Kugeln formen; je einen Mozzarellawürfel in die Mitte drücken.
@@ -32336,7 +31647,6 @@ Eine Prise Safranfäden
 70 g Mozzarella, in Würfel geschnitten
 
 ### Zubereitung
-
 1. Olivenöl in einer mittelgroßen Pfanne bei niedriger bis mittlerer Stufe erhitzen. Wenn das Öl zu köcheln beginnt, die Zwiebelstücke hinzufügen, salzen und etwa 15 Minuten braten, bis sie weich und glasig sind. Die Hitze auf mittlere oder hohe Stufe hochdrehen, den Reis hinzufügen und 3 -4 Minuten rühren, bis er leicht geröstet und glasig ist. Den Wein hinzufügen und 1-2 Minuten rühren, bis sich der Alkohol verflüchtigt hat. 2 Tassen warme Brühe und Safran hinzufügen. Unter ständigem Rühren etwa 4 Minuten kochen, bis die Brühe aufgesogen ist. Eine weitere Tasse Brühe hinzufügen und unter ständigem Rühren 5 Minuten weiterkochen, bis die Brühe aufgesogen ist. Auf diese Art jeweils ¼ TL Tasse Brühe hinzufügen, bis der Reis al dente ist. Die Pfanne vom Herd nehmen, Butter hineinfügen, alles mischen und mit Salz abschmecken. Den Reis auf einem mit Backpapier ausgelegten Blech verteilen und 1 Stunde im Kühlschrank stellen.
 1. In der Zwischenzeit die Panierstation vorbereiten und das Mehl auf einen Teller oder in eine flache Schüssel geben. Eier in einer mittelgroßen Schüssel aufschlagen, Auf einen anderen Teller die Semmelbrösel geben. Mehl, Eier und Brösel salzen.
 1. Das Backblech aus dem Kühlschrank nehmen und en Reis in 10 bis 12 gleich große Portionen in der Hand formen: jede Portion Reis in der Handfläche zu einem Fladen kneten und eine Vertiefung in die Mitte drücken. 2 Esslöffel des Ragù in die Vertiefung geben, 2 Mozzarellawürfel (etwa 1 cm groß) hinzugeben und en Reis um die Füllung formen, sodass sie eingeschlossen ist. Jedes Arancino zuerst in Mehl wälzen und den Überschuss abschütteln, dann in das Ei tauchen, abtropfen lassen und schließloch im Mehl wälzen. Vor dem Braten sollten alle Arancini 30 Minuten im Kühlschrank fest werden.
@@ -32360,7 +31670,6 @@ Frisch gemahlener Pfeffer
 1 Tasse frische oder gefrorene Erbsen
 
 ### Zubereitung
-
 1. Olivenöl in einem großen Topf bei niedriger Hitze warm werden lassen. Wenn das Öl zu simmern beginnt, Karotte, Staudensellerie und zwiebeln hinzufügen, salzen und etwa 20 Minuten braten, bis das Gemüse sehr zart ist. Das Hackfleisch hinzufügen, mit Pfeffer würzen und die Hitze auf mittlere bis hohe Stufe stellen. Das Fleisch etwa 10 Minuten lang braten bis es von allen Seiten gebräunt ist. Den Wein hinzufügen, umrühren und alle gebräunten Stücke vom Boden des Topfes abkratzen.  1-2 Minuten kochen, bis die Flüssigkeit verdampft ist, Die Tomaten von Hand zerdrücken und hinzufügen, zum Kochen bringen und dann die Hitze auf niedrig reduzieren. Das Ganze 1,5 – 2 Stunden köcheln lassen, bis das Fleisch sehr zart und die Soße eingedickt ist. Etwa 15 Minuten vor dem Ende die Erbsen unterrühren und alles mit Salz abschmecken.
 1. Abkühlen lassen und für die Arancini verwenden oder im Kühlschrank aufbewahren. 
 
@@ -32382,7 +31691,6 @@ Salz, Pfeffer
 1 Prise Safranfäden
 
 ### Zubereitung
-
 1. Reis 1 bis 2 Stunden in kaltem Wasser einweichen. Linsen in einem Topf mit Wasser bedecken und gar kochen. Öl in einer verschließbaren Pfanne (oder in einem gußeisernen Topf) erhitzen, Zwiebel schälen, in Streifen schneiden und darin anschwitzen. Etwas Salz dazugeben und insgesamt 20 Minuten lang bei niedriger Temperatur schmoren lassen. Herausnehmen und beiseitestellen. 
 1. In derselben Pfanne das Hackfleisch scharf anbraten, bis es bräunt. Geschmorte Zwiebeln dazu sowie Rosinen, Datteln, Salz und Pfeffer. Die gar gekochten Linsen hinzufügen und den abgegossenen (noch rohen) Reis. Alles vermengen.
 1. 300 ml heißes Wasser dazugießen. Die Pfanne mit einem Geschirrtuch abdecken, dann mit dem Deckel verschließen. 30 Minuten lang bei geringer Hitze köcheln lassen, nicht umrühren. Das Tuch nimmt die Feuchtigkeit auf, der Reis soll am Pfannenboden leicht ansetzen und braun und knusprig werden. Schließlich Deckel und Tuch abnehmen. Die in wenig heißem Wasser aufgelösten Safranfäden inklusive Einweichwasser dazugeben, das Ganze weitere 5 Minuten auf dem Herd lassen.
@@ -32403,7 +31711,6 @@ Salz, Pfeffer
 1 EL Zitronensaft
 
 ### Zubereitung
-
 1. Den Reis mit ¼ TL Salz und 400 ml heißem Wasser in einen Topf geben. Bei mittlerer bis starker Hitze zum Kochen bringen, dann den Deckel auflegen und den Reis bei schwacher Hitze 12 Minuten garen. Vom Herd nehmen und zugedeckt 10 Minuten ruhen lassen; mit einer Gabel auflockern.
 1. 3 EL Öl in einem Pfännchen bei mittlerer Temperatur erhitzen. Die Knoblauchscheiben darin 2-2,5 Minuten anbraten bis sie ganz leicht gebräunt sind, dabei durch Rühren die Scheiben voneinander trennen. Mit einem Schaumlöffel auf einen mit Zewa bedeckten Teller heben; das Öl aufbewahren. Den Knoblauch mit Salz bestreuen.
 1. Butter und die restlichen 2 EL Öl in einer großen beschichteten Pfanne sehr stark erhitzen. Die Zwiebeln und den zerdrückten Knoblauch darin etwa 12 Minuten braten, bis sie ein sehr dunkles Goldbraun angenommen haben, dabei nicht zu oft umrühren. Die Zwiebeln sollen ab und zu am Pfannenboden ansetzen, aber nicht anbrennen. Kastanien, schwarzen Knoblauch und Cajun-gewürz mit ½ TL Salz hinzufügen und bei mittlerer Hitze unter gelegentlichem Rühren mitbraten, bis alles kräftig gebräunt ist.
@@ -32513,7 +31820,6 @@ Salz
 Salz
 
 ### Zubereitung
-
 1. Den Reis mehrmals in kaltem Wasser waschen, bis das Wasser klar abläuft, dann 20 Minuten in kaltem Wasser einweichen.
 1. Wasser zum Kochen bringen, die Trockenfrüchte in eine Schüssel geben und mit dem heißen Wasser bedecken. In einer zweiten Schüssel den Safran in 2 EL Wasser einweichen.
 1. Wenn der Reis eingeweicht ist, die gehackten Nüsse in einem Topf bei mittlerer Hitze 1 – 2 Minuten rösten, bis sie Farbe annehmen, dann auf einen Teller geben. Die Butter im Topf zerlassen und Nelken, Pfefferkörner und Zimt hineingeben. Sobald die Nelken und Pfefferkörner anschwellen und zu duften beginnen, den Reis abgießen und mit dem Salz in den Topf geben.
@@ -32532,7 +31838,6 @@ Salz, Pfeffer
 1 großes Yufka-Teigblatt
 
 ### Zubereitung
-
 1. Die Pinienkerne in einer beschichteten Pfanne ohne Fett bei mittlerer Hitze unter ständigem Rühren anrösten. Die Sultaninen dazugeben und kurz mitrösten, bis sie leicht glänzen. Die Mischung auf einem Teller abkühlen lassen.
 1. Den reis in einem Sieb abbrausen und abtropfen lassen. In einem Topf die Hälfte der Butter, 850 ml Wasser und 1 TL Salz dazugeben und aufkochen. Den Reis hinzufügen und einige Minuten sprudelnd kochen. Dann zugedeckt bei schwacher Hitze etwa 10 Minuten garen, bis er die Flüssigkeit vollständig aufgenommen hat. Pinienkerne, Sultaninen, Zimt und Piment unter den Reis rühren und den reis mit Pfeffer abschmecken.
 1. Den Backofen auf 160 Grad vorheizen. Die restliche Butter zerlassen. Eine Springform (28 cm Durchmesser) oder eine Auflaufform mit Butter einfetten. Das Yufka-Teigblatt in die Form legen, die Ränder überhängen lassen. Den Reis auf den Teig in der Form geben und glatt streichen. Die Teigränder nach innen schlagen und den Reis damit bedecken. Die Oberfläche mit der restlichen Butter bestreichen. Den Reis im Teigmantel im Ofen auf der mittleren Schiene etwa 20 Minuten goldbraun backen.
@@ -32555,7 +31860,6 @@ Tipp:	Passt gut zu geschmortem Gemüse wie z.B. Ratatoille 😊 oder zu einer fe
 Salz
 
 ### Zubereitung
-
 1. Den Reis mehrmals mit kaltem Wasser waschen, bis das Wasser klar abläuft, dann 20 Minuten in kaltem oder 10 Minuten in warmem Wasser einweichen, wenn die Zeit drängt. Abgießen und in einen hohen Topf geben. Mit reichlich kaltem Wasser bedecken und zum Kochen bringen. Die Temperatur reduzieren und 10 Minuten köcheln lassen, bis der Reis gar ist. Abgießen, dann mit einem sauberen Küchentuch abdecken und 5 Minuten dämpfen lassen, bis er schön locker ist.
 1. Das Öl in einer großen Pfann erhitzen du die Senfsamen hineingeben. Sobald sie platzen, Curryblätter, Erdnüsse und Chilis hinzufügen. Bei mittlerer Hitze 1 – 2 Minuten unter Rühren anrösten, dann die Schalotten dazugeben.
 1. Die Schalotten 10 – 12 Minuten dünsten, bis sie karamellisiert sind und süß sind. Die Temperatur reduzieren, Kurkuma, Zitronensaft und Salz unterrühren und en Reis hinzugeben. Gut vermengen und servieren.
@@ -32576,7 +31880,6 @@ Salz
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den Backofen auf 160 Grad Umluft vorheizen.
 1. Tomaten, Knoblauch, Schalotten, Kräuter und die Zimtstangen in einer tiefen ofenfesten Form (etwa 20 x 30 cm) und mit dem Olivenöl übergießen. Mit ½ TL Salz und 1 kräftigen Prise Pfeffer würzen und für 1 Stunde in den Ofen schieben, bis das Gemüse weich ist. Herausnehmen und den reis gleichmäßig in die Form streuen, nicht umrühren.
 1. Die Ofentemperatur auf 220 Grad Umluft erhöhen.
@@ -32597,7 +31900,6 @@ Salz, Pfeffer
 1 Handvoll frische Thai-Basilikum (oder auch nicht)
 
 ### Zubereitung
-
 1. Den Reis spülen, abtropfen lassen und mit 500 ml Wasser in einen Topf geben. Aufkochen lassen, die Hitze reduzieren, den Deckel auflegen und den Reis auf mittlerer Stufe 25-30 Minuten sanft köcheln lassen, bis alles Wasser verdampft ist. Den Reis 10 Minuten ruhen lassen, damit er möglichst trocken ist.
 1. In einer Pfanne das Fett erhitzen und das Gemüse darin ein paar Minuten unter dem Rühren anbraten. Mit Salz und Pfeffer abschmecken. Den Reis dazugeben und 1 Minute mitbraten. Die Eier unterrühren, bis sie gestockt sind.
 1. Mit Cashewkernen und Thai-Basilikum garniert servieren. 
@@ -32624,7 +31926,6 @@ Griechischer Ziegenjoghurt
 3 kleine rote Chilischoten
 
 ### Zubereitung
-
 1. Einen Liter Wasser in einem Topf zum Kochen bringen. Die Linsen waschen und mit den Thymianzweigen und den geschälten Knoblauchzehen hineingeben und bei kleiner bis mittlerer Hitze 16 Minuten kochen, bis die Linsen bissfest sind. In einem Sieb abgießen. Thymianzweige entfernen.
 1. Die Zwiebeln in Würfel schneiden. Parallel 400 ml Wasser aufsetzen. Zwiebeln in dem Olivenöl goldgelb braten, am besten in einem größeren Topf. Zucker, Kreuzkümmel, Salz und Pfeffer hinzugeben. Umrühren und den ungekochten Reis dazugeben. Alles zusammen 1 Minute lang andünsten. Dann die Linsen und Knoblauch dazugeben und umrühren. 400 ml kochendes Wasser dazugießen und das Ganze mit geschlossenem Deckel auf kleiner Hitze köcheln lassen. Die Kochzeit beträgt ca. 20 Minuten bis der Reis gar ist. Den Herd ausschalten und den Topf weitere 10 Minuten zugedeckt stehen lassen.
 1. Die Mujadara zum Servieren in eine große Schüssel geben. Eine Esslöffel Joghurt (oder auch mehr) dazugeben und anschließend einen Teelöffel fein gehackte Minze und die in Ringe geschnittenen roten Chilischoten darüberstreuen. Für die, die es milder mögen, einfach Chili weglassen.
@@ -32654,7 +31955,6 @@ Traditionell wird Mujadara mit persischem Reis, grünen Linsen und frittierten Z
 Salz und schwarzer Pfeffer
 
 ### Zubereitung
-
 1. Den Wildreis in einem kleinen Topf mit reichlich Wasser bedecken, zum Kochen bringen und etwa 40 Minuten köcheln lassen, bis die Körner gar, aber noch bissfest sind. In ein Sieb abgießen und zur Seite stellen.
 1. In einem Topf 1 EL Olivenöl bei hoher Temperatur erhitzen und den Basmatireis mit ¼ TL Salz unter Rühren darin anschwitzen. Das kochende Wasser angießen und den reis zugedeckt 15 Minuten bei sehr geringer Hitze garen.
 1. Den Topf vom Herd nehmen. Den Deckel abheben, den Topf mit einem Geschirrtuch bedecken, den Deckel wieder auflegen und den Reis 10 Minuten ruhen lassen.
@@ -32680,7 +31980,6 @@ Rapsöl
 Salz
 
 ### Zubereitung
-
 1. Den Reis mehrmals in kaltem Wasser waschen, bis das Wasser klar abläuft. Dann 20 Minuten in kaltem Wasser einweichen.
 1. 1 TL Öl in einer großen Pfanne erhitzen, Cashews und frische Kokosraspel hineingeben. Bei mittlerer Hitze 1 – 2 Minuten unter Rühren anrösten, bis die Cashews gebräunt und die Kokosraspel goldbraun gesprenkelt sind, dann in eine Schüssel geben und beiseitestellen.
 1. Den Reis abgießen und in einen hohen Topf geben. Mit reichlich kaltem Wasser bedecken und zum Kochen bringen. Die Temperatur reduzieren und 10 Minuten köcheln lassen, bis der Reis gar ist. Abgießen, dann mit einem Sauberen Küchentuch bedecken und 5 Minuten dämpfen lassen, bis er schön locker ist.
@@ -32710,7 +32009,6 @@ Salz
 4 – 8 Eier
 
 ### Zubereitung
-
 1. Den Reis mehrmals in kaltem Wasser waschen, bis das Wasser klar abläuft, dann 20 Minuten in kaltem Wasser einweichen. Die getrockneten Pilze in einer Schüssel mit 100 ml siedend heißem Wasser bedecken.
 1. 25 g Butter in einer Pfanne zerlassen. Sobald sie schäumt, Curryblätter, Zimtstange und Pfeffer hineingeben und bei mittlerer Hitze 1 Minute anrösten. Zwiebeln und Knoblauch hinzufügen, dann die Hitze reduzieren und 20 Minuten garen, dabei gelegentlich umrühren.
 1. 1 EL Butter in einer zweiten Pfanne erhitzen und so viele Champignonscheiben wie möglich hineingeben, ohne dass sie sich berühren. Bei mittlerer bis starker Hitze 2 Minuten braten, wenden und 1 – 2 weitere Minuten braten, dann auf einen Teller gleiten lassen. Auf diese Weise alle Champignons braten.
@@ -32747,7 +32045,6 @@ Salz
 2 EL Zitronensaft
 
 ### Zubereitung
-
 1. Den Backofen auf 200 Grad vorheizen und drei Backbleche mit Backpapier belegen. Den Reis mehrmals in kaltem Wasser waschen, dann 20 Minuten in kaltem Wasser einweichen.
 1. Süßkartoffeln und Rote Bete gut waschen und in 6x2 cm große Spalten schneiden. Auf getrennte Bleche geben. Die Tomaten erst in Viertel, dann in Achtel schneiden. Auf dem dritten Blech ausbreiten und Kichererbsen und Panir dazugeben.
 1. In einer kleinen Schüssel 6 EL Öl mit 1 TL Salz, Cayennepfeffer, Kreuzkümmel, Garam masala und Zitronensaft verquirlen. Über die Gemüse verteilen, dabei mehr über die Tomaten und den Käse geben als über die anderen beiden Bleche. Wenn alles gut mit Öl überzogen ist, die Bleche in den Ofen geben (Das Blech mit dem Panir auf die oberste Schiene) und 40 Minuten backen, dabei nach 20 Minuten wenden.
@@ -32781,7 +32078,6 @@ Rapsöl
 375 ml Gemüsebrühe
 
 ### Zubereitung
-
 1. Den Reis mehrmals in kaltem Wasser waschen, bis das Wasser klar abläuft, dann einweichen.
 1. Währenddessen 4 EL Öl in einer großen Pfanne erhitzen, dann gerade so viele Auberginen hineingeben, dass sie in eiern Lage den Boden bedecken. Bei mittlerer bis starker Hitze unter mehrfachem Wenden 6 – 8 Minuten braten, bis die Auberginen weich und schön gebräunt sind. Auf einen Teller geben, die übrigen Auberginen braten und dabei jedes Mal frisches Öl erhitzen.
 1. Die Butter in der Pfanne zerlassen und die Zwiebel darin 8 Minuten anschwitzen. 1 EL als Garnitur für später herausnehmen. Den Knoblauch hineingeben, 2 Minuten braten dann die Tomaten dazugeben und 5 Minuten braten, bis sie zusammenfallen. Zimt, Pfeffer, Kreuzkümmel, Nelken, Cayennepfeffer und Salz unterrühren, anschließend Kichererbsen und Auberginen hinzugeben. 1 – 2 Minuten köcheln lassen, dann vom Herd nehmen.
@@ -32802,7 +32098,6 @@ Rapsöl
 Salz
 
 ### Zubereitung
-
 1. In einer großen Pfanne 3,5 EL Sonnenblumenöl bei mittlerer bis hoher Temperatur erhitzen. Sobald es heiß ist, die Zwiebel und ¼ TL Salz hineingeben und 12 Minuten braten; ab und zu umrühren, damit sie nicht anbrennen. Die Zitronenschale untermengen und weitere 12 Minuten unter gelegentlichem Rühren garen, bis die Zwiebeln kräftig gebräunt und karamellisiert sind. Auf einem Teller beiseitestellen.
 1. Das restliche Öl (1 EL) in der Pfanne erhitzen. Den Reis darin mit ½ TL Salz unter ständigem Rühren 1 Minute anbraten, dann 500 ml Wasser zugießen, zum Kochen bringen und Reis zugedeckt bei schwacher bis mittlerer Hitze etwa 45 Minuten köcheln lassen, bis er gar ist. Vom Herd nehmen, die Zwiebeln, den Zitronensaft und den schwarzen Knoblauch unterziehen, eine großzügigen Löffel Joghurt und die Petersilie dazugeben und sofort servieren. Man kann den Joghurt aber auch in einer Schale separat reichen.
 
@@ -32823,7 +32118,6 @@ Salz, Pfeffer
 1 kleine Knoblauchzehe, zerdrückt
 
 ### Zubereitung
-
 1. Den Backofen auf 230 Grad Umluft vorheizen.
 1. Den Reis in einer tiefen ofenfesten Form (20 x 30 cm) verteilen und mit ¾ TL Salz und reichlich Pfeffer würzen. Die Butter darüberträufeln und 800 ml kochendes Wasser zugießen. Die Minzestängel hineinlegen, die Form mit Alufolie fest verschließen und den Reis im Ofen 25 Minuten backen, bis er sämtliche Flüssigkeit aufgenommen hat und locker und luftig ist.
 1. Inzwischen in einer Schüssel sämtliche Zutaten für die Salsa, außer der restlichen Minze, gründlich vermengen, mit ¼ TL Salz würzen und beiseitestellen.
@@ -32850,7 +32144,6 @@ Ist eine ziemlich ungewöhnliche Art Reis zu kochen, aber es funktioniert 1 A. H
 1 Limettenschnitz
 
 ### Zubereitung
-
 1. Den Reis einen Tag vorher kochen und in einer Pfanne mit etwas Sonnenblumenöl bei mittlerer Hitze anbraten. Schalotte grob hacken.
 1. Paprika, Knoblauch und Frühlingslauch klein schneiden und kurz mitbraten. Erbsen, Zucker, Salz und Pfeffer hinzugeben. Mit gehackten korianderblättern, Sesamöl und Fischsauce abschmecken. Mit einem Limettenschnitz servieren.
 
@@ -32908,7 +32201,6 @@ Salz, Pfeffer
 50 g geriebener Parmesan
 
 ### Zubereitung
-
 1. Den Lauch putzen, waschen und in feine Streifen schneiden. Die Paprikaschoten längs halbieren, entkernen, waschen und in kleine Würfel schneiden. Den Zucchino und die Aubergine putzen, waschen und ebenfalls in kleine Würfel schneiden.
 1. Den Brokkoli putzen, waschen und in sehr kleine Röschen schneiden. Die Pilze putzen, die Stielenden entfernen, die Pilze in kleine Würfel schneiden. Zwiebel und Knoblauch schälen und ebenfalls in kleine Würfel schneiden.
 1. In einem großen Topf das Olivenöl erhitzen, Zwiebel und Knoblauch kurz darin andünsten. Das restliche Gemüse und die Pilze dazugeben und unter Rühren 2 Minuten braten. Den Reis und das Tomatenmark unterrühren und kurz mitbraten, bis der Reis glasig ist. Mit dem Weißwein ablöschen, dann die Gemüsebrühe angießen und mit Salz und Pfeffer würzen. Den reis zugedeckt bei schwacher Hitze 25 Minuten quellen lassen, dabei einmal umrühren.
@@ -32964,7 +32256,6 @@ Mal sehen, ob es Paula damit gelingt, Reis zu kochen 😊
 Salz
 
 ### Zubereitung
-
 1. Den Reis und ½ TL Salz in einen Topf mit fest schließendem Deckel geben und 600 ml Wasser zugießen. Zum Kochen bringen und dann zugedeckt bei schwacher Hitze garen. Vom Herd nehmen und zugedeckt noch 5 Minuten quellen lassen.
 1. Während der Reis gart, das Öl in einer Pfanne bei mittlerer bis hoher Temperatur erhitzen. Ingwer, Knoblauch und die Chilis hineingeben und unter häufigem Rühren 3 – 4 Minuten anbraten, bis sie eben braun zu werden beginnen. Koriandergrün, Erdnüsse, Sesam und 1 kräftige Prise Salz hinzufügen und 1 – 2 Minuten mitgaren. Den Reis mit dem Topping und Limettenspalten zum Auspressen.
 
@@ -32974,7 +32265,6 @@ Salz
 2 Pandanblätter
 
 ### Zubereitung
-
 1. Den Reis mindestens 4 Stunden, besser aber 8 Stunden in kaltem Wasser einweichen.
 1. Das Einweichwasser abgießen und den Reis mit den Pandanblättern in einem mit einer Stoffserviette oder einem Tuch ausgelegten Bambuskorb dämpfen. 
 
@@ -32988,7 +32278,6 @@ Etwa 30 ml Wasser
 1 Prise Salz
 
 ### Zubereitung
-
 1. Die Kokosraspeln in einer Pfanne langsam rösten. Dann den Zucker hinzugeben und leicht karamellisieren lassen. Mit dem Wasser ablöschen und so lange unter ständigem Rühren erhitzen, bis das Wasser versunstet ist und der Zucker die Kokosraspeln umschließt. Die Pfanne vom Herd nehmen.
 1. Den Stiel von den Limettenblättern entfernen, die Blätter fein hacken und hinzugeben. Mit der Prise Salz verfeinern.
 
@@ -33002,7 +32291,6 @@ Etwa 30 ml Wasser
 1 Prise Salz
 
 ### Zubereitung
-
 1. Den Reis waschen und etwa 2 Stunden in kaltem Wasser einweichen.
 1. Das Wasser abgießen und den Reis mit frischem Wasser, Kokosmilch und den Gewürzen in einem Topf unterrühren und langsam gar köcheln.
 
@@ -33043,7 +32331,6 @@ Kokosraspeln, Palmzucker, Salz und Wasser kurz köcheln lassen, bis sich der Zuc
 1 Limette
 
 ### Zubereitung
-
 1. Reisnudeln ca. 15 Minuten in einer Schüssel mit kaltem Wasser einweichen. Auf ein Sieb abgießen und gut abtropfen lassen. Einen Topf mit kochendem Wasser über die Nudeln geben und nochmals 5 Minuten darin einweichen. Nudeln abschütten und mit kaltem Wasser gut abschrecken, abtropfen lassen und dann mit Erdnussöl gut mischen, damit sie nicht verkleben.
 1. Für die Marinade alle Zutaten in eine Schüssel geben und mit dem Schneebesen glattrühren, bis sich der Zucker aufgelöst hat.
 1. Tofu Natur in etwa 1 cm große Stücke würfeln. In einem Wok oder einer Pfanne Öl erhitzen und die Tofuwürfel darin goldgelb anbraten. Knoblauch mitrösten (Achtung, verbrennt schnell) Frühlingslauch in Ringe und Paprika in Streifen schneiden, das restliche Gemüse dazugeben und mitrösten. Etwas Erdnussöl nachgeben.
@@ -33059,7 +32346,6 @@ Salz
 Mehl zum Ausrollen
 
 ### Zubereitung
-
 1. Für den Nudelteig das Mehl, den Grieß, die Eier, das Olivenöl und 1 Prise Salz zu einem glatten, elastischen Teig verkneten. Teig in Frischhaltefolie wickeln und im Kühlschrank etwa 30 Minuten ruhen lassen.
 1. Den Teig mit dem Nudelholz zu dünnen Teigplatten ausrollen, dabei mit Mehl bestäuben. Die Teigplatten einrollen und mit einem Messer in beliebig breite oder schmale Streifen schneiden.
 1. Die Nudeln in reichlich Salzwasser etwa 3 Minuten kochen.
@@ -33073,7 +32359,6 @@ Mehl zum Ausrollen
 1 EL Olivenöl
 
 ### Zubereitung
-
 1. Der Teig muss in einer kühlen Umgebung und ohne Luftzug zubereitet werden. 
 1. Mehl auf einer einem Holzbrett anhäufen, eine Mulde hineindrücken und in diese die vier aufgeschlagenen Eier mit der Prise Salz und einem EL Öl hineingeben. Mit einer Gabel vorsichtig das Öl aufschlagen, dann nach und nach ein wenig des Mehls vom Rand in die Mitte aufnehmen und weiter vermischen. Sobald der Teig fest genug geworden ist, Mehl und Eier vermischen und den Teig gut durchkneten (10 – 15 Minuten) bis eine glatte und elastische Kugel entstanden ist. Den teig mit dem Nudelholz ausrollen und ziehen. Sobald er ein wenig ausgebreitet isst, auf das Nudelholz rollen und gemeinsam mit dem Holz unter leichtem Druck hin und her gleiten und danach schnell wieder entrollen, um ihn weiter auszubreiten. Diesen Vorgang so lange wiederholen, bis der Teig hauchdünn (1 mm) ist. 
 1. Teig für eine Viertelstunde ruhen lassen, dann vorsichtig in sich zusammenrollen und mit einem scharfen Messer in Streifen schneiden. Die kleinen „Knäuel“ ausbreiten und auf einem Tuch auslegen. Ein wenig antrocknen lassen. Sie müssen leicht trocken sein, bevor man sie kocht. 
@@ -33097,7 +32382,6 @@ Evtl. etwas Wasser oder Weißwein
 2 Eigelb
 
 ### Zubereitung
-
 1. Frühlingszwiebeln putzen, waschen und in Ringe schneiden. Spargel schälen, die holzigen Enden abschneiden, jede Stange in 4 cm lange Stücke schneiden. Pilze putzen und vierteln. Oregano waschen, trocken schütteln, die Blättchen abzupfen und diese fein hacken.
 1. Butter und Olivenöl in einer großen Pfanne erhitzen. Frühlingszwiebeln dazugeben, salzen und ca. 5 Minuten lang unter regelmäßigem Rühren dünsten – sie sollten sich dabei aber nicht braun färben.
 1. Spargel in die Pfanne geben. Nach 5 Minuten die Pilze und den Oregano sowie Pfeffer dazufügen. Bei mittlerer Hitze alles 15 Minuten lang dünsten. Man muss keine Flüssigkeit dazufügen, da Spargel und Pilze genügend Feuchtigkeit abgeben. Sollte das Gemüse drohen am Boden anzusetzen, kann man eine Schluck Weißwein oder Wasser dazugießen und einkochen lassen.
@@ -33116,7 +32400,6 @@ Salz, Pfeffer
 300 g Spaghetti
 
 ### Zubereitung
-
 1. Die Enden der grünen Spargelstangen entfernen, den Spargel waschen und in ungefähr 1 cm dicke Scheiben schneiden. Die Köpfe lässt man ganz.
 1. Butter in einer beschichteten Pfanne zerlassen und darin den Spargel schwenken. Etwas Salz und Pfeffer hinzufügen. Man sollte ind er Zwischenzeit die Pasta aufgesetzt haben. Denn eine Kelle des gesalzenen, stärkehaltigen Nudelkochwassers (ca. 50 ml) braucht man jetzt zum Ablöschen des Spargels.
 1. Die Flüssigkeit bei mittlerer Hitze einkochen lassen, was ungefähr 5 Minuten dauert. Der Spargel sollte weich, aber auf keinen Fall zerkocht sein. Inzwischen die Erbsen aus den Schoten pulen und zum Spargel geben. Ungefähr 3 Minuten lang mitgaren. Man kann auch TK-Erbsen verwenden, aber die schmecken anders.
@@ -33139,7 +32422,6 @@ Schwarzer Pfeffer
 70 g Parmesan
 
 ### Zubereitung
-
 1. Zunächst gesalzenes Wasser für die Pasta aufsetzen; sobald es kocht, Pasta hineingeben. Währenddessen Zwiebel schälen und fein schneiden, in einer großen Pfanne in Olivenöl ungefähr 5 Minuten lang mit etwas Salz glasig dünsten.
 1. Spargel waschen, die hölzernen Enden abschneiden. Stangen in etwa 1 cm große Stücke schneiden, die Köpfe im Ganzen lassen. Dann die Spargelstücke (ohne Köpfe) zur Zwiebel geben.
 1. Eine Kelle von dem Pastakochwasser hinzugießen und das Ganze ein paar Augenblicke köcheln lassen. Die Spargelköpfe dazugeben. Deckel der Pfanne schließen und den Spargel vor sich hin schmurglen lassen.
@@ -33161,7 +32443,6 @@ Salz, schwarzer Pfeffer
 300 g kurze Pasta
 
 ### Zubereitung
-
 1. Zwiebeln fein schneiden. In einer Pfanne in etwas Olivenöl andünsten. Speck klein schneiden und dazugeben. 
 1. Pilze putzen, klein schneiden und dazugeben, salzen und pfeffern, alles einige Minuten lang dünsten, bis die Pilze gar sind. Dann gibt man den fein gehackten Rosmarin und die abgegossenen Bohnen dazu.
 1. Man hat parallel schon gesalzenes Wasser für die Pasta aufgesetzt, Pasta darin al dente kochen. Eine Kelle vom Kochwasser aufbewahren. Abgetropfte Pasta zur Pilzsauce geben, eventuell mit dem Kochwasser verdünnen.
@@ -33180,7 +32461,6 @@ Salz, schwarzer Pfeffer
 40 g Parmesan (frisch gerieben)
 
 ### Zubereitung
-
 1. Zunächst Pasta kochen.
 1. Währenddessen die Zucchini grob reiben. In einem Topf Butter zergehen lassen. Die Zucchiniraspel darin andünsten, bei recht hoher Temperatur, aber dabei immer rühren, sodass sie nicht ansetzen. Nach ungefähr 5 Minuten gibt man vom Pastakochwasser eine Kelle dazu. Deckel drauf, auf mittlere Temperatur schalten und das Ganze einige Minuten garen lassen. Die Pasta sollte ungefähr eine Minute vor Ende der Kochzeit aus dem Topf genommen werden. Das Kochwasser braucht man noch, also nicht weggießen.
 1. Zu den Zucchiniraspeln gibt man den in Würfel geschnittenen Gorgonzola. Deckel wieder auf den Topf, bis der Käse geschmolzen ist. Topf vom Herd nehmen, die grob gerupften Basilikumblätter hinzufügen, ebenso die Hälfte der Safranfäden. Die heiße Pasta in den Topf geben, noch ein bisschen Kochwasser dazugießen, vermengen, bis die Soße die Nudeln überzogen hat. Die andere Hälfte der Safranfäden hinzufügen. Nach Bedarf salzen und pfeffern. Parmesan darüberstreuen und unterrühren.
@@ -33200,7 +32480,6 @@ Salz, Pfeffer
 Parmesan
 
 ### Zubereitung
-
 1. Spaghetti in Salzwasser al dente kochen. Währenddessen Butter und Zitronenschale (ich finde mit geriebener Schale schmeckt es deutlich besser) in einer großen Pfanne erhitzen. Die Butter zergehen lassen, insgesamt alles 5 Minuten lang dünsten. Dann mit Zitronensaft ablöschen. Salzen und pfeffern.
 1. Drei Minuten vor Ende der Garzeit die Spaghetti aus dem Topf nehmen und in die Pfanne geben. Zwei Kellen vom Nudelwasser dazugießen. Die Flüssigkeit einkochen lassen. Die Pasta sollte dann gar sein, die Soße eingedickt. Mit Salz, Pfeffer und vielleicht etwas Zitronensaft abschmecken, mit geriebenem Parmesan servieren.
 
@@ -33222,7 +32501,6 @@ Salz, Pfeffer
 Parmesan
 
 ### Zubereitung
-
 1. Die Kichererbsen kurz unter kaltem Wasser abspülen, dann in etwas Öl mit der geschälten Knoblauchzehe und den Rosmarinzweigen ungefähr 3 Minuten lang unter Rühren anschwitzen. 600 ml Wasser dazugießen, etwas Salz hinzufügen (nicht zu viel, da die Flüssigkeit stark einkochen wird), aufkochen und dann bei niedriger Hitze köcheln lassen.
 1. Nach 20 Minuten die Rosmarinzweige herausnehmen. Nach weiteren 10 Minuten 3 Esslöffel der Kichererbsen beiseitenehmen und mit der Gabel zerdrücken. Jetzt Pasta zu den Kichererbsen geben sowie 200 ml Wasser. Die Pasta garkochen, dabei häufig umrühren, damit die Nudeln nicht zusammenkleben. 
 1. Wasser dazugießen, falls die Soße zu dickflüssig wird. Zerdrückte Kichererbsen wieder in den Topf geben. Zum Schluss mit Salz abschmecken, mit Pfeffer und geriebenem Parmesan servieren. (Knoblauchzehe eventuell entfernen, wenn sie sich nicht schon aufgelöst hat.
@@ -33240,7 +32518,6 @@ Tipp:	Das Gericht eignet sich vor allem für Studis mit Winterdepression: Verlä
 3 Zweige Zitronenthymian
 
 ### Zubereitung
-
 1. Pasta al dente kochen.
 1. Knoblauchzehe in Olivenöl anschwitzen, dann ebenfalls die Tomaten kurz anschwitzen. Einige Tomaten zerdrücken. 
 1. Mit Salz, Pfeffer, Thymian würzen. Pasta mit der Sauce vermischen. Dann etwas Zitronenschale darüber raspeln und gewürfelten Ricotta darüberstreuen und mit Zitronenthymian dekorieren.
@@ -33261,7 +32538,6 @@ Salz, Pfeffer
 Etwas Parmesan
 
 ### Zubereitung
-
 1. Die Zwiebel schälen, fein hacken. Speck klein würfeln. Pilze putzen und in mundgerechte Stücke schneiden. Zwiebel in Olivenöl zusammen mit dem Speck andünsten, etwa 5 Minuten lang. 
 1. Die Pilze in den Topf geben, mit Weißwein ablöschen. Salzen und pfeffern. Sobald der Wein etwas verkocht ist, die Pasta dazugeben. Mit Brühe aufgießen, sodass die Pasta nicht ganz bedeckt ist, Flüssigkeit einkochen lassen. Den Vorgang wie beim Risotto wiederholen, bis die Pasta gar ist. Sie benötigt etwas mehr Zeit als auf der Packung angegeben. Zum Schluss Petersilie und geriebenen Parmesan unterrühren.
 
@@ -33281,7 +32557,6 @@ Olivenöl
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Zwiebel fein schneiden, in Olivenöl dünsten, gut salzen. Kartoffeln in kleine Würfel schneiden und dazugeben. Rosmarin sehr fein hacken oder den Zweig im Ganzen lassen und zu den Kartoffeln geben. Außerdem Tomatenmark und die Rinde vom Parmesankäse hinzufügen.
 1. Gleichzeitig gesalzenes Wasser für die Pasta aufsetzen. Eine Kelle von dem Wasser zu den Kartoffeln geben, pfeffern. Bei geschlossenem Deckel und mittlerer Hitze 20 Minuten köcheln lassen oder bis die Kartoffeln weich sind. Währenddessen hat man die Pasta im Salzwasser gegart. Sie wird zwei Minuten vor Ende der Garzeit mit einem Schaumlöffel in den Topf mit den Kartoffeln gehoben, man gießt noch eine Kelle vom Kochwasser dazu. Alles zwei Minuten lang zusammen köcheln lassen, sodass die Flüssigkeit leicht eindickt., währenddessen rühren. Den geriebenen Parmesan unterheben und vielleicht noch einmal schwarzen Pfeffer drübergeben.
 
@@ -33303,7 +32578,6 @@ Ein paar Blättchen Basilikum
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. In einem großen Topf brät man unter Rühren Zwiebel, Karotte und Sellerie mit einer guten Prise Salz in Olivenöl an. Nach ungefähr 5 Minuten gibt man die Kartoffeln dazu, vermengt alles, dann Lorbeer und 1,2 l Wasser hinzufügen. 
 1. Flüssigkeit aufkochen, dann das Ganze 12 Minuten bei geschlossenem Deckel und bei niedriger bis mittlerer Temperatur köcheln lassen. Dann noch mal die Flüssigkeit richtig aufkochen, Pasta hineingeben, garen, bis diese al dente sind.
 1. Wenn am Ende zu wenig Flüssigkeit im Topf ist, gießt man etwas Wasser nach. Topf vom Herd nehmen, Parmesan nach und nach unterheben. Zum Servieren ein paar fein gehackte Blättchen Basilikum über die Pasta geben sowie viel frisch gemahlenen schwarzen Pfeffer.
@@ -33328,7 +32602,6 @@ Muskatnuss
 100 g frischer Ziegenfrischkäse (Taler)
 
 ### Zubereitung
-
 1. Die Pinienkerne ohne Fett in einer Pfanne rösten. Grünkohl waschen, von den Stielen rupfen und grob schneiden. In reichlich kochendem Wasser 10 Minuten blanchieren, abgießen, abschrecken und gut abtropfen lassen.
 1. Chili und Knoblauch in dünne Scheiben schneiden und in einer Pfanne mit Olivenöl kurz anbraten. Zwiebel fein würfeln und mitdünsten, den Grünkohl dazugeben. Mit Gemüsebrühe ablöschen, aufkochen und mit Salz, Pfeffer und frisch geriebener Muskatnuss würzen. 5 Minuten bei mittlerer Hitze schmoren.
 1. Inzwischen Penne nach Packungsanweisung al dente kochen, abgießen, dabei etwas Nudelwasser auffangen. Die Nudeln zum Grünkohl geben und kurz noch einmal aufkochen. Falls die Soße nicht sämig genug sein sollte, etwas Nudelwasser zugeben. Zum Schluss die in Streifen geschnittenen getrockneten Tomaten zugeben, mit zerbröselten Ziegenfrischkäse und Pinienkernen bestreuen.
@@ -33350,7 +32623,6 @@ Salz, Pfeffer
 1 TL Butter
 
 ### Zubereitung
-
 1. Den Boden eines Topfes mit Olivenöl bedecken, Knoblauchzehen schälen und darin einen Augenblick lang erhitzen. Knoblauch entfernen. Den halben Blumenkohlkopf inklusive Strunk in schmale Streifen schneiden - macht nix, wenn er dabei zerfällt.
 1. Blumenkohl ins heiße Öl geben, salzen und kurz andünsten. Er solle nicht braun werden. Dann ungefähr 400 ml Wasser dazugeben. Aufkochen und bei mittlerer Hitze ungefähr 15 Minuten lang garen, bis er weich ist.
 1. Den Blumenkohl grob pürieren, nicht so, dass die Masse glatt wird, sondern so, dass einige Röschen erhalten bleiben. Nun gibt man die Pasta dazu – am besten schmeckt es, wenn sie verschiedene Formen hat, die ungefähr dieselbe Garzeit brauchen. Das Ganze auf mittlerer Hitze köcheln lassen, bis die Pasta gar ist. Wie bei einem Risotto gießt man noch Flüssigkeit dazu, in diesem Fall Wasser, sobald die Masse ansetzt, aber die Pasta noch nicht gar ist.
@@ -33372,7 +32644,6 @@ Salz, Pfeffer
 20 g Basilikumblätter in Stücke gezupft
 
 ### Zubereitung
-
 1. Den Backofen auf 220 Grad Umluft vorheizen.
 1. Von den Auberginen mit einem Sparschäler die Schale in Streifen abziehen, sodass ein Zebrastreifenmuster entsteht. Die Auberginen anschließend quer in 1 cm dicke Scheiben schneiden und in einer Schüssel mit 5 EL Öl, ¾ TL Salz und 1 kräftigen Prise Pfeffer sorgfältig vermischen. Auf zwei mit Backpapier belegte Bleche verteilen und im Ofen 30 – 35 Minuten goldbraun rösten. Abkühlen lassen.
 1. In einer Pfanne 2 EL Öl bei mittlerer bis hoher Temperatur erhitzen. Knoblauch und Chilis darin unter ständigem Rühren 1 – 2 Minuten goldbraun anbraten. Tomaten, Oregano, Zucker sowie ½ TL Salz und 1 Prise Pfeffer hinzufügen und bei schwacher bis mäßiger Hitze 10 Minuten garen, bis die Sauce eigedickt ist. Die Oreganostängel entfernen und die Auberginen unterrühren.
@@ -33397,7 +32668,6 @@ Ein paar Basilikumblätter
 300 g Pasta
 
 ### Zubereitung
-
 1. Auberginen in ca. 1 cm große Würfel geschnitten. Man kann das Gemüse vorher auch längs halbieren und eine halbe Stunde in kaltes Wasser legen – das sorgt dafür, dass es beim Braten nicht so viel Fett aufsaugt. Meistens funktioniert dieser Trick ganz gut. 
 1. Die Auberginenwürfel werden in einer beschichteten Pfanne in heißem Öl gebraten. Man sollte während des Garens immer wieder frei, vier EL Wasser dazugeben, damit die Auberginen nicht anbrennen. Den Pfannendeckel lässt man die meiste Zeit geschlossen. Die Auberginenwürfel sollten weich sein, wenn man den Knoblauch dazugibt. Die Chili dazugeben.
 1. Das Ganze kurz weiterdünsten. Dann Tomaten einrühren, salzen und pfeffern und die Sauce einkochen, bis sie eindickt, was bei mittlerer Hitze ungefähr 5 Minuten dauert. Zum Schluss mengt man das gehackte Basilikum unter. Mit der in Salzwasser gegarten Pasta servieren, Ricotta salata, die feste, salzige Variante des italienischen Frischkäses passt gut zur Auberginensauce. Da dieser hierzulande nicht so einfach zu bekommen ist, ist Pecorina ein Ersatz.
@@ -33415,7 +32685,6 @@ Ein paar Basilikumblätter
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Von dem Basilikum 30 g abnehmen und mit dem Knoblauch und dem Olivenöl grob pürieren. Beiseitestellen.
 1. Pasta fast al dente kochen. Die Zuckerschoten dazugeben und 2 Minuten mitgaren, bis die Pasta auf den Punkt gar ist und die Zuckerschoten weich sind.
 1. Pasta und Zuckerschoten abgießen und in eine große Schüssel geben, dabei 2 EL Kochwasser zurückbehalten. Pecorino, Pistazien, Zitronenschale du das restliche Basilikum (20 g) hinzufügen, mit 1 kräftigen Prise Salz und Pfeffer würzen. Falls nötig, mit etwas Kochwasser auflockern, behutsam durchheben und servieren.
@@ -33438,7 +32707,6 @@ Schwarzer Pfeffer
 1 TL gehacktes Basilikum
 
 ### Zubereitung
-
 1. Zwiebel sehr fein hacken, die Zucchini in sehr feine Scheiben schneiden. Wenn die Zucchini sehr groß sind (was sie nicht sein sollten, weil sie dann wässrig schmecken), die Scheiben noch mal halbieren. 
 1. Olivenöl erhitzen, Zwiebel und Zucchini dazugeben, salzen und das Gemüse ungefähr 10 Minuten lang auf mittlerer Hitze unter Rühren garen. In einer Schüssel gerieben Parmesan, Eier und Eigelb mit reichlich schwarzem Pfeffer vermengen.
 1. Tagliatelle in kochendem Salzwasser garen, aber 2 Minuten vor Ende der Garzeit Pasta aus dem Topf heben, zu den Zucchini in die Pfanne geben und mit dem Gemüse vermengen. Die Ei-Mischung jetzt ebenfalls unterrühren, eine Kelle vom Kochwasser dazu gießen. Alles gut vermengen. Sanft erhitzen, falls notwendig. Zum Schluss Basilikum unterrühren.
@@ -33515,7 +32783,6 @@ Etwas Olivenöl
 1 Stück Butter
 
 ### Zubereitung
-
 1. Zunächst setzt man leicht gesalzenes Wasser für die Pasta auf. Während man es zum Kochen bringt, den Parmesan reiben und den Ricotta mit 2 EL von dem Kochwasser und dem Parmesan glattrühren. Pfeffer dazugeben.
 1. Wenn das Wasser kocht, die Pasta hineingeben und darin nach Packungsangabe al dente kochen. Inzwischen Spinat putzen und waschen, in Olivenöl in einer Pfanne dünsten, bis die Blätter in sich zusammenfallen, aus der Pfanne nehmen und beiseitestellen.
 1. 2 Minuten vor Ende der Garzeit die Nudeln aus dem Wasser nehmen, zusammen mit etwas Kochflüssigkeit in die Pfanne geben. Ricotta-Parmesan-Mischung und Spinat unterrühren. Das Ganze etwas andicken lassen. Wenn es zu trocken erscheint, noch mal etwas Kochwasser dazugeben und einkochen lassen. Vor dem Servieren ein kleines Stück Butter unterrühren. Eventuell nachsalzen.
@@ -33537,7 +32804,6 @@ Salz, Pfeffer
 2 EL gehackte Minze
 
 ### Zubereitung
-
 1. Die Orecchiette al dente kochen.
 1. Den Zucchino putzen, waschen, längs vierteln und in kleine Stücke schneiden. Die Tomaten waschen und vierteln. Die Zwiebel und den Knoblauch schälen. Die Zwiebel in Streifen, den Knoblauch in feine Würfel schneiden. Die Paprikaschoten längs halbieren, entkernen, waschen und in kleine Würfel schneiden. Den Mozzarella ebenfalls in Würfel schneiden. Die Artischocken in ein Sieb abgießen, abtropfen lassen und vierteln.
 1. Das Olivenöl in einer großen Pfanne erhitzen und den Zucchino, die Zwiebel und den Knoblauch darin andünsten. Die Paprika dazugeben, mit Wein ablöschen und kurz köcheln lassen. Die Tomaten, die Artischocken und die Oliven unterrühren.
@@ -33559,7 +32825,6 @@ Je 1 Handvoll Petersilien- und Basilikumblätter
 Etwas Chilipulver
 
 ### Zubereitung
-
 1. Altbackenes Weißbrot in 1 cm große Würfel schneiden. Tomaten waschen und vierteln. Olivenöl in einer Pfanne erhitzen, geschälte Knoblauchzehe darin schwenken. Brotwürfel in die Pfanne geben und einige Minuten anrösten, bis sie etwas Farbe annehmen. Tomaten dazugeben, salzen, eventuell Tomaten ein bisschen andrücken, sodass der Saft austritt. Einige Minuten bei mittlerer Hitze unter Rühren dünsten.
 1. Währenddessen die Pasta in kochendes Salzwasser geben. Petersilien und Basilikumblätter mit frisch geriebenem Parmesan, Salz, etwas Olivenöl und etwas Chilipulver mit dem Pürierstab zu einer Pestosauce vermengen, mit 2 EL vom Nudelkochwasser glattrühren. 2 Minuten vor Ende der Garzeit die Spaghetti diese vom Topf zur Soße in die Pfanne heben, eine Kelle Nudelwasser dazugießen. Flüssigkeit einkochen lassen, die Knoblauchzehe gegebenenfalls herausfischen. Schließlich die Pestosauce in die Pfanne gießen, gut umrühren, eventuell nachsalzen
 
@@ -33586,7 +32851,6 @@ Olivenöl
 Parmesan
 
 ### Zubereitung
-
 1. Zwiebel schälen und fein hacken. Karotte putzen, schälen und klein würfeln. Sellerie waschen und in feine Scheibchen schneiden. Knoblauch schälen, andrücken, dann fein hacken. Petersilie wachen, trocken schütteln und Stängel wie Blätter getrennt voneinander fein hacken.
 1. Nun entfernt man die Pelle der Salsiccia und brät den Inhalt in Olivenöl in einem Topf an. Das Wurstbrät mit einer Gabel zerteilen, sodass es gleichmäßig bräunt. Nach 5 Minuten Brät aus dem Topf nehmen und beiseitestellen. Im verbliebenen Fett Zwiebel, Karotte, Sellerie, Knoblauch, Petersilienstängel, Lorbeer, Chili und Tomatenmark anbraten. Salzen und 8 bis 10 Minuten lang unter regelmäßigem Rühren anschwitzen. Mit Rotwein ablöschen, Flüssigkeit weitgehend verdampfen lassen. Dann Dosentomaten dazugeben. Zimt, Nelken und etwas Salz dazugeben. Die Soße ungefähr 1 Stunde lang bei niedriger Hitze zugedeckt köcheln lassen.
 1. Dazu passt eine kurze Pasta. Zum Schluss gehackte Petersilienblätter und geriebenen Parmesan darüberstreuen.
@@ -33611,7 +32875,6 @@ Ca. 1 l Gemüsebrühe oder Wasser
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Karotte, Zwiebel und Sellerie schälen bzw. waschen und fein schneiden, mit der geschälten Knoblauchzehe in einem großen Topf mit etwas Olivenöl erhitzen. 5 Minuten unter Rühren dünsten.
 1. Klein geschnittenen Speck dazugeben, weiterdünsten. Wenn der Speck etwas Farbe angenommen hat, Tomaten unterrühren.
 1. Linsen unter kaltem Wasser abwaschen, hinzufügen. Etwa 500 ml Gemüsebrühe dazugießen. Chilischote waschen, putzen, fein hacken und unterrühren. Rosmarinzweige im Ganzen dazugeben.
@@ -33655,7 +32918,6 @@ Mildes Chilipulver
 ¼ ausgekratzte Vanilleschote
 
 ### Zubereitung
-
 1. Für die Sauce den Blauschimmelkäse entrinden und in Würfel schneiden. Die Brühe in einem Topf erwärmen. Den Käse und die Sahne hinzufügen und alles vorsichtig bis knapp unter den Siedepunkt erhitzen, aber nicht kochen lassen.
 1. Die Butter und 1 Prise Chilipulver hinzufügen du die Sauce mit dem Stabmixer pürieren. Den Knoblauch, den Salbei, die Birnenscheibe und die Vanilleschote dazugeben, einige Minuten in der Käsesauce ziehen lassen und wieder entfernen.
 1. Die Käsesauce zu den Nudeln geben und alles erhitzen. Mit Pfeffer und Muskatnuss würzen.
@@ -33678,7 +32940,6 @@ Mildes Chilipulver
 400 g frische Pilze
 
 ### Zubereitung
-
 1. Für die Sauce die Zwiebel schälen und in kleine Würfel schneiden. In einem Topf 1 EL Öl erhitzen und die Zwiebelwürfel darin glasig dünsten. Brühe angießen. Das Lorbeerblatt und die getrockneten Pilze dazugeben. Die Pilzsauce unter dem Siedepunkt 20 Minuten ziehen lassen.
 1. Das Lorbeerblatt entfernen, die Sahne angießen und die Sauce mit dem Stabmixer pürieren. Durch ein Sieb in einen Topf streichen und nach und nach die Butter untermixen. Die Zitronenschale hinzufügen, einige Minuten in der Sauce ziehen lassen und wieder entfernen. Mit Salz und Pfeffer würzen, mit 1 Prise Kümmel und Chilipulver abschmecken.
 1. Die frischen Pilze putzen, trockenreiben und klein schneiden. Das restliche Öl in einer großen Pfanne erhitzen du die Pilze darin portionsweise bei mittlerer Hitze 1 bis 2 Minuten anbraten. Wenden und mit Salz und Pfeffer würzen.
@@ -33703,7 +32964,6 @@ Etwas Zitronensaft
 Semmelbrösel (optional)
 
 ### Zubereitung
-
 1. Zucchini quer teilen, dann längs vierteln und in Scheibchen schneiden. Zwiebel fein schneiden. In einem Topf Zwiebel in Olivenöl andünsten, etwas Salz hinzufügen. Anchovis hinzufügen, dünsten, bis sie sich aufgelöst haben. Chiliflocken nach Geschmack hinzugeben. Die Zucchini bei mittlerer Temperatur ungefähr 40 Minuten lang schmurgeln lassen, bis sie weich sind und fast keine Flüssigkeit mehr im Topf steht. Währenddessen die Pasta zubereiten. Zucchini vom Herd nehmen, Pasta hinzugeben. Geriebenen Parmesan unterheben, ebenso ein paar zerrupfte Basilikumblättchen. Mit Zitronensaft abschmecken.
 1. Es könnte sein, dass sich Semmelbrösel, in der Pfanne mit etwas Olivenöl geröstet, sehr gut auf diesen Nudeln machen.
 
@@ -33787,7 +33047,6 @@ Ein paar Zweige Basilikum (gehackt)
 50 g Pecorino
 
 ### Zubereitung
-
 1. Die hölzernen Enden des Spargels entfernen, Spargel in 0,5 cm dicke Scheiben schneiden. Die Köpfe intakt lassen und für später beiseitestellen. Den geschnittenen Spargel in einen Topf legen, dazu die (ungekochten) Spaghetti, den Knoblauch und die Erbsen. Die Schale der Zitronen abreiben und dazugeben, ebenso Olivenöl und Salz.
 1. In einem Wasserkocher oder einem kleinen Topf einen Liter Wasser zum Kochen bringen und in den Topf gießen. Flüssigkeit aufkochen, bei hoher Temperatur dann das Ganze ohne Deckel ungefähr 8 Minuten lang kochen lassen. Regelmäßig vorsichtig umrühren. Wenn die Flüssigkeit eingekocht ist, Spargelköpfe, Spinat und Basilikum hinzugeben. Saft von einer Zitrone hinzufügen, das Ganze noch mal 2 Minuten lang garen. Schließlich Pecorino hinzufügen.
 
@@ -33814,7 +33073,6 @@ Ein paar Zweige Basilikum (gehackt)
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den Backofen auf 190 Grad (Umluft) vorheizen. Die ersten sechs Zutaten portionsweise fein hacken. 
 1. Das gehackte Gemüse in eine beschichtete ofenfeste Form mit hohem Rand (36x28cm) geben. Öl, Miso-paste, Rosen-Harissa, Tomatenmark, Sojasauce und Kreuzkümmel hinzufügen, alles sorgfältig vermengen und im Ofen 40 Minuten backen, bis das Ganze am Rand braun ist und siedet. Nach der Hälfte der Zeit einmal durchrühren.
 1. Die Ofentemperatur auf 180 Grad (Umluft) reduzieren.
@@ -33835,7 +33093,6 @@ Salz
 450 g Spaghetti
 
 ### Zubereitung
-
 1. Mit dem Messer ein Kreuz in die Tomatenhaut ritzen. In einem kleinen Topf Wasser zum Kochen bringen, die Tomaten für 30 Sekunden hineinlegen. Dann wieder herausnehmen. Die Tomaten, wenn sie etwas abgekühlt sind, schälen und vierteln. In eine Schüssel geben zusammen mit den Basilikumblättchen, Mandeln (die man vorher in einer Pfanne ohne Fett kurz geröstet hat), Petersilienblättchen, Pinienkernen, Salz und Olivenöl. Alles zu einer glatten Masse pürieren.
 1. Wasser aufsetzen, salzen, Spaghetti al dente kochen. Pasta abgießen, etwas eine Suppenkelle Kochwasser aufbewahren. Das Pesto unter die heißen Spaghetti rühren. Falls das Pesto einem zu trocken vorkommt, etwas von dem Kochwasser dazugeben. Mit Pinienkernen garnieren und sofort genießen.
 
@@ -33850,7 +33107,6 @@ Salz
 1 EL frisch gemahlener schwarzer Pfeffer
 
 ### Zubereitung
-
 1. Einen Topf mit großzügig gesalzenem Wasser zum Kochen bringen und die Spaghetti darin zwei Minuten kürzer als auf der Packung angegeben kochen lassen. 
 1. In der Zwischenzeit 120 g des Käses sehr fein reiben und mit dem Pfeffer und 1 EL kaltem Wasser vermengen. Etwas Kochwasser aus dem Topf entnehmen, dann die Spaghetti abgießen.
 1. Die Spaghetti zurück in den Topf geben. Bei mittlerer Temperatur die Käsemischung sowie ein wenig Kochwasser hinzufügen und vermengen, bis sich alles gut miteinander verbunden hat und die Nudeln al dente sind. Den restlichen Käse reiben und vor dem Servieren darüberstreuen. Die Pasta heiß essen.
@@ -33878,7 +33134,6 @@ Piment d‘Espelette
 1 Bund glatte Petersilie
 
 ### Zubereitung
-
 1. Schalotten, Zwiebel und Knoblauch feinhacken. Die Tomaten häuten, nachdem man sie überbrüht und dann abgeschreckt hat, und in Würfel schneiden. Petersilie ebenfalls fein hacken.
 1. Die Koteletts salzen und mit etwas Piment d’Espelette würzen. 
 1. Das Öl in einem schweren Topf erhitzen, darin die Koteletts anbraten. Wenn sie Farbe angenommen haben, Zwiebel, Schalotten und Knoblauch dazugeben und mitdünsten. Die Tomaten hinzufügen, alles vermengen. 
@@ -33896,7 +33151,6 @@ Salz
 Parmesan nach Geschmack
 
 ### Zubereitung
-
 1. In einer großen beschichteten Pfanne Wasser und Safran und einer Prise Salz zum Kochen bringen. Butter hinzufügen. Wenn diese geschmolzen ist, Spaghetti in den Fond geben.
 1. Auf mittlerer Hitze die Flüssigkeit langsam einkochen lassen. Die Pfanne nicht abdecken. Falls das Wasser verkocht ist, bevor die Spaghetti gar sind, noch etwas Wasser nachgießen. Am Ende soll eine Flüssigkeit mehr in der Pfanne stehen. Parmesan reiben und unterrühren. Sofort servieren.
 
@@ -33917,7 +33171,6 @@ Das Gericht ist in Italien offenbar ein fast gewöhnliches Gericht, ein naher Ve
 Salz
 
 ### Zubereitung
-
 1. Spaghetti in einen Topf mit sprudelndem Salzwasser geben. In einer Pfanne Butter zerlassen und die beiden angedrückten Knoblauchzehen dazugeben, gehackte Chilischote und Salz hinzufügen und alles ungefähr 5 Minuten lang dünsten.
 1. Knoblauchzehen entfernen, Spaghetti 2 Minuten vor Ende der auf der Packung angegebenen Garzeit in die Butter geben, umrühren.
 1. Die Blätter von den Kräuterzweigen zupfen und unter die Spaghetti heben. 1 bis 2 Kellen vom Spaghettiwasser in die Pfanne gießen und einkochen lassen. Und schwuppiwupp ist das Essen fertig 😊!
@@ -34079,7 +33332,6 @@ Salz und Pfeffer
 250 g Spaghetti
 
 ### Zubereitung
-
 1. Oliven entsteinen, zusammen mit den Blättchen der Kräuter, dem Knoblauch, Pinienkernen, Olivenöl und Chilischote mit dem Pürierstab zu einer glatten Paste zerkleinern.
 1. Spaghetto in reichlich Salzwasser kochen, abgießen, auf zwei Teller verteilen und die Paste unterheben, eventuell noch etwas Olivenöl darüberträufeln.
 
@@ -34261,7 +33513,6 @@ Salz, Pfeffer
 2 Knoblauchzehen
 
 ### Zubereitung
-
 1. Die Spaghetti al dente kochen.
 1. Die Zucchini putzen, waschen und grob raspeln. Den Schafskäse zerbröckeln. Das Zitronenbasilikum waschen und trocken schütteln, die Blätter abzupfen und grob hacken. Die Zitronen heiß waschen und trocken reiben. Eine Zitrone in Spalten schneiden, von der anderen Zitrone die Schale abreiben und den Saft auspressen.
 1. Das Olivenöl in einer Pfanne erhitzen und die Zucchini darin 1 bis 2 Minuten andünsten. Den Knoblauch schälen, in feine Würfel schneiden und etwa 2 Minuten mitdünsten. Die Nudeln in ein Sieb abgießen und abtropfen lassen. Mit der Zitronenschale und dem Schafskäse unter die Zucchini rühren und falls nötig etwas Nudelwasser dazugeben.
@@ -34286,7 +33537,6 @@ Etwas Olivenöl
 Frisch geriebenen Parmesan
 
 ### Zubereitung
-
 1. Für die Pasta gesalzenes Wasser zum Kochen bringen. Knoblauch schälen und andrücken. In einer hohen Pfanne Öl, Knoblauch, Salz und Chili erhitzen. Ab und zu umrühren, bis der Knoblauch weicher wird, dabei nicht bräunen lassen. Mit Rotwein ablöschen. Rosmarinzweig hineinlegen. Flüssigkeit zum Kochen bringen. 
 1. In der Zwischenzeit die Spaghetti in das kochende Wasser geben, ungefähr 2 Minuten lang garen. Dann herausnehmen und in die Pfanne mit dem köchelnden Rotwein geben. Brühwürfel dazugeben. Ab und zu umrühren, bis die Spaghetti gar sind. Die Flüssigkeit sollte zum Großteil eingekocht sein. Zum Schluss Rosmarinzweig und Knoblauch entfernen. Die Pasta auf Tellern verteilen, mit Parmesan bestreuen.
 
@@ -34306,7 +33556,6 @@ Salz
 400 g Spaghetti
 
 ### Zubereitung
-
 1. Zunächst die Tomatenbrühe herstellen. Dazu Tomatenmark mit dem Wasser vermengen und salzen. In einen kleinen Topf geben und aufkochen, leicht köcheln lassen.
 1. Knoblauchzehen schälen, mit der breiten Seite des Messers zerdrücken, dann fein hacken. Kerne der Chilischote entfernen, Schote fein hacken. Olivenöl in eine große gusseiserne Pfanne geben. Die Pfanne oder der Topf sollten so groß sein, dass die Spaghetti der Länge nach gut hineinpassen.
 1. Olivenöl erhitzen. Knoblauch und Chili darin anbraten, nicht braun werden lassen. Passierte Tomaten und Zucker dazugeben, alles aufkochen. Dann die Spaghetti hineinlegen. Man belässt sie im heißen Öl, bis sie unten ansetzen, dann erst werdet man sie, wobei man darauf achtet, dass sie parallel liegen bleiben. Wieder lässt man die Spaghetti einen guten Augenblick einfach liegen, bis sie fast anbrennen. Sie dürfen, ja müssen dunkelbraun erden, Das Ganze geht eine Weile so weiter, bis die Spaghetti alle etwas angebrannt sind oder eine Kruste bekommen haben. Dann wird die Brühe nach Art eines Risottos dazugegossen. Die nächste Kelle erst, wenn die Flüssigkeit verdampft ist. Den Vorgang wiederholen, bis die Spaghetti gar sind. Auch jetzt können sie ein bisschen am Topf anbrennen, sodass die Tomatensauce etwas karamellisiert.
@@ -34398,7 +33647,6 @@ Tipp: Sieht einfach super aus!
 6 EL Olivenöl
 
 ### Zubereitung
-
 1. Knoblauchzehen in Olivenöl anbraten, Kapern und Oliven dazugeben und alles kurz anschwitzen.
 1. Al dente gekochte Spaghettoni dazugeben, etwas mitgaren und etwas (1 EL) Nudelkochwasser dazugeben. Mit gehackter Petersilie bestreuen.
 
@@ -34436,7 +33684,6 @@ Info:	Die Ligurier kennen drei wichtige Verwertungen für Pesto: als schwimmende
 Salz
 
 ### Zubereitung
-
 1. In einem breiten Topf 1,3 l Wasser bei mittlerer bis starker Hitze zum Kochen bringen und mit ¾ TL Salz würzen. Die Bucatini hineingeben und je nach Packungsangabe al dente garen. Ab und zu umrühren, damit sie nicht aneinanderkleben oder ansetzen und stets mit Wasser bedeckt sind. Abgießen und das Kochwasser auffangen (es sollten etwa 320 ml sein, mit etwa heißem Wasser auffüllen, falls nötig)
 1. Die Butter in einer großen beschichteten Pfanne mit hohem Rand bei starker Hitze aufschäumen lassen, Za’atar und Pfeffer hineingeben und unter Rühren 1 Minute anrösten. Das Kochwasser dazugießen, rasch zum Sieden bringen und 5 Minuten sprudelnd kochen lassen bis die Mischung leicht reduziert ist und seidig glänzt. Die Pasta in die Pfanne geben und zügig unter die Sauce rühren. In zwei Portionen den Parmesan hineinstreuen und vor der nächsten Zugabe energisch umrühren, bis sich der Käse vollständig aufgelöst hat. Sobald sämtlicher Parmesan geschmolzen ist, den Pecorino untermischen und unter Rühren schmelzen lassen. Die Sauce sollte am Ende glatt und cremig sein.
 1. Die Pasta auf einer großen Platte anrichten und mit dem Öl, Majoran sowie dem restlichen Za’atar und 1 kleinen Prise Salz abrunden. SOFORT servieren.
@@ -34473,7 +33720,6 @@ Salz, Pfeffer aus der Mühle
 Frisch geriebener Parmesan zum Servieren
 
 ### Zubereitung
-
 1. Die Bucatini al dente kochen. Abtropfen und wieder in den Topf geben.
 1. Kurz bevor die Pasta gar ist, das Olivenöl in einer Bratpfanne bei niedriger Hitze erwärmen und den Knoblauch zugeben. Das Knoblauchöl 1 Minute durchziehen lassen, dann vom Herd nehmen.
 1. Das Öl an die Pasta gießen, die Petersilie unterziehen und alles Zutaten gut mengen. Mit Parmesan bestreuen und servieren.
@@ -34515,7 +33761,6 @@ Petersilie
 250 g Bucatini
 
 ### Zubereitung
-
 1. Butter in einer beschichteten Pfanne erhitzen. Champignons zugeben und bei mittlerer Hitze goldbraun braten. Dann 1-2 Knoblauchzehen und Mascarpone einrühren. 
 1. Bei schwacher Hitze rühren bis der Mascarpone verlaufen und die Sauce glatt ist. Ist sie noch zu dick, etwas Sahne zufügen. Mit Salz und Pfeffer abschmecken; nun frisch gehackte Petersilie zugeben. Mit den al dente gekochten Nudeln vermengen und sofort servieren.
 
@@ -34718,7 +33963,6 @@ Fett für die Form
 ¼ teaspoon Worchestersauce
 
 ### Zubereitung
-
 1. Maccheroni kochen.
 1. Butter bei niedriger Temperatur schmelzen. Mehl, Salz, Pfeffer, Senfpulver und Worchestershiresauce dazugeben. 
 1. Bei mittlerer Hitze glatt und blasig kochen. Von der Herdplatte nehmen und milch hinzugeben. Aufkochen lassen und 1 Minute kochen lassen. Cheddar dazugeben und schmelzen lassen.
@@ -34760,7 +34004,6 @@ Fett für die Form
 Salz
 
 ### Zubereitung
-
 1. In einer großen Pfanne das Öl erhitzen und die geschälten Knoblauchzehen und die zerkleinerte Chilischote goldbraun braten. Hitze herunterschalten und 2 EL gehackte Petersilie, die Oliven (große Stücke), die abgetropften Kapern und den Oregano dazugeben und durchmischen. Dann die gehackten Tomaten dazugeben. Erneut die Hitze erhöhen. Sobald die Sauce zu kochen anfängt, herunterschalten, salzen und zuckern. Die Sauce für ca. 15 Minuten kochen lassen, die erste Hälfte der zeit mit Deckel, die zweite Hälfte ohne Deckel. 
 1. Al dente gekochte mit dem Basilikum zur Sauce geben.
 
@@ -34779,7 +34022,6 @@ Saft von 1 Zitrone
 120 ml Gemüsebrühe
 
 ### Zubereitung
-
 1. Basilikumblätter von den Stängeln zupfen und mit dem Chili, dem Knoblauch, den Pinienkernen, dem geriebenen Parmesan, dem Zitronensaft, dem Öl und Honig glatt pürieren.
 1. Die Kräutermasse mit der Sahne und der Brühe in einem großen Topf zum Kochen bringen und 15 – 20 Minuten köcheln lassen, bis die Sauce eindickt. Mit Steakpfeffer abschmecken.
 1. Nudeln al dente kochen. Pasta zur Sauce geben und gut vermengen.
@@ -34881,7 +34123,6 @@ Basilikum
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Auberginen waschen und in dicke Scheiben schneiden. Schichtweise mit 2 EL grobem Salz bestreut in eine Nudelsieb legen. Die Auberginenscheiben eine gute halbe Stunde im Salz belassen, dann sorgfältig abwaschen, vom Wasser ausdrücken und mit Küchenpapier abtrocknen. Ann in kleine Stücke schneiden.
 1. Die Knoblauchzehen schälen und von allen Seiten mit 10 EL Olivenöl goldbraun andünsten. Die geschälten Tomaten, die Auberginenstücke, den Zucker, das Salz und das Basilikum hinzugeben. 10 Minuten ohne Deckel köcheln lassen, dann die Tomaten mit einer Gabel zerdrücken, damit ihr Saft austritt. Sorgfältig vermengen, die Sauce weiter 5 Minuten kochen lassen und dann vom Herd nehmen. Sofort viel geriebenen Käse darüberstreuen und mit den Penne aus der Pfanne servieren.
 
@@ -34906,7 +34147,6 @@ Salz, Pfeffer
 1-2 EL Ahornsirup
 
 ### Zubereitung
-
 1. Sesam ohne Fett und unter ständigem Rühren bei mittlerer Hitze in einer kleinen Pfanne goldbraun anrösten und abkühlen lassen. Schalotten fein würfeln und in einer großen Pfanne langsam auf kleiner Flamme in Öl braten, bis sie glasig sind. Den Knoblauch in kleine Würfel schneiden, zu den Zwiebeln geben und kurz andünsten.
 1. Kräuterseitlinge in fingerdicke Scheiben schneiden und ebenfalls in die große Pfanne geben. Pilzscheiben ab und zu wenden, bis sie leicht goldbraun sind. Die Petersilie (inklusive Stängeln) hacken und die Hälfte davon 4 Minuten mitdünsten lassen. Die Pfanne vom Herd nehmen und das Ganze salzen, pfeffern und abkühlen lassen.
 1. Penne al dente kochen.
@@ -35032,7 +34272,6 @@ Salz, Pfeffer, Muskat
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Die Pilze putzen, trocken reiben und in Scheiben schneiden. Die Zwiebel schälen und in feine Würfel schneiden. Die Tomaten in ein Sieb abgießen, dabei den Saft auffangen. Tomaten in Würfel schneiden und die Stielansätze entfernen.
 1. Die Penne al dente kochen. Das Olivenöl in einer Pfanne erhitzen und die Zwiebeln darin andünsten. Die Pilze hinzufügen und dünsten, bis die entstandene Flüssigkeit vollständig verdampft ist. Mit Salz und Pfeffer würzen. Die Tomaten dazugeben, alles gut mischen und abschmecken.
 1. Das Basilikum waschen und trocken schütteln, die Blätter abzupfen und grob zerkleinern. Die Nudeln in ein Sieb gießen und mit de Tomatensauce mischen. 
@@ -35079,7 +34318,6 @@ Salz, Pfeffer
 1-2 EL Zitronensaft
 
 ### Zubereitung
-
 1. Die Rigatoni al dente kochen.
 1. Inzwischen die Tomaten abtropfen lassen und grob hacken. Den Knoblauch schälen. Das Basilikum waschen, trocken schütteln und die Blätter abzupfen.
 1. Tomaten, Knoblauch, die Hälfte des Basilikums, die Pinienkerne, den Pecorino und den Essig mit 1-2 EL Olivenöl zu einem sämigen Pesto pürieren, dabei nach und nach das restliche Olivenöl einfließen lassen.
@@ -35095,7 +34333,6 @@ Salz, Pfeffer
 6 EL Olivenöl
 
 ### Zubereitung
-
 1. In einer Pfanne den in Streifen geschnittenen Speck anbraten, bis er knusprig ist.
 1. Rigatoni al dente kochen. 2 -3 EL des Nudelwassers auffangen. Die Nudeln in der Pfanne sautieren.
 1. Die Nudeln mit dem Käse und dem gemahlenen Pfeffer anrichten und sehr warm servieren
@@ -35156,7 +34393,6 @@ Salz
 1 Bund Koriandergrün
 
 ### Zubereitung
-
 1. Knoblauch schälen und hacken. Öl mit Knoblauch, Chiliflocken und 1 Prise Salz in einer Pfanne mit hohem Rand erwärmen, den Knoblauch nicht braun werden lassen. Tomaten hinzufügen. 30 Minuten lang einkochen. Ab und zu umrühren und die Tomaten mit einem Kochlöffel zerdrücken.
 1. Penne in Salzwasser kochen, abgießen und zu den Tomaten geben. Wodka hinzugießen, alles vermischen. Dann die Sahne hinzufügen. Noch mal zugedeckt bei niedriger Hitze ziehen lassen. Korianderblättchen von den Stielen zupfen, fein hacken und unterrühren.
 
@@ -35233,7 +34469,6 @@ Je 2 TL scharfes geräuchertes Paprikapulver und gemahlener Kreuzkümmel
 500 ml Gemüsebrühe
 
 ### Zubereitung
-
 1. Die ersten sechs Zutaten und ½ TL Salz in einer großen Schmorpfanne mit Deckel vermengen und alles bei mittlerer bis starker Hitze 12 Minuten anbraten, bis die Kichererbsen leicht knusprig sind, dabei ab und zu umrühren. Ein Drittel der Kichererbsen herausnehmen und für später beiseitestellen.
 1. In einer kleinen Schüssel Petersilie, Zitronenschale, Kapern und Oliven vermengen. Zwei Drittel der Mischung in die Pfanne geben, gefolgt von Tomaten, Zucker und Kümmel. Unter häufigem Rühren bei mäßiger bis starker Hitze 2 Minuten erhitzen. Die Orecchiette, die Brühe, ¾ TL Salz und 200 ml Wasser dazugeben und das Ganze zum Köcheln bringen. Die Hitze auf mittlere Stufe stellen und 12-14 Minuten garen, bis die Pasta al dente ist.
 1. Den Rest der Petersilienmischung unterrühren und die Pasta mit den restlichen 2 EL Öl beträufeln- Mit den knusprig gebratenen Kichererbsen garnieren und vor dem Servieren reichlich Pfeffer darübermahlen.
@@ -35285,7 +34520,6 @@ Pfeffer aus der Mühle
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Das Olivenöl in einem Topf bei hoher Temperatur erhitzen. Zwiebel, Knoblauch, Kreuzkümmel, Thymian, Zitronenschale sowie ½ TL Salz und 1 kräftige Prise Pfeffer hineingeben und alles 3 – 4 Minuten goldgelb anschwitzen, regelmäßig umrühren. Die Hitze ein wenig herunterschalten, die Kichererbsen und den Zucker hinzufügen und 8 Minuten unter gelegentlichem Rühren mitbraten, bis die Kichererbsen braun und knusprig werden. Die Brühe und den Zitronensaft zugießen und 6 Minuten köcheln lassen, bis die Sauce ein wenig eingekocht ist. Vom Herd nehmen und beiseitestellen. 
 1. Nudeln al dente kochen. Abgießen und beiseitestellen.
 1. Den Spinat und die Petersilie unter die Kichererbsen rühren – die Resthitze sollte ausreichen, um den Spinat zu garen, wenn nicht, einfach alles noch einmal behutsam erwärmen. Die Pasta unter die Kichererbsen mengen, auf Teller verteilen und mit Za’atar bestreuen. Mit ein paar Tropfen Olivenöl abrunden und servieren.
@@ -35331,7 +34565,6 @@ Info:	Kichererbsen, die in Italien ceci heißen, stammen ursprünglich aus der M
 Salz
 
 ### Zubereitung
-
 1. Das Öl in einer großen Pfanne bei mittlerer bis hoher Temperatur erhitzen. Sobald es heiß ist, die Zwiebelringe hineingeben und 8 Minuten anbraten, bis sie weich und goldbraun sind; gelegentlich umrühren. Harissa, Tomaten, Oliven, Kapern und ½ TL Salz hinzufügen und 3 – 4 Minuten unter häufigem Rühren mitgaren, bis die Tomaten langsam zerfallen. Nun 200 ml Wasser unterrühren, sobald die Mischung kocht, die Hitze herunterschalten und die Sauce zugedeckt weitere 10 Minuten köcheln lassen. Den Deckel abnehmen und die Sauce noch 4 – 5 Minuten eindicken lassen. Zuletzt zwei Drittel der Petersilie unterrühren und den Topf beiseitestellen.
 1. Inzwischen die Nudeln al dente kochen. Abschütten.
 1. Die Pasta zurück in den Topf geben, die Harissa-Sauce und 1 Prise Salz hinzufügen und alles sorgfältig vermengen. Auf Teller verteilen, mit einem Löffel Joghurt und der restlichen Petersilie garnieren und heiß servieren.
@@ -35352,7 +34585,6 @@ Ungefähr 600 g Zucchini
 250 g Pappardelle
 
 ### Zubereitung
-
 1. Zucchini reiben und mit Salz eine halbe Stunde langziehen lassen. Die Zucchini geben dann einen Teil ihrer Flüssigkeit ab, diese gießt man ab. Die Zucchiniraspel mit der Hand fest ausdrücken. Dann vermengen mit Olivenöl, grob gehakter Chilischote, Basilikum- und Petersilienblättchen, Kapern, gerösteten Pinienkernen, Knoblauch und Parmesan. 
 1. 3 EL Pastakochwasser dazu. Alles mit dem Pürierstab zu einer glatten Masse mixen. Diese in etwas Öl in einer Pfanne erhitzen, die heißen Pappardelle hineingeben. Eventuell am Ende noch etwas Parmesan darüberstreuen.
 
@@ -35418,7 +34650,6 @@ Salz, Pfeffer
 Salz
 
 ### Zubereitung
-
 1. In einem Topf 5 EL Öl bei mittlerer bis hoher Temperatur erhitzen und den Knoblauch darin bis zu 1 Minuten anbraten, bis er goldbraun wird. Ab und zu umrühren. Die Tomaten zugeben sowie Zucker, Chili und ½ TL Salz, dann 200 ml Wasser zugießen und 4 Minuten rühren, bis die Tomaten allmählich zerfallen und die Mischung kocht. Die Hitze herunterschalten, die Tomaten etwa 1 Stunde garen und hin und wieder umrühren, bis sie zu einer dicken Sauce zerkocht sind. Das Basilikum unterrühren und die Sauce warm stellen.
 1. In einem großen Topf Wasser und Salz zum Kochen bringen. Die Pasta hineingeben und nach Packungsangabe al dente garen. Abtropfen lassen und unter die Sauce rühren. Auf Teller verteilen, mit dem restlichen Öl (1 EL) beträufeln, mit Parmesan bestreuen und servieren.
 
@@ -35478,7 +34709,6 @@ Salz, Pfeffer
 2 EL frische glatte Petersilie, feingehackt
 
 ### Zubereitung
-
 1. Die Champignons sorgfältig putzen. Hüte und Stiele fein schneiden.
 1. Die Zwiebel grob hacken. Das Öl in einer gußeisernen Pfanne erhitzen und die Zwiebel und den Knoblauch bei Mittelhitze unter gelegentlichem Rühren 6 Minuten goldgelb dünsten. Die Tomaten im Saft und die Pilze zugeben, dann aufkochen lassen. Bei Niedrighitze abgedeckt 15 Minuten köcheln lassen.
 1. Unterdessen die Fettucine in einem großen Topf mit sprudelndem Salzwasser al dente kochen. Abtropfen und wieder in den Topf geben.
@@ -35681,7 +34911,6 @@ Salz und Pfeffer
 2 EL gemahlener Mohn
 
 ### Zubereitung
-
 1. Nudeln al dente kochen.
 1. Zwei Orangen auspressen, die dritte schälen und die Filets aus den Häutchen trennen. Filets halbieren. Nüsse grob hacken.
 1. Butter erhitzen, Mohn darin schwenken. Orangensaft, Nüsse und Orangenfilets darin erhitzen. Nudeln abtropfen lassen und mit der Sauce mischen.
@@ -35739,7 +34968,6 @@ Salz, Pfeffer
 50 g Parmesan
 
 ### Zubereitung
-
 1. Kartoffeln in Salzwasser 30 bis 40 Minuten garen. Etwas abkühlen lassen, pellen, durch die Kartoffelpresse drücken oder sehr fein stampfen. Das Mehl auf die Arbeitsfläche sieben, in die Mitte eine Kuhle drücken. Kartoffeln mit dem verquirlten Ei und einer Prise Salz in die Kule geben. Alles mit den Händen gut durchkneten, bis der Teig glatt und homogen ist. Diesen zu fingerdicken, länglichen Rollen formen; die Arbeitsfläche von Zeit zu Zeit mit Hartweizengrieß bestreuen, um ein Ankleben zu vermeiden.
 1. Rollen in gnocchigroße Stücke schneiden. Mit einer Gabel mit leichtem Druck über die Oberfläche der Gnocchi ziehen. Jeweils eine Handvoll Gnocchi in leicht siedendes Salzwasser geben; sobald sie an die Oberfläche steigen, mit einer Schöpfkelle herausnehmen.
 1. Für die Soße Olivenöl mit Butter in einer Pfanne erhitzen. Die warmen Gnocchi hinzugeben und leicht anbraten. Mit einem Schuss Weißwein und etwas Sahne ablöschen, Salz, Pfeffer und frische Salbeiblätter beigeben. Einige Minuten ziehen lassen, damit der Geschmack der Salbeiblätter in die Soße übergeht. Mit frisch geriebenem Parmesan bestreuen.
@@ -35791,7 +35019,6 @@ Zitronensaft
 100 g grob gehobelter Parmesan
 
 ### Zubereitung
-
 1. Kartoffeln mit Schale weichkochen, sehr gut ausdampfen lassen, dann schälen.
 1. Durch die Kartoffelpresse drücken und Mehl, Grieß, geriebenen Parmesan, Quark, Eigelb, Salz und Muskat untermischen. Masse zu Gnocchi formen.
 1. In kochendem Salzwasser 1 – 2 Minuten blanchieren, kalt abschrecken und abtropfen lassen. 
@@ -35811,7 +35038,6 @@ Zitronensaft
 Butter, Parmesan, ein paar frische Salbeiblätter
 
 ### Zubereitung
-
 1. Den Ricotta in einer Schüssel mit einer Gabel zerdrücken und verrühren. Dann das Ei hineinschlagen, weiterrühren, schließlich Parmesan und Salz dazugeben. Das Mehl nach und nach hinzufügen: jeweils etwa eine Handvoll mit den Händen unterheben, bis ein teig entsteht. Den Teig richtig gut durchkneten. Sobald er etwas fester ist, auf einer Arbeitsplatte weiterkneten.
 1. Schließlich mit einem Nudelholz etwa 2 cm dick ausrollen und in 2 cm breite Streifen schneiden. Die Streifen mit den Handflächen zu langen Würstchen rollen, etwa 1 cm dick. Dann in 1 cm lange Stücke schneiden.
 1. Einen großen Topf mit Salzwasser aufsetzen. Sobald das Wasser kocht, die Hitze auf mittlere Temperatur schalten und die Gnocchi hineingeben. Wenn sie an die Wasseroberfläche steigen, sind sie gar, das dauert je nach Dicke etwa 2 bis 3 Minuten.
@@ -35832,7 +35058,6 @@ Gnocchi sehen lieb und harmlos aus, wie Marshmallows, aber bei der Zubereitung f
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den Backofen auf 180 Grad Umluft vorheizen.
 1. Butter und Milch in einem Topf mit 1 TL Salz und 1 kräftigen Prise Pfeffer würzen und bei mittlerer bis hoher Temperatur erhitzen. Sobald die Butter geschmolzen ist und die Milch zu sieden beginnt, vom Herd nehmen. Grieß, Muskatnuss, Parmesan und die Eigelbe zugeben und mit einem Schneebesen glattrühren. Wieder auf den Herd stellen und rühren, bis die Masse dick wird. Noch 3 – 4 Minuten weiterrühren, bis sich die Masse vom Topfrand löst, dann 15 Minuten abkühlen lassen – nicht länger, sonst wird sie zu fest und bröckelt, wenn man sie rollt.
 1. Zwei Stücke Frischhaltefolie (30 x 50 cm) auf der Arbeitsfläche ausbreiten und jeweils die Hälfte der Gnocchi-Masse daraufgeben. Zu zwei Rollen (etwa 4 cm Durchmesser) formen, in die Folie wickeln und für mindestens 2 Stunden in den Kühlschrank legen, damit die Masse fest wird. Die Folie entfernen, die Gnocchi-Rollen in 1 cm dicke Scheiben schneiden und leicht überlappend in Reihen in eine ofenfeste Form legen. Mit dem Cheddar bestreuen und im Ofen 15 Minuten backen, bis der Käse geschmolzen ist.
@@ -35966,7 +35191,6 @@ Parmesan
 Tortellini
 
 ### Zubereitung
-
 1. Die Butter in der Pfanne zerlassen. Schinken und Pilze darin schwenke. Tomatenmark dazugeben, ebenso Crème Fraîche und Sahne. 
 1. Tortellini kochen.
 1. Tortellini zu der Soße geben und kurz mitgaren.
@@ -36124,7 +35348,6 @@ Olivenöl für die Form
 1/8 l trockener Weißwein
 
 ### Zubereitung
-
 1. Die Pilze putzen und in dünne Scheiben schneiden. Die Zwiebel und den Knoblauch schälen und in feine Würfel schneiden. In einer Pfanne 2 EL Olivenöl erhitzen, zuerst Zwiebel und Knoblauch, dann die Pilze hinzufügen und andünsten. Vom Herd nehmen und abkühlen lassen.
 1. Die Basilikumblätter waschen, trocken tupfen und in feine Streifen schneiden. Den Mozzarella würfeln und die Hälfte davon mit Ricotta, Basilikum, Parmesan und Ei in einer Schüssel mischen. Die Pilze (bis auf 2 EL) unter die Ricottamasse mischen, mit Salz und Pfeffer würzen.
 1. Den Backofen auf 200 grad vorheizen. Die Füllung mit einem Löffel in die Cannelloni geben und diese in eine gefettete Auflaufform legen. Die Tomaten mit Wein, den restlichem Olivenöl und den übrigen Pilzen verrühren. Mit etwas Pfeffer würzen und über den Nudeln verteilen. Den restlichen Mozzarella darüberstreuen und die Cannelloni im heißen Ofen auf mittlerer Schiene 30 bis 35 Minuten backen. Mit Basilikum garnieren.
@@ -36177,7 +35400,6 @@ Pfeffer, Salz
 40 g Parmesan
 
 ### Zubereitung
-
 1. Cannelloni in Salzwasser bissfest kochen. 
 1. Walnüsse ohne Fett anröste, abkühlen lassen und grob hacken. 
 1. Ricotta durch ein Sieb streichen. Kräuter fein schneiden.
@@ -36204,7 +35426,6 @@ Für die Bechamelsauce:
 Salz, Muskatnuss
 
 ### Zubereitung
-
 1. Für die Sauce Butter in einem Topf zerlassen, Mehl dazugeben und kurz anschwitzen. Heiße Mich dazugeben und verquirlen. Mit Salz und Muskatnuss abschmecken und nochmals aufkochen lassen.
 1. Für die Füllung Spinat in kochendem Salzwasser garen, abgießen und grob hacken. Zwiebel glasig dünsten. Spinat und Ricotta dazugeben und 1 Minute köcheln lassen. Vom Herd nehmen und Salz, Pfeffer und Parmesan dazugeben. Cannelloni mit der Füllung füllen.
 1. Eine feuerfeste Form mit Butter einfetten und eine Schicht Bechamelsauce auf dem Boden verteilen. Cannelloni darauflegen und mit der restlichen Sauce bedecken. Mit etwas Parmesan bestreuen. 
@@ -36491,7 +35712,6 @@ Salz, Muskatnuss
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Den Backofen auf 230 Grad (Umluft) vorheizen.
 1. Die Champignons und die Austernpilze fein zerhacken. Die gehackten Pilze in einer großen Schüssel mit 3 EL Olivenöl und 1 TL Salz mischen. Auf einem tiefen, mit Backpapier ausgelegten Backblech verteilen. 30 Minuten auf der oberen Schiene rösten, bis die Pilze goldbraun sind, dabei dreimal durchrühren. Danach haben sie deutlich an Volumen verloren. Beiseitestellen. Die Ofentemperatur auf 200 Grad (Umluft) reduzieren.
 1. Inzwischen die getrockneten Pilze und Chilis mit der heißen Brühe in eine große Schüssel geben und 30 Minuten einweichen. Die Flüssigkeit durch ein Sieb in eine andere Schüssel gießen, dabei die Pilze kräftig ausdrücken, um etwa 340 ml Flüssigkeit zu erhalten. Wenn es weniger ist, mit Wasser auffüllen. Die eingeweichten Pilze grob und die Chilis fein hacken. Brühe sowie Pilze und Chilis getrennt beiseitestellen.
@@ -36525,7 +35745,6 @@ Salz, Pfeffer
 6 – 8 Lasagneblätter
 
 ### Zubereitung
-
 1. Basilikumblätter, Knoblauch, Pinienkerne, Käse, Salz und 100 ml Öl pürieren. Mac und den Rest des Öls untermischen.
 1. Knoblauch fein hacken. Butter im Topf erhitzen und das Mehl darin anschwitzen. Milch unter Rühren zugießen und Knoblauch zufügen. Sauce ca. 3 Minuten köcheln lassen und mit Salz und Pfeffer würzen.
 1. In einer gefetteten Auflaufform erst Sauce, dann Lasagneplatten, Pinienkerne, etwas Mozzarella, Pesto und Parmesan schichten. Mit Pesto, Sauce, Käse und Pinienkerne abschließen und bei 180 Grad ca. 40 Minuten backen.
@@ -36644,7 +35863,6 @@ Olivenöl
 100 g frischer Parmesan
 
 ### Zubereitung
-
 1. Backofen auf 200 °C vorheizen. die Zutaten für die Marinade mit dem Schneebesen verrühren.
 1. Die Paprikaschote längs halbieren, Kerne und Trennwände entfernen. Das Fleisch in große, flache Stücke schneiden. Anschließend grillen, bis die Haut schwarz wird und Blasen wirft. Auf einem Schneidebrett unter einem feuchten Küchentuch abkühlen lassen. Enthäuten und das Fleisch in breite Streifen schneiden. Paprikastreifen und restliches Gemüse in eine große Auflaufform geben und mit der Hälfte der Marinade begießen. 15 Minuten im Backofen backen, wenden und mit der übrigen Marinade auffüllen. Dann noch weitere 15 Minuten backen.
 1. Nun immer Nudeln, Zucchini, und Süßkartoffel, Pesto und Mozzarella, Nudel, Aubergine und roter Paprika, Nudeln, Tomaten, Pesto und Mozzarella und dann wieder Nudel in eine gefettete Auflaufform schichten.  Oberfläche mit Olivenöl bepinseln und mit geriebenem Parmesan bestreuen. In 15 – 20 Minuten durchbacken.
@@ -36661,7 +35879,6 @@ Salz
 120 – 160 ml Wasser
 
 ### Zubereitung
-
 1. Mehl, Eier, Salz und Wasser in einer Schüssel zu einem glatten Teig verrühren. Den Teig so lange schlagen, bis er Blasen wirft.
 1. Den Teig 10-20 Minuten ruhen lassen. Wasser in einem hohen, weiten Topf zum Kochen bringen. Salz dazugeben. Eine Schüssel mit kaltem Wasser bereitstellen. Hobel, Presse oder Brett kurz unter kaltem Wasser abspülen.
 1. 1-2 EL Teig in den Hobel oder die Presse geben. Spätzle in das kochende Wasser pressen, schaben oder hobeln. Die Unterseite der Presse mit einem Messer abschaben. Einmal kurz umrühren, damit die Spätzle nicht verkleben. Sobald die Spätzle an der Oberfläche schwimmen, mit dem Schaumlöffel die Spätzle abschöpfen, abschrecken, gut abtropfen lassen und im Ofen warmhalten.
@@ -36683,7 +35900,6 @@ Tipp:	Normalerweise rechnet man 100 g Mehl pro Person. Ist aber der Ruderer Simo
 Pfeffer, Muskat
 
 ### Zubereitung
-
 1. Den Spinat auftauen lassen und mit einem Teil des Wassers fein pürieren. Den Spinat mit den übrigen Teig### Zutaten verschlagen, bis der Teig Bläschen wirft. Den Teig etwas ruhen lassen.
 1. In einem großen Topf Wasser mit Salz zum Kochen bringen. Den Teig portionsweise in das kochende Wasser pressen bzw. hobeln. Wenn die Spätzle oben schwimmen, diese mit einem Schaumlöffel aus dem Topf nehmen, etwas abtropfen lassen und warmhalten.
 1. Falls man frischen Spinat verwendet, benötigt man die doppelte Menge. Am besten man blanchiert das Gemüse bevor man es püriert.
@@ -36697,7 +35913,6 @@ Salz, Muskatnuss
 1 Prise getrockneter Majoran
 
 ### Zubereitung
-
 1. Die Kartoffeln durch die Spätzlepresse drücken oder fein reiben. Mit dem Mehl, den Eiern und den Gewürzen zu eine, zähflüssigen Teig verarbeiten. Bei Bedarf etwas Mineralwasser hinzugeben. Den Teig so lange schlagen, bis er Blasen wirft.
 1. In einem großen Topf Wasser mit Salz zum Kochen bringen. Den Teig portionsweise mit Hilfe der Spätzlepresse oder eines Hobels ins Wasser pressen bzw. hobeln.
 1. Wenn die Spätzle oben schwimmen, diese mit einem Schaumlöffel aus dem Topf nehmen, etwas abtropfen lassen und warmhalten.
@@ -36712,7 +35927,6 @@ Salz, Muskatnuss
 200 g saure Sahne
 
 ### Zubereitung
-
 1. Das Mehl mit den Eiern, Öl, Salz und Muskatnuss verschlagen, bis der Teig Blasen wirft. Den Teig 20 Minuten ruhen lassen.
 1. Inzwischen die Bärlauchblätter waschen und trockenschütteln. Mit der Sahne fein pürieren und die Masse mit dem Teig verrühren. Bei Bedarf den Teig mit etwas Wasser verdünnen.
 1. Spätzle portionsweise garen. Wenn die Spätzle oben schwimmen, mit einem Schaumlöffel herausheben, abtropfen lassen und warm stellen.
@@ -36838,7 +36052,6 @@ Info:	Mmmh. Lecker, auch wenn ich eher die Maultaschen einfach von Bürger kaufe
 ½ Bund Koriandergrün, mit Stielen fein gehackt
 
 ### Zubereitung
-
 1. Die Wan-Tan-Blätter 20 – 30 Minuten auftauen lassen. Die Dip### Zutaten verrühren.
 1. Die Süßkartoffel schälen, klein würfeln, garkochen, abtropfen lassen und beiseitestellen. Die Schalotten in einer Pfanne mit Sonnenblumenöl anbräunen. Den Knoblauch und den Ingwer dazugeben und heiß anbraten. Die Shiitake unterrühren und 1 Minute mitbraten. Die Mischung mit Sojasauce ablöschen, den Spinat dazugeben und alles mit dem Salz, dem Agavendicksaft du den Chiliflocken würzen. Noch einige Sekunden köcheln lassen, dann vom Herd nehmen. Die Süßkartoffel mit einer Gabel zerdrücken und zusammen mit dem Koriander in die Spinatmischung einrühren.
 1. Die Wan-Tan-Blätter auf einer trockenen Arbeitsfläche ausbreiten. Je 1 EL Füllung in die Mitte jedes Blattes setzen. Die Blätter am Rand leicht mit Wasser anfeuchten, diagonal zusammenklappen und die Ränder zusammendrücken, dann die beiden gegenüberliegenden Ecken des Dreiecks zusammenführen und zusammendrücken.
@@ -37060,7 +36273,6 @@ Trockengemüse wird erst getrocknet und dann in Salzlake eingelegt. Bei uns gibt
 1 kräftige Prise Meersalzflocken
 
 ### Zubereitung
-
 1. Den Backofen auf 150 Grad (Umluft) vorheizen. Eine Auflaufform zum Aufwärmen in den Ofen stellen. 
 1. Für den Karamell den Zucker in einem großen Topf bei mittlerer Hitze etwa 8 Minuten schmelzen lassen – nicht rühren, nur den Topf schwenke, bis der Zucker flüssig ist. Weiterschwenken, bis er dunkelbernsteinfarben ist, dann die Form aus dem Ofen nehmen und den Karamell hineingießen. Die Form schwenken, damit der Karamell den Boden gleichmäßig bedeckt. Den Karamell erstarren lassen.
 1. Aus der Chili kräftig die Flüssigkeit herausdrücken. Den Stiel entfernen, die Chili mit Kernen und allen restlichen Zutaten für den Flan zu einer glatten Masse pürieren. Sobald das Karamell hart ist, ein feines Sieb auf die Form setzen. Die Flanmasse in die Form gießen; größere Chilistücke wegwerfen.
@@ -37129,7 +36341,6 @@ Info:	Der Dessertwein Marsala kommt von Sizilien und wird dort nicht nur genippt
 1 TL Orangenblütenwasser
 
 ### Zubereitung
-
 1. Den Sauternes in 40 ml Wasser, der Limettenschale und dem -saft, der Vanillepaste und 60 g Zucker in einen Topf geben. Bei hoher Temperatur erhitzen, bis der Zucker geschmolzen ist und die Flüssigkeit köchelt. Vom Herd nehmen und die Aprikosenhälften mit der Schnittfläche nach unten hineinlegen. In der Resthitze pochieren, bis sie weich sind, aber noch nicht zerfallen; sie brauchen ca. 20-40 Minuten. Die Aprikosen herausnehmen und die Limettenschale wegwerfen. Die Aprikosen zudecken, damit sie sich nicht verfärben, und beiseitestellen. Den Sirup bei mittlerer bis starker Hitze 5-6 Minuten auf 70 ml einkochen lassen. Das Orangenblütenwasser unterrühren und den Sirup bis zur Verwendung beiseitestellen.
 1. Den Backofen auf 170 Grad (Umluft) vorheizen. Die Pistazien auf ein Backblech geben und 10 Minuten rösten, bis sie duften. Nach dem Abkühlen fein hacken und mit den Amaretti und dem Zucker mischen.
 1. Mascarpone und Sahne 1-2 Minuten mit dem Handrührgerät aufschlagen, bis die Mischung glatt und luftig ist (also nicht zu lange). Drei Viertel der Amaretti-Pistazien-Brösel unterheben.
@@ -37147,7 +36358,6 @@ Info:	Der Dessertwein Marsala kommt von Sizilien und wird dort nicht nur genippt
 1 ¼ EL Zucker zum Servieren
 
 ### Zubereitung
-
 1. Wassermelonenstücke und Erdbeeren im Tiefkühlfach für 2 Stunden einfrieren (bis sie hart sind).
 1. Die Limettenblätter mit Glukose, Limettenschale und -saft sowie Wodka in einen Topf geben und bei mittlerer Hitze sanft erwärmen, bis die Glukose geschmolzen und warm ist. Beiseitestellen und 30 Minuten ziehen lassen, dann durch ein Sieb gießen. Die gefrorenen Früchte dazugeben und alles zerkleinern (pürieren) bis eine sehr glatte, weiche Masse entstanden ist.
 1. Die Masse in eine flache Gefrierbox füllen und verschließen. Das Sorbet etwa 5 Stunden tiefkühlen, bis es fest ist.
@@ -37171,7 +36381,6 @@ Info:	Statt Kaffirlimettenblätter kann man auch Rooibostee nehmen. Dann statt d
 3 EL Limettensaft
 
 ### Zubereitung
-
 1. Den Backofen auf 180 Grad (Umluft) vorheizen. Die Kokos-Chips auf einem Backblech verteilen und 7 Minuten rösten, bis sie goldbraun sind und duften: nach der Hälfte der Zeit einmal durchrühren.
 1. Kokoscreme, Zucker, Vanillepaste und Sternanis in einem Topf bei mittlerer Temperatur erhitzen und etwa 5 Minuten köcheln lassen, bis der Zucker und die Creme sich auflösen. Vom Herd nehmen. Die gerösteten Kokos-Chips hinzufügen und das Ganze mindestens eine Stunde ziehen lassen. Die Flüssigkeit durch ein Sieb in eine große Schüssel gießen, dabei die Chips mit einem Löffel gründlich ausdrücken. Die ausgedrückten Kokos-Chips mit den Meersalzflocken auf ein mit Backpapier belegtes Tablett geben. Gut mischen, dann bei Raumtemperatur für mindestens 2 Stunden beiseitestellen. 
 1. Das Aquafaba zu halbsteifem Schnee schlagen. Den Schnee behutsam unter die Kokoscreme heben, bis alles gut vermischt ist. Die Masse in eine große gefrierbox gießen. Die Box fest verschließen oder in Frischhaltefolie wickeln und über Nacht in das Gefrierfach stellen. Die Masse zwei- bis dreimal durchrühren.
@@ -37214,7 +36423,6 @@ Info:	 Eis ohne Eismaschine 😊
 10 g Minze, Stängel und Blätter
 
 ### Zubereitung
-
 1. Von den Zitronen jeweils das obere Drittel (den späteren Deckel) abschneiden. Alle Stücke auspressen; das sollte insgesamt 350 g Saft mit Fruchtfleisch ergeben. Die Zitronen mit einem Löffel sauber aushöhlen, dabei die Schalen nicht verletzen. Es macht nix, wenn ihr nicht alles herausbekommt. Von den Zitronen unten jeweils eine dünne Scheibe abschneiden, damit man sie aufrecht hinstellen kann (Schale nicht perforieren!) Die Zitronen mit der Öffnung nach oben dicht nebeneinander in eine Form stellen. Zitronen und Deckel getrennt voneinander einfrieren.
 1. Saft und Fruchtfleisch mit Zucker, Hisbiskus und 350 ml Wasser in einen Topf geben. Bei mittlerer bis starker Hitze unter gelegentlichem Rühren etwa 6 Minuten köcheln lassen, bis der Zucker geschmolzen ist. Vom Herd nehmen und die Minze hinzufügen. 15 Minuten ziehen lassen, bis die Flüssigkeit leichtend rosa ist.
 1. Die Flüssigkeit durch ein Sieb in ein weites Gefäß gießen; die Aromate wegwerfen. Die Sorbetmasse kaltstellen, bis sie vollständig ausgekühlt ist. Über Nacht einfrieren; zwei- bis dreimal durchrühren. Das Sorbet in eine Zippbeutel füllen und den Beutel verschließen. 3-4 Stunden tiefkühlen, bis die Masse fest ist, den Beutel einige Male durchkneten, um die Eiskristalle aufzubrechen.
@@ -37272,7 +36480,6 @@ Wer mag, dekoriert die Gläschen vor dem Servieren noch mit einem Tupfer Schlags
 4 reife Bananen, geschält und erst quer, dann längs halbiert
 
 ### Zubereitung
-
 1. Den Backofen auf 230 Grad (Umluft) vorheizen. Für die Crêpes das Mehl mit dem Zucker und dem Salz in einer Schüssel mischen. Das Ei unterrühren. Nach und nach unter ständigem Rühren die Milch dazugießen, bis ein glatter, dünnflüssiger Teig entstanden ist. 20 Minuten ruhen lassen.
 1. Für die Barbados-Creme mit einem Schneebesen den Mascarpone mit Joghurt und Vanillepaste glattrühren. Beiseitestellen.
 1. Für die gerösteten Bananen die Butter in einer ofenfesten Pfanne bei mittlerer bis starker Hitze zerlassen. Den Zucker mit dem Ingwer 1-2 Minuten unterrühren, bis er geschmolzen ist. Vom Herd nehmen, die Bananen in die Pfanne geben und behutsam untermischen, bis sie von dem geschmolzenen Zucker überzogen sind. Dann mit der Schnittfläche nach oben arrangieren. Etwa 12 Minuten im Ofen rösten, bis sie weich und gebräunt sind. Mit etwas Salz bestreuen.
@@ -37303,7 +36510,6 @@ Info:	Die Barbados-Creme ist extrem gefährlich: sahnig, spritzig, süß – und
 50 g Zucker
 
 ### Zubereitung
-
 1. Vanille in warmer Milch auflösen. 80 ml Milch abmessen und in eine Schüssel gießen. Die Speisestärke dazugeben und glatt rühren. Die restliche Milch zurück in den Topf gießen und das Espressopulver unterrühren. Beiseitestellen.
 1. Für den Kaffeesirup den Kaffee mit dem Zucker in einem kleinen Topf bei mittlerer bis starker Hitze aufkochen. 6-7 Minuten kochen lassen, bis die Flüssigkeit um etwa die Hälfte reduziert ist. Zum Abkühlen beiseitestellen; dabei dickt der Sirup weiter ein.
 1. Mit einem Schneebesen die Eigelbe in einer Schüssel mit Zucker, Kakaopulver und Salz verquirlen.
@@ -37328,7 +36534,6 @@ Info:	Die Barbados-Creme ist extrem gefährlich: sahnig, spritzig, süß – und
 150 g Kirschen, entsteint
 
 ### Zubereitung
-
 1. Den Joghurt mit dem Salz gut verrühren. Ein Sieb mit einem Passiertuch auslegen und über eine Schüssel legen. Den Joghurt in das Tuch geben und das Tuch so über den Joghurt schlagen, dass er ganz umhüllt ist. Ein schweres Gewicht auf das Tuch geben und das Ganze für mindestens 24 Stunden (aber nicht länger als 48 Stunden😊) zum Abtropfen in den Kühlschrank stellen.
 1. Öl in einen kleinen Topf mit passendem Deckel gießen. Bei mittlerer Hitze etwa 7 Minuten erwärmen, bis winzige Bläschen aufsteigen. Vom Herd nehmen, Thymian und Orangenschale hineingeben und zugedeckt ziehen lassen - idealerweise über Nacht.
 1. 50 g Brombeeren, 100 g Himbeeren und 100 g Erdbeeren mit dem Zucker und dem Limettensaft glatt pürieren. Die übrigen Früchte mit dem Beerenpüree in eine große Schüssel füllen und alles behutsam mischen. 
@@ -37351,7 +36556,6 @@ Info:	Falls man das Abtropfen umgehen will: Einfach griechischen Joghurt mit ein
 400 g Erdbeeren
 
 ### Zubereitung
-
 1. Den Ofen auf 200 Grad (Umluft) stellen. Ein Backblech mit Backpapier auslegen. Maisstärke und Essig in einer kleinen Schüssel gut miteinander verrühren. In einer sauberen, hohen Schüssel Eiklar und Salz mit dem Rührgerät steif schlagen. Dann den Zucker löffelweise und zwischendurch ebenfalls die Stärke-essig-Mischung hineinrühren. Die Meringe soll dick und glänzend werden.
 1. Orangenblütenwasser und die Hälfte der Pistazien dazugeben. Die Meringe mit einem Löffel auf das Backblech setzen, sodass eine Art Tortenboden entsteht, mit einem Durchmesser von 25 cm. Die zweite Hälfte der Pistazien darüberstreuen. 
 1. Das Blech in den Ofen schieben und die Temperatur sofort auf 100 Grad herunterstellen. Meringue zwei Stunden lang backen. Dann den Ofen ausschalten und die Meringue bei offener Ofentür auskühlen lassen.
@@ -37411,7 +36615,6 @@ Mark von ½ Vanilleschote
 Frische schwarze Johannisbeeren und etwas Rosenwasser
 
 ### Zubereitung
-
 1. Für die Mousse Sahne aufkochen und über die Teeblätter gießen. 30 Minuten ziehen lassen, dann durch ein feines Sieb passieren. Die Gelatine in kaltem Wasser einweichen. 200 g der Rooibos-Sahne mit Zucker und dem Mark der Vanilleschote aufkochen, über die Schokoladenstückchen gießen. Nach fünf Minuten gut verrühren.
 1. Die Gelatine in der heißen Masse auflösen. Schüssel in Eiswasser stellen und die Creme kalt rühren. Die restliche Rooibos-Sahne steif unterschlagen, unterheben. Sofort in Dessertschalen füllen und mindestens zwei Stunden kaltstellen.
 1. Für das Granité Beeren mit Zucker und Wasser aufkochen, anschließend pürieren, durch ein Sieb streichen. Crème des Cassis und Rosenwasser zugeben. Masse in eine Schüssel füllen und ins Gefrierfach stellen. Nach einer Stunde alle 30 Minuten mit einem Schneebesen durchrühren, bis alles körnig gefroren ist. Portionsweise das Granité abschaben und auf der Mousse anrichten.
@@ -37544,7 +36747,6 @@ Zum Garnieren: Kokosflocken, gehackte Mandeln oder Pistazien
 ¼ TL Kardamon
 
 ### Zubereitung
-
 1. Eier trennen. In einer Schüssel die Eigelbe und die Hälfte des Zuckers mit dem Schneebesen schaumig rühren. 
 1. Pistazien und Kardamon dazugeben. Sahne schlagen und unter die Eimasse heben. Eiweiße mit dem restlichen Zucker steif schlagen, dann unter die Masse heben. In Gläser füllen und 5 - 6 Stunden kaltstellen.
 
@@ -37564,7 +36766,6 @@ Butter
 Geriebene Semmelbrösel
 
 ### Zubereitung
-
 1. Die am Tag vorher gekochten Kartoffeln durchdrehen, mit Mehl, Eiern und Salz vermengen. 
 1. Die Pflaumen entsteinen und dafür 1 Stück Würfelzucker hineingeben. Von dem Teig 11-12 Klöße formen, in deren Mitte eine Pflaume stecken. Den Teig dünn halten.
 1. In Salzwasser kochen und mit in Butter gerösteten Semmelbröseln übergießen. Anstelle der Pflaumen kann man auch Aprikosen verwenden. 
@@ -37587,7 +36788,6 @@ Ca. 500 g Zwetschgen (gewaschen und entsteint)
 Nochmals 40 g flüssige Butter
 
 ### Zubereitung
-
 1. Mehl in einen Rührschüssel geben, Zucker, lauwarme Milch, aufgelöste Hefe, Butter, Ei, Salz und Zitronenschale dazugeben. Zu einem glatten Teig verarbeiten (ist etwas weich) und zugedeckt ca. 30 Minuten gehen lassen. Den Teig etwa 1 Zentimeter dick ausrollen, in etwa 8-10 cm große Quadrate schneiden. Auf jedes Quadrat eine mit einem Würfelzucker gefüllte Zwetschge geben. Jeweils die gegenüberliegenden Teigseiten über die Zwetschge klappen, die Buchteln in eine gefettete Form setzen.
 1. Nochmals 20 Minuten gehen lassen, dann mit flüssiger Butter bestreichen und bei 190 Grad Ober- und Unterhitze etwa 35 Minuten lang backen. Gleich nach dem Backen mit Puderzucker bestäuben und auf einem Kuchengitter etwas abkühlen lassen. Die einzelnen Buchteln vom Kuchen abbrechen. Lauwarm schmecken sie am besten.
 
@@ -37631,7 +36831,6 @@ Frische Minze
 12 Holzspieße
 
 ### Zubereitung
-
 1. Erdbeeren mit 30 g Zucker pürieren. Saft und Zesten der Limette untermischen. Die Masse auf 12 Sektgläser verteilen, Holzstäbchen und Minzestiel hineinstecken und mindestens 12 Stunden gefrieren lassen. 
 1. 80 g Zucker und Minze pürieren, bis sich der Zucker grün färbt. 
 1. Die Eispops aus dem Glas lösen und in den Minzzucker tunken.
@@ -37646,7 +36845,6 @@ Frische Minze
 Evtl. Puderzucker
 
 ### Zubereitung
-
 1. Eier trennen. Eigelb und Zucker in einer Metallschüssel mit dem Schneebesen verquirlen. Den Marsala hinzufügen. Die Schüssel in ein sehr heißes Wasserbad stellen und die Masse von Hand aufschlagen, bis sie hell, cremig und fester wird. 
 1. Beeren in Dessertgläser geben und die Zabaglione darauf verteilen. Wer möchte, benutzt feuerfeste Förmchen, bestäubt den Schaum mit Puderzucker und karamellisiert ihn mit dem Flambierbrenner. Warm servieren.
 
@@ -37658,7 +36856,6 @@ Evtl. Puderzucker
 150 ml Creme double
 
 ### Zubereitung
-
 1. Himbeeren pürieren und Sieben. Eier trennen. Eiweiß mit der Hälfte des Zuckers schlagen, bis die Masse glänzt.
 1. Die andere Hälfte des Zuckers mit Eigelb zu einer gelben zähen Creme aufschlagen. 
 1. Creme double dicker, aber nicht steif schlagen. Himbeerpüree mit Eigelbmasse mischen. Eischnee unterheben, danach Creme double. Mindestens 6 Stunden gefrieren lassen.
@@ -37699,7 +36896,6 @@ alle Zutaten miteinander vermischen. Den Teig mindestens 45 Minuten ruhen lassen
 2 große oder 3 kleinere säuerliche Äpfel
 
 ### Zubereitung
-
 1. Zuerst das Mehl in eine Schüssel geben, die Hefe in etwas lauwarmer Milch auflösen, dann alle Zutaten bis auf die Äpfel mit Knethaken zu einem Teig vermengen.
 1. Die Äpfel ungeschält und nicht zu klein geschnippelt, bloß nicht geraspelt, unter den Teig heben. Auf jeden Fall eine saure Sorte nehmen. Den Teig zugedeckt 15 Minuten lang an einem warmen Ort gehen lassen.
 1. In einer Pfanne in Butter backen. Wer mag, serviert etwas Schmand oder Crème fraîche dazu
@@ -37731,7 +36927,6 @@ Sirup aufkochen und mit Kartoffelmehl leicht binden. Rhabarber darin gar ziehen 
 Griechischen Joghurt oder Crème fraîche
 
 ### Zubereitung
-
 1. Äpfel schälen und mit einer Prise Zucker und 1 EL Wasser in einem Topf ca. 5 Minuten unter gelegentlichem Rühren andünsten.
 1. Die Feigen je nach Größe halbieren oder vierteln und in eine Auflaufform geben.
 1. Mehl, Butter, Haferflocken, Zucker, Salz und Vanille mit der Hand verkneten, bis eine krümelige Masse entsteht. Diese auf den Früchten verteilen.
@@ -37749,7 +36944,6 @@ Griechischen Joghurt oder Crème fraîche
 750 g Naturjoghurt/Buttermilch
 
 ### Zubereitung
-
 1. Weiche Butter, Zucker, Vanillezucker und Salz schaumig rühren. Nacheinander Eier, Backpulver und Mehl unterrühren.
 1. Joghurt/Buttermilch zum Teig geben, dass er dünnflüssig wird. Ich finde Buttermilch am besten.
 
@@ -37798,7 +36992,6 @@ Mehl für die Arbeitsfläche#250 ml Milch
 30 g Butterschmalz
 
 ### Zubereitung
-
 1. Für den Teig die Milch lauwarm erwärmen, die Hefe darin auflösen und 2 TL Zucker hinzufügen. Das Mehl in eine Schüssel geben und in die Mitte eine Mulde drücken. Die Hefemilch hineingeben und mit etwas Mehl verrühren. Den Vorteig zugedeckt an einem warmen Ort 15 Minuten gehen lassen.
 1. Die Eier verquirlen und mit 1 Prise Salz, dem restlichen Zucker und der weichen Butter zum Vorteig geben und mit dem Mehl verrühren. Den Hefeteig mit dem Knethaken des Rührgeräts so lange kneten, bis ein glatter und elastischer Teig entstanden ist, der sich ganz leicht vom Schüsselrand löst. Den Hefeteig zugedeckt an einem warmen Ort mindestens 45 Minuten gehen lassen, bis sich das Volumen verdoppelt hat.
 1. Den Teig mit den Händen auf der leicht bemehlten Arbeitsfläche kräftig durchkneten und dann Rollen von 4 bis 5 cm Durchmesser formen. Die Rollen in etwa 5 cm große Stücke schneiden und jedes Stück zu einer glatten Kugel formen.
@@ -37833,7 +37026,6 @@ Mark von ½ Vanilleschote
 2 Streifen unbehandelte Zitronen- und Orangenschale
 
 ### Zubereitung
-
 1. Für die Knödel die Kartoffeln in reichlich Salzwasser weichkochen, abgießen, pellen und noch warm durch die Kartoffelpresse drücken. Auf einem großen Teller oder einem Backblech ausbreiten, ausdampfen lassen und zugedeckt mehrere Stunden oder über Nacht kühl stellen.
 1. Die passierten Kartoffeln mit der Speisestärke, dem Mehl, dem Grieß, dem Ei, der braunen Butter, 1 Prise Salz, der Zitronenschale und dem Vanillemark in einer Schüssel zu einem glatten Teig verrühren.
 1. Die Zwetschgen waschen, halb aufschneiden und entsteinen. In jede Frucht statt des Steins 1 Würfelzucker geben. (man kann noch auf jedes Zuckerstückchen einige Tropfen Zwetschgenwasser geben).
@@ -37855,7 +37047,6 @@ Das erste niedergeschriebene Rezept für Obstknödel in böhmischen Landen tauch
 3 EL Kirschwasser
 
 ### Zubereitung
-
 1. Die Gelatine in kaltem Wasser einweichen. Die Kuvertüre fein hacken, mit 80 g Sahne in eine Metallschüssel geben und im heißen Wasserbad unter Rühren schmelzen lassen.
 1. Die Eigelbe mit dem Zucker in einer Schüssel mit dem Schneebesen hellschaumig aufschlagen. Die geschmolzene Kuvertüre-Sahne-Mischung unterrühren. Das Kirschwasser in einem kleinen Topf erhitzen und vom Herd nehmen. Die Gelatine gut ausdrücken, unter Rühren im Kirschwasser auflösen und unter die Schokoladencreme rühren. Abkühlen lassen.
 1. Die restliche Sahne halb steif schlagen. Ein Drittel mit dem Schneebesen unter die Schokocreme rühren, die restlichen zwei Drittel Sane vorsichtig unterheben. Die weiße Schoko-Mousse in eine Schüssel füllen und zugedeckt etwa 2 Stunden kühl stellen.
@@ -37879,7 +37070,6 @@ Abrieb und Saft von 1 Bio-Zitronen
 Preiselbeeren aus dem Glas
 
 ### Zubereitung
-
 1. Für die Krümel den Pumpernickel zwischen den Fingern zerreiben, das Brot in kleine Stücke reißen und beides in einer Pfanne rösten. Wenn es knusprig ist, Zucker und Butter zufügen und karamellisieren lassen. 
 1. Den Quark mit Zitronenschale und -saft und mit dem Zucker so lange verrühren, bis sich der Zucker vollständig aufgelöst hat. Die Sahne mit dem Vanillezucker steif schlagen.
 1. In vier Gläser erst eine Schicht Brotbrösel geben, dann Quark, dann eine dünne Schicht Preiselbeeren, mit der geschlagenen Sahne bedecken und mit einer weiteren dünnen Schicht Preiselbeeren und Brotbröseln vollenden.
@@ -37922,7 +37112,6 @@ Ausbackfett
 Crème fraîche zum Servieren
 
 ### Zubereitung
-
 1. Ofen auf 200 Grad vorheizen. 
 1. Zwetschgen waschen, halbieren, Steine herausnehmen. Die Hälften so in eine Auflaufform legen, dass sie dicht den Boden bedecken. Zucker und Mehl vermengen, darübergeben und untermengen. Marzipan in etwa 1 cm große Stücke reißen, zwischen die Zwetschgen legen.
 1. Den Teig zubereiten. Dazu die kalte Butter würfeln, in einer Schüssel mit Mehl und dem Zucker mit den Fingern kneten. Aber nicht zu lange, der Teig sollte nicht feinkrümelig sein, sondern aus dicken Streuseln bestehen. Diese auf den pflaumen verteilen.
@@ -37940,7 +37129,6 @@ Crème fraîche zum Servieren
 250 g Crème fraîche
 
 ### Zubereitung
-
 1. Backofen auf 170 Grad vorheizen.
 1. Die Heidelbeeren verlesen und wachen, mit weißem Zucker in einer Auflaufform vermengen. 
 1. In einer Rührschüssel Mehl, gemahlene Mandeln, braunen Zucker und Salz verrühren. Die kalte Butter -zuvor in kleine Stücke geschnitten – mit den Händen nicht zu lange hineinkneten, sodass nicht etwa ein glatter Teig, sondern eine krümelige Masse entsteht. Diese über die Heidelbeeren geben.
@@ -38000,7 +37188,6 @@ Tipp:	Dazu passt z.B. Zwetschgenkompott oder eingelegte Zwetschgen.
 Butter für die Form
 
 ### Zubereitung
-
 1. Das Brot in kleine Stücke schneiden und in eine Schüssel geben. Mit der Milch übergießen und zugedeckt 10 – 15 Minuten ziehen lassen. 
 1. In der Zwischenzeit den Backofen auf 180 Grad vorheizen. Die Eier trennen. Eiweiße beiseitestellen. Eigelbe, Butter, Zucker, Vanillezucker und Zimt zu einer schaumigen Masse verrühren. Mandeln, Haselnüsse und die Kirschen nach und nach unterrühren. Dann die Eiweiße steif schlagen und vorsichtig unterheben. Die Masse mit dem Brot in eine gefettete Springform füllen und den Kirschplotzer im Ofen ca. 1 Stunde backen.
 1. Dazu passt gut heiße Vanillesauce.
@@ -38015,7 +37202,6 @@ Butter für die Form
 400 g Erdbeeren
 
 ### Zubereitung
-
 1. Eigelb, Zucker und Vanillezucker mit dem Schneebesen schaumig schlagen. Die Sahne aufkochen und unter ständigem Rühren unter die Eimasse ziehen.
 1. Die Mischung im Wasserbad cremig aufschlagen. Zugedeckt kühlstellen. Erdbeeren kalt abbrausen, abtropfen lassen, trockentupfen und den Blütenansatz entfernen.
 1. Die Erdbeeren fein pürieren und unter die erkaltete Creme ziehen. Im Tiefkühlfach fest werden lassen.
@@ -38029,7 +37215,6 @@ Butter für die Form
 400 ml gut gekühlte Sahne
 
 ### Zubereitung
-
 1. Erdbeeren kalt waschen, abtropfen lassen und trockentupfen. Blütenansätze entfernen. 
 1. Erdbeeren in Stücke schneiden. Zucker, Vanillezucker und Weinbrand darunterheben und alles 30 Minuten zugedeckt ziehen lassen. Dann fein pürieren. Die Hälfte der Sahne steifschlagen und unter das Püree ziehen. Die Creme im Gefrierfach gefrieren lassen. 
 1. Auf den Tellern dann zusammen mit der Sahne anrichten und mit Erdbeeren garnieren.
@@ -38045,7 +37230,6 @@ Butter für die Form
 Salz
 
 ### Zubereitung
-
 1. Die Himbeeren pürieren und mit einem großen Löffel durch ein feines Sieb in eine Schüssel streichen, um die Kerne entfernen. Von dem Fruchtmark 260 g abwiegen und beiseitestellen. Das verbliebene Fruchtmark (100g) mit dem Puderzucker vermengen und in einen kleinen Krug füllen. Bis zum Servieren kaltstellen.
 1. Die Sahne steif schlagen. In eine andere Schüssel füllen und bis zur Verwendung in den Kühlschrank stellen.
 1. Einen mittelgroßen Topf einige Zentimeter hoch mit Waser füllen (es darf den Schüsselboden nicht berühren) und dieses zum Kochen bringen. Die Hitze so regulieren, dass es nur leicht siedet.
@@ -38067,7 +37251,6 @@ Salz
 600 g Sahne
 
 ### Zubereitung
-
 1. Den Backofen auf 200 Grad Umluft vorheizen.
 1. Den Rhabarber und die Erdbeeren mit dem Zucker vermengen und in eine ofenfeste Form füllen – die Früchte sollen so eben nebeneinander Platz haben. Im Ofen 12 – 13 Minuten backen, bis sie weich sind, aber noch nicht zerfallen sind und der Zucker sich aufgelöst hat. Abkühlen lassen.
 1. Die Ofentemperatur auf 170 Grad Umluft reduzieren.
@@ -38087,7 +37270,6 @@ Salz
 Salz
 
 ### Zubereitung
-
 1. Den Joghurt in einer Schüssel mit 70 g Puderzucker und ¼ TL Salz verrühren. Ein Sieb mit Mull oder Passiertuch auslegen, die Masse hineingeben und auf eine Schüssel setzen. Das Tuch zuschnüren, das Bündel mit einer weiteren Schüssel beschweren und für 30 Minuten in den Kühlschrank stellen. Anschließend so viel Flüssigkeit wie möglich herauspressen, sodass am Ende etwa 550 g fester Joghurt verbleibt. Aus dem Tuch wickeln und in eine Schüssel geben. Mit Sahne und Zitronenschale verrühren und bis zur Verwendung kaltstellen.
 1. Den Backofen auf 200 Grad Umluft vorheizen.
 1. Die Erdbeeren mit Sumach, Minzestängeln sowie Vanilleschote und -mark, Zitronensaft, dem restlichen Puderzucker (70 g) und 80 ml Wasser in einer ofenfesten Form (etwa 30 x 30) vermengen und 20 Minuten im Ofen backen. Nach der Hälfte der Zeit einmal durchrühren. Auf Zimmertemperatur abkühlen lassen, Minze und Vanilleschote wegwerfen. Den Saft durch ein Sieb in einen Krug gießen, 3 EL Saft grob unter den Joghurt ziehen, sodass ein Marmoreffekt entsteht. Weitere 3 EL Saft zum Servieren abnehmen.
@@ -38130,7 +37312,6 @@ Salz
 Salz
 
 ### Zubereitung
-
 1. Die Brombeeren und die Pflaumen in einer großen Schüssel mit Vanilleextrakt, Zucker, Lorbeerblättern und ½ TL Zimt vermengen und 39 Minuten stehen lassen – nicht länger, sonst ziehen die Früchte zu viel Saft.
 1. Den Backofen auf 190 Grad Umluft vorheizen.
 1. In einer weiteren großen Schüssel Mehl, Puderzucker und gemahlene Mandeln mit dem restlichen Zimt (1/2 TL) und 1 kräftigen Prise Salz vermengen und beiseitestellen.
@@ -38174,7 +37355,6 @@ Salz
 2 EL kalt gepresstes Mandelöl
 
 ### Zubereitung
-
 1. Die Äpfel entkernen, klein würfeln und in dem Kokosöl in einer Pfanne kurz anbraten. Die Kokosraspel, den Zucker, die Rosinen, die Mandeln oder Cashewkerne, die Gewürze und den Grieß dazugeben und alles 2 – 3 Minuten weich und goldbraun braten. Die Milch und den Agavendicksaft dazugeben, gut umrühren und alles weitere 5 Minuten köcheln lassen, bis der Pudding dick und cremig ist.
 1. Die Kokosraspel oder Nüsse in einer kleinen Pfanne ohne Fett goldbraun rösten, bis sie duften. Das Halwa in Schälchen verteilen, mit den Nüssen bestreuen und 10 Minuten oder länger abkühlen lassen und fest werden lassen. Nach Belieben jede Portion noch mit 1 TL Mandelöl beträufeln.
 
@@ -38311,7 +37491,6 @@ Salz
 ½ EL Rosenwasser
 
 ### Zubereitung
-
 1. In einem mittelgroßen Topf die Milch bei starker Hitze mit Sahne, Vanilleschote, Vanillemark und Kardamom erhitzen. Kurz bevor die Flüssigkeit kocht, den Topf vom Herd nehmen. Abkühlen lassen und mindestens einige Stunden, am besten aber über Nacht, im Kühlschrank ziehen lassen.
 1. Für den Situp den Honig mit Rosenwasser und 1 TL Wasser verrühren, bis er sich aufgelöst hat.
 1. Den Reis zur Milchmischung geben, aufkochen und 20 Minuten unter stetigem Rühren bei mittlerer Hitze köcheln lassen, bis der Reis gar aber noch etwas bissfest ist. Gegen Ende der Kochzeit falls nötig noch maximal 50 ml Wasser dazugeben.
@@ -38338,7 +37517,6 @@ Salz
 1 EL Speisestärke
 
 ### Zubereitung
-
 1. Für die Risalamande 200 ml Wasser in einem Topf (idealerweise mit dickem Boden) aufkochen, den Reis dazugeben und 3 – 4 Minuten kochen. Milch hinzufügen und 40 Minuten köcheln lassen, dabei etwa alle 5 Minuten umrühren. Den topf vom Herd nehmen und etwas Salz hinzufügen. Den Milchreis für einige Stunden kalt stellen. 
 1. Etwas Wasser aufkochen, über die Mandeln gießen und für ein paar Minuten stehen lassen. Das Wasser abgießen und den Prozess wiederholen. Anschließend die Mandeln aus der Schale drücken. Eine ganze Mandel zur Seite legen, den Rest grob hacken, das geht gut auf einem Küchenhandtuch.
 1. Zucker und Vanillemark verrühren. Sahne mittelfest schlagen. Vanillezucker und gehackte Mandeln sowie eine ganze Mandel in den Milchreis rühren. Dann die Sahne vorsichtig unterheben., zum Beispiel mit einem Teigschaber. Den Risalamande eine Stunde kalt stellen.
@@ -38365,7 +37543,6 @@ Grobes Meersalz
 4 EL Crème fraîche
 
 ### Zubereitung
-
 1. Aus dem Blätterteig mit einem Glas 4 runde Plätzchen (Durchmesser 10 cm) ausstechen, auf ein Backblech legen und mit einer Gabel je etwa 12-mal einstechen, damit der Teig beim Backen nicht zu sehr aufgeht. Die Teigplätzchen nach Packungsanleitung im Ofen goldbraun backen. Auf einem Rost auskühlen lassen.
 1. die Zutaten für die Sauce in einem kleinen Topf auf mittlerer Stufe unter ständigem Rühren 4 – 5 Minuten erwärmen, bis sich der Zucker aufgelöst hat und die Butter geschmolzen ist. Vom Herd nehmen und beiseitestellen.
 1. In einer großen Schüssel die Apfelspalten in der flüssigen Butter werden, bis sie überall bedeckt sind.
@@ -38391,7 +37568,6 @@ Vanilleeis
 1 Grill
 
 ### Zubereitung
-
 1. Den Grill für direkte mittlere Hitze vorbereiten.
 1. Die Bananen mit der Schale längs halbieren (so bewahren sie auf dem Grill ihre Form). Die Schnittflächen mit zerlassener Butter bestreichen.
 1. Den Grillrost mit der Bürste reinigen. Die Bananen mit der Schnittfläche nach unten über direkter mittlerer Hitze bei geöffnetem Deckel 2 – 3 Minuten grillen, bis sie warm sind und das typische Grillmuster aufweisen. Nicht wenden. Vom Grill nehmen, schälen und vierteln, dann beiseitestellen.
@@ -38432,7 +37608,6 @@ Etwa 2 EL Kirschwasser
 Geraspelte Schokolade zum Garnieren
 
 ### Zubereitung
-
 1. Gelatine mit 4 EL kaltem Wasser anrühren und 10 Minuten quellen lassen.
 1. Die Milch zum Kochen bringen. Puddingpulver und Zucker mischen mit 6 EL kalter Milch anrühren. Unter Rühren in die von der Kochstelle genommene Milch geben und kurz aufkochen lassen. Die gequollene Gelatine hinzufügen und so lange rühren, bis sie gelöst ist. Den Pudding kaltstellen, ab und zu umrühren. Unter den erkalteten, aber noch nicht vollkommen fest gewordenen Pudding das Kirschwasser rühren.
 1. Sahne mit Vanillezucker verrühren, steif schlagen und unter den Pudding rühren (etwas zum Verzieren zurücklassen)
@@ -38451,7 +37626,6 @@ Zucker
 1 Tasse Espresso
 
 ### Zubereitung
-
 1. Eigelb mit Zucker schaumig schlagen. Mascarpone, ebenso Amaretto unterziehen. Eiweiß zu Schnee schlagen, mit bisle Zucker unterziehen. Löffelbiskuits mit Kaffee tränken. Nun schichten: ½ Creme, eine Schicht Biskuits…
 1. Kaltstellen
 
@@ -38471,7 +37645,6 @@ Salz
 2 Msp. Zimt
 
 ### Zubereitung
-
 1. Kartoffel schälen und vierteln, in leicht gesalzenem Wasser aufkochen. Hitze reduzieren und Kartoffeln ca. 25 Minuten weich garen, dabei soll das Wasser nur simmern.
 1. Kartoffeln abgießen und ausdampfen lassen. Grob würfeln und noch heiß durch ein Passiersieb streichen, dann erkalten lassen.
 1. Mit Mehl, Butter, Eigelb und 1 Prise Salz zu einem glatten Teig verkneten. 
@@ -38487,7 +37660,6 @@ Salz
 70 ml Schlagsahne
 
 ### Zubereitung
-
 1. Schokolade in einem Topf ins Wasserbad stellen und langsam schmelzen (sie sollte nicht zu heiß werden, sondern gerade so schmelzen).
 1. Die Eier trennen, Eigelbe mit Zucker verrühren. Die Mischung unter die Schokolade rühren. Gut vermengen, das ist nämlich der Moment, in dem die Klumpen entstehen könnten. Sahne dazugießen und weiterrühren.
 1. Eiweiße steif schlagen und vorsichtig unterheben, am besten in drei Teilen, dann muss man nicht so stark rühren. 
@@ -38505,7 +37677,6 @@ Salz
 Ca. 4 EL Crème fraîche
 
 ### Zubereitung
-
 1. Birnen schälen, vierteln, Kerne entfernen. Das Obst in etwas Butter in der Pfanne anbraten. Dann in einer Auflaufform verteilen. Die Form sollte so groß sein, dass die Birnen den Boden vollständig bedecken. 
 1. Für die Streusel Butter mit Mehl mit den Fingern verkneten, sodass eine krümelige Mischung entsteht. Zucker und Haferflocken hinzufügen. Schokolade fein hacken und unter den Crumbleteig geben.
 1. Die Mischung über die Birnen verteilen, 45 Minuten lang bei 180 Grad Umluft backen. Den Crumble mit je einem Esslöffel Crème fraîche servieren.
@@ -38525,7 +37696,6 @@ Der Crumble ist wirklich sehr süß. Man isst den Crumble am besten lauwarm, mit
 80 ml gutes Olivenöl
 
 ### Zubereitung
-
 1. Die Erdbeeren waschen, trocknen und halbieren. Den Rhabarber schälen und in 4 cm lange Stücke schneiden. Beides in einer Auflaufform mit der Hälfte des Zuckers bestreuen, vorsichtig vermengen. In der Zwischenzeit den Ofen auf 180 Grad heizen.
 1. Eier und restlichen Zucker mit dem Mixer schaumig schlagen, Salz hinzufügen, das Mehl unter Rühren nach und nach dazugeben. Sahne und Olivenöl dazu gießen.
 1. Den flüssigen Teig über die Erdbeeren und den Rhabarber in der Auflaufform gießen, etwa 45 Minuten lang backen.
@@ -38543,7 +37713,6 @@ Saft aus 3 Orangen
 370 g Heidelbeeren
 
 ### Zubereitung
-
 1. Die Löffelbiskuits nebeneinander in eine Form legen (Maße zum Beispiel 24 mal 16 cm). Orangensaft mit Sherry vermischen und darüber träufeln. Das Ganze 30 Minuten langziehen lassen.
 1. In der Zwischenzeit die Eier trennen. Eigelb und Puderzucker mit einem Handrührgerät vermengen, bis die Masse cremig ist. Dann Mascarpone und Vanille dazugeben.
 1. Die Himbeeren in eine Schüssel geben, mit der Gabel andrücken, sodass etwas Saft austritt. Das Eiweiß steif schlagen, in die Mascarpone-Mischung geben, ebenso die Himbeeren. Vorsichtig vermengen, die Masse soll nicht pink werden.
@@ -38571,7 +37740,6 @@ Zuckerwasser (1 EL Zucker auf 2 Tassen Wasser)
 Puderzucker zum Garnieren
 
 ### Zubereitung
-
 1. Haselnüsse mit 20 g Zucker unter Rühren in einer Pfanne karamellisieren. Anschließend die Nüsse auf einem Backbrett auskühlen lassen und nochmals hacken.
 1. Die Äpfel schälen, entkernen, vierteln und in etwa 2 mm dünne Spalten schneiden, dann kurz in Zuckerwasser dünsten. Boskopäpfel haben nach einer Minute die Süße des Zuckerwassers angenommen. Eier und Eigelb mit Milch und Butter verrühren, Zimt, das Mark einer ausgekratzten Vanilleschote und 100 g Zucker untermischen. 
 1. Jetzt einen höchsten ein bis zwei Tage alten Hefezopf (er darf nicht steinhart sein) in dünne Scheiben schneiden und mit den Apfelspalte in einer gebutterten Auflaufform dachplattenartig schichten. Das Ganze mit dem Eier-Milch-Mix übergießen und 45 Minuten bei 200 Grad (Umluft) backen. Falls der Ofenschlupfer vor Ende der Garzeit braun werden sollte, mit Alufolie abdecken. Aus dem Ofen nehmen, mit Puderzucker bestäuben und warm servieren.
@@ -38825,7 +37993,6 @@ Etwas Vanille
 Abrieb und Saft von 2 Bio-Zitronen
 
 ### Zubereitung
-
 1. Butter in einem Topf zergehen lassen, beiseitestellen und kurz abkühlen lassen. Auflaufform mit Butter einfetten. Ofen auf 160 Grad Umluft stellen. Wasser zum Kochen bringen.
 1. Butter und Zucker in einer Schüssel vermengen. Eier trennen und die Eigelbe zur Buttermischung geben. Die Eiweiße zu Schaum schlagen. Mehl, Backpulver und Salz in die Butter-Ei-Mischung geben. Dann die Milch dazugießen und alles zu einem glatten teig rühren.
 1. Zitronenschale ganz fein abreiben, Zitronensaft auspressen. Beides in die Schüssel zum Teig geben. Schließlich vorsichtig den Eischnee unterheben – der Teig muss nicht homogen sein. Den (recht flüssigen) Teig in die Auflaufform geben. 
@@ -39258,7 +38425,6 @@ Saft von ½ Zitrone
 10 Blätter frische Minze
 
 ### Zubereitung
-
 1. Die Melone halbieren, die Samenkerne entfernen und mit einem Löffel das Fruchtfleisch herauslösen. In einem Standmixer oder einer Küchenmaschine mit den restlichen Zutaten fein pürieren.
 1. Kosten, ob die Mischung süß genug ist, wenn nicht, mehr Apfelsaft hinzufügen.
 1. In ein flaches Gefäß gießen, mit einem Deckel zudecken und in den Gefrierschrank stellen. Nach ca. 1 Stunde mit einer Gabel durchmischen, um die Eiskristalle aufzubrechen. Wieder zurück in den Gefrierschrank stellen. In den nächsten 3 Stunden alle 30 Minuten durchrühren.
@@ -39359,7 +38525,6 @@ Etwa 70 g Maisstärke
 60 g geröstete Mandelblättchen
 
 ### Zubereitung
-
 1. Das Mehl in eine Schüssel sieben und mit den Eiern, dem Salz und dem Mineralwasser zu einem glatten Teig verrühren. Den Teig zugedeckt 20 – 30 Minuten ruhen lassen. Die feuerfeste Form mit Butter ausstreichen.
 1. Den Backofen auf 200 Grad vorheizen. Die Butter nach und nach in einer großen Pfanne erhitzen und aus dem Teig 4 gleich große Palatschinken raten. Die fertigen Palatschinken warm stellen.
 1. Den Quark mit dem Zucker verrühren. Die Rosinen heiß waschen, trockenreiben und mit dem herausgekratzten Vanillemark, dem Eigelb und dem Rum unter den Quark mischen.
@@ -39383,7 +38548,6 @@ Tipp:	 Palatschinken ist das österreichische Wort für Pfannkuchen😊
 1 Prise Salz
 
 ### Zubereitung
-
 1. Die Kirschen waschen und entsteinen. 1 l Wasser mit dem Zucker zum Kochen bringen, die Kirschen hineingeben, 5 Minuten darin kochen und abtropfen lassen. Die Rosinen in heißem Wasser gründlich waschen und abtropfen lassen.
 1. Den Quark mit den Eigelben, dem Zucker, dem Vanillezucker verrühren. Die Speisestärke mit der Milch anrühren und unter die Quarkmasse mischen. Die Eiweiße mit dem Salz zu steifem Schnee schlagen und mit den Rosinen unter die Quarkmasse geben.
 1. Den Backofen auf 180 Grad vorheizen. Den Quark mit den Kirschen in einer feuerfesten Form mischen und im Backofen 45 Minuten backen.
@@ -39424,7 +38588,6 @@ Saft von ½ Zitronen
 Pimm´s No. 1 (Alkohol!!)
 
 ### Zubereitung
-
 1. Für den Sirup 1/8 l Wasser und den Zucker in einem kleinen Topf zum Kochen bringen und kochen lassen, bis sich der Zucker vollständig aufgelöst hat.
 1. Die Minze waschen und trocken schütteln. Eine große Handvoll Minzeblätter abzupfen, grob zerreißen und unter den Sirup rühren. Sirup 20 Minuten ziehen lassen, dann durch ein Sieb gießen und kaltstellen.
 1. Inzwischen für den Salat das Melonenfleisch von den Kernen befreien und in dekorative, gleich große Stücke schneiden (oder Kugeln). Die Erdbeeren waschen, von den Stielansätzen befreien und vierteln, Die Gurke waschen, in dicke Scheiben schneiden und diese vierteln. Alles in einer großen Schüssel vermengen.
@@ -39462,7 +38625,6 @@ Kakaopulver oder Puderzucker zum Bestäuben
 4 Eigelb
 
 ### Zubereitung
-
 1. Den Backofen auf 150 Grad vorheizen. Eine große Auflaufform mit einem Stück Küchenpapier auslegen und die Förmchen nebeneinander hineinstellen. Passionsfrüchte halbieren, Fruchtfleisch und -saft in ein Sieb geben und durchstreichen, 50 ml abmessen.
 1. Vanilleschote längs aufschlitzen und Mark herauskratzen, beides in einen Topf geben. Mit Sahne und 30 – 40 g Zucker zum Kochen bringen, Schote entfernen.
 1. In einer großen Schüssel Eigelbe mit einer Gabel verrühren. Von der Vanillesahne 4 – 5 EL abnehmen und langsam unter die Eigelbe rühren, dann die restliche Vanillesahne sowie das Passionsfruchtpüree. Creme durch ein Sieb gießen und die Förmchen füllen. Auflaufform in den Ofen (Mitte, Umluft 130 Grad) stellen und so viel Wasser hineinfüllen, dass die Förmchen zu gut zwei Dritteln darinstehen.
@@ -39659,7 +38821,6 @@ Tipp:	Mein Rekord bei Zwetschgenknödeln liegt bei 15 Stück!!! Das ist das einz
 2 EL Crème fraîche
 
 ### Zubereitung
-
 1. Den Backofen auf 180 Grad Ober-/Unterhitze vorheizen. Mehl, Butter, Zucker und Mandeln in einer Schüssel mit den Fingern zu einem krümeligen Teig vermengen. Ingwer schälen, sehr fein reiben und hinzufügen.
 1. Erdbeeren waschen, vorsichtig abtrocknen, entkelchen und halbieren. Rhabarber schälen und in 2 cm lange Stücke schneiden.
 1. Beides in einer Auflaufform gleichmäßig verteilen. Zucker du Crème fraîche darübergeben. Die Teigkrümel darauf verteilen.
@@ -39676,7 +38837,6 @@ Tipp:	Mein Rekord bei Zwetschgenknödeln liegt bei 15 Stück!!! Das ist das einz
 1 Prise Salz
 
 ### Zubereitung
-
 1. Den Ofen auf 200 Grad vorheizen.
 1. Die Äpfel nicht schälen, aber waschen und vierteln. Das Kerngehäuse entfernen, dann die Schnitze einmal längs durchschneiden. In einem Topf mit 1 Prise Zucker und dem Wasser 5 Minuten lang dünsten. 
 1. In der Zwischenzeit Mehl und Butter in eine Schüssel geben, mit den Händen verkneten, bis die Mischung krümelig wird. Haferflocken und restlichen Zucker dazugeben sowie das Salz unterkneten. Man kann an dieser Stelle mal nachsehen, was sich so im Gewürzregal findet: Muskatnuss schmeckt zu Äpfeln, gemahlene Nelken passen auch, Zimt zu Äpfeln ist sowieso ein Klassiker, Vanille bietet sich an, Anis ist interessant. Aber all das ist nur Beiwerk, nicht notwendig, um mit einem Apple Crumble tiefes Glück zu erleben.
@@ -39816,7 +38976,6 @@ Vanilleeis
 60 g Haselnüsse
 
 ### Zubereitung
-
 1. Wasser, Zucker, Vanillezucker und Zitronenabrieb in einem Topf unter Rühren aufkochen. Birnen schälen, halbieren, das Kerngehäuse entfernen, und zwar möglichst so, dass die Birnenhälften intakt bleiben – falls nicht, nicht so schlimm. Birnen ins heiße Wasser legen, das Ganze zugedeckt ca. 15 Minuten lang köcheln lassen, bis die Birnen weich sind. Vorsichtig herausnehmen, abtropfen lassen.
 1. Für den Teig Butter auf niedriger Hitze zergehen lassen. Mehl, Zucker, Salz und Backpulver mischen. Flüssige Butter und Milch dazugeben und alles gut verrühren.
 1. Birnen in einer Auflaufform nebeneinander legen, mit der Schnittseite nach unten. Die Auflaufform sollte in etwa so groß sein, dass die Birnen sie ausfüllen. Teig auf dem Obst verteilen – es macht nichts, wenn die Birnen nicht vollständig bedeckt sind. Haselnüsse von ihrer dünnen, braunen Schale befreien, Nüsse grob hacken und über den Teig streuen.
@@ -39930,7 +39089,6 @@ Pfeffer
 Außerdem: 4 flache ofenfeste Förmchen
 
 ### Zubereitung
-
 1. Für das Sabayon Weißwein, Orangenlikör, etwas Pfeffer, 30 g Zucker und die Eigelbe in einen Schlagkessel geben. Im heißen Wasserbad (Wasser darf aber nicht kochen) cremig-dicklich aufschlagen. Sabayon in ein kaltes Wasserbad stellen und kalt schlagen.
 1. TK-Beeren kurz antauen lassen und mit dem restlichen Zucker in einem hohen Rührbecher pürieren. Püree durch ein feines Sieb in einen Topf streichen. Nelke, Zimt und Sternanis zugeben, aufkochen und bei mittlerer Hitze 5 Minuten einkochen lassen. Erdbeeren waschen, putzen, in ½ cm dicke Scheibe schneiden, in die Beerensauce geben und erwärmen.
 1. Gewürze aus der Fruchtsauce entfernen, Erdbeeren mit Sauce auf 4 ofenfeste Formen verteilen. Sabayon darübergeben und unter dem vorgeheizten Backofengrill bei 240 Grad auf der obersten Schiene 1 – 2 Minuten goldbraun gratinieren.
@@ -40175,7 +39333,6 @@ Tipp:	Mit Erdbeersauce aus 150 g pürierten TK-Erdbeeren (aufgetaut) und 1 TL Ko
 Schmand oder Crème fraîche, wenn man will
 
 ### Zubereitung
-
 1. Zuerst das Mehl in eine Schüssel geben, die Hefe in etwas lauwarmer Milch auflösen, dann alle Zutaten bis auf die Äpfel mit Knethaken zu einem Teig vermengen. 
 1. Die Äpfel ungeschält und nicht zu klein geschnippelt, auf keinen Fall geraspelt, unter den Teig heben. Den Teig zugedeckt 15 Minuten lang an einem warmen Ort gehen lassen. 
 1. In einer Pfanne in Butter backen.
@@ -40238,7 +39395,6 @@ Bananen schälen und in Stücke schneiden. Honig und Zucker mit 3 EL Wasser in d
 300 g Sahne
 
 ### Zubereitung
-
 1. Die Erdnüsse im vorgeheizten Backofen bei 150°C etwa 10 Minuten erhitzen. Zucker in einer Pfanne mit etwas Wasser karamellisieren. Die Erdnüsse hinzugeben und stetig wenden, bis der Zucker die Nüsse vollständig umschließt. Auf Backpapier gießen, erstarren lassen und grob hacken.
 1. Kuvertüre im Wasserbad schmelzen. Eigelb und Ei mit Irish Cream im Wasserbad schaumig schlagen.
 1. Die geschmolzene Kuvertüre mit der Ei-Masse mischen, die karamellisierten Erdnüsse einrühren, die Sahne cremig steif schlagen und ein Drittel davon unterrühren. Die restlichen 2/3 mit dem Gummispatel vorsichtig unterheben, in Gläser füllen und mindestens 2 Stunden kaltstellen.
@@ -40256,7 +39412,6 @@ Bananen schälen und in Stücke schneiden. Honig und Zucker mit 3 EL Wasser in d
 Puderzucker
 
 ### Zubereitung
-
 1. Eier trennen. Eigelb mit Milch, Salz und Vanillezucker vermengen. Mehl einrühren. Eiweiß mit 10 g Zucker steif schlagen und unter die Masse geben.
 1. Butter in einer Pfanne zerlassen und den Teig hineingeben. Den Pancake mit wenig Hitze 3-4 Minuten anbacken. Im vorgeheizten Backofen bei 200°C Umluft ca. 5 Minuten goldgelb backen.
 1. Mit Puderzucker bestreuen und unter dem Grill karamellisieren.
@@ -40272,7 +39427,6 @@ Saft von ½ Limette
 ½ TL Chilipulver
 
 ### Zubereitung
-
 1. Die Mango schälen und das Fruchtfleisch vom Kern schneiden. Mit einem Mixer pürieren. Mit Vanillemark und Limettensaft abschmecken.
 1. Gelatine in kaltem Wasser einweichen. Kokoslikör erhitzen und Gelatine darin auflösen. In das Püree einrühren.
 1. Sahne cremig-steif schlagen und vorsichtig unterheben.
@@ -40381,7 +39535,6 @@ Marinierte Beeren
 Meersalzflocken
 
 ### Zubereitung
-
 1. Die Feigen waschen und trocken tupfen. Die Schokolade in einem kleinen Topf auf niedriger Flamme langsam zergehen lassen. Die Feigen in die Schokolade dippen, sodass sie großzügig bedeckt sind und nur noch der Zipfel herausguckt.
 1. Feigen auf einen Teller setzen und mit ein paar Meersalzflocken bestreuen. Erkalten lassen, am besten stellt man den Teller in den Kühlschrank.
 
@@ -40447,7 +39600,6 @@ Für die Ziegenkäsecreme
 100 g Erdbeeren
 
 ### Zubereitung
-
 1. Ofen auf 175°C vorheizen. Vier ofenfeste Schälchen in eine Auflaufform (oder ein tiefes Backblech) setzen. Ziegenkäse, Zucker. Milch, Eigelb und Vanille mit dem Rührgerät zu einer dünnflüssigen, glatten Masse vermengen. Die Mischung in die Schälchen gießen, sodass sie ungefähr halb voll sind. Warmes Leitungswasser in die Auflaufform geben, das Wasser sollte ungefähr bis zur Hälfte der Schälchen reichen.
 1. Die Form (oder das Blech) mit Alufolie bedecken und alles für 15 Minuten im Ofen garen. Vor dem Servieren abkühlen lassen. 
 1. Um den Rotweinsud für die Erdbeeren zuzubereiten, in einer beschichteten Pfanne Wein und Zucker aufkochen. Köcheln lassen, bis die Flüssigkeit fester wird und um die Hälfte weniger Volumen hat. Abkühlen lassen. Erdbeeren waschen, putzen, vierteln und mit dem Sirup vermengen, einige Minuten ziehen lassen. Zu der Ziegencreme servieren.
@@ -40493,7 +39645,6 @@ Salz
 180 - 190 g dunkle Schokolade, zerkleinert
 
 ### Zubereitung
-
 1. Den Backofen auf 180°C vorheizen. Eine Auflaufform von 2,5 l Fassungsvermögen mit Öl oder zerlassener Butter bepinseln.
 1. Mehl und Kakaopulver in eine Schüssel sieben. Zucker zufügen und eine Vertiefung in die Mitte drücken. Milch und Eier mischen und mit der Butter in die Schüssel geben. Mit dem Holzlöffel rasch zu einem Teig verrühren; nicht zu lange bearbeiten. In die vorbereitete Form gießen.
 1. Für die Sauce Milch, Wasser und Schokolade in einem kleinen Topf bei schwacher Hitze verrühren, bis die Schokolade geschmolzen ist. Vorsichtig über den Puddingteig gießen. 45-50 Minuten backen, bis sich die Oberfläche fest anfühlt. Mit Sahne oder Eiscreme servieren.
@@ -40511,7 +39662,6 @@ Tipp:	Wenn ihr Schokolade für die Zubereitung eines Gerichts braucht, immer gut
 Puderzucker zum Dekorieren
 
 ### Zubereitung
-
 1. Backofen auf 210°C vorheizen. 4 kleine Souffléförmchen mit einer Manschette aus Backpapier umlegen, die 3 cm über den Rand ragt. Mit einer Schnur festbinden. Böden und Rand der Förmchen sowie das Backpapier leicht fetten und mit Zucker bestreuen. Überschüssigen Zucker herausschütteln.
 1. Eigelb, Fruchtfleisch, Zitronensaft und die Hälfte des Puderzuckers in einer großen Schüssel gründlich verrühren. Mit dem Handrührgerät Eiweiß steif schlagen. Nach und nach den restlichen Puderzucker zufügen; zwischendurch gut unterrühren.
 1. Mit einem großen Metalllöffel Eiweiß portionsweise unter die Passionsfruchtmischung heben und in die Formen füllen. Mit einem Messer mit breiter klinge 2 cm vom Rand entfernt kreisförmig durch die Mischung fahren. Förmchen auf ein Backblech stellen; 20-25 Minuten backen, bis das Soufflé aufgegangen ist. Manschetten abnehmen und das Soufflé mit Puderzucker bestäuben. Sofort servieren.
@@ -40556,7 +39706,6 @@ Schokoblüten: einige Pfefferminzblüten
 Ca. 50 g Zartbitter-Kuvertüre
 
 ### Zubereitung
-
 1. Für das Mousse beide Schokoladen grob zerkleinern und auf einem heißen Wasserbad schmelzen. Die Eier trennen. Eigelb mit dem MInzezucker schaumig rühren. Eiweiß zu Eischnee schlagen. Sahne steif schlagen. Geschmolzene Schokolade unter die Eigelbmasse rühren. Den Likör ebenfalls unterrühren. Nacheinander Eischnee und Sahne unter die abgekühlte Masse heben. Am besten über Nacht im Kühlschrank fest werden lassen.
 1. Für die Schokoblüten die grob zerkleinerte Kuvertüre auf einem heißen Wasserbad schmelzen. Die Blütenähren kurz in die Kuvertüre eintauchen und auf Pergamentpapier fest werden lassen.
 1. Für den Minzezucker 100g Zucker mit 1 EL getrockneter Minze im Mixer fein mahlen.
@@ -40570,7 +39719,6 @@ Ca. 50 g Zartbitter-Kuvertüre
 200 ml Sahne
 
 ### Zubereitung
-
 1. Die Amarettini zerbröckeln und in 4 Schälchen verteilen. Die Kirschen waschen und abtropfen lassen, einige Kirschen zum Garnieren beiseitelegen. Die restlichen Kirschen entstielen und entsteinen, dabei den Saft auffangen. Amarettini mit dem Saft beträufeln, Kirschen darauf verteilen.
 1. Marzipan und Quark in ein Gefäß geben und fein pürieren. Die Sahne steif schlagen und unterheben. In die Schälchen füllen und mit Kirschen garnieren.
 
@@ -40617,7 +39765,6 @@ Mark von 1 Vanilleschote
 100 g Mascarpone (oder griechischer Joghurt)
 
 ### Zubereitung
-
 1. Für den Sirup das Fruchtfleisch der Passionfruits in einen Topf geben. Ahornsirup, 90 ml Wasser, Ingwer und Vanillemark hinzufügen und bei mittlerer Hitze köcheln lassen, bis der Sirup eingedickt ist. Dabei gelegentlich umrühren. Ist der Sirup zu dünnflüssig, ein paar weitere Minuten auf dem Herd einkochen lassen. Die Mango dazu fügen und den Sirup beiseitestellen.
 1. Für den Crêpes-Teig alle Zutaten mit 250 ml Wasser in einer Schüssel glatt pürieren. Durch ein Sieb passieren, um alle Klümpchen zu entfernen. Oder das Mehl in eine Schüssel geben, Eier und die Hälfte der Milch hinzufügen und alles glattrühren. Dann nach und nach restliche Milch und 250 ml Wasser einrühren.
 1. Zuletzt das flüssige Kokosfett und das Salz unterrühren und den Teig mindestens 30 Minuten bei Zimmertemperatur ruhen lassen (falls möglich für 1 Stunde). 
@@ -40892,7 +40039,6 @@ Karamellsirup (oder frische Früchte) zum Garnieren
 Vanilleeis, Joghurt oder Mascarpone
 
 ### Zubereitung
-
 1. Den Backofen auf 200°C (Gas Stufe 6) vorheizen.
 1. Die Pfirsiche halbieren und die Kerne entfernen. Mit der Schnittfläche nach oben auf ein Backblech setzen.
 1. Den Vermouth und den Honig in einer kleinen Schüssel verrühren. Die Vanilleschote in der Mitte aufschneiden, das Mark herauskratzen, ebenfalls in die Schüssel geben und alles gut verquirlen. Die Pistazienkerne hinzugeben und unterrühren.
@@ -41068,7 +40214,6 @@ Ungesüßtes Kakaopulver
 
 
 ### Zubereitung
-
 1. Zunächst wird der Kaffee gekocht und in eine Schüssel gegeben. In einer anderen Schüssel werden die Eigelbe und d er Zucker schaumig geschlagen, dann kommt der Mascarpone dazu. Es wird weitergerührt, sodass alle Klümpchen sich auflösen. 
 1. In eine rechteckige große Form wird etwas von der Mascarponemischung gegeben. Die Biskuits werden nacheinander in den Kaffee getunkt, bleiben dort aber nicht lange, sonst werden sie matschig. So werden sie vorsichtig nebeneinander auf den Mascarpone gelegt. Auf die Kekse gibt man wiederum eine Schicht Mascarponemischung und so geht das weiter, bis das Tiramisu am Ende mindestens aus drei Lagen Biskuits besteht.
 1. Den Abschluss bildet wieder eine Schicht Mascarpone, die mit Kakopulver bestäubt wird. Dazu verwendet man am besten ein kleines Sieb.
@@ -41404,7 +40549,6 @@ Orangensaft
 10 getrocknete, ungeschwefelte Aprikosen
 
 ### Zubereitung
-
 1. Die Himbeerschlangen zubereiten, indem man die Früchte püriert. Kosten, ob das Püree süß genug isst, wenn nicht, mehr Apfelmus oder Banane dazugeben. Die Konsistenz überprüfen: man sollte das Püree noch gießen können, aber es darf nicht zerfließen. Orangensaft hinzufügen, wenn es zu fest ist, und mehr Obst, wenn es zu dünnflüssig ist. Den Backofen auf niedrigster Stufe vorheizen. Zwei Backbleche mit Backpapier auslegen.
 1. Das Püree auf ein Blech gießen – 500 ml Fruchtpüree sollten genügen. Mit einem Teigschaber gleichmäßig (5 mm dick) verteilen. Das ist wichtig, sonst werden die Fruchtschlangen an einer Stelle zu trocken, an anderer zu feucht. 
 1. Danach die Mangoschlangen auf dieselbe Weise zubereiten. Die Ofentür einmal pro Stunde öffnen, damit die Feuchtigkeit entweichen kann, und die Position der Bleche tauschen. Das Püree ist fertig gebacken, wenn es nicht mehr klebt und sich leicht vom Backpapier löst. Je nach Ofen dauert das 5-6 Stunden. Vorsichtig vom Backpapier lösen.
@@ -41425,7 +40569,6 @@ Saft (250 ml) und Schale von 2 großen Bioorangen
 1 EL klarer Honig
 
 ### Zubereitung
-
 1. 250 ml Wasser und Reis in einen Topf mit schwerem Boden füllen und unter Rühren 2 Minuten köcheln lassen, dann die Milch hinzufügen und das Ganze kurz aufkochen. Die Hitze reduzieren, den Deckel auflegen und den Reis 25 Minuten köcheln lassen. Häufig umrühren, damit er nicht anbrennt. Falls nötig, mehr Milch dazugießen, damit der Reis eine sehr cremige Konsistenz bekommt. Mit Salz abschmecken. Vollständig abkühlen lassen, dann erst die gehackten Mandeln einrühren.
 1. Inzwischen alle Zutaten für den Sirup in einen kleinen topf geben und zum Kochen bringen. Die Hitze sofort reduzieren und den Sirup sanft köcheln lassen, bis er auf die Hälfte eingedickt ist (dauert ca. 20 Minuten). Abschmecken und eventuell noch mehr Honig zugeben. Durch ein Sieb gießen, um die Kardamomsamen zu entfernen.
 1. Den abgekühlten Reis in Gläser füllen und jeweils einen Löffel Sirup obenauf geben.
@@ -41466,7 +40609,6 @@ Mark von 1 Vanilleschote
 100 g Mascarpone
 
 ### Zubereitung
-
 1. Für den Sirup das Fruchtfleisch der Passionsfrüchte in einen Topf geben. Ahornsirup, 90 ml Wasser, Ingwer und Vanillemark hinzufügen und bei mittlerer Hitze köcheln lassen, bis der Sirup eingedickt ist, Dabei gelegentlich umrühren. Ist der Sirup zu dünnflüssig, ein paar weitere Minuten auf dem Herd einkochen lassen. Die Mango hinzufügen und den Sirup beiseitestellen.
 1. Für den Crêpe-Teig alle Zutaten mit 250 ml Wasser in einer Schüssel glatt pürieren. Durch ein Sieb passieren, um alle Klümpchen zu entfernen. Oder das Mehl in eine Schüssel geben, eier und die Hälfte der Milch hinzufügen und alles glatt rühren. Dann nach und nach die restliche Milch und 250 ml Wasser einrühren.
 1. Zuletzt das Kokosfett und das Salz unterrühren und den Teig mindestens 30 Minuten bei Zimmertemperatur ruhen lassen (falls möglich für 1 Stunde). Nochmals umrühren, damit sich das Mehl nicht unten am Schüsselboden absetzt.
@@ -41483,7 +40625,6 @@ Abgeriebene Schale und Saft von 2 Bio-Limetten
 Kerne von 1 Granatapfel
 
 ### Zubereitung
-
 1. Das Fruchtfleisch der Avocados mit einem Löffel aus den Schalen lösen. Das Fruchtfleisch mit den Limettenschalen, dem Limettensaft und den Datteln glatt pürieren. Abschmecken und eventuell noch etwas mehr Limettensaft, -schale oder Datteln hinzufügen.
 1. Die Mousse auf vier kleine Gläser verteilen und im Kühlschrank in ein paar Stunden fest etwas fest werden lassen. Mit einer großzügigen Portion Granatapfelkernen obenauf gekühlt servieren.
 
@@ -41496,7 +40637,6 @@ Kerne von 1 Granatapfel
 1 Vanilleschote
 
 ### Zubereitung
-
 1. Backofen auf 200 Grad vorheizen. 
 1. Rhabarber abspülen, Blätter entfernen. Die Stängel in kurze Stücke schneiden und in eine ofenfeste Form geben.
 1. 2 Orangen schälen, die weiße Haut vollständig entfernen, Früchte in dicke Scheiben schneiden und zum Rhabarber gebe. Den Saft der anderen beiden Orangen auspressen und über das Obst in der Form geben. Alles mit Zucker bestreuen.
@@ -41511,7 +40651,6 @@ Kerne von 1 Granatapfel
 250 ml Schlagsahne
 
 ### Zubereitung
-
 1. Man röstet die Nüsse ohne Fett in der Pfanne an, schält sie und hackt sie grob. Sie werden unter das mit 70 g Puderzucker steif geschlagenen Eiweiß gehoben. Je 2 -3 EL große Portionen von dem Eischaum, auf ein mit Backpapier belegtes Blech geben. Bei 150 Grad eine Stunde lang im Ofen backen und dann auskühlen lassen. Erdbeeren schneiden. Sahne schlagen. Nicht vergessen, den restlichen Puderzucker unterzurühren.
 1. Erdbeeren in eine Schüssel geben, die Sahne kommt darauf, schließlich das Baiser zerbröseln und darüber verteilen. Kräftig umrühren.
 
@@ -41571,7 +40710,6 @@ Diese Erdbeer-Süßspeise heißt nach dem Eton College in der Grafschaft Berkshi
 Frische Beeren
 
 ### Zubereitung
-
 1. Eier trennen, dann die Eiweiße mit einer Prise Salz zu Eischnee aufschlagen. In einer anderen Schüssel die Sahne steif schlagen. In einer dritten Schüssel die Eigelbe mit dem Zucker vermengen.
 1. In 1 bis 2 EL Wasser etwas Instantkaffee auflösen. Mit der Zucker-ei-Mischung verrühren. Es soll eine homogene, schaumige Masse entstehen. Die aufgeschlagene Sahne vorsichtig unterheben. Dann den Eischnee – nicht zu sehr rühren, sonst fällt er in sich zusammen.
 1. In eine mit Frischhaltefolie ausgelegte Kastenform von ca. 20 cm länge gießen. Ungefähr 3 bis 4 Stunden im Eisfach gefrieren lassen. Das Semifreddo mithilfe der Folie aus der Form heben. Semifreddo in Scheiben schneiden und mit frischen Beeren servieren (es schmilzt schnell….)
@@ -41594,7 +40732,6 @@ Etwas Butter zum Einfetten der Form
 Ca. 150 g Himbeeren
 
 ### Zubereitung
-
 1. Den Backofen auf 180 Grad Umluft vorheizen. 
 1. Für den Teig zunächst die Schokolade schmelzen. Das geht am besten im Wasserbad. Während die Schokolade schmilzt, ab und zu vorsichtig umrühren. 
 1. Die Eier trennen. Die Eiweiße und 1 Prise Salz zu Schnee schlagen. Eigelbe mit geschmolzener Schokolade, Puderzucker, Crème fraîche und Mehl verrühren. Den Eischnee unterheben. 
@@ -41617,7 +40754,6 @@ Mark von ½ Vanilleschote
 200 g Himbeeren
 
 ### Zubereitung
-
 1. Den Backofen auf 180 Grad Ober-/Unterhitze vorheizen.
 1. In einer Schüssel Mehl und Backpulver gut verrühren. Butter bei mittlerer Hitze langsam zerlassen und mit 100 g Zucker und Eiern in einer anderen Schüssel vermengen, Vanillemark dazugeben. Die Mehlmischung hineinstreuen und mit den Rührbesen des Handrührgeräts alles verrühren.
 1. Die Form buttern und den Teig hineingeben. Joghurt mit restlichem Zucker (40 g) vermengen und auf den Teig in der Form gießen (Nicht mit dem Teig verrühren). Die Himbeeren gleichmäßig auf dem Kuchen verteilen und vorsichtig eindrücken. Kuchen in den Ofen schieben und 30 – 40 Minuten lang backen. 
@@ -41652,7 +40788,6 @@ Zeste und Saft von 2 Biozitronen
 Nach Belieben Schmand zum Servieren
 
 ### Zubereitung
-
 1. Mit dem Handrührgerät Eier und Zucker 5 Minuten lang schaumig schlagen. In einer anderen Schüssel Mandeln, Grieß, Backpulver und Natron vermengen. Joghurt in die Eier-Zucker-Mischung geben, ebenso die Grießmischung und das Olivenöl. Weitermixen, bis ein Teig entsteht. 
 1. Springform buttern, Teig einfüllen. 45 Minuten lang bei 140 Grad Ober-/Unterhitze backen. 
 1. Währenddessen den Sirup zubereiten. In einem kleinen topf Wasser aufkochen und die Kräuter hineinlegen, ungefähr 10 Minuten ziehen lassen. Kräuter herausnehmen. Zucker in das Kräuterteewasser geben, noch mal aufkochen und 1 Minute kochen lassen, dabei weiterrühren. Vom Herd nehmen, Zeste hinzufügen, ungefähr 1 Minute lang zeihen lassen. Saft hinzugießen- Alles durch ein Sieb abseihen. De Sirup gleichmäßig und langsam über den noch warmen Kuchen verteilen. Kuchen mit einem großzügige Löffel Schmand servieren.
@@ -41667,7 +40802,6 @@ Nach Belieben Schmand zum Servieren
 2 mittelgroße Eier
 
 ### Zubereitung
-
 1. Die beiden Mehlsorten mischen und in eine Schüssel geben. Darin mit der Faust eine Kuhle formen. Hefe und etwas Zucker in ein paar Esslöffeln lauwarmer Milch auflösen. Dies in die Kuhle gießen, mit etwas Mehl vermischen. Schüssel mit einem Tuch zugedeckt 15 Minuten an einen warmen, nicht zugigen Ort stellen.
 1. Danach alle restlichen Zutaten an den Rand der Schüssel geben, nicht in die Mitte. Alles mit einem Knethaken gut vermengen. Wieder mit dem Tuch abdecken und noch mal 45 Minuten gehen lassen, bis sich das Teigvolumen verdoppelt hat. Nötigenfalls noch etwas Mehl zugeben, kurz kneten, bis der teig eine gut formbare Konsistenz hat.
 1. In drei Stränge teilen, daraus einen Zopf formen, er muss nicht perfekt sein (ansonsten: youTube). Bei 190 Grad Ober-/Unterhitze 30 Minuten lang backen. Bei Aufschneiden darauf achten, dass er auch am Boden gut durch ist.
@@ -41703,7 +40837,6 @@ Saft von 1 Zitrone
 2 EL Zitronenlikör
 
 ### Zubereitung
-
 1. Aprikosen häuten und in Stücke schneiden. Die Amaretti zerbröckelt man. Beides wird mit Konfitüre und Likör vermengt. Butter und Zucker schlägt man cremig, der Mischung fügt man Eigelbe, Ei, Vanillezucker, gesiebtes Mehl sowie Stärke, Backpulver und geriebene Zitronenschale hinzu. Mit der Butter-Zucker-mischung zu einem Rührteig verarbeiten. Es sollten sich keine Klümpchen bilden. Schließlich werden die Aprikosenstücke hinzugefügt.
 1. Den teig gibt man in 6 Förmchen, in die man zuvor eine dünne Schicht Mehl gestreut hat. Die Törtchen werden bei 160 Grad 30 Minuten lang gebacken.
 1. Jetzt bereitet man die Karamell-Aprikosen zu. Dafür wäscht man die Früchte und schneidet sie in Spalten. In einer Pfanne werden Zucker, Mineralwasser, Stärke und Butter aufgekocht. Sobald der Zucker sich verfärbt, nimmt man die Pfanne vom Herd und gießt Zitronensaft und Zitronenlikör hinein. Zurück auf dem Herd, gibt man die Aprikosenspalten dazu und lässt sie 2-3 Minuten karamellisieren. Zum Anrichten auf das Törtchen geben und mit Puderzucker bestreuen.
@@ -41728,7 +40861,6 @@ Saft von 1 Zitrone
 ½ EL Kardamomkapseln, frisch gemahlen
 
 ### Zubereitung
-
 1. Die Hefe, den Kardamom und das Salz in einer großen Schüssel verrühren und beiseitestellen. Die Butter in einem Topf zerlassen, die Milch und den Honig hinzugeben und auf ca. 40 Grad erhitzen. Über die Hefemischung gießen und rühren, bis sich die Hefe aufgelöst hat.
 1. Die Mehlsorten sieben und ca. zwei Drittel davon mit der Hefe-Milch-Mischung zu einem Teig vermengen. Nach und nach das restliche Mehl unterkneten, bis der Teig noch weich ist, aber nicht klebt. Nicht zu lange kneten. Zudecken und an einem warmen Ort ca. 1 Stunde zu doppelter Größe aufgehen lassen.
 1. Auf einer bemehlten Fläche den Teig ausrollen und zu einem ca. 50 x 45 cm großen und 5 mm dicken Quadrat ziehen.
@@ -41790,7 +40922,6 @@ Vorbereitungszeit: 20 Minuten, Backzeit: 40 Minuten
 ½ TL Meersalz
 
 ### Zubereitung
-
 1. Blätterteig auftauen lassen, dünn ausrollen. Einen Kreis schneiden, der etwas größer ist als die Pfanne, die man benutzt. Äpfel schälen, in dünne Scheiben schneiden. IN der Pfanne (Mit ofenfestem Griff) werden Wasser und Zucker ein paar Minuten lang erhitzt, sodass Karamell entsteht. Vom Herd nehmen, Butter dazugeben, verrühren. Äpfel ringförmig in die Pfanne schichten, Teig darauflegen, den Rand andrücken. 30 Minuten lang bei 170 Grad backen, dann stürzen.
 1. Für die Sauce wieder Zucker und Wasser in einer Pfanne erhitzen, bis die Mischung karamellisiert. Vom Herd nehmen, die Sahne langsam dazugießen. Bei mittlerer Hitze ungefähr 2 Minuten lang weiterköcheln lassen, dabei umrühren, bis die Sauce glatt ist. Vom Herd nehmen, Butter und Salz dazugeben. In einen feuerfesten Behälter geben, abkühlen lassen. Die Tarte mit etwas Crème fraîche und der Karamellsauce servieren.
 
@@ -41817,7 +40948,6 @@ Die Tarte schmeckt auch ohne Sauce, so wie auch die Sauce ohne Tarte schmeckt �
 2 EL Mandelblättchen
 
 ### Zubereitung
-
 1. Die weiche Butter mit der Hand in den Zucker kneten. Ei unterrühren. Die Mischung soll in Konsistenz und Farbe an Rührei erinnern. Mehl und Salz in einer Schüssel vermengen, in der Mitte eine Mulde formen. Zucker-Butter-Masse hineingeben und in das Mehl kneten, bis ein glatter Teig entsteht. Teig auf einem Stück Backpapier zu einem Kreis ausrollen, der einen Durchmesser von ungefähr 30 cm hat. Ein weiteres Stück Backpapier auf den Teig legen, das Ganze in den Kühlschrank geben, 1 Stunde dort lassen.
 1. Für den Belag Butter und Zucker verkneten. Ei, Mandeln und Mehl unterrühren. Die Springform vorbereiten: den Boden mit Backpapier bedecken, indem man es zwischen Rand und Boden klemmt, Ränder und Boden mit wenig Butter einfetten. Teig in die Form drücken, der Rand sollte etwa 3 cm hoch sein. Mandelcreme auf den Teig streichen (sie verdreifacht ihr Volumen beim Backen). Birnen schälen, der Länge nach halbieren, Kerngehäuse entfernen. Birnenhälften quer in dünne Scheibchen schneiden, die Scheibchen nicht auseinanderfallen lassen. Birnen mit der Schnittfläche nach unten auf den Teig setzen – kreisförmig angeordnete oder nach einem Muster eurer Wahl. Man muss die Birnen nicht in Scheiben schneiden, aber so lässt sich der Kuchen besser essen und sieht aus, als stamme er aus einer Patisserie. Mandelblättchen auf den Kuchen streuen. Bei 180°C Ober-/Unterhitze 30 bis 35 Minuten lang backen. Nach 15 Minuten ein Stück Backpapier auf die Form legen, damit der Kuchen nicht zu braun wird.
 
@@ -41841,7 +40971,6 @@ Salz
 25 g gehackte Pistazien
 
 ### Zubereitung
-
 1. Für den Teig Mehl und Zucker vermischen, dann Ei, Olivenöl, Zitronenabrieb und 1 Prise Salz hinzufügen. Alles zu einem Teig verkneten. Diesen zu einer Kugel formen und für 30 Minuten in den Kühlschrank stellen.
 1. Die Pfirsiche einige Minuten in kochendes Wasser legen, dann lassen sie sich leichter schälen. In Schnitze zerteilen. 
 1. Eine Tarteform mit Backpapier auslegen, die Ränder mit etwas Olivenöl einfetten. Den Teig mit den Findern in die Form drücken und dabei auch einen Rand formen. Den Teigboden mit der Gabel ein paarmal einstechen. Mandelmehl darauf verteilen. Dann die Pfirsichschnitze. Honig und Olivenöl darüberträufeln, schließlich die Pistazien darauf verteilen.
@@ -41867,7 +40996,6 @@ Für diese Tarte werden die Pfirsiche gehäutet, und während dieser etwas glits
 4 EL Butter
 
 ### Zubereitung
-
 1. Für den Teig, eine pâte sablée, werden Mehl, Puderzucker und Salz vermengt. Die Butter in Stückchen dazugeben, rühren, bis der Teig grob krümelig ist. Eigelb dazu. Rühren, bis ein bröseliger Teig entsteht. Die Klumpen verschwinden, wenn man den Teig von Hand weiterknetet. In eine Tarteform mit herausnehmbarem Boden drücken (nicht zu fest). 30 Minuten in den Tiefkühler geben.
 1. Ein gebuttertes stück Alufolie auf den Teig legen sowie eine Handvoll Trockenerbsen oder Ähnliches, damit er nicht aufgeht. 25 Minuten lang bei 190 Grad im Ofen backen, dann die Folie und Erbsen entfernen, eventuell weitere Minuten, je nach Geschmack, weiterbacken. Der Teig sollte golden, nicht braun sein. Auskühlen lassen.
 1. Für die Schokoladenfüllung, Ganache genannt, wird die Sahne zum Kochen gebracht, die Hälfte über die fein gehackte Schokolade gegeben. 30 Sekunden warten, langsam umrühren. Die restliche Sahne dazu, weiterrühren. Butter in Stückchen hinzufügen, nicht mehr als nötig rühren. Auf den gebackenen Teig geben. Die Tarte 30 Minuten kühl stellen, damit die Ganache fest wird.
@@ -41888,7 +41016,6 @@ Mark von 1 Vanilleschote
 150 g frische Himbeeren
 
 ### Zubereitung
-
 1. Den Ofen auf 170°C Umluft vorheizen. Eine Springform mit Backpapier auslegen. Backpapier und Ränder mit Sonnenblumenöl einfetten.
 1. Mehl, Zucker, Backpulver und Salz verrühren. Eier, Ricotta und Vanillemark in einer anderen Schüssel zu einer Masse vermengen. Die Mehl-Zucker-Mischung unterrühren. Butter bei schwacher Hitze zerlassen, zum Teig gießen und so lange rühren, bis sich eine homogene Masse ergibt.
 1. Dann drei Viertel der Himbeeren unterheben, Beeren dabei nicht zerdrücken.
@@ -41914,7 +41041,6 @@ Mark von 1 Vanilleschote
 Salz, Pfeffer
 
 ### Zubereitung
-
 1. Für den Teig die Hefe in die Milch bröseln und in einer Schüssel verrühren. Hefemilch über das Mehl gießen. Butter zerkleinern und mit dem Ei zur Mehlmischung geben und gut durchkneten. Den Teig auf einem bemehlten Backblech gleichmäßig ausrollen. Den Backofen auf 180 Grad vorheizen.
 1. Für den Belag die Zwiebel schälen, würfeln und in Öl anbraten. Herausnehmen und abkühlen lassen. Dann Eier, Crème fraîche und Kümmel mit den Zwiebeln vermengen. Mit Salz und Pfeffer würzen. Die Zwiebelmasse auf dem Teig verteilen und en Kuchen ca. 40 Minuten backen.
 
@@ -41942,7 +41068,6 @@ Neuen Wein aufmachen und zum Zwiebelkuchen trinken
 Salz, Pfeffer, Muskatnuss
 
 ### Zubereitung
-
 1. Es fängt harmlos an, man kippt Mehl in eine Schüssel, in die Mitte macht man eine Mulde. Dort hinein schüttet man die lauwarme Milch, in der man die Hefe aufgelöst hat. Die Schüssel stellt man abgedeckt an einen warmen Ort, damit der Vorteig gehen kann, und gibt da gibt es schon das erste Problem: viel Spaß beim Suchen nach einem warmen Ort in der schön gleichmäßig temperierten Wohnung.
 1. Nach 30 Minuten wird die Butter in der restlichen Milch geschmolzen und lauwarm mit Salz in die Schüssel gegeben. Mit den Knethaken des Handrührers zum Teig verkneten. Dieser geht wieder an einem warmen Ort, diesmal eine Stunde lang.
 1. Wenn ihr die 1,2 Kilo Zwiebeln abwiegt, stellt ihr wahrscheinlich fest, dass das sehr viel ist. Alle Zwiebeln dennoch in feine Streifen schneiden. Jetzt riecht wahrscheinlich alles an euch nach Zwiebel und ihr fragt euch, ob ihr diesen Geruch jemals wieder loswerdet, ob euch je wieder jemand küssen will 😊. Die Tränen laufen euch die Wangen hinunter – ein Mittel dagegen ist - wie anschaulich schon in einem meiner Lieblingsfilme „Diva“ gezeigt – eine Taucherbrille mit Schnorchel aufzusetzen. Also mit verquollenen Augen den Speck würfeln und in einer großen Pfanne bei mittlerer Hitze braten. Zwiebeln dazugeben, glasig dünsten. Dann saure Sahne und Eier in einer Schüssel salzen, pfeffern, und mit Muskat würzen. Die Sahne-Eier-Mischung zu den abgekühlten Zwiebeln geben. Den Hefeteig auf einem mit Backpapier ausgelegten Blech ausrollen, den Belag verteilen. Während der Zwiebelkuchen im Ofen 20 bis 25 Minuten lang bei 180°C backen. 
@@ -41963,7 +41088,6 @@ Mark von ½ Vanilleschote
 300 ml Milch
 
 ### Zubereitung
-
 1. Kirschen entsteinen. Wenn kein Entsteiner da ist, kann man folgendes machen. Stiel entfernen, Kirsche mit Stielausgang nach oben auf einen Flaschenhals setzen, mit einem Schaschlikspieß durch die Frucht stechen, sodass der Kern in die Flasche fällt.
 1. Entsteine Kirschen mit der Hälfte des Zuckers vermengen und 30 Minuten ziehen lassen. Eier und restlichen Zucker mit dem Schneebesen verrühren.
 1. Mehl, Salz und Vanillemark unterrühren, bis der Teig glatt wird. Zerlassene Butter (wenn sie abgekühlt ist) und Milch in den Teig gießen. Boden und Rand der Form buttern, mit Mehl bestäuben.
@@ -42064,7 +41188,6 @@ Baiser
 Puderzucker
 
 ### Zubereitung
-
 1. Eigelb, Eier und Zucker zusammen schaumig schlagen, bis die Masse schön stabil ist und die Struktur des Besens behält. Butter und Schokolade schmelzen und verrühren, bis beides komplett aufgelöst ist. Die Butter-Schokoladenemulsion der Ei-Masse beigeben und mischen. Zuletzt das Mehl vorsichtig unterheben.
 1. Förmchen (Kaffeetassengröße) ausbuttern und mit Zucker auskleiden. Bei 195°C im vorgeheizten Backofen ca. 11 Minuten backen.
 
@@ -42077,7 +41200,6 @@ Puderzucker
 250 g Sahne
 
 ### Zubereitung
-
 1. Sahne mit Limettenblätter aufkochen. Zucker mit Eigelb schaumig schlagen. Heiße Sahne mit der Ei-Zucker-Masse in einer Schüssel gut verrühren.
 1. Sauce in der Schüssel im Wasserbad etwa 5 Minuten aufschlagen, bis sie schön sämig wird.
 1. Durch ein Sieb passieren, abkühlen lassen und zu dem noch warmen Schokoladenkuchen servieren.
@@ -42430,7 +41552,6 @@ Dazu passt Vanille-, Schokoladen- oder Walnusseis oder auch Vanillesauce oder sc
 1 Bio-Orange, 4 Streifen Schale, dünn abgeschält
 
 ### Zubereitung
-
 1. Den Feta in einer großen Schüssel zerdrücken und so glatt wie möglich rühren. Frischkäse, Zucker und Zitronenschale zugeben und alles mit dem Schneebesen gründlich vermengen Die Sahne dazugießen und die Mischung aufschlagen, bis sie dick und formbeständig ist. Bis zur Verwendung in den Kühlschrank stellen.
 1. Den Backofen auf 180 Grad Umluft vorheizen.
 1. Für den Crumble Haselnüsse, Butter, gemahlene Mandeln und Zucker in eine Schüssel geben und die Butter mit den Fingerspitzen in die anderen Zutaten reiben, bis eine krümelige Masse entstanden ist. Sesam und Salz untermischen. Die Krümel auf einem Backblech verteilen und etwa 12 Minuten im Ofen goldbraun backen.
@@ -42464,7 +41585,6 @@ Vanillezucker
 Rum
 
 ### Zubereitung
-
 1. Butter mit Puderzucker, 2 Eiern und 4 Eigelb schaumig rühren. Dann Mehl, Haselnüsse, Mandeln, Schokolade, Backpulver, etwas Zitronensaft, 1 Prise Zimt, Nelkenpulver, Kardamon, Vanillezucker und einen Schuss Rum vermischen. Die Masse in einen Spritzsack mit großer runder Tülle füllen und eine Schicht in die Tortenform spritzen. Auf diese erste Teigschicht eine Lage Marmelade (3 – 4 mm) geben, mit einer zweiten Schicht abschließen und im Ofen bei 180 Grad ca. 30 Minuten backen.
 1. Für das Tortengitter Rohmarzipan mit Zuckerwasser und Kirschwasser spritzfähig machen. Gitter auf die Torte spritzen. Die Zwischenräume mit Marmelade ausstreichen und 5 Minuten bei starker Oberhitze im Ofen abflämmen. Mandelsplitter darauf streuen.
 
@@ -42483,7 +41603,6 @@ Info:	Ich nehme immer ein anderes Rezept für die Linzer Torte. Aus dem orangene
 75 g Raspelschokolade
 
 ### Zubereitung
-
 1. Schokolade hacken, Eier trennen. Eigelb und Butter und Zucker cremig schlagen. Rum, 2 EL Eierlikör, Mandeln und gehackte Schokolade zufügen und untermengen. Eiweiß steif schlagen und vorsichtig unter den Teig heben. In eine Form füllen und ca. 25 – 30 Minuten bei 200 Grad backen.
 1. Sahne und Vanillin und Sahnesteif steif schlagen. ¼ der Sahne in einen Spritzbeutel mit Eierlikör füllen. Die Torte mit der restlichen Sahne bestreichen und mit Sahnetupfen und Raspelschokolade verzieren. Den restlichen Eierlikör in die Mitte der Torte gießen und kaltstellen.
 
@@ -42497,7 +41616,6 @@ Info:	Ich nehme immer ein anderes Rezept für die Linzer Torte. Aus dem orangene
 4 Eigelb plus 1 weiteres zum Bestreichen
 
 ### Zubereitung
-
 1. Mehl und Zucker vermengen, Butter in Würfel schneiden und mit den Händen in die Mehl-Mischung kneten. Vier Eigelb hinzufügen, alles zu einem Teig kneten. Eine Springform oder Tarteform mit Backpapier auslegen, buttern, den Teig hineindrücken, am besten mit den Fingern oder einem Holzlöffel.
 1. Das verbliebene Eigelb verquirlen, damit den Teig bepinseln. Wer mag: mit einer Gabel ein Gittermuster hineinritzen.
 1. Den Teig bei 190 Grad Umluft in den Ofen schieben, nach 20 Minuten auf 140 Grad runterschalten. Insgesamt 45 bis 60 Minuten lang backen.
@@ -42517,7 +41635,6 @@ Info:	 Keks oder Kuchen, das ist hier die Frage😊
 200 g Ziegenkäserolle
 
 ### Zubereitung
-
 1. Den Ofen auf 180 Grad Umluft heizen. In einer Schüssel die Rosinen mit etwas heißem Wasser bedecken, zeihen lassen.
 1. In einer anderen Schüssel Eier und Milch verquirlen, Mehl und Backpulver hinzugeben, dann das Öl. Alles gut vermengen. Den Gruyère reiben, die Walnüsse grob hacken, Ziegenkäse in Würfel schneiden, Rosinen abtropfen lassen – alles unter den Teig rühren.
 1. Die Kastenform mit Backpapier auslegen, Teig hineinfüllen. Den Cake 45 Minuten lang im Ofen backen.
@@ -42540,7 +41657,6 @@ Salz, Pfeffer
 Butter zum Einfetten der Form
 
 ### Zubereitung
-
 1. Den Backofen auf 180 Grad vorheizen. 
 1. Mehl und Backpulver gründlich vermengen. In einer anderen Schüssel Eier, Milch, Öle, Salz und Pfeffer gut verrühren. Die Mischung zum Mehl geben, mit den Rührbesen des Rührgeräts verrühren, bis eine glatte Masse entsteht. 
 1. Feta in Würfel schneiden, Gruyère fein reiben, Kräuter waschen, trocken schütteln, die Blätter abzupfen und diese hacken. Alles unter den Teig heben.
@@ -42923,7 +42039,6 @@ Mark von ½ Vanilleschote
 120 g Sahne
 
 ### Zubereitung
-
 1. Den Backofen auf 180 Grad vorheizen.
 1. Für die Füllung Pfirsiche entsteinen, i Achtel schneiden. Heidelbeeren in einem Sieb waschen, verlesen und abtropfen lassen. Pfirsiche mit Zucker, Vanillemark, Heidelbeeren, Maisstärke und Salz vermengen. In die Auflaufform geben.
 1. Für den Teig Haselnüsse in einer Pfanne ohne Fett 3-5 Minuten lang rösten. Abkühlen lassen, mit dem Pürierstab zerkleinern. Mit Mehl, Zucker, Backpulver und Salz in einer Schüssel vermengen. Die Butter in Würfel schneiden und hinzufügen. die Zutaten in der Schüssel zu einem krümeligen Teig kneten. Die Krümel sollten ungefähr so groß wie Erbsen sein. Den Teig nicht zu lange kneten.
@@ -42944,7 +42059,6 @@ Salz
 Mehl für die Arbeitsfläche
 
 ### Zubereitung
-
 1. Das Mehl in eine Schüssel sieben und 1 Prise Salz darüberstreuen. In die Mitte eine Mulde drücken. 3 EL Öl mit 150 ml lauwarmen Wasser und dem Eigelb in die Mulde geben und alle Zutaten mit den Knethaken des Handrührgeräts oder auf der bemehlten Arbeitsfläche zu einem glatten Teig verkneten.
 1. Den Strudelteig halbieren, zu zwei Kugeln formen und mit dem restlichen Öl bestreichen. Die Teigkugeln jeweils in Frischhaltefolie wickeln und bei Zimmertemperatur etwa 1 Stunde ruhen lassen.
 
@@ -42970,7 +42084,6 @@ Mehl zum Bestäuben
 40 g flüssige Butter zum Bestreichen
 
 ### Zubereitung
-
 1. Die Äpfel schälen und bis auf das Kerngehäuse hobeln oder die Äpfel vierteln, schälen, entkernen und in ½ - 1 cm große Würfel schneiden. Die Mandelblättchen in einer beschichteten Pfanne ohne Fett anrösten. Zucker und Zimt vermischen und mit den Rumrosinen, dem Zitronensaft, den Biskuitbröseln und den Mandelblättchen unter die Äpfel mischen.
 1. Für den Teig den Backofen auf 200 Grad vorheizen. Eine der beiden vorbereiteten Strudelteigkugeln mit Mehl bestäuben und auf einem große Bemehlten Küchentuch mit dem Nudelholz etwas ausrollen. Den Teig über die Handrücken vorsichtig zu einem hauchdünnen Rechteck ziehen du sofort mit flüssiger Butter bestreichen.
 1. Die Hälfte der Füllung an der Längsseite des Teigs in einem Strang verteilen. Dabei an den Schmalseiten je einen 5 cm breiten Rand frei lassen und diesen nach innen einschlagen. Den Strudel mithilfe des Tuchs aufrollen und den Strudel mit der Nahtseite nach unten auf ein mit Butter gefettetes Backblech legen. Den zweiten Strudel auf die gleiche Weise herstellen. Beide Strudel mit flüssiger Butter bestreichen und im Ofen auf mittlerer Schiene 20 bis 25 Minuten goldbraun backen.
@@ -43102,7 +42215,6 @@ Pfeffer, Kümmel, edelsüßes Paprikapulver
 6 Eiweiß, steif geschlagen
 
 ### Zubereitung
-
 1. Zutaten für den Teig rasch zusammenkneten. Ca. ½ Stunde im Kühlschrank ruhen lassen. Dann den Teig etwa 2,5 cm dick ausrollen und die Backform damit auslegen.
 1. Eier trennen. Eigelb mit Zucker schaumig schlagen. Anschließend den Quark, die Crème fraîche und das Sahnepuddingpulver dazugeben und verrühren. Zum Schluss Eischnee unterheben. Masse in die vorbereitete Kuchenform füllen und den Kuchen bei 160 Grad ca. 40 Minuten backen.
 
@@ -43122,7 +42234,6 @@ Etwas Zitronenschale
 150 g Zucker
 
 ### Zubereitung
-
 1. Hefe in etwas Zucker und Milch auflösen. Mehl dazugeben, übrigen Zucker, restliche Milch, Salz, geriebene Zitronenschale und Butter.
 1. Teig mit dem Knethaken behutsam mischen. Bei mittlerer Geschwindigkeit kneten, bis er ganz glatt ist und sich vom Schüsselrand löst. Zudecken und 20 Minuten gehen lassen.
 1. Zwetschgen waschen, trocknen, entsteinen. Das Backblech mit Backpapier auslegen.
@@ -43145,7 +42256,6 @@ Zucker, Salz
 Pfeffer
 
 ### Zubereitung
-
 1. Mehl in eine Schüssel sieben. 250 ml Milch lauwarm erhitzen. Hefe hineinbröckeln und darin auflösen. 4 EL Mehl abnehmen, mit 1 Prise Zucker zur Hefemilch geben und kurz umrühren. Vorteig unter einem Tuch an einem warmen Ort 30 Minuten gehen lassen. 1 große Prise Salz unter das Mehl mischen und eine Mulde hineindrücken. 2 Eier, 5 EL Öl und Vorteig in die Mulde geben. Erst mit den Knethaken des Handrührers, dann mit den Händen zu einem glatten Teig verkneten. Zugedeckt an einem warmen Ort etwa 1 Stunde gehen lassen.
 1. Zwiebeln schälen und in feine Ringe hobeln. In 4 EL Öl bei niedriger Hitze glasig dünsten, aber nicht bräunen. In eine große Schüssel geben und auskühlen lassen. 4 Eier mit saurer Sahne, Kümmel, Salz und Pfeffer verquirlen. Alles mit der Eiermasse vermengen.
 1. Backofen auf 190 Grad (Umluft 170 Grad) vorheizen. Den Teig auf einer bemehlten Arbeitsfläche kräftig durchkneten und ca. 5 mm dick auf Blechgröße ausrollen. Die Teigplatte auf das mit Backpapier belegte Blech geben und einen kleinen Rand hochziehen. Den Teigboden ein paarmal mit einer Gabel einstechen. Die Zwiebel-Eiermasse gleichmäßig darauf verteilen. Den Zwiebelkuchen im Ofen auf der 2. Schiene von unten etwa 45 Minuten lang goldbraun backen.
@@ -43195,7 +42305,6 @@ Salz, Pfeffer
 2 Zweige Thymian
 
 ### Zubereitung
-
 1. Mit dem Knethaken des Rührgeräts werden Mehl, Öl und Salz vermengt, sodass sich Klümpchen bilden. 90 ml kaltes Wasser werden langsam dazugegeben. Weiterrühren, bis ein Teig entsteht, den man eventuell noch einmal mit den Händen durchknetet. 
 1. Zwiebeln schälen und in feine Ringe schneiden – man sollte eine milde Sorte wählen, die ist meistens groß und weiß. 
 1. Butter in einer Pfanne schmelzen, Zwiebeln darin andünsten, salzen und pfeffern, mit Weißwein ablöschen. 20 – 30 Minuten lang unter Rühren bei schwacher Hitze dünsten. Die Zwiebeln sollen am Ende butterweich sein und keine Farbe annehmen. 
@@ -43225,7 +42334,6 @@ Bei dieser Tarte muss man Geduld haben, da die Zwiebeln bevor der Teig im Ofen g
 Ca. 500 g Zwetschgen
 
 ### Zubereitung
-
 1. Für den Teig die weiche Butter mit der Hand in den Zucker kneten. Ei unterrühren. Mehl und Salz hinzufügen und alles zu einem Teig kneten. Teig in Frischhaltefolie wickeln und 1 Stunde im Kühlschrank ruhen lassen.
 1. Für den Belag Butter und Zucker verkneten. Ei, Mandeln und Mehl unterrühren. Dann die Springform vorbereiten: den Boden mit Backpapier bedecken, indem man es zwischen Rand und Boden klemmt, Ränder und Boden mit wenig Butter einfetten. Teig in die Form drücken, der Rand sollte etwa 3 cm hoch sein.
 1. Mandelcreme auf den Teig streichen (sie verdreifacht beim Backen ihr Volumen). Zwetschgen halbieren, entkernen, in Schnitze schneiden. Kreisförmig auf der Tarte anrichten. Bei 180 Grad Ober- und Unterhitze 30 bis 35 Minuten backen. Dazu passt Schlagsahne.
@@ -43252,7 +42360,6 @@ Abrieb von einer Biozitrone
 250 g Puderzucker
 
 ### Zubereitung
-
 1. Zunächst die Eier trennen. Eiweiß steif schlagen und beiseitestellen. In einer Teigschüssel Öl und Zucker gut verrühren. Eigelb hinzufügen und unterrühren.
 1. Zucchini mit der Schale grob raspeln und dazugeben. Mehl sieben, mit Backpulver, Zimt und Salz vermengen. Zusammen mit dem Zitronenabrieb in die Teigschüssel zur Zucchini-Mischung geben. Zum Schluss den Eischnee vorsichtig unterheben.
 1. Die Kastenform mit einer Länge von 30 cm mit etwas Öl einfetten. Teig hineingeben. Kuchen ungefähr 50 bis 55 Minuten lang im unteren Drittel des Ofens bei 180 Grad Umluft backen. Etwa 15 Minuten lang abkühlen lassen, dann aus der Form nehmen.
@@ -43273,7 +42380,6 @@ Zucchini schmecken ja in der Regel wie Kürbisse und fast ein bisschen nussig. F
 1 Rosmarinzweig
 
 ### Zubereitung
-
 1. Rosinen in einer Tasse warmem Wasser 10 Minuten einweichen. Das Kastanienmehl sorgfältig und langsam in den 300 ml Wasser auflösen. Es soll ein glatter und nicht zu dünnflüssiger Teig entstehen. Für ca. 1 Stunde ruhen lassen. Dann Salz, Zucker und 1 EL Öl, zwei Rosinen und einen Pinienkern hinzugeben und alles vermengen.
 1. Den Boden der Kuchenform mit Öl einfetten und den Teig hineingeben, glattstreichen. Nun 1 EL Rosinen, eine Pinienkern und das verbliebene Öl darüberstreuen und mit einem Rosmarinzweig garnieren.
 1. Für 20 Minuten in dem auf 180 Grad vorgeheizten Backofen stellen du dann die Temperatur etwas verringern und für weitere 20 Minuten backen. Der Castagnaccio muss eine schöne goldbraune Farbe haben. Man serviert ihn lauwarm.
@@ -43291,7 +42397,6 @@ Zucchini schmecken ja in der Regel wie Kürbisse und fast ein bisschen nussig. F
 Vanillepudding
 
 ### Zubereitung
-
 1. Die weiche Butter mit dem Zucker, dem Ei und den gehackten Mandeln schaumig aufschlagen. Nach und nach das Mehl und das Backpulver hinzufügen. Aus dem weichen Teig ein kleines Brot formen, in zwei Hälften teilen. Breiten sie eine davon auf einer Ofenform ohne Rand mit 30 cm Durchmesser aus. Teig leicht einstechen. 
 1. Die beiden Scheiben nacheinander im vorgeheizten Backofen bei etwa 180 Grad für 10 Minuten backen. Aus den Formennehmen, sobald sie lauwarm sind und auf ein rundes Serviertablett legen. Mit dem Vanillepudding bestreichen. Die zweite Scheibe darauf gleiten lassen und leicht an die Creme drücken. Die Oberfläche mit Vanillezucker bestreuen. 
 
@@ -43310,7 +42415,6 @@ Vanillepudding
 50 g gesalzenen Erdnüsse, grob zerkleinert
 
 ### Zubereitung
-
 1. Den Backofen auf 180 Grad vorheizen und eine 24 cm große Kastenform mit Backpapier auslegen und den Rand mit Bitter einfetten.
 1. Die ungesalzenen Erdnüsse so fein wie möglich mahlen. Die Mehl-Backpulver-Mischung in eine große Schüssel geben und mit Zucker, zerlassener Butter, Eiern und gemahlenen Erdnüssen glattrühren.
 1. In die Kuchenform füllen und 25 – 30 Minuten backen. Abkühlen lassen.
@@ -43333,7 +42437,6 @@ Abgerieben Schale einer Bio-Orange
 2/3 TL gemahlener Kardamom
 
 ### Zubereitung
-
 1. Die Pistazien grob hacken. Die Butter würfeln und in eine große Rührschüssel geben. Die Mehlsorten, 100 g Zucker, Salz, Orangenschale, Datteln und Kardamom hinzufügen. Von den Pistazien 2 EL zum Garnieren beiseitestellen. Den Rest in die Schüssel geben.
 1. Alles mit den Fingern zu einem Teig vermengen, glatt kneten, aber nicht zu stark bearbeiten. Den Teig zu einer 5 cm dicken Rolle rollen. In Frischhaltefolie einschlagen und 45 Minuten bis 1 Stunde zum Festwerden in den Kühlschrank legen.
 1. Den Backofen auf 180 Grad vorheizen und wie Backbleche mit Backpapier belegen. Den fest gewordenen Teig aus dem Kühlschrank nehmen und auspacken. Mit einem scharfen Messer 1 cm dicke Scheiben abschneiden und mit 3 cm Abstand zueinander auf die Backbleche verteilen.
@@ -43346,7 +42449,6 @@ Abgerieben Schale einer Bio-Orange
 1 Handvoll Rosenblätter
 
 ### Zubereitung
-
 1. Ein Backblech mit Backpapier belegen. Ein zweites Backpapier bereitlegen.
 1. Die Cashews so fein wie möglich zerkleinern. Den Zucker in einen Topf geben und mit 60 ml Wasser bei mittlerer Hitze erwärmen, bis der Zucker sich aufgelöst hat und die Mischung aufkocht. Dann die gemahlenen Cashews hineingeben. Durchrühren und unter gelegentlichem Rühren 6 – 8 Minuten köcheln lassen, bis die Mischung andickt. Sobald ein Holzlöffel in der Mischung stehen bleibt, ohne sofort umzukippen, die Mischung auf das Backpapier gießen. Mit Rosenblättern bestreuen.
 1. Das zweite Backpapier auf die Mischung legen und den Fudge rund 5 mm dick ausrollen. Das obere Blatt abziehen und den Fudge auskühlen lassen. (Übrige klebrige Cashews im Topf mit Wasser loskochen).
@@ -43364,7 +42466,6 @@ Kokosraspel
 50 g gehackte gemischte Nüsse
 
 ### Zubereitung
-
 1. Zunächst alle Utensilien zurechtlegen. Eine Handvoll Kokosraspel in einer gelichmäßigen Lage auf einen Teller streuen und einen Teller für die fertigen Kugeln bereitstellen.
 1. Die Datteln mit Kokosöl, Kardamom und 1 EL Kokosraspeln klein hacken. Es braucht einige Minuten, bis die Mischung sich zu einem Teig verbindet. 
 1. Die gehackten Nüsse mit der Dattelmischung verkneten. Wenn die Mischung zu klebrig ist, die Hände mit etwas Kokosöl einreiben. Die Mischung zu marshmallowgroßen Kugeln formen und in den Kokosraspeln wälzen.
@@ -43419,7 +42520,6 @@ Kokosraspel
 25 g Zucker
 
 ### Zubereitung
-
 1. Vanilleschote auskratzen und das Mark mit den übrigen Teig### Zutaten zu einem Knetteig verarbeiten. Diesen gleichmäßig auf 2 am Boden gefettete Springformen geben und mit dem Handballen flach drücken.
 1. Ofen auf 180 Grad vorheizen. Eiweiße steif schlagen, dabei langsam den Zucker unterrühren. Baisermasse auf beiden Böden verteilen und mit Mandeln bestreuen. Ca. 40 Minuten backen.
 1. Erdbeeren halbieren und vierteln. Die übrigen Zutaten in einem Topf zum Kochen bringen. Etwas abkühlen, Erdbeeren unterheben und auf den beiden Böden verteilen. 
@@ -43454,7 +42554,6 @@ Mark einer Vanilleschote
 4 Erdbeeren
 
 ### Zubereitung
-
 1. Ofen auf 180 Grad vorheizen. Eier mit Zucker zu einer weißschaumigen Masse mischen. Mehl und Stärke sieben und abwechselnd mit der lauwarmen Butter unter die Schaummasse ziehen. In eine mit Backpapier ausgelegten Form füllen und in ca. 35 Minuten hellbraun backen. Auskühlen lassen.
 1. Erdbeeren mit dem Zucker und Zitronensaft pürieren und durch ein feines Sieb streichen. Das aufgefangene Püree mit dem Vanillemark mischen. Gelatine einweichen. Sahne mit Zucker steif schlagen. Gelatine tropfnass in einem Topf bei milder Hitze auflösen. Das Erdbeerpüree unter die Gelatine mischen und dann alles unter die geschlagene Sahne ziehen.
 1. Tortenboden quer halbieren und einen Boden mit der Hälfte der Creme bestreichen. Den anderen Boden daraufsetzen du die restliche Creme darauf verstreichen. Einen Tortenring darumlegen und mindestens 5 Stunden im Kühlschrank fest werden lassen.
@@ -43479,7 +42578,6 @@ Salz
 100 g Puderzucker
 
 ### Zubereitung
-
 1. Heidelbeeren auftauen lassen und mit 30 g Zucker fein pürieren. Butter, 170 g Zucker, Orangenschale und 1 Prise Salz mit dem Handmixer 8 Minuten cremig rühren. Eier einzeln in ½ Minute Abstand gut unterrühren.
 1. Mehl, Stärke und Backpulver mit Milch und 3 EL Orangensaft unter die aufgeschlagene Buttermischung rühren. Den Teig halbieren. Unter eine Teighälfte die Heidelbeeren und Mandeln rühren. 
 1. Beide Teige abwechselnd in mehreren Schichten in eine gefettete Gugelhupfform geben. Mit einer Gabel marmorieren. Den Kuchen im vorgeheizten Backofen bei 175 Grad ca. 55 – 60 Minuten backen. 10 Minuten in der Form lassen, dann stürzen und abkühlen lassen. Mandelblättchen in einer Pfanne ohne Fett rösten.
@@ -43517,7 +42615,6 @@ Mark von einer Vanilleschote
 150 g Zucker
 
 ### Zubereitung
-
 1. Für den Teig alle vier Zutaten mit den Händen zu einem homogenen Teig verkneten, in Folie einwickeln und 15 bis 30 Minuten lang in den Kühlschrank legen.
 1. Für die Streusel alle Zutaten verkneten, bis der Teig anfängt zu binden und Streusel entstehen.
 1. Für die Füllung vom Rhabarber die Enden entfernen. Die Stiele in 1 – 2 cm große Stücke schneiden. Die restlichen Zutaten außer den Mandeln verrühren und Rhabarberstücke dazugeben. Die Springform mit einem Backpinsel buttern und mit Mehl bestäuben. Etwa vier Fünftel des Mürbeteigs ausrollen und in die Springform geben. Man kann den Teig auch zu einer Kugel formen und dann in der Form mit den Händen passen drücken – mache ich eigentlich immer so 😊 Aus dem restlichen Fünftel des Teigs einen 3 – 4 cm hohen Rand bilden. Den Boden mit einer Gabel perforieren und mit den gemahlenen Mandeln bestreuen. Die Rhabarbercreme-Füllung hineingeben und mit den Streuseln bedecken. Im Ofen bei 180 Grad Ober- und Unterhitze auf der zweituntersten Schiene für ca. 45 Minuten backen.
@@ -43535,7 +42632,6 @@ Mark von einer Vanilleschote
 1 Prise Salz
 
 ### Zubereitung
-
 1. Backofen auf 180 Grad vorheizen. 
 1. Zucker, Butter, Eier schaumig rühren. Mehl, Salz und Zimt mischen. Alles zusammen mischen.
 1. Den Teig zu einer Kugel formen und in Scheiben schneiden. Im Backofen ca. 15 Minuten backen.
@@ -43594,7 +42690,6 @@ Das war früher dein Lieblingskuchen bei Barbara, liebes Paulchen.
 1 Blockschokolade
 
 ### Zubereitung
-
 1. Teig einen Tag vor der Fertigstellung der Torte zubereiten und über Nacht im Kühlschrank lassen.
 1. Zutaten in eine Schüssel geben und mit der Hand verkneten. Danach den Teig in eine Kugel formen und über Nacht in den Kühlschrank legen.
 1. Backofen auf 180 Grad vorheizen. Teig auf einer leicht bemehlten Fläche überkreuz ausrollen bis der Teig eine Dicke von ca. 2 – 3 mm hat. Tortenring auf den Teig pressen und den Innenring ausschneiden. Den Teig im Backofen goldbraun backen. Dauert nicht lange. Also lieber dabeibleiben, damit er nicht verbrennt.
@@ -43616,7 +42711,6 @@ Simon ist der Lehrling von Opa gewesen und hat das Erbe dieser Torte übernommen
 500 g Mehl
 
 ### Zubereitung
-
 1. Eier und Zucker lange und gut schlagen, bis eine luftige creme entsteht. Anis und Mehl darunterkneten und 10 Minuten ruhen lassen. 
 1. Den noch leicht klebenden Teig in 4 Teile teilen und einzeln auf Mehl 8 – 10 mm dick ausrollen. Damit sich der Teig wie Seide anfühlt nochmals leicht mit Mehl bestäuben.
 1. Jetzt den hauchdünn ausgemehlten Model gleichmäßig eindrücken, das Bild mit einem passenden Ausstecher oder einem Messer ausschneiden und auf ein mit Backpapier belegtes Blech legen. Den eventuell trockenen Restteig immer mit feuchten Händen weiterverarbeiten.
@@ -43641,7 +42735,6 @@ Schale und Saft von 1 Orange
 Schale und Saft von 2 Orangen
 
 ### Zubereitung
-
 1. Eier und Zucker gut verrühren. Butter bei schwacher Hitze langsam zerlassen und dazugießen. Grieß, Mandeln, Mehl und Backpulver dazugeben und alles verrühren. Orangenschale fein reiben, dann den Saft auspressen und beides zusammen zum Teig geben.
 1. Backpapier auf den Boden der Springform klemmen, das Papier und die Ränder der Form mit Butter einfetten. Teig in die Form geben und bei 180 Grad Ober- und Unterhitze 30 Minuten lang backen. 
 1. Für den Sirup Zucker und Saft und Abrieb der Orangen aufkochen, bis sich der Zucker gelöst hat. Über den Kuchen gießen und einziehen lassen.
@@ -43664,7 +42757,6 @@ Optional:	Sauerrahm
 Frische Beeren
 
 ### Zubereitung
-
 1. Ofen auf 175 Grad Umluft heizen. Boden und Rand der Springform buttern, mit 2-3 EL Zucker bestreuen. Kein Problem, wenn sich etwas überschüssiger Zucker auf dem Boden sammelt. Den Boden schließlich mit Mandeln bedecken.
 1. Eier und Zucker mit dem Handrührer schlagen, am besten ganze 5 Minuten lang. Butter in einem Topf auf dem Herd zergehen lassen. Kardamomsamen aus den Kapseln nehmen. Samen in einem Mörser zerstoßen. Mehl und eine großzügige Prise Salz und die Eier-Zucker-Mischung geben, schnell vermengen. Butter und Kardamom dazugeben. Teig gut verrühren, in die Form gießen. Kuchen 30 bis 35 Minuten lang backen. Kurz auskühlen lassen, mit einem Messer vom Rand lösen und den Kuchen stürzen.
 1. Optional: Einen Becher Sauerrahm auf dem Kuchen verstreichen und darauf frische Beeren verteilen.
@@ -43688,7 +42780,6 @@ Kleine Geschichte zu diesem Rezept. Im Jahr 1987 brachte eine schwedische Textil
 40 g Pinienkerne
 
 ### Zubereitung
-
 1. Wasser zum Kochen bringen, Anissamen darin 10 Minuten langziehen lassen. Dann abgießen und 250 g Zucker in dem Tee auflösen.
 1. Grieß, Mehl, Kurkuma, gemahlenen Anis und Backpulver gut in einer Schüssel vermengen. 120 ml Pflanzenöl und die Tee-Zucker-Mischung dazugeben. Es entsteht ein Teig von der Konsistenz eines Pfannkuchenteigs.
 1. Mit 1 – 2 EL Tahin eine flache rechteckige Backform ausfetten. Teig hineingeben. Mandeln und Pinienkerne gleichmäßig auf dem Teig verteilen. Im Ofen bei 180 Grad ca. 40 Minuten backen.
@@ -43711,7 +42802,6 @@ Salz, Pfeffer
 2 Zweige Thymian
 
 ### Zubereitung
-
 1. Mit den Knethaken des Rührgeräts werden Mehl, Öl und Salz vermengt, sodass sich Klümpchen bilden. 90 ml kaltes Wasser langsam dazugeben. Weiterrühren, bis ein Teig entsteht, den man eventuell noch einmal mit den Händen durchkneten. Zwiebeln schälen und in feine Ringe schneiden – man sollte eine milde Sorte wählen, die ist meistens groß und weiß. Butter in einer Pfanne schmelzen, Zwiebeln darin andünsten, salzen und pfeffern, mit Weißwein ablöschen. 20 bis 30 Minuten bei milder Hitze dünsten. Die Zwiebeln sollen am Ende butterweich sein und keine Farbe annehmen. 
 1. Thymian waschen, trocken schütteln, die Blättchen abzupfen und diese zum Schluss hinzufügen. Zwiebelmischung gründlich abkühlen lassen.
 1. Den Backofen auf 180 Grad vorheizen. In einer Tarteform Backpapier auslegen und darauf den Teig geben. Teig mit den Händen in die Form drücken. Mit einer Gabel den Teig mehrmals einstechen. Zwiebeln darauf gleichmäßig verteilen und die Tarte im heißen Ofen 30 Minuten lang backen.
@@ -43742,7 +42832,6 @@ Abrieb von 3 Zitronen
 150 g Zucker
 
 ### Zubereitung
-
 1. Ei, Butter und Zucker schaumig schlagen. Mehl dazugeben und von Hand kneten, aber nicht zu lange. Teig in Folie wickeln und eine knappe Stunde im Kühlschrank ruhen lassen. In eine gefettete Springform drücken, die Ränder formen. Teig ein paar Mal mit der Gabel einstechen. Backpapier auf den Teig legen, mit Backerbsen beschweren und 30 Minuten bei 150 Grad backen.
 1. Für die Creme alle Zutaten bis auf die Butter in einem Topf vermengen und langsam unter Rühren erhitzen, aber nicht zum Kochen bringen. Wenn die Masse cremig ist, vom Herd nehmen und zerlassene Butter einrühren. Creme auf den vorgebackenen Teig geben und eine weitere halbe Stunde backen. 
 1. Für den Baiserdeckel Eiweiß mit Zucker steif schlagen. Masse auf einem mit Backpapier ausgelegten Blech verteilen, sodass sich ein Rund mit dem Durchmesser der Springform ergibt. Bei 120 Grad 1 Stunde im Ofen trocken backen. Auskühlen lassen, auf die Torte geben. Vorsicht, dass das Baiser dabei nicht zu Bruch geht.
@@ -43791,7 +42880,6 @@ Info:	Dies ist das legendäre Hermannrezept aus den 80er Jahren. Hermann wohnte 
 500 g Johannisbeeren
 
 ### Zubereitung
-
 1. Den Ofen auf 170 Grad Ober- und Unterhitze vorheizen. Den Boden der Springform mit Backpapier belegen und den Rand gut einfetten. In einer Schüssel die Zutaten für den Teig mischen und verkneten. Den Teig in der Springform verteilen und festdrücken, dabei einen Rand von ungefähr 4 cm formen.
 1. Für die Füllung die Eiweiße schaumig schlagen. Zucker dazugeben, dann das Eiweiß steif schlagen. Etwa ein Drittel des Eischnees beiseitestellen. Unter den Rest Mandeln, Stärke und Johannisbeeren heben, das Ganze auf dem Teigboden verteilen.
 1. Den übrigen Eischnee darauf verstreichen. Den Kuchen zunächst 10 Minuten lang im Ofen backen, dann ein Stück Alufolie darüberlegen und noch mal 50 Minuten lang backen.
@@ -43859,7 +42947,6 @@ Salz
 50 g Mehl
 
 ### Zubereitung
-
 1. Erdnüsse und 80 g Cranberrys grob hacken. Kuvertüre fein hacken. Eier, Zucker und 1 Prise Salz mit den Quirlen des Handrührgeräts dockschaumig aufschlagen.
 1. Erdnüsse, gehackte Cranberrys und 80 g Kuvertüre unter die Eiermasse heben. Mandeln und Mehl mischen und ebenfalls unterrühren. Ein kleines Tablett mit Frischhaltefolie auslegen und den Teig darauf geben. Eine weitere Lage Frischhaltefolie auf den Teig legen und diesen mit einer Teigrolle flach drücken (ca. 1 cm). Die Ränder gerade drücken und Teigplatte 4 Stunden im Kühlschrank kühl stellen.
 1. Backofen auf 190 Grad (Umluft 170 Grad) vorheizen. Gekühlten Teig in 4 x 4 cm große Quadrate schneiden und diese quer zu Dreiecken halbieren. Auf ein mit Backpapier belegtes Blech legen und 1 Stunde trocknen lassen. Kekse im Ofen auf der mittleren Schiene ca. 15 Minuten backen, danach vollständig auskühlen lassen.
@@ -43911,7 +42998,6 @@ Saft von 1 Limette
 60 g Butter (Plus etwas für die Form)
 
 ### Zubereitung
-
 1. Die Birnen waschen, schälen und vierteln, das Kerngehäuse entfernen. In einem Topf Wasser, Zucker und Kardamom zum Kochen bringen. Den Topf vom Herd nehmen, die Birnen hineingeben und 15 Minuten langziehen lassen. Herausnehmen und beiseitestellen. Den Sud braucht man nicht mehr.
 1. Für den Teig, der recht flüssig ist, drei Eier mit 100 g Zucker schaumig rühren. Dann Mehl, Backpulver, Milch und Öl hinzufügen. Den Boden eiern Springform mit Backpapier auslegen, das Papier und den Rand der Form buttern, darauf 2 EL Zucker streuen. Die Form nun mit den Birnen auslegen, die man zuvor in Schnitze geschnitten hat. Die Birnen dürfen durchaus zwei Lagen bilden. Den Teig nun darüber gießen.
 1. Für 20 Minuten bei 180 Grad Umluft im Ofen backen. In der Zwischenzeit lässt man 60 g Butter bei sehr niedriger Hitze zergehen, rührt das verbliebene Ei und 3 EL Zucker darunter. Diese Mischung über den halbgaren Kuchen gießen. Den Kuchen danach noch weitere 20 Minuten backen.
@@ -43938,7 +43024,6 @@ Mark von 1 Vanilleschote
 2 EL Puderzucker
 
 ### Zubereitung
-
 1. Den Backofen auf 170 Grad Unter- und Oberhitze vorheizen. Butter würfeln, Schokolade in 2 cm große Stücke schneiden, beides in eine Schüssel geben. Den heißen Kaffee darübergießen. Umrühren, bis Butter und Schokolade geschmolzen sind. Zucker einrühren, bis er sich aufgelöst hat. Eier verquirlen und dazugeben. Mehl sieben, mit Back- und Kakaopulver sowie Salz vermengen. In die Butter-Schokoladenmischung geben. Gut verrühren. Nicht wundern, der Teig ist recht flüssig.
 1. Springform buttern, Rand und Boden mit Backpapier auslegen. Teig hineingießen. Den Kuchen eine Stunde lang backen.
 1. Für die Mascarponecreme alle Zutaten 1 bis 2 Minuten mit dem Rührgerät schlagen, bis die Masse steif wird.
@@ -43956,7 +43041,6 @@ Mark von 1 Vanilleschote
 50 g Zucker
 
 ### Zubereitung
-
 1. 200 g Butter würfeln, in einen Topf bei niedriger Hitze zergehen lassen, bis sie sich etwas dunkler färbt (nicht anbrennen lassen). Lauwarm werden lassen. Eiweiß steif schlagen. Puderzucker, Mehl, Mandeln, Honig du die flüssige Butter in die Schüssel geben und alles zu einem recht flüssigen Teig verrühren. 
 1. Die Äpfel schälen und in schmale Schnitze schneiden. Die restliche Butter mit dem Zucker in einer großen Pfanne erhitzen. 4 EL Wasser und dann die Äpfel hinzufügen. Etwa 10 Minuten lang unter Rühren garen, bis die Äpfel karamellisieren.
 1. Äpfel in die mit Backpapier ausgelegte Backform geben, den Teig darüber verteilen. Ungefähr 30 Minuten lang bei 200 Grad Ober- und Unterhitze backen. Den Kuchen nach 20 Minuten mit Backpapier bedecken, damit er nicht zu dunkel wird.
@@ -43981,7 +43065,6 @@ Mark von 1 Vanilleschote
 300 g Brombeeren
 
 ### Zubereitung
-
 1. Für den Teig die Butter würfeln und in einer Schüssel mit dem Zucker verkneten. Ei unterrühren. Mehl und Salz in einer Schüssel vermengen und hinzufügen. Zu einem glatten Teig kneten, diesen zu einer Kugel formen, in Frischhaltefolie einwickeln du für 30 Minuten in den Kühlschrank legen. 
 1. Für den Belag Butter und Zucker verkneten. Ei, Mandeln und Mehl unterrühren. Die Rosmarinnadeln sehr fein hacken, unter die Mischung mengen. Den Boden der Springform mit Backpapier auslegen, den Rand buttern. Teig in die Form drücken, einen Rand stehen lassen. Mandelcreme auf den Teig streichen, Brombeeren darauf verteilen. Die Creme geht beim Backen auf.
 1. Bei 180 Grad Ober- und Unterhitze 30 bis 35 Minuten lang backen. Nach 15 Minuten Backpapier auf den Kuchen legen, damit er nicht zu braun wird.
@@ -44007,7 +43090,6 @@ Salz
 3 EL gehackte Pistazien
 
 ### Zubereitung
-
 1. Den Ofen auf 175 Grad Umluft heizen. 
 1. Gehackte Pistazien mit dem Pürierstab zu Mehl zerkleinern. In einer Schüssel Zucker und Butter drei Minuten lang mit dem Rührgerät verrühren. Ricotta, Vanille, Pistazienmehl und das Ei hineinrühren. Dann Mehl, Backpulver und Salz dazugeben, bis ein Teig entsteht. Mit einem Teelöffel Kekse formen. Die man auf ein mit Backpapier belegtes Blech setzt. Den Teig an der Oberfläche eventuell mit den Fingern etwas glattstreichen.
 1. Die Kekse etwa 15 Minuten lang backen, aber ab Minute 12 aufpassen, dass sie nicht zu braun werden.
@@ -44091,7 +43173,6 @@ Eine weitere Zitrone
 Schlagsahne (wenn man will)
 
 ### Zubereitung
-
 1. Ofen auf 180 Grad Umluft vorheizen. Eine Kastenform mit Backpapier so auskleiden, dass an den Seiten etwas Papier übersteht. 
 1. Mehl, Backpulver, Salz und Kurkuma in einer Schüssel mischen. Zucker und Zitronenabrieb in eine zweite Schüssel geben und mit den Fingerspitzen so lange verreiben, bis der Zucker eine gelbliche Farbe hat. Zitronensaft, saure Sahne und Eier dazugeben und so lange schlagen, bis alles gut vermischt ist.
 1. Dann die Zitronenmischung mit einem Gummischaber in die Schüssel mit dem Mehl geben und kurz verrühren. Geschmolzene Butter unterheben und den Teig in die Backform geben. 
@@ -44116,7 +43197,6 @@ Fein geriebene Schale von 3 Bio-Zitronen (ungefähr 1 EL)
 2 EL Zitronensaft
 
 ### Zubereitung
-
 1. Den Ofen auf 160 Grad Umluft vorheizen. Eine Kastenform mit Backpapier auslegen, mit etwas Butter einfetten.
 1. Eier und Zucker mit einem Handrührgerät 2 Minuten lang vermengen, bis die Masse blass und schaumig ist. Sahne dazugießen und weitere 2 Minuten rühren. 
 1. Butter bei sehr niedriger Hitze zergehen lassen, Mohnsamen und Zitronenschale unterrühren. +Mehl, Backpulver und Salz sieben, zu der Eiermischung geben. Dann die Butter-Zitronenmischung unterrühren. Teig in die Kastenform füllen. Ungefähr 50 Minuten lang im Ofen backen.
@@ -44151,7 +43231,6 @@ Ein wenig Salz
 Etwas Sonnenblumenöl
 
 ### Zubereitung
-
 1. Für den Teig Mehl, Mandelmus, Zucker und eine Prise Salz in eine Schüssel geben und mit den Händen verkneten, sodass eine krümelige Masse entsteht. Dann etwa 2 EL Wasser dazugeben und das Ganze glatt kneten – erstaunlicherweise schmeckt dieser Teig so gut wie gewöhnlicher roher Kuchenteig.
 1. Falls der Teig zu trocken erscheint, esslöffelweise mehr Wasser dazugeben. Zu einer Kugel kneten, in Frischhaltefolie einwickeln und 30 Minuten lang im Kühlschrank ruhen lassen. Dann schon mal den Ofen auf 180 Grad Umluft vorheizen.
 1. Für den Belag Mandelmus, Zucker, gemahlene Mandeln, Mehl, Salz und Vanille verrühren. Die Schokolade schmelzen und dazugeben. Teig aus dem Kühlschrank nehmen.
@@ -44175,7 +43254,6 @@ Fett zum Frittieren
 Puderzucker zum Bestreuen
 
 ### Zubereitung
-
 1. Eier, Zucker und Vanillezucker schaumig rühren. Saure Sahne und Salz hinzufügen. Nach und nach Mehl und Backpulver in die Masse hineinsieben und alles zu einem glatten Teig verkneten. Den Teig in Frischhaltefolie wickeln und im Kühlschrank ca. 30 Minuten ruhen lassen.
 1. Den Teig dünn ausrollen und mit einem Teigrädchen in Rauten schneiden. Das Fett in einer tiefen Pfanne erhitzen und die Scherben goldbraun ausbacken. Herausnehmen, abtropfen lassen und mit Puderzucker bestreuen.
 
@@ -44203,7 +43281,6 @@ Puderzucker zum Bestreuen
 100 g Rosinen (wenn man will)
 
 ### Zubereitung
-
 1. Mehl und Backpulver mischen und in eine Schüssel sieben. Zucker, Vanillezucker, Salz, Ei und Butter hinzufügen und gut verrühren. Dann auf einer bemehlten Arbeitsfläche den Teig zu einer glatten Masse kneten. Den Teig in die Käsekuchenform geben und gleichmäßig am Boden verteilen. Zum Schluss mit einer Gabel den Boden an verschiedenen Stellen durchstechen. Den Teig nun ca. 15 Minuten im Ofen backen.
 1. Für den Belag die Butter unter Zugabe des Zuckers cremig schlagen. Eier trennen. Eigelb und geriebene Zitronenschale vermengen. 
 1. Danach die Sahne, das Puddingpulver und Quark unterrühren. Eiweiß steif schlagen und mit den Rosinen zusammen in die Masse einrühren. Den Teig nun auf den vorgebackenen Boden füllen und mit Hilfe eines Teigschabers glattstreichen. 
@@ -44222,7 +43299,6 @@ Salz
 6 – 7 große Äpfel
 
 ### Zubereitung
-
 1. Butter schaumig rühren. Zucker und Eier abwechselnd unterrühren. Dann Salz und Zitronensaft dazugeben
 1. Mehl mit Backpulver löffelweise unterrühren und zum Schluss 3 EL unterrühren. Den Teig in eine gefettete Backform füllen und glattstreichen.
 1. Äpfel schälen, viertel, entkernen, mehrmals einritzen und auf den Teig kranzförmig legen.
@@ -44244,7 +43320,6 @@ Salz
 1 TL Zimt
 
 ### Zubereitung
-
 1. Den Mürbeteig wie gewohnt vorbereiten, also alle Zutaten rasch verkneten und im Kühlschrank ½ Stunde ruhen lassen. 
 1. Mit etwas Mehl dünn ausrollen und in die Backform legen.
 1. Die Äpfel schälen, entkernen, grob reiben und auf dem Mürbeteig verteilen.
@@ -44278,7 +43353,6 @@ Salz
 200 g Mandelblättchen
 
 ### Zubereitung
-
 1. Für den Mürbeteig alle Zutaten rasch verkneten und ½ Stunde im Kühlschrank ruhen lassen. Mit etwas Mehl dünn ausrollen und eine gefettete Springform mit dem Teig auskleiden.
 1. Die Birnen schälen, entkernen und klein schneiden. Zitronensaft und etwas Zitronenschale dazu geben und auf dem Teig verteilen.
 1. Für den Guss alle Zutaten verrühren und über die Birnen gießen. 
@@ -44312,7 +43386,6 @@ Saft einer ½ Zitrone
 50 g Mandelblättchen
 
 ### Zubereitung
-
 1. Butter, Zucker, Salz und Vanillezucker schaumig schlagen. Eigelb, Eier und Milch unterrühren. Mehl und Backpulver löffelweise dazu geben.
 1. Den Rührteig in eine eingefettete Backform füllen, glattstreichen und bei 180 Grad 20 Minuten vorbacken. Den vorgebackenen Boden in der Mitte durchschneiden. Den unteren Teil auf eine tortenplatte legen und einen verschiebbaren Tortenring um den Boden spannen. 
 
@@ -44347,7 +43420,6 @@ Saft ½ Zitrone
 250 g Himbeeren
 
 ### Zubereitung
-
 1. Für den Biskuitboden die Eiweiße sehr steif schlagen, den Zucker einrieseln lassen und das Eigelb unterrühren.
 1. Mehl und Mondamin mischen und auf die Eiermasse sieben und vorsichtig unterheben. Die Biskuitmasse in eine mit Backfolie ausgelegte Backform füllen, glattstreichen und bei 180 Grad 30 Minuten backen.
 1. Den ausgekühlten Biskuit in der Mitte durchschneiden. Den unteren Boden auf eine Tortenplatte legen und einen hohen Tortenring mit 1 cm Abstand zum Rand um den Boden legen.
@@ -44377,7 +43449,6 @@ Saft ½ Zitrone
 150 g gemahlene Haselnüsse
 
 ### Zubereitung
-
 1. Für den Teig alle Zutaten rasch verkneten und ca. ½ Stunde im Kühlschrank ruhen lassen. Mit etwas Mehl dünn ausrollen und eine eingefettete Form mit dem Teig auskleiden.
 1. Für die Füllung Eigelb, Crème fraîche, Zucker und Vanillepuddingpulver verrühren. Die Johannisbeeren unterrühren. Die Füllung auf dem Teig verteilen und bei 180 Grad ca. 40 Minuten vorbacken.
 1. Für das Baiser die Eiweiße steif schlagen und en Zucker langsam einrieseln lassen. Die Haselnüsse unterheben. Die Baisermasse auf den vorgebackenen Kuchen streichen und weitere 20 Minuten backen.
@@ -44403,7 +43474,6 @@ Saft ½ Zitrone
 70 g kalte Butter
 
 ### Zubereitung
-
 1. Für den Teig Butter, Zucker, Salz und Vanillezucker schaumig schlagen. Die Eier, das Mehl und das Backpulver unterrühren. Eine eingefettete Backform mit dem Rührteig füllen und glattstreichen.
 1. Die Heidelbeeren auf dem Teig verteilen.
 1. Mehl, Zucker und kalte Butter zu Streuseln verkneten und auf dem Kuchen mehr zum Rand hin verteilen.
@@ -44422,14 +43492,12 @@ Etwas Zitronensaft
 150 g Zucker
 1 Päckchen Vanillezucker
 100 g Mehl
-
 2,5 TL Backpulver
 100 ml Milch
 
 Etwas Puderzucker zum Bestreuen
 
 ### Zubereitung
-
 1. Springform fetten und etwas ausmehlen.
 1. Für den Teig die Butter zerlassen.
 1. Apfel schälen, vierteln quer in dünne Scheiben schneiden und mit Zitronensaft beträufeln. 
@@ -44458,7 +43526,6 @@ Etwas Puderzucker zum Bestreuen
 1 TL Zimt
 
 ### Zubereitung
-
 1. Für den Mürbeteig alle Zutaten rasch verkneten und im Kühlschrank eine ½ Stunde ruhen lassen. Mit etwas Mehl dünn ausrollen und eine eingefettete Springform mit dem Teig auskleiden.
 1. Paniermehl auf den Steig streuen. Die Zwetschgen entsteinen, anschneiden du auf den Mürbeteig kranzförmig von außen nach innen in Reihen legen.
 1. Für die Streusel alle Zutaten zu Streuseln verkneten und über die Zwetschgen streuen.
@@ -44481,7 +43548,6 @@ Etwas Puderzucker zum Bestreuen
 Salz
 
 ### Zubereitung
-
 1. Den Backofen auf 180 Grad Umluft vorheizen. Eine Kastenform ausbuttern und mit Backpapier auskleiden.
 1. Butter, Zucker, Zitronenschale, 1 EL Zitronensaft und Vanilleextrakt in die Rührschüssel der Küchenmaschine geben und 3 – 4 Minuten auf hoher Stufe hellgelb und schaumig rühren. Anschließend die Geschwindigkeit auf mittlere Stufe herunterstellen. In kleinen Mengen die Eier zugeben. Keine Sorge, wenn die Mischung ausflockt, sie wird mit der Zeit glatt. In drei Portionen das Mehl mit 1 kräftigen Prise Salz und Mandeln einarbeiten. Zuletzt von Hand 150 g Heidelbeeren unterziehen und die Masse in die vorbereitete Form füllen.
 1. Den Kuchen 15 Minuten im Ofen backen, dann gleichmäßig mit den restlichen Heidelbeeren (50 g) bestreuen und weitere 15 Minuten backen, bis er goldbraun, aber noch nicht durchgegart ist. Locker mit Alufolie zudecken und weitere 25 -30 Minuten backen, bis der Kuchen aufgegangen und durchgegart ist.  Aus dem Ofennehmen und 10 Minuten in der Form abkühlen lassen. Herauslösen und auf einem Gitter vollständig erkalten lassen.
@@ -44504,7 +43570,6 @@ Vanilleeis oder Crème fraîche zum Servieren
 Salz
 
 ### Zubereitung
-
 1. Den Backofen auf 170 g Umluft vorheizen.
 1. In einer ofenfesten Pfanne 50 g Zucker und 1 EL Wasser verrühren. Bei mittlerer bis hoher Temperatur 3 -4 Minuten erhitzen und die Pfanne ab und zu schwenken, bis sich der Zucker vollständig aufgelöst hat und sprudelnd kocht. Vorsichtig den Wein und den Thymian zugeben und auf dem Herd 1 Minute ständig rühren, bis ein glatter Sirup entstanden ist. Vom Herd nehmen, den Zitronensaft und die Feigen einrühren und 20 Minute (oder länger) abkühlen lassen – die Mischung sollte nicht zu heiß sein, wenn der Teig darübergegossen wird. Werden die Feigen in eine Backform umgefüllt, ist es jetzt so weit.
 1. In einer Schüssel die Eigelbe mit dem restlichen Zucker (40 g), dem Mehl, Vanilleextrakt, Sahne, Zitronenschale und 1 kräftigen Prise Salz hellgelb und cremig schlagen; 2 – 3 Minuten von Hand, 1 Minute mit dem Mixer. Die Eiweiße zu festem Schnee schlagen und kurz unterheben.
@@ -44522,7 +43587,6 @@ Salz
 150 g weiße Schokolade, in 1 -2 große Stücke gebrochen
 
 ### Zubereitung
-
 1. Eine Springform mit Backpapier auskleiden und beiseitestellen.
 1. Ein Sieb mit einem Küchentuch auslegen und auf eine Schüssel setzen. Den Joghurt hineingeben, die Tuchzipfel umdrehen, das Bündel zu einer Kugel formen und so viel Flüssigkeit wie möglich aus dem Joghurt herauspressen. Am Ende sollten etwa 340 g fester Joghurt zurückbleiben. Beiseitestellen. Die Flüssigkeit weggießen.
 1. Die Kekse in einen Plastikbeutel geben und mit einer Teigrolle zerbröseln. Mit der Butter und 1 EL Thymian vermengen, gleichmäßig in der vorbereiteten Form verteilen und sanft andrücken. In den Kühlschrank stellen.
@@ -44552,7 +43616,6 @@ Salz
 200 g Sahne
 
 ### Zubereitung
-
 1. Für den Boden Haferkekse zu Krümeln zerkleinern. Haselnüsse hacken und in der Pfanne ohne Fett rösten. Mit den Keksbröseln vermengen. Butter zerlassen und dazugießen.
 1. Für die Füllung Zitrone und Orangen heiß waschen, abtrocknen. Di Schale der Zitrone und der Orangen dünn abschneiden und getrennt voneinander fein hacken, den Saft der Zitrone auspressen. Mit einem scharfen Messer die restliche Schale der Orangen dick bis ins Fruchtfleisch hinein abschneiden und die Filets aus den weißen Trennhäuten herauslösen.
 1. Heidelbeeren waschen und abtrocknen. Frischkäse, Crème fraîche, Zucker, Salz, Vanille, Zitronensaft und -schale vermengen. Sahne steif schlagen, zusammen mit den Orangenfilets und der Hälfte der Heidelbeeren unter die Masse heben. Die Füllung auf den Boden geben. Den Kuchen 24 Stunden lang in den Kühlschrank stellen. Dann die restlichen Heidelbeeren darauf verteilen sowie die Orangenschale.
@@ -44572,7 +43635,6 @@ Salz
 Salz
 
 ### Zubereitung
-
 1. Den Backofen auf 170 Grad Umluft vorheizen. Eine Springform mit Backpapier auskleiden und mit dem Öl einfetten.
 1. Die Pfirsiche in einer Schüssel mit 150 g Himbeeren und 20 g Zucker vermengen und beiseitestellen.
 1. Die Haselnüsse grob zerkleinern. Beiseitestellen.
@@ -44586,7 +43648,6 @@ Salz
 3 große Eier, leicht verquirlt
 2 TL Vanilleextrakt
 300 g Mehl
-
 2,5 TL Backpulver
 200 g Saure Sahne
 Salz
@@ -44598,7 +43659,6 @@ Salz
 1 EL Lebkuchengewürz
 
 ### Zubereitung
-
 1. Den Backofen auf 160 Grad Umluft vorheizen. Eine Backform ausbuttern und mit Backpapier auskleiden.
 1. Die Bitter und den Zucker hellgelb und schaumig rühren. In kleinen Mengen die verquirlten Eier und den Vanilleextrakt hinzufügen und jeweils vollständig einarbeiten. Das Mehl mit dem Backpulver und 1/3 TL Salz in eine Schüssel sieben und abwechselnd mit der sauren Sahne portionsweise unterrühren. Sobald alles eingearbeitet ist, den Teig in die Form füllen und beiseitestellen.
 1. Die Apfelspalten in eine Schüssel geben. Den Zucker mit dem Lebkuchengewürz vermischen, über die Äpfel streuen und alles vermengen. Die Früchte auf dem Teig verteilen. Den Kuchen 60 – 65 Minuten im Ofen backen, bis die Äpfel goldbraun karamellisiert sind und der Teig aufgegangen ist. Wenn man die Form rüttelt, ohne dass sich der Kuchen bewegt, ist er fertig.
@@ -44621,7 +43681,6 @@ Salz
 Salz
 
 ### Zubereitung
-
 1. Das Mehl mit Hefe, Zucker, 2 EL Öl und ¼ TL Salz in einer großen Schüssel vermengen. Langsam 65 ml lauwarmes Wasser zugießen du mit einem Spatel alles sorgfältig und gleichmäßig verrühren. Den Teig auf die leicht eingeölte Arbeitsfläche legen und mit leicht geölten Händen 3 Minuten durchkneten, bis er weich und geschmeidig ist. Den Teig in eine leicht geölte Schüssel legen, mit einem feuchten Tuch abdecken und an einem warmen Ort 40 Minuten gehen lassen, bis er sein Volumen verdoppelt hat.
 1. Den Backofen auf 220 Grad Umluft vorheizen.
 1. Die Haselnüsse und den Sesam in einer kleinen Schüssel vermengen, 1 EL abnehmen und beiseitelegen.
@@ -44640,7 +43699,6 @@ Salz
 Salz
 
 ### Zubereitung
-
 1. Ein kleines Backblech oder eine feste Form mit Backpapier belegen und beiseitestellen.
 1. Beide Schokoladensorten, die Butter, den Sirup und 1 kräftige Prise Salz in eine große hitzebeständige Schüssel geben und auf einen Topf mit leicht siedendem Wasser setzen. Unter Rühren 2 – 3 Minuten erhitzen, bis alles vollständig geschmolzen und die Mischung glatt ist.
 1. Die Rosinen mit Rum, die Kekse und drei Viertel der Pistazien in die Schokomasse geben und sorgfältig unterziehen, bis alles gleichmäßig mit Schokolade überzogen ist. In die vorbereitete Form füllen und glattstreichen. Mit den restlichen Pistazien bestreuen und 10 Minuten abkühlen lassen. Die Form anschließend fest in Frischhaltefolie wickeln und 2 -3 Stunden kaltstellen, bis die Masse ausgehärtet ist.
@@ -44669,7 +43727,6 @@ Salz
 1 Msp. Nelken
 
 ### Zubereitung
-
 1. Aus den Zutaten einen Hefeteig bereiten. Für die Füllung die Rosinen mit dem Rum begießen. Die Milch, die Butter und den Honig aufkochen, den Mohn, die Rosinen, die Mandeln und die Gewürze untermischen. Den Backofen auf 200 Grad vorheizen. Die Form einfetten. 
 1. Den Hefeteig zu einem Rechteck von 45x45 cm ausrollen, die Füllung darauf streichen. Den Teig aufrollen und in 16 gleich große Stücke schneiden, diese kreisförmig in die Form setzen; zugedeckt noch einmal 15 Minuten gehen lassen.
 1. Den Rosettenkuchen auf der zweiten Schiene von unten 1 Stunde backen. Den etwas abgekühlten Kuchen mit 1 EL erhitzter Aprikosenmarmelade überziehen.
@@ -44692,7 +43749,6 @@ Etwa 1/8 l lauwarmes Wasser
 3 EL Puderzucker
 
 ### Zubereitung
-
 1. Das Mehl auf eine Arbeitsplatte sieben und mit dem Eigelb, dem Salz und so viel Wasser verkneten, dass ein glänzend glatter Teig entsteht. Den Teig zu einer Kugel formen, mit dem Öl bestreichen und 30 Minuten unter einer Schüssel ruhen lassen.
 1. Die Äpfel schälen, vierteln, vom Kerngehäuse befreien und Scheibchen schneiden. Die Semmelbrösel in der Butter goldbraun braten. Die Apfelscheiben mit dem Zimt, dem Zucker und den heiß gewaschenen Rosinen mischen. 
 1. Ein großes Tuch mit Mehl bestäuben, den Teig darauf möglichst groß ausrollen, dann vorsichtig über den Handrücken nach allen Seiten hin papierdünn dehnen. Die etwas dickeren Ränder abschneiden, eventuelle Löcher damit flicken. 
@@ -44717,7 +43773,6 @@ Etwa 1/8 l lauwarmes Wasser
 1 Tasse Zimt-Zucker
 
 ### Zubereitung
-
 1. Den Zucker mit dem Zimt mischen. Die Äpfel schälen, die Kerngehäuse mit einem Apfelausstecher entfernen und die Äpfel in etwa 1 cm dicke Scheiben schneiden. Die Apfelscheiben mit dem Zimt-Zucker bestreuen, mit dem Rum beträufeln und zugedeckt 30 Minuten ziehen lassen. Die Äpfel während dieser Zeit mit dem sich bildenden Saft übergießen.
 1. Das Mehl mit dem Backpulver, dem Salz, den Eigelben und dem Öl glattrühren. Nach und nach das Bier unter den Teig rühren. Die Eiweiße zu steifem Schnee schlagen und unterheben.
 1. Das Fett in der Fritteuse auf 180 Grad erhitzen. Die Apfelscheiben nacheinander in den Teig tauchen und im heißen Öl in 8 – 10 Minuten goldgelb backen. Nach der halben Garzeit wenden und zuletzt auf Zewa abtropfen lassen. Die Apfelbeignets noch heiß mit Zimt-Zucker bestreuen und servieren.
@@ -44744,7 +43799,6 @@ Info:	 In New Orleans gibt es äußerst famose Beignets 😊
 3 EL Puderzucker
 
 ### Zubereitung
-
 1. Ein Backblech mit Backpapier belegen. Aus den Zutaten von Mehl bis Salz einen Hefeteig bereiten und diesen 30 Minuten gehen lassen. Den Backofen auf 200 Grad (Umluft 180 Grad) vorheizen. Den Honig mit Butter und dem Zucker bei schwacher Hitze schmelzen lassen, die Mandeln hinzufügen, kurz aufkochen und abkühlen lassen. 
 1. Den Hefeteig auf einer bemehlten Fläche ausrollen, auf das Backblech legen und mit der Honigmischung bestreichen. Den Kuchen auf der mittleren Schiene 30 Minuten backen.
 1. Aus dem Puddingpulver, der Milch und dem Zucker einen Pudding bereiten und abkühlen lassen. Die Butter schaumig rühren, löffelweise den kalten Pudding und den Puderzucker unterrühren. Den erkalteten Kuchen in 30 Stücke schneiden, diese waagrecht halbieren, mit der Creme füllen und wieder zusammensetzen.
@@ -44766,7 +43820,6 @@ Info:	 In New Orleans gibt es äußerst famose Beignets 😊
 3 Eiweiße
 
 ### Zubereitung
-
 1. Das Mehl auf ein Backbrett sieben und rasch mit der Bitter, dem Salz, dem Zucker, dem Eigelb und dem Wasser verkneten. Den Mürbeteig in Folie gewickelt 1 Stunde im Kühlschrank ruhen lassen.
 1. Den Backofen auf 180 Grad (Umluft 160 Grad) vorheizen. Die Vanilleschote mit einem spitzen Messer der Länge nach aufschlitzen du das Mark herauskratzen. Den Quark mit dem Öl, dem Zucker, den Eigelben, de Speisestärke du dem Vanillemark schaumig rühren. Die Eiweiße steif schlagen und unterheben. Den Mürbeteig ausrollen, Boden und Tand einer bemehlten Springform damit auslegen und die Quarkcreme auf den Boden streichen.
 1. Den Kuchen auf der zweiten Schiene von unten 50 bis 60 Minuten backen. Die Backofentür darf erst während der letzten 10 Minuten geöffnet werden. Den garen Kuchen im geöffneten, abgeschalteten Backofen erkalten lassen.
@@ -44790,7 +43843,6 @@ Je 50 g feingehacktes Zitronat und Orangeat
 200 g Bitterschokolade
 
 ### Zubereitung
-
 1. Die Butter, den Honig, den Zucker du die Sahne bei schwacher Hitze unter ständigem Rühren zum Kochen bringen. Das Zitronat, das Orangeat und die Mandelblättchen einrühren, 2 Minuten kochen lassen, vom Herd nehmen, das Mehl untermischen und die Masse abkühlen lassen. Den Backofen auf 200 Grad (Umluft 180 Grad) vorheizen.
 1. Das Backblech mit Backpapier auslegen und mit Mehl bestäuben. Spiegleierringe oder andere Förmchen auf das Backblech legen. In jeden Ring etwa 1 TL Mandelmasse setzen. In die Mitte jeweils ½ Belegkirsche geben, und die Plätzchen auf der mittleren Schiene 8 bis 10 Minuten backen. Die garen Florentiner auf einem Kuchengitter kalt werden lassen du die abgekühlten Florentiner auf der Unterseite dich mit der geschmolzenen Schokolade bestreichen. Auf einem Kuchengitter gut trocknen lassen.
 
@@ -44811,7 +43863,6 @@ Je 50 g feingehacktes Zitronat und Orangeat
 50 g Mandelblättchen
 
 ### Zubereitung
-
 1. Ein Backblech mit Backpapier belegen. Das Mehl in eine Schüssel sieben, eine Mulde hineindrücken du die Hefe hineinbröckeln. Mit etwas Milch, Zucker und etwas Mehl verrühren und zugedeckt 15 Minuten gehen lassen.
 1. 80 g Butter zerlassen, mit 50 g Zucker, der restlichen Milch, dem Salz, dem Piment, dem Vorteig du dem gesamten Mehl zu einem Hefeteig verarbeiten und 40 Minuten gehen lassen. Die heiß gewaschenen Rosinen mit den Mandelblättchen mischen.
 1. Den Hefeteig zu einem Quadrat ausrollen, mit der restlichen zerlassenen Butter besteichen und mit der Füllung belegen, Den Teig aufrollen, in etwa 3 cm dicke Scheiben abschneiden. Die Schnecken auf ein Backblech legen, mit dem restlichen Zucker bestreuen und 10 Minuten gehen lassen.
@@ -44839,7 +43890,6 @@ Je 100 g gehackte Zitronat und Orangeat
 Je 100 g abgezogene Mandeln, Zitronat und kandierte Kirschen
 
 ### Zubereitung
-
 1. Den Honig mit dem Öl und dem Zucker unter Rühren aufkochen und wieder abkühlen lassen. Das Mehl mit dem Backpulver sieben und mit den Mandeln, allen Gewürzen, den Eiern, dem Zitronat du dem Orangeat mischen.
 1. Die Honig-Öl-Masse zu dem Mehlgemisch geben und alles gut verkneten. Sollte der Teig zu weich sein, noch etwas Mehl zufügen. Den Teig zugedeckt 1 Stunde im Kühlschrank ruhen lassen.
 1. Ein Backblech mit Backpapier auslegen. Den Teig mit bemehlten Händen auf das Backblech drücken, glattstreichen und mit Dosenmilch bepinseln. 
@@ -44861,7 +43911,6 @@ Gut ¼ l lauwarme Milch
 ½ Tasse Puderzucker
 
 ### Zubereitung
-
 1. Das Mehl in eine Schüssel sieben du in die Mitte eine Mulde drücken. Die Hefe hineinbröckeln und mit der Milch und etwas Zucker und etwas Mehl zu einem Vorteig verrühren. Den Hefevorteig 15 Minuten zugedeckt an einem warmen Ort gehen lassen.
 1. Den restlichen Zucker, das Öl, die Eigelbe, das Salz und den Rum mit dem Vorteig und dem gesamten Mehl verarbeiten und nochmals 30 Minuten gehen lassen.
 1. Den Teig 2 cm dick ausrollen und tassengroße Plätzchen ausstechen. 
@@ -44883,7 +43932,6 @@ Abgerieben Schale ½ unbehandelten Zitrone
 2 TL Zimt
 
 ### Zubereitung
-
 1. Die Butter mit dem Zucker schaumig rühren. Die Zitronenschale, das Salz und nacheinander die Eier unter das Butter-Zucker-gemisch rühren. Das Mehl mit dem Backpulver sieben und löffelweise unter den Teig rühren
 1. Das Öl in einer Fritteuse auf 180 Grad erhitzen. Vom Teig mit zwei bemehlten Teelöffeln kleine Bällchen abstechen und jeweils etwa 8 Stück auf einmal im heißen Öl goldbraun backen. Das dauert etwa 5 bis 6 Minuten; die Ballbäuschen nach der halben Backzeit mit einem Schaumlöffel im Fett wenden.
 1. Die fertigen Ballbäuschen herausnehmen und auf Zewa abtropfen lassen.
@@ -44902,7 +43950,6 @@ Abgerieben Schale von 1 unbehandelten Zitrone
 1 Eigelb zum Bestreichen
 
 ### Zubereitung
-
 1. Ein Backblech mit Backpapier auslegen. Das Mehl in eine Schüssel sieben, eine Mulde in die Mitte drücken und die zerbröckelte Hefe darin mit etwas Zucker, Mehl und der Milch zu einem Vorteig verrühren. Zugedeckt an einem warmen Ort 15 Minuten gehen lassen. 
 1. Den restlichen Zucker, die geschmolzene Butter, das Ei, das Salz und die Zitronenschale mit den Hefevorteig verkneten du den Teig 30 Minuten gehen lassen.
 1. Den Backofen auf 220 Grad (Umluft 200 Grad) vorheizen. Aus dem teig 3 Stränge von 60 cm Länge rollen, deren Enden sich verjüngen. Einen Zopf flechten und daraus eine Brezel formen.
@@ -44920,7 +43967,6 @@ Tipp:	Man kann einen Pfennig in Alufolie gewickelt in der Brezel mitbacken. Wer 
 2 EL Hagelzucker
 
 ### Zubereitung
-
 1. Das Mehl auf ein Backbrett sieben und die Butter in Flöckchen darauf verteilen. Den Zucker über das Mehl streuen und das Ei in die Mitte geben. Mit möglichst kühlen Händen alle Zutaten rasch zu einem Mürbeteig verkneten. Den Teig in Folie eingewickelt 2 Stunden im Kühlschrank ruhen lassen.
 1. Die Zwetschgen waschen, entsteinen und so einschneiden, dass sie unten noch zusammenhängen. Den Backofen auf 200 Grad (Umluft 180 Grad) vorheizen.
 1. Den Teig auf einer bemehlten Fläche ausrollen und Boden und Rand einer Springform damit auslegen. Den Teigboden mehrmals mit einer Gabel einstechen und mit den Zwetschgen rosettenförmig belegen.
@@ -44946,7 +43992,6 @@ Abgerieben Schale von 1½ unbehandelten Zitronen
 ½ Tasse Puderzucker
 
 ### Zubereitung
-
 1. Das Mehl auf ein Backbrett sieben und die Butter in Flöckchen darüber verteilen. In die Mitte des Mehls eine Vertiefung drücken du den Zucker, das Eigelb, das Salz und die abgeriebene Schale ½ Zitrone hineingeben. 
 1. Von der Mitte aus alle Zutaten rasch zu einem geschmeidigen Teig verkneten. Den Mürbeteig zu einer Kugel formen und in Folie gewickelt 2 Stunden im Kühlschrank ruhen lassen.
 1. Den Backofen auf 200 Grad (Umluft 180 Grad) vorheizen. Den Teig auf einer bemehlten Arbeitsfläche zu 2 Tortenböden von je 26 cm Durchmesser ausrollen und auf einem Backblech auf der mittleren Schiene in 8-10 Minuten hellbraun backen.
@@ -45329,7 +44374,6 @@ Butter und Semmelbrösel
 200 ml Eierlikör
 
 ### Zubereitung
-
 1. Den Backofen auf 175 Grad (Umluft 155 Grad) vorheizen. Eine Springform einfetten und mit Semmelbröseln ausstreuen. Macadamia- und Haselnüsse fein mahlen und mischen. Die Eier trennen und das Eiweiß steif schlagen. Bis zur weiteren Verwendung kaltstellen.
 1. Die Butter in einem flachen Topf schmelzen und etwas abkühlen lassen. Eigelb mit Zucker und Salz cremig rühren. Das Mehl unterrühren, anschließend die flüssige Butter, Rum und Sahne einrühren. Den Eischnee und die gemahlene Nussmischung auf den Teig geben und gut unterheben.
 1. Den Teig in die Form geben und auf der mittleren Schiene ca. 50 Minuten backen. Dann auf ein Kuchengitter stürzen und auskühlen lassen.
@@ -45356,7 +44400,6 @@ Für den Belag und Guss
 4 EL Zucker
 
 ### Zubereitung
-
 1. Die Limetten für den Belag heiß waschen, trockenreiben und die Schale als Zesten fein abschälen. Beiseitestellen. Den Saft auspressen.
 1. Den Backofen auf 175 Grad (Umluft 155 Grad) vorheizen. Eine Springform einfetten und mit Semmelbröseln ausstreuen. Für den Teig die Eier trennen und das Eiweiß steif schlagen. Bis zur weiteren Verwendung kaltstellen. Die Butter in einem flachen Topf schmelzen und etwas abkühlen lassen. Eigelb mit Zucker und Salz cremig rühren. Das Mehl unterrühren, anschließend die flüssige Butter einrühren. Den Eischnee unterheben.
 1. Den Teig in die Form geben und auf der mittleren Schiene ca. 10 Minuten vorbacken. In der Zwischenzeit für den Belag Eier, Eigelb, Zucker und Crème fraîche cremig rühren, dann den Limettensaft einrühren. Die Creme auf den vorgebackenen Teigboden geben. Im Backofen ca. 30 Minuten weiterbacken. In der Form abkühlen lassen.
@@ -45385,7 +44428,6 @@ Abgerieben Schale von 1 ½ unbehandelten Zitronen
 1 Prise Salz
 
 ### Zubereitung
-
 1. Den Backofen auf 175 Grad (Umluft 155 Grad) vorheizen. Eine Springform einfetten. Die Eier trennen und das Eiweiß steif schlagen. Bis zur weiteren Verwendung kaltstellen. Die Butter in einem flachen Topf schmelzen und etwas abkühlen lassen. Eigelb mit Zucker du Salz cremig rühren. Das Mehl unterrühren, anschließend die flüssige Butter einrühren. Eischnee darauf geben, unterheben und die Hälfte des Teiges in die Springform geben.
 1. Für die Füllung Eier mit Ricotta, Zucker, Zitronenschale und Salz cremig rühren. Die Creme gleichmäßig auf dem teig verstreichen und den Kuchen ca. 10 Minuten vorbacken. Den restlichen Teig vorsichtig darüberstreichen und die Torte in ca. 40 Minuten fertig backen. Die Torte herausnehmen und auf einem Kuchengitter vollständig abkühlen lassen. Mit Puderzucker bestreuen.
 
@@ -45408,7 +44450,6 @@ Abgerieben Schale von 1 ½ unbehandelten Zitronen
 1 Päckchen Mandarinen-Dessertpulver ohne Kochen
 
 ### Zubereitung
-
 1. Den Backofen auf 180 Grad (Umluft 160 Grad) vorheizen. Die Butter mit 80 g Zucker, 1 Päckchen Vanillezucker und Zitronen-Aroma schaumig schlagen. Nach und nach die Eier unterrühren. Das Mehl mit Speisestärke und Backpulver mischen, in die Creme sieben und unterheben. Den Teig in eine gefettete Springform (24 cm Durchmesser) füllen und im Ofen auf der mittleren Schiene 25 Minuten backen.
 1. Den Biden aus der Form lösen, auf ein mit Backpapier ausgelegtes Kuchengitter stürzen und erkalten lassen. Das Backpapier vom Teig abziehen. Den Boden auf eine Tortenplatte legen und einen Tortenring darumlegen.
 1. Die Gelatine nach Packungsanleitung einweichen. Den Inhalt einer Mandarinendose abtropfen lassen und den Saft dabei auffangen. Den Kefir mit dem restlichen Zucker verrühren. Die Gelatine leicht ausdrücken und ein einem kleinen Topf bei schwacher Hitze auflösen (nicht kochen).
@@ -45458,7 +44499,6 @@ Abgerieben Schale von 1 ½ unbehandelten Zitronen
 150 ml Bourbon
 
 ### Zubereitung
-
 1. Den Ofen auf 160 Grad Umluft vorheizen. Äpfel schälen und achteln, das Gehäuseentfernen. Die Schnitze mit dem Pürierstab zerkleinern und beiseitestellen. 
 1. 180 g weiche Butter, in Würfel geschnitten, und 300 g Zucker in einer Schüssel mit den Fingern zu einer krümeligen Masse vermengen. Dann die Eier hineinrühren sowie das Apfelpüree. 
 1. In eine andere Schüssel Mehl, Backpulver und Salz sieben, alles vermengen und zur Butter-Zucker-Mischung geben, und zwar in drei Schritten, zwischen denen man jeweils umrührt und erst die eine, dann die andere Hälfte der Milch hinzugießt. Die Kastenform mit Backpapier auslegen und mit etwas Butter einfetten. Den Teig hineingeben. Ungefähr 45 Minuten backen
@@ -45490,7 +44530,6 @@ Butter, Semmelbrösel
 2 EL Kokoschips
 
 ### Zubereitung
-
 1. Die Kokosraspeln in einer Pfanne ohne Fett goldbraun rösten und in einem Schälchen beiseitestellen. Den Backofen auf 175 Grad (Umluft 155 Grad) vorheizen. Eine Springform einfetten und mit Semmelbröseln ausstreuen. Für den Teig die Eier trennen und das Eiweiß steif schlagen. Bis zur weiteren Verwendung kaltstellen. Die Butter in einem flachen Topf schmelzen und etwas abkühlen lassen. Eigelb mit Zucker und Salz cremig rühren. Mehl und Kokosraspeln unterrühren, anschließend die flüssige Bitter einrühren. Den Eischnee daraufgeben und unterheben.
 1. Den Teig in die Form geben und auf der mittleren Schiene ca. 50 Minuten backen, Den Kuchen auf ein Kuchengitter stürzen und auskühlen lassen. In der Zwischenzeit die Ananasscheiben für die Füllung in ein Sieb gießen und abtropfen lassen. Die Sahne steif schlagen. Zucker und Quark unterheben.
 1. Den Tortenboden einmal horizontal durchschneiden und den unteren Boden auf eine Tortenplatte legen. 3 Ananasscheiben zum Dekorieren beiseitelegen, die übrigen auf dem Boden verteilen. 2/3 der Quarkcreme darauf verstreichen.
@@ -45517,7 +44556,6 @@ Kakaopulver zum Bestäuben
 500 ml Sahne
 
 ### Zubereitung
-
 1. Für die Creme die Schokolade in Stück brechen. Crème fraîche mit Puderzucker erhitzen. Die Schokolade darin unter Rühren schmelzen lassen. Ca. 1 Stunde abkühlen lassen.
 1. Den Backofen auf 175 Grad (Umluft 155 Grad) vorheizen. Eine Springform (24 cm Durchmesser) einfetten. Für den Teig die Eier trennen und das Eiweiß steif schlagen. Bis zur weiteren Verwendung kaltstellen. Die Butter in einem flachen Topf schmelzen und etwas abkühlen lassen. Eigelb mit Zucker und Salz cremig rühren. Das Mehl unterrühren, anschließend die flüssige Butter einrühren. Den Eischnee daraufgeben und unterheben.
 1. Den Teig in die Form geben und auf der mittleren Schiene ca. 50 Minuten backen. Den Kuchen auf ein Kuchengitter stürzen und auskühlen lassen, dann ein Mal horizontal durchschneiden.
@@ -45540,7 +44578,6 @@ Mehl zum Bestäuben
 2 TL Zitronensaft
 
 ### Zubereitung
-
 1. Die kalte Butter mit dem Mehl und dem Zucker in eine große Schüssel geben und alles zusammen mit den Fingern verreiben, bis eine streuselartige Masse entsteht. Das Ei dazugeben und alles zu einem glatten Teig kneten. Teig in Folie gewickelt 1 Stunde in den Kühlschrank legen.
 1. Die Himbeerkonfitüre durch ein feines Sieb streichen und unter Rühren etwa 3 Minuten köcheln lassen, bis sie streichfähig ist.
 1. Den gekühlten teig halbieren, jede Hälfte zu einem Rechteck ausrollen und auf je ein mit Backpapier belegtes Backblech legen. Im Backofen bei 125 Grad (Umluft 105 Grad) je 40 Minuten backen.
@@ -45565,7 +44602,6 @@ Abgerieben Schale ½ unbehandelten Zitrone
 2 Eigelb
 
 ### Zubereitung
-
 1. Für dem Teig Mehl in einer Schüssel mit Salz vermischen und in die Mitte eine Vertiefung drücken. Hefe hineinbröckeln und mit 125 ml lauwarmer Milch verrühren. 20 Minuten gehen lassen. 60 g Butter zerlassen und mit 40 g Zucker, Ei und Zitronenschale an den Vorteig geben. Den Teig gut durchkneten und zugedeckt an einem warmen Ort eine Stunde gehen lassen.
 1. Den Teig in eine gefettete Springform (Durchmesser 26 cm) füllen. Für den Belag 150 g Butter schmelzen, 75 ml Sahne, 150 g Zucker und Mandeln hinzufügen. Unter Rühren bei leichter Hitze so lange kochen, bis die Mandeln glasig sind. Abkühlen lassen und auf den Teig in der Form streichen. Den Kuchen noch einmal gehen lassen. Im vorgeheizten Backofen bei 200 Grad (Umluft 180 Grad) etwa 20 Minuten backen. Kuchen abkühlen lassen. 
 1. Für die Füllung 250 ml Milch mit Vanilleschote zum Kochen bringen. 30 g Zucker, Stärkemehl, Eigelb und restliche Milch verrühren. Die Milch von der Kochstelle nehmen und unter Rühren mit dem Schneebesen das angerührte Stärkemehl hinzugeben. Füllung aufkochen lassen. Unter Rühren erkalten lassen und mit 125 ml geschlagener Sahne vermischen. Die kalte Bienenstichtorte einmal waagrecht durchschneiden, mit der Creme füllen und wieder zusammensetzen.
@@ -45594,7 +44630,6 @@ Saft von 5 Orangen
 Saft 1 Zitronen
 
 ### Zubereitung
-
 1. Den Backofen auf 225 Grad (Umluft 200 Grad) vorheizen. Die Eier schaumig schlagen. 4 EL Wasser hinzufügen und luftig aufschlagen. Zucker, Salz und Vanillezucker hinzufügen. Alles zu einer cremigen Masse schlagen, bis der Zucker aufgelöst ist.
 1. Das Mehl, Speisestärke und Backpulver mischen, auf die Eimasse sieben und unterheben. Den Teig auf ein mit Backpapier belegtes Backblech streichen und ca. 12 Minuten backen. Anschließend mit einem Messer vom Rand lösen und auf ein mit Zucker bestreutes Handtuch stürzen. Das Backpapier abziehen.
 1. Den Teig mit der Marmelade bestreichen und von der breiten Seite her aufrollen. Anschließend auskühlen lassen und in Scheiben schneiden. Die Gelatine in Wasser einweichen. Die Eier trennen.
@@ -45632,7 +44667,6 @@ Zimt zum Bestäuben
 2 Päckchen Vanillinzucker
 
 ### Zubereitung
-
 1. Für den Teig die Kuvertüre im heißen Espresso schmelzen und abkühlen lassen. Die Mandeln in einer beschichteten Pfanne ohne Fett rösten. Den Backofen auf 175 Grad (Umluft 155 Grad) vorheizen. Eine Springform (Durchmesser 26 cm) einfetten und mit Semmelbröseln ausstreuen. Die Eier trennen und das Eiweiß steif schlagen. Bis zur weiteren Verwendung kaltstellen. Die Butter in einem flachen Topf schmelzen und etwas abkühlen lassen. Eigelb mit Zucker, Zimt und Salz cremig rühren. Das Mehl, den Schoko-Espresso und die Mandeln unterrühren, anschließend die flüssige Butter einrühren. Den Eischnee auf den Teig geben und unterheben.
 1. Den Teig in die Form geben und auf der mittleren Schiene ca. 50 Minuten backen. Den Kuchen in der Form auskühlen lassen, dann ein Mal horizontal halbieren.
 1. Den unteren Boden auf eine Tortenplatte legen. Das Quittengelee leicht erwärmen und den unteren Boden mit der Hälfte des Gelees bestreichen. Die Butter schmelzen, mit Milch, Kakao, Zimt und Puderzucker verrühren und die Hälfte davon auf dem Quittengelee verstreichen. Mit der anderen Hälfte die Innenseite des oberen Bodens bestreichen und beide Böden 10 Minuten durchziehen lassen.
@@ -45651,7 +44685,6 @@ Zimt zum Bestäuben
 400 ml Sahne
 
 ### Zubereitung
-
 1. Den Backofen auf 180 Grad (Umluft 160 Grad) vorheizen. Die Eier mit dem Zucker schaumig schlagen. Das Mehl mit der Speisestärke und dem Backpulver mischen, darübersieben und unterrühren. Eine Springform (Durchmesser 26 cm) mit Backpapier auslegen und den Teig hineinfüllen. Im Ofen etwa 45 Minuten backen. Dann herausnehmen und auf ein Kuchengitter stürzen. Das Backpapier vorsichtig abziehe und den Boden abkühlen lassen.
 1. 6 Schokoküsse von den Waffelböden trennen und die Masse mit dem Quark verrühren. 400 ml Sahne steif schlagen und mit der Creme mischen.
 1. Den Biskuitboden auf eine Tortenplatte legen. Die restlichen Schokoküsse halbieren und auf dem Tortenboden am Rand im Kreis verteilen. In die Mitte die Quark-Sahne-Masse geben und glattstreichen. Die übrig gebliebenen Waffelböden halbieren und die Torte damit verzieren. Die Torte bis zum Servieren kaltstellen.
@@ -45681,7 +44714,6 @@ Info:	Das war übrigens die Torte, die ich Markus zum 50. Geburtstag gemacht hab
 Puderzucker zum Ausrollen
 
 ### Zubereitung
-
 1. Den Backofen auf 190 Grad (Umluft 170 Grad) vorheizen. Die Eier trennen. Eiweiß mit 40 g Zucker und dem Salz steif schlagen. Eigelb und 110 g Zucker schaumig schlagen und auf den Eischnee geben, Mehl, Speisestärke und Backpulver mischen, darübersieben und mit einem Schneebesen vorsichtig unterheben.
 1. Den Boden einer Springform (Durchmesser 26 cm) mit Backpapier auslegen. Den Teig einfüllen und im Backofen etwa 25 Minuten goldgelb backen.
 1. Für die Buttercreme aus Milch, Vanillepuddingpulver, Vanillezucker und restlichem Zucker nach Packungsanweisung einen Pudding kochen. Abkühlen lassen und durch ein Sieb streichen.
@@ -45705,7 +44737,6 @@ Fett für die Form
 80 g dunkle Kuvertüre
 
 ### Zubereitung
-
 1. 30 g Kuvertüre grob zerkleinern und im warmen Wasserbad schmelzen. Die Eier trennen. Den Backofen auf 175 Grad (Umluft nicht empfehlenswert) vorheizen. Die Butter mit 60 g Puderzucker, Salz und Vanillemark in einer Schüssel schaumig schlagen, dann das Eigelb und die geschmolzene Kuvertüre unterrühren. Das Eiweiß steif schlagen und auf die Eigelbmasse geben. Nun das Mehl darübersieben du alles zu einem glatten Teig verarbeiten.
 1. Eine Springform (Durchmesser 19 cm) nur am Boden einfetten. Die Teigmasse hineinfüllen und im Ofen etwa 1 Stunde backen. Auf einem Kuchengitter auskühlen lassen, dann aus der Form nehmen. Den Tortenboden zweimal durchschneiden. Die Konfitüre unter Rühren leicht erwärmen und je 1 EL auf den unteren und mittleren Tortenboden streichen. Nun die drei Tortenteile zusammensetzen.
 1. Die restliche Kuvertüre und die Kuchenglasur schmelzen und die Torte damit einstreichen. Torte vor dem Servieren auskühlen lassen.
@@ -45738,7 +44769,6 @@ Cocktailkirschen zum Verzieren
 75 g Haselnusskrokant
 
 ### Zubereitung
-
 1. Den Backofen auf 175 Grad (Umluft 155 Grad) vorheizen. Eine Frankfurter-Kranz-Form einfetten und mit Semmelbröseln ausstreuen. Für den Teig die Eier trennen und das Eiweiß steif schlagen. Bis zur weiteren Verwendung kaltstellen. Die Butter in einem flachen Topf schmelzen und etwas abkühlen lassen. Eigelb mit Zucker und Salz cremig rühren. Das Mehl unterrühren, anschließend die flüssige Butter einrühren. Den Eischnee daraufgeben und unterheben.
 1. Den Teig in die Form geben und auf der mittleren Schiene ca. 50 Minuten backen. Den Kuchen auf ein Kuchengitter stürzen und auskühlen lassen.
 1. Für die Füllung 500 ml Milch mit dem Akazienhonig und dem Vanillezucker in einen Topf geben und unter Rühren zum Kochen bringen. 2 Minuten köcheln lassen. Die Speisestärke mit der restlichen Milch verrühren und die Honigmilch damit abbinden. Die Masse vom Herd nehmen, Eigelb unterziehen und die Creme erkalten lassen, dabei öfters umrühren, damit sich keine Haut bildet. Die Butter in eine Schüssel geben und schaumig schlagen, anschließend die Creme esslöffelweise unterrühren.
@@ -45762,7 +44792,6 @@ In den siebziger Jahren gab es diese Torte bei jedem Bäcker. Aber heutzutage is
 Kakao und Kaffeebohnen zum Verzieren
 
 ### Zubereitung
-
 1. 50 g Schokolade fein hacken und in einem Topf schmelzen. Die Eier trennen. Das Eigelb mit 100 g Zucker und Vanillezucker schaumig rühren. Die flüssige Schokolade zugeben und cremig rühren. Das Eiweiß steif schlagen, restlichen Zucker zugeben und den Eischnee mit der Eigelbmasse mischen.
 1. Den Backofen auf 180 Grad (Umluft 160 Grad) vorheizen. Das Mehl mit dem Backpulver mischen und unter die Eicreme ziehen. Den Teig in eine gefettete Springform (Durchmesser 26 cm) füllen und im Ofen 40 Minuten backen.
 1. Den Boden aus der Form stürzen, auf einem Kuchengitter erkalten lassen. Das Backpapier abziehen, den Boden einmal waagrecht durchschneiden.
@@ -45826,7 +44855,6 @@ Man könnte auch eine Backmischung nehmen 😊 Natürlich nur eine gute, wie z.B
 5 EL Tahin
 
 ### Zubereitung
-
 1. Den Ofen auf 160 Grad Umluft vorheizen. Eine Backform mit Backpapier auslegen. 
 1. Schokolade und Butter in einem kleinen Topf im Ofen langsam zergehen lassen oder bei sehr schwacher Hitze auf dem Herd. Wenn beides geschmolzen ist, gibt man die Masse zusammen mit dem Zucker in eine Schüssel und vermengt alles gut.
 1. Dann das Mehl dazufügen. Schließlich die Eier in den Teig aufschlagen und den Schüsselinhalt gut verrühren.
@@ -45995,7 +45023,6 @@ Tipp:	Man kann natürlich statt der Pinienkerne auch Walnüsse oder so nehmen.
 2 EL Kümmel
 
 ### Zubereitung
-
 1. Für den Teig Quark, Öl, Ei, Honig und Salz verrühren. Mehl mit Backpulver vermischen und darunter rühren bzw. kneten. Obstkuchenblech mit dem Teig auslegen.
 1. Zwiebeln in feine Streifen schneiden und in Öl glasig dünsten. Eier, saure Sahne, Kräutersalz und Kümmel miteinander verquirlen und Zwiebeln untermischen. Masse auf dem Teigboden verteilen.
 1. Zwiebelkuchen auf der untersten Schiene bei 200 Grad ca. 30 Minuten backen.
@@ -46020,7 +45047,6 @@ Tipp:	Öl-Quark-Teig kann man auch als Obstkuchenboden verwenden. Dann aber bei 
 Dunkle heiße (über dem Wasserbad geschmolzene) Schokolade zum Servieren
 
 ### Zubereitung
-
 1. Den Ofen auf 160 Grad vorheizen. Zwei große Backbleche mit Backpapier belegen. Beide Zuckersorten, Butter und Vanille in einer Rührschüssel mit dem Rührgerät auf hoher Stufe 5 Minuten zu einer hellen, cremigen Masse schlagen. Das Ei hinzufügen und unterrühren.
 1. Mehl, Backpulver und Ovomaltine beifügen und alles gut verrühren. Das Popcorn und die Salzmandeln unterheben.
 1. Jeweils 2 Esslöffel der Teigmasse zu Kugeln formen, mit etwas Abstand zueinander (der Teig zerläuft nämlich beim Backen) auf die Bleche setzen und leicht flachdrücken. 15 bis 18 Minuten goldbraun backen.
@@ -46053,7 +45079,6 @@ Ein paar Löffel Gelierzucker mit etwas Zimt vermischt
 Biskuit- oder Semmelbrösel
 
 ### Zubereitung
-
 1. Das Blech mit Butter gleichmäßig einfetten und mit dem Teig auskleiden. Biskuitbrösel und ein paar Brösel auf dem Boden verteilen. 
 1. Zwetschge halbieren, Kern entfernen und oben etwas einschneiden. Auf dem Boden reichlich und dicht anordnen. Etwas Gelierzucker mit Zimt vermischt über das Steinobst streuen. Bei trockenen Zwetschgensorten den Kuchen im vorgeheizten Ofen bei 200 Grad Ober- und Unterhitze für 5 Minuten backen.
 1. Für die Streusel Zutaten rasch verkneten und zu Streuseln zerbröseln. Zusammen mit noch etwas Gelierzucker auf dem Kuchen verteilen.
@@ -46077,7 +45102,6 @@ Abrieb von ½ Biozitrone
 30 g Speisestärke
 
 ### Zubereitung
-
 1. Eine Springform mit Backpapier auslegen. Dann zwei Streifen aus Backpapier zurechtschneiden, die etwa doppelt so breit sind, wie die Springform hoch ist. Die Streifen längs innen an den Rand der Form setzen. Das Ziel der Übung ist, dass die Form mit dem Papier höher wird, sodass der Kuchen aufgehen kann. Den Backofen auf 200 Grad Ober- und Unterhitze vorheizen.
 1. Frischkäse, Mascarpone und Zucker für 3 Minuten verrühren, dann ein Ei nach dem anderen hinzufügen und rühren, bis eine cremige Masse entstanden ist, ungefähr 5 Minuten lang. 
 1. Nun Sahne, Salz, Vanillemark, Zitronensaft und -abrieb unterrühren. Die Stärke sieben und behutsam unterheben. Die Kuchenmasse in die Form füllen, den Kuchen ungefähr 60 Minuten lang backen, bis er aufgegangen ist und oben dunkelbraun ist. In der Form auf Raumtemperatur abkühlen lassen. Noch besser schmeckt er am nächsten Tag.
@@ -46103,7 +45127,6 @@ Abrieb von ½ Biozitrone
 40 g Puderzucker
 
 ### Zubereitung
-
 1. Für den Teig Mehl, Mandelmehl und Salz in eine große Schüssel geben. Die Butter in Würfeln hineinschneiden, mit der Hand zu einem krümeligen Teig kneten.
 1. In einer anderen Schüssel das Ei mit dem Zucker vermengen. Die Mischung zum Mehl geben. Zu einem glatten Teig kneten, in Folie wickeln und für eine Stunde in den Kühlschrank geben. Eine Tarte- oder Springform mit Backpapier auslegen. Den Teig mit den Fingern in die Form drücken.
 1. Äpfel schälen, entkernen, in Viertel schneiden, die Viertel in dünne Schnitze zerteilen, die man kreisförmig auf dem teig anordnet. Eier und Zucker vermengen, Crème fraîche, Vanille und Mandelmehl dazugeben. Die Mischung auf die Äpfel gießen.
@@ -46126,7 +45149,6 @@ Abrieb von ½ Biozitrone
 50 g Butter
 
 ### Zubereitung
-
 1. Für den Teig Mehl in eine Schüssel geben. In der Mitte eine Mulde bilden und Zucker, Salz, 60 ml Wasser und gewürfelte Butter hinzufügen. Alles zu einem Teig verkneten. Teigkugel für 1 Stunde in den Kühlschrank legen.
 1. Währenddessen für den Belag die Mirabellen waschen, halbieren und entsteinen. Mandeln, Ei, Zucker und Butter zu einer Creme rühren. Den Teig aus dem Kühlschrank nehmen. Den Backofen auf 180 Grad Ober-/Unterhitze vorheizen.
 1. Sobald der teig weich genug ist, in die Springform, die mit Backpapier ausgelegt wurde und deren Ränder eingefettet sind, mit den Fingern zu einem Tarteboden mit einem Rand von 2 cm drücken. Teig mit einer Gabel ein paarmal einstechen. Mandelcreme darauf streichen. Dann die Mirabellenhälften recht dicht auf den Belag setzen, sie dürfen sich überlappen, da sie recht viel Flüssigkeit abgeben.  Torte im heißen Ofen 30-35 Minuten backen.
@@ -46155,7 +45177,6 @@ Die Tarte ist schon süß.
 6 TL Milch oder Sahne
 
 ### Zubereitung
-
 1. Für den Teig Mehl, Zucker und Salz in einer Schüssel vermengen. Die Butter in Würfel schneiden und mit den Händen hineinkneten, sodass ein krümeliger Teig entsteht. Das Ei hineinschlagen, Crème fraîche dazugeben und alles mit den Händen zu einer glatten Masse kneten. 
 1. Den Teig auf Backpapier ausrollen, mit einem Stück Backpapier abdecken und 1 Stunde kühl stellen. Den Backofen auf 180 Grad vorheizen. Die Tarteform buttern, den Teig hineingeben und mit einer Gabel häufig einstechen. 
 1. Für den Belag die trockenen Enden der Rhabarberstangen abschneiden, die Stangen schälen und in ungefähr 6 cm lange Stücke schneiden. Diese zusammen mit Butter und Zucker aufkochen, dann bei schwacher Hitze weiterköcheln lassen, bis der Rhabarber weich ist; meist zerfällt er. Den Topf vom Herd nehmen.
@@ -46217,7 +45238,6 @@ Mark von 1 Vanilleschote
 Etwas Butter und Grieß für die Form
 
 ### Zubereitung
-
 1. Milch zusammen mit Zucker, Zitronenabrieb und Vanille aufkochen, den reis zufügen und al dente kochen. Reis abgedeckt auf Raumtemperatur abkühlen und quellen lassen, bis die Milch komplett aufgesogen ist.
 1. Eier, Likör und Mandeln unterrühren. Boden einer Springform mit Backpapier auslegen, die Ränder einfetten und mit ein wenig Grieß bestreuen. Teig in die Springform füllen und den Kuchen 45 bis 55 Minuten bei 170 Grad Ober- und Unterhitze backen.
 
@@ -46237,7 +45257,6 @@ Etwas Butter und Grieß für die Form
 150 g dunkle Schokolade (70% Kakaogehalt)
 
 ### Zubereitung
-
 1. Den Ofen auf 180 Grad Ober- und Unterhitze vorheizen. Ein Blech mit Backpapier auslegen. Butter und Zucker mit dem Rührgerät gründlich verrühren. Den Sirup hinzufügen.
 1. Mehl, Backpulver, Zimt, Ingwer und Muskatnuss gut vermengen, zur Butter-Zucker-Mischung hinzufügen.
 1. Dann Eigelb und Milch unterrühren und alles zu einem Teig kneten. Den Teig ungefähr einen halben Zentimeter dick ausrollen. Jetzt Plätzchen ausstechen (Mit Ausstecherleformen oder einem kleinen Glas – was halt da ist).
@@ -46256,7 +45275,6 @@ Etwas Butter und Grieß für die Form
 100 g Zartbitter-Schokoladentropfen
 
 ### Zubereitung
-
 1. Den Backofen auf 160 Grad Umluft vorheizen. 
 1. Zucker und Butter mit der Hand verkneten. Eier verquirlen, mit einem Löffel unterrühren. Mehr, Kakao, Backpulver vermengen und unterrühren. Alles zu einem Teig kneten.
 1. Pistazien in einer beschichteten Pfanne ohne Fett rösten, dann grob zerkleinern, entweder mit einem Messer oder im Mörser. In den Teig kneten. Schokoladentropfen in den Teig kneten.
@@ -46278,7 +45296,6 @@ Ich wollte diese Kekse schon lange einmal backen, aber habe es immer wieder hina
 5 reife Birnen
 
 ### Zubereitung
-
 1. Für den Teig Butter und Zucker mit dem Handrührgerät vermengen. Eier trennen und die Eigelbe in die Buttermischung rühren. Das Eiweiß steif schlagen.
 1. Schokolade mit dem Messer grob zerteilen, dann schmelzen. Dafür eine Glas- oder Metallschüssel auf einen Topf mit Wasser setzen, Wasser erhitzen, aber nicht kochen. Schokolade in der Schüssel über dem heißen Wasser langsam zergehen lassen.
 1. Haselnüsse in der Pfanne ohne Fett rösten, ohne dass sie anbrennen, dann mit dem Pürierstab fein zerkleinern. Mehl und Backpulver gut vermengen. Zur Butter-Eigelb-Mischung geben. Schokolade und zerkleinerte Haselnüsse ebenfalls unterrühren. Zum Schluss das Eiweiß vorsichtig unterheben.
@@ -46303,7 +45320,6 @@ Ich wollte diese Kekse schon lange einmal backen, aber habe es immer wieder hina
 Puderzucker zum Bestäuben
 
 ### Zubereitung
-
 1. Für den Teig Mehl mit Butter, Eigelb, Salz und Zucker am besten mit den Händen zu einer festen, homogenen, glatten Masse verkneten. Mit Frischhaltefolie umwickeln und 30 Minuten im Kühlschrank ruhen lassen. Danach in zwei Teile schneiden.
 1. Einen Teil mit dem Nudelholz auf einem großen mit Mehl bestäubten Stück Frischhaltefolie ausrollen. Dann die Folie über der Springform umdrehen und den Teig auf dem Boden der Form platzieren. Folie abziehen, Teig am Rand leicht andrücken. Der Teig sollte am Rand etwa 2 cm überstehen, sodass die Füllung gut aufgefangen wird. Überschüssigen Teig mit dem Messer entfernen.
 1. Für die Füllung Magerquark mit Eigelb und Zucker verrühren. Auf den ausgelegten Teig in der Springform zuerst die Marmelade verteilen (wichtig: 2 cm am Rand freilassen). Darauf die Quarkmasse verteilen.
@@ -46323,7 +45339,6 @@ Puderzucker zum Bestäuben
 20 g grob gehackte Schokolade
 
 ### Zubereitung
-
 1. Den Ofen auf 160 Grad vorheizen. Schokolade schmelzen. Butter und Zucker gut aufschlagen, sodass eine cremige Masse entsteht. Ei und Kardamon dazugeben. 
 1. Mehl, Kakao, Backpulver und Salzflockenmischen und mit der geschmolzenen Schokolade einrühren. Grob gehackte Schokolade unterheben.
 1. Je 1 EL Masse zu einer Kugel formen, auf Backpapier setzen und etwas flach drücken. 10 Minuten lang backen
@@ -46348,7 +45363,6 @@ Sehr leckere Weihnachtskekse. Könnten man in die Weihnachtsbäckerei mit aufneh
 80 g Puderzucker
 
 ### Zubereitung
-
 1. Die Butter würfeln und mit dem Mehl zerkneten, sodass eine krümelige Masse entsteht. Die Eier hineingeben, weiterkneten. Zucker und Salz hinzufügen, alles zu einer glatten Teigkugel formen. In Frischhaltefolie wickeln, ungefähr 1 Stunde im Kühlschrank ruhen lassen.
 1. Den Rhabarber schälen, in etwa 2 cm große Stücke schneiden. In eine Schüssel geben, Zucker hinzufügen und 1 Stunde langziehen lassen. Dann in einen Topf geben und auf kleiner Flamme 20 Minuten zu Kompott köcheln lassen. Das Eiweiß steif schlagen, nach und nach vorsichtig den Puderzucker hinzufügen.
 1. Den Boden einer Springform mit Backpapier auslegen, die Ränder buttern. Den Tarteboden entweder ausrollen und in die Form legen oder mit den Fingern in die Form drücken. Mit einer Gabel mehrmals einstechen, sodass der Teig sich nicht wölbt beim Backen. In den auf 180 Grad Umluft geheizten Ofen stellen und 10 Minuten blind backen.
@@ -46374,7 +45388,6 @@ Butter zum Fetten der Form
 10 Aprikosen (oder mehr)
 
 ### Zubereitung
-
 1. In einer Schüssel Zucker, Orangenabrieb und Eier mit dem Rührgerät ein paar Minuten lang vermengen, bis die Masse blassgelb ist. Rapsöl, Crème fraîche, Milch und Vanille hinzufügen. Gut verrühren. Mehl, Backpulver, Salz vermengen und hinzufügen.
 1. Die Form mit Butter fetten, mit etwas Mehl bestäuben. Teig hineingeben. Die Aprikosen halbieren und entkernen, mit der Schnittfläche nach oben in gleichmäßigen Abständen auf den Teig setzen. Mit 1 EL Zucker bestreuen. Bei 170 Grad Umluft 45 Minuten lang backen.
 
@@ -46398,7 +45411,6 @@ Butter zum Fetten der Form
 4 Äpfel (Boskoop)
 
 ### Zubereitung
-
 1. Mehl, Puderzucker und Salz vermengen, Butter hinzufügen und alles zu einer krümeligen Masse rühren. Eigelb und nach und nach das Wasser hinzufügen, eventuell braucht man etwas weniger als die angegebene Menge. Zu einer Teigkugel kneten. Diese in Frischhaltefolie wickeln und für 1 Stunde im Kühlschrank ruhen lassen.
 1. Für den Belag Crème fraîche, Eier, Puderzucker, Zimt (wenn man will, noch ein wenig Calvados, ungefähr 20 ml) vermengen. Die Äpfel schälen, vierteln, das Gehäuse entfernen. Die Viertel noch mal halbieren, dann die Schnitze in drei Stücke schneiden (in richtige, fast würfelartige, dicke Stücke, nicht in Schnitze).
 1. Teig in die Form drücken, einen Rand stehen lassen. Mit der Gabel den Boden einige Male einstechen, Äpfel auf dem Teig verteilen. Die Creme darübergießen. Den Kuchen bei 190 Grad ca. 40 Minuten lang backen. Die Äpfel dürfen dabei ein bisschen braun werden. Zum Servieren mit etwas Puderzucker bestreuen.
@@ -46431,7 +45443,6 @@ Vanillemark (aus 1 Vanilleschote oder 2 TL gemahlene Vanille)
 Etwas Sonnenblumenöl
 
 ### Zubereitung
-
 1. Mehl, Mandelmus, Zucker und eine Prise Salz in eine Schüssel geben und mit den Händen verkneten, bis eine krümelige Masse entsteht. Etwa 2 EL Wasser dazugeben und das Ganz glatt kneten. Erstaunlicherweise schmeckt dieser Teig so gut wie gewöhnlicher roher Kuchenteig. Falls der Teig zu trocken erscheint, esslöffelweise mehr Wasser dazugeben. Zu einer Kugel kneten, in Frischhaltefolie einwickeln und 30 Minuten im Kühlschrank ruhen lassen. Den Ofen auf 180 Grad Umluft vorheizen.
 1. Für den Belag Mandelmus, Zucker, gemahlene Mandeln, Mehl, Salz und Vanille verrühren. Die Schokolade schmelzen und dazugeben. Teig aus dem Kühlschrank nehmen. Den Boden der Springform mit Backpapier auslegen, die Ränder mit etwas Sonnenblumenöl einfetten. Teig hineindrücken, einen Rand von 1,5 cm formen. Die Mandel-Schokoladen-Mischung gleichmäßig darauf verteilen.
 1. Jetzt die Birnen vorbereiten: Schälen, in Hälften schneiden und das Gehäuse vorsichtig entfernen, ohne dass die Birnenhälfte auseinanderbricht. Mit der Schnittfläche nach unten auf ein Schneidbrett legen, längs in dünne Streifen schneiden. Birnen auf den Belag setzen, dabei am besten kreisförmig anordnen, mit der dünnen Spitze in die Mitte zeigend. 40 Minuten backen.
@@ -46533,7 +45544,6 @@ Für den Teig:
 Etwas Milch zum Glasieren
 
 ### Zubereitung
-
 1. Zitronen waschen. Zwei Zitronen in sehr dünne Scheiben schneiden, Kerne entfernen. Die anderen schälen, weiße Haut entfernen und das Fruchtfleisch filetieren. Kerne entfernen. Zitronenscheiben und -filets in einer Schüssel mit dem Zucker bedecken. Zugedeckt über Nacht stehen lassen.
 1. Backofen auf 180 Grad (Gas 2-3) vorheizen. Mehl und 1 Prise Salz in eine Schüssel sieben. Die Butter einarbeiten, bis eine krümelige Masse entsteht. Zucker unterrühren. Langsam 1 -2 EL Wasser dazugeben. Mit einem Messer zu einem Teig verarbeiten. Halbieren und jede Hälfte zu einem Kreis (25 cm Durchmesser) ausrollen. Eine Pieform (Tarteform) leicht einfetten und mit Teig auslegen. Abdecken und mit dem zweiten Kreis kaltstellen. 
 1. Eier verrühren und zu den Zitronenscheiben geben. Vorsichtig, aber gründlich mischen. Auf dem Boden verteilen und mit dem Teigkreis zudecken. Ränder zum Versiegeln wellen. Oberfläche mit Teigresten verzieren und mit Milch einstreichen. 50 -55 Minuten im Backofen goldgelb backen.
@@ -47774,7 +46784,6 @@ Abgeriebene Schale und Saft von 1 Limette
 3 reife Bananen, geschält 
 
 ### Zubereitung
-
 1. Den Backofen auf 220°C vorheizen und ein Backblech mit Backpapier auslegen.
 1. In einem kleinen Topf bei sehr niedriger Hitze Honig und Kokosfett schmelzen lassen. Vom Herd nehmen und mit Milch, Ei, Limettensaft und -schale schaumig schlagen. Über die Mehlmischung geben und gut verrühren.
 1. Die Bananen längs und die Hälften nochmals quer halbieren, um jeweils vier gleich große Stücke zu erhalten.
@@ -47795,7 +46804,6 @@ Abgeriebene Schale und Saft von 1 Limette
 1 EL klarer Honig (oder Ahornsirup)
 
 ### Zubereitung
-
 1. Den Backofen auf 150°C (Gas Stufe 2) vorheizen. Ein Viertel der Kerne, Körner und Samen zum Garnieren beiseitestellen. Alle Zutaten, außer Orangensaft und dem Honig, mit 300 ml Wasser in einer mittelgroßen Schüssel mit einem Holzlöffel zu einem lockeren Teig vermischen. Sollte er zu fest sein, mehr Wasser hinzufügen; es verdunstet beim Backen.
 1. Zwei Backbleche mit Backpapier auslegen und den Teig darauf verteilen. Mit einem Teigschaber gleichmäßig so dünn wie möglich verstreichen. 25 Minuten im Ofen backen.
 1. Inzwischen den Honig und den Orangensaft in einer kleinen Schüssel verquirlen. Die bleche aus dem Ofen nehmen, die Cracker mit der Orangenglasur bestreichen und mit den restlichen Körnern bestreuen. In 5+5 cm große Quadrate schneiden und weitere 30 Minuten backen, bis die Cracker ganz knusprig sind. Auf einem Kuchengitter abkühlen lassen.
@@ -47809,7 +46817,6 @@ Abgeriebene Schale und Saft von 1 Limette
 4 EL klarer Honig
 
 ### Zubereitung
-
 1. In einem Topf die Butter bei mittlerer Hitze schmelzen. Kichererbsenmehl und frisch gemahlene Kardamonsamen dazugeben und alles 10-12 Minuten köcheln lassen. Dabei häufig umrühren, damit nichts verklumpt oder anbrennt.
 1. Sesamsamen und Honig unterrühren und 5 Minuten unter ständigem Rühren mitköcheln lassen, dann vom Herd nehmen. Die Mischung sollte dick und hellgolden sein und nach gerösteten Kichererbsen duften. Wenn der Teig zu flüssig ist, noch 1 EL Kichererbsenmehl einrühren und dann erst vom Herd nehmen.
 1. Ein Backblech mit Backpapier auslegen und den Teig darauf verstreichen. Leicht flach drücken und etwa 10 Minuten abkühlen lassen. Den Teig auf 1 cm Dicke flach drücken, in 5+2,5 cm große Stücke schneiden und im Kühlschrank erstarren lassen. Traditionell ist Laddu aber zu Kugeln gerollt.
@@ -47824,7 +46831,6 @@ Abgeriebene Schale und Saft von 1 Limette
 60 ml Zitronensaft
 
 ### Zubereitung
-
 1. Die Cashewkerne in der Küchenmaschine zu grobem Mehl zerkleinern und in einer Schüssel beiseitestellen. Datteln, Kokosflocken und Zitronensaft in der Küchenmaschine zu einer klebrigen Masse verarbeiten. Diese Masse mit dem Cashewmehl zu einem dicken, leicht klebrigen Teig verkneten.
 1. Den Teig fest zu einem etwa 10 cm langen, 15 cm breiten und 1 cm dicken Rechteck pressen und für mindestens eine Stunde (oder über Nacht) in den Kühlschrank stellen. Das Rechteck in sechs 2,5 cm breite Riegel schneiden.
 1. Die Riegel in Backpapier wickeln und im Kühlschrank lagern.
@@ -47846,7 +46852,6 @@ Tipp:	Frische Datteln kann man durch getrocknete Datteln ersetzen. Getrocknete D
 75 g Blaubeeren
 
 ### Zubereitung
-
 1. Den Backofen auf 180°C (Gas Stufe 4) vorheizen. 
 1. Die Haferflocken im Mörder oder in der Küchenmaschine zu einem groben Mehl zermahlen und in einer großen Schüssel mit Mehl, Natron und Meersalz mischen.
 1. In einem kleinen Topf bei mittlerer Hitze das Olivenöl mit Ahornsirup, Mandelmus, Tahini und Vanille unter Rühren erhitzen, bis Mandelmus und Tahini geschmolzen sind und alles gut vermischt ist.
@@ -47875,7 +46880,6 @@ Tipp:	Das Mandelmus kann durch Haselnussmuss oder Cashewmus, Erdnussbutter erset
 2 EL Mohnsamen
 
 ### Zubereitung
-
 1. Die trockenen Zutaten in einer Küchenmaschine oder einem Standmixer klein hacken. Nicht zu lange, die Konsistenz sollte eher grob sein. Die Mischung in eine Schüssel geben und beiseitestellen.
 1. Die feuchten Zutaten in der Küchenmaschine oder im Standmixer pürieren. Das kann einige Zeit dauern. Ist der Mixer nicht stark genug, einige Male mit einer Gabel die Mischung lockern und eventuell etwas Wasser hinzufügen.
 1. Die feuchten Zutaten zu den trockenen geben, die Haferflocken und den Mohn hinzugeben und gut vermengen.
@@ -48136,7 +47140,6 @@ Puderzucker zum Bestäuben
 1 Ei verquirlt zum Glasieren
 
 ### Zubereitung
-
 1. Die Hefe, den Kardamon und das Salz in einer großen Schüssel verrühren und beiseitestellen. Die Butter in einem Topf zerlassen, die Milch und den Honig hinzugeben und auf ca. 40°C erhitzen. Über die Hefemischung gießen und rühren, bis sich die Hefe aufgelöst hat.
 1. Das Mehl sieben (oder auch nicht) und ca. zwei Drittel davon mit der Hefe-Milch-Mischung zu einem Teig vermengen. Nach und nach das restliche Mehl unterkneten, bis der Teig noch weich ist, aber nicht mehr klebt. Nicht zu lange kneten. Zugedeckt und an einem warmen Ort ca. 1 Stunde zu doppelter Größe aufgehen lassen.
 1. Auf einer bemehlten Fläche den Teig ausrollen und zu einem ca. 50x45 cm großen und 5 mm dicken Quadrat ausziehen.
@@ -48196,7 +47199,6 @@ Saft von ½ Limette
 15 Haselnusskerne, grob gehackt
 
 ### Zubereitung
-
 1. Den Backofen auf 180°C (Gas Stufe 4) vorheizen. Eine Muffinform mit 12 Papierförmchen auslegen.
 1. Die Butter in einem kleinen Topf bei niedriger Hitze zerlassen. Den Ahornsirup und alle Gewürze hinzugeben und gut verrühren. Beiseitestellen und 10 Minuten ziehen lassen.
 1. Die Mandeln mit dem Kicherebsenmehl, den Kokosraspeln und dem Backpulver in eine Schüssel geben.
@@ -48287,7 +47289,6 @@ Puderzucker zum Bestäuben
 Frische Himbeeren zum Servieren
 
 ### Zubereitung
-
 1. Sechs Backformen mit 10 cm oder eine große mit 23 cm Durchmesser mit Kokosfett einfetten. 
 1. alle Zutaten für die Brownies, außer den Walnusskernen, mit 2 EL Wasser pürieren. Die Nüsse mit der Hand untermengen. Die Masse auf die Backformen verteilen (oder in die große Backform geben). Die Finger leichtmit Kokosfett einölen, damit nichts kleben bleibt, und die Masse in den Formen glattstreichen. Sie sollte ungefähr 1 cm hoch sein.
 1. Die Backformen in den Kühlschrank stellen und mindestens 30 Minuten ruhen lassen. Zugedeckt kann man sie im Kühlschrank einige Tage aufbewahren.
@@ -48321,7 +47322,6 @@ Tipp:	Wenn keine Gewürze da sind, kann man gut Kräutertees verwenden, z.B. Kam
 2 EL gehackte Pistazienkerne 
 
 ### Zubereitung
-
 1. Für die Pfannkuchen-Masse alle Zutaten mit 240 ml Wasser in einer großen Schüssel gut verquirlen, so dass man einen glatten Teig erhält. Darauf achten, dass keine klumpen bleiben. 20 Minuten kaltstellen. Danach noch einmal kräftig durchrühren, da sich das Mehl auf dem Boden absetzt.
 1. Eine beschichtete Pfanne bei mittlerer Hitze erwärmen. In die heiße Pfanne etwas Kokosfett geben, dann eine Kelle Masse hineingießen und durch Kippen der Pfanne gleichmäßig darin verteilen. Wenn die Unterseite goldbraun ist, den Pfannkuchen mit einem Pfannenwender wenden und auf der anderen Seite fertig backen. Alle Pfannkuchen backen – die Masse sollte ca.  15 Stück ergeben – und zum Abkühlen auf Backpapier legen. Man kann auch zwischen die einzelnen Pfannkuchen Backpapier legen, damit sie nicht aneinander kleben.
 1. Die kalte Sahne in einer gekühlten Schüssel mit einem elektrischen Handmixer oder einem Schneebesen steif schlagen. Beiseitestellen. Den ersten kalten Pfannkuchen auf eine Kuchenplatte legen und mit einer dünnen Schicht Bananenscheiben gleichmäßig belegen. Wieder einen Pfannkuchen auflegen und mit einem Drittel der zerdrückten Himbeeren bestreichen, einen weiteren mit einem Drittel der zerdrückten Heidelbeeren belegen. Den nächsten Pfannkuchen mit einer dünnen Schicht Butter und Dattelsirup bestreichen, den folgenden mit Schlagsahne. Danach wieder von vorn mit der Bananenschicht beginnen, bis alle Pfannkuchen verbraucht sind.
@@ -48346,7 +47346,6 @@ Tipp:	Wenn keine Gewürze da sind, kann man gut Kräutertees verwenden, z.B. Kam
 Ein paar Blättchen Minze
 
 ### Zubereitung
-
 1. Ofen auf 160 Grad Umluft vorheizen.
 1. Butter und Schokolade schmelzen und mit dem Zucker und der Vanille aus der Schote verrühren. Eier, Mehl und eine Prise Salz unterheben und alles zu einem glatten Teig verrühren. Diesen in eine gefettete Springform geben und 25 Minuten backen.
 1. Mascarpone, Eigelbe und Vanillezucker vorsichtig vermengen. Die Kerne aus dem Granatapfel lösen und mit gehackter Minze vermischen. 
@@ -48367,7 +47366,6 @@ Ein paar Blättchen Minze
 Weißer Zucker zum Bestreuen
 
 ### Zubereitung
-
 1. Die beiden Mehlsorten mit Backpulver, Salz und Lebkuchengewürz in eine Schüssel sieben. Falls Klümpchen im Zucker sind, diese mit der Hand zerkleinern.
 1. Ei mit Milch verrühren, kalte Butter in Würfel schneiden. Die Butterwürfel in die Mehl-Gewürzmischung kneten, bis eine feine krümelige Masse entsteht. Zucker und Ei-Milch-Mischung dazugeben und schnell zu einem geschmeidigen Teig verarbeiten, nicht zu lange kneten. Den Teig zu einer fingerdicken Platte formen und in Frischhaltefolie gewickelt für 2 Stunden kühlen.
 1. Dann den Teig auf einer bemehlten Arbeitsfläche dünn ausrollen und die Kekse ausstechen. Auf ein mit Backpapier belegtes Blech legen. Mit ein wenig Wasser bepinseln, dann mit Zucker bestreuen. Ungefähr 7 Minuten lang bei 180 Grad Ober- und Unterhitze backen. 
@@ -48388,7 +47386,6 @@ Abgeriebene Schale von 3 Biozitronen
 45 g Mandelblätter
 
 ### Zubereitung
-
 1. Den Backofen auf 160 Grad (Gas Stufe 3) vorheizen und en Boden einer Springform mit Backpapier auslegen.
 1. Die Butter, die Hälfte des Honigs, die Zitronenschale und die Vanille in eine Rührschüssel geben und mit dem Rührgerät cremig schlagen. Die Eigelbe dazugeben und alles eine weitere Minute verquirlen. Dann Mandelmehl, Polentagrieß und Ricotta unterrühren.
 1. Die Eiweiße in einer anderen Schüssel mit dem Handrührgerät schlagen, bis der Schaum leicht fest wird. Den restlichen Honig dazugeben und die Masse weiterschlagen, bis sie wieder fest wird. Die Eiweiß-Honig-Mischung vorsichtig mit einem Teigspatel unter en Kuchenteig heben.
@@ -48531,7 +47528,6 @@ Die Pfirsiche waschen, entsteinen und das Fruchtfleisch in kleine Stücke schnei
 2 TL Rosenwasser (wenn man will)
 
 ### Zubereitung
-
 1. Die Avocado halbieren, das Fruchtfleisch herausschaben und mit Joghurt, Milch und Zimt glatt pürieren.
 1. Mit Rosenwasser und Honig abschmecken.
 
@@ -48546,7 +47542,6 @@ Die Pfirsiche waschen, entsteinen und das Fruchtfleisch in kleine Stücke schnei
 1 EL Mandelblättchen
 
 ### Zubereitung
-
 1. Die Kardamomkapseln im Mörser zerstoßen. Mit ein wenig kaltem Wasser, Zucker, Zimt und Safran in einen Topf geben und zum Kochen bringen. Die Mischung einige Minuten köcheln lassen, dann die Temperatur reduzieren und 5 Minuten simmern lassen.
 1. Den Topf vom Herd nehmen, den Tee hineingeben und 2 (Teebeutel) – 5 (loser Tee) Minuten ziehen lassen. In Tasse abseihen und mit Mandelblättchen bestreuen. Mit Zucker servieren.
 
@@ -48720,7 +47715,6 @@ Die Brombeeren auf 2 Gläser verteilen und mit einem Mörser oder dem Stiel eine
 Eiswürfel (wie man will)
 
 ### Zubereitung
-
 1. Den Kaffee aufbrühen und dann etwas abkühlen lassen.
 1. Die Datteln und die Milch und dem Kardamom pürieren. Es ergibt mehr Dattelmilch, aber macht ja nix.
 1. Eiswürfel in Glas geben, den leicht abgekühlten Kaffee darübergießen, und nach Belieben mit Dattelmilch auffüllen. 
@@ -48749,7 +47743,6 @@ Das Avocado- und Passionfruitfleisch zusammen mit allen übrigen Zutaten im Stan
 6 frische, weiche Datteln, entsteint
 
 ### Zubereitung
-
 1. Die Cashewkerne mit Wasser bedecken und etwa 8 Stunden (oder solange man eben Zeit hat) einweichen lassen.
 1. Das Wasser abgießen und die Cashewkerne mit etwa 750 ml eisgekühltem Wasser und den anderen Zutaten im Standmixer pürieren, bis die Cashew-Dattelmilch glatt und cremig ist.
 1. Sofort servieren oder im Kühlschrank bis zu 3 tagen aufbewahren.
@@ -48769,7 +47762,6 @@ Das Avocado- und Passionfruitfleisch zusammen mit allen übrigen Zutaten im Stan
 1 Mango, geschält und in kleine Würfel geschnitten
 
 ### Zubereitung
-
 1. Reis waschen, trocken tupfen und in einer Pfanne bei mittlerer Hitze 5 Minuten braten, bis die Körner leicht golden sind. In einer anderen Pfanne die Mandelsplitter bei niedriger Hitze rösten, bis sie ebenfalls leicht golden sind. Wasser in einen Topf geben, Zucker, die Zimtstange und das ausgekratzte Mark einer Vanilleschote dazugeben. Das Ganze erhitzen, bis das Wasser heiß ist und der Zucker sich aufgelöst hat. Die Flüssigkeit auf Zimmertemperatur abkühlen lassen und den gerösteten Reis und die Mandeln dazugeben. Über Nacht (oder mindestens 6 Stunden) einweichen lassen. Dann die Zimtstange entfernen und die Mischung durchmixen. Kondensmilch hinzufügen und das Ganze ein paar Minuten lang auf höchster Stufe mixen. Durch ein Sieb gießen und zum Servieren in einen Krug geben. Kühl stellen oder Eiswürfel hinzugeben.
 1. Wer will, kann die Horchata auch in Gläsern servieren und einen Esslöffel der gewürfelten Mango dazugeben, um einen fruchtigen Kontrast zu schaffen.
 
@@ -48793,7 +47785,6 @@ Saft von ½ Zitrone
 4-5 Eiswürfel
 
 ### Zubereitung
-
 1. alle Zutaten im Standmixer auf höchster Stufe pürieren, bis die Mischung glatt ist. Nach Belieben mehr Joghurt untermixen. Das Lassi auf 2 große (oder 4 kleine) Gläser verteilen. Besonders hübsch sieht es aus, wenn man noch etwas gemahlenen Kurkuma darüber streut.
 1. Mit Trinkhalmen servieren.
 
@@ -48812,7 +47803,6 @@ Tipp: ist ein echter Immunsystem stärkendes Getränk. Immer gute Gewürze verwe
 250 g Mandel/Haselnussmilch
 
 ### Zubereitung
-
 1. 250 ml Wasser und die Gewürze in einem Topf langsam zum Kochen bringen, dann die Hitze reduzieren und 15 Minuten köcheln lassen.
 1. Vom Herd nehmen, den Tee und den Zucker hinzugeben und 5-7 Minuten ziehen lassen. Die Gewürze und den Tee abseihen und umrühren. Die Nussmilch zugießen, bis knapp unter den Siedepunkt erhitzen, in Tassen füllen und servieren.
 
@@ -48841,7 +47831,6 @@ alle Zutaten in einem Standmixer mit 120 ml Wasser fein pürieren, bis es schäu
 1 große Handvoll Eiswürfel
 
 ### Zubereitung
-
 1. Die Drachenfrucht- und Bananenstücke pürieren.
 1. Die Trink-Kokosnuss öffnen und das Kokoswasser über die Früchte gießen. 125 g weiches Kokosnussfleisch aus der Schale löffeln und zu den Früchten geben. Die Eiswürfel hinzufügen und alles glatt pürieren.
 1. Sofort in großen Gläsern mit Trinkhalmen servieren.
@@ -48858,7 +47847,6 @@ Tipp:	Liebe Paula, damit du auch weißt, was du mit den ganzen Früchten von der
 Mineralwasser
 
 ### Zubereitung
-
 1. Die Holunderblüten vorsichtig schütteln, um Schmutz und Käfer zu entfernen.
 1. Die Zitronen in dünne Scheiben schneiden. Die Holunderblüten und die Zitronenscheiben in einem großen Topf oder Eimer in Lagen schichten. 2 l Wasser in einem großen Topf zum Kochen bringen. Den Honig darin unter Rühren auflösen, dann das Honigwasser über die Holunderblüten und Zitronenscheiben gießen. An einem kühlen Ort 48 Stunden ziehen lassen, einmal am Tag umrühren. Wenn ein intensiverer Geschmack gewünscht ist, länger ziehen lassen.
 1. Die Flüssigkeit durch ein Passiertuch in eine große Schüssel abseihen. Durch einen Trichter in saubere Flaschen füllen und in den Kühlschrank stellen. Ungeöffnet hält sich die Limonade einige Wochen. Nach Belieben mit Mineralwasser mischen.
@@ -48874,7 +47862,6 @@ Saft von ½ Zitrone
 10 Blätter frische Minze
 
 ### Zubereitung
-
 1. Die Melone halbieren, die Samenkerne entfernen und mit einem Löffel das Fruchtfleisch herauslösen. In einem Standmixer oder einer Küchenmaschine mit den restlichen Zutaten fein pürieren.
 1. Kosten, ob die Mischung süß genug ist, wenn nicht, mehr Apfelsaft hinzufügen.
 1. In ein flaches Gefäß gießen, mit einem Deckel zudecken und in den Gefrierschrank stellen. Nach ca. 1 Stunde mit einer Gabel durchmischen, um die Eiskristalle aufzubrechen. Wieder zurück in den Gefrierschrank stellen. In den nächsten 3 Stunden alle 30 Minuten durchrühren.

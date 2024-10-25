@@ -7,7 +7,7 @@ const App = () => {
   const [recipes, setRecipes] = useState([]);
 
   useEffect(() => {
-    fetch('./sample.md')
+    fetch('./Rezeptbuch.md')
       .then(response => response.text())
       .then(text => parseMarkdown(text));
   }, []);

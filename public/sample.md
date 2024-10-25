@@ -35,7 +35,6 @@ Paula: Ich probiere das Rezept mal!
 Meersalzflocken und schwarzer Pfeffer
 
 ### Zubereitung
-
 1. Die Bohnen mit 2 EL Olivenöl und ½ TL Meersalzflocken würzen. Eine gut geölte Grillpfanne bei hoher Temperatur erhitzen und für eine gute Belüftung der Küche sorgen – könnte ein wenig nebelig werden 😊. Sobald die Pfanne heiß ist, die Bohnen hineinlegen und von jeder Seite 3-4 Minuten rösten, bis sich deutlich das typische Grillmuster abzeichnet und die Bohnen fast gar sind. In eine Schüssel umfüllen, mit einem Teller zudecken und 5-10 Minuten stehen lassen, je nachdem wie knackig oder weich man das Gemüse will; in der Resthitze gart es etwas weiter.
 1. Die Pfirsichspalten mit dem restlichen Öl (1 EL) beträufeln und von jeder Seite in 1-2 Minuten goldbraun grillen.
 1. Die Bohne, die Pfirsiche und die Minze behutsam vermengen und auf einer Platte/einzelnen Tellern anrichten. Mit dem Zitronensaft und einer kräftigen Prise Salz und Pfeffer würzen. Den Ziegenkäse und die Mandeln gleichmäßig darauf verteilen und das Ganze zum Schluss mit dem Honig beträufeln.
