@@ -42,22 +42,3 @@ Meersalzflocken und schwarzer Pfeffer
 
 ### Kommentar
 Hab ich ausprobiert. Sieht toll aus, schmeckt lecker und macht einiges her 😊 Man kann alle grüne Bohnen nehmen, man muss nicht Stangenbohnen nehmen. Allerdings je breiter die Bohnen sind, umso einfacher ist das Umdrehen der Bohnen in der Grillpfanne. Die Pfirsiche kann man auch durch Nektarinen oder Aprikosen ersetzen.
-
-## Gefüllte Tomaten
-### Zutaten (für 4 Portionen)
-400 g große Cocktailtomaten
-
-½ Bund Rucola
-2 Knoblauchzehen
-100 g weicher Ricotta
-3 EL frisch geriebener Parmesan
-Salz, Pfeffer aus der Mühle, 1 Prise Cayennepfeffer
-
-Basilikumblättchen zum Garnieren
-
-### Zubereitungszeit
- 25 Minuten
-
-1. Die Tomaten waschen und jeweils einen Deckel abschneiden. Die Tomaten aushöhlen, die Hälfte des Fruchtfleisches fein zerkleinern. Den Rest und die Deckel für ein anderes Gericht verwenden.
-1. Rucola verlesen und dicke Stiele entfernen. Blätter waschen, trockenschütteln und fein hacken. Knoblauch schälen und durchpressen. Ricotta mit Tomatenfleisch, Rucola, Knoblauch und Parmesan verrühren und mit Salz, Pfeffer und Cayennepfeffer abschmecken.
-1. Die Masse in die Tomaten füllen, mit je 1 Basilikumblättchen garnieren und auf einer Platte anrichten.

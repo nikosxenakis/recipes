@@ -150,7 +150,6 @@ Auch das ist eine absolut leckere Kleinigkeit, der zumindest ich nie widerstehen
 1 kleine Stange Staudensellerie
 2 EL Butter
 3 EL Mehl
-
 ¼ l heiße Milch
 
 Je 1 Msp. Salz und schwarzer Pfeffer
@@ -581,7 +580,6 @@ Geriebene Muskatnuss
 
 200g gekochten Schinken oder Speck
 3 Eier
-
 ¼ l Sahne
 1 Prise weißer Pfeffer
 125 g Emmentaler, gerieben oder Gruyère
@@ -1697,7 +1695,6 @@ Fleur de Sel, Pfeffer
 
 Frische Rosmarinzweige
 1 TL getrockneter Oregano
-
 1-2 TL grobes Meersalz
 
 ### Zubereitungszeit
@@ -3422,7 +3419,6 @@ Salz
 *Für das Dressing:*
 4 EL Neutrales Öl
 4 EL Limettensaft
-
 4 TL Reisessig
 1 EL Fischsoße
 1 TL Zucker
@@ -4481,7 +4477,6 @@ Ha no, dem gib´s nix mehr hinzuzufügen. Schwäbischer Kartoffelsalat ist der B
 ### Zutaten (für 4 Portionen)
 1 kg fest kochende Kartoffeln
 1 Zwiebel
-
 ¼ l kräftige Gemüsebrühe
 1 TL Senf
 1 EL Essig
@@ -5327,7 +5322,6 @@ Salz, Pfeffer
 500 g weißen Spargel
 1 unbehandelte Limette
 3 Vanilleschoten
-
 4 TL Honig
 4 EL Olivenöl
 150 g Kirschtomaten
@@ -6440,7 +6434,6 @@ Info:	Man kann statt Fladen auch eher bulettenförmige Brötchen daraus backen, 
 
 Je 375 g Roggen- und Weizenmehl
 40 g Hefe
-
 ¼ lauwarmes Wasser
 
 1/8 l lauwarme Milch
@@ -7515,7 +7508,6 @@ Zucker
 1 Bund krause Petersilie
 100 g Schmand
 2 TL Zitronensaft
-
 4 TL süßer Senf
 Salz, Cayennepfeffer
 
@@ -7560,7 +7552,6 @@ Salz, Cayennepfeffer
 4 Artischockenherzen aus der Dose
 
 4 Scheiben Sauerteigbrot
-
 ¼ l Tomatensauce
 1 -2 EL Kapern
 2 -3 EL entsteinte Oliven
@@ -8752,7 +8743,6 @@ Pfeffer, Muskatnuss
 250 g mehligkochende Kartoffeln
 35 g Butter
 2 EL Gemüsebrühe
-
 ¼ l naturtrüber Apfelsaft
 3 EL Crème fraîche
 Salz
@@ -8883,7 +8873,6 @@ Salz, Pfeffer
 2 Zehen Knoblauch
 1 TL grüne Currypaste (gekauft oder siehe unten)
 1 mittelgroßer Kürbis
-
 ¼ l Weißwein
 2 EL Fischsauce
 2 Stangen Zitronengras
@@ -12514,7 +12503,6 @@ Tipp:	Hähnchen am Tag vorher mit der Marinade bestreichen und bis zur Zubereitu
 2 EL Zitronenmarmelade
 
 4 Poulardenbrüste mit Knochen (à 160 g)
-
 1-2 TL Quatre Épices (frz. Kräutermischung)
 
 2-3 EL Olivenöl
@@ -12791,7 +12779,6 @@ Salz, Pfeffer
 250 g Hähnchenbrust ohne Haut und Knochen
 30 g frische Erdnüsse
 3 EL Reiswein
-
 4 TL Maisstärke, in 4 TL Wasser angerührt
 20 g Lauch
 20 g Ingwer
@@ -13288,11 +13275,8 @@ Für die Würzmischung
 2 EL Rohrzucker
 2 EL Knoblauchgranulat
 2 EL Paprikapulver
-
 4 TL getrockneter Thymian
-
 4 TL gemahlener Kreuzkümmel
-
 4 TL Selleriesamen
 2 TL gemahlener Pfeffer
 
@@ -13555,7 +13539,6 @@ Salz, Pfeffer, Muskat
 1 Stück Ingwer (ca. 10 g)
 
 ½ TL Chiliflocken oder ½ kleine Chilischote
-
 1-2 TL Essig
 
 ### Zubereitung
@@ -13792,7 +13775,6 @@ Salz
 50 g Schnittknoblauch (chinesischer Schnittlauch) oder Frühlingszwiebeln
 40 g scharfe Bohnenpaste
 1 TL Sojasauce
-
 ¼ l Hühnerbrühe (oder Wasser)
 
 ### Zubereitungszeit
@@ -13914,8 +13896,7 @@ Salz, Pfeffer
 ½ Stange Lauch
 1 Möhre
 100 g Knollensellerie
-
-¼ L Rotwein 
+¼ l Rotwein 
 
 1/8 l Gemüsebrühe
 
@@ -14052,7 +14033,6 @@ Salz
 1 kg Rinderschulter
 Salz, Pfeffer
 3 EL Sonnenblumenöl
-
 1-2 TL Tomatenmark
 1 EL Mehl
 1 Scheibe zerbröseltes Schwarzbrot/Pumpernickel
@@ -14081,7 +14061,6 @@ Schwarzer Pfeffer aus der Mühle
 2 große Zwiebeln
 250 g Kartoffeln
 2 EL Öl, Salz
-
 ¼ l Brühe
 2 EL Crème fraîche
 1 Bund Schnittlauch
@@ -14227,7 +14206,6 @@ Salz und Pfeffer
 
 ## Kalbsmedaillons mit Sahnezucchini
 ### Zutaten (für 4 Portionen)
-
 ¼ l Schlagsahne
 150 g Crème fraîche
 
@@ -14530,7 +14508,6 @@ Salz
 
 8 schwarze Pfefferkörner
 2 Stück Zimtstange (5 cm)
-
 4 TL Paprikapulver, rosenscharf
 
 ½ TL Chilipulver
@@ -15314,7 +15291,6 @@ Sauerkraut (aber ohne Speck zubereitet)
 4 Kassler Rippchen
 
 ½ l Brühe
-
 5 Wacholderbeeren
 1 Lorbeerblatt
 1 Gewürznelke
@@ -15338,7 +15314,6 @@ Info:	Filderkraut ist traditionell Spitzkohl, der auf der Filderebene südlich v
 Für die Würzmischung:
 2 EL reines Chilipulver
 2 EL grobes Meersalz
-
 4 TL Knoblauchgranulat
 2 TL frisch gemahlener schwarzer Pfeffer
 1 TL Senfpulver
@@ -16365,7 +16340,6 @@ Salz, Pfeffer aus der Mühle
 2-3 EL Butterschmalz
 750 g Rindergulasch
 1 EL Paprikapulver edelsüß
-
 ¼ l Fleischbrühe
 400 g geschälte Tomaten aus der Dose
 Salz, schwarzer Pfeffer aus der Mühle
@@ -16515,7 +16489,6 @@ Etwas Butter
 
 0,5 l Schwarzbier
 2 Lorbeerblätter
-
 5 Wacholderbeeren
 Salz, Pfeffer
 
@@ -16611,7 +16584,6 @@ Weißbrot
 2 Schalotten
 1 Limette
 3 EL gemahlene Kurkuma
-
 1-2 TL Salz
 1 EL Garnelenpaste (schmeckt man nicht raus)
 
@@ -17241,7 +17213,6 @@ Diese Fleischbällchen ohne Sauce habe ich zu gefühlt tausenden Partys, Schulfe
 
 6-8 Stiele Minze
 400 g Lammhack
-
 1-2 TL Harissa
 2 Eier
 Salz, Zucker, Pfeffer
@@ -17871,7 +17842,6 @@ Je eine kleine grüne und gelbe Paprikaschote
 750 g Fleischtomaten (oder 2 Dosen geschälte Tomaten)
 4 EL Öl
 500 g mageres Rinderhackfleisch
-
 ¼ l kräftiger Rotwein
 
 ¼ bis ½ L Brühe
@@ -17979,7 +17949,6 @@ Salz, Pfeffer
 
 4 große Burger-Brötchen
 1 EL Butter
-
 4 TL scharfer Senf
 4 EL Tomatenketchup
 
@@ -19662,7 +19631,6 @@ Alle trockenen Zutaten vermischen, Wasser hinzufügen und backen.
 200 g Butter
 200 g Bergkäse
 3 Eigelb
-
 1-2 TL Schwarzkümmel und/oder Fenchelsamen
 
 ### Zubereitung
@@ -19962,7 +19930,6 @@ die Zutaten mit einem Schneebesen trocken verrühren und mit etwa 250 ml kochend
 30 g Butter
 1 kleine Zwiebel
 250 g Mehl
-
 4 TL Backpulver
 1 Prise Salz
 50 g Parmesan, fein geraspelt
@@ -19983,7 +19950,6 @@ Tipp:	Teig für Scones darf nicht zu lange geknetet werden, sonst wird das Gebä
 ## Scones mit Schnittlauch und Käse
 ### Zutaten (für 9 Stück):
 250 g Mehl
-
 4 TL Backpulver
 1 Prise Salz
 30 g Butter, in kleine Stücke geschnitten
@@ -21386,7 +21352,6 @@ Oregano- und Minzblättchen von den Stielen zupfen, grob schneiden. Joghurt mit 
 Grobes Meersalz
 
 Pfeffer
-
 1-2 TL Ahornsirup
 
 ### Zubereitungszeit
@@ -22438,7 +22403,6 @@ Salz
 
 ## Chili-Senf-Pickle Rai wara mircha 
 ### Zutaten (für 1 kleines Glas)
-
 4 TL gelbe Senfsamen
 80 g grüne India-Jwala-Chilischoten, halbiert und entkernt
 2 gestrichene TL Salz
@@ -22557,7 +22521,6 @@ Saft von 2 Limetten
 1 TL Salz
 
 ½ TL gemahlene Kurkuma
-
 4 TL Rapsöl
 1 TL Senfsamen
 
@@ -23438,7 +23401,6 @@ Salz, Pfeffer
 25 g frisch geriebener Parmesan
 1 EL Butter
 1 EL Mehl
-
 ¼ l Milch
 
 ½ Zitrone (Saft)
@@ -24475,7 +24437,6 @@ Chiliflocken
 1 kleines Lorbeerblatt
 3 EL getrocknete Egerlinge
 150 g Sahne
-
 1-2 TL Speisestärke
 20 g kalte Butter
 1 Knoblauchzehe
@@ -24629,7 +24590,6 @@ Schwarzer Pfeffer, Cayennepfeffer, Salz
 
 1,5 EL Chiliflocken
 1 rote Chilischote
-
 4 TL Kreuzkümmelsamen, im Mörser grob zerstoßen
 1 EL Korianderkörner, in Mörser grob zerstoßen
 2 EL Tomatenmark
@@ -25517,7 +25477,6 @@ Salz, Pfeffer
 70 g Butter
 70 g Mehl
 1 l Vollmilch
-
 1-2 TL Dijon-Senf
 500 g Maccheroni
 
@@ -26927,7 +26886,6 @@ Salz
 8 EL saure Sahne
 2 TL abgeriebene Zitronenschale
 2 EL Zitronensaft
-
 4 TL Meerettich, frisch gerieben
 800 g rote Beten
 1 Lorbeerblatt
@@ -28023,7 +27981,6 @@ Tipp:	In einer großen Form statt in vier kleinen Förmchen dauert das Soufflé 
 
 ## Käsesoufflé Version 2
 ### Zutaten für 4 Portionen
-
 ¼ l Milch
 
 50g Butter und Butter für die Form
@@ -28083,7 +28040,6 @@ Fleur de Sel
 ## Kratzete Nr. 2
 ### Zutaten (für 4 Portionen):
 4 Eier
-
 ¼ l Milch
 250 g Mehl
 1 Prise Muskat
@@ -29818,7 +29774,6 @@ Salz, Pfeffer
 ## Polenta mit Pilzen und Artischocken 
 *Für die Polenta:*
 150 g grober Polentagrieß
-
 1-2 TL feines Meersalz (nach Geschmack)
 4 EL Olivenöl
 
@@ -30234,7 +30189,6 @@ Salz und Pfeffer
 200 g Zwiebeln
 600 g Tomaten
 600 g Rinderhackfleisch
-
 ¼ l trockener Weißwein
 
 ¼ TL Zucker
@@ -30544,7 +30498,6 @@ In der Zwischenzeit die Pilze zerkleinern, kleine Pilze können ganz bleiben. In
 
 Etwas Olivenöl
 3 rote Paprika
-
 1-2 TL Zucker
 2 Lorbeerblätter
 1 TL Oregano
@@ -31131,7 +31084,6 @@ Tipp:	 Wird der Käse während des Essens dickflüssig, einfach etwas Weißwein 
 800 g Baguette
 1 Knoblauchzehe
 1 TL Zitronensaft
-
 4 TL Speisestärke
 
 0,2 l trockener Weißwein
@@ -32435,7 +32387,6 @@ Tipp:	Passt als Beilage zu Fleisch oder einfach mit einem tollen grünen Salat.
 100 g Zwiebeln
 50 g Speck
 4 Eier
-
 ¼ l Milch
 1 Zweig frischer Thymian
 40 g Butter
@@ -34556,7 +34507,6 @@ Semmelbrösel (optional)
 40 g weiche Butter
 300 g TK-Erbsen
 100 g frisch geriebener mittelalter Gouda
-
 ¼ l Milch
 4 Eier
 
@@ -35455,7 +35405,6 @@ Olivenöl
 700 g Tomaten
 
 Je 1 Msp. Zimt- und Pimentpulver
-
 ¼ l trockener Weißwein
 40 g Butter und Butter für die Form
 4 EL Mehl
@@ -36739,7 +36688,6 @@ Salz, Pfeffer
 
 *Für die Füllung:*
 300 g Hühnerbrustfilet
-
 ¼ l Hühnerbrühe
 5 EL frisch geriebener Parmesan
 1 EL Crème fraîche
@@ -37238,7 +37186,6 @@ Salz
 100 g durchwachsener Speck
 1 Mohrrübe
 1 Zwiebel
-
 ¼ l trockener Weißwein
 
 1/8 l Brühe
@@ -37288,7 +37235,6 @@ Salz
 1 Stange Staudensellerie (oder ein kleines Stück Knollensellerie)
 2 EL Butter
 2 EL Tomatenmark
-
 ¼ l Brühe
 1 Zwiebel
 1 TL getrockneter Oregano
@@ -37580,7 +37526,6 @@ Salz, Muskatnuss
 500 g Mehl
 4 Eier
 Salz
-
 ¼ l Mineralwasser
 3 große Zwiebeln
 
@@ -37606,7 +37551,6 @@ Butter
 Salz, Pfeffer
 250 g mittelalter Gouda oder Gruyère
 2 Zwiebeln
-
 50 Butter
 
 ### Zubereitungszeit
@@ -37809,7 +37753,6 @@ Mehl für die Arbeitsfläche
 100 ml Weißwein
 100 ml Apfelsaft
 100 ml Gemüsebrühe
-
 5 Wacholderbeeren
 
 Je 1 Lorbeerblatt und 1 Nelke
@@ -37833,9 +37776,7 @@ Salz, Pfeffer, Muskatnuss, Zucker
 ### Zutaten (für 4 Portionen):
 500 g Kartoffeln (mehlig kochende Sorte)
 2 Eier
-
 150-200 g Mehl
-
 Frisch geriebene Muskatnuss
 2 Zwiebeln
 200 g gekochter Schinken in Scheiben
@@ -37863,9 +37804,7 @@ Blitzvariante: Fertige Schupfnudeln kaufen 😉
 40 g eingelegtes Trockengemüse (Chinakohl oder Senfkohl)
 30 g Lauch
 2 TL Sesampaste
-
 4 TL Sesamöl
-
 4 TL Chiliöl
 2 EL Sojasauce
 500 g chinesische Weizennudeln
@@ -37889,7 +37828,6 @@ Trockengemüse wird erst getrocknet und dann in Salzlake eingelegt. Bei uns gibt
 *Für das Kompott:*
 1 große Bio-Orange
 60 g Zucker
-
 1-2 TL Speisestärke
 
 2-3 EL Holunderblütensirup
@@ -37900,7 +37838,6 @@ Trockengemüse wird erst getrocknet und dann in Salzlake eingelegt. Bei uns gibt
 4 Stiele Zitronenmelisse
 
 *Für das Risotto:*
-
 2-3 TL roter Pfeffer
 1 Vanilleschote
 800 ml Milch
@@ -38060,9 +37997,7 @@ Info:	 Eis ohne Eismaschine 😊
 2 EL Zucker
 
 8-10 Safranfäden
-
 ¼ l Milch (mind. 3,5% Fett)
-
 ¼ l Kokosmilch
 1 Prise Salz
 100 g Milchreis
@@ -38240,7 +38175,6 @@ Info:	Anna Pawlowa Pawlowa war eine russische Balletttänzerin, die im 19. Jahrh
 ### Zutaten (für 6 – 8 Stück):
 40 g Butter
 2 Eier
-
 ¼ l Milch
 2 EL Zucker
 1 Prise Salz
@@ -38303,7 +38237,6 @@ Granita oder Granité? Der ursprüngliche Name dieser sizilianischen Süßspeise
 750 g Zucker
 1 EL Rosenwasser
 1 TL schwarze Kardamomkapseln
-
 ¼ l Milch
 175 g Milchpulver
 45 g Weizenmehl
@@ -38873,7 +38806,6 @@ Tipp:	Dazu passt z.B. Zwetschgenkompott oder eingelegte Zwetschgen.
 ## Kirschplotzer
 ### Zutaten (für 4 Portionen)
 500 g Weißbrot vom Vortag (alternativ Schwarzbrot)
-
 ¼ l heiße Milch
 6 Eier
 150 g Butter
@@ -39519,7 +39451,6 @@ Puderzucker zum Bestäuben
 
 *Für die Sauce:*
 1 Vanilleschote
-
 ¼ l Milch
 3 Eigelb
 1 Päckchen Vanillezucker
@@ -39553,7 +39484,6 @@ Salz
 
 Etwas Zucker zum Bestreuen
 100 g Edelbitter-Schokolade
-
 ¼ l Schlagsahne
 
 4 cl Amaretto
@@ -40773,7 +40703,6 @@ Salz
 
 8 Löffelbiskuits
 160 ml stark aufgebrühter Kaffee
-
 4 TL Pistazienkerne (gehackt)
 
 8 TL Tannenhonig
@@ -40944,7 +40873,6 @@ Pimentzwetschgen
 50 g Haselnussmus
 2 TL Puderzucker
 40 g Haselnussblättchen
-
 1-2 TL Puderzucker
 
 ### Zubereitungszeit
@@ -41074,7 +41002,6 @@ Salz
 
 3-4 TL Kokosblütenzucker
 2 kleine Äpfel
-
 4 TL Öl
 
 ### Zubereitungszeit
@@ -41567,7 +41494,6 @@ Mark von 1 Vanilleschote
 4 EL Mehl
 4 Eier
 6 EL Puderzucker
-
 ¼ l Milch
 
 ### Zubereitungszeit
@@ -41839,7 +41765,6 @@ Vanilleeis, Joghurt oder Mascarpone
 ## Karamellisierte Apfelpfannkuchen
 ### Zutaten (für 4 Portionen):
 150 g Mehl
-
 ¼ l Milch
 4 Eier
 2 TL abgeriebene Orangenschale
@@ -41885,7 +41810,6 @@ Salz
 ### Zutaten (für 4 Portionen):
 5 Eier
 80 g Puderzucker
-
 ¼ l Milch
 125 g Sahne
 200 g Mehl
@@ -41975,7 +41899,6 @@ Tipp:	Bei den Früchten hat man freie Wahl, denn auch Äpfel, Birnen oder Pfirsi
 ## Apfel-Pfannkuchen
 ### Zutaten (für 4 Portionen):
 200 g Mehl
-
 ¼ l Milch
 4 Eier (2 davon getrennt)
 Salz
@@ -44084,7 +44007,6 @@ Pfeffer, Kümmel, edelsüßes Paprikapulver
 ### Zutaten (für 1 Blech)
 30 g Hefe
 80 g Zucker
-
 ¼ l lauwarme Milch
 500 g Mehl
 1 Prise Salz
@@ -45298,7 +45220,6 @@ Info:	Das sind Rezepte aus dem Landfrauencafe in St. Märgen im Schwarzwald, in 
 500 g Naturjoghurt
 
 Saft einer ½ Zitrone
-
 ¼ l Holunderblütensirup
 
 *Für das Baiser:*
@@ -45651,7 +45572,6 @@ Salz
 
 172 TL Salz
 35 g Hefe
-
 ¼ l lauwarme Milch 
 2 Eier
 50 g Butter
@@ -45730,7 +45650,6 @@ Info:	 In New Orleans gibt es äußerst famose Beignets 😊
 500 g Mehl
 30 g Hefe
 50 g Zucker
-
 ¼ l lauwarme Milch
 2 Eier
 50 g Butter
@@ -45804,7 +45723,6 @@ Je 50 g feingehacktes Zitronat und Orangeat
 ### Zutaten (für 14 Stück):
 500 g Mehl
 30 g Hefe
-
 ¼ lauwarme Milch
 100 g Zucker
 125 g Butter
@@ -45900,7 +45818,6 @@ Abgerieben Schale ½ unbehandelten Zitrone
 500 g Mehl
 30 g Hefe
 60 g Zucker
-
 ¼ lauwarme Milch
 60 g Butter
 1 Ei
@@ -45946,7 +45863,6 @@ Tipp:	Man kann einen Pfennig in Alufolie gewickelt in der Brezel mitbacken. Wer 
 Abgerieben Schale von 1½ unbehandelten Zitronen
 
 8 Blätter weiße Gelatine
-
 ¼ l Milch
 200 g Zucker
 1 Prise Salz
@@ -47711,7 +47627,6 @@ Salz
 
 *Garnierung:*
 100 ml Schlagsahne
-
 4 TL Puderzucker
 200 g Himbeeren
 10 g Pistazien (fein gehackt)
@@ -48530,7 +48445,6 @@ Je 100 g Zitronat und Orangeat
 1 kg Mehl
 2 Würfel frische Hefe oder 2 Tütchen Trockenhefe
 250 g Zucker
-
 ¼ l Milch
 
 Je 1 gute Prise Salz, Kardamon, Piment und Muskatblüte
@@ -48820,7 +48734,6 @@ Salz
 1 TL Backpulver
 45 g Kokosflocken plus ein paar Flocken zum Anrichten
 4 EL Sesamsamen, plus ein paar Samen zum Anrichten
-
 4 TL klarer Honig
 2 EL Kokosfett oder Olivenöl
 4 EL Milch (oder Pflanzenmilch)
@@ -48947,7 +48860,6 @@ Tipp:	Wenn keine Küchenmaschine zur Hand ist, kann man die trockenen Zutaten mi
 2 Eigelb
 1 Prise Salz
 1 EL weiche Butter
-
 ¼ l stilles Mineralwasser
 
 Nach Belieben einige Tropfen Rum oder Orangenblütenwasser

@@ -7,7 +7,7 @@ const App = () => {
   const [recipes, setRecipes] = useState([]);
 
   useEffect(() => {
-    fetch('./sample.md')
+    fetch('./Rezeptbuch.md')
       .then(response => response.text())
       .then(text => parseMarkdown(text));
   }, []);
@@ -18,28 +18,53 @@ const App = () => {
 
     const parsedRecipes = [];
     let currentRecipe = null;
+    let isH2 = false;
+    let isH3 = false;
+    let currentSection = '';
 
     tokens.forEach(token => {
-      console.log(token);
+        console.log(token);
       if (token.type === 'heading_open' && token.tag === 'h2') {
-        currentRecipe = { title: '', ingredients: '', instructions: '', comments: '' };
-      }
-      else if (token.type === 'heading_close' && token.tag === 'h2') {
         if (currentRecipe) {
           parsedRecipes.push(currentRecipe);
         }
+        currentRecipe = { title: '', ingredients: '', instructions: '', comments: '' };
+        isH2 = true;
+        currentSection = '';
+      }
+      else if (token.type === 'heading_close' && token.tag === 'h2') {
+        isH2 = false;
+      }
+      else if (token.type === 'heading_open' && token.tag === 'h3') {
+        isH3 = true;
+        currentSection = '';
+      }
+      else if (token.type === 'heading_close' && token.tag === 'h3') {
+        isH3 = false;
       }
       else if (token.type === 'inline' && token.content) {
-        if (token.content.startsWith('### Zutaten')) {
-          currentRecipe.ingredients = token.content.split('\n').slice(1).map(line => line.trim()).filter(line => line).join('\n');
-        } else if (token.content.startsWith('### Zubereitung')) {
-          currentRecipe.instructions = token.content.split('\n').slice(1).map(line => line.trim()).filter(line => line).join('\n');
-        } else if (token.content.startsWith('### Kommentar')) {
-          currentRecipe.comments = token.content.split('\n').slice(1).map(line => line.trim()).filter(line => line).join('\n');
-        } 
-        // else if (!currentRecipe.title) {
-        //   currentRecipe.title = token.content;
-        // }
+        if (isH2) {
+          currentRecipe.title = token.content;
+        }
+        else if(isH3) {
+          if (token.content.startsWith('Zutaten')) {
+            currentSection = 'ingredients';
+          }
+          else if (token.content.startsWith('Zubereitung') ){
+            currentSection = 'instructions';
+          }
+          else if (token.content.startsWith('Kommentar')) {
+            currentSection = 'comments';
+          }
+        }
+
+        if (currentSection === 'ingredients') {
+          currentRecipe.ingredients += token.content.split('\n').map(line => `- ${line.trim()}`).join('\n') + '\n';
+        } else if (currentSection === 'instructions') {
+          currentRecipe.instructions += token.content + '\n';
+        } else if (currentSection === 'comments') {
+          currentRecipe.comments += token.content + '\n';
+        }
       }
     });
 
