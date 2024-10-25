@@ -12,6 +12,7 @@
   background-color: #fff;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   transition: transform 0.2s;
+  cursor: pointer;
 }
 
 .recipe:hover {
@@ -39,4 +40,8 @@
 .recipe p {
   line-height: 1.6;
   color: #666;
+}
+
+.recipe-details {
+  margin-top: 10px;
 }
