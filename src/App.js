@@ -11,6 +11,18 @@ const App = () => {
     parseMarkdown(cookbook);
   }, []);
 
+  const downloadJson = (data, filename = 'recipes.json') => {
+    const jsonStr = JSON.stringify(data, null, 2);
+    const blob = new Blob([jsonStr], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+  };
+
   const parseMarkdown = (text) => {
     const md = new MarkdownIt();
     const tokens = md.parse(text, {});
@@ -35,7 +47,15 @@ const App = () => {
         if (currentRecipe) {
           parsedRecipes.push(currentRecipe);
         }
-        currentRecipe = { title: '', category: category, ingredients: '', instructions: '', comments: '' };
+        currentRecipe = {
+          title: '',
+          category: category,
+          ingredients: [],
+          instructions: [],
+          duration: null,
+          tips: [],
+          comments: [],
+        };
         isH2 = true;
         currentSection = '';
       }
@@ -66,6 +86,9 @@ const App = () => {
           else if (token.content.startsWith('Kommentar')) {
             currentSection = 'comments';
           }
+          else if (token.content.startsWith('Tipp')) {
+            currentSection = 'tips';
+          }
           firstElement = true;
         }
 
@@ -74,16 +97,41 @@ const App = () => {
         }
         else {
           if (currentSection === 'ingredients') {
-            // currentRecipe.ingredients += token.content.split('\n').map(line => `${line.trim()}`).join('\n');
-            if(token.content.trim()) {
-              currentRecipe.ingredients += token.content.trim() + '\n';
-            }
+            const ingredients = token.content.trim().split('\n').filter(x => x !== '');
+            ingredients.forEach(ingredient => {
+              currentRecipe.ingredients.push(ingredient);
+            });
           }
           else if (currentSection === 'instructions') {
-            currentRecipe.instructions += token.content + '\n';
+            const instructions = token.content.trim().split('\n');
+            if(
+              instructions.length >= 1 &&
+              (
+                instructions[0].toLowerCase().includes('minute') ||
+                instructions[0].toLowerCase().includes('stunde') ||
+                instructions[0].toLowerCase().includes('std') ||
+                instructions[0].toLowerCase().includes('min')
+              ) &&
+              instructions[0].length <= 40
+            ) {
+              currentRecipe.duration = instructions[0];
+              instructions.shift();
+            }
+            instructions.filter(x => x !== '').forEach(instruction => {
+              currentRecipe.instructions.push(instruction);
+            });
           }
           else if (currentSection === 'comments') {
-            currentRecipe.comments += token.content + '\n';
+            const comments = token.content.trim().split('\n').filter(x => x !== '');
+            comments.forEach(comment => {
+              currentRecipe.comments.push(comment);
+            });
+          }
+          else if (currentSection === 'tips') {
+            const tips = token.content.trim().split('\n').filter(x => x !== '');
+            tips.forEach(tip => {
+              currentRecipe.tips.push(tip);
+            });
           }
         }
       }
@@ -93,7 +141,9 @@ const App = () => {
       parsedRecipes.push(currentRecipe);
     }
 
+    console.log(`Parsed ${parsedRecipes.length} recipes`);
     setRecipes(parsedRecipes);
+    // downloadJson(parsedRecipes);
   };
 
   return (

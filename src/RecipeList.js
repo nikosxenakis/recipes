@@ -35,9 +35,7 @@ const RecipeList = ({ recipes }) => {
   const filteredRecipes = recipes.filter(recipe =>
     searchTerms.every(term =>
       recipe.title.toLowerCase().includes(term.toLowerCase()) ||
-      recipe.ingredients.toLowerCase().includes(term.toLowerCase()) ||
-      recipe.instructions.toLowerCase().includes(term.toLowerCase()) ||
-      recipe.comments.toLowerCase().includes(term.toLowerCase())
+      recipe.ingredients.some(ingredient => ingredient.toLowerCase().includes(term.toLowerCase()))
     )
   );
 
@@ -69,7 +67,7 @@ const RecipeList = ({ recipes }) => {
           onChange={handleSearchChange}
           className="search-bar"
         />
-        <button type="submit" className="search-button">Add</button>
+        <button type="submit" className="search-button">Search</button>
       </form>
       <div className="breadcrumbs">
         {searchTerms.map((term, index) => (
@@ -80,28 +78,41 @@ const RecipeList = ({ recipes }) => {
         ))}
       </div>
       {currentRecipes.map((recipe, index) => (
-        <div key={indexOfFirstRecipe + index} className="recipe" onClick={() => toggleVisibility(indexOfFirstRecipe + index)}>
+        <div key={indexOfFirstRecipe + index} className="recipe">
           <button className={`collapsible ${visibleRecipes[indexOfFirstRecipe + index] ? 'active' : ''}`}>
             {visibleRecipes[indexOfFirstRecipe + index] ? '−' : '+'}
           </button>
-          <h2>{recipe.title}</h2>
+          <h2 onClick={() => toggleVisibility(indexOfFirstRecipe + index)}>{recipe.title}</h2>
           {visibleRecipes[indexOfFirstRecipe + index] && (
             <div className="recipe-details">
               <h3>🔠 {recipe.category}</h3>
+              {recipe.duration && <p>⌛ {recipe.duration}</p>}
               <h3>Zutaten 🥗</h3>
               <ul>
-                {recipe.ingredients.split('\n').filter(x => x !== '').map((ingredient, i) => (
+                {recipe.ingredients.map((ingredient, i) => (
                   <li key={i}>{ingredient}</li>
                 ))}
               </ul>
               <h3>Zubereitung 📜</h3>
-                {recipe.instructions.split('\n').map((instruction, i) => (
-                  <p key={i}>{instruction}</p>
+              <ul>
+                {recipe.instructions.map((instruction, i) => (
+                  <li key={i}>{instruction}</li>
                 ))}
-              {recipe.comments && (
+              </ul>
+              {recipe.tips && recipe.tips.length > 0 && (
+                <>
+                  <h3>Tipp 💁</h3>
+                  <ul>
+                    {recipe.tips.map((tip, i) => (
+                      <li key={i}>{tip}</li>
+                    ))}
+                  </ul>
+                </>
+              )}
+              {recipe.comments && recipe.comments.length > 0 && (
                 <>
                   <h3>Kommentar 💬</h3>
-                  {recipe.comments.split('\n').map((comment, i) => (
+                  {recipe.comments.map((comment, i) => (
                     <p key={i}>{comment}</p>
                   ))}
                 </>
