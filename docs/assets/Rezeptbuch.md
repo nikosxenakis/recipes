@@ -25,13 +25,10 @@ Paula: Ich probiere das Rezept mal!
 3 EL Olivenöl
 2 reife, aber feste Pfirsiche, entsteint und in 5 mm dicke Spalten geschnitten
 5 g Minzeblätter, in Stücke gezupft
-
 ¾ EL Zitronensaft
 80 g Ziegenfrischkäse, grob in 4 cm große Stücke geschnitten
 20 g gerösteten Salzmandeln, grob gehackt
-
 ¾ EL flüssiger Honig
-
 Meersalzflocken und schwarzer Pfeffer
 
 ### Zubereitung
@@ -139,7 +136,6 @@ Auch das ist eine absolut leckere Kleinigkeit, der zumindest ich nie widerstehen
 2 EL Butter
 3 EL Mehl
 ¼ l heiße Milch
-
 Je 1 Msp. Salz und schwarzer Pfeffer
 1 Prise geriebene Muskatnuss
 3 Eiweiß
@@ -164,7 +160,6 @@ Die Käsesoufflés in 30 Minuten goldbraun backen. De Backofen während der erst
 40 g Parmesan, frisch gerieben
 30 g Mozzarella, in kleine Würfel geschnitten
 35 g getrocknete Tomaten, gehackt
-
 Öl zum Frittieren
 70 g Salatblätter zum Garnieren
 
@@ -222,7 +217,8 @@ Die saure Sahne, den Joghurt, den Zitronen- und den Apfeldicksaft verquirlen. Di
 Den Salat waschen, trockenschleudern und zerpflücken. Flache Schalen damit auslegen und mit etwas Sauce beträufeln.
 Die Nektarinen in schmale Spalten schneiden und mit den Jostabeeren oder den Johannisbeeren unter die Melone mischen. Die Früchte auf dem Eissalat anrichten. Die restliche Sauce darüber geben und mit Melisseblättchen bestreuen.
 
-Info: 	Jostabeeren sind eine Kreuzung aus schwarzen Johannisbeeren und Stachelbeeren.
+### Info
+Jostabeeren sind eine Kreuzung aus schwarzen Johannisbeeren und Stachelbeeren.
 
 ## Frühlingsrollen – San Si Chun Juan
 ### Zutaten (für 4 Portionen)
@@ -359,7 +355,6 @@ Alle marinierten Gemüse mindestens 30 Minuten vorm Servieren aus dem Kühlschra
 ## Vitello tonnato
 ### Zutaten für 6-8 Portionen
 600 g Kalbsnuss
-
 ¾ l trockener Weißwein
 1 Selleriestange
 1 Möhre
@@ -446,7 +441,6 @@ Salz, Pfeffer
 *Für den Salat:*
 6 Tomaten
 2 Frühlingszwiebeln
-
 2-3 EL Weißweinessig
 4 EL Olivenöl
 Salz, Pfeffer
@@ -502,7 +496,6 @@ Für den Joghurtdip den Knoblauch schälen und in feine Würfel schneiden. Die M
 ¼ grüne Chilischoten, entkernt und fein gehackt
 1,5 EL Korianderblätter, in feine Streifen geschnitten
 1 EL Olivenöl
-
 Meersalzflocken
 
 ### Zubereitung
@@ -510,7 +503,8 @@ Den Ingwer mit ½ TL Meersalzflocken im Mörser zu einer glatten Paste zerstoße
 Das Öl in einen kleinen Topf geben und bei schwacher Hitze erwärmen; es darf aber nicht zu heiß werden. Auf die Frühlingszwiebeln gießen und 1 EL Essig dazufügen. Alles verrühren, dann beiseitestellen.
 Die Tomaten leicht überlappend auf einer großen Servierplatte auslegen. Mit 1/4 TL Meersalzflocken würzen und mit dem restlichen Essig beträufeln. Die Salsa gleichmäßig darauf löffeln. Chili und Koriander auf das Carpaccio streuen und alles mit dem Olivenöl vollenden.
 
-Info:	Carpaccio kennt man ja eher als Vorspeise aus ganz dünnem rohem Rindfleisch. Mir aber schmeckt diese vegetarische Variante viel besser.
+### Info
+Carpaccio kennt man ja eher als Vorspeise aus ganz dünnem rohem Rindfleisch. Mir aber schmeckt diese vegetarische Variante viel besser.
 
 # Pizza, Flammkuchen, Foccacia, Quiche, Pasteten und Samosas
 
@@ -974,9 +968,7 @@ Die Samosas zum Backen von beiden Seiten mit Butter bepinseln, mit Samen bestreu
 200 g Erbsen (frisch oder TK)
 
 1,5 TL Garam Masala
-
 ¾ TL gemahlener Kreuzkümmel
-
 ¾ TL Cayennepfeffer
 ½ TL gemahlene Kurkuma
 1 ¼ TL Salz
@@ -1051,7 +1043,6 @@ In einer tiefen Pfanne (ich nehme den Wok) das Öl auf mittlere Temperatur erhit
 4 mittelgroße Kartoffeln, festkochend
 ½ Blumenkohl (etwa 250 g)
 1 Stück frischer Ingwer (4 cm)
-
 2-3 EL Ghee oder Butterschmalz
 ½ TL Kreuzkümmelsamen
 ½ TL schwarzer Kreuzkümmel (Kala Jeera)
@@ -1182,7 +1173,8 @@ Die Butter in einer großen beschichteten Pfanne erhitzen; Ingwer, Kreuzkümmel,
 Mit Hilfe einer Schüssel oder eines Tellers (Durchmesser 12 cm) 6 Kreise ausstechen. 1 gehäufte EL Füllung in die Mitte jedes Kreises setzen, die Teigränder mit Ei einstreichen und zu Halbkreisen umklappen. Den runden Rand mehrmals einfalten und so verschließen. Die restlichen Zutaten ebenso verarbeiten.
 Einen tiefen, gusseisernen Topf zu 1/3 mit Öl füllen, und das Öl auf 180 Grad erhitzen. Das Öl hat die richtige Temperatur, wenn ein Brotwürfel darin in 30 Sekunden goldbraun wird. Die Fleischbällchen portionsweise 2 Minuten rundum goldbraun frittieren. Das Öl darf nicht zu heiß sein, sonst verbrennen die Samosas. Jeweils 2-3 Samosas goldgelb frittieren. Wenn sie an die Oberfläche steigen, müssen sie eventuell mit einem Schaumlöffel heruntergedrückt werden, damit die andere Seite garen kann. Auf Küchenpapier abtropfen lassen. Mit Joghurt servieren.
 
-Info:	Erinnert ihr euch, wie ihr in Kampala auf der Kochinsel saßt und Dinah währenddessen die Samosas im Wok frittiert hat? (Sie hat übrigens nie Sultaninen und auch keine Frühlingszwiebeln reingemacht). Auf jeden Fall hat sie die Samosas immer für uns gemacht, wenn wir auf Safari gegangen sind.
+### Info
+Erinnert ihr euch, wie ihr in Kampala auf der Kochinsel saßt und Dinah währenddessen die Samosas im Wok frittiert hat? (Sie hat übrigens nie Sultaninen und auch keine Frühlingszwiebeln reingemacht). Auf jeden Fall hat sie die Samosas immer für uns gemacht, wenn wir auf Safari gegangen sind.
 
 ## Momos aus Darjeeling mit Chilisauce
 ### Zutaten (für 20 Stück):
@@ -1234,7 +1226,6 @@ Wenn man keinen Mixer hat, das Gemüse einfach sehr klein hacken.
 *Für die Füllung*
 500 g Hackfleisch
 3 EL Öl
-
 2-3 harte Eier
 1 Zwiebel
 1 Tasse Erbsen
@@ -1801,7 +1792,8 @@ Den Teig rechteckig auseinander zeihen, sodass er geklappt werden kann. Die Trau
 Die Focaccia auf den im Backofen vorgewärmten und leicht geölten Pizzastein legen. Mit dem Handteller den Teig auseinander drücken, bis ein unregelmäßiger Kreis entsteht. Die restlichen Trauben über den Teig verteilen und mit den Fingern in den Teig drücken. Die Oberfläche der Focaccia mit reichlich Zucker bestreuen, großzügig mit Olivenöl überziehen und 30 Minuten im Ofen backen.
 Den Teig von der Seite her leicht anheben, um zu kontrollieren, ob sie gar ist. Der Boden muss trocken und goldbraun gebacken sein. Gegebenenfalls noch 10 Minuten weiterbacken. Die Focaccia kalt servieren.
 
-Info:	Und das wäre eine Kombi mit Obst.
+### Info
+Und das wäre eine Kombi mit Obst.
 
 ## Focaccia mit Kirschtomaten
 ### Zutaten (für 8 Portionen)
@@ -1822,7 +1814,8 @@ Die Tomaten waschen und abtrocknen, halbieren, den Strunk vorsichtig mit einem s
 Den Teig 15 Minuten ruhen lassen.
 Die Focaccia auf den heißen und bemehlten Pizzastein legen und ca. 45 Minuten backen.
 
-Info:	Da wäre dann also Gemüse dabei 😊
+### Info
+Da wäre dann also Gemüse dabei 😊
 
 ## Ligurische Focaccia mit Frischkäse
 ### Zutaten (für 4 – 6 Portionen)
@@ -1915,7 +1908,8 @@ Die Wildkräuter verlesen, waschen, trocknen und mit etwas Haselnussöl oder ebe
 Die Ricotta mit der Sahne verrühren, die Haselnüsse grob hacken und unter die Ricotta-Sahne-Creme mischen.
 Die Focaccia in Stücke teilen, jede Portion mit 1 EL Ricottacreme besteichen und etwas Wildsalat darauf anrichten. Mit reichlich Pfeffer würzen und servieren.
 
-Info:	Geht natürlich auch nur mit Rucola. Ist meist einfacher zu kriegen 😊	
+### Info
+Geht natürlich auch nur mit Rucola. Ist meist einfacher zu kriegen 😊	
 
 ## Feuilleté mit Birnen und Ziegenkäse
 ### Zutaten (für 2-3 Personen)
@@ -1995,7 +1989,8 @@ Avocado und Butter mit der Hälfte der Limettenschale, der Hälfte des Limettens
 Für die Salsa die Tomaten mit den Kapern, der restlichen Limettenschale, dem restlichen Limettensaft, dem Öl und nicht zu wenig Pfeffer mischen. Bis zum Servieren beiseitestellen.
 Die Brotscheiben rösten. Jeweils auf eiern Seite mit der Schnittfläche der Knoblauchzehe einreiben, dann nur kurz abkühlen lassen. Die Scheiben mit der Avocadobutter bestreichen und die Tomatensalsa daraufgeben. Mit dem Kreuzkümmel und den restlichen Kräutern bestreuen. Mit Pfeffer übermahlen, mit Öl beträufeln und servieren.
 
-Info:	Die Ökobilanz der Avocado ist natürlich verheerend. Schmeckt aber trotzdem sehr gut.
+### Info
+Die Ökobilanz der Avocado ist natürlich verheerend. Schmeckt aber trotzdem sehr gut.
 
 ## Iranische Kräuterpuffer
 ### Zutaten (für 8 Stück)
@@ -2025,7 +2020,6 @@ Für diese Pfuffer kann man gut den Kühlschrank plündern und alle Kräuter ver
 200 g Sahne
 6 Eier, verquirlt
 2 große Knoblauchzehen, zerdrückt
-
 ¾ TL gemahlener Kreuzkümmel
 2 Zucchini, geraspelt (430 g)
 25 g Basilikumblätter in Stücke gezupft
@@ -2111,7 +2105,8 @@ Die Butter in einer Pfanne zerlassen, Kreuzkümmel und Zwiebeln hineingeben und 
 Die Tomaten 30 Sekunden in der Pfanne schwenken, dann die Temperatur auf schwache Hitze reduzieren und die Eier hinzugeben. Unter ständigem Rühren braten. Wenn die Eier zu stocken beginnen, aber noch leicht weich sind, die Pfanne vom Herd nehmen und den gehackten Koriander unterrühren.
 Mit gebuttertem Toast und Chai servieren.
 
-Info:	Dies ist Rührei nach Parsen-Art. Die Parsen erreichten Indien im Jahr 936 auf der Flucht vor Verfolgung. Ihr Mantra ist „Gute Gedanken, gute Worte und gute Taten“. Man könnte auch noch gute Eier hinzufügen, denn mit Eiern kennen sie sich ziemlich gut aus 😊
+### Info
+Dies ist Rührei nach Parsen-Art. Die Parsen erreichten Indien im Jahr 936 auf der Flucht vor Verfolgung. Ihr Mantra ist „Gute Gedanken, gute Worte und gute Taten“. Man könnte auch noch gute Eier hinzufügen, denn mit Eiern kennen sie sich ziemlich gut aus 😊
 
 ## Egg-Hoppers mit Zwiebel-Sambol
 ### Zutaten (für 8 Stück)
@@ -2349,7 +2344,6 @@ Die Eier in den Förmchen aus dem Ofen nehmen und vor dem Servieren mit einem Sp
 
 4 große Eier
 100 g saure Sahne zum Servieren
-
 Meersalzflocken und Pfeffer
 
 ### Zubereitung
@@ -2782,7 +2776,8 @@ Einige gefüllte Weinblätter
 ### Zubereitung
 Gurken, Fetakäse und Tomaten in mundgerechte Stücke schneiden, mit etwas Pfeffer übermahlen und mit Zwiebelringen, Oliven und Oregano auf vier Teller verteilen. Jeweils ein paar gefüllte Weinblätter dazulegen und mit Zitronensaft und Olivenöl beträufeln.
 
-Info:	Dieser Salat kommt dem echten griechischen Salat am nächsten 😊
+### Info
+Dieser Salat kommt dem echten griechischen Salat am nächsten 😊
 
 ## Griechischer Bauernsalat
 ### Zutaten (für 4 bis 6 Portionen):
@@ -2796,7 +2791,6 @@ Info:	Dieser Salat kommt dem echten griechischen Salat am nächsten 😊
 100g schwarze Oliven
 3 EL Weinessig
 Salz
-
 Schwarzer Pfeffer aus der Mühle
 5 EL Olivenöl
 
@@ -2820,7 +2814,6 @@ Den Feta in Würfel schneiden, unter den Salat heben. Nochmals aus der Mühle fr
 4 EL Olivenöl
 3 EL Weinessig
 Salz
-
 Schwarzer Pfeffer
 200 g Fetakäse
 ½ TL getrockneter Oregano
@@ -2842,7 +2835,6 @@ Wie mir zu Ohren kam (na, Paula ?!), ist es in Griechenland üblich, dass sich a
 
 4 Frühlingszwiebeln, in feine Steifen geschnitten
 5 g Korianderblätter, grob gehackt
-
 Meersalzflocken
 
 *Für das Dressing:*
@@ -3245,7 +3237,6 @@ Salz, Pfeffer
 1 TL Ahornsirup
 2 TL Sumach
 45 ml Limettensaft
-
 ¾ TL Chiliflocken
 1 kleine Knoblauchzehe
 2 EL Olivenöl
@@ -3257,7 +3248,8 @@ die Zutaten für die Chamoy-Sauce mit ¼ TL Salz fein zerkleinern.
 Sobald die Karotten gar sind, zusammen mit der Sauce in eine große Schüssel geben. Gut durchmischen, dann 20 Minuten ziehen lassen, damit sich die Aromen verbinden können.
 Die Kräuter und die Aprikosenscheiben unter den Salat mischen. Den Salat auf einer Platte anrichten, mit den Mandeln bestreuen, mit restlichem Öl und Limettensaft beträufeln und servieren.
 
-Info:	Der Salat eignet sich gut für ein vegetarisches Buffet, aber auch als Beilage zu Fleisch 😊
+### Info
+Der Salat eignet sich gut für ein vegetarisches Buffet, aber auch als Beilage zu Fleisch 😊
 
 ## Gurkensalat mal anders
 ### Zutaten
@@ -3381,7 +3373,6 @@ alle Zutaten mit ½ TL Salz mischen. Fertig. 😊
 2/3 Canteloupe-Melone (also die leckere Honigmelone mit den Streifen) (600 g), entkernt und mit/ohne Schale in 8 Spalten geschnitten
 2 – 4 Kugeln Mozzarella, grob in 10 Stücke geteilt
 1 EL Kascha (gerösteter Buchweizen), wenn man will
-
 Meersalzflocken
 
 ### Zubereitung
@@ -3519,7 +3510,8 @@ Für die Sauce die Knoblauchzehe schälen und zusammen mit der Chilischote fein 
 Den Koriander samt Stiel grob hacken und unter den Salat mischen, einige Minuten ziehen lassen.
 Den Sesam in einer Pfanne ohne Fett goldgelb rösten und über den Salat streuen.
 
-   Info:	Simon und ich haben diesen Salat mal probiert. Er hat abscheulich geschmeckt, sodass wir tatsächlich das ganze Gericht weggeschmissen haben. Aber vielleicht habe ich ja einfach nur etwas falsch gemacht.
+### Info
+Simon und ich haben diesen Salat mal probiert. Er hat abscheulich geschmeckt, sodass wir tatsächlich das ganze Gericht weggeschmissen haben. Aber vielleicht habe ich ja einfach nur etwas falsch gemacht.
 
 ## Kürbissalat
 ### Zutaten
@@ -3646,7 +3638,6 @@ Wie löst man nun die Körner am besten vom Kolben? Zuerst die äußeren Blätte
 ½ kleine rote Zwiebel
 50 g Parmesan
 1 Prise Salz
-
 Schwarzer Pfeffer
 Olivenöl
 
@@ -3671,7 +3662,6 @@ Saft von ½ Zitrone
 
 1,5 TL flüssiger Honig
 Salz
-
 Schwarzer Pfeffer
 5 EL Wasser
 
@@ -3694,7 +3684,6 @@ Saft von 1 Zitrone
 2 TL Weißweinessig
 
 Etwas Salz
-
 Schwarzer Pfeffer
 
 ### Zubereitung
@@ -3766,7 +3755,8 @@ Die Orangen schälen, das Weiß entfernen und die Orangen in Scheiben schneiden,
 Die Zwiebel in feine Streifen schneiden, in einem Schälchen mit Essig ungefähr 10 Minuten lang marinieren. Man kann statt einer roten Zwiebel auch eine Schalotte nehmen.
 Das Olivenöl zur Zwiebel geben, salzen und pfeffern und alles verrühren. Das Ende vom Chicorée entfernen, Chicorée in ungefähr 2 cm dicke Streifen schneiden. Wie Salat waschen und trocknen und zu den Früchten geben. Die Zwiebel-Essig-Mischung darübergießen und alles vermengen.
 
-Info:	Zwei Nachteile des Gerichts will ich nicht verheimlichen: Der Salat ist so bleich wie meine Winterhaut, nur mit etwas Orange, und blassen Menschen steht Orange bekanntlich überhaupt nicht. Das andere Problem: Es gibt kaum eine nervigere Küchenaufgabe als das Schälen von Zitrusfrüchten. Die Kunst besteht darin, so viel Weiß wie möglich abzuschneiden, ohne die Orange zu zerstören, und manchmal hält man hinterher kein Stück Obst mehr in der Hand, sondern ein formloses tropfendes Etwas😊
+### Info
+Zwei Nachteile des Gerichts will ich nicht verheimlichen: Der Salat ist so bleich wie meine Winterhaut, nur mit etwas Orange, und blassen Menschen steht Orange bekanntlich überhaupt nicht. Das andere Problem: Es gibt kaum eine nervigere Küchenaufgabe als das Schälen von Zitrusfrüchten. Die Kunst besteht darin, so viel Weiß wie möglich abzuschneiden, ohne die Orange zu zerstören, und manchmal hält man hinterher kein Stück Obst mehr in der Hand, sondern ein formloses tropfendes Etwas😊
 
 ## Frühlingszwiebel-Kräuter-Salat
 ### Zutaten (für 6 Portionen als Beilage)
@@ -3802,7 +3792,6 @@ Der Salat passt gut zu vielerlei Fleisch.
 5 g Minzeblätter
 10 g Korianderblätter
 ½ TL braune Senfsamen, geröstet
-
 Meersalzflocken
 
 ### Zubereitung
@@ -4094,7 +4083,6 @@ Kerne von 1 Granatapfel
 75 g Sonnenblumenkerne, geröstet
 250 g Naturjoghurt
 ½ TL Meersalz
-
 Schwarzer Pfeffer aus der Mühle
 
 ### Zubereitungszeit
@@ -4133,7 +4121,8 @@ Den Topinambur gut abreiben, in 1 cm dicke Scheiben schneiden, auf ein Backblech
 Inzwischen den Reis zubereiten. 750 ml Wasser zum Kochen bringen, den wilden Reis und 1 TL Salz hinzugeben. Die Hitze reduzieren und zugedeckt 40 Minuten köcheln lassen, bis sich die Körner leicht öffnen. Das überschüssige Wasser abgießen.
 die Zutaten für das Dressing in einer Schüssel verrühren und beiseitestellen. Den Topinambur und den Reis mit den Trauben, dem Kohl und dem Dressing in einer großen Schüssel mit den Händen leicht vermengen. Mit Salatblättern garnieren und warm oder kalt servieren.
 
-   Info:	Topinambur wächst auch in unserem Garten. Das sind die Art Sonnenblumen gleich am Eingang.
+### Info
+Topinambur wächst auch in unserem Garten. Das sind die Art Sonnenblumen gleich am Eingang.
 
 ## Pomelosalat mit Kokos und Zitronengras
 ### Zutaten
@@ -4209,7 +4198,8 @@ Etwas Salz, Pfeffer
 Zur Vorbereitung zunächst die Blätter von den Stängeln der Kräuter zupfen, waschen, mit einem Küchentuch trocken tupfen und grob hacken. Den Parmesan fein reiben. Die Sonnenblumenkerne in einer Pfanne ohne Fett ein paar Minuten lang anrösten, sie dabei nicht dunkel werden lassen. alle Zutaten in eine hohe Schüssel geben und mit dem Pürierstab zu einer Masse zerkleinern.
 Das Pesto kann man zu Spaghetti essen, zu gegrilltem Fleisch oder Fisch (also ich aber nicht). Am besten lässt sich das Dressing aber für eine Kartoffelsalat verwenden. Dazu die Kartoffeln mit Schale kochen, dann schälen und in Scheiben schneiden. In einer Salatschüssel das Pesto umrühren und alles eine Weile ziehen lassen. Dazu wachsweiche Eier servieren.
 
-Info:	In eine Frankfurter Soße darf niemals Dill. Ist eine Frage der Ehre!
+### Info
+In eine Frankfurter Soße darf niemals Dill. Ist eine Frage der Ehre!
 
 ## Salat mit Kartoffeln, grünen Bohnen und Ei
 ### Zutaten für 4 – 6 Portionen
@@ -4336,9 +4326,7 @@ Fein geschnittener Stangensellerie gibt dem Salat eine besonders knackige und w�
 *Dressing:*
 
 2,5 cm frischer Meerrettich, gerieben
-
 2-3 EL Apfelessig
-
 2-3 EL Olivenöl
 Salz, Pfeffer
 
@@ -4653,7 +4641,8 @@ Salz, Pfeffer
 Den Kopfsalat in einzelne Blätter zerlegen, waschen, trockenschwenken. Auf vier Portionsteller verteilen. Die Tomaten waschen und in dünne Scheiben schneiden. Auf den Salatblättern anrichten. Den Thunfisch abtropfen lassen. Das Öl dabei für die Salatsauce auffangen. Die Thunfischstücke klein zupfen und mit den Oliven auf dem Salat verteilen.
 Das Thunfischöl, das Olivenöl und den Essig miteinander zu einer Sauce rühren. Salzen, pfeffern. Über den Salat gießen. Die getrockneten Kräuter zwischen den Fingern zerreiben und darüber streuen.
 
-Info:	In Südfrankreich wird der Salat gern als Zwischenmahlzeit oder zum Picknick zwischen zwei Baguette-Hälften gegessen.
+### Info
+In Südfrankreich wird der Salat gern als Zwischenmahlzeit oder zum Picknick zwischen zwei Baguette-Hälften gegessen.
 
 ## Libanesischer Bulgursalat mit Sesam-Joghurt-Dressing
 ### Zutaten (für 6 Portionen)
@@ -4672,7 +4661,6 @@ Salz
 100 g weißes Tahin
 150 g Sahnejoghurt
 3 EL Mineralwasser mit Kohlensäure
-
 Schwarzer Pfeffer
 1 Granatapfel
 
@@ -4793,7 +4781,6 @@ Zwiebeln in feine Scheiben schneiden, in einer Schüssel mit Essig und Salz 10 M
 3 EL Zitronensaft
 60 ml Olivenöl, plus etwas zum Beträufeln
 2 EL Apfel- oder Weißweinessig
-
 ¾ TL grob gemahlener schwarzer Pfeffer
 
 1,5 TL Salz
@@ -4959,7 +4946,8 @@ Den Römersalat in kleine Stücke reißen, Tomaten und Gurken fein würfeln, Fr�
 1 EL Sumach, frisch gepressten Zitronensaft und Essig mischen. Olivenöl dazugeben sowie je nach Geschmack (und Säuregrad der Tomaten) einen halben Teelöffel Salz und 2-3 Prisen Pfeffer. Traditionell wird zudem am Ende, je nach Geschmack, etwas Granatapfelsirup über en Salat gegeben.
 Das knusprige Fladenbrot wird anschließend entweder direkt in den Salat gemischt oder auf die Teller gelegt, auf denen der Salat serviert wird oder man streut es über den Salat.
 
-   Info:	Fattoush ist ein aus der arabischen Küche stammender Brotsalat und gehört dort zu den traditionellen Vorspeisen. Dieses Rezept stammt aus dem Cèdre Blanc, einem libanesischen Feinkostladen in Charlottenburg.
+### Info
+Fattoush ist ein aus der arabischen Küche stammender Brotsalat und gehört dort zu den traditionellen Vorspeisen. Dieses Rezept stammt aus dem Cèdre Blanc, einem libanesischen Feinkostladen in Charlottenburg.
 
 ## Salat aus Tomaten, Gurken und Brot
 ### Zutaten (für 2 Personen)
@@ -4972,7 +4960,6 @@ Das knusprige Fladenbrot wird anschließend entweder direkt in den Salat gemisch
 
 4 Scheiben Ciabatta (am besten vom Vortag)
 2 EL Rotweinessig
-
 Schwarzer Pfeffer
 3 EL Olivenöl und etwas mehr
 2 Zweige Basilikum
@@ -5022,7 +5009,8 @@ Salz
 Die roten Beten ungeschält in gesalzenem Wasser ungefähr 45 Minuten lang garkochen, bis sie weich sind. Etwas abkühlen lassen, danach schälen und in feine Würfel schneiden.
 Die Essiggurken fein hacken, den Apfel schälen und in kleine Stücke schneiden. Dann fügt man saure Sahne, Mayonnaise, Essig und Salz sowie Meerrettich dazu. Anschließend gut vermengen.
 
-Info:	Der Salat heißt auf Schwedisch „Rödbetssallad“. Ist wie gemacht für den deutschen Abendbrottisch. Er besteht zwar zum Großteil aus Gemüse, was ja in der deutschen Küche nicht so gern gesehen wird – wenn schon Salat, dann aus Kartoffeln oder aus Wurst. Aber Rote Bete schmeckt schön muffig und gemütlich, nur ein bisschen Apfel und saure Sahne frischen das Ganze auf. Knallpink wird der Salat zwischen Käse- und Wurstbrot leuchten und alle erfreuen 😊
+### Info
+Der Salat heißt auf Schwedisch „Rödbetssallad“. Ist wie gemacht für den deutschen Abendbrottisch. Er besteht zwar zum Großteil aus Gemüse, was ja in der deutschen Küche nicht so gern gesehen wird – wenn schon Salat, dann aus Kartoffeln oder aus Wurst. Aber Rote Bete schmeckt schön muffig und gemütlich, nur ein bisschen Apfel und saure Sahne frischen das Ganze auf. Knallpink wird der Salat zwischen Käse- und Wurstbrot leuchten und alle erfreuen 😊
 
 ## Rote-Bete-Salat
 ### Zutaten (für 4 Portionen)
@@ -5194,7 +5182,8 @@ Den Backofen auf 230 Grad Umluft vorheizen. Die Blumenkohlröschen mit den Zwieb
 In einem Topf reichlich Wasser zum Kochen bringen und die Eier bei mittlerer bis starker Hitze in 10 Minuten hart kochen. Die Eier in ein Sieb geben, dann den Topf mit kaltem Wasser füllen und die Eier wieder hineinlegen. Sobald sie abgekühlt sind, die Eier pellen, in eine große Schüssel geben und mit einer Gabel grob zerdrücken.
 Den Joghurt in einer kleinen Schüssel mit Mayonnaise, einem TL Currypulver, der Hälfte der Chiliflocken, Kreuzkümmel, Zitronensaft und ¼ TL Salz verrühren. Das Dressing mit Blumenkohl, Zwiebelspalten und Estragon zu den Eiern geben. Alles gut mischen, dann auf einem großen Teller anrichten, mit den restlichen Chiliflocken bestreuen und mit Zitronenspalten servieren.
 
-   Info:	In den 50er Jahren war Coronation Chicken, ein Geflügelsalat mit Curry-Mayonnaise, der Hit in England. Dies ist nun eine Art entschlackte vegetarische Variante.
+### Info
+In den 50er Jahren war Coronation Chicken, ein Geflügelsalat mit Curry-Mayonnaise, der Hit in England. Dies ist nun eine Art entschlackte vegetarische Variante.
 
 ## Knackiger Eiersalat mit Curry
 ### Zutaten (für 4 Portionen):
@@ -5444,7 +5433,6 @@ Salz
 350 g sehr kleine Zucchini
 150 g nicht zu reifer Gorgonzola
 2 EL Milch
-
 2-3 EL weißer Portwein (nach Belieben)
 
 Zitronenpfeffer oder schwarzer Pfeffer aus der Mühle
@@ -5476,7 +5464,6 @@ Bei der Zubereitung dieses Salates sehr sparsam mit Salz umgehen. Und auch die T
 Salz, Pfeffer
 
 6-7 EL Olivenöl
-
 2-3 EL Kapern
 50 g schwarze Oliven
 2 mittelgroße Radicchioköpfe
@@ -5545,9 +5532,7 @@ Hier stellt sich mal wieder das Pfifferling-Atom-Problem. Aber vielleicht lebt i
 2 Hähnchenbrustfilets
 2 Pimentkörner
 1 Lorbeerblatt
-
 2-3 Stangen Staudensellerie
-
 2-3 Frühlingszwiebeln
 100 g gekochter schwarzer Piemontreis (kann man auch gut durch Basmatireis ersetzen)
 100 g gekochter Basmatireis
@@ -5556,7 +5541,6 @@ Für das Dressing:
 Olivenöl
 
 Etwas Zitronensaft
-
 2-3 EL Naturjoghurt
 Salz, Pfeffer
 
@@ -5650,7 +5634,8 @@ Zunächst die Beeren verlesen, die schlechteren aussortieren. Brombeeren und Hei
 Die Beeren in einem Topf mit einem Kartoffelstampfer andrücken. Zitronensaft und Gelierzucker unter die Beeren mischen und 30 Minuten lang ziehen lassen. Dann unter rühren langsam zum Kochen bringen und 5 Minuten lang kochen lassen. Basilikumblätter in die heiße Masse geben, alles fein pürieren. Kurz aufkochen.
 Schließlich in sterilisierte Gläser füllen – sie sollten randvoll sein – und gut verschließen.
 
-Info:	Gläser sterilisiert man, indem man Deckel und Gläser nach oben offen auf ein Backblech platziert und das Blech 10 Minuten lang bei 160 Grad im Ofen lässt. Vor der Verwendung etwas abkühlen lassen.
+### Info
+Gläser sterilisiert man, indem man Deckel und Gläser nach oben offen auf ein Backblech platziert und das Blech 10 Minuten lang bei 160 Grad im Ofen lässt. Vor der Verwendung etwas abkühlen lassen.
 
 ### Kommentar
 Ich würde sagen, diese Beerenmarmelade schmeckt äußerst fruchtig, sodass einen unerwartet die Sehnsucht überkommen kann, sich in einem summenden Wald an einer Brombeerhecke die Hände und Beine zu zerkratzen.
@@ -5739,7 +5724,8 @@ Man kann auch einen Teil des Wassers durch die abgeriebene Schale und den Saft v
 Rhabarber putzen und in 2 cm breite Stücke schneiden. Erdbeeren putzen und vierteln. Alles zusammen mit Zucker und Guakernmehl in einem Topf mischen. 30 min. Saft ziehen lassen.
 Die Fruchtmischung unter Rühren aufkochen und 10 Minuten bei mittlerer Hitze unter Rühren köcheln lassen. Noch heiß in saubere Schraubgläser füllen und verschließen. Gläser 10 Min. lang auf den Deckel stellen, dann wenden und vollständig abkühlen lassen.
 
-Info:	Der Aufstrich in 3-4 Tage haltbar.
+### Info
+Der Aufstrich in 3-4 Tage haltbar.
 
 ## Pfirsich Melba
 ### Zutaten (für 600 ml):
@@ -6031,7 +6017,8 @@ Meersalz, Pfeffer aus der Mühle
 ### Zubereitung
 alle Zutaten mit 2 EL Wasser in einer Küchenmaschine oder mit einem Pürierstab fein pürieren. Es soll eine dicke Paste entstehen, etwas Wasser hinzufügen, wenn nötig. In ein luftdicht verschließbares Glas füllen.
 
-Info:	Der Aufstrich hält sich im Kühlschrank.
+### Info
+Der Aufstrich hält sich im Kühlschrank.
 
 ## Rucola-Parmesan-Aufstrich
 ### Zutaten (für 8 Portionen):
@@ -6105,7 +6092,8 @@ Inzwischen die Sonnenblumenkerne mit Cayennepfeffer und Salz in einer Pfanne kur
 Restliches Mehl und 300 ml lauwarmes Wasser mit dem Vorteig verkneten und eine Kugel formen. In diese mit einem scharfen Messer ein Kreuz schneiden. An einem warmen Ort 1 Stunde zur doppelten Größe gehen lassen. Sobald der Teig sein Volumen verdoppelt hat, erneut kneten und die gewünschte Form formen.
 Backofen auf 200 Grad vorheizen. Brot ca. 20 Minuten bei 200 grad backen. Dann die Temperatur herunterschalten und weitere 15-20 Minuten backen.  Das Brot sollte am ende eine schöne goldene Farbe angenommen haben. Auf einem Gitter abkühlen lassen.
 
-Info:	Das toskanische Brot ist als einziges in Italien ohne Salz gebacken.
+### Info
+Das toskanische Brot ist als einziges in Italien ohne Salz gebacken.
 
 ## Fladenbrot Nr. 1
 ### Zutaten (für 4 Fladenbrote)
@@ -6120,7 +6108,8 @@ Den Backofen auf 200 Grad (Umluft) vorheizen. Die Teigkugeln nacheinander von Ha
 Immer zwei Fladenbrote auf einmal backen. Der Teig ist sehr dünn, solle aber so elastisch sein, dass er nicht reißt.
 Die Brote 7-8 Minuten backen, bis sie goldbraun und knusprig sind.
 
-Info:	Dazu passt gut Knoblauchbutter und Tomatengeraspel (wie bei Bruschetta).
+### Info
+Dazu passt gut Knoblauchbutter und Tomatengeraspel (wie bei Bruschetta).
 
 ## Fladenbrot Nr.2
 ### Zutaten (für 4 Fladenbrote):
@@ -6148,7 +6137,8 @@ Für den Teig Hefe und 200 ml lauwarmes Wasser verrühren. Mehl und Salz in eine
 Den Teig kurz durchkneten, dann in acht bis zehn gleich große Stücke teilen. Ein Teigstück auf der bemehlten Arbeitsfläche mit einem Nudelholz zu einem dünnen runden Fladen ausrollen.
 Eine große Pfanne erhitzen, Olivenöl hineingeben, den Fladen hineinlegen, etwas Öl darauf geben. Den Fladen wenden, wenn sich die untere Seite leicht braun gefärbt hat. Deckel auf die Pfanne legen, den Fladen noch ein paar Minuten durchziehen lassen.
 
-Info:	Man kann statt Fladen auch eher bulettenförmige Brötchen daraus backen, sodass man mehr Innen und weniger Kruste hat, was sicher total unprofessionell ist, aber köstlich schmeckt 😊
+### Info
+Man kann statt Fladen auch eher bulettenförmige Brötchen daraus backen, sodass man mehr Innen und weniger Kruste hat, was sicher total unprofessionell ist, aber köstlich schmeckt 😊
 
 ## Ladiner Fladenbrot
 ### Zutaten (für 4 Fladen)
@@ -6286,7 +6276,6 @@ Die Kringel auf das Blech legen und noch etwa 10 Minuten zugedeckt gehen lassen.
 2 TL Kümmelsamen, geröstet und grob zerstoßen
 1 Knoblauchknolle, oben so abgeschnitten, dass die Zehen frei liegen
 1 große Schalotte, auch so abgeschnitten, dass das Fruchtfleisch frei liegt
-
 2-3 Orangen, Schale abgerieben, dann 160 ml Saft ausgepresst
 50 g Ahornsirup
 125 g Mascarpone
@@ -6297,7 +6286,6 @@ Salz, Meersalzflocken, Pfeffer
 130 g Mehl plus etwas zum Ausrollen
 20 g Polenta
 1 ½ TL Zucker
-
 ¾ TL Meersalzflocken
 1 EL Salbeiblätter, fein gehackt
 
@@ -6341,7 +6329,8 @@ Die Hefe zerbröseln und in 1/8 l Wasser mit dem Zucker auflösen. 10 Minuten st
 Inzwischen die Zwiebeln schälen und würfeln. Den Speck fein würfeln.  Öl erhitzen, Speck und Zwiebeln darin bei mittlerer Hitze 5 Minuten anbraten. Den Backofen auf 180 Grad vorheizen. Den Schnittlauch waschen in Röllchen schneiden. Mit der Sahne unter die Speck-Zwiebel-Mischung rühren. Mit den Gewürzen abschmecken.
 Den Teig auf einem mit Backpapier belegten Backblech ausrollen und den Belag darauf verteilen. Im Backofen (Mitte, Umluft 160 Grad) 25 – 30 Minuten backen.
 
-   Info:	Ohne Belag ist das Gebäck auch unter „Zelten“ bekannt und wird als Fladenbrot zum Vesper gegessen.
+### Info
+Ohne Belag ist das Gebäck auch unter „Zelten“ bekannt und wird als Fladenbrot zum Vesper gegessen.
 
 ## Brotzopf
 ### Zutaten
@@ -6400,9 +6389,9 @@ Für den Brotteig Mehl, etwa 350 ml lauwarmes Wasser, Honig und Salz zum Vorteig
 Teig durchkneten und 10 Minuten ruhen lassen. Backofen auf 250 °C vorheizen. Aus dem Teig zwei Brote formen. Auf ein mit Mehl bestäubtes Backblech abgedeckt etwa 30 Minuten gehen lassen.
 Im vorgeheizten Backofen bei 250°C etwa 10 Minuten backen. Hitze auf 175°C reduzieren und etwa 15 Minuten backen lassen.
 
-   Info:	Auch wenn es gerade in Coronazeiten keine Hefe gibt, wird das ja nicht ewig andauern. Man kann auch einfach das Brot so backen, wie es z.B. auf der Mehlpackung steht. Oder auch eine Backmischung nehmen. Oder sehr lecker: mit Sauerteig. Auf jeden Fall lohnt es sich, gute Zutaten zu nehmen.
-
-   In Uganda habe ich alle paar Tage Brot gebacken. Allerdings leicht anderes Rezept, denn es gab ja auch nicht alles 😊
+### Info
+Auch wenn es gerade in Coronazeiten keine Hefe gibt, wird das ja nicht ewig andauern. Man kann auch einfach das Brot so backen, wie es z.B. auf der Mehlpackung steht. Oder auch eine Backmischung nehmen. Oder sehr lecker: mit Sauerteig. Auf jeden Fall lohnt es sich, gute Zutaten zu nehmen.
+In Uganda habe ich alle paar Tage Brot gebacken. Allerdings leicht anderes Rezept, denn es gab ja auch nicht alles 😊
 
 ## Rosinenbrötchen
 ### Zutaten (für 8 Stück)
@@ -6465,7 +6454,8 @@ Teig auf einer bemehlten Arbeitsfläche zu 12 gleich großen Kugeln formen. Brö
 Für das Kreuz Mehl und Zucker mit Wasser in einer Schüssel zu einer glatten Masse verrühren. Eventuell mehr Wasser hinzufügen. In einen Spritzbeutel füllen oder in ein Plastiktütchen, dessen eine Ecke man abschneidet. Mehlpaste in Kreuzform auf die Brötchen spritzen.
 Brötchen ca. 20 – 25 Minuten bei 180 Grad Ober-/Unterhitze backen. Aprikosenmarmelade, mit Wasser erwärmen, auf die noch heißen Brötchen streichen.
 
-Info:	Die Brötchen heißen in Großbritannien Hot Cross Buns und werden, wie in anderen Ländern des Commonwealth, traditionell an Karfreitag gegessen. Deshalb auch das Kreuz.
+### Info
+Die Brötchen heißen in Großbritannien Hot Cross Buns und werden, wie in anderen Ländern des Commonwealth, traditionell an Karfreitag gegessen. Deshalb auch das Kreuz.
 
 ## Schwäbische Seelen
 ### Zutaten (für 10 – 12 Seelen)
@@ -6487,7 +6477,8 @@ Die Hefe in 200 ml warmem Wasser mit dem Zucker auflösen und 10 Minuten stehen 
 Backpapier aufs Backblech legen. Backofen auf 180 Grad vorheizen.
 Aus dem Teig 20 cm lange Stangen formen. Mit etwas Wasser bepinseln und mit grobem Salz und Kümmel bestreuen. Im Ofen (Mitte, Umluft 160 Grad) 25 – 35 Minuten backen. Frisch schmecken sie natürlich am besten.
 
-Info:	Der Name geht den Allerseelentag zurück (2.November, (lateinisch [Dies] in commemoratione omnium fidelium defunctorum, „Tag des Gedenkens an alle verstorbenen Gläubigen“). An diesem Tag wurden „die armen Seelen“ bewirtet und man legte Allerseelenbrot und Wein auf die Gräber. Aus Allerseelenbrot wurde im Lauf der Zeit Seele und die Bäcker in Schwaben backen es heute täglich. Und ich könnte es jeden Tag essen😊
+### Info
+Der Name geht den Allerseelentag zurück (2.November, (lateinisch [Dies] in commemoratione omnium fidelium defunctorum, „Tag des Gedenkens an alle verstorbenen Gläubigen“). An diesem Tag wurden „die armen Seelen“ bewirtet und man legte Allerseelenbrot und Wein auf die Gräber. Aus Allerseelenbrot wurde im Lauf der Zeit Seele und die Bäcker in Schwaben backen es heute täglich. Und ich könnte es jeden Tag essen😊
 
 ## Quarkbrot
 ### Zutaten (für ca. 14 Scheiben)
@@ -6506,7 +6497,8 @@ Koriander in einem Mörser fein zerstoßen, dass mit Leinsamenmehl, Flohsamensch
 In einer zweiten Schüssel Quark, Eier und Essig mit dem Handmixer 2 Min. sehr gut verrühren. Die Leinsamenmischung nach und nach unter Rühren zugeben und unterrühren, bis die Masse fester wird. Dann mit einem Tuch abgedeckt 5 Minuten quellen lassen.
 Eine Kastenform (ca. 20 cm Länge) mit Backpapier auslegen. Teig einfüllen und mit einem angefeuchteten Spatel glattstreichen. Dann längs mit einem kleinen Messer ca. 1 cm tief einritzen. Brot im heißen Ofen auf der untersten Schiene 1 ¼ Stunden backen. Dabei evtl. nach 50 Min. mit Backpapier abdecken. Brot in der Form auf dem Gitter 10 Min. ruhen lassen. Dann aus der Form lösen und auf einem Gitter vollständig abkühlen lassen.
 
-Info:	Das Quarkbrot hält sich in einem Beutel verpackt mehrere Tage.
+### Info
+Das Quarkbrot hält sich in einem Beutel verpackt mehrere Tage.
 
 ## Grissini
 ### Zutaten für 18 Stück:
@@ -6531,7 +6523,6 @@ Teig mit kaltem Wasser bepinseln und mit grobem Salz, Rosmarin, Sesam etc. bestr
 ## Bananen-Kardamom-Brötchen
 ### Zutaten (für 8 Stück)
 250 g Mehl
-
 ¾ TL Trockenhefe
 Salz
 35 g Zucker
@@ -6660,7 +6651,6 @@ Pfeffer
 250 ml lauwarmes Wasser
 
 *Für die Füllung:*
-
 2-3 Zwiebeln
 1 EL Butter
 1 Ei
@@ -6696,7 +6686,6 @@ Den Teig auf der oberen Seite auf beiden Rollen zickzackförmig etwa 1 cm tief e
 Saft von ½ Zitrone
 60 g geriebener Pecorino (oder Parmesan)
 3 Zweige Thymian, Blätter gezupft
-
 Schwarzer Pfeffer aus der Mühle
 
 ### Zubereitung
@@ -6745,7 +6734,8 @@ Teig in etwa 15 gleich große Stücke teilen, diese zu Kugeln formen. Auf einem 
 Eine schwere Pfanne etwa 5 Minuten bei mittlerer Hitze heiß werden lassen. Den ersten Fladen hineingeben und etwa 1 Minute backen. Mit dem Pfannenheber wenden und von der anderen Seite ebenfalls etwa 1 Minute backen, bis der Fladen hellbraun ist.
 Den fertigen Fladen herausnehmen und in einen Topf mit Deckel legen, Topf sofort zudecken. Alle Chapatis auf diese Weise zubereiten und im Topf aufbewahren, damit sie nicht so schnell auskühlen und nicht austrocknen.
 
-Info:	Es schmeckt einfach unheimlich gut, war schon in Uganda so. Grace hat die auch immer gebacken.
+### Info
+Es schmeckt einfach unheimlich gut, war schon in Uganda so. Grace hat die auch immer gebacken.
 
 ## Chapatis Nr. 2
 ### Zutaten für ca. 3 Personen
@@ -6884,7 +6874,8 @@ Ein Schneidebrett und eine Teigrolle leicht einölen. Die restliche Butter bei m
 Eine der Spiralen zwischen den Handflächen flach drücken und auf 18 cm Durchmesser ausrollen. Auf ein Blatt Backpapier legen, dann die übrigen Spiralen ausrollen und jeweils ein Blatt Backpapier dazwischen legen.
 Eine Pfanne erhitzen, dann die Teigstücke von beiden Seiten mit zerlassener Butter bepinseln. Unter einmaligem Wenden bei mittlerer Hitze 2 ½ Minuten backen. Ein letztes Mal mit Butter bepinseln, dann auf einen Teller gleiten lassen und die übrigen Teigstücke backen.
 
-Info:	Das Malabar paratha ist das südindische Brot schlechthin. Zu einer kunstvollen Spirale gerollt und mit golden gerösteten Flecken, ist es gleichzeitig knusprig, weich und luftig. Es ist das perfekte Brot, um es klein zu zupfen und ein eine cremige Sauce zu tunken. Braucht aber ziemlich viel Zeit in der Zubereitung.
+### Info
+Das Malabar paratha ist das südindische Brot schlechthin. Zu einer kunstvollen Spirale gerollt und mit golden gerösteten Flecken, ist es gleichzeitig knusprig, weich und luftig. Es ist das perfekte Brot, um es klein zu zupfen und ein eine cremige Sauce zu tunken. Braucht aber ziemlich viel Zeit in der Zubereitung.
 
 ## Paratha – geschichtetes Brot
 ### Zutaten (für 16 Brote):
@@ -7166,7 +7157,6 @@ Im vorgeheizten Backofen auf der mittleren Schiene bei 220 Grad (gas 3-4, Umluft
 
 Zucker
 250 g Mehl
-
 ¾ TL Salz
 1 TL getrockneter Oregano
 2 EL Öl
@@ -7335,7 +7325,8 @@ Die Suppe bei mittlerer Hitze etwa 16 Minuten kochen. Das Bouquet entfernen.
 Das Eigelb in eine vorgewärmte Suppenterrine geben. Die heiße Suppe darüber gießen. Gut umrühren.
 Die Petersilie waschen und fein hacken. Über die Suppe streuen. Die Brotscheiben auf die Suppenteller verteilen. Die Suppe darauf schöpfen.
 
-Info:	Aigo-boulido heißt tatsächlich „gekochtes Wasser“, doch handelt es sich hier um eine sehr schmackhafte Suppe, ganz im Stil einer Zeit, in der man bescheiden lebte, darüber aber den „Wohlgeschmack“ heimischer Produkte nicht vergaß. Die Suppe stammt aus der Provence.
+### Info
+Aigo-boulido heißt tatsächlich „gekochtes Wasser“, doch handelt es sich hier um eine sehr schmackhafte Suppe, ganz im Stil einer Zeit, in der man bescheiden lebte, darüber aber den „Wohlgeschmack“ heimischer Produkte nicht vergaß. Die Suppe stammt aus der Provence.
 
 ## Zitronen-Reissuppe
 ### Zutaten (für 4 Portionen):
@@ -7385,7 +7376,8 @@ Die Suppe vom Herd nehmen, mit den restlichen 2 EL Zitronensaft verrühren, grob
 Für das aromatische Öl Chiliringe mit den restlichen 3 EL Öl in einer kleinen Pfanne bei mittlerer Temperatur unter gelegentlichem Rühren 10-12 Minuten braten. Die Senfsamen dazugeben, nach 1 Minute 1 Prise Kurkuma unterrühren und das Ganze in ein Schälchen umfüllen.
 Die mit den Kräuterblättern vermengten Auberginen und etwas von dem aromatischen Öl dazugeben.
 
-Info:	Ich habe sie noch nicht ausprobiert, da ich nicht weiß, ob ich wirklich Auberginen verbrennen will 😊
+### Info
+Ich habe sie noch nicht ausprobiert, da ich nicht weiß, ob ich wirklich Auberginen verbrennen will 😊
 
 ## Sommerliche Bohnensuppe
 ### Zutaten (für 6 Portionen):
@@ -7454,7 +7446,8 @@ Die Selleriestangen putzen und waschen, in etwa ½ cm breite Scheiben schneiden.
 In einem kleinen Topf die Brühe zum Kochen bringen. Im großen Suppentopf das Öl erhitzen. Die Zwiebel andünsten, dann portionsweise Sellerie, Möhren, Zucchini und Lauch hineingeben und kurz anbraten. Die heiße Brühe angießen, die Kartoffeln und die Tomaten unterrühren. Alles zusammen etwa 30 Minuten sanft köcheln lassen.
 Die Petersilie und das Basilikum fein hacken. Den Käse reiben oder hauchdünn hobeln. Die Minestrone mit Salz und Pfeffer abschmecken, die Kräuter einrühren. Mit Käse bestreut servieren.
 
-   Info:	Minestrone wird in allen Regionen Italiens auf vielerlei Art und Weise zubereitet. Grundlage ist immer eine dicke Gemüsesuppe, mal wird sie ergänzt durch Nudeln, mal mit geräuchertem Fleisch, mit Maiskörnern oder mit weißen Bohnen und Pesto. Auf der Speisekarte nicht verwechseln mit Minestra, das ist ganz allgemein die Bezeichnung für Suppe.
+### Info
+Minestrone wird in allen Regionen Italiens auf vielerlei Art und Weise zubereitet. Grundlage ist immer eine dicke Gemüsesuppe, mal wird sie ergänzt durch Nudeln, mal mit geräuchertem Fleisch, mit Maiskörnern oder mit weißen Bohnen und Pesto. Auf der Speisekarte nicht verwechseln mit Minestra, das ist ganz allgemein die Bezeichnung für Suppe.
 
 ## Minestrone Nr. 2
 ### Zutaten (für 6 – 8 Portionen):
@@ -7830,7 +7823,8 @@ Die Knoblauchzehen mit dem gewürfelten Gemüse pürieren.
 2 Weißbrotscheiben mit dem Essig und knapp 200 ml Wasser beträufeln und kurz ziehen lassen. Mit dem Öl zum pürierten Gemüse geben, nochmals alles zusammen pürieren. Die Mischung soll leicht cremig werden. Mit Salz und Pfeffer abschmecken und mindestens 3 Stunden im Kühlschrank durchziehen lassen.
 Zum Servieren die dritte Weißbrotscheib in kleine Würfel schneiden. Die Butter in einer Pfanne erhitzen, die Brotwürfel goldbraun rösten. Das unzerteilte Gemüse erst jetzt in sehr feine Würfel schneiden. Brot und Gemüse als Einlage in der eisgekühlten Suppe servieren.
 
-Info:	Gazpacho ist eine andalusische Spezialität, die an heißen Tagen wunderbar erfrischt. Man kann die Suppe durch saure Sahne oder Joghurt ergänzen und überhaupt die Anteile der Gemüsesorten nach Lust und Laune variieren.
+### Info
+Gazpacho ist eine andalusische Spezialität, die an heißen Tagen wunderbar erfrischt. Man kann die Suppe durch saure Sahne oder Joghurt ergänzen und überhaupt die Anteile der Gemüsesorten nach Lust und Laune variieren.
 
 ## Kichererbsensuppe Nr. 1
 ### Zutaten (für 4 – 5 Portionen):
@@ -7871,7 +7865,8 @@ Inzwischen die Zwiebel schälen und fein hacken. Den Lauch putzen, waschen und d
 Die Suppe durch ein Sieb passieren oder pürieren. Noch einmal erhitzen. Die Suppe soll sämig, aber nicht zu dickflüssig sein.
 Inzwischen das Brot fein würfeln und im restlichen Öl kross braten. Die Suppe in eine Terrine gießen. Die Brotwürfel und eventuell noch etwas Pfeffer obenauf streuen. Sehr heiß servieren.
 
-Info:	Nach alter Tradition wurde die Mittagsmahlzeit in der Provence mit einem Teller heißer Suppe eröffnet. Im Winter bereitete man diese Suppen häufig mit Mehl von Kichererbsen, Bohnenkernen, Mais oder auch Weizen zu. La soupo tapo un trau, sagte man, das heißt die Suppe stopft das Loch.
+### Info
+Nach alter Tradition wurde die Mittagsmahlzeit in der Provence mit einem Teller heißer Suppe eröffnet. Im Winter bereitete man diese Suppen häufig mit Mehl von Kichererbsen, Bohnenkernen, Mais oder auch Weizen zu. La soupo tapo un trau, sagte man, das heißt die Suppe stopft das Loch.
 
 ## Kichererbsensuppe Nr. 3
 ### Zutaten (für 2 – 3 Portionen):
@@ -8114,7 +8109,8 @@ Inzwischen Zwiebel und Knoblauch schälen und fein hacken. Mangold waschen und B
 5 Minuten bevor die Linsen gar sind, Zwiebel mit Öl in einem großen Topf erhitzen und 5 Minuten lang dünsten. Knoblauch, Mangold, Koriander und Linsen samt Kochflüssigkeit dazugeben. Mit Salz, Pfeffer und Cayennepfeffer würzen.
 Alles zum Kochen bringen, Hitze herunterschalten und die Suppe zugedeckt 15 Minuten lang köcheln lassen. Zitronensaft einrühren. Suppe auf Schälchen verteilen, mit Zitronenscheiben und Korianderblättern garnieren. Man kann noch einen Klecks Joghurt darauf machen, wenn einem danach ist.
 
-Info:	Die Suppe schmeckt übrigens auch kalt und lauwarm sehr gut.
+### Info
+Die Suppe schmeckt übrigens auch kalt und lauwarm sehr gut.
 
 ## Linsen-Paruppu-Dhal-Suppe
 ### Zutaten (für 2-4 Portionen):
@@ -8139,7 +8135,8 @@ Das Dhal in eine hitzebeständige Schüssel füllen. Im bereits benutzten topf d
 Das Dhal zurück in den Topf mit den Gewürzen geben und unter ständigem Rühren kurz aufkochen (oder bis zur gewünschten Konsistenz weiter eindicken lassen, wenn man es cremiger mag).
 Mit Naan oder Reis servieren.
 
-Info:	Der Trick dieser duftenden sri-lankischen Linsensuppe besteht darin, die Hälfte der Gewürze kurz vor Ende der Garzeit in Öl anzubraten und die fast fertige Suppe darübergießen, um ein besonders intensives Aroma erzielt.
+### Info
+Der Trick dieser duftenden sri-lankischen Linsensuppe besteht darin, die Hälfte der Gewürze kurz vor Ende der Garzeit in Öl anzubraten und die fast fertige Suppe darübergießen, um ein besonders intensives Aroma erzielt.
 ##
 
 ## Linseneintopf
@@ -8148,7 +8145,6 @@ Info:	Der Trick dieser duftenden sri-lankischen Linsensuppe besteht darin, die H
 300g braune Linsen
 50 g durchwachsener Speck
 1 walnussgroßes Stückchen frischer Ingwer
-
 2-3 Frühlingszwiebeln
 2 EL Öl
 1 Knoblauchzehe
@@ -8295,7 +8291,6 @@ Die Suppe anrichten und wenn man will mit 1 EL Kürbiskernöl beträufeln. Mit e
 800 g Kürbis
 3 Zwiebeln
 50 g Butter
-
 ¾ l Milch
 150 g Créme fraîche
 100 g Kerbel
@@ -8389,7 +8384,6 @@ Das Gemüse mit dem Pürierstab fein pürieren, eventuell durch ein Sieb streich
 1 Knoblauchzehe
 2 EL Butter
 1 TL Currypulver
-
 ¾ l Gemüsebrühe
 2 EL Kürbiskerne
 200 g Sahne
@@ -8505,7 +8499,8 @@ Mit Brühe aufgießen, bis der Kürbis bedeckt ist. Das Zitronengras mit dem Mes
 Die Kokosmilch hinzufügen, nochmals aufkochen, mit Fischsauce abschmecken. Zitronengras und Ingwer herausnehmen und die Suppe mit dem Mixstab fein pürieren. Notfalls noch mit Brühe und Kokosmilch verdünnen. Um die Suppe schön aufzuschäumen, kann auch ein Schluck Milch hinzugegeben werden.
 Mit gehacktem Koriander bestreuen. Den Koriander aber erst kurz vor dem Servieren hacken, da er sonst sein Aroma verliert.
 
-Info:	Ich mag diese Suppe gerne, ist ziemlich scharf und wärmt daher im Herbst/Winter gut. Man kann auch das Fischöl weglassen.	
+### Info
+Ich mag diese Suppe gerne, ist ziemlich scharf und wärmt daher im Herbst/Winter gut. Man kann auch das Fischöl weglassen.	
 
 ## Kürbis-Tomaten-Suppe mit Zitronenmelisse
 ### Zutaten für 4 Portionen
@@ -8553,7 +8548,8 @@ Petersilie zum Garnieren
 Das Kürbisfleisch würfeln und die Zwiebeln fein hacken. Kürbis, Zwiebeln und Gewürze im Olivenöl andünsten. Die Rosinen und die Kastanien beifügen, mit der Gemüsebrühe angießen. Das Ganze zugedeckt 15 Minuten köcheln lassen. Je nach Konsistenz noch ein wenig Gemüsebrühe angießen. Mit Salz abschmecken.
 Den Eintopf anrichten, garnieren mit einem Klecks Crème fraîche, den Kürbioskernen und der Petersilie
 
-Info:	Auch dieses Rezept stammt vom Mundenhof.
+### Info
+Auch dieses Rezept stammt vom Mundenhof.
 
 ## Tomatensuppe Nr. 1
 ### Zutaten
@@ -8869,7 +8865,8 @@ Die Suppe zugedeckt etwa 15 Minuten bei mittlerer Hitze köcheln lassen. Den Bac
 Inzwischen die Brotscheiben ohne Fett in einer Pfanne rösten. In feuerfeste Suppentassen legen. Die Suppe über die Brotscheiben gießen. Mit dem Käse bestreuen.
 Die Tassen auf der mittleren Schiene in den Backofen stellen und die Suppe etwa 7 Minuten überbacken. Nach Geschmack mit Cognac oder Portwein parfümieren.
 
-Info:	Die Suppe ist in Paris als Spätgericht für Nachtschwärmer beliebt. Berühmt geworden in den Lokalen um die alten Markthallen, wo man zusammen mit den Frühaufstehern den Morgen begrüßt.
+### Info
+Die Suppe ist in Paris als Spätgericht für Nachtschwärmer beliebt. Berühmt geworden in den Lokalen um die alten Markthallen, wo man zusammen mit den Frühaufstehern den Morgen begrüßt.
 
 ## Supa Portugesa de Legumes
 ### Zutaten (für 4-6 Portionen)
@@ -8879,7 +8876,6 @@ Info:	Die Suppe ist in Paris als Spätgericht für Nachtschwärmer beliebt. Ber�
 
 10 frische (oder 1 TL getrocknete) Salbeiblätter
 1 Stange Lauch, in Ringe geschnitten
-
 2-3 Kartoffeln (500 g), geschält und gewürfelt
 3 Karotten (300 g), geschält und gewürfelt
 1 Süßkartoffel (oder 1 Stück Kürbis, 200 g), geschält und gewürfelt
@@ -8914,7 +8910,6 @@ Gemüsebrühe oder Wasser
 1 Prise Salz
 50 g Parmesan
 60 g Olivenöl
-
 Schwarzer Pfeffer
 
 ### Zubereitung
@@ -8923,7 +8918,8 @@ Das Gemüse im Topf mit Wasser bedecken und alles garkochen, was ca. 15 bis 20 M
 Das Ganze aufkochen, dann die Temperatur runterschalten und köcheln lassen, bis die Pasta gar ist. Wenn die Suppe zu dickflüssig ist, erneut Wasser (oder Gemüsebrühe) nachgießen.
 In der Zwischenzeit das Pistou zubereiten. Wer es schärfer mag, verwendet dafür Knoblauch, am besten frischen. Man kann den Knoblauch aber auch weglassen und trotzdem sehr glücklich werden: Basilikum, frisch geriebenen Parmesan, Salz, Pfeffer, Olivenöl mit dem Pürierstab zu einer glatten Masse pürieren.
 
-Info:	Suppen gelten ja als langweilig, beziehungsweise muss zu jeder Suppe ein sogenanntes Topping her, sonst wird sie schon gar nicht beachtet unter all den besonderen Gerichten, die heute stets nur eine Armlänge entfernt scheinen. Es stimmt schon, eine Soupe au Pistou ist einfach nur eine Gemüsesuppe. Aber sie schmeckt köstlich, und so ein Pistou (im Prinzip ein Pesto ohne Pinienkerne) ist das Topping der Träume.
+### Info
+Suppen gelten ja als langweilig, beziehungsweise muss zu jeder Suppe ein sogenanntes Topping her, sonst wird sie schon gar nicht beachtet unter all den besonderen Gerichten, die heute stets nur eine Armlänge entfernt scheinen. Es stimmt schon, eine Soupe au Pistou ist einfach nur eine Gemüsesuppe. Aber sie schmeckt köstlich, und so ein Pistou (im Prinzip ein Pesto ohne Pinienkerne) ist das Topping der Träume.
 
 ## Provencalische Gemüsesuppe
 ### Zutaten (für 4 -6 Portionen):
@@ -8963,7 +8959,8 @@ Das Gemüse mit 2 l Wasser einen Topf geben und zugedeckt bei mittlerer Hitze et
 Die Suppennudeln dazugeben und bei milder Hitze in der Suppe garen. Die Suppe sollte dickflüssig werden. Wenn die Nudeln gar, aber nicht zu weich sind, die Suppe mit Salz und Pfeffer abschmecken. Vom Herd nehmen.
 Die Knoblauchzehen schälen du in ein Schüsselchen pressen. Das Basilikum waschen, fein hacken und mit dem Knoblauch vermengen. Das öl in dünnem Strahl dazugeben. Aus den Zutaten eine Paste rühren. 2 Schöpflöffel heiße Suppe dazugeben. Die Mischung in die Suppe geben und verrühren. Den geriebenen Käse unter die Suppe rühren. Die Suppe noch einmal erhitzen. Sehr heiß servieren.
 
-Info:	Diese Suppe gilt heute als typisch provenzalisch, stammt aber ursprünglich aus Genua. In der Provence wird sie in nahezu unendlich vielen Varianten zubereitet. Wichtigster Bestandteil ist immer die Basilikumpaste. Das Wort pistou stammt vom Altprovencalischen pistar, was soviel bedeutet wie zerreiben, zermahlen.
+### Info
+Diese Suppe gilt heute als typisch provenzalisch, stammt aber ursprünglich aus Genua. In der Provence wird sie in nahezu unendlich vielen Varianten zubereitet. Wichtigster Bestandteil ist immer die Basilikumpaste. Das Wort pistou stammt vom Altprovencalischen pistar, was soviel bedeutet wie zerreiben, zermahlen.
 
 ## Fenchelsuppe mit Pastis
 ### Zutaten (für 6 Portionen):
@@ -8988,7 +8985,8 @@ Ein paar Scheiben Brot
 Die Fenchelknollen in grobe Stücke schneiden, Lauch in ringe, Zwiebeln grobhacken. Olivenöl in den Topf geben, darin das Gemüse erhitzen. Gewürze und eine Prise Salz dazugeben, den Topf zudecken und bei mittlerer Hitze ungefähr 25 Minuten lang dünsten. Dabei sollte das Gemüse nicht ansetzen.
 Schließlich Weißwein dazugießen, Flüssigkeit ungefähr um die Hälfte einkochen, was ungefähr 3 oder 4 Minuten dauert. Dann die Brühe angießen, das Ganze weitere 10 Minuten lang köcheln lassen. Die Suppe fein pürieren. Sahne und Pastis hineinrühren, eventuell nachsalzen. Dazu Brot servieren.
 
-Info:	Dieses Gericht ist ein suppegewordener Aperitif, denn geschmacklich herrscht der Pastis vor. Der wird nämlich nicht etwa so früh zugegeben, dass alles Schöne verdampft, sondern erst zum Schluss, zum Abschmecken sozusagen.
+### Info
+Dieses Gericht ist ein suppegewordener Aperitif, denn geschmacklich herrscht der Pastis vor. Der wird nämlich nicht etwa so früh zugegeben, dass alles Schöne verdampft, sondern erst zum Schluss, zum Abschmecken sozusagen.
 
 ## Eintopf mit Mangold
 ### Zutaten (für 4-6 Portionen):
@@ -9074,7 +9072,8 @@ Ca. 80 ml Milch
 In einem großen Topf in Olivenöl Zwiebeln, Knoblauch und Lauch für einige Minuten unter Rühren andünsten. Dann Karotten und Sellerie dazugeben, kurz mitdünsten. Wein, Brühe, Lorbeer, Rosmarinzweige, Tomatenmark und Salz dazugeben. Aufkochen. Hitze herunterschalten, den Deckel auf den Topf setzen, ungefähr 1 Stunde und 15 Minuten lang simmern lassen.
 Währenddessen die Knödel vorberieten: Mehl, Backpulver und Salz in einer Schüssel vermengen. Butter in Würfel schneiden und mit den Fingern hineinkneten, sodass eine krümelige Masse entsteht. Gerieben Käse hinzugeben. Milch hinzugießen, sodass der Teig sich zusammenfügt. Eventuell nimmt man etwas mehr der weniger Milch als angegeben. Der Teig sollte nicht trocken, sondern etwas klebrig sein. Mit einem Esslöffel Teignocken auf den Eintopf setzen, das Ganze ohne Deckel 10 Minuten lang garen, dann noch mal 10 Minuten mit Deckel.
 
-Info:	Das hier sind angelsächsische Knödel. Sie werden weder aus Kartoffeln noch aus Brot gemacht, sondern aus Mehl und Backpulver. Man könnte sagen kulturlos 😊
+### Info
+Das hier sind angelsächsische Knödel. Sie werden weder aus Kartoffeln noch aus Brot gemacht, sondern aus Mehl und Backpulver. Man könnte sagen kulturlos 😊
 
 ## Frühlingseintopf aus grünem Spargel und frischen Erbsen  - Vignarola
 ### Zutaten für 4 Portionen
@@ -9097,7 +9096,8 @@ Pancetta (oder Speck) in Streifen schneiden, in einem Topf unter Rühren erhitze
 Den Spargel von den holzigen Enden befreien und eventuell schälen, in 2 cm große Stücke schneiden. Römersalatblätter in 2 cm breite Streifen schneiden. Beides in den Topf geben, das Ganze weitere 5 Minuten garen (oder bis die Spargel die gewünschte Konsistenz hat).
 In einer Pfanne die verbliebenen Knoblauchzehen in Olivenöl erhitzen. Brotscheibe darin von beiden Seiten knusprig braten, zum Eintopf servieren.
 
-Info:	Eigentlich ist die ein frühlingshafte Eintopf aus Italien mit frischen Erbsen und Artischocken. Ich habe aber keine Ahnung wie man mit den italienischen Artischocken (bei den französischen Artischocken kenn ich mich einigermaßen aus) umgeht. Ich weiß nicht, wie man sie richtig schneidet, wie man die innenliegende Behaarung loswird und wie viele der harten äußeren Blätter man entfernen muss. Rätselhafte Wesen. Daher habe ich die Artischocken durch grünen Spargel ersetzt.
+### Info
+Eigentlich ist die ein frühlingshafte Eintopf aus Italien mit frischen Erbsen und Artischocken. Ich habe aber keine Ahnung wie man mit den italienischen Artischocken (bei den französischen Artischocken kenn ich mich einigermaßen aus) umgeht. Ich weiß nicht, wie man sie richtig schneidet, wie man die innenliegende Behaarung loswird und wie viele der harten äußeren Blätter man entfernen muss. Rätselhafte Wesen. Daher habe ich die Artischocken durch grünen Spargel ersetzt.
 
 ## Karottensuppe mit Kokosmilch
 ### Zutaten (für 2 Portionen)
@@ -9250,14 +9250,14 @@ Den Nudelteig auf einer bemehlten Arbeitsfläche gleichmäßig dünn ausrollen (
 Wenn alle Maultaschen fertig geformt sind, in kochendes Salzwasser geben und gar ziehen lassen bis sie hochsteigen.
 Inzwischen die Brühe erhitzen und je mit einer Maultasche in vorgewärmte Suppenteller anrichten und mit Schnittlauchröllchen bestreuen.
 
-Info:	Ich weiß eigentlich gar nicht, wieso ich so ein Rezept mit aufnehme 😊. Das hat man doch im Blut 😊
+### Info
+Ich weiß eigentlich gar nicht, wieso ich so ein Rezept mit aufnehme 😊. Das hat man doch im Blut 😊
 
 ## Kartoffelsuppe
 ### Zutaten für 4 Portionen:
 500 g Kartoffeln
 1 Zwiebel
 1 EL Öl
-
 ¾ l milde Gemüsebrühe
 Salz, Pfeffer
 1 EL frisches Koriandergrün (oder 2-3 El gehackte Petersilie)
@@ -9272,7 +9272,8 @@ Mit Salz und Pfeffer würzen und etwa 1 TL Koriandergrün einrühren. Die Kartof
 Die Tomaten waschen und in kleine Würfel schneiden. Die Avocado rundherum bis auf den Stein einschneiden, die Hälften trennen, den Stein entfernen. Das Fruchtfleisch aus der Schale lösen und in kleine Würfel schneiden, sofort mit Zitronensaft beträufeln. Die Avocadowürfel mit den Tomaten mischen, mit Salz und Pfeffer würzen.
 Zum Servieren die Kartoffelsuppe auf Teller verteilen, die Avocado-Tomatenmischung darauf streuen. Mit dem restlichen Koriandergrün oder mit Petersilie bestreuen.
 
-Info:	Unsere Kartoffelsuppe, so oft schon gemacht und immer wieder lecker. Man kann Koriander/Petersilie und auch die Avocado weglassen. Die Tomaten würde ich weiterhin dazunehmen, denn das schmeckt einfach erfrischend. Und die Saitenwürstchen kann man locker ergänzen. Die Suppe habe ich zum ersten Mal gemacht, als ihr euren Skikurs im Skiclub Horben hattet. Nach so einem langen Skitag war die Suppe wunderbar und vor allem schon vorgekocht.
+### Info
+Unsere Kartoffelsuppe, so oft schon gemacht und immer wieder lecker. Man kann Koriander/Petersilie und auch die Avocado weglassen. Die Tomaten würde ich weiterhin dazunehmen, denn das schmeckt einfach erfrischend. Und die Saitenwürstchen kann man locker ergänzen. Die Suppe habe ich zum ersten Mal gemacht, als ihr euren Skikurs im Skiclub Horben hattet. Nach so einem langen Skitag war die Suppe wunderbar und vor allem schon vorgekocht.
 
 ## Badische Kartoffelsuppe mit Kracherle
 ### Zutaten (für 4 Portionen)
@@ -9301,7 +9302,6 @@ Für die Kracherle die Brotscheiben entrinden, würfeln und in 2 EL heißer Butt
 200 g Kartoffeln
 2 Schalotten
 2 EL Butterschmalz
-
 ¾ l Gemüsebrühe
 1 TL gemahlener Koriander
 100 g Crème fraîche
@@ -9320,7 +9320,8 @@ Die Suppe pürieren. Wieder aufkochen, die Crème fraîche einrühren, mit Salz 
 Inzwischen das restliche Butterschmalz in einer Pfanne zerlassen. Den Knoblauch durch die Presse drücken, die Mandelblättchen darin goldbraun rösten. Die Zucchiniraspel einrühren, salzen und pfeffern, bei mittlerer Hitze ganz kurz braten.
 Die Suppe mit den Mandeln und en Zucchiniraspeln bestreut servieren.
 
-Info:	Dies ist unsere allseits beliebte und berüchtigte Hexensuppe. Ich lasse allerdings das ganze Gedöns mit Zucchiniraspeln und Mandeln weg. Aber wenn man Gäste hat, kann man das natürlich so aufhübschen. Ist aber eigentlich nicht nötig.
+### Info
+Dies ist unsere allseits beliebte und berüchtigte Hexensuppe. Ich lasse allerdings das ganze Gedöns mit Zucchiniraspeln und Mandeln weg. Aber wenn man Gäste hat, kann man das natürlich so aufhübschen. Ist aber eigentlich nicht nötig.
 
 `	`Wir haben diese Suppe auch oft Hexensuppe genannt, weil sie so schön grün ist.
 
@@ -9656,7 +9657,8 @@ Die Butter in einem großen Topf erhitzen und die Schalotten mit Ingwer, Lauch, 
 1 EL Pistazie zum Garnieren beiseitelegen, den Rest mit der Hälfte der Suppe in eine Schüssel füllen, mit dem Stabmixer glatt pürieren und in den Topf zurückgießen. Orangen- und Zitronensaft unterrühren, die Suppe noch einmal erhitzen und abschmecken.
 Die restlichen Pistazien grob hacken. Die Suppe auf vier tiefe Teller verteilen und jeweils mit einem Klecks saurer Sahne garnieren. Mit den gehackten Pistazien bestreuen und mit der restlichen Safranflüssigkeit beträufeln.
 
-Info:	Diese Suppe habe ich auch einmal versucht. Am aufwändigsten war das Schälen der Pistazien. Hat aber ganz gut geschmeckt.
+### Info
+Diese Suppe habe ich auch einmal versucht. Am aufwändigsten war das Schälen der Pistazien. Hat aber ganz gut geschmeckt.
 
 ## Spargelsuppe mit Schnittlauch und geröstetem Brot
 ### Zutaten (für 2 Portionen):
@@ -10176,7 +10178,8 @@ Zwiebel und Gewürze mit einem Schaumlöffel aus dem Fond nehmen. Fond abgießen
 In dem großen Topf die zweite Zwiebel fein gehackt in Olivenöl andünsten. Freekeh dazugeben, kurz mitdünsten, dann mit dem Hühnerfond ablöschen. Freekeh in 20 bis 25 Minuten gar kochen.
 Hühnerfleisch in die Suppe geben, um es noch einmal zu erhitzen. Würzen mit Zimt, Muskat und Pfeffer. Man kann Joghurt zur Suppe essen, aber ohne schmeckt sie auch gut.
 
-Info:	Freekeh bezeichnet ein Getreide (nämlich Weizen, der unreif geerntet und dann geröstet wird, weshalb er ein bisschen rauchig und nussig schmeckt. Vom Prinzip her ist Freekeh der Grünkern des Nahen Ostens. Wer keinen türkischen oder arabischen Lebensmittelhändler um die Ecke hat, kann stattdessen einfach Grünkern verwenden. Der Freekeh macht aus der Hühnersuppe eine sämige Angelegenheit, ein Gericht für Tage zwischen den Jahren, wenn man sich satt fühlt, aber trotzdem etwas Wärmendes, Gemütliches essen will.
+### Info
+Freekeh bezeichnet ein Getreide (nämlich Weizen, der unreif geerntet und dann geröstet wird, weshalb er ein bisschen rauchig und nussig schmeckt. Vom Prinzip her ist Freekeh der Grünkern des Nahen Ostens. Wer keinen türkischen oder arabischen Lebensmittelhändler um die Ecke hat, kann stattdessen einfach Grünkern verwenden. Der Freekeh macht aus der Hühnersuppe eine sämige Angelegenheit, ein Gericht für Tage zwischen den Jahren, wenn man sich satt fühlt, aber trotzdem etwas Wärmendes, Gemütliches essen will.
 
 ## Hühnersuppe
 ### Zutaten (für 8 Portionen):
@@ -10249,7 +10252,8 @@ Karotte putzen, schälen und in grobe Stücke schneiden. Lauch putzen, waschen, 
 Zunächst die Eier mit Zitronensaft gründlich verquirlen. Dann etwa 250 ml heißen Hühnerfond sehr langsam in die Ei-Mischung rühren – am besten beginnt man, den Fond esslöffelweise dazu zugießen. Es geht darum, die Eier langsam zu erhitzen, damit sie nicht stocken.
 In der Zwischenzeit den Reis in den verbliebenen Fond einrühren. Nach ungefähr 5 Minuten das Hühnerfleisch dazugeben. Alles weitere 5 – 10 Minuten lang kochen, bis der Reis weich ist und das Fleisch erhitzt ist, dabei ab und zu umrühren. Schließlich die Ei-Zitronen-Mischung zur Suppe geben, alles noch mal unter Rühren aufkochen, die Suppe sollte dann cremig und leicht angedickt sein. Auf Teller verteilen, mit Pfeffer und nach Geschmack mit fein gehackter Zitronenschal bestreuen, eventuell etwas Olivenöl darüber geben.
 
-Info:	Das Besondere an dieser Suppe ist zum einen, dass sie mit Ei gebunden wird, was sie sämig, aber nicht schwer macht. Zum anderen wird der Reis direkt in der Suppe gekocht, was ebenfalls zu ihre Cremigkeit beiträgt.
+### Info
+Das Besondere an dieser Suppe ist zum einen, dass sie mit Ei gebunden wird, was sie sämig, aber nicht schwer macht. Zum anderen wird der Reis direkt in der Suppe gekocht, was ebenfalls zu ihre Cremigkeit beiträgt.
 
 ## Kokossuppe mit Hühnchen und Glagant-Tom Kha Gai
 ### Zutaten (für 5 Portionen):
@@ -10385,7 +10389,8 @@ Fleisch und Knochen mit 1,5 l Wasser und 2 TL Salz in einen Topf geben. Suppengr
 Inzwischen Kartoffeln waschen, schälen und würfeln. Die restlichen Zwiebeln schälen und in Ringe schneiden. Di Petersilie waschen und fein hacken.
 Wenn das Fleisch gar ist, die Brühe durch ein Sieb in einen zweiten Topf gießen. Kartoffeln darin 15 Minuten garen. Das Fleisch klein würfeln. Das Öl erhitzen, die Zwiebeln darin goldbraun braten. Sobald die Kartoffeln gar sind, Fleisch und Spätzle in den Topf geben und alles erhitzen. Die Suppe mit Salz und Pfeffer abschmecken, mit Petersilie und gerösteten Zwiebeln bestreut servieren.
 
-Info:	Die Suppe stammt angeblich aus dem Stuttgarter Stadtteil Gaisburg. Man erzählt, dass er das Lieblingsgericht der „Einjährigen“ war, die immer am Sonntag von ihrer Kaserne und einem Gaisburger Wirt pilgerten, der diesen Rindfleischeintopf mit Kartoffeln und Spätzle erfunden haben soll.
+### Info
+Die Suppe stammt angeblich aus dem Stuttgarter Stadtteil Gaisburg. Man erzählt, dass er das Lieblingsgericht der „Einjährigen“ war, die immer am Sonntag von ihrer Kaserne und einem Gaisburger Wirt pilgerten, der diesen Rindfleischeintopf mit Kartoffeln und Spätzle erfunden haben soll.
 
 ## Suppe mit weißen Bohnen und Lamm
 ### Zutaten (für 4 Portionen):
@@ -10708,7 +10713,6 @@ etwas Olivenöl
 
 4 Hähnchenschenkel
 Salz
-
 Schwarzer Pfeffer
 2 Zwiebeln
 1 Zimtstange
@@ -10722,7 +10726,8 @@ Die Quitten waschen, eventuell den Flaum abreiben, dann schälen, halbieren, ent
 Butter in einem feuerfesten Topf zergehen lassen, die Quittenschnitze hineingeben und etwa 15 Minuten lang dünsten, dabei nicht ansetzen lassen. Dann den Honig unterrühren, Quitten herausnehmen und beiseitestellen.
 In dem selben Topf Olivenöl erhitzen, darin die Hähnchenschenkel von beiden Seiten anbraten. Salzen und pfeffern. Aus dem Topf nehmen und beiseitestellen. Zwiebeln schälen und in Streifen schneiden, in dem Topf andünsten. Dann Quitten und Huhn zu den Zwiebeln zurück in den Topf geben. Zimtstange und das ganze (gewaschene) Bund Koriander dazufügen, ebenso wie Ingwer und Safran. Etwa 200 ml Wasser dazugießen, aufkochen. Den Topf abdecken und das Huhn für ungefähr 50 Minuten im 180 Grad heißen Ofen (Umluft) garen. Den Koriander entfernen. Als Beilage passt zum Quittenhuhn zum Beispiel gebutterter Cousous.
 
-Info:	Wenn man mal an einem Novembertag trübsinniger Stimmung ist, weil die Dunkelheit schon um 16 Uhr alles verschluckt hat und einem auf die Augenlider drückt, dann kann man seine Nase ganz dicht an eine Quitte halten und tief einatmen. Quitten riechen wie der italienische Sommer, zitronig, lieblich, als ginge ein warmer Wind durch einen Blütenbaum. Dann öffnet man die Augen du denkt: Jetzt muss ich diese Dinger noch irgendwie klein kriegen, denn sie sind extrem hart, und die Gefahr sich beim Zerschneiden zu verletzen, ist hoch. Ich schaffe es nicht immer unfallfrei 😊
+### Info
+Wenn man mal an einem Novembertag trübsinniger Stimmung ist, weil die Dunkelheit schon um 16 Uhr alles verschluckt hat und einem auf die Augenlider drückt, dann kann man seine Nase ganz dicht an eine Quitte halten und tief einatmen. Quitten riechen wie der italienische Sommer, zitronig, lieblich, als ginge ein warmer Wind durch einen Blütenbaum. Dann öffnet man die Augen du denkt: Jetzt muss ich diese Dinger noch irgendwie klein kriegen, denn sie sind extrem hart, und die Gefahr sich beim Zerschneiden zu verletzen, ist hoch. Ich schaffe es nicht immer unfallfrei 😊
 
 ## Huhn mit Tomaten und Zitrone
 ### Zutaten (für 3-4 Portionen)
@@ -10795,9 +10800,7 @@ Salz, Zucker
 ½ TL Salz
 1 TL Öl
 50 g Butter
-
 2-3 EL Knoblauch, fein gehackt
-
 2-3 EL frischer Koriander, fein gehackt
 
 ### Zubereitung
@@ -11095,7 +11098,6 @@ Dieses Gericht hat Simon als kleiner Junge von 4 Jahren besonders gerne gegessen
 ### Zutaten (für 4 Personen):
 1 Poularde (etwa 1,2 kg)
 Salz
-
 Schwarzer Pfeffer aus der Mühle
 
 Etwa 2 EL Mehl zum Bestäuben
@@ -11109,7 +11111,6 @@ Etwa 2 EL Mehl zum Bestäuben
 2 EL Butterschmalz
 
 4 cl Cognac
-
 ¾ l kräftiger Rotwein
 2 Knoblauchzehen
 
@@ -11254,7 +11255,6 @@ Ein Klassiker der indischen Küche😊. Ein wunderbares Essen, das cremig und ü
 1 EL Korianderkörner (im Mörser zerstoßen)
 2 EL Olivenöl
 Salz
-
 Schwarzer Pfeffer
 1 rote Zwiebel
 
@@ -11371,7 +11371,8 @@ Den Backofen auf 180 Grad Umluft vorheizen.
 Die Hähnchenkeulen samt der Marinade in einem großen Bräter verteilen. Den Wein mit dem Sirup verrühren, die Keulen damit übergießen und 50 Minuten im Ofen braten, bis die Haut goldbraun und das Fleisch durchgegart ist. Zwischendurch zwei-, dreimal mit dem Bratensaft übergießen.
 Aus dem Ofen nehmen, auf einer großen Platte und vor dem Servieren mit dem frischen Oregano bestreuen.
 
-Info:	Marinieren ist natürlich das Beste, aber wenn die Zeit nicht reicht, dann geht es natürlich auch ohne. Dann einfach mit Salz und Pfeffer, die sonst in die Marinade wandern, einreiben. Mit den restlichen Zutaten der Marinade (kein weiteres Salz erforderlich) vermischen und wie beschrieben braten.
+### Info
+Marinieren ist natürlich das Beste, aber wenn die Zeit nicht reicht, dann geht es natürlich auch ohne. Dann einfach mit Salz und Pfeffer, die sonst in die Marinade wandern, einreiben. Mit den restlichen Zutaten der Marinade (kein weiteres Salz erforderlich) vermischen und wie beschrieben braten.
 
 ## Brathähnchen mit Clementinen und Arak
 ### Zutaten (für 4 Portionen)
@@ -11568,7 +11569,8 @@ Huhn innen und außen salzen und pfeffern. 1 Knoblauchknolle halbieren. Huhn mit
 Ofen auf 200 Grad vorheizen (keine Umluft). Einen Bräter mit dem Fond füllen. Restliche Knoblauchknolle halbieren, mit restlichen Kräutern und Flügelspitzen in den Bräter geben. Hähnchen auf einem Gitter (oder zusammengeknüllter Alufolie) in den Bräter setzen.
 Im Ofen 1 Stunde 15 Minuten auf der untersten Schiene garen. Zwischendurch mit Bratfond begießen. Hähnchenbrust nach ca. 40 Minuten mit Alufolie abdecken, damit sie nicht zu dunkel wird. Nach Ende der Garzeit Alufolie abnehmen und Hähnchen unter dem Backofengrill 3 – 5 Minuten rösten. Bratensatz durch ein Sieb in einen Topf geben, sämig einkochen lassen, mit Salz und Pfeffer würzen. Hähnchen mit Bratenfond servieren.
 
-Info:	Dazu passt Blattsalat und Baguette.
+### Info
+Dazu passt Blattsalat und Baguette.
 
 ## Putenschnitzel vom Blech
 ### Zutaten (für 6 Portionen):
@@ -11590,7 +11592,8 @@ Den Brokkoli zwischen den Fleischscheiben verteilen. Die Tomaten waschen, in dic
 Etwa 4 EL Olivenöl mit 3-4 EL Zitronensaft kräftig zu einer schaumigen Sauce verquirlen, mit Salz und Pfeffer würzen, die Kapern einrühren.
 Das Blech aus dem Backofen nehmen. Den Brokkoli und die belegten Schnitzel mit der Zitronensauce beträufeln, nochmals für 5-10 Minuten in den Backofen schieben. Die übrige Zitronenschale in feinen Streifen ablösen, über das fertige Gericht streuen.
 
-Info:	Statt frischen Brokkoli abgetropfte Artischockenherzen aus der Dose/Glas zum Fleisch auf das Blech legen.
+### Info
+Statt frischen Brokkoli abgetropfte Artischockenherzen aus der Dose/Glas zum Fleisch auf das Blech legen.
 
 Je länger die Schnitzel durchziehen (am besten über Nacht), desto würziger und zarter schmecken sie. Auch die Garzeit verkürzt sich durchs längere Einlegen. Daher bitte rechtzeitig prüfen, ob die Scheiben gar sind.
 
@@ -11943,7 +11946,6 @@ Sauce schaumig pürieren, Püree auf vorgewärmten Tellern mit den Spießen und 
 
 Öl für die Folie
 Salz
-
 Schwarzer Pfeffer aus der Mühle
 1 EL frischer Rosmarin (ersatzweise 1 TL getrockneter)
 2 EL flüssiger Honig
@@ -11972,7 +11974,6 @@ Hähnchen am Tag vorher mit der Marinade bestreichen und bis zur Zubereitung im 
 
 4 Poulardenbrüste mit Knochen (à 160 g)
 1-2 TL Quatre Épices (frz. Kräutermischung)
-
 2-3 EL Olivenöl
 
 4 Zweige Rosmarin
@@ -12236,7 +12237,8 @@ Das Öl in einem Wok oder Topf heiß werden lassen. Das Huhn darin rundherum anb
 Inzwischen den Romanesco putzen, waschen und in Stücke schneiden. Den Rotwein zum Huhn geben und das Huhn zugedeckt noch einmal 2 Minuten garen. Dann herausnehmen, das Fleisch von den Knochen lösen und in Stücke schneiden.
 100 ml von der Garflüssigkeit abmessen und in einem Topf aufkochen. Angerührte Maisstärke untermischen und die Sauce damit binden. Hühnerstücke wieder untermischen. Gleichzeitig den Romanesco in sprudelnd kochendem Wasser 2 Minuten blanchieren. Mit den Hühnerstücken auf einem Teller anrichten.
 
-   Info:	Wenn man den Wein zum Huhn gibt, sollte es anschließend gut verschlossen garen, damit das Aroma erhalten bleibt. Ein bekanntes Gericht, das seinen Namen von der Nebenfrau des Kaisers Gui Fei entliehen hat. Sie war nach dem Essen beschwipst, weil es mit viel Wein zubereitet war.
+### Info
+Wenn man den Wein zum Huhn gibt, sollte es anschließend gut verschlossen garen, damit das Aroma erhalten bleibt. Ein bekanntes Gericht, das seinen Namen von der Nebenfrau des Kaisers Gui Fei entliehen hat. Sie war nach dem Essen beschwipst, weil es mit viel Wein zubereitet war.
 
 ## Gebratenes Hähnchenfleisch mit Chili – Gong Bao Ji Ding
 ### Zutaten (für 2 – 3 Portionen)
@@ -12267,7 +12269,8 @@ Den Wok oder eine Pfanne erhitzen. Das Öl darin heiß werden lassen. Die Erdnü
 ### Tipp
 Das Hähnchenfleisch wird besonders zart, wenn man es nach dem Kleinschneiden kurz in Eiweiß wendet. Chilischoten und Pfefferkörner werden nur kurz in Öl angebraten, damit sie ihr Aroma abgeben, dann mit einem Schaumlöffel wieder herausfischen.
 
-Info:	Im feudalen China schätzte man die magischen Kräfte von Hahn und Huhn. Allein durch das Abbild sollten Dämonen vertrieben werden. Im Norden, außer in der Provinz Sezchuan, gab es einen ausgeprägten Hühnerkult. Hier durfte man kein Hühnerfleisch essen. Hahn und Huhn wurden wie Haustiere gezüchtet und gehalten. In Südchina befragte man einst mit Hühnereiern oder Hühnerknöchelchen das Orakel. Bei ländlichen Hochzeiten wird in einigen Regionen heute noch um das Brautpaar ein magischer Kreis aus Hühnerblut gezogen.
+### Info
+Im feudalen China schätzte man die magischen Kräfte von Hahn und Huhn. Allein durch das Abbild sollten Dämonen vertrieben werden. Im Norden, außer in der Provinz Sezchuan, gab es einen ausgeprägten Hühnerkult. Hier durfte man kein Hühnerfleisch essen. Hahn und Huhn wurden wie Haustiere gezüchtet und gehalten. In Südchina befragte man einst mit Hühnereiern oder Hühnerknöchelchen das Orakel. Bei ländlichen Hochzeiten wird in einigen Regionen heute noch um das Brautpaar ein magischer Kreis aus Hühnerblut gezogen.
 
 ## Chrysanthemen-Huhn – Ju Hua Ji
 ### Zutaten (für 3 – 4 Portionen):
@@ -12559,7 +12562,8 @@ Das Wasser mit dem Salz und den Pfefferkörnern zum Kochen bringen. Die Zwiebel 
 Die Zwiebelhälften mit dem Fleisch ins kochende Wasser geben und während der ersten 20 Minuten den sich bildenden Schaum immer wieder abschöpfen. Das Fleisch dann bei schwacher Hitze 2 Stunden im offenen Topf kochen lassen.
 Das Gemüse putzen, schälen oder schaben und wachen. Die Möhren längs vierteln und die Viertel quer durchschneiden. Den Sellerie in Würfel schneiden, die gelben Lauchstücke in breite Rinde. Das Gemüse 30 Minuten vor Ende der Garzeit in die Brühe geben und darin mitgaren. Den Tafelspitz in dicke Scheiben schneiden, auf einer vorgewärmten Platte anrichten, mit etwas Brühe umgießen und mit dem mitgegarten Gemüse umlegen.
 
-Info:	Dazu passen Bratkartoffeln, Sahnemeerrettich und grüne Bohnen.
+### Info
+Dazu passen Bratkartoffeln, Sahnemeerrettich und grüne Bohnen.
 
 ## Tafelspitz mit Apfelkren
 ### Zutaten (für 6 – 8 Portionen)
@@ -12604,7 +12608,6 @@ Salz
 600 g tiefgekühlte Erbsen
 
 Weißer Pfeffer
-
 2-3 EL Zitronensaft
 1 Prise Cayennepfeffer
 1 Bund Basilikum
@@ -12953,7 +12956,8 @@ Die Steaks trockentupfen, beidseitig salzen, pfeffern und mit Mehl bestäuben. D
 Das Öl in einer großen Pfanne stark erhitzen. Steaks auf jeder Seite 2 Minuten scharf anbraten. Butter dazugeben, Steaks in 3 – 4 Minuten fertig braten. Herausnehmen und mit Alufolie abgedeckt warm stellen.
 Schalotten im Bratfett in ca. 3 Minuten glasig dünsten. Den Zucker darüber streuen, karamellisieren lassen. Fond und Wein angießen und bei mittlerer Hitze 5 Minuten einkochen lassen. Senf und Crème fraîche einrühren, salzen und pfeffern. Das Fleisch dazu geben, zugedeckt 5 Minuten zeihen lassen. Schnittlauch waschen, fein schneiden und aufstreuen.
 
-Info:	Dazu schmecken Bratkartoffeln sehr gut.
+### Info
+Dazu schmecken Bratkartoffeln sehr gut.
 
 ## Steaks mit Pilz-Pfefferrahm
 ### Zutaten (für 2 Portionen)
@@ -12999,7 +13003,8 @@ Geputzte Selleriestangen in 1 cm dicke Scheiben schneiden – man kann die Stüc
 In einer Edelstahlpfanne 3 EL Öl erhitzen, darin das Fleisch braten, ungefähr 4 Minuten lang. Beiseitestellen.
 In derselben Pfanne Sellerie, Frühlingszwiebeln, Ingwer und Chili unter Rühren anbraten. Noch etwas Sojasauce hinzugießen und das Ganze bei mittlerer Hitze ungefähr 5 Minuten lang garen. Fleisch wieder hinzufügen, alles gut vermengen. Mit Salz und Essig (zum Beispiel Weißweinessig) abschmecken.
 
-Info:	Man kann das Gericht auch mit anderem Gemüse zubereiten, beispielsweise mit Zuckerschoten, Erbsen und/oder grünem Spargel oder mit Pak Choi oder anderem Blattgemüse. Aber der Sellerie freut sich, wenn ihr ihm eine Chance gebt 😊
+### Info
+Man kann das Gericht auch mit anderem Gemüse zubereiten, beispielsweise mit Zuckerschoten, Erbsen und/oder grünem Spargel oder mit Pak Choi oder anderem Blattgemüse. Aber der Sellerie freut sich, wenn ihr ihm eine Chance gebt 😊
 
 ## Geschmorte Rinderbacken mit Selleriepüree und gedünsteten Spinat
 ### Zutaten
@@ -13070,7 +13075,8 @@ Für das Rinderfilet den Backofen auf 200 Grad vorheizen. Die Trüffel in feine 
 Eine Pfanne mit etwas Butterschmalz erhitzen. Das Filet eventuell noch häuten, etwas klopfen, rundherum würzen und scharf im heißen Fett von allen Seiten kurz anbraten. Dann das Fleisch herausnehmen, in den Trüffelwürfelchen wenden, in einen Bräter geben und im Backofen 10 – 20 Minuten - je nach gewünschtem Gargrad – weitergaren lassen.
 Inzwischen mit dem Rotwein den Bratensatz ablöschen und loskochen. Die Schlagsahne zugeben und alles etwas einköcheln lassen. Die Sauce würzen und mit ein paar Tropfen Trüffelöl abrunden. Nach Belieben die Sauce mit etwas angerührter Speisestäke aufkochen und abbinden.
 
-Info:	Dazu passen alle Arten von Spätzle.
+### Info
+Dazu passen alle Arten von Spätzle.
 
 ## Rinderfilet aus dem Ofen
 ### Zutaten (für 6 Portionen)
@@ -13128,7 +13134,6 @@ Sonnenblumenöl
 1 Rosmarinzweig
 1 Thymianzweig
 1 EL Butter
-
 Meersalzflocken, Schwarzer Pfeffer
 
 ### Zubereitungszeit
@@ -13236,7 +13241,8 @@ Bohnenpaste in den Wok oder due Pfanne geben und ½ Minute braten. 1 EL Reiswein
 Schalenteile der Bohnenpaste mit einem Schaumlöffel aus der Brühe fischen. Chinakohl und Schnittknoblauch in die Brühe geben und 2 Minuten kochen lassen. Herausnehmen und beiseitestellen. Die Hitze si weit reduzieren, dass die Brühe nur noch schwach kocht.
 Die Fleischscheiben nacheinander rasch in den Wok geben. Fleisch 1 – 2 Minuten garen, bis es nicht mehr rot ist. Dabei immer leicht rühren. Die Brühe verdickt sich dabei. Mit dem Gemüse mischen und auf einen Servierteller geben. Gehackte Chilischoten und Pfefferkörner streuen.
 
-Info:	Das Rindfleisch ist ein berühmtes Gericht der Sezchuan-Küche mit langer Tradition. Ursprünglich stammt es aus Zigong, einem Ort, der dafür bekannt war, dass man dort Brunnensalz gewann. Für diese schwere Arbeit, von Menschen und Arbeitstieren verrichtet, brauchte man nahrhaftes Essen. Und da man durch die Salzgewinnung zu einigem Reichtum gekommen war, konnte man es sich leisten, das wertvolle Fleisch der Rinder zu essen. So lernte an, dieses köstliche Fleischgericht zuzubereiten.
+### Info
+Das Rindfleisch ist ein berühmtes Gericht der Sezchuan-Küche mit langer Tradition. Ursprünglich stammt es aus Zigong, einem Ort, der dafür bekannt war, dass man dort Brunnensalz gewann. Für diese schwere Arbeit, von Menschen und Arbeitstieren verrichtet, brauchte man nahrhaftes Essen. Und da man durch die Salzgewinnung zu einigem Reichtum gekommen war, konnte man es sich leisten, das wertvolle Fleisch der Rinder zu essen. So lernte an, dieses köstliche Fleischgericht zuzubereiten.
 
 ## Geschmorte Rinderbrust mit Kokosreis
 ### Zutaten (für 3 Portionen)
@@ -13372,7 +13378,8 @@ Die Zwiebeln schälen und in feine Ringe schneiden. Ringe von 3 Zwiebeln in 1 EL
 Die restlichen Zwiebelringe mit Mehl bestäuben und in heißem Öl 3 – 4 Minuten goldbraun frittieren. Auf Küchenkrepp abtropfen lassen.
 Die Rostbratscheiben auf Tellern anrichten. Den ausgetretenen Fleischsaft in die Sauce rühren, die Sauce abschmecken, über das Fleisch gießen und mit frittierten Zwiebelringen servieren.
 
-Info:	Als Beilage passen Spätzle, Kartoffelgratin oder Salat und Brot.
+### Info
+Als Beilage passen Spätzle, Kartoffelgratin oder Salat und Brot.
 
 ## Zwiebelrostbraten „Zwiebelroschtbrota“
 ### Zutaten (für 4 Portionen)
@@ -13496,7 +13503,6 @@ Apfelscheiben in Zucker karamellisieren, Rosinen dazugeben und flambieren.
 ¼-3/8 l Rotweinessig
 2 Lorbeerblätter
 2 EL schwarze Pfefferkörner
-
 Schwarzer Pfeffer aus der Mühle
 2 große Zwiebeln
 250 g Kartoffeln
@@ -13700,7 +13706,8 @@ Das Eigelb mit der Crème fraîche und dem Zitronensaft verquirlen. Die Petersil
 Die Kräuterstängel und die ganze Zwiebel aus dem Topf nehmen und wegwerfen. Das Kalbfleisch und die Pilze mit dem Schaumlöffel herausheben, abtropfen lassen und abgedeckt gut warmhalten.
 Nach und nach die Fleischsauce zur Eigelbmischung geben und kräftig verquirlen. Mit Salz, Pfeffer und eventuell einigen tropfen Worcestersauce abschmecken, die Petersilie untermischen. Übers Frikassee gießen udn sofort servieren.
 
-Info:	 Als eignet sich Reis oder ganz klassisch auch die Blätterteigpastetchen. Dann wäre es richtige Ragout fin. Ein Klassiker der 70er Jahre.
+### Info
+ Als eignet sich Reis oder ganz klassisch auch die Blätterteigpastetchen. Dann wäre es richtige Ragout fin. Ein Klassiker der 70er Jahre.
 
 ## Kalbfleisch mit Quitten – Moscári me kidónia
 ### Zutaten (für 4 Portionen)
@@ -13737,7 +13744,6 @@ Geht natürlich auch mit Huhn, Schweine- oder Lammfleisch.
 2 Knoblauchzehen
 1 Bund Basilikum
 900 g Joghurt
-
 2-3 EL Zitronensaft
 1 TL Olivenöl
 Salz, Pfeffer aus der Mühle
@@ -13801,7 +13807,6 @@ Ich liebe Zitronen in der Sauce.
 4 große, dünn geschnittene Kalbsschnitzel (je etwa 180 g) (ersatzweise Schweineschnitzel)
 
 12 hauchdünne Scheiben roher Schinken (etwa 100 g)
-
 Schwarzer Pfeffer aus der Mühle
 
 12 Salbeiblätter
@@ -14447,7 +14452,8 @@ Zwiebeln schälen, in Ringe schneiden. Lammschulter in ungefähr 2 cm große Wü
 Dann mit Wein und 150 ml Wasser ablöschen. Flüssigkeit aufkochen. Die Hitze runterschalten, den Topf zudecken und alles bei mittlerer Temperatur ungefähr 1 Stunde schmoren. Das Fleisch sollte weich und zart sein.
 Am Schluss mit etwas Zitronensaft und Salz abschmecken.
 
-Info:	Als Beilage dazu passen gut Kartoffeln, vielleicht sogar gestampfte Kartoffeln, mit etwas Butter.
+### Info
+Als Beilage dazu passen gut Kartoffeln, vielleicht sogar gestampfte Kartoffeln, mit etwas Butter.
 
 ## Lammkoteletts
 ### Zutaten
@@ -14710,7 +14716,8 @@ Das Sauerkraut zubereiten und garen.
 Inzwischen das Öl erhitzen und die Rippchen von beiden Seiten kräftig anbraten. Die Brühe angießen, Wacholderbeeren, Lorbeerblatt und Nelke dazugebe. Rippchen zugedeckt bei mittlerer Hitze 30 – 40 Minuten schmoren lassen. Wenn sie gar sind, Rippchen herausnehmen und warm stellen.
 Das Sauerkraut mit 1 Kelle Fleischfond würzen. Die Stärke mit etwas Wasser anrühren und den Fond damit binden. Die Sahne angießen. Die Sauce mit Pfeffer, bei Bedarf auch noch mit Salz abschmecken. Rippchen mit Kraut und Sauce servieren. Dazu passt KaPü – Kartoffelpüree.
 
-Info:	Filderkraut ist traditionell Spitzkohl, der auf der Filderebene südlich von Stuttgart (ca. 20 km weiter südlich vom Himmel von Simon) angebaut uns hauptsächlich zu Sauerkraut verarbeitet wird. Mittlerweile wird aber meistens der klassische runde Weisskohl zur Sauerkrautherstellung genutzt.
+### Info
+Filderkraut ist traditionell Spitzkohl, der auf der Filderebene südlich von Stuttgart (ca. 20 km weiter südlich vom Himmel von Simon) angebaut uns hauptsächlich zu Sauerkraut verarbeitet wird. Mittlerweile wird aber meistens der klassische runde Weisskohl zur Sauerkrautherstellung genutzt.
 
 ## Pulled-Pork Sandwiches
 ### Zutaten (für 10 – 12 Portionen)
@@ -14804,7 +14811,6 @@ Das Fleisch in dünne Scheiben schneiden. Pfeffer und Sternanis im Mörser zu Pu
 ### Zutaten (für 6 Portionen):
 1 kg ausgelöstes Kotelettstück vom Schwein
 1 unbehandelte Zitrone (Schale)
-
 2-3 frische Rosmarinzweige
 3 Knoblauchzehen
 1 TL Fenchelsamen
@@ -14829,7 +14835,6 @@ Als Beilage zerkleinertes Gemüse und Kartoffeln in der Fettpfanne mitschmoren. 
 250 g frische Champignons
 
 4 Kalbsschnitzel (oder Schweineschnitzel) ca. 600 g
-
 2-3 EL Butter
 
 1/8 l trockener Weißwein
@@ -14845,7 +14850,8 @@ In einer großen Pfanne 1-2 EL Butter schmelzen. Das geschnetzelte Fleisch porti
 Die restliche Butter in die Pfanne geben und erhitzen. Die angehackte Zwiebel sanft andünsten, die Champignons dazugeben und anbraten. Den Weißwein und einen Teil der Sahne angießen. Die Flüssigkeit cremig einköcheln lassen.
 Die angebratenen Fleischstreifen mitsamt dem Fleischsaft untermischen. Mit Salz und Pfeffer würzen, die restliche Sahne einrühren, in etwa 5 Minuten fertiggaren. Die Petersilie fein hacken, aufstreuen und das geschnetzelte hei0 servieren.
 
-Info:	Ich mache dazu meist Reis (Reis mit Fleisch😊). Aber dazu passen auch hervorragend Rösti:
+### Info
+Ich mache dazu meist Reis (Reis mit Fleisch😊). Aber dazu passen auch hervorragend Rösti:
 
 ### Zutaten für Rösti für 4 Portionen:
 1 kg festkochende Kartoffeln
@@ -14856,7 +14862,6 @@ Kartoffeln am Vortag in der Schale kochen. Die Pellkartoffeln heiß schälen, ab
 *Für Cordon Bleu (gefüllte panierte Schnitzel):*
 
 4 große, dünn geschnittene Kalbsschnitzel (je etwa 180 g) (ersatzweise Schweineschnitzel)
-
 Schwarzer Pfeffer aus der Mühle
 1 TL Paprikapulver edelsüß
 
@@ -15133,7 +15138,6 @@ Salz, Pfeffer
 1 El Pinienkerne, geröstet
 100 ml Olivenöl
 1 Schweinefilet (250 g)
-
 2-3 EL neutrales Öl
 
 ### Zubereitungszeit
@@ -15565,7 +15569,6 @@ Fleisch auf beiden Seiten mit Salz und Pfeffer würzen. Käse auf die untere Hä
 500 g Pflanzenöl
 1 TL Sojasauce
 2 EL Reiswein
-
 ¾ l Hühnerbrühe
 1 gestrichener EL Zucker
 Salz, Pfeffer
@@ -15638,7 +15641,6 @@ Salz, Pfeffer
 30 g Lauch
 30 g gekochter Schinken
 3 Eier
-
 2-3 EL Pflanzenöl
 
 ### Zubereitungszeit
@@ -15720,7 +15722,6 @@ Den Topf fest zudecken. Am besten einen Topf mit einem vertieften Deckel verwend
 ## Gulasch
 ### Zutaten (für 4 Personen):
 2 Zwiebeln
-
 2-3 EL Butterschmalz
 750 g Rindergulasch
 1 EL Paprikapulver edelsüß
@@ -15808,7 +15809,8 @@ Den Deckel so auf den Topf legen, dass ein Spalt offen bleibt. Das Fleisch bei m
 Das Paprikapulver mit wenig kaltem Wasser glattrühren. Den Knoblauch schälen, mit Zitronenschale, Kümmel und Majoran fein hacken.
 Das Sauerkraut auf einem Sieb abtropfen lassen, in das Gulasch rühren und erhitzen. Das Paprikapulver und die gehackten Gewürze hinzufügen und das Szegediner Gulasch noch 15 Minuten ziehen lassen. Mit Salz abschmecken. Zum Anrichten mit Crème fraîche und Schnittlauchröllchen garnieren.
 
-Info:	Habe ich zum ersten Mal in Tignes beim Skifahren gegessen.
+### Info
+Habe ich zum ersten Mal in Tignes beim Skifahren gegessen.
 
 ## Szegediner Gulasch Nr. 3
 ### Zutaten (für 4 Portionen):
@@ -15874,7 +15876,8 @@ In einem Topf mit schwerem Boden das Fleisch in Butter anbraten, dabei gelegentl
 Karotten und Sellerie fein würfeln, Zwiebel in Streifen schneiden. Ebenfalls in etwas Butter im selben Topf unter Rühren anrösten.
 Das Fleisch zum Gemüse in den Topf zurückgeben. Dann mit Bier ablöschen. Lorbeer, Wacholder, je eine Prise Salz und Pfeffer dazugeben. Das Ganze zugedeckt etwa 90 Minuten lang schmoren.
 
-Info: Dazu passen am Besten Salzkartoffeln.
+### Info
+Dazu passen am Besten Salzkartoffeln.
 
 ## Blitzgulasch mit Sauerkraut
 ### Zutaten (für 2 Personen)
@@ -16015,7 +16018,6 @@ Bouquet garni (Petersilie, Thymian, Lorbeerblatt)
 4 EL Gänseschmalz
 1 Lorbeerblatt
 3 Fleischtomaten
-
 2-3 EL Semmelbrösel
 Salz, Pfeffer aus der Mühle
 
@@ -16109,7 +16111,6 @@ Kartoffelstampf mit Gurkensalat und Fleischküchlein anrichten. Mit restlichem a
 4 Scheiben Weißbrot, fein zerkleinert
 20 g Petersilie, gehackt
 1 großes Ei, verquirlt
-
 ¾ TL gemahlener Piment
 2 EL Olivenöl
 1 kleiner Knollensellerie, geschält, geviertelt und quer in 1 cm dicke Scheiben geschnitten
@@ -16191,9 +16192,7 @@ Die Fleischbällchen falls nötig unmittelbar vor dem Servieren nochmals erhitze
 2 mittelgroße Zwiebeln, fein gehackt
 20 g glatte Petersilie, fein gehackt
 3 Knoblauchzehen, zerdrückt
-
 ¾ TL gemahlener Piment
-
 ¾ TL Zimt
 60 g Berberitzen
 1 Ei
@@ -16283,7 +16282,8 @@ Für die Zwiebelringe: Schalotten schälen und in feine Ringe schneiden. Das Öl
 Für die Sauce den Speck in feine Würfel schneiden und in einer Pfanne ohne Fett auslassen, bis er knusprig ist. Mit Geflügelfond ablöschen und etwas einkochen lassen. Die Fleischküchle in Butterschmalz langsam von beiden Seiten ausbacken. Größere Versionen zusätzlich im Backofen bei 160 Grad Umluft etwa 5 Minuten backen.
 Zum Anrichten das Püree heiß auf die Mitte eines Tellers geben, Fleischküchlein draufsetzen und mit der Specksauce übergießen. Die Schalotten darüberstreuen und mit etwas frischem Kerbel garnieren.
 
-Info:	Also einmal muss man schon auf dem Oktoberfest gewesen sein. Betrunken aber muss man nicht sein 😊
+### Info
+Also einmal muss man schon auf dem Oktoberfest gewesen sein. Betrunken aber muss man nicht sein 😊
 
 ## Vier Glücks-Klöße – Si Xi Wan Zi
 ### Zutaten (für 4 Portionen)
@@ -16408,7 +16408,6 @@ Aus je 1 TL Hackfleisch Bällchen formen, diese im Mehl wenden. 3 EL Olivenöl i
 1 großes Ei
 3 Knoblauchzehen
 Salz
-
 Schwarzer Pfeffer aus der Mühle
 
 Einige Zweige frischer Oregano
@@ -16641,7 +16640,6 @@ Sesam in einen tiefen Teller geben. Bällchen darin wälzen. Öl in einer Pfanne
 1 kleine unbehandelte Zitrone
 400 ml Fleischbrühe
 Salz
-
 Schwarzer Pfeffer aus der Mühle
 
 *Für die Sauce*
@@ -16654,7 +16652,6 @@ Schwarzer Pfeffer aus der Mühle
 1/8 l trockener Weißwein
 Salz
 1 Prise Zucker
-
 Schwarzer Pfeffer aus der Mühle
 2 Eigelb
 
@@ -16767,7 +16764,8 @@ Rindfleisch aus der Marinade nehmen, flach auf einem Teller oder einer Platte au
 Öl in einem Wok oder einer heißen Pfanne erhitzen. Wieder Kochlöffelprobe. Rindfleisch vorsichtig hineingleiten lassen und 3 Minuten frittieren. Dann herausnehmen und das Öl wieder erhitzen. Das Rindfleisch noch einmal etwa 2 Minuten frittieren, bis es goldgelb und knusprig ist.
 Salat waschen und trockenschwenken. Auf eine Platte legen. Rindfleisch abtropfen lassen, in Stücke schneiden und auf dem Salat oder auf einem anderen Teller anrichten.
 
-   Info:	Speisestärke gibt es aus Getreide, Kartoffeln oder Hülsenfrüchten. In der chinesischen Küche wird Maisstärke verwendet, sie gilt als besonders bekömmlich und leicht verdaulich. Verwendet wird sie zum Marinieren von Fleisch. Es wird dadurch schön zart. Außerdem dient es natürlich zum Binden von Saucen.
+### Info
+Speisestärke gibt es aus Getreide, Kartoffeln oder Hülsenfrüchten. In der chinesischen Küche wird Maisstärke verwendet, sie gilt als besonders bekömmlich und leicht verdaulich. Verwendet wird sie zum Marinieren von Fleisch. Es wird dadurch schön zart. Außerdem dient es natürlich zum Binden von Saucen.
 
 ## Hack-Reis-Pfanne
 ### Zutaten (für 2 Personen)
@@ -17187,7 +17185,6 @@ Je eine kleine grüne und gelbe Paprikaschote
 1 EL frische Thymianblättchen
 ½ TL Chilipulver (oder Sambal Oelek)
 Salz
-
 Schwarzer Pfeffer aus der Mühle
 2 kleine Dose Kidneybohnen (etwa 800 g)
 
@@ -17524,7 +17521,8 @@ Das Ganze mit 300 ml Wildfond ablöschen und gut durchrühren. 1 l Wasser zugie�
 Das Butterschmalz in einer großen Pfanne heiß werden lassen. Die Rehrückenfilets darin von allen Seiten bei mittlerer Hitze abraten, salzen und pfeffern. Das Fleisch insgesamt 7-10 Minuten braten (je nach Dicke und Geschmack), dabei mehrmals wenden, aus der Pfanne nehmen, in Alufolie wickeln und 5 Minuten nachziehen lassen.
 Den restlichen Wildfond in die Pfanne gießen und einmal aufkochen. Die Röststoffe mit dem Fond lösen, dann zur vorbereiteten Sauce gießen. Das Fleisch schräg aufschneiden, den gesamten Saft ebenfalls zur Sauce gießen und sofort servieren.
 
-Info:	Dazu passen Spätzle ganz gut.
+### Info
+Dazu passen Spätzle ganz gut.
 
 ## Wildschweinragout
 ### Zutaten (für 4 Portionen):
@@ -17584,7 +17582,6 @@ Etwas Salz
 ½ EL mildes Chilipulver
 ½ EL scharfes Chilipulver
 5 g Kurkuma, gemahlen
-
 2-3 frische Roma-tomaten
 40 g Zucker
 30 ml Limettensaft oder Weißweinessig
@@ -17599,7 +17596,8 @@ Für die Kerala-Sauce Öl in einer Pfanne erhitzen. Erst alle Gewürze (Senf, In
 Das Einweichwasser vom Brotteig abschütten. Etwa 60 ml frisches Wasser dazugeben und mit Salz abschmecken. Zu einer glatten Paste püriere. Bei Bedarf mehr Wasser hinzufügen, sodass der Teig eine dickflüssige Konsistenz erhält. Jeweils etwas Teig in eine heiße, ungefettete Pfanne geben und anbraten, bis die Unterseite goldbraun ist.
 Etwas Kerala-Enten-Mischung auf das frische Brot geben, einrollen und heiß servieren.
 
-Info:	Aus Gunpowder. Für die vegetarische Option die Ente durch Jackfrucht ersetzen und erst ganz zum Schluss zur Soße geben, noch mal 5 Minuten kochen und gegebenenfalls mit Salz abschmecken.
+### Info
+Aus Gunpowder. Für die vegetarische Option die Ente durch Jackfrucht ersetzen und erst ganz zum Schluss zur Soße geben, noch mal 5 Minuten kochen und gegebenenfalls mit Salz abschmecken.
 
 ## Entenbrust
 ### Zutaten
@@ -17810,7 +17808,8 @@ Zum Essen die Pfannkuchen wieder voneinander lösen. Je 1 Mandarin-Pfannkuchen a
 ### Tipp
 Für das Gericht immer eine wirklich frische, artgerecht aufgezogene ente kaufen.
 
-Info:	Das Rezept ist eine etwas abgewandelte, vereinfachte Form des Originalrezeptes. In China wird diese Ente in einem speziellen Ofen zubereitet und vor dem Garen in vielen Schritten vorbereitet. Chinesische Köche, die auf Peking-ente spezialisiert sind kaufen nur Tiere mit Kopf und Innereien, deren Haut an keiner Stelle verletzt sein darf. Die Ente wird durch eine kleine Öffnung unter dem Flügel ausgenommen und kräftig massiert, damit sich die Haut etwas vom Fleisch löst. Dann bläst man zwischen Haut und Fleisch Luft (mit einer Fahrradpumpe!), damit die Haut beim Garen ganz knusprig, das Fleisch aber zart wird. Doch auch die einfache Variante schmeckt ausgezeichnet, vor allem wenn in der klassischen Verbindung mit Pfannkuchen, Frühlingszwiebeln und Sauce.
+### Info
+Das Rezept ist eine etwas abgewandelte, vereinfachte Form des Originalrezeptes. In China wird diese Ente in einem speziellen Ofen zubereitet und vor dem Garen in vielen Schritten vorbereitet. Chinesische Köche, die auf Peking-ente spezialisiert sind kaufen nur Tiere mit Kopf und Innereien, deren Haut an keiner Stelle verletzt sein darf. Die Ente wird durch eine kleine Öffnung unter dem Flügel ausgenommen und kräftig massiert, damit sich die Haut etwas vom Fleisch löst. Dann bläst man zwischen Haut und Fleisch Luft (mit einer Fahrradpumpe!), damit die Haut beim Garen ganz knusprig, das Fleisch aber zart wird. Doch auch die einfache Variante schmeckt ausgezeichnet, vor allem wenn in der klassischen Verbindung mit Pfannkuchen, Frühlingszwiebeln und Sauce.
 
 ## Gebratene Ente
 ### Zutaten (für 6 Portionen):
@@ -18159,7 +18158,6 @@ Schale von 1 Bio-Zitrone (sehr fein gehackt)
 1 Knoblauchzehe (in dünne Scheibchen geschnitten)
 2 EL Olivenöl
 1 EL Weißwein
-
 Schwarzer Pfeffer
 
 ### Zubereitung
@@ -18348,7 +18346,6 @@ Schmarren mit zwei Holzspateln grob zerzupfen. Pilze mit Salz, Pfeffer, Muskat a
 4 Maiskolben oder 2 Dosen Mais abgetropft
 2 TL Kreuzkümmelsamen, zerstoßen
 25 g Butter
-
 ¾ TL gemahlener schwarzer Pfeffer
 ½ TL Cayennepfeffer
 ½ TL Salz
@@ -18409,7 +18406,6 @@ Alle gerösteten Mandeln wieder in die Pfanne schütten, mit Salz und Paprika w�
 2 TL Cayennepfeffer
 2 TL Garam Masala
 1 TL Zucker
-
 ¾ TL Kurkuma
 2 EL Kichererbsenmehl
 
@@ -18419,7 +18415,8 @@ Die Nüsse mit dem Öl in eine große Rührschüssel geben und gründlich vermen
 Die Nüsse auf die beiden Bleche verteilen und 30 Minuten backen. Nach der Hälfte der Zeit durchrühren, damit sie gleichmäßig rösten.
 Die Nüsse aus dem Ofen nehmen und abkühlen lassen.
 
-Info:	Kleine Anekdote. Der Daily Telegraph meldete 2013, dass im Buckingham Palast der Haussegen schief hänge, weil auf mysteriöse Weise der persönliche Bombay Mix der Königin dezimiert werde. Die verärgerte Monarchin hat daraufhin beschlossen, ihre Snacks besser im Auge zu behalten 😊
+### Info
+Kleine Anekdote. Der Daily Telegraph meldete 2013, dass im Buckingham Palast der Haussegen schief hänge, weil auf mysteriöse Weise der persönliche Bombay Mix der Königin dezimiert werde. Die verärgerte Monarchin hat daraufhin beschlossen, ihre Snacks besser im Auge zu behalten 😊
 
 ## Karamellisierte Cashewkerne
 ### Zutaten (für 2 Portionen)
@@ -18695,7 +18692,6 @@ Olivenöl
 2 Knoblauchzehen
 
 Zucker
-
 2-3 EL frisch gehackte Petersilie
 
 ### Zubereitungszeit
@@ -18715,7 +18711,8 @@ Die Auberginenscheiben großzügig mit Olivenöl bestreichen und unter dem Grill
 Die Mango schälen und das Fruchtfleisch vom Kern schneiden. Die Hälften in Stücke schneiden.
 Zucker, Salz und Chiliflocken miteinander mischen. Die Mangostücke damit bestreuen oder sie in diese Zuckermischung dippen.
 
-Info:	Schmeckt interessant.
+### Info
+Schmeckt interessant.
 
 ## Eingelegte Hibiskus-Zwiebeln
 ### Zutaten
@@ -18731,7 +18728,6 @@ alle Zutaten in einer Schüssel mit ½ TL Salz mischen. Mindestens 2 Stunden ode
 ## Weiße Bohnen in rauchigem Cascabel-Chili-Öl
 ### Zutaten (für 6 Portionen)
 1 Glas große weiße Bohnen (700g) abgetropft
-
 Meersalzflocken
 
 *Für das Öl*
@@ -18843,9 +18839,7 @@ Die Paprikschoten waschen und für ca. 20 Minuten bei 180 Grad im Backofen blanc
 *Für die Papadams*
 250 g Kichererbsenmehl, plus Mehl zum Verarbeiten
 2 TL Schwarzkümmelsamen
-
 ¾ TL Gemahlener schwarzer Pfeffer
-
 ¾ TL Salz
 1 TL gemahlener Kreuzkümmel
 ½ TL Cayennepfeffer
@@ -19683,7 +19677,6 @@ Zwiebeln in feine Scheiben schneiden. Rosmarinnadeln hacken. Käse in 6 Schieben
 100 g kernlose blaue Weintrauben
 2 Stangen Staudensellerie
 150 g Roquefort
-
 Schwarzer Pfeffer
 ½ Radicchio
 2 EL Walnusskerne
@@ -19718,7 +19711,6 @@ Kekse zerbröseln, mit Mascarpone und Himbeermarmelade verrühren. Creme auf den
 2 EL Milch
 75 g Gorgonzola
 1 EL Mascarpone
-
 Schwarzer Pfeffer
 1 Stange Staudensellerie
 ½ Birne
@@ -19754,7 +19746,6 @@ Tomaten abtropfen lassen, 1 EL Öl auffangen. Spinat im Öl andünsten. Mit Salz
 ½ Packung TK-Blätterteig (3 Platten à 75 g)
 3 Zwiebeln (in Ringe geschnitten)
 1 EL Butter
-
 Schwarzer Pfeffer
 3 EL Majoranblättchen
 1 säuerlicher Apfel
@@ -19930,7 +19921,6 @@ Knoblauch, Basilikum, ½ TL Meersalz, etwas Pfeffer, Zitronensaft und Olivenöl 
 1 EL Weißweinessig
 ½ TL Zucker
 1 große Prise Salz
-
 Schwarzer Pfeffer aus der Mühle
 2 EL Rapsöl, kaltgepresst
 2 EL mildes Olivenöl
@@ -19970,7 +19960,6 @@ Kräuter waschen, trockenschleudern, Blätter von Stielen zupfen und grob hacken
 1 kleine Zehe Knoblauch
 3 EL Apfelessig
 1 große Prise Salz
-
 Schwarzer Pfeffer aus der Mühle
 4 EL Olivenöl
 2 EL Walnussöl
@@ -20215,7 +20204,6 @@ Für den Hummus:
 1 kleine Knoblauchzehe, zerstoßen
 2 Bio-Zitronen, 1 EL Schale gerieben, 3 EL Saft ausgepresst
 2 EL eiskaltes Wasser
-
 Meersalzflocken
 
 *Für die Aromate:*
@@ -20768,7 +20756,6 @@ Pinienkerne ohne Fett anrösten. Eigelb, Senf, Zitronensaft, Salz und Pfeffer in
 2 TL Zitronensaft
 1 TL Salz
 50 ml Olivenöl
-
 Schwarzer Pfeffer
 
 ### Zubereitung
@@ -20791,7 +20778,8 @@ Ca. 50 g frische Blätter von jungem Basilikum
 ### Zubereitung
 Basilikumblätter abzupfen, waschen und mit Küchenpapier abtropfen. Parmesan, Pecorino und die Knoblauchzehe in Stücke schneiden und zusammen mit den Pinienkernen, den Walnusskernen, Salz und Basilikumblätter sorgfältig zerkleinern (pürieren). Olivenöl nach und nach dazufügen und gut vermengen.
 
-Info:	Das wahre Pesto wird mit dem Mörser gemacht. Man beginnt mit dem Zerstoßen von Basilikumblättern und Knoblauch. Diese zerquetscht man, bis sie zu Brei geworden sind. Dann Pinienkerne und Salz hinzufügen und fortfahren. Nach und nach Öl dazugießen. Vervollständigt wird die Soße mit dem Käse. So habe ich es auch von den Italienern während meiner Zeit in Luxemburg gelern.
+### Info
+Das wahre Pesto wird mit dem Mörser gemacht. Man beginnt mit dem Zerstoßen von Basilikumblättern und Knoblauch. Diese zerquetscht man, bis sie zu Brei geworden sind. Dann Pinienkerne und Salz hinzufügen und fortfahren. Nach und nach Öl dazugießen. Vervollständigt wird die Soße mit dem Käse. So habe ich es auch von den Italienern während meiner Zeit in Luxemburg gelern.
 
 ## Pesto rosso
 ### Zutaten (für 4 – 5 Portionen)
@@ -20902,7 +20890,8 @@ Pfeffer
 Zur Vorbereitung zunächst die Blätter von den Stängeln der Kräuter zupfen, waschen, mit einem Küchentuch trocken tupfen und grob hacken. Den Parmesan fein reiben. Die Sonnenblumenkerne in einer Pfanne ohne Fett ein paar Minuten lang anrösten, sie dabei nicht dunkel werden lassen. alle Zutaten in eine hohe Schüssel geben und mit dem Pürierstab zu einer Masse zerkleinern.
 Das Pesto kann man zu Spaghetti essen, zu gegrilltem Fleisch oder Fisch (also ich aber nicht). Am besten lässt sich das Dressing aber für eine Kartoffelsalat verwenden. Dazu die Kartoffeln mit Schale kochen, dann schälen und in Scheiben schneiden. In einer Salatschüssel das Pesto umrühren und alles eine Weile ziehen lassen. Dazu wachsweiche Eier servieren.
 
-Info:	In eine Frankfurter Soße darf niemals Dill. Ist eine Frage der Ehre!
+### Info
+In eine Frankfurter Soße darf niemals Dill. Ist eine Frage der Ehre!
 
 ## Kräuter-Pesto
 ### Zutaten (für 4 Portionen)
@@ -21035,7 +21024,8 @@ Einige Petersilienblätter
 ### Zubereitung
 In einem mittelgroßen Topf Öl, Tomaten und das in kleine Stücke geschnittene Gemüse außer der Petersilie und dem Basilikum, Salz und Zucker vermischen. Deckel aufsetzen und alles für 30 Minuten bei sehr niedriger Temperatur köcheln. Ab und zu umrühren. Topf vom Herd nehmen und Soße abkühlen lassen. Püriere. Mit Salz und Zucker abschmecken.
 
-Info:	Diese Sauce ist in der Toskana die Königin der Saucen. Wenn man sie zubereitet, dann in großen Mengen, um sie aufzubewahren und bei jeder Gelegenheit zur Verfügung zu haben.
+### Info
+Diese Sauce ist in der Toskana die Königin der Saucen. Wenn man sie zubereitet, dann in großen Mengen, um sie aufzubewahren und bei jeder Gelegenheit zur Verfügung zu haben.
 
 ## Tomatensauce mit Rosmarin – La Rosmarina
 ### Zutaten (für 4 – 5 Portionen)
@@ -21081,7 +21071,8 @@ Etwas Sojasoße zum Abschmecken
 ### Zubereitung
 Die äußere, trockene Schicht um die Frühlingszwiebeln entfernen. Frühlingszwiebeln erst in sehr schmale Ringe schneiden, dann noch feiner hacken. Dabei auch einen Teil des dunklen Grüns verwenden. Ingwer schälen und sehr fein hacken. Frühlingszwiebeln, Ingwer, Erdnussöl und Salz in einer Schüssel vermengen. Mit Sojasauce abschmecken.
 
-Info:	Passt zu geröstetem Gemüse, gebratenem Fleisch, Tofu, Spiegelei…
+### Info
+Passt zu geröstetem Gemüse, gebratenem Fleisch, Tofu, Spiegelei…
 
 ## Scharfe Kräutersoße „Zhug“ aus dem Jemen
 ### Zutaten (für 3 Personen):
@@ -21365,7 +21356,6 @@ Die Zwiebel fein würfeln. 1 EL Öl in einer Pfanne erhitzen, die Zwiebel darin 
 15 g Petersilie, grob gehackt
 1 kleine Knoblauchzehe, zerdrückt
 3 EL Zitronensaft
-
 Meersalzflocken
 
 ### Zubereitung
@@ -21656,7 +21646,6 @@ Zucker und Zitronensaft hinzufügen und alles bei mittlerer Hitze unter ständig
 2 EL Rapsöl
 3 TL schwarze Senfsamen
 1 Stück Ingwer (3 cm), geschält und gerieben
-
 ¾ TL Cayennepfeffer
 1 TL schwarzer Pfeffer
 1 gestrichener TL Salz
@@ -21676,7 +21665,6 @@ In ein sauberes Glas füllen.
 ½ TL gemahlene Kurkuma
 4 TL Rapsöl
 1 TL Senfsamen
-
 ¾ TL Cayennepfeffer
 
 210 Jaggery oder 160 g Vollrohrzucker
@@ -21826,7 +21814,8 @@ Alle Dals in die Pfanne geben und ohne Fett etwa 5 Minuten rösten, dabei ständ
 In die noch heiße Pfanne Kurkumapulver geben und kurz anrösten. Kurkuma in eine andere Schüssel geben und ebenfalls abkühlen lassen.
 Die abgekühlten Gewürze und Dals fein mahlen, Kurkuma hinzufügen und alles gut mischen. In einem verschließbaren Glas aufbewahren.
 
-Info:	Um Sambar herzustellen, wird das Sambar Masala mit ½ l Wasser 10 – 15 Minuten gekocht. Nach Belieben kann man Tomaten oder andere Gemüsesorten mitkochen. Das Sambar mit Salz abschmecken und z.B. zu Dosa-Pfannkuchen servieren.
+### Info
+Um Sambar herzustellen, wird das Sambar Masala mit ½ l Wasser 10 – 15 Minuten gekocht. Nach Belieben kann man Tomaten oder andere Gemüsesorten mitkochen. Das Sambar mit Salz abschmecken und z.B. zu Dosa-Pfannkuchen servieren.
 
 ## Currypulver
 ### Zutaten (für etwa 100 g):
@@ -21846,7 +21835,8 @@ Info:	Um Sambar herzustellen, wird das Sambar Masala mit ½ l Wasser 10 – 15 M
 Chilischoten mit Koriander, Senfsamen, Kreuzkümmel, Pfefferkörnern, Bockshornklee und Curryblättern fein mahlen und in eine Schüssel geben.
 Kurkuma zu der Mischung geben und gut verrühren. Das Currypulver in ein Gefäß geben und dieses fest verschließen.
 
-Info:	Currypulver ist eine Mischung aus verschiedenen Gewürzen. Die Zusammensetzung des Pulvers folgt jahrhundertealter Überlieferung und Erfahrung – dabei schwankt die Menge der einzelnen Gewürze je nach Region und Familientradition.
+### Info
+Currypulver ist eine Mischung aus verschiedenen Gewürzen. Die Zusammensetzung des Pulvers folgt jahrhundertealter Überlieferung und Erfahrung – dabei schwankt die Menge der einzelnen Gewürze je nach Region und Familientradition.
 
 `	`Dieses Currypulver stammt aus Südindien und eignet sich insbesondere für das Würzen von Dals und Gemüsegerichten
 
@@ -22027,7 +22017,8 @@ Die Feigen in einer Schüssel in der Sojasauce und 1 ½ EL Ahornsirup wenden und
 Inzwischen das Öl in einem Topf bei mittlerer Hitze erhitzen. Sobald es heiß ist, die Chilis darin 3 Minuten frittieren – umrühren, damit die Ringe nicht zusammenkleben. Die Zitronenschale hineingeben und 30 Sekunden mitfrittieren, anschließend das Ganze sofort ein eine hitzebeständige Schüssel gießen und mindestens 30 Minuten (oder über Nacht) durchziehen lassen.
 Die Rucolablätter auf einer Platte verteilen, die Feigen darauf anrichten und alles mit dem Dressing überzeihen. Löffelweise den Ricotta dazwischensetzen, mit dem würzigen Öl, den Chiliringen und der Zitronenschale garnieren und servieren.
 
-Info:	Das Rezept dauert etwas länger….also Obacht.
+### Info
+Das Rezept dauert etwas länger….also Obacht.
 
 ## Süßsaure Zwiebeln
 ### Zutaten (für 4 Portionen als Vorspeise):
@@ -22036,7 +22027,6 @@ Info:	Das Rezept dauert etwas länger….also Obacht.
 400 ml Granatapfelsaft
 10 g Schnittlauch, in feine Röllchen geschnitten
 70 g Ziegenfrischkäse, in 2 cm große Stücke geteilt
-
 ¾ TL Chiliflocken
 Salz
 
@@ -22203,7 +22193,8 @@ In einem Topf 4 EL Öl erhitzen. Knoblauch und die Hälfte der Salbeistreifen da
 Bohnen abtropfen lassen, mit den Tomaten in den Topf geben, kräftig salzen und pfeffern. Zugedeckt etwa 20 Minuten garen.
 In einer Pfanne 1 EL Olivenöl erhitzen, restlichen Salbei andünsten. Bohnen abschmecken, mit Salbei bestreuen.
 
-Info:	Berühmt für Bohnen ist die Toskana, was man kaum glaubt.
+### Info
+Berühmt für Bohnen ist die Toskana, was man kaum glaubt.
 
 ## Feuerbohnen – Subji
 ### Zutaten (für 4 Portionen):
@@ -22219,7 +22210,6 @@ Info:	Berühmt für Bohnen ist die Toskana, was man kaum glaubt.
 6 Bananenschalotten, in dünne Steifen geschnitten
 150 g Tomaten, gehackt
 ½ TL gemahlene Kurkuma
-
 ¾ TL Salz
 ½ TL gemahlener schwarzer Pfeffer
 
@@ -22266,7 +22256,6 @@ Salz
 2 EL Gänseschmalz
 
 1/8  l trockener Weißwein (oder Brühe)
-
 Schwarzer Pfeffer
 
 4 Wacholderbeeren, zerdrückt
@@ -22332,7 +22321,6 @@ Die Kräuter vom Stiel entfernen, fein hacken und darüberstreuen. Mit Salz und 
 2 TL Kreuzkümmelsamen
 
 1,5 TL rosenscharfes Paprikapulver
-
 ¾ TL geriebene Muskatnuss
 1 EL Tomatenmark
 500 g grüne Bohnen, geputzt, schräg in 2 cm breite Stücke geschnitten
@@ -22377,7 +22365,6 @@ Vom Herd nehmen und vorsichtig Tofu und Koriandergrün unterrühren. Mit Limette
 
 8 Knoblauchzehen, geschält
 1 EL Thymianblätter
-
 ¾ TL mildes Paprikapulver
 
 ¼ TL Chiliflocken
@@ -22473,11 +22460,9 @@ Die restlichen Bohnen nach dem Abkühlen mit der Zwiebel, 2,5 EL Zitronensaft, 3
 2 EL Rapsöl
 ½ TL Kreuzkümmelsamen
 ½ TL Cayennepfeffer
-
 ¾ TL gemahlener Kreuzkümmel
 
 ¼ TL gemahlene Kurkuma
-
 ¾ TL gemahlener Koriander
 Salz
 
@@ -22538,7 +22523,8 @@ Ghee oder Butterschmalz in eine Pfanne geben. Zwiebeln hineingeben und bei mittl
 Chilipulver, Kreuzkümmel, Kurkuma und Koriander hinzufügen und bei starker Hitze etwa 1 Minute rösten. Spinat portionsweise in die Pfanne geben. Wenn er nach etwa ½ Minute zusammengefallen ist, die nächste Portion dazugeben. Reichlich Salz dazugeben. Das Gericht bei mittlerer Hitze zugedeckt etwa 15 Minuten köcheln lassen.
 Zum Schluss Sahne vorsichtig unterrühren.
 
-Info:	Das Gericht mit Chapati oder Naan servieren.
+### Info
+Das Gericht mit Chapati oder Naan servieren.
 
 ## Scharfer Spinat mit Zwiebeln
 ### Zutaten (für 4 Portionen):
@@ -22717,9 +22703,7 @@ Die Walnüsse grob hacken. Die restliche Bitter in einer Pfanne zerlassen. Die S
 5 Knoblauchzehen, in feine Scheiben geschnitten
 1 kleine Zwiebel, fein gewürfelt
 1 Zitrone, zwei Streifen Schale dünn abgeschnitten, dann 1 EL Saft ausgepresst
-
 2-3 Stängel Oregano
-
 2-3 reife Eiertomaten, in 1 cm große Würfel geschnitten
 120 g grüne Oliven, entsteint und halbiert
 5 g Basilikumblätter, grob in Stücke gezupft
@@ -22730,7 +22714,8 @@ Breitere Mangoldstiele längs halbieren (oder dritteln). In einer großen Pfanne
 Die Pfanne auswischen, 90 ml Öl darin bei mittlerer Temperatur erhitzen. Knoblauch, Zwiebel, Zitronenschale und Oregano darin 12 Minuten sanft braten, bis die Zwiebelwürfel weich und goldgelb sind, dabei immer wieder umrühren. Die Tomaten mit ½ TL Salz und 1 kräftigen Prise Pfeffer hinzufügen und garen, bis sie gerade eben beginnen, weich zu werden. Den vorgegarten Mangold sowie die Oliven unterrühren. Die Pfanne von Herd nehmen und 5 Minuten stehen lassen, damit sich die Aromen verbinden können.
 Oreganostängel und Zitronenschale entfernen. Das Gericht auf einer Platte mit höherem Rand anrichten. Mit Zitronensaft und den restlichen 2 EL öl beträufeln, mit dem Basilikum und einer kräftigen Prise Pfeffer bestreuen und servieren.
 
-Info:	Natürlich geht auch normaler Mangold, wobei der bunte Mangold wirklich hübsch aussieht. Mit Brot oder auch mit Bucatini Cacio e Pepe schmeckt das Ganze wunderbar.
+### Info
+Natürlich geht auch normaler Mangold, wobei der bunte Mangold wirklich hübsch aussieht. Mit Brot oder auch mit Bucatini Cacio e Pepe schmeckt das Ganze wunderbar.
 
 ## Auberginenauflauf – Melanzane alle Parmigiana
 ### Zutaten (für 3 Portionen):
@@ -22779,7 +22764,8 @@ Weißer Reis als Beilage
 In einem großen Topf Kokosöl zerlassen, darin in ringe geschnittenen Zwiebeln, fein gehackten Ingwer, angedrückte Knoblauchzehen du Chilipulver ungefähr 5 Minuten lang andünsten. Auberginen erst der Länge nach halbieren, dann vierteln, dann in Schnitze von ungefähr 1 cm Dicke schneiden. In den Topf geben. Dazu die in Stücke zerteilten Tomaten.
 Tamadindenpaste und Kokosmilch hinzufügen, salzen. Ungefähr 20 Minuten lang köcheln lassen. Die aus der Schale gelösten Erbsen hinzufügen, das Ganze weitere 5 Minuten lang mit geschlossenem Deckel köcheln lassen. Wenn einem die Soße zu dickflüssig erscheint, etwas Wasser dazugießen.
 
-Info:	Dazu passt weißer Reis.
+### Info
+Dazu passt weißer Reis.
 
 Tamarindenpaste wird aus der an Bäumen wachsenden Tamarinde hergestellt. In Thailand, Indien und in einigen Ländern Südamerikas wird damit gekocht. Die Paste schmeckt herbsauer, ein bisschen wie Zitrone, aber milder. Besonders gut macht sie sich in Currys. Ihr könnt im Asialaden ein Glas kaufen und in den Kühlschrank stellen, dort hält es sich viele Monate.
 
@@ -22805,7 +22791,6 @@ Tamarindenpaste wird aus der an Bäumen wachsenden Tamarinde hergestellt. In Tha
 1,5 TL Zucker
 
 ¼ TL Chiliflocken
-
 ¾ TL Paprikapulver
 2 TL Oregano, fein gehackt
 45 g entsteinte schwarze Oliven, grob zerteilt
@@ -22819,7 +22804,8 @@ In einer großen beschichteten Pfanne 2 EL Öl bei mittlerer bis hoher Temperatu
 Den Backofen auf 180 Grad (Umluft)vorheizen. Die restlichen 2 EL Öl in einer großen Pfanne bei mittlerer bis hoher Temperatur erhitzen. Den restlichen Knoblauch darin eine Minute braten, bis er duftet. Dosentomaten, Tomatenmark, Zucker, Chiliflocken, Paprikapulver, Oregano, 1 TL Salz und 1 kräftige Prise Pfeffer hinzufügen. Alles 8 Minuten kochen lassen, bis die Sauce etwas eingedickt ist, dabei gelegentlich durchrühren. 400 ml Wasser angießen. Die Sauce wieder zum Kochen bringen und bei mittlerer Hitze weitere 10 Minuten köcheln lassen.
 Die Sauce in eine ofenfeste Form geben. Die Klößchen hineingeben und 20 Minuten backen, bis die Sauce Blasen wirft. Aus dem Ofen nehmen, mit den Oliven, dem restlichen Basilikum und geriebenen Parmesan bestreuen und servieren.
 
-Info:	Der italienische Klassiker, dieses Mal in Klößchenform 😊
+### Info
+Der italienische Klassiker, dieses Mal in Klößchenform 😊
 
 ## Auberginen nach Parmigiana-Art
 ### Zutaten (für 6 Portionen)
@@ -22943,7 +22929,6 @@ Salz, Pfeffer
 2 große rote Zwiebeln, in dünne Streifen geschnitten
 2 Knoblauchzehen, zerdrückt
 1 ½ EL Honig
-
 ¾ TL Cayennepfeffer
 1 TL gemahlener Zimt
 2 EL Granatapfelsirup
@@ -22966,7 +22951,6 @@ Sobald die Auberginen zart sind, die Sauce in eine Servierschale füllen. Die Au
 1-2 Frühlingszwiebeln, geputzt und in feine Streifen geschnitten
 1,5 EL geröstete Salzmandeln, grob gehackt
 1 EL grob gehacktes Koriandergrün
-
 Meersalzflocken
 
 *Für die Salsa mit gerösteten Chilis*
@@ -23198,7 +23182,6 @@ Je 2 Zweige Rosmarin und Thymian
 ½ Bund Basilikum
 300 g Mozzarella
 1 TL fein abgerieben Bio-Zitronenschale
-
 Schwarzer Pfeffer, Meersalz
 3 EL rotes Pesto
 4 EL Olivenöl
@@ -23309,7 +23292,6 @@ Die Petersilie waschen und trocken tupfen, die Blätter abzupfen und grob hacken
 80 g Parmesan, fein gerieben, plus die Rinde des Parmesanstücks
 
 ¼ TL Speisenatron
-
 Schwarzer Pfeffer, Salz
 1 oder 2 kleine rote Chilischoten
 2 EL Apfelessig
@@ -23458,7 +23440,6 @@ Zu den Falafeln passt auch folgende Sauce: 5 grüne Chilischoten waschen, putzen
 Salz, Pfeffer
 1 EI
 3 EL Semmelbrösel
-
 2-3 EL Mehl
 1 Bio-Limette
 1 Avocado
@@ -23609,7 +23590,6 @@ Den Boden einer großen Pfanne mit Öl ausgießen und erhitzen. Die gefüllten C
 150 g Kirschtomaten
 400 g Champignons
 15 g Butter
-
 Schwarzer Pfeffer, Cayennepfeffer, Salz
 100 g Crème fraîche
 1 Eigelb
@@ -23635,7 +23615,6 @@ Die Crème fraîche mit dem Eigelb verquirlen und über die Gemüse gießen. Im 
 1 EL Korianderkörner, in Mörser grob zerstoßen
 2 EL Tomatenmark
 400 ml Olivenöl
-
 Meersalzflocken
 
 *Für das Püree*
@@ -23650,7 +23629,8 @@ Mit einem Löffel Knoblauch, Zwiebel und Chilischote aus dem Topf nehmen. Glatt 
 Während die Pize garen, für das Bohnenpüree die weißen Bohnen mit dem Zitronensaft, dem Olivenöl, ½ TL Meersalzflocken und 2 EL Wasser sehr, sehr glatt pürieren. Das Püree in einen Topf geben und bei mittlerer bis hoher Temperatur unter Rühren erwärmen, bis es durch und durch heiß ist.
 Zum Servieren das Bohnenpüree auf den Tellern verteilen. Auf jeden Teller vier Pilzhälften geben und großzügig etwas von dem Öl und den Aromaten darauflöffeln.
 
-Info:	Auch dieses Gericht habe ich schon mal gekocht. Es schmeckt fantastisch. Die Pilze sind so wunderbar und schmecken ganz anders als man von Pilzen erwartet. Und die Gäste waren echt begeistert.
+### Info
+Auch dieses Gericht habe ich schon mal gekocht. Es schmeckt fantastisch. Die Pilze sind so wunderbar und schmecken ganz anders als man von Pilzen erwartet. Und die Gäste waren echt begeistert.
 
 ## Gegrillte Portobello-Pilze
 ### Zutaten für 6 Portionen
@@ -23667,7 +23647,6 @@ Salz, Pfeffer
 
 5 Stiele Minze
 1 Römersalat
-
 2-3 EL Zitronensaft
 
 Zucker
@@ -23723,7 +23702,6 @@ Salz, Pfeffer
 
 5 Stiele Minze
 1 Römersalat
-
 2-3 EL Zitronensaft
 
 Zucker
@@ -23872,7 +23850,6 @@ Quinoa stammt wie Amaranth aus der Andenregion und ist eine alte Kulturpflanze u
 5 Knoblauchzehen, zerdrückt
 1 Stück Ingwer (3 cm), geschält und gerieben
 1 ½ grüne India-Jwala Chilischoten, entkernt und fein gehackt
-
 ¾ TL Garam Masala
 1 TL Salz
 ½ TL gemahlener schwarzer Pfeffer
@@ -23945,7 +23922,6 @@ Süßkartoffeln sind wirklich für vieles gut und immer lecker. Süßkartoffeln 
 
 ## Süßkartoffelpüree
 ### Zutaten (für 4 Portionen):
-
 2-3 Süßkartoffeln, geschält und in 2 cm große Stücke geschnitten
 40 ml Olivenöl
 2 Limetten, 1,5 TL Schale abgerieben, dann in Spalten geschnitten
@@ -23963,7 +23939,8 @@ Salz
 Die Süßkartoffeln mit ¾ TL Salz in einen kleinen Topf geben. So viel kochend heißes Wasser dazugießen, dass sie knapp bedeckt sind. Bei mittlerer bis starker Hitze 10-12 Minuten garen, bis sie so weich sind, dass man sie zerstampfen kann. Die Süßkartoffeln abgießen und gut abtropfen lassen (etwas Kochwasser auffangen, falls man für das Püree noch etwas Wasser braucht). 2 EL Öl hinzufügen und die Kartoffeln glatt zerstampfen. Etwas abkühlen lassen, dann die Hälfte der Limettenschale und 2 EL Joghurt unterzeihen. Den Süßkartoffelstampf auf eine Servierplatte geben und Mulden hineindrücken.
 Den restlichen Joghurt mit dem Knoblauch verrühren und gleichmäßig auf den Süßkartoffelstampf löffeln. Mit Granatapfelsirup und den restlichen 2 TL Öl beträufeln, dann mit Koriandergrün, Chili, Sesam, restlicher Limettenschale und einer Prise Salz bestreuen. Mit Limettenspalten servieren.
 
-   Info:	Man kann dafür auch Süßkartoffeln mit violettem Fruchtfleisch verwenden. Diese sind aber meist etwas trockener als die gelb/orangefleischigen. Und natürlich nicht so einfach zu bekommen. Passt gut zu geröstetem Fladenbrot.
+### Info
+Man kann dafür auch Süßkartoffeln mit violettem Fruchtfleisch verwenden. Diese sind aber meist etwas trockener als die gelb/orangefleischigen. Und natürlich nicht so einfach zu bekommen. Passt gut zu geröstetem Fladenbrot.
 
 ## Süßkartoffelbällchen
 ### Zutaten (für 12 Stück):
@@ -24014,7 +23991,6 @@ Das Gericht lauwarm servieren.
 1, 5 kg Süßkartoffeln (oder 1 kg Kartoffeln und 500 g Möhren)
 1 rote Chilischote
 100 g Cantuccini
-
 Schwarzer Pfeffer
 120 g Butter
 
@@ -24032,7 +24008,6 @@ Kartoffeln abgießen und mit einer Gabel oder einem Kartoffelstampfer fein zerdr
 30 g Maisgrieß (Polenta) – kann man auch weglassen
 100 ml Olivenöl
 1 EL Sumach
-
 Meersalzflocken
 
 ### Zubereitung
@@ -24075,7 +24050,6 @@ Blätter von Bohnenkraut und Petersilie abzupfen, grob hacken. Mozzarella abtrop
 6 Knoblauchzehen, zerdrückt
 1 Stück Ingwer (4 cm), geschält und gerieben
 5 EL Weißweinessig
-
 ¾ EL Cayennepfeffer
 2 mittelgroße Zwiebeln, in dünne Streifen geschnitten
 1 TL Salz
@@ -24091,7 +24065,8 @@ Die Gewürze im Mörser zerstoßen. Knoblauch, Ingwer und Essig hinzugeben und a
 In der Pfanne 3 EL Öl erhitzen und die Zwiebeln hineingeben. Unter gelegentlichem Rühren bei mittlerer Hitze 15 Minuten braten, bis sie gebräunt und karamellisiert sind. Die Gewürzpaste, Salz und Zucker hinzufügen. Einige Minuten schmoren lassen, dann die Tomaten aus der Dose in die Hand gleiten lassen und über der Pfanne zerdrücken. Die Dose zur Hälfte mit Wasser füllen und in die Pfanne leeren. Die Pfanne abdecken und die Tomatenmischung 5 Minuten köcheln lassen, danach die Süßkartoffeln hineingeben.
 Das Curry aufkochen lassen, die Temperatur reduzieren und die Pfanne wieder abdecken. Unter gelegentlichem Rühren 20 – 25 Minuten köcheln lassen, bis die Süßkartoffeln gar sind. Mit Joghurt und heißem Basmatireis servieren.
 
-Info:	In England versteht man unter einem Vindaloo ein höllisch scharfes Gericht, aber das war nicht immer so. Am Anfang stand nämlich das vinho e alhos, ein beliebtes portugiesisches Gericht, das im 16. Jahrhundert mit den portugiesischen Entdeckern nach Goa kam. Aus dem Eintopf aus Wein und Knoblauch wurde das heutige Gericht, in dem Weißweinessig und Knoblauch mit einem wärmenden Garam Masala aus Pfeffer, Nelken und Zimt kombiniert werden.
+### Info
+In England versteht man unter einem Vindaloo ein höllisch scharfes Gericht, aber das war nicht immer so. Am Anfang stand nämlich das vinho e alhos, ein beliebtes portugiesisches Gericht, das im 16. Jahrhundert mit den portugiesischen Entdeckern nach Goa kam. Aus dem Eintopf aus Wein und Knoblauch wurde das heutige Gericht, in dem Weißweinessig und Knoblauch mit einem wärmenden Garam Masala aus Pfeffer, Nelken und Zimt kombiniert werden.
 
 ## Süßkartoffeln in Tomatensauce
 ### Zutaten (für 4 Portionen):
@@ -24216,7 +24191,6 @@ Alles auf einer Platte anrichten, die Chilibutter mit den gebräunten Aromaten v
 2 große Gemüsezwiebeln, in dünne Streifen geschnitten
 6 Knoblauchzehen
 1 Stück Ingwer (6 cm), geschält
-
 ¾ TL gemahlener Kardamom
 1 TL schwarzer Pfeffer gemahlen
 2 TL Garam masala
@@ -24262,7 +24236,8 @@ Butter in einer Pfanne bei mittlerer Hitze zerlassen. Sobald sie siedet, die Zwi
 Nach 45 Minuten zur Garprobe tief in den Blumenkohl stechen. Er sollte beinahe gar, aber nicht weich sein. Die Sauce über den Blumenkohl gießen und den offenen Bräter weitere 20 Minuten in den Ofen schieben. Die Mandelsplitter in einer kleinen Pfanne bei mittlerer Hitze rösten, bis sie hellgoldgelb sind, dann beiseitestellen.
 Erneute Garprobe. Den fertigen Blumenkohl aus dem Ofen nehmen und die Sauce mit Salz, Pfeffer und Cayennepfeffer abschmecken. Den Blumenkohl mit Mandelsplitter und Koriander bestreuen und mit Reis, Dal und einem Salat servieren.
 
-Info:	Das Gericht stammt aus den königlichen Palastküchen Uttar Pradeshs, wo es gerne bei Staatsbanketten in feiner Gesellschaft und von den Mogul-Herrschern gegessen wurde. Es dient noch heute zu Repräsentationszwecken
+### Info
+Das Gericht stammt aus den königlichen Palastküchen Uttar Pradeshs, wo es gerne bei Staatsbanketten in feiner Gesellschaft und von den Mogul-Herrschern gegessen wurde. Es dient noch heute zu Repräsentationszwecken
 
 ## Eingelegter Blumenkohl mit Limette und Ingwer - Achari gobhi
 ### Zutaten (für 4 Portionen):
@@ -24309,7 +24284,6 @@ Dazu kann man auch noch einen Dip servieren: einen halben Bund Petersilie, Schni
 45 g weiche Butter
 2 EL Olivenöl
 1 Zitrone, in Spalten geschnitten zum Servieren
-
 Meersalzflocken
 
 ### Zubereitung
@@ -24319,7 +24293,8 @@ Den Backofen auf 170 Grad Umluft vorheizen.
 Die Butter mit dem Öl mischen. Den Blumenkohl mit dem Strunk nach unten in eine ofenfeste Form setzen und erst mit der Butter-Öl-Mischung besteichen und anschließend mit 1 ¼ TL Meersalzflocken bestreuen. Im heißen Ofen 1 – 2 Stunden rösten, bis er richtig weich und dunkelbraun ist du die Blätter knusprig und schwarz geworden sind; dabei fünf, sechsmal mit dem Fett beträufeln.
 Herausnehmen und für 5 Minuten beiseitestellen, dann in Spalten schneiden und mit Zitronenspalten und Salz servieren.
 
-Info: Dazu passt auch gut grüne Tahin-Sauce.
+### Info
+Dazu passt auch gut grüne Tahin-Sauce.
 
 ## Blumenkohlauflauf mit Käse und Senf
 ### Zutaten (für 4 Portionen):
@@ -24331,7 +24306,6 @@ Info: Dazu passt auch gut grüne Tahin-Sauce.
 1 TL mittelscharfes Currypulver
 1 TL Senfpulver
 2 grüne Chilischoten, entkernt und fein gewürfelt
-
 ¾ TL braune Senfsamen
 120 g gereifter Cheddar, geraspelt
 15 g frische Weißbrotbrösel
@@ -24516,7 +24490,6 @@ Minzblätter von den Stielen zupfen. Hummus in eine Schüssel geben, mit dem res
 ½ TL gemahlener Ingwer
 1 Prise Cayennepfeffer
 6 (ungeschwefelte), getrocknete Aprikosen (gehackt)
-
 2-3 EL Ghee (Butterschmalz), Kokosfett oder Olivenöl zum Braten
 
 *Für das Dal:*
@@ -24560,7 +24533,6 @@ Salz
 2 große Gemüsezwiebeln, in dünne Scheiben geschnitten
 6 Knoblauchzehen
 1 Stück Ingwer (6 cm), geschält
-
 ¾ TL gemahlener Kardamon
 1 TL gemahlener schwarzer Pfeffer
 2 TL Garam Masala
@@ -24683,7 +24655,6 @@ Als Beilage passen Pellkartoffeln oder Kartoffelpüree. Man kann das Gratin auch
 750 g Brokkoliröschen
 220 g Frischkäse
 1 TL gemahlener schwarzer Pfeffer
-
 ¾ TL gemahlener Kardamom
 1 TL salz
 
@@ -24748,9 +24719,7 @@ Den Topf, in dem die Erdnüsse gebraten wurden, bei hoher Temperatur erneut erhi
 3 EL Olivenöl
 2 säuerliche Äpfel
 1 Bio-Zitrone
-
 Meersalzflocken
-
 Schwarzer Pfeffer
 
 Für das Dressing:
@@ -24761,7 +24730,8 @@ Für das Dressing:
 Die Brokkolistangen auf einem Backblech ausbreiten, mit zwei Esslöffel Olivenöl beträufeln und vermengen. Die Äpfel entkernen und vierteln, mit einem Esslöffel Olivenöl in einer Schüssel vermengen. Zitrone heiß abwaschen, in sechs Spalten schneiden und zusammen mit den Apfelspalten zwischen den Brokkoli verteilen. Alles mit ein wenig Salz und Pfeffer würzen und a. 10 bis 15 Minuten ohne Wenden im Ofen bei 200 Grad (ober-/Unterhitze) rösten, bis der Brokkoli goldbraun und zart ist.
 Für das Dressing Olivenöl mit Zitronensaft und Senf in einer Schale verrühren und über Brokkoli und Äpfel träufeln. Auf Tellern verteilen und alles mit etwas Saft aus den geröstetes Zitronenspalten bespritzen. Dazu passt als Beilage Butterreis.
 
-Info:	Seit einiger Zeit findet man im Herbst immer häufiger Wilden Brokkoli im Gemüseregal. Auf den ersten Blick sehen die länglichen Stangen mit eher kleinen Röschen aus wie der ungekämmte kleine Bruder der bekannten grünen Strünke. Tatsächlich aber sind sie das Produkt einer Züchtung, bei der klassischer Brokkoli mit der chinesischen Kohlsorte Kai-lan gekreuzt wurde. Dieser Baby-Brokkoli wird unter Namen wie Bimi oder Brokkolini angeboten. Egal ob Baby oder wild, die zarten Pflänzchen schmecken viel aromatischer und nussiger als ihre klassischen Vorfahren. Und weil praktisch kein Verschnitt anfällt, genügt es, sie einfach abzuwaschen und das Stangenende abzuschneiden.
+### Info
+Seit einiger Zeit findet man im Herbst immer häufiger Wilden Brokkoli im Gemüseregal. Auf den ersten Blick sehen die länglichen Stangen mit eher kleinen Röschen aus wie der ungekämmte kleine Bruder der bekannten grünen Strünke. Tatsächlich aber sind sie das Produkt einer Züchtung, bei der klassischer Brokkoli mit der chinesischen Kohlsorte Kai-lan gekreuzt wurde. Dieser Baby-Brokkoli wird unter Namen wie Bimi oder Brokkolini angeboten. Egal ob Baby oder wild, die zarten Pflänzchen schmecken viel aromatischer und nussiger als ihre klassischen Vorfahren. Und weil praktisch kein Verschnitt anfällt, genügt es, sie einfach abzuwaschen und das Stangenende abzuschneiden.
 
 ## Käsetamales
 ### Zutaten (für 6 Tamales)
@@ -24783,7 +24753,8 @@ Aus Backpapier sechs Rechtecke (etwa 25x16 cm) schneiden. Mit dünn eingeölten 
 In einem großen Topf mit Dämpfeinsatz reichlich Wasser bei starker Hitze zum Kochen bringen. Die Tamales mit der Nahtseiten nach unten in einen Dämpfeinsatz legen. Den Deckel auflegen und die Tamales bei mittlerer Hitze 30 Minuten dämpfen. Vor dem Auswickeln einige Minuten abkühlen lassen.
 Die Tamales anrichten, mit Chiliöl beträufeln und servieren. Dazu passt immer ein Salat, aber auch Hibiskus-Zwiebeln und warme Salsa.
 
-Info:	Ein mexikanisches Gericht, das nicht ein Taco ist.
+### Info
+Ein mexikanisches Gericht, das nicht ein Taco ist.
 
 ## Maisauflauf mit Speck
 ### Zutaten (für 4 Portionen)
@@ -25167,7 +25138,6 @@ Wenn man will dann ein Curryblatt-Tarka herstellen: 2 EL Öl in einer kleinen Pf
 ¼ TL Bockshornkleesamen
 2 TL Koriandersamen
 1 ½ TL Kreuzkümmelsamen
-
 ¾ TL Senfsamen
 
 12 – 15 frische Curryblätter
@@ -25228,7 +25198,8 @@ Fruchtfleisch in etwa 3 cm große Würfel schneiden und in einer Auflaufform nic
 Die mit Alufolie abgedeckte Auflaufform in den auf 220 Grad vorgeheizten Backofen schieben. Nach 30 – 45 Minuten die Folie entfernen. Wenn der Käse zerlaufen und braun gebacken ist, kann das Gratin serviert werden.
 Dazu passt Knoblauchbaguette und Wein
 
-Info:	Das ist ein Rezept vom Kürbisfest im Mundenhof.
+### Info
+Das ist ein Rezept vom Kürbisfest im Mundenhof.
 
 ## Kürbis gefüllt mit Esskastanien, Birnen und Gorgonzola
 ### Zutaten (für 2 Portionen)
@@ -25360,7 +25331,8 @@ Die Dosentomaten mit der Flüssigkeit in eine Schüssel geben und mit einer Gabe
 In der Schmorpfanne 3 EL des abgekühlten Öls mit dem Knoblauch und ¼ TL Salz bei mittlerer Temperatur erhitzen und den Knoblauch 4 Minuten unter Rühren sanft anschwitzen, bis er weich ist und aromatisch duftet. Die Dosentomaten, 400 g frische Tomaten, die Lorbeerblätter, zwei Drittel des Basilikums, den Zucker sowie ½ TL Salz und 1 kräftige Prise Pfeffer dazugeben und bei mittlerer bis hoher Hitze 8 Minuten erhitzen. Vom Herd nehmen, das Brot und die restlichen Tomatenwürfel unterrühren und 5 Minuten durchziehen lassen. Die Lorbeerblätter wegwerfen.
 Die Pappa al Pomodoro in eine Schüssel geben und mit dem Limettensaft und 3 EL des würzigen Öls beträufeln. Vor dem Servieren mindestens 25 Minuten durchziehen lassen, sie kann auch mehrere Stunden warten. Mit der Limettenschale, den Aromaten und dem restlichen Basilikum garnieren und bei Raumtemperatur servieren.
 
-Info:	Pappa al Pomodoro ist ein toskanisches Bauerngericht, das üblicherweise aus Tomaten zubereitet wird, die zu weich für einen Salat sind, und aus Brot, das zu alt für ein Brot ist. Eine köstliche Resteverwertung. Wenn man das Gericht ein paar Stunden im Voraus vorbereitet hat, dann kommt das dem Geschmack sehr zugute. Allerdings sollte man das knusprige Topping erst kurz vor dem Servieren darauflegen.
+### Info
+Pappa al Pomodoro ist ein toskanisches Bauerngericht, das üblicherweise aus Tomaten zubereitet wird, die zu weich für einen Salat sind, und aus Brot, das zu alt für ein Brot ist. Eine köstliche Resteverwertung. Wenn man das Gericht ein paar Stunden im Voraus vorbereitet hat, dann kommt das dem Geschmack sehr zugute. Allerdings sollte man das knusprige Topping erst kurz vor dem Servieren darauflegen.
 
 ## Gefüllte Tomaten mit Ratatouille und Mozzarella
 ### Zutaten (für 4 Portionen)
@@ -25421,7 +25393,6 @@ Den Ofen auf 220 Grad (Umluft 200 Grad) vorheizen. Teig noch mal durchkneten und
 1 kg Fleischtomaten, quer in 1 cm dicke Scheiben geschnitten
 
 1,5 TL braune Senfsamen, geröstet
-
 Meersalzflocken, Pfeffer
 
 ### Zubereitung
@@ -25434,7 +25405,6 @@ Die Tomaten direkt vom Blech servieren. Mit Korianderblättern und Senfsamen bes
 ### Zutaten (für 4 Portionen als Vorspeise)
 350 g Kirschtomaten
 3 EL Olivenöl
-
 ¾ TL Kreuzkümmelsamen
 ½ TL Zucker
 3 Knoblauchzehen, in dünne Scheiben geschnitten
@@ -25444,7 +25414,6 @@ Die Tomaten direkt vom Blech servieren. Mit Korianderblättern und Senfsamen bes
 1 Bio-Zitrone, von einer Hälfte 3 Streifen Schale dünn abgeschält, von der anderen ½ TL Schale abgerieben
 350 g sehr Fester griechischer Joghurt, kühlschrankkalt
 ½ TL Chiliflocken
-
 Meersalzflocken, Pfeffer
 
 ### Zubereitung
@@ -25686,7 +25655,6 @@ Eine ofenfeste Form leicht ölen, die Tomaten hineinsetzen, das gehackte Tomaten
 ## Rote Bete mit Kaffirlimetten-Butter
 ### Zutaten (für 4 Portionen als Beilage)
 2 Bund mittelgroße rote Beten (1,2 kg) oder 8-10 schon gegarte Rote Beten (1 kg)
-
 Meersalzflocken
 
 *Für die Limettenbutter:*
@@ -25815,7 +25783,6 @@ Die Polentaplätzchen mit den roten Beten auf vier Tellern anrichten. Auf jede G
 ### Zutaten
 1 große Sellerieknolle, Wurzelansatz entfernt, gründlich abgebürstet (900 g)
 60 ml Olivenöl
-
 Meersalzflocken
 
 ### Zubereitung
@@ -25896,7 +25863,6 @@ Sellerie gründlich waschen, Wurzelansatz entfernen und die Knolle auf ein mit B
 
 1,5 TL Koriandersamen, leicht zerstoßen
 1 Zitrone, in Spalten geschnitten zum Servieren
-
 Meersalzflocken
 
 ### Zubereitung
@@ -25933,7 +25899,6 @@ Die Erbsen untermischen, gut heiß werden lassen. Mit Salz, Pfeffer, Koriander u
 1 Bund Frühlingszwiebeln (etwa 250 g)
 200 g Cabanossi (oder andere Knoblauchwurst)
 2 kleine, rotschalige Äpfel (z.B. Jonathan)
-
 2-3 EL Zitronensaft
 2 EL Öl
 
@@ -25956,9 +25921,7 @@ Die Linsen in die Pfanne geben, alles vorsichtig vermischen und kurz erhitzen. M
 60 ml Olivenöl
 2 TL heller Rohrzucker
 ½ TL fein geriebener Ingwer
-
 ¾ TL Zimt
-
 ¾ TL Kreuzkümmel
 ½ TL Cayennepfeffer
 ½ geriebene Muskatnuss
@@ -26026,7 +25989,6 @@ Geschnittenen Rotkohl einrühren, kräftig salzen und pfeffern, mit einer Prise 
 2 EL Sonnenblumenöl
 150 ml trüber Apfelsaft
 Salz
-
 ¾ EL frischer oder 1 ½ TL getrockneter Thymian
 150 g säuerlicher Apfel
 2 EL dunkle Rosinen
@@ -26123,7 +26085,8 @@ Das Öl in einer Pfanne erhitzen, die Zwiebel hineingeben und 10 Minuten anschwi
 Etwa 6 Minuten kochen, bis Rotkohl und Möhren gerade weich werden, aber noch Biss haben. Die Rotis in etwa 1 cm breite Streifen reißen und zum Gemüse geben. Mit einem Holzlöffel gut unterrühren und weitere 4 Minuten köcheln lassen. Eier in die Pfanne gleiten lassen, salzen und einige Minuten unter Rühren köcheln lassen, bis das Ei stockt, dann vom Herd nehmen.
 Mit Frühlingszwiebeln und Koriander bestreut servieren.
 
-Info:	Auf Sri Lanka machen die Köche eine riesige Show mit ihren langen, großen Messern, mit denen sie alle Zutaten rhythmisch und gekonnt klein hacken, bis sie zu einem gleichberechtigten und harmonischen Ensemble verschmelzen.
+### Info
+Auf Sri Lanka machen die Köche eine riesige Show mit ihren langen, großen Messern, mit denen sie alle Zutaten rhythmisch und gekonnt klein hacken, bis sie zu einem gleichberechtigten und harmonischen Ensemble verschmelzen.
 
 ## Karotten aus dem Ofen mit Erdnuss-Sauce
 ### Zutaten (für 2 Portionen)
@@ -26201,7 +26164,6 @@ Zum Servieren die Möhren mit den restlichen Zutaten mischen und auftischen.
 Olivenöl
 
 Chiliflocken
-
 Schwarzer Pfeffer, Salz
 Saft ½ Zitrone
 
@@ -26221,7 +26183,6 @@ Sie soll zum Schluss weich sein und dürfen an der ein oder anderen Stelle Farbe
 1 TL scharfer Senf
 60 g Mehl
 1 Prise Salz
-
 Schwarzer Pfeffer
 
 Reichlich Olivenöl
@@ -26280,7 +26241,8 @@ Die harten Spargelenden abschneiden und mit den Schalen für Suppe oder Fond aus
 Die Spargelstangen mit Küchengarn zu Bündeln von 8 – 10 Stangen zusammenbinden. So kann der Spargel leicht aus dem Sud gehoben werden (braucht man aber nicht unbedingt zu machen).
 In einem länglichen Topf Wasser mit Salz und ein wenig Zucker und Zitrone zum Kochen bringen. Die Spargel hineinlegen und vom Wasser bedeckt zugedeckt garen. Weißer Spargel braucht ca. 15 – 20 Minuten, grüner Spargel ca. 10 – 15 Minuten. Allerdings kommt es bei beiden Sorten natürlich auf die Dicke des Spargels an. Spargel kann auch senkrecht in einem hohen Spargeltopf gegart werden. Die Spitzendürfen nicht von Wasser bedeckt sein, sie garen im Dampf.
 
-   Info:	Zum Spargel passt super Sauce Hollandaise (Maggi-Päckchen) und neue Kartoffeln und ein paar Scheiben gekochter Schinken
+### Info
+Zum Spargel passt super Sauce Hollandaise (Maggi-Päckchen) und neue Kartoffeln und ein paar Scheiben gekochter Schinken
 
 ## Spargel und Radieschen aus dem Ofen
 ### Zutaten (für 2 Portionen)
@@ -26567,7 +26529,6 @@ Den Siebinhalt in eine Rührschüssel füllen. Die Knoblauchzehen aus ihrer Haut
 5 Passionfruits
 Saft von ½ Zitrone
 1 Handvoll Basilikumblätter, grob gehackt
-
 Schwarzer Pfeffer aus der Mühle
 
 ### Zubereitung
@@ -26764,7 +26725,6 @@ Eigelbe mit dem Saft von ½ Zitrone, etwa 2 EL Brühe und Salz verquirlen. In di
 1 Stück Ingwer (2 cm), geschält und fein gerieben
 1 – 2 grüne India-Jwala-Chilischoten, entkernt und in feine Streifen geschnitten
 1 TL Salz
-
 ¾ TL gemahlener schwarzer Pfeffer
 Saft von ½ Zitrone
 
@@ -26803,7 +26763,6 @@ Fett für die Förmchen
 Einige Salbeiblättchen
 3 EL Butter
 Salz
-
 Schwarzer Pfeffer aus der Mühle
 
 40g Mehl
@@ -26831,10 +26790,8 @@ In einer großen Form statt in vier kleinen Förmchen dauert das Soufflé bei 17
 50 g Mehl
 
 Frisch geriebene Muskatnuss
-
 4 Eigelb
 100 g frisch geriebener Comté-Käse (ersatzweise Gruyère)
-
 5 Eiweiß
 Salz, Pfeffer aus der Mühle
 
@@ -26913,7 +26870,8 @@ Zucker, Zimt
 Eier trennen. Eigelbe mit Mehl, Salz, Zucker und Milch glattrühren. Eiweiße steif schlagen und unter den Teig heben.
 In einer beschichteten Pfanne etwas Butterschmalz erhitzen und aus dem Teig portionsweise Pfannkuchen backen. Die fertigen Pfannkuchen mit 2 Gabeln in der Pfanne in Stücke reißen und im Backofen warm stellen, bis der Teig verbraucht ist. Kratzete mit Zucker und Zimt oder auch Puderzucker bestreuen und dazu Kompott oder Apfelmus servieren.
 
-Info:	Also, man kann auch deftige Kratzete machen (also ohne Milch, ohne Zucker) und sie zum Spargel essen. Im Übrigen nennt man das Gericht in Öschiland Kaiserschmarrn. Und der hat besonders in der Krefelder Hütte gut geschmeckt.
+### Info
+Also, man kann auch deftige Kratzete machen (also ohne Milch, ohne Zucker) und sie zum Spargel essen. Im Übrigen nennt man das Gericht in Öschiland Kaiserschmarrn. Und der hat besonders in der Krefelder Hütte gut geschmeckt.
 
 ## Dosa
 ### Zutaten (für 6 Stück)
@@ -27068,7 +27026,8 @@ Kichererbsenmehl in eine Schüssel geben und alle Gewürze und Salz daruntermisc
 Öl in einem Topf erhitzen. Das Öl ist heiß genug, wenn ein Teigtropfen sofort zischend an die Oberfläche steigt. Die Herdplatte auf mittlerer Hitze herunterschalten.
 Auberginenscheiben in den Teig tauchen und portionsweise mit einem Schaumlöffel in das heiße Fett geben- Die Pakoras jeweils 3 – 4 Minuten von beiden Seiten frittieren, bis sie goldbraun und knusprig sind. Herausnehmen und auf Küchenpapier entfetten. Heiz oder lauwarm mit Minzsauce servieren.
 
-Info:	Man kann die Pakoras auch mit anderen Gemüsesorten zubereiten. Z.B. mit in Scheiben geschnittenen Kartoffeln, Zwiebelringen oder Blumenkohlröschen.
+### Info
+Man kann die Pakoras auch mit anderen Gemüsesorten zubereiten. Z.B. mit in Scheiben geschnittenen Kartoffeln, Zwiebelringen oder Blumenkohlröschen.
 
 ## Gemüse-Pakoras
 ### Zutaten (für 4 Portionen):
@@ -27116,7 +27075,6 @@ Je 100 g süße und saure Sahne
 1 Mohrrübe
 170 g Blumenkohlröschen
 15 g Butter
-
 ¾ - 1 TL Currypulver
 
 Für die Form: Kokosfett
@@ -28106,7 +28064,8 @@ Dazu passt Reis, frittierter Blumenkohl oder Süßkartoffelspalten aus dem Ofen.
 Für das Currypulver Koriander, Cumin, Fenchel und Pfefferkörner in einer trockenen Pfanne für ein bis zwei Minuten bei leichter bis mittlerer Hitze anbraten, dabei regelmäßig umrühren. Wenn es intensiv zu duften beginnt, in eine Schüssel füllen.
 Öl in die Pfanne geben, Curryblätter und Chilischoten für 2-3 Minuten anbraten, dabei häufig umrühren. Vom Herd nehmen und abkühlen lassen, dann fein mahlen. Kurkuma dazugeben, alles vermischen und in ein Glas tun.
 
-Info:	Aus Rambutan/Sri Lanka.
+### Info
+Aus Rambutan/Sri Lanka.
 
 ## Gebratenes Gemüsecurry mit Tofu
 ### Zutaten (für 4 Portionen):
@@ -28321,7 +28280,8 @@ Die Linsen abgießen und mit Kurkuma und 1 l heißem Wasser in den Topf geben. A
 Für das Kohl-Mallum 1 EL Kokosöl in der Pfanne erhitzen und die Senfsamen hineingeben. Sobald sie zu platzen beginnen, die zurückbehaltene Zwiebelmischung dazugeben und bei mittlerer Hitze einige Minuten braten. Kohl und Kokosraspel hinzufügen und 1 Minute unter Rühren braten, dann 50 ml Wasser angießen und abdecken. Etwa 4 Minuten dämpfen, danach Limettensaft und ½ TL Salz unterrühren. Wieder Abdecken und weitere 2 Minuten dämpfen, bis der Kohl zart ist.
 Mit Reis servieren.
 
-Info:	Auf Sri Lanka nimmt man alle möglichen Blattgemüse für Mallum, von	Chrysanthemenblättern bis zu Rübenblättern.
+### Info
+Auf Sri Lanka nimmt man alle möglichen Blattgemüse für Mallum, von	Chrysanthemenblättern bis zu Rübenblättern.
 
 ## Bengalisches Kokos-Dal - cholar dal
 ### Zutaten (für 4 Portionen):
@@ -28377,7 +28337,6 @@ Kurz und knackig, ääh lecker.
 
 Rapsöl
 ½ TL Senfsamen
-
 ¾ TL Kreuzkümmelsamen
 
 4 ganze Gewürznelken
@@ -28744,7 +28703,6 @@ Inzwischen für die Linsen in einem Topf reichlich Wasser zum Kochen bringen. Di
 1 Lorbeerblatt
 
 Je 1 TL Majoran, Thymian Bohnenkraut
-
 ¾ l Brühe
 Salz, Pfeffer
 2 EL Essig
@@ -28758,7 +28716,8 @@ Mit Salz, Pfeffer und Essig abschmecken.
 ### Tipp
 1 Tasse Linsen auf 3 Tassen Wasser.
 
-Info:	Oder wenn man das Rezept vorgesungen haben will: <https://www.youtube.com/watch?v=ucu_RkQ7ImE.
+### Info
+Oder wenn man das Rezept vorgesungen haben will: <https://www.youtube.com/watch?v=ucu_RkQ7ImE.
 
 ## Graupenrisotto mit mariniertem Feta
 ### Zutaten (für 4 Portionen)
@@ -28923,7 +28882,6 @@ Salz, Pfeffer
 100 g Parmesan, gerieben
 40 g Butter und Butter für die Form
 4 EL Mehl
-
 ¾ l Milch
 
 Muskatnuss, frisch gerieben
@@ -28952,7 +28910,6 @@ Salz
 
 Etwa 1/8 l Olivenöl plus Öl für die Form
 500 g Rinderhackfleisch
-
 Schwarzer Pfeffer aus der Mühle
 2 Lorbeerblätter
 1 kg reife Tomaten (oder eine große Dose geschälte Tomaten, 800 g)
@@ -29207,7 +29164,6 @@ In der Zwischenzeit die Pilze zerkleinern, kleine Pilze können ganz bleiben. In
 
 ## Shakshuka
 ### Zutaten (für 2 Personen)
-
 2-3 kleine Zwiebeln
 1 TL Kumin
 
@@ -29243,7 +29199,6 @@ Dann die rohen Eier vorsichtig in die Sauce gleiten lassen. Bei niedriger Hitze 
 
 5 große, sehr reife Tomaten, gehackt oder 2 Dosen Tomatenstücke
 4 Eier
-
 4 Eigelb
 120 g stichfester Joghurt
 
@@ -29420,7 +29375,6 @@ Olivenöl
 1 EL Rosinen
 1 Dose geschälte Tomaten
 1 TL getrockneter Oregano
-
 2-3 EL Essig
 Salz, Pfeffer, etwas Zucker
 2 EL Mandelscheibchen oder Pinienkerne, kurz in der Pfanne geröstet
@@ -29444,7 +29398,6 @@ Bei kleiner Hitze soll das Ganze einkochen, was ungefähr 15 Minuten dauert. Die
 8 reife Tomaten (oder 400 g Tomaten aus der Dose)
 
 4 Kartoffeln
-
 2-3 getrocknete Lorbeerblätter
 
 Frisches Basilikum (oder getrockneter Oregano)
@@ -29455,7 +29408,8 @@ Die Aubergine in ca. 1,5 cm große Würfel schneiden und mit reichlich Salz best
 In einer hohen Pfanne etwas Olivenöl auf mittlerer Stufe erhitzen. Eine gepresste Knoblauchzehe (nur für den Geschmack) darin kurz anschwitzen und wieder rausnehmen. Die gewürfelten Tomaten in die Pfanne geben, anbraten und die Paprika-Zwiebel-Mischung hinzufügen. Die gesalzene Aubergine pressen, sodass das gesamte enthaltene Wasser ausgeschieden wird, kurz abwaschen, nochmals pressen, in die Pfanne geben.
 Als letztes kommen die geschälten und in kleine Würfel geschnittenen Kartoffeln und die Lorbeerblätter hinzu. Das Ganze lässt man ca. 40 Minuten auf niedriger Stufe schmoren. Zum Schluss wird das Gericht mit reichlich Basilikum verfeinert; mit Salz und Pfeffer abschmecken. Wichtig ist, dass die Zutaten nicht an der Pfanne kleben; bei Bedarf kann man etwas Gemüsebrühe oder mit mehr Olivenöl arbeiten.
 
-   Info:	Peperonata ist ein relativ einfaches Gericht und wird in Süditalien von Ort zu Ort und von Koch zu Koch unterschiedlich zubereitet. Die traditionelle Basisversion besteht nur aus Paprika, Zwiebeln und Tomaten.
+### Info
+Peperonata ist ein relativ einfaches Gericht und wird in Süditalien von Ort zu Ort und von Koch zu Koch unterschiedlich zubereitet. Die traditionelle Basisversion besteht nur aus Paprika, Zwiebeln und Tomaten.
 
 ## Gemüsepaella
 ### Zutaten (für 4 Personen)
@@ -29485,7 +29439,6 @@ Die Paella eventuell mit Salz und Pfeffer nachwürzen. Die Tomaten waschen und h
 ### Zutaten (für 4 Portionen):
 2 Frühlingszwiebeln
 2 Knoblauchzehen
-
 2-3 EL Olivenöl
 350 g Reis
 150 ml trockener Weißwein
@@ -29576,7 +29529,6 @@ Falls es keine Zitronenmelisse gibt, einfach mehr Basilikum verwenden und Zitron
 15 g Ingwer, geschält und gerieben
 1 grüne Chilischote, fein gehackt
 1 Zimtstange
-
 ¾ TL gemahlene Kurkuma
 2 Eiertomaten, geraspelt
 2 EL gehackte Korianderblätter
@@ -29632,7 +29584,6 @@ Sojasauce und Chilisauce, Limettensaft und 1 EL Wasser hinzufügen. 1 Minute rü
 1 Eigelb
 125 g Parmesan (plus etwas zum Servieren)
 75 g Mehl
-
 2-3 EL Grieß
 Salz
 
@@ -29678,7 +29629,8 @@ Das Mehl mit ½ TL Salz, 1 Prise Zucker und etwas Muskatnuss in einer Schüssel 
 In einem breiten oder länglichen, flachen Topf reichlich Salzwasser zum Kochen bringen. Die Teigrollen nicht allzu fest in die Serviette wickeln, sodass der Teig beim Garen noch etwas aufgehen kann. Die Serviettenenden mit Küchengarn locker zubinden. Die Serviettenknödel in den Topf geben und im sanft siedenden Wasser etwa 35 Minuten garen, dabei gelegentlich wenden.
 Die Knödelrollen mit dem Schaumlöffel herausheben und gut abtropfen lassen. Aus der Serviette rollen und mit einem Scharfen Messer oder einem Nylonfaden in Scheiben schneiden.
 
-   Info:	 Ich mag diese Knödel sehr. Und die Serviette sollte übrigens keine Papierserviette sein 😊
+### Info
+ Ich mag diese Knödel sehr. Und die Serviette sollte übrigens keine Papierserviette sein 😊
 
 ## Knödel
 ### Zutaten
@@ -29954,7 +29906,8 @@ Die Kartoffeln schälen, nur sauber abreiben, nicht waschen. In sehr feine Schei
 Die Eier in eine Schüssel aufschlagen und mit der Milch und der Crème double mischen. Mit einer Gabel leicht schlagen. Die Flüssigkeit über den Kartoffeln verteilen. Die restliche Bitter in Flöckchen obenauf setzen.
 Das Gratin im Backofen in etwa 45 Minuten garen. Sehr heiß servieren.
 
-Info:	Variante: mit geriebenem Gruyère bestreuen.
+### Info
+Variante: mit geriebenem Gruyère bestreuen.
 
 ## Kartoffel-Birnen-Gratin
 ### Zutaten (für 4 Portionen)
@@ -29979,7 +29932,8 @@ Die Kartoffelscheiben und die Birnenschnitze überlappend und kreisförmig in di
 Die Eier mit der Sahne verquirlen, mit Salz und Pfeffer sehr kräftig würzen. Die Salbeiblättchen in feine Streifen schneiden und untermischen. Die Eiermilch gleichmäßig über die Kartoffeln und die Birnen träufeln. Mit gefettetem Pergamentpapier abdecken. Im Backofen auf mittlerer Schiene (Gas Stufe 3) etwa 20 Min. garen.
 Pergamentpapier entfernen, das Kartoffel-Birnen-Gratin weitere 30-40 Min. backen, bis die Kartoffeln gar und goldbraun sind. Mit einem spitzen Messer prüfen, ob die Kartoffeln weich sind, die Backzeit eventuell verlängern.
 
-Info: 	Sieht immer sehr beeindruckend aus und schmeckt auch wirklich gut😊
+### Info
+Sieht immer sehr beeindruckend aus und schmeckt auch wirklich gut😊
 
 ## Kartoffel-Zwiebel Gratin - Galette lyonnaise
 ### Zutaten (für 4 Portionen):
@@ -30037,7 +29991,6 @@ Man kann auch die Hälfte der Kartoffeln durch Birnen ersetzen (Schälen, Kernge
 Salz
 200 ml Milch
 40 g Butter
-
 Schwarzer Pfeffer aus der Mühle
 
 Frisch geriebene Muskatnuss
@@ -30183,7 +30136,6 @@ Pommes mal ganz anders aber super lecker! Und mit Mayo, Paulchen 😊
 6 Knoblauchzehen, in dünne Scheiben geschnitten
 2 TL Oregano
 150 g Feta, grob zerbröckelt
-
 Meersalzflocken
 
 ### Zubereitung
@@ -30199,7 +30151,6 @@ Etwa 5 Minuten bevor die Pommes fertig sind, das Olivenöl mit dem Knoblauch in 
 1 Ei
 
 Muskatnuss (frisch gerieben)
-
 Schwarzer Pfeffer
 6 EL Öl
 Salz
@@ -30237,7 +30188,6 @@ Die Kartoffeln mit einem Schaumlöffel - der Großteil des Öls soll abtropfen �
 40 g Hartweizengrieß
 2 TL Kümmelsamen, geröstet und leicht zerstoßen
 2 EL Harissa
-
 Meersalzflocken
 
 ### Zubereitung
@@ -30264,7 +30214,8 @@ Die Kartoffeln abgießen, etwas abkühlen lassen und pellen. In dünne Scheiben 
 Das Schmalz in zwei großen Pfannen erhitzen, die weißen Zwiebeln andünsten.
 Die Kartoffelscheiben in die Pfannen gehen, mit Salz, Thymian und Pfeffer würzen, rundherum knusprig braun braten. Vorsichtig wenden, damit sie nicht zu stark zerfallen. Das Zwiebelgrün untermischen, noch kurz erhitzen.
 
-Info:	Hauchdünne, rohe Kartoffelscheibchen in heißem Butterschmalz knusprig braten.
+### Info
+Hauchdünne, rohe Kartoffelscheibchen in heißem Butterschmalz knusprig braten.
 
 ## Bratkartoffeln/Brägele
 ### Zutaten (für 2 Personen):
@@ -30766,7 +30717,8 @@ Die Kartoffeln und die Rübe schälen und der Länge nach vierteln. Beides in ei
 Die Kastanien bei sehr milder Hitze im geschlossenen Topf etwa 1 Stunde garne.
 Die Kastanien aus dem Topf nehmen. Die Kartoffel-Rüben-Schicht soll an den Wänden des Topfes haften. Sie wird nicht mitgegessen, sondern dient nur als Unterlage für die Kastanien, die auf diese Art ihr feines Aroma bewahren, da sie nicht in Kontakt mit Wasser kommen.
 
-   Info:	Im Limousin kommen Kastanien sehr häufig auf den Tisch. Sie passen zu vielen Fleischgerichten. Sie gelten, mit einer Schale Milch oder einem Glas Cidre, als Speise der Armen.
+### Info
+Im Limousin kommen Kastanien sehr häufig auf den Tisch. Sie passen zu vielen Fleischgerichten. Sie gelten, mit einer Schale Milch oder einem Glas Cidre, als Speise der Armen.
 
 ## Zigeuner-Kartoffelblech
 ### Zutaten (für 4 Portionen)
@@ -30903,7 +30855,8 @@ Die Kartoffeln waschen. Die kleinesten ganz lassen, größere halbieren oder vie
 In der Pfanne die restlichen 2 EL Öl erhitzen und die Zwiebeln bei mittlerer Hitze 10 Minuten anschwitzen, bis sie goldgelb und weich sind. Knoblauch und Ingwer hinzugeben und weitere 2 Minuten braten, dann die Tomaten unterrühren. Etwa 5 – 8 Minuten kochen lassen, bis die Sauce andickt. Fenchelsamen, Garam masala, Cayennepfeffer und Salz dazugeben, verrühren und die Cashewpaste untermischen. Einige Minuten köcheln lassen, danach etwa 300 ml Wasser hinzugießen und durchrühren.
 Die Kartoffeln wieder in die Pfanne geben, abdecken und bei schwacher Hitze weitere 10 – 15 Minuten köcheln lassen, bis sie gar sind.
 
-   Info: 	Mit Reis, Moong Dal oder Pickles servieren. Übrigens, jeder indische Bundesstaat hat sein eigenes Kartoffel-Curry.
+### Info
+Mit Reis, Moong Dal oder Pickles servieren. Übrigens, jeder indische Bundesstaat hat sein eigenes Kartoffel-Curry.
 
 ## Kartoffelcurry
 ### Zutaten (für 4 Personen als Beilage)
@@ -31512,7 +31465,8 @@ Grapefruit und Limette schälen und jeweils fein hacken. Die dabei entstehenden 
 2. Zwiebeln fein hacken, in etwas Butter ein paar Minuten lang unter Rühren andünsten. Reis hinzufügen, mitdünsten, nicht anbrennen lassen. So viel Brühe hinzugießen, dass der reis knapp bedeckt ist, die Brühe einkochen lassen. Diesen Schritt wiederholen.
 3. Kurz bevor der Reis ganz gar ist, gehackte Grapefruit und Limette und die Säfte hinzufügen. Flüssigkeit wieder einkochen lassen. Wieder Brühe angießen, wieder einkochen lassen. Wenn der reis gar ist (also weich und etwas bissfest in der Mitte), die Mascarpone hinzufügen.
 
-Info:	Dieser Risotto ist für den einsamen Corona-Winter gut geeignet, da man ihn ohnehin nicht für Gäste zubereiten würde: er schmeckt zu ungewöhnlich, nämlich recht bitter wegen der Grapefruit und dann noch ein bisschen süß und sauer, höchst verwirrend. Manchen wird er zwangsläufig nicht schmecken, und dann wird man sicher auch noch gefragt, ob man alle Regeln des Risottokochens eingehalten habe, was ihr verneinen müsst, es kommen weder Wein noch Parmesan zum Einsatz, dafür Zitrusfrüchte und Mascarpone.
+### Info
+Dieser Risotto ist für den einsamen Corona-Winter gut geeignet, da man ihn ohnehin nicht für Gäste zubereiten würde: er schmeckt zu ungewöhnlich, nämlich recht bitter wegen der Grapefruit und dann noch ein bisschen süß und sauer, höchst verwirrend. Manchen wird er zwangsläufig nicht schmecken, und dann wird man sicher auch noch gefragt, ob man alle Regeln des Risottokochens eingehalten habe, was ihr verneinen müsst, es kommen weder Wein noch Parmesan zum Einsatz, dafür Zitrusfrüchte und Mascarpone.
 
 ## Grüner Risotto mit Zitronen-Knoblauch-Soße
 ### Zutaten (für 4 Portionen):
@@ -31531,7 +31485,6 @@ Info:	Dieser Risotto ist für den einsamen Corona-Winter gut geeignet, da man ih
 80 g frisch geriebener Parmesan
 2 EL Butter
 100 g junger Spinat
-
 Schwarzer Pfeffer
 
 *Für die Gremolata*
@@ -31646,7 +31599,8 @@ Wein und Safran mischen und zugießen. Rühren, bis der Reis die gesamte Flüssi
 Vorsichtig Parmesan und Eier unterrühren, mit Salz und Pfeffer würzen. Mozzarella in 30 kleine Würfel schneiden. Die Reismasse mit feuchten Händen zu 30 walnussgroßen Kugeln formen; je einen Mozzarellawürfel in die Mitte drücken.
 Die Bälle in Paniermehl wenden. Zum Festwerden mindestens 1 Stunde kaltstellen. Einen tiefen, gusseisernen Topf zu 1/3 mit Öl füllen; auf 180 Grad erhitzen. Das Öl hat die richtige Temperatur, wenn ein Brotwürfel innerhalb von 15 Sekunden goldbraun wird. Jeweils 3-4 Bälle gleichzeitig 4-5 Minuten goldbraun frittieren. Auf Küchenpapier abtropfen lassen. Heiß servieren.
 
-Info:	Vollständig heißt das Gericht Suppli al Telefono, denn heißt serviert läuft beim Hineinbeißen die Käsefüllung in an Telefonkabel erinnernden, langen dünnen Fäden heraus.
+### Info
+Vollständig heißt das Gericht Suppli al Telefono, denn heißt serviert läuft beim Hineinbeißen die Käsefüllung in an Telefonkabel erinnernden, langen dünnen Fäden heraus.
 
 ## Gefüllte Reiskroketten - Suppli alla romana
 ### Zutaten für 30 Stück
@@ -31722,7 +31676,8 @@ Frisch gemahlener Pfeffer
 Olivenöl in einem großen Topf bei niedriger Hitze warm werden lassen. Wenn das Öl zu simmern beginnt, Karotte, Staudensellerie und zwiebeln hinzufügen, salzen und etwa 20 Minuten braten, bis das Gemüse sehr zart ist. Das Hackfleisch hinzufügen, mit Pfeffer würzen und die Hitze auf mittlere bis hohe Stufe stellen. Das Fleisch etwa 10 Minuten lang braten bis es von allen Seiten gebräunt ist. Den Wein hinzufügen, umrühren und alle gebräunten Stücke vom Boden des Topfes abkratzen.  1-2 Minuten kochen, bis die Flüssigkeit verdampft ist, Die Tomaten von Hand zerdrücken und hinzufügen, zum Kochen bringen und dann die Hitze auf niedrig reduzieren. Das Ganze 1,5 – 2 Stunden köcheln lassen, bis das Fleisch sehr zart und die Soße eingedickt ist. Etwa 15 Minuten vor dem Ende die Erbsen unterrühren und alles mit Salz abschmecken.
 Abkühlen lassen und für die Arancini verwenden oder im Kühlschrank aufbewahren.
 
-Info:	Sizilien gilt als Geburtsstätte der Arancini, wo sie traditionell am 13. Dezember zum Fest der heiligen Lucia zubereitet werden. Sie erinnern optisch an Kibbeh, die Hackbällchen aus Bulgur, wahrscheinlich stammen sie aus der Zeit, als die Insel unter arabischer Herrschaft stand.
+### Info
+Sizilien gilt als Geburtsstätte der Arancini, wo sie traditionell am 13. Dezember zum Fest der heiligen Lucia zubereitet werden. Sie erinnern optisch an Kibbeh, die Hackbällchen aus Bulgur, wahrscheinlich stammen sie aus der Zeit, als die Insel unter arabischer Herrschaft stand.
 
 ## Adas Polo (Persisches Reisgericht mit Linsen und Rosinen)
 ### Zutaten (für 2 -3 Portionen):
@@ -31765,7 +31720,8 @@ Den Reis mit ¼ TL Salz und 400 ml heißem Wasser in einen Topf geben. Bei mittl
 Butter und die restlichen 2 EL Öl in einer großen beschichteten Pfanne sehr stark erhitzen. Die Zwiebeln und den zerdrückten Knoblauch darin etwa 12 Minuten braten, bis sie ein sehr dunkles Goldbraun angenommen haben, dabei nicht zu oft umrühren. Die Zwiebeln sollen ab und zu am Pfannenboden ansetzen, aber nicht anbrennen. Kastanien, schwarzen Knoblauch und Cajun-gewürz mit ½ TL Salz hinzufügen und bei mittlerer Hitze unter gelegentlichem Rühren mitbraten, bis alles kräftig gebräunt ist.
 Den Reis unterrühren, dann starke Hitze einstellen. Sobald er am Pfannenboden knusprig wird, die Brühe angießen und das Ganze noch etwa 2 Minuten köcheln lassen, bis die Flüssigkeit verdampft ist. Die Petersilie, den gebratenen Knoblauch, den Zitronensaft und das aufbewahrte Öl unter den Reis mischen.
 
-Info:	Ein Gericht aus New Orleans. Das Original ist allerdings mit Hackfleisch.
+### Info
+Ein Gericht aus New Orleans. Das Original ist allerdings mit Hackfleisch.
 
 ## Spinatreis - Spanakórizo
 ### Zutaten (für 4 Portionen):
@@ -31978,7 +31934,8 @@ Einen Liter Wasser in einem Topf zum Kochen bringen. Die Linsen waschen und mit 
 Die Zwiebeln in Würfel schneiden. Parallel 400 ml Wasser aufsetzen. Zwiebeln in dem Olivenöl goldgelb braten, am besten in einem größeren Topf. Zucker, Kreuzkümmel, Salz und Pfeffer hinzugeben. Umrühren und den ungekochten Reis dazugeben. Alles zusammen 1 Minute lang andünsten. Dann die Linsen und Knoblauch dazugeben und umrühren. 400 ml kochendes Wasser dazugießen und das Ganze mit geschlossenem Deckel auf kleiner Hitze köcheln lassen. Die Kochzeit beträgt ca. 20 Minuten bis der Reis gar ist. Den Herd ausschalten und den Topf weitere 10 Minuten zugedeckt stehen lassen.
 Die Mujadara zum Servieren in eine große Schüssel geben. Eine Esslöffel Joghurt (oder auch mehr) dazugeben und anschließend einen Teelöffel fein gehackte Minze und die in Ringe geschnittenen roten Chilischoten darüberstreuen. Für die, die es milder mögen, einfach Chili weglassen.
 
-Info:	Mujadara, ein Reisgericht mit Linsen, stammt von den Beduinen aus Israel. Sie zogen von einem Ort zum anderen, daher war es für sie immer schwierig, frisches essen mitzunehmen. Einfacher war es, einen Sack Reis und Lunsen auf ein Kamel zu packen.
+### Info
+Mujadara, ein Reisgericht mit Linsen, stammt von den Beduinen aus Israel. Sie zogen von einem Ort zum anderen, daher war es für sie immer schwierig, frisches essen mitzunehmen. Einfacher war es, einen Sack Reis und Lunsen auf ein Kamel zu packen.
 
 Traditionell wird Mujadara mit persischem Reis, grünen Linsen und frittierten Zwiebeln gekocht.
 
@@ -32116,7 +32073,6 @@ Rapsöl
 400 g reife Eiertomaten, gehackt
 
 1/3 TL Zimt
-
 ¾ TL Pfeffer
 1 ½ TL gemahlener Kreuzkümmel
 
@@ -32433,7 +32389,8 @@ Butter und Olivenöl in einer großen Pfanne erhitzen. Frühlingszwiebeln dazuge
 Spargel in die Pfanne geben. Nach 5 Minuten die Pilze und den Oregano sowie Pfeffer dazufügen. Bei mittlerer Hitze alles 15 Minuten lang dünsten. Man muss keine Flüssigkeit dazufügen, da Spargel und Pilze genügend Feuchtigkeit abgeben. Sollte das Gemüse drohen am Boden anzusetzen, kann man eine Schluck Weißwein oder Wasser dazugießen und einkochen lassen.
 Die Pasta aufsetzen und diese 3 Minuten vor Ende der Garzeit aus dem Wasser zu der Spargel-Pilz-Mischung geben. Eine oder zwei Kellen Kochwasser in die Pfanne gießen, Parmesan unterrühren, Flüssigkeit einkochen lassen. Pfanne vom Herd nehmen und die verquirlten Eierdotter unterrühren. Sofort servieren.
 
-Info:	Man könnte diese Pasta eine vegetarische Carbonara nennen, aber das klingt, als wäre Fleisch das Normale und alles, was kein Fleisch ist, wäre das andere. Etwa so, wie man lange geglaubt hat, dass eine Frau vor allem ein Nicht-Mann ist. Dabei gehören vegetarische und vegan Gerichte zu jeder Küche der Welt. Nur ist das Wissen darum in den vergangenen Jahrzehnten industrieller Fleischproduktion untergegangen, weshalb man heute meint, es sei unsrer „Tradition“, ohne Sinn und Verstand Fleisch in uns hineinzustopfen. Diese Pasta ist also keine vegetarische Carbonara, obwohl sie sich wie die Carbonara die genialen Eigenschaften des rohen Eidotters zunutze macht. Es wird zum Schluss dazugemischt und lässt das Ganze zu einer cremigen, üppigen Angelegenheit werden.
+### Info
+Man könnte diese Pasta eine vegetarische Carbonara nennen, aber das klingt, als wäre Fleisch das Normale und alles, was kein Fleisch ist, wäre das andere. Etwa so, wie man lange geglaubt hat, dass eine Frau vor allem ein Nicht-Mann ist. Dabei gehören vegetarische und vegan Gerichte zu jeder Küche der Welt. Nur ist das Wissen darum in den vergangenen Jahrzehnten industrieller Fleischproduktion untergegangen, weshalb man heute meint, es sei unsrer „Tradition“, ohne Sinn und Verstand Fleisch in uns hineinzustopfen. Diese Pasta ist also keine vegetarische Carbonara, obwohl sie sich wie die Carbonara die genialen Eigenschaften des rohen Eidotters zunutze macht. Es wird zum Schluss dazugemischt und lässt das Ganze zu einer cremigen, üppigen Angelegenheit werden.
 
 ## Pasta mit Spargel und frischen Erbsen
 ### Zutaten (für 2-3 Portionen):
@@ -32463,7 +32420,6 @@ Salz
 450 g grüner Spargel
 
 Ein paar Blättchen Basilikum
-
 Schwarzer Pfeffer
 70 g Parmesan
 
@@ -32651,7 +32607,8 @@ Die Pinienkerne ohne Fett in einer Pfanne rösten. Grünkohl waschen, von den St
 Chili und Knoblauch in dünne Scheiben schneiden und in einer Pfanne mit Olivenöl kurz anbraten. Zwiebel fein würfeln und mitdünsten, den Grünkohl dazugeben. Mit Gemüsebrühe ablöschen, aufkochen und mit Salz, Pfeffer und frisch geriebener Muskatnuss würzen. 5 Minuten bei mittlerer Hitze schmoren.
 Inzwischen Penne nach Packungsanweisung al dente kochen, abgießen, dabei etwas Nudelwasser auffangen. Die Nudeln zum Grünkohl geben und kurz noch einmal aufkochen. Falls die Soße nicht sämig genug sein sollte, etwas Nudelwasser zugeben. Zum Schluss die in Streifen geschnittenen getrockneten Tomaten zugeben, mit zerbröselten Ziegenfrischkäse und Pinienkernen bestreuen.
 
-Info:	In Deutschland glaubt man häufig, Grünkohl sei eine heimische Spezialität. Grünkohl mit Pinkel, das klingt deutsch und bodenständig. Kanzler und Präsidenten aber auch wir ließen sich/uns als „Kohlkönige“ ehren. Doch schon in der Antike kultivierten Griechen und Römer das robuste Gewächs. Und natürlich hat es nach ein paar Jahrtausenden Kochgeschichte auch Nordamerika, Afrika und sogar im brasilianischen Nationaleintopf Feijoda seinen Platz. Die überwältigende Liste der Inhaltsstoffe hat Grünkohl mittlerweile zum Superfood gemacht, er wird roh oder als – recht teures – Pulver in Smoothies verrührt.
+### Info
+In Deutschland glaubt man häufig, Grünkohl sei eine heimische Spezialität. Grünkohl mit Pinkel, das klingt deutsch und bodenständig. Kanzler und Präsidenten aber auch wir ließen sich/uns als „Kohlkönige“ ehren. Doch schon in der Antike kultivierten Griechen und Römer das robuste Gewächs. Und natürlich hat es nach ein paar Jahrtausenden Kochgeschichte auch Nordamerika, Afrika und sogar im brasilianischen Nationaleintopf Feijoda seinen Platz. Die überwältigende Liste der Inhaltsstoffe hat Grünkohl mittlerweile zum Superfood gemacht, er wird roh oder als – recht teures – Pulver in Smoothies verrührt.
 
 Lange hieß es, die Pflanze brauche vor der Ernte Frost, um einen milden Geschmack zu erlangen. Das ist widerlegt. Es reicht schon, wenn es eine Weile kalt ist. Man miss Grünkohl auch nicht stundenlang weichkochen. Aber kurzes Dämpfen und Blanchieren macht ihn bekömmlicher, wenn man ihn als Salat oder, wie hier, angebraten mit Pasta zubereitet. Das ist schonend, und schneller geht es auch.
 
@@ -32743,7 +32700,6 @@ Olivenöl
 70 g Parmesan
 2 ganze Eier
 2 Eigelb
-
 Schwarzer Pfeffer
 250 g Tagliatelle
 1 TL gehacktes Basilikum
@@ -33414,7 +33370,8 @@ Etwas Sahne einrühren und festgebackene Speckteile mit einem Holzlöffel vom Pf
 Die restliche Sahne angießen und bei hoher Hitze 15 Minuten kochen, bis die Sauce eingedickt ist und am Löffelrücken haften bleibt. Die Frühlingszwiebeln unterrühren. Spaghetti al dente kochen.
 Die Sauce über die Pasta gießen und gut mengen. Mit Petersilie bestreuen und servieren.
 
-Info:	Ein Boscaiolo ist im Italienischen ein Holzfäller und diese waren schon immer leidenschaftliche Pilzsammler.
+### Info
+Ein Boscaiolo ist im Italienischen ein Holzfäller und diese waren schon immer leidenschaftliche Pilzsammler.
 
 ## Spaghetti mit Knoblauch
 ### Zutaten (für 4-6 Portionen)
@@ -33617,7 +33574,6 @@ In der Zutatenliste dieses Rezepts sollte noch stehen: Mut und 100 g Überwindun
 300 g Rinderhackfleisch
 1 TL Paprikapulver edelsüß
 Salz
-
 Schwarzer Pfeffer aus der Mühle
 
 1/8 l Brühe
@@ -33644,7 +33600,6 @@ Die Spaghetti abgießen, gut abtropfen lassen und mit der Sauce begießen.
 1/8 l Brühe
 500 g Spaghetti
 1 Dose Thunfisch au naturel
-
 Schwarzer Pfeffer aus der Mühle
 1 unbehandelte Zitrone
 2 EL Kapern
@@ -33714,7 +33669,8 @@ In eine Schale umfüllen, abwechselnd esslöffelweise 1/8 l Olivenöl und 50 g f
 In einem großen Topf 2-3 l Salzwasser zum Kochen bringen, Trenette darin al dente garen. 3-4 EL heißes Nudelwasser unter den Pesto mischen.
 Trenette abgießen, in einer vorgewärmten Schüssel mit ¾ der Sauce mischen. Restlichen Pesto zum Schluss darüber geben.
 
-Info:	Die Ligurier kennen drei wichtige Verwertungen für Pesto: als schwimmende Insel in einer Minestrone, als schmelzende Würze auf heißen Trenette und als Sauce zu trofie, den genuesischen Gnocchi. Der Name Pesto kommt von pestare  = zerdrücken, denn das wichtigste Werkzeug ist der Marmor-Mörser, in dem die Zutaten ganz fein zerstampft werden. Das klassische Rezept schreibt zwei Käsesorten vor: Parmesan und frischen, scharfen Pecorino. Aber es schmeckt schon sehr gut nur mit Parmesan.
+### Info
+Die Ligurier kennen drei wichtige Verwertungen für Pesto: als schwimmende Insel in einer Minestrone, als schmelzende Würze auf heißen Trenette und als Sauce zu trofie, den genuesischen Gnocchi. Der Name Pesto kommt von pestare  = zerdrücken, denn das wichtigste Werkzeug ist der Marmor-Mörser, in dem die Zutaten ganz fein zerstampft werden. Das klassische Rezept schreibt zwei Käsesorten vor: Parmesan und frischen, scharfen Pecorino. Aber es schmeckt schon sehr gut nur mit Parmesan.
 
 ## Bucatini Cacio e Pepe mit Za’atar
 ### Zutaten (für 4 Portionen):
@@ -33733,7 +33689,8 @@ In einem breiten Topf 1,3 l Wasser bei mittlerer bis starker Hitze zum Kochen br
 Die Butter in einer großen beschichteten Pfanne mit hohem Rand bei starker Hitze aufschäumen lassen, Za’atar und Pfeffer hineingeben und unter Rühren 1 Minute anrösten. Das Kochwasser dazugießen, rasch zum Sieden bringen und 5 Minuten sprudelnd kochen lassen bis die Mischung leicht reduziert ist und seidig glänzt. Die Pasta in die Pfanne geben und zügig unter die Sauce rühren. In zwei Portionen den Parmesan hineinstreuen und vor der nächsten Zugabe energisch umrühren, bis sich der Käse vollständig aufgelöst hat. Sobald sämtlicher Parmesan geschmolzen ist, den Pecorino untermischen und unter Rühren schmelzen lassen. Die Sauce sollte am Ende glatt und cremig sein.
 Die Pasta auf einer großen Platte anrichten und mit dem Öl, Majoran sowie dem restlichen Za’atar und 1 kleinen Prise Salz abrunden. SOFORT servieren.
 
-Info:	Dieses Mal müsst ihr absolut genau die Mengenangaben befolgen. Insbesondere auch das mit dem Nudelwasser, da die Stärke aus dem Wasser erfolgsentscheidend ist.
+### Info
+Dieses Mal müsst ihr absolut genau die Mengenangaben befolgen. Insbesondere auch das mit dem Nudelwasser, da die Stärke aus dem Wasser erfolgsentscheidend ist.
 
 ## Bucatini all´amatriciana
 ### Zutaten (für 4-6 Portionen)
@@ -33789,7 +33746,8 @@ Die Butter in einer Pfanne zerlassen, den Sellerie 2 Minuten unter Rühren düns
 Nudeln al dente kochen.
 Sauce bei niedriger Hitze unter ständigem Rühren langsam aufkochen. 1 Minute köcheln lassen. Die Sauce an die Nudeln geben und gut durchmischen.
 
-Info:	Immer ein gutes, schnelles und leckeres Gericht. Allerdings klappt bei mir die Sauce nicht immer: manchmal zu fest, manchmal zu krisselig… aber egal 😊
+### Info
+Immer ein gutes, schnelles und leckeres Gericht. Allerdings klappt bei mir die Sauce nicht immer: manchmal zu fest, manchmal zu krisselig… aber egal 😊
 
 ## Bucatini mit Champignon-Mascarpone
 ### Zutaten (für 2 Personen):
@@ -33917,7 +33875,6 @@ Je 1 Msp. Zimt- und Pimentpulver
 ¼ l trockener Weißwein
 40 g Butter und Butter für die Form
 4 EL Mehl
-
 ¾ l Milch
 
 Pfeffer, Salz
@@ -34177,7 +34134,6 @@ Die Knoblauchzehen schälen und von allen Seiten mit 10 EL Olivenöl goldbraun a
 50 g Sesam
 
 1-2 Schalotten
-
 2-3 EL Öl
 
 1-2 Knoblauchzehen
@@ -34359,7 +34315,6 @@ Salz, Pfeffer
 1 Handvoll Basilikum
 60 g Pinienkerne
 100 g geriebenen Pecorino (oder ähnlicher Hartkäse)
-
 2-3 EL Aceto balsamico
 200 ml Olivenöl
 
@@ -34504,7 +34459,6 @@ Mit Käse bestreut servieren.
 1 Dose Kichererbsen (400g), gut abgetropft und trocken getupft
 
 Je 2 TL scharfes geräuchertes Paprikapulver und gemahlener Kreuzkümmel
-
 ¾ EL Tomatenmark
 40 g Petersilie, grob gehackt
 2 TL abgeriebene Schale von 1 Zitrone
@@ -34521,7 +34475,8 @@ Die ersten sechs Zutaten und ½ TL Salz in einer großen Schmorpfanne mit Deckel
 In einer kleinen Schüssel Petersilie, Zitronenschale, Kapern und Oliven vermengen. Zwei Drittel der Mischung in die Pfanne geben, gefolgt von Tomaten, Zucker und Kümmel. Unter häufigem Rühren bei mäßiger bis starker Hitze 2 Minuten erhitzen. Die Orecchiette, die Brühe, ¾ TL Salz und 200 ml Wasser dazugeben und das Ganze zum Köcheln bringen. Die Hitze auf mittlere Stufe stellen und 12-14 Minuten garen, bis die Pasta al dente ist.
 Den Rest der Petersilienmischung unterrühren und die Pasta mit den restlichen 2 EL Öl beträufeln- Mit den knusprig gebratenen Kichererbsen garnieren und vor dem Servieren reichlich Pfeffer darübermahlen.
 
-Info:	Hab ich mal zu meinem Geburtstag gemacht. Kam super an. Auch bei mir 😊
+### Info
+Hab ich mal zu meinem Geburtstag gemacht. Kam super an. Auch bei mir 😊
 
 ## Orecchiette mit Salsiccia
 ### Zutaten (für 4 Personen):
@@ -34578,7 +34533,6 @@ Den Spinat und die Petersilie unter die Kichererbsen rühren – die Resthitze s
 500 g Conchiglie
 2 EL Olivenöl
 1 rote Gemüsezwiebel, in feine Ringe geschnitten
-
 2-3 Knoblauchzehen, zerdrückt
 425 g Kichererbsen aus der Dose
 80 g getrocknete Tomaten in dünne Streifen geschnitten
@@ -34598,7 +34552,8 @@ Währenddessen das Öl in einer Pfanne erhitzen und die Zwiebel weich und goldbr
 Den Knoblauch zugeben und 1 Minute dünsten. Die abgebrausten und abgetropften Kichererbsen, die getrockneten Tomaten, Zitronenschale und die Chillies dazu geben und bei hoher Hitze vollständig erwärmen. Den Zitronensaft und die Kräuter einrühren.
 Die Sauce mit der Pasta vermengen und mit Salz und Pfeffer abschmecken. Mit Parmesan bestreuen und sofort servieren.
 
-Info:	Kichererbsen, die in Italien ceci heißen, stammen ursprünglich aus der Mittelmeerregion und sind heute in Spanien, Süditalien und Nordafrika sehr beliebt. Ihr nussähnlicher Geschmack verbindet sich super mit anderen Aromen und ihre knackig frische Konsistenz passt sehr gut zu Salaten. Mit Kichererbsenmehl werden süße und pikante Kuchen gebacken.
+### Info
+Kichererbsen, die in Italien ceci heißen, stammen ursprünglich aus der Mittelmeerregion und sind heute in Spanien, Süditalien und Nordafrika sehr beliebt. Ihr nussähnlicher Geschmack verbindet sich super mit anderen Aromen und ihre knackig frische Konsistenz passt sehr gut zu Salaten. Mit Kichererbsenmehl werden süße und pikante Kuchen gebacken.
 
 ## Pappardelle mit Harissa, Oliven und Kapern
 ### Zutaten (für 4 Portionen):
@@ -34763,7 +34718,8 @@ Die Zwiebel grob hacken. Das Öl in einer gußeisernen Pfanne erhitzen und die Z
 Unterdessen die Fettucine in einem großen Topf mit sprudelndem Salzwasser al dente kochen. Abtropfen und wieder in den Topf geben.
 Die Petersilie unterrühren, und mit Salz und Pfeffer abschmecken. Die Sauce unter die Pasta heben.
 
-Info:	Diese Sauce lässt sich mit Sahne variieren. Einfach 1 Becher Sahne zusammen mit der Petersilie verrühren. Die Sauce aber nicht wieder aufkochen, da sie sonst ausflocken könnte.
+### Info
+Diese Sauce lässt sich mit Sahne variieren. Einfach 1 Becher Sahne zusammen mit der Petersilie verrühren. Die Sauce aber nicht wieder aufkochen, da sie sonst ausflocken könnte.
 
 ## Fettucine Alfredo
 ### Zutaten (für 4-6 Personen):
@@ -34881,7 +34837,6 @@ Man kann auch grüne und gelbe Tagliatelle hierzu mischen.
 300 ml Sahne
 1 Prise schwarzer Pfeffer
 500 g weiße oder grüne Tagliatelle
-
 2-3 EL frisch geriebener Parmesan
 
 Frisch gehackte Petersilie zum Bestreuen
@@ -35047,7 +35002,8 @@ Vom Teig kleine Stückchen abschneiden und zu bleistiftdünnen, etwa 5 cm langen
 Nocken portionsweise in kochendes Salzwasser geben, kurz ziehen lassen. Sobald sie an die Oberfläche steigen, mit dem Schaumlöffel herausholen, abtropfen lassen und in eine vorgewärmte Schüssel geben.
 30 g zerlassene Butter und die Hälfte des Parmesans untermischen. Die Pilzsauce eventuell mit etwas heißem Nudelwasser verdünnen und über die Nocken gießen. Restlichen Parmesan dazu servieren.
 
-Info:	Trofie sind eine Gnocchispezialität, die nur in Genua diesen Titel trägt. Die spiraligen Nocken werden meist mit Pesto serviert, aber Pilzsauce geht auch 😊
+### Info
+Trofie sind eine Gnocchispezialität, die nur in Genua diesen Titel trägt. Die spiraligen Nocken werden meist mit Pesto serviert, aber Pilzsauce geht auch 😊
 
 ## Parmesangnocchi
 ### Zutaten (für 6 Portionen):
@@ -35209,7 +35165,6 @@ Tortellini kann man auch mit gehacktem Schweinefleisch, Schinken, Wurst, Käse o
 
 1/8 l trockener Sekt (oder Weißwein)
 250 g Sahne
-
 Schwarzer Pfeffer aus der Mühle
 500 g Tortellini
 ½ Zitrone
@@ -35363,7 +35318,6 @@ Muskatnuss, Salz, Pfeffer aus der Mühle
 
 *Sonstiges*
 Salz
-
 2-3 EL Öl
 5 EL Olivenöl
 2 Eier
@@ -35643,7 +35597,8 @@ Den Backofen auf 200° vorheizen. Eine rechteckige. Feuerfeste Form im 1 EL Oliv
 Mit Nudelblättern abschließen. Die Crème fraîche mit Sahne und 2 EL Parmesan verrühren, auf die oberste Nudelschicht streichen. Mit den übrigen Mozzarellascheiben abdecken, salzen und pfeffern.
 Die Form mit Pergamentpapier abdecken und in den Backofen schieben (Gas Stufe 3). Etwa 30 Min. garen. Danach das Papier abnehmen, den restlichen Parmesan aufstreuen, mit 1 EL Olivenöl beträufeln und die Lasagne in weiteren 10 Min. knusprig überbacken.
 
-Info:	Das ist unsere Lasagne😊
+### Info
+Das ist unsere Lasagne😊
 
 ## Lasagne Variante 2
 ### Zutaten (für 8 Portionen)
@@ -35756,7 +35711,6 @@ Den Abschluss bildet Béchamelsauce mit Parmesan, darauf noch 2 EL Butter in Fl�
 
 5 Knoblauchzehen, grob gehackt
 1 Karotte, geschält und geviertelt
-
 2-3 Eiertomaten, geviertelt
 75 g Tomatenmark
 130 g Schlagsahne
@@ -36073,7 +36027,8 @@ Für die Füllung den Spinat auftauen lassen. Das Brötchen in Wasser einweichen
 Den Nudelteig auf der bemehlten Arbeitsfläche dünn ausrollen. Mit einem Teigrädchen Rechtecke von 6x12 cm ausschneiden. Auf die eine Hälfte der Teigstücke jeweils 1 EL der Füllung geben. Die Teigstücke zusammenklappen und an den Rändern festdrücken.
 Die Fleisch- oder Gemüsebrühe in einem großen Topf aufkochen. Die Maultaschen in die kochende Brühe legen und bei schwacher Hitze 12-15 Minuten ziehen lassen. Inzwischen die Zwiebeln schälen, in ringe schneiden und in der Butter goldbraun braten. Die Maultaschen auf Tellern anrichten, mit etwas Brühe begießen und die Zwiebeln darüber geben.
 
-Info:	Mmmh. Lecker, auch wenn ich eher die Maultaschen einfach von Bürger kaufe 😊.
+### Info
+Mmmh. Lecker, auch wenn ich eher die Maultaschen einfach von Bürger kaufe 😊.
 
 Übrigens:	Die Füllung besteht traditionell aus Spinat, Brät oder Hackfleisch, eurer Fantasie sind jedoch keine Grenzen gesetzt. Die Bezeichnung Maultasche kommt auf jeden Fall vom Kloster Maulbronn, 30 km (1/2 Stunde Autofahrt) von Bietigheim entfernt. Dort wollten die Mönche jedenfalls während des 30-jährigen Krieges in der Fastenzeit das Fleisch vor dem Herrgott in den Teigtaschen verstecken. Daher sagt man auch „Hergottsbescheißerle“.
 
@@ -36164,7 +36119,6 @@ Frisch geriebene Muskatnuss
 *Für die Sauce:*
 100 g durchwachsener Räucherspeck
 300 g Crème fraîche
-
 Schwarzer Pfeffer aus der Mühle
 
 Paprikapulver edelsüß
@@ -36229,7 +36183,8 @@ Für das Sauerkraut den Speck fein würfeln. Die Zwiebeln schälen und hacken. I
 Für die Schupfnudeln die Kartoffeln reiben oder durch die Presse drücken. Kartoffeln mit Mehl, eiern, Salz, Pfeffer und Muskat zu einem teig verkneten. Daraus daumengroße Nudeln formen.
 In einem großen Topf Salzwasser zum Kochen bringen. Die Schupfnudeln darin 2 Minuten kochen lassen, dann mit einem Schaumlöffel herausnehmen und abtropfen lassen. In einer Pfanne Butterschmalz erhitzen und die Nudeln darin portionsweise goldbraun braten. Sauerkraut mit Salz und Pfeffer und Zucker abschmecken. Fertig.
 
-   Info:	Bei mir klappen die Schupfnudeln nie ☹, also die selbstgemachten. Muss ich halt weiter immer welche aus dem Supermarkt kaufen. Übrigens, heißen Schupfnudeln auch Buabaspitzla😊
+### Info
+Bei mir klappen die Schupfnudeln nie ☹, also die selbstgemachten. Muss ich halt weiter immer welche aus dem Supermarkt kaufen. Übrigens, heißen Schupfnudeln auch Buabaspitzla😊
 
 ## Schupfnudeln mit Schinken-Zwiebel-Kraut
 ### Zutaten (für 4 Portionen):
@@ -36276,7 +36231,8 @@ Das Trockengemüse fein hacken. Den Lauch putzen, waschen und ebenfalls fein hac
 In einem Topf reichlich Wasser zum Kochen bringen. Sesampaste mit dem Sesamöl glattrühren. Chiliöl und Sojasauce untermischen und die Sauce in die Schüsseln verteilen.
 Nudeln im kochenden Wasser in etwa 2 Minuten garen. Dann abtropfen lassen und in die Schüsseln erteilen. Mit der Sauce mischen und eventuell mit etwas Sojasauce nachwürzen.
 
-Info:	Diese Nudeln werden oft bei Festessen serviert. Da sie ursprünglich mit der Schulterstange (chinesisch: Dan) verkauft wurden, erhielten sie den Namen Dan Dan Mian.
+### Info
+Diese Nudeln werden oft bei Festessen serviert. Da sie ursprünglich mit der Schulterstange (chinesisch: Dan) verkauft wurden, erhielten sie den Namen Dan Dan Mian.
 
 Trockengemüse wird erst getrocknet und dann in Salzlake eingelegt. Bei uns gibt es meist Senfkohl zu kaufen, der in China sehr verbreitet ist. Man kann aber auch anderes eingelegte Gemüse wie z.B. Paprikaschoten nehmen.
 
@@ -36289,7 +36245,6 @@ Trockengemüse wird erst getrocknet und dann in Salzlake eingelegt. Bei uns gibt
 1 große Bio-Orange
 60 g Zucker
 1-2 TL Speisestärke
-
 2-3 EL Holunderblütensirup
 ½ Canteloupe-Melone
 500 g Erdbeeren
@@ -36335,7 +36290,8 @@ Aus der Chili kräftig die Flüssigkeit herausdrücken. Den Stiel entfernen, die
 Die Form vorsichtig in ein tiefes Backblech stellen und in den Ofen schieben. Vorsichtig bis zur halben Höhe der Form kochendes Wasser in das Blech gießen. Den Flan 40 – 50 Minuten backen, bis er oben gestockt und goldbraun ist, aber noch ordentlich wackelt. Aus dem Wasserbad nehmen. Etwas abkühlen lassen, dann mindestens 3 Stunden oder über Nacht kaltstellen.
 Den Flan 30 Minuten vor dem Servieren aus dem Kühlschrank nehmen. Den Flan mit einem Messer vom Rand lösen. Den Flan auf einen großen Teller stürzen. Den Flan mit Mandarinensaft beträufeln und servieren.
 
-   Info:	Flan ist das traditionellste aller mexikanischen Desserts. Schmeckt übrigens super mit Blutorangen. Man kann auch andere getrocknete Chilis nehmen.
+### Info
+Flan ist das traditionellste aller mexikanischen Desserts. Schmeckt übrigens super mit Blutorangen. Man kann auch andere getrocknete Chilis nehmen.
 
 ## Crème renversée au caramel -Karamellcreme
 ### Zutaten für 4 Portionen
@@ -36365,7 +36321,6 @@ Die Creme abkühlen lassen, die Ränder mit einem Messer von der Form lösen. Di
 8 geschälte Mandelkerne
 
 1-2 EL Zucker
-
 2-3 EL Butter#1 EL Puderzucker
 
 ### Zubereitungszeit
@@ -36376,7 +36331,8 @@ Amaretti zerbröseln, mit 2-3 EL Marsala tränken. Zusammen mit 1-2 EL Zucker, 2
 Früchte in eine gebutterte feuerfeste Form setzen, mit Butterflöckchen belegen und restlichen Marsala angießen.
 Im vorgeheizten Ofen etwa 15 Minuten überbacken. Dünn mit Puderzucker bestreuen.
 
-Info:	Der Dessertwein Marsala kommt von Sizilien und wird dort nicht nur genippt, sondern auch mal mit Begeisterung in Süße und pikante Speisen gegossen. Die trockene (secco) Variante des Weines eignet sich dazu am allerbesten
+### Info
+Der Dessertwein Marsala kommt von Sizilien und wird dort nicht nur genippt, sondern auch mal mit Begeisterung in Süße und pikante Speisen gegossen. Die trockene (secco) Variante des Weines eignet sich dazu am allerbesten
 
 ## Pochierte Aprikosen mit Mascarpone
 ### Zutaten (für 4 Portionen):
@@ -36419,7 +36375,8 @@ Die Limettenblätter mit Glukose, Limettenschale und -saft sowie Wodka in einen 
 Die Masse in eine flache Gefrierbox füllen und verschließen. Das Sorbet etwa 5 Stunden tiefkühlen, bis es fest ist.
 Die restlichen Kaffirlimettenblätter (oder 1 TL abgerieben Limettenschale) mit dem Zucker mischen. Das Sorbet auf Gläser verteilen, mit etwas Zucker bestreuen und mit Limettenspalten servieren.
 
-Info:	Statt Kaffirlimettenblätter kann man auch Rooibostee nehmen. Dann statt der Limettenblätter drei Teebeutel in der warmen Glukose ziehen lassen.
+### Info
+Statt Kaffirlimettenblätter kann man auch Rooibostee nehmen. Dann statt der Limettenblätter drei Teebeutel in der warmen Glukose ziehen lassen.
 
 ## Kokoseis mit Litschi und Passionfruits
 ### Zutaten (für 6 Portionen):
@@ -36427,7 +36384,6 @@ Info:	Statt Kaffirlimettenblätter kann man auch Rooibostee nehmen. Dann statt d
 560 g Kokoscreme
 300 g Zucker
 1 TL Vanillepaste
-
 ¾ TL gemahlener Sternanis
 1 TL Meersalzflocken
 140 ml Aquafaba (die Flüssigkeit aus einer 400 g Dose Kichererbsen)
@@ -36443,7 +36399,8 @@ Das Aquafaba zu halbsteifem Schnee schlagen. Den Schnee behutsam unter die Kokos
 Den Backofen auf 160 Grad (Umluft) vorheizen. Die gesalzenen Kokos-Chips 15 Minuten rösten, bis sie goldbraun sind, dabei zweimal durchrühren. Für 10 Minuten zum Abkühlen und Festwerden beiseitestellen. Die Litschis mit dem Passionsfruchtmark und dem Limettensaft mischen.
 In sechs Dessertschalen ca. 70 g Eiscreme geben. Die Litschimischung hinzufügen und alles mit gerösteten Kokoschips garnieren.
 
-Info:	 Eis ohne Eismaschine 😊
+### Info
+ Eis ohne Eismaschine 😊
 
 ## Orientalisches Milchreiseis mit Pfirsichen und Safran
 ### Zutaten für 6 Stück
@@ -36456,7 +36413,6 @@ Info:	 Eis ohne Eismaschine 😊
 ¼ l Kokosmilch
 1 Prise Salz
 100 g Milchreis
-
 2-3 Pfirsiche (ca. 300 g geht auch mit Nektarinen)
 2 EL frisch gepresster Orangensaft (ersatzweise Wasser)
 100 g gesüßte Kondensmilch
@@ -36484,7 +36440,8 @@ Saft und Fruchtfleisch mit Zucker, Hisbiskus und 350 ml Wasser in einen Topf geb
 Die Flüssigkeit durch ein Sieb in ein weites Gefäß gießen; die Aromate wegwerfen. Die Sorbetmasse kaltstellen, bis sie vollständig ausgekühlt ist. Über Nacht einfrieren; zwei- bis dreimal durchrühren. Das Sorbet in eine Zippbeutel füllen und den Beutel verschließen. 3-4 Stunden tiefkühlen, bis die Masse fest ist, den Beutel einige Male durchkneten, um die Eiskristalle aufzubrechen.
 Die Zitronen aus dem Tiefkühlfach nehmen. Vom Zippbeutel eine Spitze abschneiden, sodass eine 2-3 cm große Öffnung entsteht. Das Sorbet so in die Zitronen spritzen, dass es 5 cm über den Rand ragt. Jeweils einen Zitronendeckel daraufsetzen und andrücken, damit er nicht verrutscht. Noch einmal mindestens 1 Stunde tiefkühlen, dann kann serviert werden.
 
-Info:	Sieht fantastisch (knallig-poppig-bunt😊) aus und schmeckt super. Hab ich schon mehrfach ausprobiert und Paulchen und ich haben es am Gartenteich im heißen Sommer genossen.
+### Info
+Sieht fantastisch (knallig-poppig-bunt😊) aus und schmeckt super. Hab ich schon mehrfach ausprobiert und Paulchen und ich haben es am Gartenteich im heißen Sommer genossen.
 
 ## Limetten-Ingwer-Posset mit Beeren und Cantuccini
 ### Zutaten für 4 Portionen:
@@ -36543,7 +36500,8 @@ Für die Crêpes 5 g Butter in einer Pfanne schmelzen und aufschäumen lassen. E
 Rum mit dem Zucker verrühren.
 Zum Servieren vier Crêpes auf Teller verteilen, jeweils ein Viertel der Bananen daraufgeben, zusammenklappen. Etwas Barbados-Creme danebensetzen, mit Rum-Zucker beträufeln und mit Mandelblättchen garnieren.
 
-Info:	Die Barbados-Creme ist extrem gefährlich: sahnig, spritzig, süß – und weil der Zucker im letzten Moment untergerührt wird – hat sie auch ein bisschen Crunch.
+### Info
+Die Barbados-Creme ist extrem gefährlich: sahnig, spritzig, süß – und weil der Zucker im letzten Moment untergerührt wird – hat sie auch ein bisschen Crunch.
 
 ## Kaffee-Vanillepudding
 ### Zutaten (für 4 Portionen):
@@ -36595,7 +36553,8 @@ Den Joghurt mit dem Salz gut verrühren. Ein Sieb mit einem Passiertuch auslegen
 50 g Brombeeren, 100 g Himbeeren und 100 g Erdbeeren mit dem Zucker und dem Limettensaft glatt pürieren. Die übrigen Früchte mit dem Beerenpüree in eine große Schüssel füllen und alles behutsam mischen.
 Zum Servieren die Joghurtmasse auf einer großen Platte verstreichen. Die Beeren darauf verteilen und mit der Limettenschale bestreuen. Das Ganze mit 2 EL Orangenöl beträufeln und mit Orangenschale und Thymian garnieren.
 
-Info:	Falls man das Abtropfen umgehen will: Einfach griechischen Joghurt mit ein wenig Crème double verrühren.
+### Info
+Falls man das Abtropfen umgehen will: Einfach griechischen Joghurt mit ein wenig Crème double verrühren.
 
 ## Erdbeer-Pistazien-Pawlowa
 ### Zutaten (für 6 Portionen):
@@ -36617,7 +36576,8 @@ Orangenblütenwasser und die Hälfte der Pistazien dazugeben. Die Meringe mit ei
 Das Blech in den Ofen schieben und die Temperatur sofort auf 100 Grad herunterstellen. Meringue zwei Stunden lang backen. Dann den Ofen ausschalten und die Meringue bei offener Ofentür auskühlen lassen.
 In der Zwischenzeit die Sahne steif schlagen. Danach rührt man vorsichtig den Vanilleextrakt und die verbliebenen 2 EL Zucker unter. Die Erdbeeren halbieren oder vierteln. Auf der Meringe erst die Sahne vorsichtig verteilen, darauf die Erdbeeren setzen, die restlichen Pistazien darüberstreuen.
 
-Info:	Anna Pawlowa Pawlowa war eine russische Balletttänzerin, die im 19. Jahrhundert geboren wurde, also in einer Zeit, in der Frauen und Süßspeise im Prinzip dasselbe waren. Deshalb wurde nach der Ballerina ein Baiser-Sahne-Törtchen benannt, mit Erdbeeren, die darauf sitzen wie Krönchen. Ich habe keine Ahnung, was für ein Dessert ich mal werden möchte 😊
+### Info
+Anna Pawlowa Pawlowa war eine russische Balletttänzerin, die im 19. Jahrhundert geboren wurde, also in einer Zeit, in der Frauen und Süßspeise im Prinzip dasselbe waren. Deshalb wurde nach der Ballerina ein Baiser-Sahne-Törtchen benannt, mit Erdbeeren, die darauf sitzen wie Krönchen. Ich habe keine Ahnung, was für ein Dessert ich mal werden möchte 😊
 
 ## Schokowaffeln
 ### Zutaten (für 6 – 8 Stück):
@@ -36997,7 +36957,8 @@ Backofen auf 200 Grad vorheizen und den Crumble darin ca. 30 Minuten backen. Daz
 Weiche Butter, Zucker, Vanillezucker und Salz schaumig rühren. Nacheinander Eier, Backpulver und Mehl unterrühren.
 Joghurt/Buttermilch zum Teig geben, dass er dünnflüssig wird. Ich finde Buttermilch am besten.
 
-Info:	Das ist der beste Waffelteig ever😊 Damals in der Clara-Grunwald seid ihr zu einer Mühle gefahren und habt dort die Waffeln verkauft. War immer gut für die Klassenkasse. Jedes Mal, wenn ich diesen Waffelteig anrühre, dann denke ich daran, was für kleine Zwerge ihr damals ward.
+### Info
+Das ist der beste Waffelteig ever😊 Damals in der Clara-Grunwald seid ihr zu einer Mühle gefahren und habt dort die Waffeln verkauft. War immer gut für die Klassenkasse. Jedes Mal, wenn ich diesen Waffelteig anrühre, dann denke ich daran, was für kleine Zwerge ihr damals ward.
 
 ## Anis-Grieß-Auflauf mit Kirschen und Mandeln
 ### Zutaten (für 8 Portionen):
@@ -37102,7 +37063,8 @@ Die Eigelbe mit dem Zucker in einer Schüssel mit dem Schneebesen hellschaumig a
 Die restliche Sahne halb steif schlagen. Ein Drittel mit dem Schneebesen unter die Schokocreme rühren, die restlichen zwei Drittel Sane vorsichtig unterheben. Die weiße Schoko-Mousse in eine Schüssel füllen und zugedeckt etwa 2 Stunden kühl stellen.
 Zum Servieren mit dem Eisportionierer oder Löffel Kugeln oder Nocken vom Mousse abstechen. Mit eingelegten Kirschen oder Himbeermark auf Dessertellern servieren.
 
-Info: 	Vorsicht rohe Eier! Am selben Tag aufessen und darauf achten, dass das Mousse immer gekühlt ist – sonst droht Salmonellenalarm!
+### Info
+Vorsicht rohe Eier! Am selben Tag aufessen und darauf achten, dass das Mousse immer gekühlt ist – sonst droht Salmonellenalarm!
 
 ## Brotkrumen-Sahne-Quark-Nachtisch
 ### Zutaten (für 4 Portionen):
@@ -37245,7 +37207,6 @@ Dazu passt gut heiße Vanillesauce.
 
 ## Erdbeereis (rausgerissenes Rezept)
 ### Zutaten (für 4 Portionen):
-
 4 Eigelb
 175 g Zucker
 1 Päckchen Vanillezucker
@@ -37453,7 +37414,6 @@ Warnung:	Unbedingt ganz frische Eier verwenden und noch am selben Tag verzehren.
 
 ## Tiramisu
 ### Zutaten (für 8 Portionen):
-
 4 Eigelb
 4 EL Zucker
 500 g Mascarpone
@@ -37574,7 +37534,8 @@ Zucker und Vanillemark verrühren. Sahne mittelfest schlagen. Vanillezucker und 
 Für die Soße Kirschen, Zucker, Rotwein (oder Wasser), Vanillemark und -schote in einen großen Topf geben und alles verrühren. Mit einem Sparschäler einen Streifen Schale von der Zitrone und der Orange abschneiden und zusammen mit dem Saft der Früchte zu den Kirschen geben. Das Ganze zum Kochen bringen und anschließend 15 bis 20 Minuten aufköcheln lassen. Die Vanilleschote sowie die Zitronen- und Orangenschale entfernen. Die Speisestärke mit etwas Wasser verrühren und unter die Kirschen mische. Alles ein paar Minuten köcheln lassen. Wenn die Soße zu dickflüssig ist, etwas Wasser hinzufügen.
 Den Risalamande auf Dessertschälchen verteilen und die Kirschsoße darübergießen.
 
-Info:	Risalamande ist ein Reisdessert, das in Dänemark an Weihnachten gegessen wird und eine besondere Tradition hat. Neben den gehackten Mandeln wie eine ganze Mandel unter den Reis gerührt. Die Person, die sie findet, bekommt ein Geschenk: ein Marzipanschwein.
+### Info
+Risalamande ist ein Reisdessert, das in Dänemark an Weihnachten gegessen wird und eine besondere Tradition hat. Neben den gehackten Mandeln wie eine ganze Mandel unter den Reis gerührt. Die Person, die sie findet, bekommt ein Geschenk: ein Marzipanschwein.
 
 Das Gericht soll übrigens um 1900 entstanden ein, als ein Gast in einem Luxushotel nach einem extravaganten Nachtisch fragte. In der Hotelküche hatte man schon Milchreis vorbereitet – spontan fügte der koch Sahne und Mandeln hinzu und gab sieenr Kreation den französisch klingenden Namen Risalamande.
 
@@ -37664,7 +37625,8 @@ Die Milch zum Kochen bringen. Puddingpulver und Zucker mischen mit 6 EL kalter M
 Sahne mit Vanillezucker verrühren, steif schlagen und unter den Pudding rühren (etwas zum Verzieren zurücklassen)
 Sauerkirschen gut abtropfen (einige zum Garnieren übriglassen). Mit der Sahnecreme abwechselnd in Dessertschälchen schichten. Die oberste Schicht muss aus Sahnecreme bestehen. Die Schwarzwälder Kirschcreme mit der zurückgelassenen Schlagsahne verzieren, mit den restlichen Kirschen und mit der Schokolade garnieren.
 
-Info:	Wieder ein absolut klassisches 70er Jahre Rezept.
+### Info
+Wieder ein absolut klassisches 70er Jahre Rezept.
 
 ## Tiramisu (vom Bietigheimer Italiener)
 ### Zutaten
@@ -37769,25 +37731,23 @@ In der Zwischenzeit die Eier trennen. Eigelb und Puderzucker mit einem Handrühr
 Die Himbeeren in eine Schüssel geben, mit der Gabel andrücken, sodass etwas Saft austritt. Das Eiweiß steif schlagen, in die Mascarpone-Mischung geben, ebenso die Himbeeren. Vorsichtig vermengen, die Masse soll nicht pink werden.
 Dann über die Löffelbiskuits geben. Noch einmal etwa eine Stunde lang im Kühlschrank ziehen lassen. Zum Servieren mit Heidelbeeren bedecken.
 
-Info:	Wie immer gilt. Nur frischeste Eier und immer kühlstellen. Salmonellengefahr!!!
+### Info
+Wie immer gilt. Nur frischeste Eier und immer kühlstellen. Salmonellengefahr!!!
 
 ## Ofenschlupfer (nach Vincent Klink aus Stuttgart)
 ### Zutaten (für 4 Portionen)
 3 EL Haselnüsse (grob gehackt)
 120 g Zucker
-
 2-3 Äpfel (Boskop)
 
 Zuckerwasser (1 EL Zucker auf 2 Tassen Wasser)
 7 Eier
-
 4 Eigelb
 1 l Milch
 2 EL weiche Butter
 2 TL Zimt
 1 Vanilleschote
 350 g altbackenen Hefezopf
-
 Puderzucker zum Garnieren
 
 ### Zubereitung
@@ -37795,7 +37755,8 @@ Haselnüsse mit 20 g Zucker unter Rühren in einer Pfanne karamellisieren. Ansch
 Die Äpfel schälen, entkernen, vierteln und in etwa 2 mm dünne Spalten schneiden, dann kurz in Zuckerwasser dünsten. Boskopäpfel haben nach einer Minute die Süße des Zuckerwassers angenommen. Eier und Eigelb mit Milch und Butter verrühren, Zimt, das Mark einer ausgekratzten Vanilleschote und 100 g Zucker untermischen.
 Jetzt einen höchsten ein bis zwei Tage alten Hefezopf (er darf nicht steinhart sein) in dünne Scheiben schneiden und mit den Apfelspalte in einer gebutterten Auflaufform dachplattenartig schichten. Das Ganze mit dem Eier-Milch-Mix übergießen und 45 Minuten bei 200 Grad (Umluft) backen. Falls der Ofenschlupfer vor Ende der Garzeit braun werden sollte, mit Alufolie abdecken. Aus dem Ofen nehmen, mit Puderzucker bestäuben und warm servieren.
 
-Info:	Verschlupfen bedeutet im Schwäbischen, dass man etwas irgendwo reinschiebt, beispielsweise unters Bett – oder eben in den Ofen😊
+### Info
+Verschlupfen bedeutet im Schwäbischen, dass man etwas irgendwo reinschiebt, beispielsweise unters Bett – oder eben in den Ofen😊
 
 ## Ofenschlupfer noch einmal
 ### Zutaten (für 4 Portionen):
@@ -37861,7 +37822,6 @@ Die Sauce durch ein Sieb gießen, auf die Teller verteilen, Teigtaschen daraufse
 
 *Für die Creme*
 1 Vanilleschote
-
 ¾ l Milch
 Salz
 20 g Butter
@@ -37994,7 +37954,6 @@ Ich weiß nicht, ich weiß nicht…warum muss ich bei diesem Rezept immer an Pet
 50 g Butter, in Stücke geschnitten
 2 EL Zucker
 1 Ei, leicht geschlagen
-
 2-3 EL Milch
 1 TL brauner Zucker
 
@@ -38075,7 +38034,8 @@ Kuchen in eine schöne Schüssel legen und mit Sherry beträufeln. Himbeeren dar
 Eier, Zucker und Mehl in einer Schüssel mischen. Milch in einem Topf erhitzen, über die Eimasse gießen und gut umrühren. Zurück in einen sauberen Topf gießen. Auf mittlerer Stufe erhitzen, bis die Eimasse eindickt und die Rückseite eines Löffels überzieht. Vanille einrühren. Mit Frischhaltefolie abgedeckt abkühlen lassen.
 Die gekühlte Eiercreme über die Himbeeren gießen. Im Kühlschrank ruhen lassen; sie wird fest, aber nicht hart. Sahne schlagen und über die Creme verteilen Mit Mandeln und Himbeeren verzieren und bis zum Verzehr kühl stellen.
 
-Info:	Trifles waren ursprünglich aromatische Cremes, die man im elisabethischen Zeitalter aß. Im Laufe der Zeit veränderten sie sich jedoch immer mehr. Die Creme wurde verdickt, Biskuits und andere Zutaten kamen dazu und man begann, sie zu verzieren. Aus dem Jahr 1775 kennt man ein Rezept von Hanna Glasse für eine „Grand Trifle“, mit der Beschreibung, dass es für den Tisch des Königs würdig sein. Es beinhaltet in Sherry getränkten Biskuits sowie je eine Schicht Eiercreme und Syllabun auf der Oberseite.
+### Info
+Trifles waren ursprünglich aromatische Cremes, die man im elisabethischen Zeitalter aß. Im Laufe der Zeit veränderten sie sich jedoch immer mehr. Die Creme wurde verdickt, Biskuits und andere Zutaten kamen dazu und man begann, sie zu verzieren. Aus dem Jahr 1775 kennt man ein Rezept von Hanna Glasse für eine „Grand Trifle“, mit der Beschreibung, dass es für den Tisch des Königs würdig sein. Es beinhaltet in Sherry getränkten Biskuits sowie je eine Schicht Eiercreme und Syllabun auf der Oberseite.
 
 ## Crêpes Suzette
 ### Zutaten (für 4-6 Portionen):
@@ -38224,7 +38184,8 @@ Zucker mit 60 ml Wasser in einen Topf geben und unter Rühren bei schwacher Hitz
 Für die Eiercreme die Milch in einem Topf bei schwacher Hitze erwärmen, bis sie fast kocht. Vom Herd nehmen. Zucker, Eier und Vanillearoma mischen und 2 Minuten mit einem Schneebesen schlagen, dann die warme Milch einrühren. Die Mischung durch ein Sieb in eine Kanne gießen und auf die Förmchen verteilen.
 Die Förmchen in eine Auflaufform stellen und so viel kochendes Wasser hineingießen, dass sie zur Hälfte im Wasser stehen. 30 Minuten backen, bis die Creme fest ist, aber noch etwas wackelt, wenn die Form leicht bewegt wird. Abkühlen lassen, dann mindestens 2 Stunden kühl stellen. Zum Lösen vorsichtig mit einem Messer am Rand der Form entlangfahren und dann auf die Dessertteller stürzen. Wenn nötig, dabei leicht schütteln.
 
-   Info:	Das Rezept lässt sich durch Gewürze wie Kardamon, Zimt und Muskatnuss oder Zitronen- und Orangenschale ebenso variieren wie durch einen Schuss des Lieblingslikörs. Karamelcreme heißt in Frankreich Crème renversée, in Italien crema caramella und in Spanien, Südamerika und Mexiko flan.
+### Info
+Das Rezept lässt sich durch Gewürze wie Kardamon, Zimt und Muskatnuss oder Zitronen- und Orangenschale ebenso variieren wie durch einen Schuss des Lieblingslikörs. Karamelcreme heißt in Frankreich Crème renversée, in Italien crema caramella und in Spanien, Südamerika und Mexiko flan.
 
 ## Spanische Orangencreme
 ### Zutaten (für 6 Portionen)
@@ -38243,7 +38204,8 @@ Orangensaft in eine kleine feuerfeste Schüssel geben, Gelatine gleichmäßig au
 Gelatinemischung und Milch in einer Kasserolle mischen und stark erhitzen, aber nicht kochen, da die Gelatine sonst ihre festigenden Eigenschaften verliert.  Vom Herd nehmen und langsam nach und nach unter ständigem Rühren in die Eigelbmischung geben.
 Eiweiß in einer Metall- oder Glasschüssel steif schlagen. Dann mit einem großen Metalllöffel vorsichtig unter die Milchmischung heben. Vorsichtig in eine 1,5 l Glasschüssel geben oder auf 6 Schüssel verteilen. Mehrere Stunden oder über Nacht kühlen, bis die Creme fest ist.
 
-Info:	Spanische Creme ist in England auch unter dem Namen Honeycomb Mould, Snow Cream und New England Quaking Custard bekannt. Man findet dieses Rezept in alten englischen und amerikanischen Kochbüchern u.a. denen der Shaker. Es handelt sich um eine Eiercreme aus 2 oder 3 verschiedenen Schichten – oben eine Schicht mit vielen Blasen darunter glatte Schichten, die sich bilden, wenn der Eischnee unter eine warme statt unter eine kalte Mischung gehoben wird. Ist die Eiercrememischung kalt, wenn man den Eischnee unterhebt, bleiben die Schichten durch die Gelatine zusammen und trennen sich nicht.
+### Info
+Spanische Creme ist in England auch unter dem Namen Honeycomb Mould, Snow Cream und New England Quaking Custard bekannt. Man findet dieses Rezept in alten englischen und amerikanischen Kochbüchern u.a. denen der Shaker. Es handelt sich um eine Eiercreme aus 2 oder 3 verschiedenen Schichten – oben eine Schicht mit vielen Blasen darunter glatte Schichten, die sich bilden, wenn der Eischnee unter eine warme statt unter eine kalte Mischung gehoben wird. Ist die Eiercrememischung kalt, wenn man den Eischnee unterhebt, bleiben die Schichten durch die Gelatine zusammen und trennen sich nicht.
 
 ## Heißes Schoko-Soufflé
 ### Zutaten (für 6 Portionen)
@@ -38298,7 +38260,8 @@ Vor dem Servieren den Grill auf höchster Stufe vorheizen. Eine Zuckerschicht vo
 Die Formen in eine Fettpfanne oder feuerfeste Auflaufform mit Eiswürfeln setzen, damit die Creme nicht erwärmt wird. So hoch wie möglich unter den Grill stellen, bis der Zucker ui einer gleichmäßigen Schicht karamellisiert. Vorsicht, Karamell verbrennt leicht. Zudem miss alles sehr schnell gehen, damit die Creme kalt bleibt. (Man kann aber auch so ein technisches Gerät wie den Bunsenbrenner nehmen).
 Bis zum Servieren kühlen, aber nicht länger als 1 Stunde, da sonst die Kruste aufweicht.
 
-Info:	Crème Brûlée ist von der englischen Nachspeise „burnt cream“ abgeleitet, die angeblich im Trinity College, Cambridge, erfunden. (wahrscheinlich haben die Studenten etwas anbrennen lassen😊) Sie wird traditionell in einer großen flachen Schüssel zubereitet, damit eine möglichst große Oberfläche für die Karamellschicht zur Verfügung steht. Für den karamellisierten Guss kann man alle Arten von Zucker verwenden. Das Ergebnis kann allerdings unterschiedlich sein. Kristallzucker schmilzt sehr gut, brauner Zucker ergibt einen stärkeren Karamellgeschmack.
+### Info
+Crème Brûlée ist von der englischen Nachspeise „burnt cream“ abgeleitet, die angeblich im Trinity College, Cambridge, erfunden. (wahrscheinlich haben die Studenten etwas anbrennen lassen😊) Sie wird traditionell in einer großen flachen Schüssel zubereitet, damit eine möglichst große Oberfläche für die Karamellschicht zur Verfügung steht. Für den karamellisierten Guss kann man alle Arten von Zucker verwenden. Das Ergebnis kann allerdings unterschiedlich sein. Kristallzucker schmilzt sehr gut, brauner Zucker ergibt einen stärkeren Karamellgeschmack.
 
 ## Milchreis-Eiskonfekt mit Himbeeren
 ### Zutaten (für ca. 20 Stück):
@@ -38413,7 +38376,6 @@ Minze gründlich waschen und sorgfältig trockentupfen. Minzblätter von den Sti
 1 Vanilleschote
 3 EL Speisestärke
 700 ml Milch
-
 4 Eigelb
 2 EL Zucker
 2 Päckchen Bourbon-Vanillezucker
@@ -38436,7 +38398,6 @@ Eicreme über den Himbeeren verteilen und im Kühlschrank ca. 4 Stunden fest wer
 
 Mark von 1 Vanilleschote
 3 EL Cognac (oder Weinbrand)
-
 4 Eigelb
 350 ml Sahne
 100 g harte Karamellbonbons
@@ -38509,7 +38470,8 @@ Die Teeblätter abgießen. Noch einmal mit 150 ml kochendem Wasser übergießen 
    In einem Topf etwa 1 ½ l Wasser zum Kochen bringen. Die Klößchen hineingeben und bei schwacher Hitze garen, bis sie an die Oberfläche steigen. Dann noch einmal etwa 2 Minuten ziehen lassen.
 Klößchen herausnehmen und in Schälchen verteilen. Tee abgießen und in die Schälchen gießen und gleich servieren.
 
-Info:	 Vorsicht die Füllung ist heiß, also nicht verbrennen!
+### Info
+ Vorsicht die Füllung ist heiß, also nicht verbrennen!
 
 ## Gedämpfte Birnen mit Klebreis – Bing Tang Rang Li
 ### Zutaten (für 6 Portionen)
@@ -38676,7 +38638,6 @@ Mi-cuit im Ofen (Mitte) backen: Sie sind perfekt, wenn der Kern noch nicht durch
 350 g Sahne
 
 80 – 100 g Zucker
-
 4 Eigelb
 
 ### Zubereitung
@@ -38698,7 +38659,6 @@ Vorm Servieren die Creme dünn mit dem übrigen Zucker bestreuen und mit dem Bun
 ½ l schwarzer Johannisbeersaft
 
 *Für das Parfait:*
-
 4 Eigelb
 2 EL Vanillezucker
 2 EL Honig
@@ -38768,7 +38728,6 @@ Für den Mohnzucker:
 ½ l Milch
 60 g Zucker
 1 Prise Salz
-
 4 Eigelb
 
 ### Zubereitungszeit
@@ -38959,7 +38918,6 @@ Die Eigelbe mit 90 g Zucker dickschaumig schlagen. Zitronensaft und 3 EL Wasser 
 ## Schokoladenmousse
 ### Zutaten (für 4 Portionen)
 200 g Bitterschokolade
-
 4 Eigelbe
 100 ml Orangensaft
 200 g Sahne
@@ -39178,7 +39136,6 @@ Puderzucker zum Bestäuben
 40 g Zucker
 50 ml Orangensaft
 70 ml Marsala
-
 4 Eigelb
 
 ### Zubereitungszeit
@@ -39288,7 +39245,6 @@ Rote Johannisbeeren von den Rispen streifen. Amaretti in einen Gefrierbeutel geb
 1 Pk. Vanillezucker
 350 ml Schlagsahne
 1 ½ TL Lavendelblüten
-
 4 Eigelb
 75 g Zucker
 2 TL brauner Zucker
@@ -39527,7 +39483,6 @@ VORSICHT:	Kirschen sind nicht entsteint, daher äußerste Vorsicht beim Zubeiße
 2 Blatt Gelatine oder 5 g Agar-Agar
 25 ml Rum (ersatzweise Orangensaft)
 180 ml Sahne
-
 Frische Früchte
 
 *Für die gebrannten Mandeln:*
@@ -39536,7 +39491,6 @@ Frische Früchte
 20 ml Wasser
 1 TL Öl
 1 Prise Fleur de Sel
-
 Vorbereitungszeit: 25 Minuten, Ruhezeit: 60-80 Minuten
 
 *Quarkmousse*
@@ -39589,7 +39543,6 @@ Minzeblätter fein schneiden und dazugeben. Grand Manier, alternativ Orangensaft
 ### Zutaten
 6 reife Feigen
 100 g dunkle Schokolade
-
 Meersalzflocken
 
 ### Zubereitung
@@ -39609,10 +39562,8 @@ Feigen auf einen Teller setzen und mit ein paar Meersalzflocken bestreuen. Erkal
 2 Eigelb
 60 g Zucker
 50 g Mehl
-
 4 Schokoladentrüffel (kann man, muss man aber nicht)
 20 g Butter für die Förmchen
-
 Puderzucker zum Bestäuben
 
 *Für die Safran-Honigbirnen:*
@@ -39622,7 +39573,6 @@ Puderzucker zum Bestäuben
 300 ml Wasser
 50 g Honig
 50 g Zucker
-
 1 Zimtstange
 1 g Safran
 
@@ -39668,10 +39618,8 @@ Vorsicht:	Immer frische Lebensmittel verwenden und besser nicht probieren. Salmo
 ### Zutaten (für 4 Personen):
 3 EL feingehackte Haselnüsse
 60 g dunkle Schokolade, grob zerkleinert
-
 4 Eigelb
 3 EL Zucker
-
 5 Eiweiß
 Salz
 30 g Butter
@@ -40039,7 +39987,6 @@ Die Windbeutel mit Vanille- oder Schokoladencreme füllen
 ### Zutaten (für 8 Portionen)
 1 unbehandelte Zitrone
 500 g Mascarpone
-
 4 Eigelb
 4 EL Zucker
 2 Tässchen kalter Espresso
@@ -40051,7 +39998,6 @@ Ungesüßtes Kakaopulver
 
 ### Zubereitungszeit
 etwa 25 Minuten (plus 5 Stunden Kühlen)
-
 4 Eigelb mit 4 EL Zucker in eine Schüssel geben, mit dem Rührgerät auf höchster Stufe schaumig schlagen.
 Löffelweise 500 g Mascarpone unterziehen. Mit fein abgeriebener Schale von 1 Zitrone würzen.
 Eine flache Form bereitstellen. 2 Tässchen kalten Espresso mit 4 cl Weinbrand mischen. Die Hälfte der Löffelbiskuits nacheinander kurz eintauchen. Boden der Form damit auslegen.
@@ -40209,7 +40155,6 @@ Bei den Früchten hat man freie Wahl, denn auch Äpfel, Birnen oder Pfirsiche ma
 250 g Speisequark
 200 g Naturjoghurt
 1 TL abgeriebene Limettenschale
-
 2-3 EL Erdbeersirup (muss nicht)
 
 1-2 EL Zucker
@@ -40353,7 +40298,8 @@ Beerensahne durch ein feines Metallsieb gießen, die Beerenreste mit einem Löff
 Für den Sirup die Holunderbeeren ebenfalls mit einer Gabel von den Dolden abstreifen, verlesen und von den Stielansätzen befreien. Die Beeren (ca. 125 g) im Sieb abbrausen und in einen Topf geben. Vanillezucker, Zucker, Zitronensaft und 100 ml Wasser dazugeben, erhitzen und ca. 5 Minuten sprudelnd kochen lassen. Die Holundermischung durch das Metallsieb gießen, Beeren wieder gut ausdrücken und entsorgen. Saft zurück in den topf geben und bei mittlerer Hitze 5-8 Minuten einkochen lassen. Sirup abgedeckt im Kühlschrank stehen lassen.
 Zum Servieren jeweils etwas gekühlten Holundersirup auf die Panna cotta in den Gläschen geben. Restliche Sirup im Kühlschrank aufbewahren.
 
-Info:	Vorsicht beim Verarbeiten von Holunder – er hinterlässt hartnäckige Flecken. Und außerdem Holunderbeeren immer nur gekocht genießen, sonst wird einem schlecht.
+### Info
+Vorsicht beim Verarbeiten von Holunder – er hinterlässt hartnäckige Flecken. Und außerdem Holunderbeeren immer nur gekocht genießen, sonst wird einem schlecht.
 
 ## Rote Grütze mit Vanillesauce
 ### Zutaten (für 8 Portionen):
@@ -40373,7 +40319,6 @@ Info:	Vorsicht beim Verarbeiten von Holunder – er hinterlässt hartnäckige Fl
 
 *Für die Vanillesauce:*
 2 Vanilleschoten
-
 ¾ l Milch
 2 EL Zucker
 20 g  Speisestärke
@@ -40390,7 +40335,8 @@ Für die Sauce die Vanilleschoten längs aufschlitzen. Das Mark, die Schoten, di
 Die 2 Eigelb mit der Sahne verquirlen, zur Vanillesauce gießen. Nicht mehr kochen lassen. Die Sauce kalt stellen.
 Die Zimtstange und die Vanilleschoten entfernen. Die Grütze und die Sauce gut gekühlt servieren.
 
-Info:	Rote Grütze ist überall in Norddeutschland und in Dänemark beliebt, entsprechend viele „echte“ Rezepte gibt es. Statt Vanillesauce wird oft Sahne serviert, ebenso gut schmeckt Vanilleeis.
+### Info
+Rote Grütze ist überall in Norddeutschland und in Dänemark beliebt, entsprechend viele „echte“ Rezepte gibt es. Statt Vanillesauce wird oft Sahne serviert, ebenso gut schmeckt Vanilleeis.
 
 ## Joghurt-Flan mit Erdbeeren
 ### Zutaten für 4 Portionen
@@ -40440,7 +40386,8 @@ Den Backofen auf niedrigster Stufe vorheizen. Den Crêpe-Teig aus dem Kühlschra
 Abwechselnd mit den beiden Pfannen arbeiten und nacheinander in frischem Butterschmalz etwa 8 hauchdünne Crêpes backen. Die nicht benötigte Pfanne immer wieder leicht abkühlen lassen. Die Crêpes im Ofen warm halten, bis sie alle fertig sind. Zum Schluss in einer der Pfannen die Pinienkerne rösten.
 Die Sirupsauce nochmals erhitzen, die Orangenfilets hineinlegen und leicht erwärmen. Je 2 fertige Crêpes gefaltet auf einen Teller legen, mit den Orangenfilets garnieren und den Sirup aufträufeln. Dünn mit Puderzucker bestäuben, die feinen Streifen der Orangenschale und die Pinienkerne darüber streuen und unverzüglich servieren.
 
-Info:	Beim Originalrezept Crêpes Suzette werden die gebackenen Pfannkuchen in die Orangensauce eingelegt, etwas erwärmt, dann mit Cognac übergossen und in der Pfanne flambiert.
+### Info
+Beim Originalrezept Crêpes Suzette werden die gebackenen Pfannkuchen in die Orangensauce eingelegt, etwas erwärmt, dann mit Cognac übergossen und in der Pfanne flambiert.
 
 ## Espressoschaum mit Zimt-Zwetschgen
 ### Zutaten für 4 Portionen
@@ -40495,7 +40442,6 @@ Zum Servieren schöne Dessertteller hauchdünn mit Kakopulver und Puderzucker be
 1 Päckchen Vanille-Puddingpulver zum Kochen
 ½ l Milch
 2 EL Zucker
-
 2-3 EL lösliches Kaffeepulver
 
 Eventuell 1-2 EL Kaffeelikör
@@ -40523,7 +40469,6 @@ Etwa 50 g Zucker
 3-4 EL Milch
 100 g Mehl
 250 g Mascarpone
-
 2-3 EL Butter
 
 Muskatnuss, frisch gerieben
@@ -40734,7 +40679,6 @@ Diese Erdbeer-Süßspeise heißt nach dem Eton College in der Grafschaft Berkshi
 3-4 violette Pflaumen
 
 4-6 Aprikosen
-
 2-3 EL Vanillezucker
 400 g Sahne
 200 g Crème fraîche
@@ -40885,7 +40829,6 @@ Dieser Zopf ist schön groß, so soll er auch sein. Er hält, wie ein Brot, fün
 1 EL Amaretto
 120 g Butter
 120 g Zucker
-
 4 Eigelb
 1 Ei
 5 g Vanillezucker
@@ -41074,7 +41017,6 @@ Für die Schokoladenfüllung, Ganache genannt, wird die Sahne zum Kochen gebrach
 190 g Mehl (Typ 550)
 180 g Zucker
 2 TL Backpulver
-
 ¾ TL Salz
 3 Eier
 375 g Ricotta
@@ -41162,7 +41104,8 @@ Entsteine Kirschen mit der Hälfte des Zuckers vermengen und 30 Minuten ziehen l
 Mehl, Salz und Vanillemark unterrühren, bis der Teig glatt wird. Zerlassene Butter (wenn sie abgekühlt ist) und Milch in den Teig gießen. Boden und Rand der Form buttern, mit Mehl bestäuben.
 Kirschen gleichmäßig verteilen, Teig darüber gießen. Bei 180°C Umluft 40 Minuten lang backen.
 
-Info:	Der Kuchen kommt aus dem Limousin. Dort allerdings werden die Kirschen nicht entsteint. Also Obacht, falls ihr in Mal in Frankreich esst 😊.
+### Info
+Der Kuchen kommt aus dem Limousin. Dort allerdings werden die Kirschen nicht entsteint. Also Obacht, falls ihr in Mal in Frankreich esst 😊.
 
 ## Clafoutis mit Pflaumen
 ### Zutaten (für 6-8 Portionen):
@@ -41262,7 +41205,6 @@ Förmchen (Kaffeetassengröße) ausbuttern und mit Zucker auskleiden. Bei 195°C
 
 *Dazu passt die Kaffir-Limettensauce:*
 40 g Zucker
-
 4 Eigelb
 
 8 Kaffir-Limettenblätter
@@ -41333,7 +41275,6 @@ Salz
 
 *Für den Sabayon:*
 1 Vanilleschote
-
 4 Eigelb
 125 ml klares Weißbier
 50 ml Apfelsaft
@@ -41634,7 +41575,6 @@ Zum Servieren je einen großen Löffel Käsecreme in Dessertschalen schöpfen un
 200 g Butter
 150 g Puderzucker
 2 Eier
-
 4 Eigelb
 250 g Mehl
 70 g geriebene und geröstete Haselnüsse
@@ -41659,7 +41599,8 @@ Rum
 Butter mit Puderzucker, 2 Eiern und 4 Eigelb schaumig rühren. Dann Mehl, Haselnüsse, Mandeln, Schokolade, Backpulver, etwas Zitronensaft, 1 Prise Zimt, Nelkenpulver, Kardamon, Vanillezucker und einen Schuss Rum vermischen. Die Masse in einen Spritzsack mit großer runder Tülle füllen und eine Schicht in die Tortenform spritzen. Auf diese erste Teigschicht eine Lage Marmelade (3 – 4 mm) geben, mit einer zweiten Schicht abschließen und im Ofen bei 180 Grad ca. 30 Minuten backen.
 Für das Tortengitter Rohmarzipan mit Zuckerwasser und Kirschwasser spritzfähig machen. Gitter auf die Torte spritzen. Die Zwischenräume mit Marmelade ausstreichen und 5 Minuten bei starker Oberhitze im Ofen abflämmen. Mandelsplitter darauf streuen.
 
-Info:	Ich nehme immer ein anderes Rezept für die Linzer Torte. Aus dem orangenen Buch 😊
+### Info
+Ich nehme immer ein anderes Rezept für die Linzer Torte. Aus dem orangenen Buch 😊
 
 ## Eierlikörtorte
 ### Zutaten
@@ -41683,7 +41624,6 @@ Sahne und Vanillin und Sahnesteif steif schlagen. ¼ der Sahne in einen Spritzbe
 
 200 – 250 g Zucker
 300 g Salzbutter (plus etwas zum Ausbuttern der Form)
-
 4 Eigelb plus 1 weiteres zum Bestreichen
 
 ### Zubereitung
@@ -41691,7 +41631,8 @@ Mehl und Zucker vermengen, Butter in Würfel schneiden und mit den Händen in di
 Das verbliebene Eigelb verquirlen, damit den Teig bepinseln. Wer mag: mit einer Gabel ein Gittermuster hineinritzen.
 Den Teig bei 190 Grad Umluft in den Ofen schieben, nach 20 Minuten auf 140 Grad runterschalten. Insgesamt 45 bis 60 Minuten lang backen.
 
-Info:	 Keks oder Kuchen, das ist hier die Frage😊
+### Info
+ Keks oder Kuchen, das ist hier die Frage😊
 
 ## Cake mit Ziegenkäse, Rosinen und Walnüssen
 ### Zutaten (für eine 25 cm lange Kastenform):
@@ -41710,7 +41651,8 @@ Den Ofen auf 180 Grad Umluft heizen. In einer Schüssel die Rosinen mit etwas he
 In einer anderen Schüssel Eier und Milch verquirlen, Mehl und Backpulver hinzugeben, dann das Öl. Alles gut vermengen. Den Gruyère reiben, die Walnüsse grob hacken, Ziegenkäse in Würfel schneiden, Rosinen abtropfen lassen – alles unter den Teig rühren.
 Die Kastenform mit Backpapier auslegen, Teig hineinfüllen. Den Cake 45 Minuten lang im Ofen backen.
 
-Info:	In Frankreich ist die wertvollste Mahlzeit des Tages nicht das Frühstück, sondern der Snack zum Aperitif. So wie es hier bei uns Müslisorten gibt, gibt es dort Ideen für kleine Speisen, die besonders gut zum ersten Glas Alkohol am Abend passen: Dips, Terrinen, Teigtäschchen, Tartelettes. Zu welcher Tageszeit und Gelegenheit isst man also einen salzigen Kuchen mit Käse, Rosinen und Walnüssen? Zum Aperitif. Und kann man einen Aperitif auch allein zu Hause abhalten, ohne dass Gäste kommen? Absolut. Muss auf den Aperitifd unbedingt ein richtiges Abendessen folgen? Gar nicht. Denn auch dafür haben die Franzosen eine Lösung. Wenn man hängen bleibt oder sich nicht mehr zu Größerem aufraffen kann, nennt man das Ganze einfach apéritif dînatoire, ein Aperitif-Dinner 😊
+### Info
+In Frankreich ist die wertvollste Mahlzeit des Tages nicht das Frühstück, sondern der Snack zum Aperitif. So wie es hier bei uns Müslisorten gibt, gibt es dort Ideen für kleine Speisen, die besonders gut zum ersten Glas Alkohol am Abend passen: Dips, Terrinen, Teigtäschchen, Tartelettes. Zu welcher Tageszeit und Gelegenheit isst man also einen salzigen Kuchen mit Käse, Rosinen und Walnüssen? Zum Aperitif. Und kann man einen Aperitif auch allein zu Hause abhalten, ohne dass Gäste kommen? Absolut. Muss auf den Aperitifd unbedingt ein richtiges Abendessen folgen? Gar nicht. Denn auch dafür haben die Franzosen eine Lösung. Wenn man hängen bleibt oder sich nicht mehr zu Größerem aufraffen kann, nennt man das Ganze einfach apéritif dînatoire, ein Aperitif-Dinner 😊
 
 ## Cake mit Kräutern und Käse
 ### Zutaten (für 1 Kastenform mit 26 cm Länge):
@@ -41733,7 +41675,8 @@ Mehl und Backpulver gründlich vermengen. In einer anderen Schüssel Eier, Milch
 Feta in Würfel schneiden, Gruyère fein reiben, Kräuter waschen, trocken schütteln, die Blätter abzupfen und diese hacken. Alles unter den Teig heben.
 Das Ganze in die gebutterte Kastenform geben. Ungefähr 50 Minuten lang backen und vor dem Servieren abkühlen lassen.
 
-Info:	Dieser herzhafte französische Rührkuchen eignet sich gut zum Aperitif oder zum Osterbrunch.
+### Info
+Dieser herzhafte französische Rührkuchen eignet sich gut zum Aperitif oder zum Osterbrunch.
 
 ## Heidelbeermuffins
 ### Zutaten (für etwa 12 Stück):
@@ -42527,7 +42470,8 @@ Die Cashews so fein wie möglich zerkleinern. Den Zucker in einen Topf geben und
 Das zweite Backpapier auf die Mischung legen und den Fudge rund 5 mm dick ausrollen. Das obere Blatt abziehen und den Fudge auskühlen lassen. (Übrige klebrige Cashews im Topf mit Wasser loskochen).
 Den abgekühlten Fudge diagonal in 4 cm breite Streifen schneiden, dann in entgegengesetzter Richtung ebenfalls diagonal schneiden, sodass 4 cm große Rauten entstehen.
 
-   Info:	Dieser Fudge gilt unter den indischen Süßigkeiten als die edelste und qualifiziert einen zum Ehren-Inder, wenn er gelingt 😊
+### Info
+Dieser Fudge gilt unter den indischen Süßigkeiten als die edelste und qualifiziert einen zum Ehren-Inder, wenn er gelingt 😊
 
 ## Dattel-Nuss-Bällchen – Khajoor pak
 ### Zutaten (für 14 Stück):
@@ -42551,7 +42495,6 @@ Am besten im Kühlschrank aufbewahren.
 40 g Zucker
 40 g Kokosblütenzucker
 1 TL Natron
-
 ¾ TL Salz
 1 Ei
 120 g Kokosmilch
@@ -42749,7 +42692,6 @@ Das war früher dein Lieblingskuchen bei Barbara, liebes Paulchen.
 
 *Für den Rest:*
 170 g Zucker
-
 ¾ Packung Puddingpulver Vanille
 1 Glas Schattenmorellen
 
@@ -42931,7 +42873,8 @@ Am Backtag:	Miß eine Tasse Hermann für dich selbst und eine Tasse für eine(n)
 
 Mit einer Gabel unterheben. Dann backt man Hermann bei 180 Grad etwa 45 Minuten lang.
 
-Info:	Dies ist das legendäre Hermannrezept aus den 80er Jahren. Hermann wohnte bei uns im Kühlschrank, bis es Oma zu bunt wurde. Dann musste ich ihn ganz verbacken. Das Rezept habe ich aber immer noch. Damals hatte es mir Annette mit der ersten Tasse Hermann geschenkt.
+### Info
+Dies ist das legendäre Hermannrezept aus den 80er Jahren. Hermann wohnte bei uns im Kühlschrank, bis es Oma zu bunt wurde. Dann musste ich ihn ganz verbacken. Das Rezept habe ich aber immer noch. Damals hatte es mir Annette mit der ersten Tasse Hermann geschenkt.
 
 ## Träubleskuchen
 ### Zutaten (für 1 Springform):
@@ -43103,7 +43046,6 @@ Für die Mascarponecreme alle Zutaten 1 bis 2 Minuten mit dem Rührgerät schlag
 ## Französischer Apfelkuchen (Financier)
 ### Zutaten (für eine 22 x 22 cm große Backform):
 200 g Butter plus 50 g
-
 5 Eiweiß
 200 g Puderzucker
 80 g Mehl
@@ -43231,7 +43173,6 @@ Den Zopf mit der zerlassenen Butter bestreichen, mit Mandeln bestreuen und in 30
 180 g Mehl
 2 TL Backpulver
 1 TL Salz
-
 ¾ TL gemahlener Kurkuma
 225 g Zucker plus 2 EL Zucker
 2 EL angeriebenen Schale einer Bio-Zitrone
@@ -43309,7 +43250,8 @@ Für den Belag Mandelmus, Zucker, gemahlene Mandeln, Mehl, Salz und Vanille verr
 Den Boden einer Springform mit 25 cm Durchmesser mit Backpapier auslegen, die Ränder mit etwas Sonnenblumenöl einfetten. Teig hineindrücken, einen Rand von 1,5 cm formen. Die Mandel-Schokoladen-Mischung gleichmäßig darauf verteilen.
 Jetzt die Birnen vorbereiten: schälen, in Hälften schneiden und das Gehäuse vorsichtig entfernen, ohne dass die Birnenhälfte auseinanderbricht. Mit der Schnittfläche nach untern auf ein Schneidebrett legen, längs in dünne Streifen schneiden. Birnen auf den Belag setzen, dabei am besten kreisförmig anordnen, mit der dünnen Spitze in die Mitte zeigend. 40 Minuten lang backen.
 
-   Info:	Also gesünder ist dieser Kuchen mit dem ganzen Zucker sicher nicht, aber immerhin ein interessantes Experiment. Und wenn man an die ganzen Veganer in den Studistädten denkt, ist es vielleicht ganz praktisch, so einen veganen Kuchen aus dem Ärmel zu zaubern.
+### Info
+Also gesünder ist dieser Kuchen mit dem ganzen Zucker sicher nicht, aber immerhin ein interessantes Experiment. Und wenn man an die ganzen Veganer in den Studistädten denkt, ist es vielleicht ganz praktisch, so einen veganen Kuchen aus dem Ärmel zu zaubern.
 
 ## Scherben
 ### Zutaten (für 4 Portionen):
@@ -43432,7 +43374,8 @@ Im vorgeheizten Backofen bei 180 Grad ca. 45 Minuten vorbacken
 Für die Bienenstichmasse die Sahne, Butter und Zucker kurz miteinander aufkochen. Die Mandelblättchen unterrühren.
 Bienenstichmasse auf den Kuchen verteilen und noch mal bei 180 Grad 30 Minuten backen.
 
-Info:	Das sind Rezepte aus dem Landfrauencafe in St. Märgen im Schwarzwald, in das Barbara und ich öfters mal gewandert sind. Das Café ist eine dörfliche Initiative, bei der die Frauen vor Ort kochen, Kuchen backen etc., aber ohne Profipersonal. Ziel ist die Rückbesinnung auf regionale und saisonale Zutaten – also Regionalisierung statt Globalisierun.
+### Info
+Das sind Rezepte aus dem Landfrauencafe in St. Märgen im Schwarzwald, in das Barbara und ich öfters mal gewandert sind. Das Café ist eine dörfliche Initiative, bei der die Frauen vor Ort kochen, Kuchen backen etc., aber ohne Profipersonal. Ziel ist die Rückbesinnung auf regionale und saisonale Zutaten – also Regionalisierung statt Globalisierun.
 
 ## Holunderblüten-Torte
 ### Zutaten (für 1 Springform):
@@ -43478,7 +43421,6 @@ Mindestens 2 Stunden auskühlen lassen.
 
 4 Eiweiß
 160 g Zucker
-
 4 Eigelb
 125 g Mehl
 75 g Mondamin
@@ -43488,7 +43430,6 @@ Mindestens 2 Stunden auskühlen lassen.
 Saft ½ Zitrone
 1 Päckchen Vanillezucker
 2 EL gemahlene Gelatine
-
 ¾ l Sahne
 250 g Himbeeren
 
@@ -43613,7 +43554,6 @@ Den noch warmen Kuchen mit 3 EL Zimt und Zucker bestreuen.
 1 TL Vanilleextrakt
 3 große Eier, verquirlt
 90 g Mehl vermischt mit
-
 ¾ TL Backpulver
 110 g gemahlene Mandeln
 200 g Heidelbeeren
@@ -43741,7 +43681,6 @@ Den Apfelkuchen noch leicht warm oder abgekühlt servieren. Mit einem Sägemesse
 ## Haselnussschnecken mit Sesam
 ### Zutaten (für 10 Stück):
 150 g Weizenmehl, plus etwas für die Arbeitsfläche
-
 ¾ TL Trockenhefe
 
 1,5 TL Zucker
@@ -43850,7 +43789,8 @@ Den Zucker mit dem Zimt mischen. Die Äpfel schälen, die Kerngehäuse mit einem
 Das Mehl mit dem Backpulver, dem Salz, den Eigelben und dem Öl glattrühren. Nach und nach das Bier unter den Teig rühren. Die Eiweiße zu steifem Schnee schlagen und unterheben.
 Das Fett in der Fritteuse auf 180 Grad erhitzen. Die Apfelscheiben nacheinander in den Teig tauchen und im heißen Öl in 8 – 10 Minuten goldgelb backen. Nach der halben Garzeit wenden und zuletzt auf Zewa abtropfen lassen. Die Apfelbeignets noch heiß mit Zimt-Zucker bestreuen und servieren.
 
-Info:	 In New Orleans gibt es äußerst famose Beignets 😊
+### Info
+ In New Orleans gibt es äußerst famose Beignets 😊
 
 ## Bienenstich
 ### Zutaten (für 1 Blech)
@@ -44764,7 +44704,8 @@ Den Backofen auf 180 Grad (Umluft 160 Grad) vorheizen. Die Eier mit dem Zucker s
 6 Schokoküsse von den Waffelböden trennen und die Masse mit dem Quark verrühren. 400 ml Sahne steif schlagen und mit der Creme mischen.
 Den Biskuitboden auf eine Tortenplatte legen. Die restlichen Schokoküsse halbieren und auf dem Tortenboden am Rand im Kreis verteilen. In die Mitte die Quark-Sahne-Masse geben und glattstreichen. Die übrig gebliebenen Waffelböden halbieren und die Torte damit verzieren. Die Torte bis zum Servieren kaltstellen.
 
-Info:	Das war übrigens die Torte, die ich Markus zum 50. Geburtstag gemacht habe.
+### Info
+Das war übrigens die Torte, die ich Markus zum 50. Geburtstag gemacht habe.
 
 ## Marzipan-Torte
 ### Zutaten (für 16 Stück)
@@ -45024,7 +44965,8 @@ Den Blätterteig auftauen. Backofen auf 225 Grad vorheizen. 4 EL Sahne mit der S
 Die Eiersahne bei schwacher Hitze unter Rühren erwärmen. Stärke einrühren, unter Rühren weiter erhitzen, bis die Sahne andickt (nicht kochen oder zu stark erhitzen, sonst gerinnt das Eigelb). Vom Herd nehmen.
 Die Blätterteigplatten auf einer bemehlten Arbeitsfläche leicht ausrollen, pro Platte 2 Kreise von je 10 cm Durchmesser ausschneiden. Die Muffinform mit kaltem Wasser ausspülen, Teig in die Mulden legen und andrücken. Die Sahnemasse hineingeben und im vorgeheizten Ofen (Mitte, Umluft 200 Grad) ca. 10 Minuten backen. Lauwarm servieren.
 
-Info:	Eine klassische portugiesische Süßspeise, die man gerne dort gerne auch schon zum Frühstück ist.
+### Info
+Eine klassische portugiesische Süßspeise, die man gerne dort gerne auch schon zum Frühstück ist.
 
 ## Mokkasahnetorte
 ### Zutaten (für eine Springform mit 26 cm Durchmesser):
@@ -45494,7 +45436,8 @@ Mehl, Puderzucker und Salz vermengen, Butter hinzufügen und alles zu einer krü
 Für den Belag Crème fraîche, Eier, Puderzucker, Zimt (wenn man will, noch ein wenig Calvados, ungefähr 20 ml) vermengen. Die Äpfel schälen, vierteln, das Gehäuse entfernen. Die Viertel noch mal halbieren, dann die Schnitze in drei Stücke schneiden (in richtige, fast würfelartige, dicke Stücke, nicht in Schnitze).
 Teig in die Form drücken, einen Rand stehen lassen. Mit der Gabel den Boden einige Male einstechen, Äpfel auf dem Teig verteilen. Die Creme darübergießen. Den Kuchen bei 190 Grad ca. 40 Minuten lang backen. Die Äpfel dürfen dabei ein bisschen braun werden. Zum Servieren mit etwas Puderzucker bestreuen.
 
-Info:	Crème fraîche heißt auf Deutsch „festes Sauerrahmerzeugnis“, und deshalb sagen wir in Deutschland ebenfalls Crème fraîche. Diese wird für einen Apfelkuchen der normannischen Art benötigt. Die Crème fraîche aus der Normandie ist natürlich gar nicht zu vergleichen mit unserer, sie ist fetter und nicht weiß, sondern geht in Richtung Puddinggelb und schmeckt am besten zu Kaviar (hab‘ ich gehört). Aber ich bin ehrlich, auch mit festem deutschen Sauerrahmerzeugnis lässt sich dieser Apfelkuchen backen. Es würde mich wundern, wenn jemand, dem man diesen Kuchen womöglich noch etwas warm direkt aus dem Ofen serviert, aufsteht und sich mit den Worten verabschiedet: Ich esse normannischen Apfelkuchen grundsätzlich nur mit Crème fraîche d’Isigny.
+### Info
+Crème fraîche heißt auf Deutsch „festes Sauerrahmerzeugnis“, und deshalb sagen wir in Deutschland ebenfalls Crème fraîche. Diese wird für einen Apfelkuchen der normannischen Art benötigt. Die Crème fraîche aus der Normandie ist natürlich gar nicht zu vergleichen mit unserer, sie ist fetter und nicht weiß, sondern geht in Richtung Puddinggelb und schmeckt am besten zu Kaviar (hab‘ ich gehört). Aber ich bin ehrlich, auch mit festem deutschen Sauerrahmerzeugnis lässt sich dieser Apfelkuchen backen. Es würde mich wundern, wenn jemand, dem man diesen Kuchen womöglich noch etwas warm direkt aus dem Ofen serviert, aufsteht und sich mit den Worten verabschiedet: Ich esse normannischen Apfelkuchen grundsätzlich nur mit Crème fraîche d’Isigny.
 
 ## Birnen-Schoko-Tarte
 ### Zutaten (für eine Springform)
@@ -46158,7 +46101,8 @@ Für den Teig die Eier mit Zucker und lauwarmen Wasser schaumig rühren. Mehl un
 Für die Füllung die Gelatineblätter etwa 5 Minuten in kaltem Wasser einweichen, herausnehmen und leicht ausdrücken. Die Blätter tropfnass in einem kleinen Topf bei schwacher Hitze auflösen. Die Sahne steif schlagen und mit Quark, Zucker, Zitronensaft und dem Saft der Mandarinen mischen. 2 EL der Quarkfüllung zur Gelatine geben und untermengen. Die Mischung unter ständigem Rühren mit dem Schneebesen unter die restliche Quarkfüllung rühren.
 Die Füllung auf den unteren Tortenboden geben, glattstreichen und de Mandarinen darauf verteilen. Den zweiten Tortenboden auflegen und die Torte mindestens 12 Stunden in den Kühlschrank stellen. Vor dem Servieren mit Puderzucker bestäuben. Wenn man will, kann man dann noch die einzelnen Tortenstücke mit je einem Mandarinenstückchen verzieren.
 
-Info:	Diese Torte hat die Oma immer für meine Kuchenverkäufe in der Schule gebacken. Was immer ein großer Erfolg und immer spannend, ob ich die Torte heil in die Schule gekriegt habe 😊
+### Info
+Diese Torte hat die Oma immer für meine Kuchenverkäufe in der Schule gebacken. Was immer ein großer Erfolg und immer spannend, ob ich die Torte heil in die Schule gekriegt habe 😊
 
 ## Buttercreme-Torte
 ### Zutaten (für 1 Springform)
@@ -46222,7 +46166,8 @@ Für den Teig die Eier trennen und die Eiweiße mit einer Prise Salz steif schla
 Inzwischen die Sahne steif schlagen. Das Paradiescremepulver und den Quark unterrühren, bis eine glatte Creme entsteht. Erdbeeren waschen, abtrocknen und halbieren.
 Den Biskuit mit etwas Creme bestreichen, die Erdbeeren darauf verteilen und mit etwas Creme bedecken. Den Test in eine Spätzlepresse geben und die Torte damit bedecken. Die Erdbeersoße in kleine Pfützen auf der Torte verteilen und mit weißen Schokoraspeln bestreuen. Kühl stellen.
 
-Info:	Typisch Simon 😊
+### Info
+Typisch Simon 😊
 
 ## Schokokuss-Torte
 ### Zutaten (für 1 Springform):
@@ -47146,7 +47091,8 @@ Eine Springform (ca. 28 cm Durchmesser) mit 1 EL Butter einfetten, leicht mit Me
 Backofen auf 175°C vorheizen. Das vorbereitete Kirschkompott auf dem Teigboden verteilen und glattstreichen. Den überstehenden Rand nach innen rollen.
 Restlichen Teig dünn ausrollen, mit dem Teigrädchen zentimeterbreite Streifen ausschneiden. Teigstreifen gitterartig über den Kuchen legen. 1 Eigelb mit 1 EL Milch verquirlen, das Teiggitter damit bestreichen. Im vorgeheizten Backofen (Gas Stufe 2) 30-40 Minuten backen. Herausnehmen und auskühlen lassen. Am besten erst am nächsten Tag servieren – eventuell dünn mit Puderzucker bestäuben.
 
-Info:	Crostata ist allgemein der Hinweis auf einen Kuchen aus knusprigem Mürbeteig. Gefüllt mit Sauerkirschkompott oder Konfitüre erinnert diese italienische Spezialität aus dem Latium sehr an die Linzer Torte aus Österreich. Die Crostata wird allerdings oft auch mit anderen Früchten belegt wie z.B. Zwetschgen, Pfirsichen, Aprikosen Erdbeeren. Das Teiggitter ist nur bei der Verwendung von Konfitüren oder Kompott üblich. Bei frischem Obst wird der Boden solo gebacken und anschließend belegt.
+### Info
+Crostata ist allgemein der Hinweis auf einen Kuchen aus knusprigem Mürbeteig. Gefüllt mit Sauerkirschkompott oder Konfitüre erinnert diese italienische Spezialität aus dem Latium sehr an die Linzer Torte aus Österreich. Die Crostata wird allerdings oft auch mit anderen Früchten belegt wie z.B. Zwetschgen, Pfirsichen, Aprikosen Erdbeeren. Das Teiggitter ist nur bei der Verwendung von Konfitüren oder Kompott üblich. Bei frischem Obst wird der Boden solo gebacken und anschließend belegt.
 
 ## Teigscherben Crostoli
 ### Zutaten (für 6-8 Portionen):
@@ -47188,7 +47134,6 @@ Crostoli im heißen Schmalz goldbraun backen. Auf Küchenpapier sehr gut abtropf
 3 EL Pinienkerne
 70 g Zucker
 ½ TL Zimt
-
 2-3 EL Semmelbrösel
 
 *Sonstige*
@@ -47512,7 +47457,8 @@ Den Teig jetzt auf einer bemehlten Arbeitsfläche zu einer dicken Wurst formen. 
 Ein Backblech buttern. Den Kuchen darauf legen. Mit winzigen Zitronatstückchen und Hagelzucker bestreuen. Noch einmal zugedeckt 45 Minuten an einem warmen Ort ruhen lassen. Den Backofen auf 220 Grad vorheizen.
 Im vorgeheizten Backofen in etwa 20 Minuten fertigbacken.
 
-Info:	Dies ist das traditionelle Dreikönigsgebäck um die Hafenstadt Bordeaux. An diesem Tag wird ein weißer Bohnenkern mit eingebacken, der den der ihn findet, zum König für des Tages macht.
+### Info
+Dies ist das traditionelle Dreikönigsgebäck um die Hafenstadt Bordeaux. An diesem Tag wird ein weißer Bohnenkern mit eingebacken, der den der ihn findet, zum König für des Tages macht.
 
 # Getränke
 
@@ -47846,7 +47792,8 @@ Sofort servieren oder im Kühlschrank bis zu 3 tagen aufbewahren.
 Reis waschen, trocken tupfen und in einer Pfanne bei mittlerer Hitze 5 Minuten braten, bis die Körner leicht golden sind. In einer anderen Pfanne die Mandelsplitter bei niedriger Hitze rösten, bis sie ebenfalls leicht golden sind. Wasser in einen Topf geben, Zucker, die Zimtstange und das ausgekratzte Mark einer Vanilleschote dazugeben. Das Ganze erhitzen, bis das Wasser heiß ist und der Zucker sich aufgelöst hat. Die Flüssigkeit auf Zimmertemperatur abkühlen lassen und den gerösteten Reis und die Mandeln dazugeben. Über Nacht (oder mindestens 6 Stunden) einweichen lassen. Dann die Zimtstange entfernen und die Mischung durchmixen. Kondensmilch hinzufügen und das Ganze ein paar Minuten lang auf höchster Stufe mixen. Durch ein Sieb gießen und zum Servieren in einen Krug geben. Kühl stellen oder Eiswürfel hinzugeben.
 Wer will, kann die Horchata auch in Gläsern servieren und einen Esslöffel der gewürfelten Mango dazugeben, um einen fruchtigen Kontrast zu schaffen.
 
-Info:	Die Mexikaner denken ja, dass der Reis ihnen gehört. Würde man die Menschen auf der Straße fragen, würden sicher viele behaupten, der Reis stammt aus Mexiko. In Wirklichkeit aber wurde er von den Spaniern importiert, aber weil er so allgegenwärtig ist, haben das viele schlichtweg vergessen. Besonders der rote Reis, der mit Tomaten, Zwiebeln und Knoblauch gekocht wird, ist Teil der mexikanischen Identität. Er überbrückt die gewaltigen Unterschiede innerhalb Mexikos – von der Wüste bis in den Tropenwald kann man ihn in jedem Haushalt finden.
+### Info
+Die Mexikaner denken ja, dass der Reis ihnen gehört. Würde man die Menschen auf der Straße fragen, würden sicher viele behaupten, der Reis stammt aus Mexiko. In Wirklichkeit aber wurde er von den Spaniern importiert, aber weil er so allgegenwärtig ist, haben das viele schlichtweg vergessen. Besonders der rote Reis, der mit Tomaten, Zwiebeln und Knoblauch gekocht wird, ist Teil der mexikanischen Identität. Er überbrückt die gewaltigen Unterschiede innerhalb Mexikos – von der Wüste bis in den Tropenwald kann man ihn in jedem Haushalt finden.
 
 Die mexikanische Tradition der Getränke auf Frucht- oder Nussbasis stammt aus der vorspanischen Zeit. Die Menschen, die hier lebten, bereiteten sie sich als Stärkung für Wanderungen zu. Heute gibt es die Drinks in den drei Farben der mexikanischen Flagge: den grünen aus Limetten, den roten aus Hibiskus und den weißen, die Horchata, aus Reis.
 

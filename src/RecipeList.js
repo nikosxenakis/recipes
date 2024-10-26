@@ -2,17 +2,14 @@ import React, { useState } from 'react';
 import './assets/styles/RecipeList.css';
 
 const RecipeList = ({ recipes }) => {
-  const [visibleRecipes, setVisibleRecipes] = useState({});
+  const [expandedRecipe, setExpandedRecipe] = useState(null);
   const [currentPage, setCurrentPage] = useState(1);
   const [searchQuery, setSearchQuery] = useState('');
   const [searchTerms, setSearchTerms] = useState([]);
   const recipesPerPage = 5;
 
   const toggleVisibility = (index) => {
-    setVisibleRecipes(prevState => ({
-      ...prevState,
-      [index]: !prevState[index]
-    }));
+    setExpandedRecipe(prevState => (prevState === index ? null : index));
   };
 
   const handleSearchChange = (event) => {
@@ -79,21 +76,21 @@ const RecipeList = ({ recipes }) => {
       </div>
       {currentRecipes.map((recipe, index) => (
         <div key={indexOfFirstRecipe + index} className="recipe">
-          <button className={`collapsible ${visibleRecipes[indexOfFirstRecipe + index] ? 'active' : ''}`}>
-            {visibleRecipes[indexOfFirstRecipe + index] ? '−' : '+'}
+          <button className={`collapsible ${expandedRecipe === indexOfFirstRecipe + index ? 'active' : ''}`}>
+            {expandedRecipe === indexOfFirstRecipe + index ? '−' : '+'}
           </button>
           <h2 onClick={() => toggleVisibility(indexOfFirstRecipe + index)}>{recipe.title}</h2>
-          {visibleRecipes[indexOfFirstRecipe + index] && (
+          {expandedRecipe === indexOfFirstRecipe + index && (
             <div className="recipe-details">
               <h3>🔠 {recipe.category}</h3>
               {recipe.duration && <p>⌛ {recipe.duration}</p>}
-              <h3>Zutaten 🥗</h3>
+              <h3>🥗 Zutaten</h3>
               <ul>
                 {recipe.ingredients.map((ingredient, i) => (
                   <li key={i}>{ingredient}</li>
                 ))}
               </ul>
-              <h3>Zubereitung 📜</h3>
+              <h3>📜 Zubereitung</h3>
               <ul>
                 {recipe.instructions.map((instruction, i) => (
                   <li key={i}>{instruction}</li>
@@ -101,10 +98,20 @@ const RecipeList = ({ recipes }) => {
               </ul>
               {recipe.tips && recipe.tips.length > 0 && (
                 <>
-                  <h3>Tipp 💁</h3>
+                  <h3>💁 Tipp</h3>
                   <ul>
                     {recipe.tips.map((tip, i) => (
                       <li key={i}>{tip}</li>
+                    ))}
+                  </ul>
+                </>
+              )}
+              {recipe.info && recipe.info.length > 0 && (
+                <>
+                  <h3>ℹ️ Info</h3>
+                  <ul>
+                    {recipe.info.map((x, i) => (
+                      <li key={i}>{x}</li>
                     ))}
                   </ul>
                 </>

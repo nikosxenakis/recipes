@@ -44,16 +44,15 @@ const App = () => {
         isH1 = false;
       }
       else if (token.type === 'heading_open' && token.tag === 'h2') {
-        if (currentRecipe) {
+        if (currentRecipe && currentRecipe.title) {
           parsedRecipes.push(currentRecipe);
         }
         currentRecipe = {
-          title: '',
           category: category,
           ingredients: [],
           instructions: [],
-          duration: null,
           tips: [],
+          info: [],
           comments: [],
         };
         isH2 = true;
@@ -88,6 +87,9 @@ const App = () => {
           }
           else if (token.content.startsWith('Tipp')) {
             currentSection = 'tips';
+          }
+          else if (token.content.startsWith('Info')) {
+            currentSection = 'info';
           }
           firstElement = true;
         }
@@ -133,11 +135,17 @@ const App = () => {
               currentRecipe.tips.push(tip);
             });
           }
+          else if (currentSection === 'info') {
+            const info = token.content.trim().split('\n').filter(x => x !== '');
+            info.forEach(x => {
+              currentRecipe.info.push(x);
+            });
+          }
         }
       }
     });
 
-    if (currentRecipe) {
+    if (currentRecipe && currentRecipe.title) {
       parsedRecipes.push(currentRecipe);
     }
 
