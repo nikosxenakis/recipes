@@ -156,7 +156,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1>Rezeptbuch</h1>
+      <h1>REZEPTBUCH</h1>
       <RecipeList recipes={recipes} />
     </div>
   );
