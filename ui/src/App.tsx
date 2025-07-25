@@ -3,7 +3,7 @@ import RecipeList from './RecipeList';
 import MarkdownIt from 'markdown-it';
 import './App.css';
 
-const response = await fetch('/Rezeptbuch.md');
+const response = await fetch('/recipes/Rezeptbuch.md');
 const cookbook = await response.text();
 
 const App = () => {
