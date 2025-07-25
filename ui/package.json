@@ -28,7 +28,8 @@
   },
   "scripts": {
     "start": "vite",
-    "build": "tsc -b && vite build"
+    "build": "tsc -b && vite build",
+    "build:prod": "tsc -b && vite build --mode production"
   },
   "browserslist": {
     "production": [
