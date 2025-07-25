@@ -1,34 +1,34 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import RecipeList from './RecipeList';
 import MarkdownIt from 'markdown-it';
-import './assets/styles/App.css';
+import './App.css';
 import cookbook from './assets/Rezeptbuch.md';
 
 const App = () => {
-  const [recipes, setRecipes] = useState([]);
+  const [recipes, setRecipes] = useState<any[]>([]);
 
   useEffect(() => {
     parseMarkdown(cookbook);
   }, []);
 
-  const downloadJson = (data, filename = 'recipes.json') => {
-    const jsonStr = JSON.stringify(data, null, 2);
-    const blob = new Blob([jsonStr], { type: 'application/json' });
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement('a');
-    a.href = url;
-    a.download = filename;
-    document.body.appendChild(a);
-    a.click();
-    document.body.removeChild(a);
-  };
+  // const downloadJson = (data: any, filename = 'recipes.json') => {
+  //   const jsonStr = JSON.stringify(data, null, 2);
+  //   const blob = new Blob([jsonStr], { type: 'application/json' });
+  //   const url = URL.createObjectURL(blob);
+  //   const a = document.createElement('a');
+  //   a.href = url;
+  //   a.download = filename;
+  //   document.body.appendChild(a);
+  //   a.click();
+  //   document.body.removeChild(a);
+  // };
 
-  const parseMarkdown = (text) => {
+  const parseMarkdown = (text: string) => {
     const md = new MarkdownIt();
     const tokens = md.parse(text, {});
 
-    const parsedRecipes = [];
-    let currentRecipe = null;
+    const parsedRecipes: any[] = [];
+    let currentRecipe: any = null;
     let isH1 = false;
     let isH2 = false;
     let isH3 = false;
@@ -36,7 +36,7 @@ const App = () => {
     let firstElement = true;
     let category = '';
 
-    tokens.forEach(token => {
+    tokens.forEach((token: any) => {
       if (token.type === 'heading_open' && token.tag === 'h1') {
         isH1 = true;
       }
@@ -99,8 +99,8 @@ const App = () => {
         }
         else {
           if (currentSection === 'ingredients') {
-            const ingredients = token.content.trim().split('\n').filter(x => x !== '');
-            ingredients.forEach(ingredient => {
+            const ingredients = token.content.trim().split('\n').filter((x: string) => x !== '');
+            ingredients.forEach((ingredient: string) => {
               currentRecipe.ingredients.push(ingredient);
             });
           }
@@ -119,25 +119,25 @@ const App = () => {
               currentRecipe.duration = instructions[0];
               instructions.shift();
             }
-            instructions.filter(x => x !== '').forEach(instruction => {
+            instructions.filter((x: string) => x !== '').forEach((instruction: string) => {
               currentRecipe.instructions.push(instruction);
             });
           }
           else if (currentSection === 'comments') {
-            const comments = token.content.trim().split('\n').filter(x => x !== '');
-            comments.forEach(comment => {
+            const comments = token.content.trim().split('\n').filter((x: string) => x !== '');
+            comments.forEach((comment: string) => {
               currentRecipe.comments.push(comment);
             });
           }
           else if (currentSection === 'tips') {
-            const tips = token.content.trim().split('\n').filter(x => x !== '');
-            tips.forEach(tip => {
+            const tips = token.content.trim().split('\n').filter((x: string) => x !== '');
+            tips.forEach((tip: string) => {
               currentRecipe.tips.push(tip);
             });
           }
           else if (currentSection === 'info') {
-            const info = token.content.trim().split('\n').filter(x => x !== '');
-            info.forEach(x => {
+            const info = token.content.trim().split('\n').filter((x: string) => x !== '');
+            info.forEach((x: string) => {
               currentRecipe.info.push(x);
             });
           }
