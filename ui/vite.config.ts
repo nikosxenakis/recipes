@@ -4,6 +4,7 @@ import string from "vite-plugin-string";
 
 // https://vite.dev/config/
 export default defineConfig({
+    base: "/recipes/",
     plugins: [
         react(),
         string({
