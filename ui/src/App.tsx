@@ -2,7 +2,9 @@ import { useEffect, useState } from 'react';
 import RecipeList from './RecipeList';
 import MarkdownIt from 'markdown-it';
 import './App.css';
-import cookbook from './assets/Rezeptbuch.md';
+
+const response = await fetch('/Rezeptbuch.md');
+const cookbook = await response.text();
 
 const App = () => {
   const [recipes, setRecipes] = useState<any[]>([]);
