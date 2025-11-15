@@ -3,6 +3,15 @@ import RecipeList from './RecipeList';
 import type { Recipe, RecipeCollection } from './types/recipe';
 import './App.css';
 
+const formatDate = (isoDate: string): string => {
+  const date = new Date(isoDate);
+  return date.toLocaleDateString('de-DE', {
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+  });
+};
+
 const App = () => {
   const [recipes, setRecipes] = useState<Recipe[]>([]);
   const [loading, setLoading] = useState(true);
@@ -52,6 +61,9 @@ const App = () => {
     <div className="App">
       <h1>REZEPTBUCH</h1>
       <RecipeList recipes={recipes} />
+      <footer className="app-footer">
+        <p>Version {__APP_VERSION__} • Built on {formatDate(__BUILD_DATE__)}</p>
+      </footer>
     </div>
   );
 };

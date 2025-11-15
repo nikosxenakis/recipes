@@ -741,6 +741,8 @@ _Für die Füllung_
 325 g Kürbis
 2 TL Kreuzkümmel
 
+### Zubereitungszeit
+
 Den Backofen auf 210 Grad vorheizen. Den Kürbis kochen und pürieren.
 Für den Teig das Mehl in eine Schüssel geben, Käse und Butter dazugeben. Mit den Händen die Zutaten etwa 2 Minuten kneten, bis die Masse glatt und formbar ist.
 Den Teig auf einer leicht bemehlten Arbeitsfläche 10 Sekunden glatt und geschmeidig kneten. Mit Klarsichtfolien abdecken und 30 Minuten kühl stellen. Den Teig in 8 gleich große Portionen teilen, ausrollen und 8 tiefe, eingefettete Backförmchen auskleiden. 15 Minuten leicht braunbacken. Aus dem Ofen nehmen. Die Hitze auf 180 Grad reduzieren.
@@ -1857,6 +1859,8 @@ Außerdem:
 8 EL Olivenöl (plus etwas mehr zum Fetten des Backblechs)
 800 g kleine dunkle Trauben
 6 Zweige Thymian
+
+### Zubereitungszeit
 
 Zuerst Hefe auflösen. Dafür Hefe in einer großen Teigschüssel grob zerkrümeln. Von den 300 ml lauwarmem Wasser eine kleine Menge dazugeben. 1 TL Zucker hinzufügen, alles verrühren und einige Minuten so stehen lassen. Dann mit den Knethaken des Mixers das Mehl hineinrühren und nach und nach das restliche Wasser, bis ein glatter Teig entsteht. Auf einer bemehlten Arbeitsfläche noch mal mit den Händen kurz durchkneten. Eine Kugel formen, diese in eine Schüssel legen, mit Olivenöl bepinseln, die Schüssel mit einem feuchten Handtuch abdecken.
 Den Teig ungefähr 1 Stunde lang gehen lassen. Er sollte dann sein Volumen verdoppelt haben. Man rührt jetzt noch einmal mit dem Mixer 50 g Zucker und 4 EL Olivenöl unter, dann mit den Händen kurz durchkneten.

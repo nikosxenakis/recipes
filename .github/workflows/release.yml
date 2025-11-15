@@ -105,25 +105,22 @@ jobs:
           git push origin "v${{ steps.version.outputs.new_version }}" || echo "Tag already pushed"
 
       - name: Create GitHub Release
-        uses: actions/create-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag_name: v${{ steps.version.outputs.new_version }}
-          release_name: Release v${{ steps.version.outputs.new_version }}
-          body: |
-            ## Release v${{ steps.version.outputs.new_version }}
+        run: |
+          gh release create "v${{ steps.version.outputs.new_version }}" \
+            --title "Release v${{ steps.version.outputs.new_version }}" \
+            --notes "## Release v${{ steps.version.outputs.new_version }}
 
-            ### Changes
-            - Updated recipes and dependencies
-            - Built from commit ${{ github.sha }}
+          ### Changes
+          - Updated recipes and dependencies
+          - Built from commit ${{ github.sha }}
 
-            ### Deployment
-            This release is being deployed to GitHub Pages.
+          ### Deployment
+          This release is being deployed to GitHub Pages.
 
-            🤖 Generated with [Claude Code](https://claude.com/claude-code)
-          draft: false
-          prerelease: false
+          🤖 Generated with [Claude Code](https://claude.com/claude-code)" \
+            || echo "Release already exists"
         continue-on-error: true
 
       - name: Setup Pages
