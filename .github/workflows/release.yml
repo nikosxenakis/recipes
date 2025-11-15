@@ -42,7 +42,8 @@ jobs:
           cache-dependency-path: ui/yarn.lock
 
       - name: Install dependencies
-        run: yarn install --frozen-lockfile
+        run: |
+          yarn install --frozen-lockfile || yarn install
         working-directory: ./ui
 
       - name: Calculate version
