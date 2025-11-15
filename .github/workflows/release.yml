@@ -1,0 +1,131 @@
+name: Release and Deploy
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  release-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: yarn
+          cache-dependency-path: ui/yarn.lock
+
+      - name: Install dependencies
+        run: yarn install --frozen-lockfile
+        working-directory: ./ui
+
+      - name: Calculate version
+        id: version
+        run: |
+          cd ui
+          CURRENT_VERSION=$(node -p "require('./package.json').version")
+          echo "current_version=$CURRENT_VERSION" >> $GITHUB_OUTPUT
+
+          # Always increment major version
+          IFS='.' read -ra VERSION_PARTS <<< "$CURRENT_VERSION"
+          MAJOR=${VERSION_PARTS[0]}
+          NEW_VERSION="$((MAJOR + 1)).0.0"
+
+          echo "new_version=$NEW_VERSION" >> $GITHUB_OUTPUT
+          echo "📦 Current version: $CURRENT_VERSION"
+          echo "🆕 New version: $NEW_VERSION"
+
+      - name: Update package.json version
+        run: |
+          cd ui
+          npm version ${{ steps.version.outputs.new_version }} --no-git-tag-version
+
+      - name: Build recipes from markdown
+        run: yarn recipes:build
+        working-directory: ./ui
+
+      - name: Validate recipes
+        run: yarn recipes:validate
+        working-directory: ./ui
+
+      - name: Build production app
+        run: yarn build:prod
+        working-directory: ./ui
+
+      - name: Commit changes
+        run: |
+          git add .
+          git commit -m "Release v${{ steps.version.outputs.new_version }}
+
+          🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+          Co-Authored-By: Claude <noreply@anthropic.com>" || echo "No changes to commit"
+
+      - name: Create tag
+        run: |
+          git tag -a "v${{ steps.version.outputs.new_version }}" -m "Release v${{ steps.version.outputs.new_version }}" || echo "Tag already exists"
+
+      - name: Push changes
+        run: |
+          git push origin main || echo "Nothing to push"
+          git push origin "v${{ steps.version.outputs.new_version }}" || echo "Tag already pushed"
+
+      - name: Create GitHub Release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: v${{ steps.version.outputs.new_version }}
+          release_name: Release v${{ steps.version.outputs.new_version }}
+          body: |
+            ## Release v${{ steps.version.outputs.new_version }}
+
+            ### Changes
+            - Updated recipes and dependencies
+            - Built from commit ${{ github.sha }}
+
+            ### Deployment
+            This release is being deployed to GitHub Pages.
+
+            🤖 Generated with [Claude Code](https://claude.com/claude-code)
+          draft: false
+          prerelease: false
+        continue-on-error: true
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './ui/dist'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

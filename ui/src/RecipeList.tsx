@@ -1,7 +1,8 @@
 import React, { useState } from "react";
+import type { Recipe } from "./types/recipe";
 import "./RecipeList.css";
 
-const RecipeList = ({ recipes }: { recipes: any[] }) => {
+const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
     const [expandedRecipe, setExpandedRecipe] = useState<number | null>(null);
     const [currentPage, setCurrentPage] = useState(1);
     const [searchQuery, setSearchQuery] = useState("");
@@ -10,6 +11,34 @@ const RecipeList = ({ recipes }: { recipes: any[] }) => {
 
     const toggleVisibility = (index: number) => {
         setExpandedRecipe((prevState) => (prevState === index ? null : index));
+    };
+
+    // Merge consecutive ingredient sections without titles
+    const mergeIngredientSections = (sections: { title?: string; items: string[] }[]) => {
+        const merged: { title?: string; items: string[] }[] = [];
+        let currentUntitledSection: string[] = [];
+
+        sections.forEach((section) => {
+            if (section.title) {
+                // If we have accumulated untitled items, push them as a single section
+                if (currentUntitledSection.length > 0) {
+                    merged.push({ items: currentUntitledSection });
+                    currentUntitledSection = [];
+                }
+                // Push the titled section
+                merged.push(section);
+            } else {
+                // Accumulate items from untitled sections
+                currentUntitledSection.push(...section.items);
+            }
+        });
+
+        // Push any remaining untitled items
+        if (currentUntitledSection.length > 0) {
+            merged.push({ items: currentUntitledSection });
+        }
+
+        return merged;
     };
 
     const handleSearchChange = (event: React.ChangeEvent<HTMLInputElement>) => {
@@ -29,13 +58,18 @@ const RecipeList = ({ recipes }: { recipes: any[] }) => {
         setSearchTerms(searchTerms.filter((t) => t !== term));
     };
 
-    const filteredRecipes = recipes.filter((recipe) =>
-        searchTerms.every(
+    const filteredRecipes = recipes.filter((recipe) => {
+        // Filter by search terms
+        const matchesSearch = searchTerms.every(
             (term) =>
                 recipe.title.toLowerCase().includes(term.toLowerCase()) ||
-                recipe.ingredients.some((ingredient: string) => ingredient.toLowerCase().includes(term.toLowerCase())),
-        ),
-    );
+                recipe.ingredients.some((section) =>
+                    section.items.some((ingredient: string) => ingredient.toLowerCase().includes(term.toLowerCase())),
+                ),
+        );
+
+        return matchesSearch;
+    });
 
     const indexOfLastRecipe = currentPage * recipesPerPage;
     const indexOfFirstRecipe = indexOfLastRecipe - recipesPerPage;
@@ -57,18 +91,20 @@ const RecipeList = ({ recipes }: { recipes: any[] }) => {
 
     return (
         <div className="recipe-list">
-            <form onSubmit={handleSearchSubmit} className="search-bar-container">
-                <input
-                    type="text"
-                    placeholder="Search recipes..."
-                    value={searchQuery}
-                    onChange={handleSearchChange}
-                    className="search-bar"
-                />
-                <button type="submit" className="search-button">
-                    Search
-                </button>
-            </form>
+            <div className="filters-container">
+                <form onSubmit={handleSearchSubmit} className="search-bar-container">
+                    <input
+                        type="text"
+                        placeholder="Search recipes..."
+                        value={searchQuery}
+                        onChange={handleSearchChange}
+                        className="search-bar"
+                    />
+                    <button type="submit" className="search-button">
+                        Search
+                    </button>
+                </form>
+            </div>
             <div className="breadcrumbs">
                 {searchTerms.map((term, index) => (
                     <span key={index} className="breadcrumb">
@@ -89,12 +125,18 @@ const RecipeList = ({ recipes }: { recipes: any[] }) => {
                         <div className="recipe-details">
                             <h3>🔠 {recipe.category}</h3>
                             {recipe.duration && <p>⌛ {recipe.duration}</p>}
+                            {recipe.servings && <p>👥 {recipe.servings}</p>}
                             <h3>🥗 Zutaten</h3>
-                            <ul>
-                                {recipe.ingredients.map((ingredient: string, i: number) => (
-                                    <li key={i}>{ingredient}</li>
-                                ))}
-                            </ul>
+                            {mergeIngredientSections(recipe.ingredients).map((section, sectionIndex: number) => (
+                                <div key={sectionIndex} className="ingredient-section">
+                                    {section.title && <h4 className="ingredient-section-title">{section.title}</h4>}
+                                    <ul>
+                                        {section.items.map((ingredient: string, i: number) => (
+                                            <li key={i}>{ingredient}</li>
+                                        ))}
+                                    </ul>
+                                </div>
+                            ))}
                             <h3>📜 Zubereitung</h3>
                             <ul>
                                 {recipe.instructions.map((instruction: string, i: number) => (
@@ -124,8 +166,11 @@ const RecipeList = ({ recipes }: { recipes: any[] }) => {
                             {recipe.comments && recipe.comments.length > 0 && (
                                 <>
                                     <h3>Kommentar 💬</h3>
-                                    {recipe.comments.map((comment: string, i: number) => (
-                                        <p key={i}>{comment}</p>
+                                    {recipe.comments.map((comment, i: number) => (
+                                        <p key={i}>
+                                            {comment.user && <strong>{comment.user}: </strong>}
+                                            {comment.text}
+                                        </p>
                                     ))}
                                 </>
                             )}

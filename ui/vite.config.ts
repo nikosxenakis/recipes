@@ -1,24 +1,40 @@
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
-import string from "vite-plugin-string";
+import { copyFileSync, mkdirSync, readdirSync, statSync } from "fs";
+import { join } from "path";
+
+// Custom plugin to copy public files except markdown
+const copyPublicPlugin = () => ({
+    name: "copy-public",
+    closeBundle() {
+        const publicDir = join(process.cwd(), "public");
+        const distDir = join(process.cwd(), "dist");
+        mkdirSync(distDir, { recursive: true });
+
+        // Copy all files from public except .md files
+        const files = readdirSync(publicDir);
+        files.forEach((file) => {
+            const filePath = join(publicDir, file);
+            if (statSync(filePath).isFile() && !file.endsWith(".md")) {
+                copyFileSync(filePath, join(distDir, file));
+            }
+        });
+    },
+});
 
 // https://vite.dev/config/
 export default defineConfig({
     base: "/recipes/", // Needed for github pages
-    plugins: [
-        react(),
-        string({
-            include: ["**/*.md"],
-        }),
-    ],
+    plugins: [react(), copyPublicPlugin()],
+    publicDir: "public", // Serve all public files in dev
     build: {
+        copyPublicDir: false, // Disable default public dir copying, use our custom plugin
         rollupOptions: {
             output: {
                 manualChunks(id) {
                     if (id.includes("node_modules/react") || id.includes("node_modules/react-dom")) {
                         return "react";
                     }
-                    if (id.includes("Rezeptbuch.md")) return "rezeptbuch";
                 },
             },
         },

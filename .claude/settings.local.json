@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(yarn add:*)",
+      "Bash(yarn recipes:build:*)",
+      "Bash(yarn remove:*)",
+      "Bash(yarn recipes:validate)",
+      "Bash(yarn recipes:*)",
+      "Bash(yarn start)",
+      "Bash(yarn build:prod:*)",
+      "Bash(cat:*)",
+      "Bash(python -m json.tool:*)",
+      "Bash(yarn outdated:*)",
+      "Bash(yarn upgrade:*)",
+      "Bash(yarn install)",
+      "Bash(tasklist:*)",
+      "Bash(findstr:*)",
+      "Bash(yarn build)",
+      "Bash(dir:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
