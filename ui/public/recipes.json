@@ -2522,7 +2522,8 @@
         }
       ],
       "instructions": [],
-      "title": "Süße Focaccia mit Trauben und Thymian"
+      "title": "Süße Focaccia mit Trauben und Thymian",
+      "servings": "ungefähr 8 Portionen"
     },
     {
       "id": "recipe-68",
@@ -3968,7 +3969,6 @@
         "175 ml Milch",
         "2 EL frische oder TK-Blaubeeren",
         "Haferflocken, Vanille und Chiasamen in ein kleines Weckglas geben und mit der Milch übergießen. Umrühren und die Blaubeeren darüber geben. Das Glas verschließen und über Nacht in den Kühlschrank stellen.",
-        "\\*",
         "60 g Haferflocken",
         "175 ml Milch",
         "½ Banane, zerdrückt",
@@ -20617,7 +20617,6 @@
       ],
       "tips": [
         "Bei mehreren Personen lieber größere Stücke anbraten, anstatt für jeden 1 Steak. Also für 2 Personen 1 großes Steak besser teilen und dann aufschneiden. So bleibt das Fleisch saftiger. Die Garzeit muss dann einfach verdoppelt werden.",
-        "\\*",
         "_Für die Röstzwiebeln:_"
       ],
       "comments": [
@@ -21611,8 +21610,7 @@
       "instructions": [
         "Die großen Kalbsschnitzel in jeweils 3 kleine teilen, vorsichtig noch flacher klopfen, leicht pfeffern. Auf jedes Schnitzelchen je 1 Schinkenscheibe und 1 Salbeiblatt legen, mit Holzspießchen flach am Schnitzel feststecken.",
         "In einer Pfanne 2-3 EL Butter zerlassen. Die Schnitzelchen pro Seite jeweils 2-3 Min. braten. Leicht salzen und nochmals pfeffern, aus der Pfanne nehmen und abgedeckt warmhalten.",
-        "Den Bratensatz mit Wein ablöschen, etwa 2 Min. kräftig aufkochen. Mit dem Schneebesen 1 EL eiskalte Butterflöckchen in die Sauce rühren. Abschmecken, die Schnitzelchen in der Sauce nochmals kurz ziehen lassen.",
-        "\\*"
+        "Den Bratensatz mit Wein ablöschen, etwa 2 Min. kräftig aufkochen. Mit dem Schneebesen 1 EL eiskalte Butterflöckchen in die Sauce rühren. Abschmecken, die Schnitzelchen in der Sauce nochmals kurz ziehen lassen."
       ],
       "comments": [
         {
@@ -36798,8 +36796,7 @@
       "instructions": [
         "Den Kerbel waschen und gut trockenschütteln, die Blättchen von den Stielen zupfen, ein paar zum Garbieren zugedeckt beiseitestellen, den Rest grob hacken. Die Zwiebel pellen und fein würfeln. Aus den Tomaten die Stielansätze keilförmig herausschneiden, die Tomaten vierteln. Die Champignons putzen und in nicht zu dünne Scheiben schneiden.",
         "Die Butter in einer Pfanne erhitzen, die Zwiebelwürfel darin glasig dünsten. Die Champignonscheiben dazugeben und bei starker Hitze unter Wenden ca. 5 Minuten braten, bis sie goldbraun sind. Die Pilze mit Pfeffer, Cayennepfeffer und Salz kräftig würzen, die Tomaten und den gehackten Kerbel untermischen. Den Pfanneninhalt entweder in eine große flache, ofenfeste Form oder in vier kleine flache, ofenfeste Förmchen verteilen.",
-        "Die Crème fraîche mit dem Eigelb verquirlen und über die Gemüse gießen. Im Backofen mit dem vorgeheizten grill auf der zweiten Schiene von unten 5-6 Minuten übergrillen, bis die Oberfläche goldbraun ist. Mit den restlichen Kerbelblättchen garnieren und sofort servieren.",
-        "\\*\\*"
+        "Die Crème fraîche mit dem Eigelb verquirlen und über die Gemüse gießen. Im Backofen mit dem vorgeheizten grill auf der zweiten Schiene von unten 5-6 Minuten übergrillen, bis die Oberfläche goldbraun ist. Mit den restlichen Kerbelblättchen garnieren und sofort servieren."
       ],
       "title": "Champignons-Tomatengratin mit Kerbel",
       "servings": "4 Portionen",
@@ -74407,5 +74404,5 @@
       "title": "Eistee"
     }
   ],
-  "generatedAt": "2025-11-15T00:09:26.019Z"
+  "generatedAt": "2025-11-15T00:23:24.982Z"
 }
