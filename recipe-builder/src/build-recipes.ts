@@ -234,6 +234,14 @@ const buildRecipes = () => {
 
       const recipes = parseMarkdown(markdown);
       const cleaned = cleanRecipes(recipes);
+
+      // Add Christine as creator for Rezeptbuch.md recipes
+      if (file.toLowerCase() === 'rezeptbuch.md') {
+        cleaned.forEach(recipe => {
+          recipe.creator = 'Christine';
+        });
+      }
+
       console.log(`   ✓ Parsed ${cleaned.length} recipes from ${file}`);
 
       allRecipes.push(...cleaned);

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "spaghetti-carbonara",
+    "title": "Spaghetti Carbonara",
+    "category": "Hauptgerichte",
+    "creator": "Example Chef",
+    "createdAt": "2025-11-15T12:00:00Z",
+    "servings": "4 Portionen",
+    "duration": "25 Minuten",
+    "ingredients": [
+      {
+        "items": [
+          "400g Spaghetti",
+          "200g Pancetta oder Guanciale, gewürfelt",
+          "4 Eigelb",
+          "100g Parmigiano Reggiano, gerieben",
+          "Salz und schwarzer Pfeffer"
+        ]
+      }
+    ],
+    "instructions": [
+      "Spaghetti in reichlich Salzwasser nach Packungsanweisung al dente kochen.",
+      "Pancetta in einer Pfanne ohne Öl knusprig braten.",
+      "Eigelb mit geriebenem Parmesan vermischen und mit Pfeffer würzen.",
+      "Gekochte Spaghetti abgießen, etwas Nudelwasser aufbewahren.",
+      "Heiße Spaghetti mit Pancetta mischen, Pfanne vom Herd nehmen.",
+      "Ei-Käse-Mischung unterrühren, bei Bedarf etwas Nudelwasser hinzufügen.",
+      "Sofort servieren mit extra Parmesan und Pfeffer."
+    ],
+    "tips": [
+      "Die Sauce darf nicht zu heiß werden, sonst stockt das Ei.",
+      "Traditionell wird keine Sahne verwendet.",
+      "Das Nudelwasser hilft, die Sauce cremig zu machen."
+    ],
+    "comments": [
+      {
+        "user": "Maria",
+        "text": "Perfekt! Genau wie in Italien!"
+      }
+    ]
+  }
+]

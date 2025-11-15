@@ -201,12 +201,28 @@
 
 .recipe-meta {
     display: flex;
+    justify-content: space-between;
     flex-wrap: wrap;
     gap: 10px;
     align-items: center;
     margin-bottom: 20px;
     padding-bottom: 15px;
     border-bottom: 1px solid #e0e0e0;
+}
+
+.recipe-meta-left {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+}
+
+.recipe-meta-right {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    margin-left: auto;
 }
 
 .category-tag {

@@ -16,6 +16,8 @@ export interface Recipe {
   servings?: string; // Changed from number to string to support text like "4 Personen", "2-3 Portionen", etc.
   difficulty?: 'einfach' | 'mittel' | 'schwer';
   tags?: string[];
+  creator?: string; // Recipe creator/author name
+  createdAt?: string; // ISO 8601 date string
   ingredients: IngredientSection[];
   instructions: string[];
   tips?: string[];

@@ -30,7 +30,9 @@
       "Bash(else echo \"✗ recipes.json missing\")",
       "Bash(if [ -d ui/public/recipes ])",
       "Bash(then echo \"✗ recipes/ folder still exists\")",
-      "Bash(else echo \"✓ recipes/ folder removed\")"
+      "Bash(else echo \"✓ recipes/ folder removed\")",
+      "Bash(git restore:*)",
+      "Bash(README.md)"
     ],
     "deny": [],
     "ask": []
