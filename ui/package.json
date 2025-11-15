@@ -27,9 +27,7 @@
   },
   "scripts": {
     "start": "vite",
-    "prebuild": "yarn --cwd ../recipe-builder build",
-    "build": "tsc -b && vite build",
-    "clean": "yarn --cwd ../recipe-builder clean"
+    "build": "tsc -b && vite build"
   },
   "browserslist": {
     "production": [

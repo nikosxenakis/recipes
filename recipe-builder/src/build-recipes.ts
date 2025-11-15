@@ -202,81 +202,9 @@ const cleanRecipes = (recipes: Recipe[]): Recipe[] => {
   });
 };
 
-const validateRecipe = (recipe: Recipe, index: number): string[] => {
-  const errors: string[] = [];
-
-  if (!recipe.id) {
-    errors.push(`Recipe at index ${index}: Missing id`);
-  }
-  if (!recipe.title || recipe.title.trim() === '') {
-    errors.push(`Recipe at index ${index}: Missing or empty title`);
-  }
-  if (!recipe.category || recipe.category.trim() === '') {
-    errors.push(`Recipe at index ${index} (${recipe.title}): Missing or empty category`);
-  }
-  if (!recipe.ingredients || recipe.ingredients.length === 0) {
-    errors.push(`Recipe at index ${index} (${recipe.title}): Missing ingredients`);
-  }
-  if (!recipe.instructions || recipe.instructions.length === 0) {
-    errors.push(`Recipe at index ${index} (${recipe.title}): Missing instructions`);
-  }
-
-  // Validate arrays are actually arrays
-  if (!Array.isArray(recipe.ingredients)) {
-    errors.push(`Recipe at index ${index} (${recipe.title}): ingredients is not an array`);
-  }
-  if (!Array.isArray(recipe.instructions)) {
-    errors.push(`Recipe at index ${index} (${recipe.title}): instructions is not an array`);
-  }
-
-  return errors;
-};
-
-const validateCollection = (collection: RecipeCollection): string[] => {
-  const errors: string[] = [];
-
-  if (!collection.version) {
-    errors.push('Collection: Missing version');
-  }
-  if (!collection.recipes || !Array.isArray(collection.recipes)) {
-    errors.push('Collection: Missing or invalid recipes array');
-    return errors; // Can't continue if recipes is not an array
-  }
-  if (collection.totalRecipes !== collection.recipes.length) {
-    errors.push(
-      `Collection: totalRecipes (${collection.totalRecipes}) doesn't match actual count (${collection.recipes.length})`
-    );
-  }
-
-  // Validate each recipe
-  collection.recipes.forEach((recipe, index) => {
-    const recipeErrors = validateRecipe(recipe, index);
-    errors.push(...recipeErrors);
-  });
-
-  // Check for duplicate IDs
-  const ids = collection.recipes.map((r) => r.id);
-  const duplicateIds = ids.filter((id, index) => ids.indexOf(id) !== index);
-  if (duplicateIds.length > 0) {
-    errors.push(`Collection: Duplicate recipe IDs found: ${duplicateIds.join(', ')}`);
-  }
-
-  // Check for duplicate titles
-  const titles = collection.recipes.map((r) => r.title);
-  const duplicateTitles = titles.filter((title, index) => titles.indexOf(title) !== index);
-  if (duplicateTitles.length > 0) {
-    errors.push(`Collection: Duplicate recipe titles found: ${duplicateTitles.join(', ')}`);
-  }
-
-  return errors;
-};
-
 const buildRecipes = () => {
-  const recipesDir = join(__dirname, '../../data');
-  const outputDir = join(__dirname, '../../ui/public/recipes');
-
-  // Ensure output directory exists
-  mkdirSync(outputDir, { recursive: true });
+  const recipesDir = join(__dirname, '../data');
+  const outputPath = join(__dirname, '../../ui/public/recipes.json');
 
   console.log('📂 Scanning recipes directory...');
 
@@ -294,7 +222,6 @@ const buildRecipes = () => {
   files.forEach((file) => {
     const filePath = join(recipesDir, file);
     const ext = extname(file).toLowerCase();
-    const baseName = basename(file, ext);
 
     if (ext === '.md') {
       console.log(`📖 Processing markdown: ${file}...`);
@@ -307,11 +234,7 @@ const buildRecipes = () => {
 
       const recipes = parseMarkdown(markdown);
       const cleaned = cleanRecipes(recipes);
-
-      // Save individual JSON file
-      const jsonOutputPath = join(outputDir, `${baseName}.json`);
-      writeFileSync(jsonOutputPath, JSON.stringify(cleaned, null, 2), 'utf-8');
-      console.log(`   💾 Saved ${cleaned.length} recipes to ${baseName}.json`);
+      console.log(`   ✓ Parsed ${cleaned.length} recipes from ${file}`);
 
       allRecipes.push(...cleaned);
     } else if (ext === '.json') {
@@ -319,11 +242,7 @@ const buildRecipes = () => {
       const content = readFileSync(filePath, 'utf-8');
       const recipes = JSON.parse(content) as Recipe[];
       const cleaned = cleanRecipes(recipes);
-
-      // Copy to output directory
-      const jsonOutputPath = join(outputDir, file);
-      writeFileSync(jsonOutputPath, JSON.stringify(cleaned, null, 2), 'utf-8');
-      console.log(`   💾 Copied ${cleaned.length} recipes to output`);
+      console.log(`   ✓ Loaded ${cleaned.length} recipes from ${file}`);
 
       allRecipes.push(...cleaned);
     }
@@ -343,31 +262,11 @@ const buildRecipes = () => {
 
   console.log(`✅ Processed ${allRecipes.length} total recipes across ${categories.length} categories`);
 
-  // Save merged recipes.json
-  const mergedOutputPath = join(__dirname, '../../ui/public/recipes.json');
-  writeFileSync(mergedOutputPath, JSON.stringify(collection, null, 2), 'utf-8');
+  // Save recipes.json
+  writeFileSync(outputPath, JSON.stringify(collection, null, 2), 'utf-8');
 
-  console.log(`💾 Saved merged recipes to recipes.json`);
-
-  // Validate the collection
-  console.log('\n🔍 Validating recipes...');
-  const errors = validateCollection(collection);
-
-  console.log(`   Total recipes: ${collection.totalRecipes}`);
-  console.log(`   Categories: ${collection.categories.length}`);
-
-  if (errors.length > 0) {
-    console.warn(`\n⚠️  Found ${errors.length} validation warnings:`);
-    errors.slice(0, 10).forEach((error) => console.warn(`   - ${error}`));
-    if (errors.length > 10) {
-      console.warn(`   ... and ${errors.length - 10} more warnings`);
-    }
-    console.warn('\n💡 These are data quality issues in the source files.');
-  } else {
-    console.log('   No validation warnings!');
-  }
-
-  console.log('\n✨ Build complete!');
+  console.log(`💾 Saved recipes to recipes.json`);
+  console.log('✨ Build complete!');
 };
 
 buildRecipes();

@@ -15,19 +15,24 @@ yarn install
 # Build recipes
 yarn build
 
+# Validate recipes
+yarn validate
+
 # Clean generated files
 yarn clean
 ```
 
 ## What it does
 
-1. Scans `../data/` for `.md` and `.json` recipe files
+1. Scans `data/` folder for `.md` and `.json` recipe files
 2. Parses markdown into structured JSON
-3. Validates recipes for data quality
-4. Outputs to `../ui/public/recipes/` and `../ui/public/recipes.json`
+3. Merges all recipes into a single collection
+4. Outputs to `../ui/public/recipes.json`
 
 ## Structure
 
+- `data/` - Recipe source files (markdown or JSON)
 - `src/build-recipes.ts` - Main build script
+- `src/validate.ts` - Validate generated recipes
 - `src/clean.ts` - Clean generated files
 - `src/tsconfig.json` - TypeScript configuration

@@ -74,16 +74,16 @@ jobs:
           cd ui
           npm version ${{ steps.version.outputs.new_version }} --no-git-tag-version
 
-      - name: Build recipes from markdown
-        run: yarn recipes:build
-        working-directory: ./ui
+      - name: Build recipes
+        run: yarn build
+        working-directory: ./recipe-builder
 
       - name: Validate recipes
-        run: yarn recipes:validate
-        working-directory: ./ui
+        run: yarn validate
+        working-directory: ./recipe-builder
 
-      - name: Build production app
-        run: yarn build:prod
+      - name: Build UI
+        run: yarn build
         working-directory: ./ui
 
       - name: Commit changes

@@ -8,12 +8,7 @@ const __dirname = dirname(__filename);
 const clean = () => {
   console.log('🧹 Cleaning generated files...');
 
-  const recipesDir = join(__dirname, '../../ui/public/recipes');
   const recipesJson = join(__dirname, '../../ui/public/recipes.json');
-
-  // Remove recipes directory
-  rmSync(recipesDir, { recursive: true, force: true });
-  console.log('   ✓ Removed ui/public/recipes/');
 
   // Remove recipes.json
   rmSync(recipesJson, { force: true });

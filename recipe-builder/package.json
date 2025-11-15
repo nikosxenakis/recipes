@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "build": "tsx src/build-recipes.ts",
+    "validate": "tsx src/validate.ts",
     "clean": "tsx src/clean.ts"
   },
   "devDependencies": {

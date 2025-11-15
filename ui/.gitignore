@@ -2,6 +2,5 @@
 /dist
 /ui
 
-# Generated recipe files
-/public/recipes/
+# Generated recipe file
 /public/recipes.json

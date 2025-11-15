@@ -13,15 +13,11 @@ yarn start
 
 # Build for production
 yarn build
-
-# Clean generated files
-yarn clean
 ```
 
 ## Scripts
 
-- `yarn start` - Start development server with Vite
-- `yarn build` - Build for production (includes prebuild step)
-- `yarn clean` - Remove generated recipe JSON files
+- `yarn start` - Start development server
+- `yarn build` - Build production bundle
 
-Runs the `recipe-builder` to generate JSON files from `data/` before building the UI.
+Note: Recipe JSON files must be generated separately via `recipe-builder` before starting the UI.

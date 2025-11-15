@@ -24,7 +24,13 @@
       "Bash(fi)",
       "Bash(if [ -d public/recipes ])",
       "Bash(then echo \"✓ recipes/ folder exists\")",
-      "Bash(npx tsc:*)"
+      "Bash(npx tsc:*)",
+      "Bash(yarn validate:*)",
+      "Bash(if [ -f ui/public/recipes.json ])",
+      "Bash(else echo \"✗ recipes.json missing\")",
+      "Bash(if [ -d ui/public/recipes ])",
+      "Bash(then echo \"✗ recipes/ folder still exists\")",
+      "Bash(else echo \"✓ recipes/ folder removed\")"
     ],
     "deny": [],
     "ask": []
