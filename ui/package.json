@@ -27,12 +27,9 @@
   },
   "scripts": {
     "start": "vite",
-    "prebuild": "tsx scripts/build-recipes.ts",
+    "prebuild": "yarn --cwd ../recipe-builder build",
     "build": "tsc -b && vite build",
-    "build:prod": "tsx scripts/build-recipes.ts && tsc -b && vite build --mode production",
-    "recipes:build": "tsx scripts/build-recipes.ts",
-    "recipes:validate": "tsx scripts/validate-recipes.ts",
-    "recipes": "yarn recipes:build && yarn recipes:validate"
+    "clean": "yarn --cwd ../recipe-builder clean"
   },
   "browserslist": {
     "production": [

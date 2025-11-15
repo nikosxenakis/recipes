@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react";
 import { copyFileSync, mkdirSync, readdirSync, statSync } from "fs";
 import { join } from "path";
 
-// Custom plugin to copy public files except markdown
+// Custom plugin to copy public files except markdown and recipes subfolder
 const copyPublicPlugin = () => ({
     name: "copy-public",
     closeBundle() {
@@ -11,10 +11,11 @@ const copyPublicPlugin = () => ({
         const distDir = join(process.cwd(), "dist");
         mkdirSync(distDir, { recursive: true });
 
-        // Copy all files from public except .md files
+        // Copy all files from public except .md files and recipes folder
         const files = readdirSync(publicDir);
         files.forEach((file) => {
             const filePath = join(publicDir, file);
+            // Skip directories (like recipes folder) and .md files
             if (statSync(filePath).isFile() && !file.endsWith(".md")) {
                 copyFileSync(filePath, join(distDir, file));
             }

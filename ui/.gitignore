@@ -1,3 +1,7 @@
 /node_modules
 /dist
 /ui
+
+# Generated recipe files
+/public/recipes/
+/public/recipes.json

@@ -13,6 +13,32 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
         setExpandedRecipe((prevState) => (prevState === index ? null : index));
     };
 
+    // Get initials from name for avatar
+    const getInitials = (name: string): string => {
+        const parts = name.trim().split(" ");
+        if (parts.length >= 2) {
+            return (parts[0][0] + parts[parts.length - 1][0]).toUpperCase();
+        }
+        return parts[0].substring(0, 2).toUpperCase();
+    };
+
+    // Generate color from string
+    const getColorFromString = (str: string): string => {
+        const colors = [
+            "#b87c7c",
+            "#7cb8b8",
+            "#b8b87c",
+            "#b87ca8",
+            "#7ca8b8",
+            "#a8b87c",
+        ];
+        let hash = 0;
+        for (let i = 0; i < str.length; i++) {
+            hash = str.charCodeAt(i) + ((hash << 5) - hash);
+        }
+        return colors[Math.abs(hash) % colors.length];
+    };
+
     // Merge consecutive ingredient sections without titles
     const mergeIngredientSections = (sections: { title?: string; items: string[] }[]) => {
         const merged: { title?: string; items: string[] }[] = [];
@@ -168,12 +194,26 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
                             {recipe.comments && recipe.comments.length > 0 && (
                                 <>
                                     <h3>Kommentar 💬</h3>
-                                    {recipe.comments.map((comment, i: number) => (
-                                        <p key={i}>
-                                            {comment.user && <strong>{comment.user}: </strong>}
-                                            {comment.text}
-                                        </p>
-                                    ))}
+                                    <div className="comments-section">
+                                        {recipe.comments.map((comment, i: number) => (
+                                            <div key={i} className="comment">
+                                                <div
+                                                    className="comment-avatar"
+                                                    style={{
+                                                        backgroundColor: comment.user
+                                                            ? getColorFromString(comment.user)
+                                                            : "#999",
+                                                    }}
+                                                >
+                                                    {comment.user ? getInitials(comment.user) : "?"}
+                                                </div>
+                                                <div className="comment-content">
+                                                    {comment.user && <div className="comment-author">{comment.user}</div>}
+                                                    <div className="comment-text">{comment.text}</div>
+                                                </div>
+                                            </div>
+                                        ))}
+                                    </div>
                                 </>
                             )}
                         </div>

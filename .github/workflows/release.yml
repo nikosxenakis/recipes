@@ -39,9 +39,16 @@ jobs:
         with:
           node-version: 22
           cache: yarn
-          cache-dependency-path: ui/yarn.lock
+          cache-dependency-path: |
+            recipe-builder/yarn.lock
+            ui/yarn.lock
 
-      - name: Install dependencies
+      - name: Install recipe-builder dependencies
+        run: |
+          yarn install --frozen-lockfile || yarn install
+        working-directory: ./recipe-builder
+
+      - name: Install UI dependencies
         run: |
           yarn install --frozen-lockfile || yarn install
         working-directory: ./ui
