@@ -85,12 +85,9 @@ _Für die Rollen:_
 2 Karotten
 ½ Salatgurke
 1 rote Paprikaschote
-
 8 runde Reispapierblätter (plus ein paar zusätzliche – zur Sicherheit)
 50 g Babyspinat
-
 einige Blätter Thai-Basilikum
-
 einige Blätter Minze
 50 g Linsensprossen
 
@@ -115,7 +112,6 @@ Ganz frisch und mit viel Hot Chili Sauce genießen.
 1 TL Honig
 1 Prise Chilipulver
 125 g kleine Mozzarellakugeln
-
 4 Scheiben roh geräucherten Schinken
 ½ Bund Basilikum
 2 EL Olivenöl
@@ -260,7 +256,6 @@ Jostabeeren sind eine Kreuzung aus schwarzen Johannisbeeren und Stachelbeeren.
 
 400 g Mehl
 Salz, Pfeffer
-
 5 frische Shiitake Pilze
 50 g Schnittlauch
 100 g Sojasprossen
@@ -325,7 +320,6 @@ Pilze und Hackfleisch – schon eine sehr besondere Mischung.
 125 ml Milch
 1 Prise Salz
 1 Zitrone, Schale fein abgerieben
-
 5 Eigelb
 ½ TL Kokosblütenzucker
 ½ TL Semmelbrösel
@@ -364,7 +358,6 @@ Salz, Pfeffer
 
 _Zucchini:_
 500 g kleine Zucchini
-
 Etwa 8 EL Olivenöl
 ½ Bund glatte Petersilie
 ½ Bund Basilikum
@@ -375,12 +368,9 @@ Salz, Pfeffer
 _Pilze:_
 300 g kleine Champignons
 2 Schalotten
-
 4 Knoblauchzehen
 4 EL Olivenöl
-
 1/8 l trockener Weißwein
-
 1-2 EL Zitronensaft
 Salz
 ½ TL weiße Pfefferkörner
@@ -437,7 +427,6 @@ Das Kalbfleisch vorm Servieren mit den restlichen Kapern bestreuen.
 250 g mehligkochende Kartoffeln
 Salz, Pfeffer
 1 EL Pinienlerne
-
 8-10 Stiele Basilikum
 125 g Frischkäse
 1 Eiweiß

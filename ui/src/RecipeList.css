@@ -198,3 +198,32 @@
     margin-bottom: 8px;
     margin-top: 0;
 }
+
+.recipe-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.category-tag {
+    background-color: #b87c7c;
+    color: white;
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: 600;
+    display: inline-block;
+}
+
+.meta-info {
+    background-color: #f5f5f5;
+    color: #666;
+    padding: 6px 12px;
+    border-radius: 15px;
+    font-size: 14px;
+    display: inline-block;
+}

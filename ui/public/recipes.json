@@ -131,22 +131,10 @@
             "50 g Kokosraspel",
             "2 Karotten",
             "½ Salatgurke",
-            "1 rote Paprikaschote"
-          ]
-        },
-        {
-          "items": [
+            "1 rote Paprikaschote",
             "8 runde Reispapierblätter (plus ein paar zusätzliche – zur Sicherheit)",
-            "50 g Babyspinat"
-          ]
-        },
-        {
-          "items": [
-            "einige Blätter Thai-Basilikum"
-          ]
-        },
-        {
-          "items": [
+            "50 g Babyspinat",
+            "einige Blätter Thai-Basilikum",
             "einige Blätter Minze",
             "50 g Linsensprossen"
           ]
@@ -176,11 +164,7 @@
             "1 EL Zitronensaft",
             "1 TL Honig",
             "1 Prise Chilipulver",
-            "125 g kleine Mozzarellakugeln"
-          ]
-        },
-        {
-          "items": [
+            "125 g kleine Mozzarellakugeln",
             "4 Scheiben roh geräucherten Schinken",
             "½ Bund Basilikum",
             "2 EL Olivenöl",
@@ -358,11 +342,7 @@
         {
           "items": [
             "400 g Mehl",
-            "Salz, Pfeffer"
-          ]
-        },
-        {
-          "items": [
+            "Salz, Pfeffer",
             "5 frische Shiitake Pilze",
             "50 g Schnittlauch",
             "100 g Sojasprossen",
@@ -436,11 +416,7 @@
             "500 ml Schlagsahne",
             "125 ml Milch",
             "1 Prise Salz",
-            "1 Zitrone, Schale fein abgerieben"
-          ]
-        },
-        {
-          "items": [
+            "1 Zitrone, Schale fein abgerieben",
             "5 Eigelb",
             "½ TL Kokosblütenzucker",
             "½ TL Semmelbrösel",
@@ -488,11 +464,7 @@
         {
           "title": "Zucchini",
           "items": [
-            "500 g kleine Zucchini"
-          ]
-        },
-        {
-          "items": [
+            "500 g kleine Zucchini",
             "Etwa 8 EL Olivenöl",
             "½ Bund glatte Petersilie",
             "½ Bund Basilikum",
@@ -505,22 +477,10 @@
           "title": "Pilze",
           "items": [
             "300 g kleine Champignons",
-            "2 Schalotten"
-          ]
-        },
-        {
-          "items": [
+            "2 Schalotten",
             "4 Knoblauchzehen",
-            "4 EL Olivenöl"
-          ]
-        },
-        {
-          "items": [
-            "1/8 l trockener Weißwein"
-          ]
-        },
-        {
-          "items": [
+            "4 EL Olivenöl",
+            "1/8 l trockener Weißwein",
             "1-2 EL Zitronensaft",
             "Salz",
             "½ TL weiße Pfefferkörner",
@@ -585,11 +545,7 @@
           "items": [
             "250 g mehligkochende Kartoffeln",
             "Salz, Pfeffer",
-            "1 EL Pinienlerne"
-          ]
-        },
-        {
-          "items": [
+            "1 EL Pinienlerne",
             "8-10 Stiele Basilikum",
             "125 g Frischkäse",
             "1 Eiweiß",
@@ -2522,7 +2478,8 @@
         }
       ],
       "instructions": [],
-      "title": "Süße Focaccia mit Trauben und Thymian"
+      "title": "Süße Focaccia mit Trauben und Thymian",
+      "servings": "ungefähr 8 Portionen"
     },
     {
       "id": "recipe-68",
@@ -3968,7 +3925,6 @@
         "175 ml Milch",
         "2 EL frische oder TK-Blaubeeren",
         "Haferflocken, Vanille und Chiasamen in ein kleines Weckglas geben und mit der Milch übergießen. Umrühren und die Blaubeeren darüber geben. Das Glas verschließen und über Nacht in den Kühlschrank stellen.",
-        "\\*",
         "60 g Haferflocken",
         "175 ml Milch",
         "½ Banane, zerdrückt",
@@ -20617,7 +20573,6 @@
       ],
       "tips": [
         "Bei mehreren Personen lieber größere Stücke anbraten, anstatt für jeden 1 Steak. Also für 2 Personen 1 großes Steak besser teilen und dann aufschneiden. So bleibt das Fleisch saftiger. Die Garzeit muss dann einfach verdoppelt werden.",
-        "\\*",
         "_Für die Röstzwiebeln:_"
       ],
       "comments": [
@@ -21611,8 +21566,7 @@
       "instructions": [
         "Die großen Kalbsschnitzel in jeweils 3 kleine teilen, vorsichtig noch flacher klopfen, leicht pfeffern. Auf jedes Schnitzelchen je 1 Schinkenscheibe und 1 Salbeiblatt legen, mit Holzspießchen flach am Schnitzel feststecken.",
         "In einer Pfanne 2-3 EL Butter zerlassen. Die Schnitzelchen pro Seite jeweils 2-3 Min. braten. Leicht salzen und nochmals pfeffern, aus der Pfanne nehmen und abgedeckt warmhalten.",
-        "Den Bratensatz mit Wein ablöschen, etwa 2 Min. kräftig aufkochen. Mit dem Schneebesen 1 EL eiskalte Butterflöckchen in die Sauce rühren. Abschmecken, die Schnitzelchen in der Sauce nochmals kurz ziehen lassen.",
-        "\\*"
+        "Den Bratensatz mit Wein ablöschen, etwa 2 Min. kräftig aufkochen. Mit dem Schneebesen 1 EL eiskalte Butterflöckchen in die Sauce rühren. Abschmecken, die Schnitzelchen in der Sauce nochmals kurz ziehen lassen."
       ],
       "comments": [
         {
@@ -36798,8 +36752,7 @@
       "instructions": [
         "Den Kerbel waschen und gut trockenschütteln, die Blättchen von den Stielen zupfen, ein paar zum Garbieren zugedeckt beiseitestellen, den Rest grob hacken. Die Zwiebel pellen und fein würfeln. Aus den Tomaten die Stielansätze keilförmig herausschneiden, die Tomaten vierteln. Die Champignons putzen und in nicht zu dünne Scheiben schneiden.",
         "Die Butter in einer Pfanne erhitzen, die Zwiebelwürfel darin glasig dünsten. Die Champignonscheiben dazugeben und bei starker Hitze unter Wenden ca. 5 Minuten braten, bis sie goldbraun sind. Die Pilze mit Pfeffer, Cayennepfeffer und Salz kräftig würzen, die Tomaten und den gehackten Kerbel untermischen. Den Pfanneninhalt entweder in eine große flache, ofenfeste Form oder in vier kleine flache, ofenfeste Förmchen verteilen.",
-        "Die Crème fraîche mit dem Eigelb verquirlen und über die Gemüse gießen. Im Backofen mit dem vorgeheizten grill auf der zweiten Schiene von unten 5-6 Minuten übergrillen, bis die Oberfläche goldbraun ist. Mit den restlichen Kerbelblättchen garnieren und sofort servieren.",
-        "\\*\\*"
+        "Die Crème fraîche mit dem Eigelb verquirlen und über die Gemüse gießen. Im Backofen mit dem vorgeheizten grill auf der zweiten Schiene von unten 5-6 Minuten übergrillen, bis die Oberfläche goldbraun ist. Mit den restlichen Kerbelblättchen garnieren und sofort servieren."
       ],
       "title": "Champignons-Tomatengratin mit Kerbel",
       "servings": "4 Portionen",
@@ -74407,5 +74360,5 @@
       "title": "Eistee"
     }
   ],
-  "generatedAt": "2025-11-15T00:09:26.019Z"
+  "generatedAt": "2025-11-15T00:28:15.705Z"
 }

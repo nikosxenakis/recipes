@@ -123,9 +123,11 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
                     <h2 onClick={() => toggleVisibility(indexOfFirstRecipe + index)}>{recipe.title}</h2>
                     {expandedRecipe === indexOfFirstRecipe + index && (
                         <div className="recipe-details">
-                            <h3>🔠 {recipe.category}</h3>
-                            {recipe.duration && <p>⌛ {recipe.duration}</p>}
-                            {recipe.servings && <p>👥 {recipe.servings}</p>}
+                            <div className="recipe-meta">
+                                <span className="category-tag">{recipe.category}</span>
+                                {recipe.duration && <span className="meta-info">⌛ {recipe.duration}</span>}
+                                {recipe.servings && <span className="meta-info">👥 {recipe.servings}</span>}
+                            </div>
                             <h3>🥗 Zutaten</h3>
                             {mergeIngredientSections(recipe.ingredients).map((section, sectionIndex: number) => (
                                 <div key={sectionIndex} className="ingredient-section">
