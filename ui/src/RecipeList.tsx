@@ -318,13 +318,36 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
               </div>
             )}
             {expandedRecipe === indexOfFirstRecipe + index && (
-              <button
-                className="copy-link-button"
-                onClick={(e) => copyRecipeLink(recipe.title, e)}
-                title="Copy recipe link"
-              >
-                🔗
-              </button>
+              <div className="recipe-header-actions">
+                {recipe.creator && (
+                  <span className="creator-badge-header">
+                    {getUserPhoto(recipe.creator) ? (
+                      <img
+                        src={getUserPhoto(recipe.creator)}
+                        alt={getUserName(recipe.creator)}
+                        className="user-avatar-small"
+                      />
+                    ) : (
+                      <div
+                        className="user-avatar-small user-avatar-initials"
+                        style={{
+                          backgroundColor: getColorFromString(getUserName(recipe.creator)),
+                        }}
+                      >
+                        {getInitials(getUserName(recipe.creator))}
+                      </div>
+                    )}
+                    {getUserName(recipe.creator)}
+                  </span>
+                )}
+                <button
+                  className="copy-link-button"
+                  onClick={(e) => copyRecipeLink(recipe.title, e)}
+                  title="Copy recipe link"
+                >
+                  🔗
+                </button>
+              </div>
             )}
           </div>
           {expandedRecipe === indexOfFirstRecipe + index && (
@@ -335,32 +358,9 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
                   {recipe.duration && <span className="meta-info">⌛ {recipe.duration}</span>}
                   {recipe.servings && <span className="meta-info">👥 {recipe.servings}</span>}
                 </div>
-                {(recipe.creator || recipe.createdAt) && (
+                {recipe.createdAt && (
                   <div className="recipe-meta-right">
-                    {recipe.creator && (
-                      <span className="meta-info creator-badge">
-                        {getUserPhoto(recipe.creator) ? (
-                          <img
-                            src={getUserPhoto(recipe.creator)}
-                            alt={getUserName(recipe.creator)}
-                            className="user-avatar-small"
-                          />
-                        ) : (
-                          <div
-                            className="user-avatar-small user-avatar-initials"
-                            style={{
-                              backgroundColor: getColorFromString(getUserName(recipe.creator)),
-                            }}
-                          >
-                            {getInitials(getUserName(recipe.creator))}
-                          </div>
-                        )}
-                        {getUserName(recipe.creator)}
-                      </span>
-                    )}
-                    {recipe.createdAt && (
-                      <span className="meta-info">📅 {formatDate(recipe.createdAt)}</span>
-                    )}
+                    <span className="meta-info">📅 {formatDate(recipe.createdAt)}</span>
                   </div>
                 )}
               </div>

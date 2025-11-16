@@ -2,7 +2,10 @@
   "permissions": {
     "allow": [
       "Bash(npm run build:*)",
-      "Bash(npm start)"
+      "Bash(npm start)",
+      "Bash(if [ -f src/tsconfig.json ])",
+      "Bash(then mv src/tsconfig.json .)",
+      "Bash(else echo \"File not found\")"
     ],
     "deny": [],
     "ask": []

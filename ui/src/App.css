@@ -27,7 +27,7 @@
   --list-bg: #ffffff;
 }
 
-[data-theme="dark"] {
+html[data-theme="dark"] {
   --bg-color: #1a1a1a;
   --text-color: #e8e8e8;
   --text-secondary: #a8a8a8;
@@ -56,10 +56,25 @@
   --list-bg: #1a1a1a;
 }
 
+html {
+  background-color: var(--bg-color);
+  min-height: 100%;
+  transition: background-color 0.3s ease;
+}
+
 body {
   background-color: var(--bg-color);
   color: var(--text-color);
   transition: background-color 0.3s ease, color 0.3s ease;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+
+#root {
+  background-color: var(--bg-color);
+  min-height: 100vh;
+  transition: background-color 0.3s ease;
 }
 
 .App {
@@ -122,7 +137,11 @@ body {
   margin: 0;
   letter-spacing: 2px;
   text-transform: uppercase;
-  background: linear-gradient(135deg, var(--primary-gradient-start) 0%, var(--primary-gradient-end) 100%);
+  background: linear-gradient(
+    135deg,
+    var(--primary-gradient-start) 0%,
+    var(--primary-gradient-end) 100%
+  );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;

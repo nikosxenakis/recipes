@@ -77,3 +77,5 @@ Create `.json` files in `recipe-builder/data/` folder:
 ## TODO
 
 - Recipe photos
+- Recipe importer
+- multiple languages support
