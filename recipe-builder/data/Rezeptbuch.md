@@ -600,7 +600,6 @@ Die Eier mit Sahne und Milch verquirlen, mit Salz, Pfeffer und 1 Msp. Muskat wü
 100 g Butter
 ½ TL Salz
 5 EL Wasser
-
 200g gekochten Schinken oder Speck
 3 Eier
 ¼ l Sahne
@@ -616,7 +615,7 @@ Den Speck in Scheiben schneiden (oder würfeln) und den Teig damit belegen. Die 
 Die Quiche auf der zweiten Schiene von unten 30 Minuten backen.
 Die Quiche nach dem Backen einige Minuten in der Form abkühlen lassen, dann auf eine Tortenplatte schieben und noch warm aufschneiden.
 
-## Quiche Lorraine
+## Quiche Lorraine 2
 
 ### Zutaten für 6-8 Portionen
 
@@ -626,7 +625,6 @@ Salz, Pfeffer
 250 g durchwachsener Speck
 250 g Sahne
 3 Eier
-
 Frisch geriebene Muskatnuss
 50 g Gruyère
 
@@ -722,7 +720,7 @@ Das Mehl sieben. Mit den Fingerspitzen Mehl und Butter 2 Minuten zu einer gut ve
 Die Tomaten abtropfen lassen und der Länge nach halbieren. Mit der Schnittseite nach unten auf Küchenpapier abtropfen lassen. Eier und saure Sahne verquirlen, den Käse und die Zwiebeln untermischen
 Die Füllung auf dem Quicheboden verteilen. Die Tomaten mit der Schnittseite nach untern darauf anrichten. Mit Thymian und Pfeffer bestreuen. Bei mittlerer Hitze 30 Minuten backen, bis die Füllung fest und leicht gebräunt ist.
 
-## Kleine Kürbis-Curry -Quiches
+## Kleine Kürbis-Curry - Quiches
 
 ### Zutaten (für 8 kleine Quiches)
 
@@ -2178,7 +2176,6 @@ Körner von 2 kleinen Maiskolben (150 g), oder TK-Mais
 360 g saure Sahne
 2 große Eier
 9 EL Olivenöl
-
 4 Frühlingszwiebeln, grob gehackt
 10 g Korianderblätter, gehackt
 1 frische Chilischote, fein gehackt
@@ -2190,6 +2187,8 @@ _Topping:_
 1 frische Chilischote, in dünne Ringe geschnitten
 ½ rote Zwiebel, in dicke Scheiben geschnitten
 2 TL Schwarzkümmelsamen
+
+### Zubereitung
 
 Den Backofen auf 170 Grad vorheizen.
 Eine ofenfeste, gusseiserne Pfanne stark erhitzen. Die Maiskörner darin ohne Fett 4-5 Minuten rösten, bis sie Farbe angenommen haben, dabei ab und zu umrühren. Auf einem Teller abkühlen lassen.
@@ -2213,7 +2212,6 @@ Dazu passt natürlich Avocadocreme oder -salat etc. super.
 200 g Kirschtomaten, geviertelt
 2 TL Kapern, fein gehackt
 2 EL Olivenöl
-
 4 Scheiben Sauerteigbrot, 1 kleine Knoblauchzehe, geschält und halbiert
 ¼ TL Kreuzkümmelsamen, geröstet und zerstoßen
 Salz, Pfeffer
@@ -2790,7 +2788,6 @@ Pancakes zum Frühstück kommen immer gut.
 30 g geschroteter Leinsamen
 1 TL Zimt
 1 Prise Meersalz
-
 5-6 Eiweiß (je nach Eiergröße)
 
 ### Zubereitung
@@ -2818,6 +2815,8 @@ Eurer Kreativität sind keine Grenzen gesetzt: Zu Hafer- und Dinkelflocken passe
 150 ml Ahornsirup
 100 ml Pflanzenöl (z.B. Sonnenblumen oder Erdnussöl)
 150 g Rosinen oder getrocknete Cranberrys
+
+### Zubereitung
 
 In einer Schüssel werden Haferflocken, Kokosraspeln, Mandeln, Sonnenblumenkerne, Sesamsamen, Zimt, Ingwer und Salz vermengt. Dann Ahornsirup und Öl unterrühren. Auf einem mit Backpapier ausgelegten Blech verteilen.
 Der Ofen wird auf 170°C vorgeheizt. Das Granola backt ungefähr 45 Minuten lang. Alle 15 Minuten sollte man das Gemisch wenden, sodass das Müsli von allen Seiten gleichmäßig bräunt. Es sollte nicht zu dunkel werden.
@@ -2944,8 +2943,6 @@ _Variante: Blaubeere, Vanille und Chia_
 ### Zubereitung
 
 Haferflocken, Vanille und Chiasamen in ein kleines Weckglas geben und mit der Milch übergießen. Umrühren und die Blaubeeren darüber geben. Das Glas verschließen und über Nacht in den Kühlschrank stellen.
-
-
 
 _Variante: Erdnussbutter, Banane und Himbeeren_
 60 g Haferflocken
@@ -8086,7 +8083,7 @@ Den Ziegenkäse gut mit dem Magerquark mischen. Den Rosmarin waschen, trocknen, 
 Die Orange sorgfältig mit einem scharfen Messer schälen, dabei die weiße Haut mit entfernen. Längs vierteln und in kleine Stücke schneiden. Den Salat waschen und trocknen, die Tomaten waschen, vierteln und dabei den Stielansatz entfernen.
 Das Baguette längs halbieren. Die untere Seite mit der Käsecreme bestreichen und pfeffern. Honig-Senf-Mischung darüber träufeln. Darauf den Kopfsalat, Tomaten und Orangen verteilen und mit der oberen Baguettehälfte abdecken, leicht andrücken. Schräg in ca. 4 gleich große Stücke schneiden.
 
-## Toskanisches Brot
+## Toskanisches Brot 2
 
 ### Zutaten
 
@@ -9625,7 +9622,6 @@ Aufgrund der Zutaten könnte man das vielleicht als türkische Kürbissuppe beze
 
 4 EL Olivenöl
 2 Zwiebeln, in 2-3 cm breite Spalten geschnitten
-
 1,2 kg Kürbis, geschält und entkernt, in 3 cm große Würfel geschnitten
 1 l Gemüsebrühe
 2 EL Rosen-Harissa
@@ -9639,6 +9635,8 @@ _Geröstete Kürbiskerne:_
 80 g Kürbiskeren
 2 EL Ahornsirup
 ¼ TL Chiliflocken
+
+### Zubereitung
 
 Den Backofen auf 170 g Umluft vorheizen.
 Alles für die Kürbiskeren in einer kleinen Schüssel mit ¼ TL Salz mischen. Auf einem kleinen, mit Backpapier bedeckten Backblech verteilen und 15 Minuten im Ofen rösten, bis die Kerne aufplatzen und zu bräunen beginnen. Zum Abkühlen beiseitestellen, dann größere Klumpen in mundgerechte Stücke brechen.
@@ -14229,7 +14227,6 @@ Dazu passen Bratkartoffeln, Sahnemeerrettich und grüne Bohnen.
 
 Ca. 3,5 Liter Wasser
 2 kg Tafelspitz (Rindfleisch aus der Hüfte)
-
 10 bis 15 schwarze Pfefferkörner
 500 g Wurzelwerk (Knollensellerie, Möhren, Petersilienwurzel)
 1 Stange Lauch
@@ -14240,10 +14237,10 @@ Meersalz
 _Für den Apfelkren:_
 3 große säuerliche Äpfel (etwa 700 g)
 ½ Zitrone
-
 25 – 30 g frischer Meerrettich
-
 Zucker, Salz
+
+### Zubereitung
 
 Wasser in einem großen Topf oder Bräter aufkochen, das Fleisch waschen und ins kochende Wasser legen, aufsteigenden Schaum abschöpfen. Die Pfefferkörner zugeben und alles bei halb geöffnetem Deckel etwa dreieinhalb Stunden schwach wallend köcheln lassen.
 Wurzelgemüse schälen, Lauch waschen und den hellen Teig längs halbieren, davon eine Hälfte zusammen mit dem Gemüse eine Stunde vor Ende der Garzeit zum Fleisch geben.
@@ -14878,8 +14875,6 @@ Die Temperatur auf mittlere Hitze stellen und das Fleisch braten:
 
 Bei mehreren Personen lieber größere Stücke anbraten, anstatt für jeden 1 Steak. Also für 2 Personen 1 großes Steak besser teilen und dann aufschneiden. So bleibt das Fleisch saftiger. Die Garzeit muss dann einfach verdoppelt werden.
 
-
-
 _Für die Röstzwiebeln:_
 
 ### Zutaten für 4 Personen
@@ -15196,14 +15191,11 @@ Für die Sauce in einem anderen Topf das Fett schmelzen, den Zucker hellgelb br�
 2 TL Pimentkörner
 2 TL Wacholderbeeren
 2 TL schwarze Pfefferkörner
-
 4 Lorbeerblätter
 250 ml Rotweinessig
 2 l Rotwein
-
 1,5 kg Rindfleisch (Tafelspitz)
 2 Karotten
-
 Etwas Butter, Etwas Pflanzenöl, Salz
 
 ### Zubereitung
@@ -15228,7 +15220,6 @@ _Für die Marinade:_
 1 Lauch, in Scheiben geschnitten
 3 Gewürznelken
 1 Lorbeerblatt
-
 8 Pfefferkörner
 Salz
 
@@ -15245,6 +15236,8 @@ _Für die Apfelscheiben:_
 1 EL Zucker
 1 EL in Wasser eingeweichte Rosinen
 1 EL Apfelbrand/Calvados zum Flambieren
+
+### Zubereitung
 
 alle Zutaten zu einer Marinade verrühren. Rinderschulter in die Marinade legen. Zugedeckt 4 – 5 Tage im Kühlschrank marinieren, dabei öfter wenden.
 Herausnehmen und trocken tupfen. Mit Salz und Pfeffer würzen und in Öl von allen Seiten anbraten.
@@ -15615,8 +15608,6 @@ Die großen Kalbsschnitzel in jeweils 3 kleine teilen, vorsichtig noch flacher k
 In einer Pfanne 2-3 EL Butter zerlassen. Die Schnitzelchen pro Seite jeweils 2-3 Min. braten. Leicht salzen und nochmals pfeffern, aus der Pfanne nehmen und abgedeckt warmhalten.
 Den Bratensatz mit Wein ablöschen, etwa 2 Min. kräftig aufkochen. Mit dem Schneebesen 1 EL eiskalte Butterflöckchen in die Sauce rühren. Abschmecken, die Schnitzelchen in der Sauce nochmals kurz ziehen lassen.
 
-
-
 ## Saltimbocca Variante 2
 
 ### Zutaten (für 4 Portionen)
@@ -15657,9 +15648,7 @@ Beilage dazu: Weißbrot und Erbsen.
 Etwas Sonnenblumenöl
 500 g Lammschulter (Vom Metzger in Würfel geschnitten)
 Salz
-
 Wasser
-
 Ca. 12 getrocknete Pflaumen ohne Stein
 2 EL flüssiger Honig
 300 g Joghurt
@@ -15678,7 +15667,6 @@ Schließlich Pflaumen in den Topf geben, das Ganze noch einmal 30 Minuten lang s
 ### Zutaten (für 6 Portionen):
 
 6 Knoblauchzehen, zerdrückt
-
 5 Bio-Zitronen, Schale abgerieben, dann der gesamte Saft ausgepresst
 3 EL Thymianblätter
 12 EL Olivenöl
@@ -15689,6 +15677,8 @@ Schließlich Pflaumen in den Topf geben, das Ganze noch einmal 30 Minuten lang s
 3 rote Paprikaschoten, geviertelt und entkernt
 20 g Minzeblätter
 Salz, Pfeffer
+
+### Zubereitung
 
 In einer großen Schüssel den Knoblauch mit 2 TL Zitronenschale, 90 ml Zitronensaft, Thymian, 6 EL Olivenöl sowie 1,5 TL Salz und reichlich Pfeffer verrühren. Das Fleisch hineinlegen, gründlich in der Mischung wenden und mindestens 2 Stunden (oder über Nacht) im Kühlschrank marinieren.
 In einer kleinen Pfanne 2 EL Olivenöl erhitzen und die Mandeln darin unter ständigem Rühren 3-4 Minuten rösten, bis sie rundherum gleichmäßig goldbraun sind. Vom Herd nehmen und leicht abkühlen lassen. Die Mandeln grob hacken und in eine Schüssel streuen, das Öl wird nicht mehr benötigt. Die restliche Zitronenschale (1 TL), den verbliebenen Saft (60 ml) sowie den Honig, das Orangenblütenwasser, ½ TL Salz, 1 kräftige Prise Pfeffer und 3 EL Öl hinzufügen, alles gründlich vermengen und die Sauce bis zum Servieren beiseitestellen.
@@ -15743,15 +15733,12 @@ Das Fleisch zugedeckt bei schwacher Hitze in etwa 45 Minuten garen. Ab und zu um
 
 1 kg Lammfleisch ohne Knochen (Schulter oder Keule)
 1 Stück frischer Ingwer (3 cm)
-
 4 Knoblauchzehen
 6 zwiebeln
 8 EL Ghee oder Butterschmalz
-
 8 grüne Kardamomkapseln
 6 Nelken
 3 Lorbeerblätter
-
 8 schwarze Pfefferkörner
 2 Stück Zimtstange (5 cm)
 4 TL Paprikapulver, rosenscharf
@@ -15784,7 +15771,6 @@ Die Fleischwürfel wieder in den Topf geben und alles gut mischen. Joghurt unter
 3 Zwiebeln
 6 EL Ghee oder Butterschmalz
 6 grüne Kardamomkapseln
-
 4 Nelken
 1 Stück Zimtstange (3 cm)
 2 TL Korianderpulver
@@ -15844,11 +15830,9 @@ Olivenöl
 Salz, Pfeffer
 3 Auberginen
 2 Knoblauchzehen
-
 Etwas Zitronensaft
 3 EL gehackte Petersilie
 3 Bund Frühlingszwiebeln
-
 Etwas Butter
 1 Prise Salz
 1 kg neue Kartoffeln
@@ -15870,7 +15854,6 @@ Koteletts braten.
 6 reife Tomaten
 1 kleine Knoblauchknolle
 1 Bund Thymian
-
 3-4 Lorbeerblätter
 1 Prise getrocknete Herbes de Provence
 200 ml Rotwein
@@ -16726,7 +16709,7 @@ Als Beilage zerkleinertes Gemüse und Kartoffeln in der Fettpfanne mitschmoren. 
 
 ## Züricher Geschnetzeltes
 
-### Zutaten (für 4 Portionen):
+### Zutaten (für 4 Portionen)
 
 1 große Zwiebel
 250 g frische Champignons
@@ -16752,32 +16735,33 @@ Die angebratenen Fleischstreifen mitsamt dem Fleischsaft untermischen. Mit Salz 
 
 Ich mache dazu meist Reis (Reis mit Fleisch😊). Aber dazu passen auch hervorragend Rösti:
 
-### Zutaten für Rösti für 4 Portionen:
+### Zutaten (für Rösti für 4 Portionen)
 
 1 kg festkochende Kartoffeln
+
+### Zubereitungszeit
 
 Kartoffeln am Vortag in der Schale kochen. Die Pellkartoffeln heiß schälen, aber erst am nächsten Tag grob raffeln. Mit Salz und Pfeffer würzen. In einer Pfanne etwas Butter erhitzen, die geraffelten Kartoffeln hineingeben und erst einmal kräftig durchrühren. Danach den Kartoffelteig mit einem Löffel zu einem Fladen flach drücken und zugedeckt braten. Eventuell ganz wenig Sahne über die Kartoffeln träufeln. Sobald die Unterseite gebräunt ist, den Fladen auf einen Teller oder Topfdeckel stürzen, mit der rohen Seite nach unten wieder ins heiße Fett gleiten lassen und fertig braten. Noch einmal salzen und Pfeffer, in vier Portionsstücke schneiden und servieren.
 
 ## Cordon Bleu
 
-_Für Cordon Bleu (gefüllte panierte Schnitzel):_
+### Zutaten
+
+\_Für Cordon Bleu (gefüllte panierte Schnitzel):
 
 4 große, dünn geschnittene Kalbsschnitzel (je etwa 180 g) (ersatzweise Schweineschnitzel)
 Schwarzer Pfeffer aus der Mühle
 1 TL Paprikapulver edelsüß
-
 4 dünne Scheiben gekochter Schinken (etwa 50 g)
-
 4 dünne Scheiben Emmentaler oder mittelalter Gouda (etwa 50 g)
 2 EL Mehl
 2 Eier
 Salz
-
 6-8 EL Semmelbrösel
 3 EL Butterschmalz
 1 Zitrone
 
-_Für Cordon bleu_
+### Zubereitungszeit
 
 Die dünn geschnittenen Kalbsschnitzel noch flacher klopfen. Die Schnitzel von beiden Seiten pfeffern und mit Paprikapulver würzen.
 Jeweils eine Hälfte von jedem Schnitzel mit je 1 Schinken- und 1 Käsescheibe belegen, die Schnitzel zusammenklappen und feststecken.
@@ -16790,7 +16774,6 @@ In einer Pfanne das Butterschmalz sehr heiß werden lassen. Die gefüllten Schni
 
 2 Schweineschnitzel (etwa 300 g)
 2 Knoblauchzehen
-
 6-7 EL Öl
 6 EL trockener Weißwein
 2 EL scharfer Senf
@@ -16821,7 +16804,6 @@ Die übrige Senfmarinade aus de Schüssel mit der Sojasauce glattrühren und ang
 1 TL grüne Pfefferkörner
 1 Schuss Weißwein
 100 ml Sahne
-
 Pfeffer, Salz
 
 Außerdem:
@@ -16842,7 +16824,6 @@ Das Fleisch aus dem Ofen nehmen und in Scheiben schneiden. Fleisch, Sauce und al
 
 100 ml Schlagsahne
 40 g geriebener Parmesan
-
 Cayennepfeffer
 2 Schweineschnitzel (à 150 g)
 Salz
@@ -16944,7 +16925,6 @@ Thai- Basilikumblätter von den Stielen zupfen und grob schneiden. Curry mit Lim
 4 möglichst dicke Scheiben Schweinefilet (à 200 g)
 2 Scheiben Toastbrot
 2 Knoblauchzehen
-
 Je 1 EL gehackte Petersilie, Kerbel und Schnittlauch
 ½ TL Salz
 1 EL Sahne
@@ -16987,7 +16967,6 @@ Das Rezept hat Oma oft gekocht, wenn wir Besuch hatten, da es zum einen gut schm
 125 g rote Linsen
 1 TL Brühe
 1 getrocknete Chilischote
-
 4 Aprikosenhälften (frisch oder aus der Dose)
 2 EL Aceto Balsamico
 1 TL Honig
@@ -17093,7 +17072,6 @@ Schweinefilet mit Salz und Pfeffer würzen. In einer Pfanne in 1 EL heißem Öl 
 40 g Butter
 2 EL Öl
 2 Schalotten
-
 4 Cornichons
 250 g Sahne
 2 EL Dijonsenf
@@ -19273,6 +19251,8 @@ Salz, schwarzer Pfeffer aus der Mühle
 400 g Möhren
 1 Zweig Rosmarin
 
+### Zubereitungszeit
+
 Vorbereitungszeit: 1 Stunde, Garzeit 1,5 Stunden
 
 Den Römertopf wässern. Das Lammfleisch von Haut und Sehnen befreien, in kleine mundgerechte Würfel schneiden und in eine Schüssel geben. Den Knoblauch schälen und kleinhacken. Das Fleisch mit Salz, Pfeffer, 1 TL Kräuter er Provence und etwas Olivenöl marinieren.
@@ -19311,7 +19291,6 @@ Die Paprikaschoten mit der Fleischmasse füllen, den Deckel auflegen und die Sch
 
 2 Brötchen vom Vortag
 30 g getrocknete Mischpilze (Obacht!)
-
 4 Zwiebeln
 2 Knoblauchzehen
 100 g Räucherspeck
@@ -19321,13 +19300,14 @@ Die Paprikaschoten mit der Fleischmasse füllen, den Deckel auflegen und die Sch
 800 g Hackfleisch (Rind)
 3 EL Semmelbrösel
 2 Eier
-
 Je ½ TL Thymian, Kümmel, Paprika
 2 EL Tomatenmark
 2 EL Senf
 1 TL Mehl
 100 g Crème fraîche
 Salz, Pfeffer aus der Mühle
+
+### Zubereitungszeit
 
 Vorbereitungszeit: 1 Stunde, Garzeit 1 Stunde und 20 Minuten
 
@@ -19575,6 +19555,8 @@ _Für eingelegte Feigen (Obacht: die Feigen müssen vier Wochen vorher gemacht w
 1 Prise Salz
 1 TL Speisestärke
 2 EL Rotwein
+
+### Zubereitungszeit
 
 Vorbereitungszeit: 30 Minuten, Kochzeit: 90 Minuten
 
@@ -20664,22 +20646,19 @@ Den Mais auf vier Teller verteilen und rote Zwiebel, Koriander und Sev darauf ve
 
 Dazu passen sehr gut Chapatis.
 
-# Saucen, Dips und Snack.
+# Saucen, Dips und Snack
 
 ## Cashewnüsse mit Chili
 
-### Zutaten (für 1 Blech):
+### Zutaten (für 1 Blech)
 
 140 g Cashewnüsse
 1 TL Kreuzkümmel
 1 Prise Chilipulver
-
 Etwas Zucker
-
 Etwas Salz
 20 g zerlassene Butter
 1 TL Sonnenblumenöl
-
 Abgeriebene Schale 1 Zitrone
 
 ### Zubereitung
@@ -20695,7 +20674,6 @@ Wenn man die Cashew aus dem Ofen herausholt, sind sie noch etwas weich, mit dem 
 400 g abgezogene Mandeln
 4 EL Olivenöl
 Salz
-
 Rosenscharfes Paprikapulver
 
 ### Zubereitung
@@ -20709,7 +20687,6 @@ Alle gerösteten Mandeln wieder in die Pfanne schütten, mit Salz und Paprika w�
 
 500 g ungesalzene gemischte Nüsse (z.B. Cashewkerne, Walnusskerne, Pekannüsse, Mandel, Pistazien…)
 3 EL Rapsöl
-
 1,5 TL Salz
 2 TL Cayennepfeffer
 2 TL Garam Masala
@@ -20735,7 +20712,6 @@ Kleine Anekdote. Der Daily Telegraph meldete 2013, dass im Buckingham Palast der
 150 g Cashewkerne
 1 EL Zucker
 1 EL Palmzucker
-
 Ca. 3 EL Wasser
 ½ TL Sesam
 1 Prise Salz
@@ -20758,7 +20734,6 @@ In einer schweren Pfanne die beiden Zuckersorten mit dem Wasser, ohne zu rühren
 2 EL fein gehackter Rosmarin
 2 TL Ahornsirup
 2 TL Meersalz
-
 Eine gute Prise schwarzer Pfeffer
 2 EL Butter
 
@@ -20769,10 +20744,9 @@ Die Nüsse auf dem Backblech verteilen. Für 10 bis 15 Minuten in den Ofen geben
 
 ## Kirschtomaten mit Minze-Ricotta-Füllung
 
-### Zutaten für 4 Portionen
+### Zutaten (für 4 Portionen)
 
 500 g Kirschtomaten
-
 Blätter von 5 frischen Minzezweigen
 200 g vollfetter Ricotta
 Salz, Pfeffer
@@ -20786,7 +20760,7 @@ Die Ricottafüllung mit dem Teelöffel in die Tomaten füllen. Die gefüllten To
 
 ## Gefüllte Cocktailtomaten
 
-### Zutaten (für 4 Portionen):
+### Zutaten (für 4 Portionen)
 
 1 Frühlingszwiebel
 1 Bund Petersilie
@@ -20828,7 +20802,6 @@ Mit Salz bestreuen und mit 2 EL Balsamico-Essig beträufeln.
 ### Zutaten für 4 Portionen
 
 500 g Schalotten (oder kleine Zwiebeln)
-
 Einige Zweige frischer Thymian
 2 EL Olivenöl
 4 EL Sherryessig
@@ -20875,7 +20848,6 @@ Die Pilze aus der Form nehmen. Die Oliven grob hacken und mit dem Essig und 2-3 
 2 EL Weißweinessig (ersatzweise Zitronensaft)
 4 EL Olivenöl
 Salz, Pfeffer
-
 Petersilie oder Basilikum
 
 ### Zubereitungszeit
@@ -20923,7 +20895,6 @@ die Zutaten für den Sud alle zusammen kurz aufkochen. Die Pilze putzen, das Gem
 200 ml Apfelessig
 120 g Zucker
 1 Lorbeerblatt
-
 5 schwarze Pfefferkörner
 3 Nelken
 
@@ -20967,23 +20938,22 @@ Das Pesto in einer Schüssel mit 300 g kleinen Mozzarellakugeln mengen abdecken 
 
 4 Quitten (oder feste Birnen)
 ½ Vanilleschote
-
 5 Gewürznelken
 2 Zimtstangen
 2 EL gelbe oder braune Rosinen
 1 EL klarer Honig
-
 Wer will 1 TL Orangenblütenwasser
+
+### Zubereitungszeit
 
 Das Fruchtfleisch der Quitten in dünne Scheiben schneiden, in einen Topf geben, mit Wasser bedecken und alle Gewürze und die Rosinen hinzufügen. Das Ganze bei geringer Hitze etwa 10 Minuten köcheln lassen, bis die Quitten weich sind (Birnen sind schneller gar). Die Quitten vom Herd nehmen und den Honig unterrühren, bis er sich aufgelöst hat.
 Nach Belieben dem Salat mit 1 TL Orangenblütenwasser eine extra marrokanische Note verleihen und ihn warm oder kalt servieren.
 
 ## Zwiebelringe
 
-### Zutaten (für 4 Portiönchen):
+### Zutaten (für 4 Portiönchen)
 
 250 ml Buttermilch
-
 2,5 EL Weißweinessig
 25 g frische Kurkuma oder 1/2 TL gemahlene Kurkuma
 325 g Mehl
@@ -21081,6 +21051,8 @@ Schmeckt interessant.
 1 Knoblauchzehe, mit Schale, mit einer Messerklinge leicht zerdrückt
 1 rote Zwiebel
 
+### Zubereitung
+
 alle Zutaten in einer Schüssel mit ½ TL Salz mischen. Mindestens 2 Stunden oder über Nacht ziehen lassen.
 
 ## Weiße Bohnen in rauchigem Cascabel-Chili-Öl
@@ -21091,9 +21063,7 @@ alle Zutaten in einer Schüssel mit ½ TL Salz mischen. Mindestens 2 Stunden ode
 Meersalzflocken
 
 _Für das Öl_
-
 4 getrocknete Chilischoten, grob in zwei Hälften geteilt
-
 5 Knoblauchzehen, ungeschält und in mit einer Messerklinge zerdrückt
 2 Chilischoten, längs in Streifen geschnitten (entkernt)
 1 Limette, 5 Streifen Schale, 1 EL Saft
@@ -21126,6 +21096,8 @@ Dazu passt Brot. Mit gehackten Kräutern und Rucola wird daraus ein Salat.
 
 Öl zum Frittieren
 
+### Zubereitung
+
 Vorbereitungszeit: 30 Minuten plus 2 Stunden Kühlzeit; Backzeit: 2-3 Minuten pro Portion
 
 Zwölf große Chilies gleicher Größe aus dem Glas nehmen. Gut abtropfen lassen und mit Küchenpapier trockentupfen. Mit einem scharfen Messer der Länge nach einschneiden. Kerne und weiße Trennwände herausschneiden. Dann Käse und Frischkäse mischen. Die Chilies mit der Käsemischung füllen.
@@ -21140,9 +21112,10 @@ Mehl auf einen großen Teller und die verquirlten Einer in eine kleine Schüssel
 4 EL Tomatensalsa (geht auch als Fertigprodukt)
 250 g Tortillachips
 250 g Cheddar oder mittelalter Gouda
-
 Zusätzlich 375 g Tomatensalsa (wie oben)
 4 EL saure Sahne
+
+### Zubereitung
 
 Vorbereitungszeit: 20 Minuten, Kochzeit: 3-5 Minuten
 
@@ -22797,6 +22770,8 @@ _Für die Aromate:_
 2 Zimtstangen
 15 g Korianderstängel, in 4 cm lange Stücke geschnitten
 
+### Zubereitung
+
 Sämtliche Zutaten für das Hummus mit ¾ TL Meersalzflocken glatt pürieren.
 Für die Aromate das Öl in einer großen Pfanne bei mittlerer Temperatur erhitzen. Sobald es heiß ist, Chili, Knoblauch, Ingwer und die Zimtstangen hineingeben und 4-5 Minuten frittieren, bis der Knoblauch allmählich Farbe annimmt. Ab und zu umrühren, damit die Scheibchen nicht zusammenkleben. Die Korianderstängel unterrühren und 1 Minute mitgaren, bis der Knoblauch goldbraun ist. Die Aromate mit einem Schaumlöffel auf einen mit Zewa bedeckten Teller legen und großzügig mit Meersalzflocken bestreuen.
 Das Hummus auf einem großen Teller verstreichen und in die Mitte mit dem Löffelrücken eine Mulde drücken. Das aromatische Öl in die Mulde gießen und die Aromate auf dem Hummus verteilen.
@@ -23585,11 +23560,8 @@ In eine Frankfurter Soße darf niemals Dill. Ist eine Frage der Ehre!
 
 30 g gehackte Mandeln
 1 Bund Basilikum
-
 8 Stiele Thymian
-
 5 Stiele Oregano
-
 5 Stiele glatte Petersilie
 1 TL fein abgeriebene Schale einer Bio-Zitrone
 50 g frisch geriebener Hartkäse
@@ -23618,6 +23590,8 @@ Restliches Pesto im Glas im Kühlschrank aufbewahren. Dabei darauf achten, dass 
 1 TL Chiliflocken
 Salz
 
+### Zubereitungszeit
+
 Orange auspressen. Cranberrys in dem Saft und im Traubenkernöl ungefähr 10 Minuten lang marinieren.
 Währenddessen Nüsse in einer Pfanne ohne Fett rösten und abkühlen lassen. Nüsse mit Cranberrys, Chiliflocken und einer Prise Salz pürieren, bis eine glatte Masse entsteht. Am Ende mit Salz und Chili abschmecken.
 Passt ganz gut zu herbstlichen Ofengemüse.
@@ -23636,7 +23610,6 @@ Saft von ½ Zitrone
 ½ Knoblauchzehe
 100 ml Olivenöl
 100 ml Wasser
-
 5 Basilikumblätter
 1 Prise Salz
 1 Prise schwarzer Pfeffer
@@ -23679,7 +23652,6 @@ Sollte die Sauce zu flüssig sein, noch weiter kochen lassen. Ist sie zu fest, e
 800 – 900 g rote Paprikaschoten (ca. 3 Stück)
 10 g Knoblauch (2 Zehen)
 1 kleine Zwiebelscheibe
-
 20 frische Basilikumblätter
 30 g Pinienkerne
 30 g Pecorino
@@ -23696,13 +23668,10 @@ Paprikaschoten für 15 Minuten in den auf 180 Grad vorgeheizten Backofen geben, 
 ### Zutaten (für 5 Scheiben Bruschette):
 
 5 Scheiben Weißbrot
-
 4 große Tomaten
 1 Knoblauchzehe
-
 15 Blättchen Basilikum
 Olivenöl
-
 Eine Prise Oregano
 Salz
 
@@ -23718,7 +23687,6 @@ Die Tomaten in Stücke schneiden und gut abtropfen lassen. Mit einer fein zerkle
 ½ Mohrrübe
 ½ kleine Zwiebel
 1 kleines Stück Staudensellerie
-
 Einige Petersilienblätter
 2 Knoblauchzehen
 2 – 3 Blätter Basilikum
@@ -23739,7 +23707,6 @@ Diese Sauce ist in der Toskana die Königin der Saucen. Wenn man sie zubereitet,
 ### Zutaten (für 4 – 5 Portionen)
 
 500 g reife Tomaten oder geschälte aus der Dose
-
 Nadeln von einem Rosmarinzweig (10 cm)
 5 EL Olivenöl
 2 Knoblauchzehen
@@ -23761,15 +23728,12 @@ Nadeln von einem Rosmarinzweig (10 cm)
 2 Zehen Knoblauch, fein gehackt
 ½ TL getrocknete Chilischoten
 3 Dosen geschälte Tomaten à 400 g
-
 5 Zweige Basilikum, Blätter abgezupft
-
 Meersalz, Pfeffer
 
 ### Zubereitung
 
 1\. Das Öl in einer Pfanne bei mittlerer Hitze erwärmen. Die Zwiebel, den Knoblauch und die Chilischoten hinzugeben und ein paar Minuten goldbraun braten.
-
 2\. Die Tomaten, den Basilikum, Salz und Pfeffer unterrühren. Mit einem Holzkochlöffel die Tomaten zerdrücken. Hitze reduzieren, zudecken und ca. 20 Minuten köcheln lassen. Entweder sofort verwenden oder in einem luftdicht verschlossenen Glas im Kühlschrank aufbewahren (ca. 1 Woche)
 
 ## Soße aus Frühlingszwiebeln und Ingwer
@@ -23817,10 +23781,8 @@ Diese Sauce schmeckt gut zu gegrilltem Lamm und Rind, zu gegrilltem Gemüse, Spi
 
 2 EL getrocknete, grüne Pfefferkörner
 1 EL Szechuan-Pfeffer (was auch immer das ist😊)
-
 8 Pimentkörner
 300 g Schalotten
-
 4 Knoblauchzehen
 2 Orangen
 6 EL Öl
@@ -23844,7 +23806,6 @@ Pfeffer und Piment im Mörser fein zerstoßen. Schalotten und Knoblauch in feine
 1 Karotte
 ½ Sellerie
 3 mittelgroße Zwiebeln
-
 1/2 Knolle Knoblauch
 2 EL Sonnenblumenöl
 1 EL Tomatenmark
@@ -23852,18 +23813,17 @@ Pfeffer und Piment im Mörser fein zerstoßen. Schalotten und Knoblauch in feine
 6 schwarze Pfefferkörner
 2 Lorbeerblätter
 2 Pimentkörner
-
 Thymianzweige
-
 Petersilienstängel
-
 Rosmarinzweige
 1 EL Speisestärke
 50 ml Portwein
 1 EL kalte Butter
 1 Prise Salz
 
-Vorbereitungszeit: 30 Minuten, Kochzeit: 48 Stunden (kein Scherz😊)
+### Zubereitungszeit
+
+30 Minuten, Kochzeit: 48 Stunden (kein Scherz😊)
 
 Die Knochen bei 180°C in einem Bräter oder auf dem Backblech in den vorgeheizten Backofen schieben und ca. 30 Minuten goldgelb anrösten. Karotte, Sellerie, Zwiebel und Knoblauch schälen, in 2 cm, große Würfel schneiden und in einem Topf mit Öl etwa 5 Minuten bei mittlerer Hitze anrösten. Tomatenmark hinzugeben und 1 Minute lang mitrösten.
 Knochen aus dem Ofen nehmen und hinzugeben, einmal gut durchrühren. Mit 200 ml Rotwein ablöschen und einkochen lassen. Den Vorgang zweimal wiederholen.
@@ -24303,6 +24263,8 @@ Passt gut zu Lamm, zu einem kräftigen Fisch oder zu einem würzigen Ziegenkäse
 1 Prise Salz, schwarzer Pfeffer aus der Mühle
 1 Prise mildes Chilipulver
 
+### Zubereitung
+
 Vorbereitungszeit: 20 Minuten, Kochzeit: 10 Minuten
 
 Die Aprikosen entkernen und würfeln. Zwiebel und Knoblauch schälen und fein hacken.
@@ -24325,11 +24287,9 @@ Salz
 2 EL Zitronensaft
 50 g brauner Zucker
 150 g Cranberrys
-
 4-5 EL Rotweinessig
 1 EL Senfkörner
 200 ml roter Traubensaft
-
 40-50 g (frisch geriebenen) Meerrettich
 
 ### Zubereitungszeit
@@ -25793,16 +25753,15 @@ Der italienische Klassiker, dieses Mal in Klößchenform 😊
 ### Zutaten (für 6 Portionen)
 
 2 kg Auberginen
-
 1,5 kg reife Tomaten oder 1 kg Dosentomaten
-
 4 Knoblauchzehen
 150 g Parmesan
 1 Bund frisches Basilikum
 Olivenöl
-
 Grobes und feines Salz
 2 TL Zucker
+
+### Zubereitung
 
 Die Auberginen waschen und der Länge nach in Scheiben (3 – 4 cm dick) schneiden, schichtweise in ein Nudelsieb geben und jede Schicht mit grobem Salz bestreuen. Die Auberginen für eine halbe Stunde ziehen lassen.
 Für die Tomatensauce die Tomaten, 4 geschälte Knoblauchzehen, 3 EL Öl, einige Basilikumblätter, etwas Salz und 2 TL Zucker in einem Topf für 10 – 15 Minuten kochen. Pürieren.
@@ -26278,10 +26237,11 @@ Mit Kokosraspeln und Koriandergrün bestreut servieren
 Salz
 225 g weicher Panir
 1 ¼ TL Lime Pickle
-
 Rapsöl
 20 g Koriandergrün
 10 g Dill, plus Dill zum Servieren
+
+### Zubereitung
 
 Das Kichererbsenmehl mit Kurkuma, Garam masala, Backpulver und ½ TL Salz in eine Schüssel geben. Gründlich mischen, dann eine Mulde in die Mitte drücken und 240 ml Wasser einrühren. Den Teig 20 Minuten ruhen lassen.
 In der Zwischenzeit den Panir in 1 cm große Würfel schneiden.
@@ -26551,9 +26511,7 @@ Salz
 Salz, Pfeffer
 200 g Taleggiokäse (oder anderen)
 6 Scheiben Parmaschinken (ca. 100 g)
-
 5 Stiele glatte Petersilie
-
 5 Stiele Oregano
 
 ### Zubereitungszeit
@@ -26587,6 +26545,8 @@ Sehr lecker, wenn es denn nicht verseuchte Steinpilze gäbe – kann man aber au
 1 TL Zucker
 1 TL Löwensenf
 Salz, Pfeffer
+
+### Zubereitungszeit
 
 Den Salat kann man als Vorspeise oder kleines Hauptgericht servieren, das ist ein richtig schönes Sommergericht.
 Als Erstes die Pilze, vor allem wenn es Waldpilze sind, gründlich säubern. Am besten ein bisschen Essig ins Wasser geben. Dann ein – bis zweimal waschen, dann auf Zewa trocknen lassen.
@@ -26669,7 +26629,6 @@ Schwarzer Pfeffer, Cayennepfeffer, Salz
 Den Kerbel waschen und gut trockenschütteln, die Blättchen von den Stielen zupfen, ein paar zum Garbieren zugedeckt beiseitestellen, den Rest grob hacken. Die Zwiebel pellen und fein würfeln. Aus den Tomaten die Stielansätze keilförmig herausschneiden, die Tomaten vierteln. Die Champignons putzen und in nicht zu dünne Scheiben schneiden.
 Die Butter in einer Pfanne erhitzen, die Zwiebelwürfel darin glasig dünsten. Die Champignonscheiben dazugeben und bei starker Hitze unter Wenden ca. 5 Minuten braten, bis sie goldbraun sind. Die Pilze mit Pfeffer, Cayennepfeffer und Salz kräftig würzen, die Tomaten und den gehackten Kerbel untermischen. Den Pfanneninhalt entweder in eine große flache, ofenfeste Form oder in vier kleine flache, ofenfeste Förmchen verteilen.
 Die Crème fraîche mit dem Eigelb verquirlen und über die Gemüse gießen. Im Backofen mit dem vorgeheizten grill auf der zweiten Schiene von unten 5-6 Minuten übergrillen, bis die Oberfläche goldbraun ist. Mit den restlichen Kerbelblättchen garnieren und sofort servieren.
-
 
 ## Portobello-Pilzsteaks mit Bohnenpüree
 
@@ -27148,12 +27107,10 @@ Aus dem Ofen nehmen, mit dem Sumach und 1 TL Meersalzflocken bestreuen und sofor
 1 kleine rote Paprikaschote
 2 Frühlingszwiebeln
 2 EL Kürbiskerne
-
 4 Stiele Bohnenkraut
 1 Mozzarella
 3 EL Kürbiskernöl
 3 EL Balsamicoessig
-
 Pfeffer, Salz
 
 ### Zubereitungszeit
@@ -27171,7 +27128,6 @@ Blätter von Bohnenkraut und Petersilie abzupfen, grob hacken. Mozzarella abtrop
 4 EL Rapsöl
 6 Gewürznelken
 1 Sternanis
-
 20 schwarze Pfefferkörner
 1 Stück Zimtstange (8 cm)
 2 TL Kreuzkümmelsamen
@@ -27345,7 +27301,6 @@ Alles auf einer Platte anrichten, die Chilibutter mit den gebräunten Aromaten v
 100 g gemahlene Mandeln
 2 EL flüssiger Honig
 500 g griechischer Joghurt
-
 200 – 300 ml Milch
 1 Handvoll Rosinen
 1 Handvoll Mandelsplitter
@@ -27379,6 +27334,8 @@ Salz, Pfeffer
 1 TL Cayennepfeffer
 1 Handvoll Mandelsplitter
 1 Handvoll Koriandergrün
+
+### Zubereitung
 
 Den Backofen auf 180 Grad vorheizen. Die Blätter vom Blumenkohl ablösen und die Unterseite gerade abschneiden, damit er gut steht. Den Blumenkohl gründlich mit Öl einreiben, soweit möglich auch zwischen den Stielen und Röschen, und mit Salz und Pfeffer würzen. In einen Bräter setzen, abdecken und 45 Minuten backen.
 Butter in einer Pfanne bei mittlerer Hitze zerlassen. Sobald sie siedet, die Zwiebeln hineingeben und 10 Minuten anschwitzen, bis sie goldgelb und weich sind. Ingwer und Knoblauch hinzugeben und einige Minuten braten. Die Tomaten über der Pfanne in die Hand gleiten lassen und zerdrücken, die Dose zu zwei Dritteln mit Wasser füllen und in die Pfanne leeren. Etwa 5 Minuten köcheln lassen, dann gemahlene Mandeln, Zimt, Kasoori methi, Gewürznelken, Cayennepfeffer und 1 TL Salz hinzugeben. Weitere 5 Minuten köcheln lassen, anschließend vom Herd nehmen.
@@ -28487,14 +28444,13 @@ Während der Garzeit die Füllung vorbereiten. In etwas Olivenöl die fein gesch
 ½ Hokkaidokürbis
 1 Tomate
 2 Knoblauchzehen
-
 1TL Zucker
 ½ TL Fleur de Sel
 3 EL Olivenöl
-
 4 Zweige Rosmarin
-
 4 Zweige Thymian
+
+### Zubereitung
 
 Vorbereitungszeit: 15 Minuten, Garzeit: 30 Minuten
 
@@ -32086,7 +32042,7 @@ Kurz vor dem Servieren Garam Masala darüber streuen und mit Reis oder Chapati s
 1 l milk
 ½ l tomato (blanched and puree)
 
-Preparation:
+### Zubereitungszeit
 
 Soak dal for 4 hours. Boil it till soft and strat breaking.
 Heat oil, add tomato, make it dry.
@@ -32112,8 +32068,6 @@ Was soll man dazu sagen. Das ist eindeutig das beste Dal auf der Welt!
 ### Zubereitung
 
 Wasser kochen und Salz hinzufügen. Polenta einrühren. Unter Rühren aufkochen und zum Schluss zerlassene Butter darübergießen.
-
-##
 
 ## Polenta-Auflauf
 
@@ -32156,6 +32110,8 @@ Salz, Pfeffer
 
 ## Polenta mit Pilzen und Artischocken
 
+### Zutaten
+
 _Für die Polenta:_
 150 g grober Polentagrieß
 1-2 TL feines Meersalz (nach Geschmack)
@@ -32165,9 +32121,7 @@ _Für das Topping_
 2 Knoblauchzehen, zerdrückt
 250 g braune Champignons, geviertelt
 150 g Artischockenherzen, abgetropft und geviertelt
-
 Blätter von 4 Zweigen frischem Thymian, abgezupft
-
 4-8 Scheiben Ziegenkäse, je nach Größe
 Olivenöl zum Beträufeln
 
@@ -32185,7 +32139,6 @@ Die Polenta auf Teller verteilen und das Gemüse und den Ziegenkäse darauf anri
 200 g Bulgur
 250 ml Gemüsebrühe
 25 g Pinienkerne
-
 2EL Kürbiskerne
 1 kleine rote Zwiebel
 225 g reife Pflaumentomaten
@@ -32199,18 +32152,14 @@ Salz, Pfeffer
 Für die Keftedes:
 2 große Zucchini
 1 kleine rote Zwiebel
-
 Je 1 Bund glatte Petersilie, Minze und Dill
 1 Knoblauchzehe
 4 EL geriebener Parmesan
-
 Abrieb von 1 Zitrone
 1 TL Sumach
 2 Eier
 80 g Mehl
-
 3-4 EL Olivenöl
-
 Meersalz, Pfeffer
 
 ### Zubereitung
@@ -32487,7 +32436,6 @@ Die Hälfte der frittierten Zwiebeln unterziehen. Den Linsenreis in einer Schüs
 2 große reife, aber feste Tomaten (300g)
 1 Schalotte, fein gehackt
 3 EL Zitronensaft, plus Zitronensaft zum Abschmecken
-
 4 große Bund glatte Petersilie (160 g)
 2 Bund Minze (30 g)
 2 TL gemahlener Piment
@@ -32506,19 +32454,15 @@ Zum Schluss Piment, Baharat, Olivenöl und nach Belieben Granatapfelkerne hinzuf
 
 _Baharat:_ (1 TL schwarze Pfefferkörner, 1 TL Koriandersamen, 1 kleine Zimtstange, hackt, ½ TL Gewürznelken, ½ TL gemahlener Piment, 1 TL Kardamonkapseln, ½ Muskatnuss, gerieben. Alles zu feinem Pulver zermahlen und fertig)
 
-##
-
 ## Taboulé
 
 ### Zutaten (für 2-3 Portionen):
 
 1 großer Bund glatte Petersilie
-
 Einige Zweige Minze
 50 g Bulgur
 1 kleine rote Zwiebel
 2 kleine Tomaten
-
 Zitronensaft
 Olivenöl
 Salz, Pfeffer
@@ -32537,12 +32481,10 @@ Die Taboués in den Plastikschalen im Supermarkt und die meisten Taboulés, die 
 ### Zutaten (für 2-3 Personen)
 
 1 großer Bund Petersilie
-
 Einige Zweige Minze
 50 g Bulgur (oder Couscous)
 1 kleine rote Zwiebel
 2 kleine Tomaten
-
 Zitronensaft
 Olivenöl
 Salz, Pfeffer
@@ -32561,7 +32503,6 @@ Man kann dazu ein paar Scheiben Halloumi braten, der in der Pfanne nicht schmilz
 
 4 Scheiben Weißbrot, entrindet
 4 Eier
-
 1,5 TL gemahlener Kreuzkümmel
 ½ TL Paprikapulver, edelsüß
 ¼ TL Cayennepfeffer
@@ -32569,7 +32510,6 @@ Man kann dazu ein paar Scheiben Halloumi braten, der in der Pfanne nicht schmilz
 25 g glatte Petersilie, gehackt
 10 g Estragon, gehackt
 40 g Feta, zerkrümelt
-
 Sonnenblumenöl zum Braten
 Salz und Pfeffer
 
@@ -33920,6 +33860,8 @@ Butter und restliches Olivenöl in einer Pfanne erhitzen. Pfifferlinge darin unt
 1 Prise Salz, schwarzer Pfeffer aus der Mühle
 1 Prise geriebene Muskatnuss
 
+### Zubereitungszeit
+
 Kochzeit: 25 Minuten
 
 Die Kartoffeln mit Schale in leicht gesalzenem Wasser kochen oder dämpfen, bis sie weich sind.
@@ -33931,7 +33873,6 @@ Die Kartoffeln schälen und mit einem Stampfer zerdrücken. Die heiße Milch mit
 ### Zutaten (für 4 Portionen)
 
 750 g möglichst gleich große Kartoffeln
-
 Fett oder Öl zum Frittieren
 Salz
 
@@ -34827,7 +34768,6 @@ Mit Salz und Zitronensaft abschmecken und mit heißem Ingwer-Chai servieren.
 1 kg neue Kartoffeln
 4 EL Rapsöl
 1 große Gemüsezwiebel, in Streifen geschnitten
-
 4 Knoblauchzehen, zerdrückt
 1 Stück Ingwer (3 cm), geschält und gerieben
 1 Dose Tomaten
@@ -34855,13 +34795,14 @@ Mit Reis, Moong Dal oder Pickles servieren. Übrigens, jeder indische Bundesstaa
 1 kg neue Kartoffeln
 4 EL Rapsöl
 1 große Gemüsezwiebel, in Streifen geschnitten
-
 4 Knoblauchzehen, zerdrückt
 1 Stück Ingwer (3 cm), geschält und gerieben
 1 Dose Eiertomaten (400 g)
 1 TL Garam Masala
 1 TL Cayennepfeffer
 1 TL Salz
+
+### Zubereitung
 
 Die Cashewkerne 10 Minuten in 100 ml Wasser einweichen. Währenddessen die Fenchelsamen im Mörser so fein als möglich zerstoßen.
 Die Kartoffeln waschen. Die kleinsten ganz lassen, größere halbieren oder vierteln, damit alle Stücke die gleiche Größe haben. In einer Pfanne 2 EL Öl erhitzen und die Kartoffeln unter gelegentlichem Wenden 8 Minuten darin braten, bis sie leicht bräunen. Auf einen Teller geben.
@@ -34909,6 +34850,8 @@ Viel Käse – wenig Kartoffel 😊
 
 ## Gruyère-Kartoffeln
 
+### Zutaten
+
 750 g feste Kartoffeln (ca. 12 Stück)
 200 g Gruyère
 80 g Doppelrahmfrischkäse
@@ -34929,7 +34872,6 @@ Käse reiben und mit Frischkäse und Milch verrühren und über die Kartoffeln v
 1 Bund glatte Petersilie
 50 g frisch geriebener Pecorino (oder Parmesan)
 50 g Semmelbrösel (am besten frisch geriebene, grobe Weißbrotbrösel)
-
 6-8 EL Olivenöl
 Salz, Pfeffer aus der Mühle
 
@@ -34955,7 +34897,6 @@ Eine leckere Beilage zu geschmortem Fleisch
 3 mittelgroße Zwiebeln
 2 Zweige frischer Oregano (oder 1 EL getrockneter)
 200 g frisch geriebener Pecorino (oder Parmesan)
-
 1/8 l trockener Weißwein
 2 EL Butter
 6 EL Olivenöl
@@ -35233,7 +35174,6 @@ Zur gleichen Zeit in einem anderen Topf den Reis ohne Fett einige Minuten lang r
 500 g grüner Spargel
 50 g frisch geriebener Parmesan
 250 g Risottoreis
-
 1/8 l trockener Weißwein
 6 EL Öl
 1 EL Butter
@@ -35254,14 +35194,11 @@ Die Butter und den Parmesan unter das fertige Risotto rühren, mit Salz und Pfef
 
 600 g grüner Spargel
 1 Zwiebel
-
 Etwas Salz
-
 Etwas Olivenöl
 50 g Butter
 1 Schalotte
 220 g Risottoreis
-
 Ein paar Safranfäden
 25 g frisch geriebener Parmesan
 
@@ -35708,9 +35645,10 @@ Vollständig heißt das Gericht Suppli al Telefono, denn heißt serviert läuft 
 2 EL Tomatenmark
 1 Zwiebel
 100 g Semmelbrösel
-
 Öl oder Butterschmalz zum Frittieren
 Salz, Pfeffer
+
+### Zubereitung
 
 Für die Füllung die Pilze in 1/8 l Wasser 2 Stunden lang einweichen.
 
@@ -37277,9 +37215,10 @@ Die abgekühlte Pasta in die Backform geben. Die Sahnemasse darüber gießen und
 100 g frisch geriebener mittelalter Gouda
 ¼ l Milch
 4 Eier
-
 Frisch geriebene Muskatnuss
 Salz, Pfeffer aus der Mühle
+
+### Zubereitungszeit
 
 Vorbereitungszeit: 40 Minuten, Garzeit 1 Stunde
 
@@ -39439,9 +39378,10 @@ _Für das Gemüse:_
 40 g Paniermehl
 4 EL Olivenöl
 Salz und Pfeffer
-
 4 Zweige Minze
 1 Zitrone
+
+### Zubereitungszeit
 
 _Nudelteig:_
 
@@ -40351,7 +40291,6 @@ Den Abschluss bildet Béchamelsauce mit Parmesan, darauf noch 2 EL Butter in Fl�
 2 getrocknete rote Chilischoten, grob gehackt
 500 ml heiße Gemüsebrühe
 1 Zwiebel, geschält und geviertelt
-
 5 Knoblauchzehen, grob gehackt
 1 Karotte, geschält und geviertelt
 2-3 Eiertomaten, geviertelt
@@ -40378,19 +40317,18 @@ Was für ein Rezept 😊
 
 ## Lasagne mit Basilikumpesto
 
-_Für das Pesto:_
+### Zutaten
 
+_Für das Pesto:_
 4 Bund Basilikum
 2 Knoblauchzehen
 1 EL Pinienkerne
-
 Je 30 g Parmesan und Pecorino
 
 _Für die Sauce:_
 1 Knoblauchzehe
 1 EL Butter
 Salz, Pfeffer
-
 EL Mehl
 200 ml Milch
 
@@ -40447,9 +40385,7 @@ Den Käse und die Pinienkerne auf die Sauce streuen. Die Lasagne im vorgeheizten
 50 g frische Kräuter, feingehackt
 30 g Butter, in Flöckchen
 300 g Tomatenpastasauce
-
 Frisch geriebener Parmesan
-
 Frisches Basilikum zum Garnieren
 
 ### Zubereitungszeit
@@ -41616,13 +41552,9 @@ Mascarpone, Magerquark und Joghurt vermischen, die Sahne unterziehen. Amarettini
 500 g Erdbeeren
 110 g Zucker
 Saft und Zesten einer Limette
-
 Frische Minze
-
 12 Sektgläser
-
 12 Stiele frischer Minze
-
 12 Holzspieße
 
 ### Zubereitung
@@ -44594,12 +44526,11 @@ In Dessertgläschen füllen und mit einem Hauch gemahlenem Chilipulver bestreuen
 
 ## Badischer Kirschplotzer
 
-### Zutaten (für 4 Personen):
+### Zutaten (für 4 Personen)
 
 150 g Butter (Zimmertemperatur)
 180 g Zucker
 6 große Eier
-
 1/16 l trockener Weißwein
 3 EL Kirschwasser
 ½ TL Zimt
@@ -44608,6 +44539,8 @@ In Dessertgläschen füllen und mit einem Hauch gemahlenem Chilipulver bestreuen
 1 Prise Salz
 2 Pfund schwarze Süßkirschen
 2 EL Puderzucker
+
+### Zubereitung
 
 Vorbereitungszeit: 25 Minuten, Backzeit: 50 Minuten
 
@@ -44640,6 +44573,9 @@ _Für die gebrannten Mandeln:_
 20 ml Wasser
 1 TL Öl
 1 Prise Fleur de Sel
+
+### Zubereitung
+
 Vorbereitungszeit: 25 Minuten, Ruhezeit: 60-80 Minuten
 
 _Quarkmousse_
@@ -44731,6 +44667,8 @@ _Für die Safran-Honigbirnen:_
 50 g Zucker
 1 Zimtstange
 1 g Safran
+
+### Zubereitung
 
 Vorbereitungszeit: 30 Minuten, Backzeit: 23 Minuten
 
@@ -46231,7 +46169,6 @@ _Für die Tarte:_
 60 g Zucker
 1 Vanilleschote
 2 Eier
-
 Puderzucker
 
 _Für die Karamellsauce:_
@@ -46239,6 +46176,8 @@ _Für die Karamellsauce:_
 50 ml Wasser
 125 g Sahne
 1 Prise Fleur de Sel
+
+### Zubereitung
 
 Vorbereitungszeit: 20 Minuten, Backzeit: 40 Minuten
 
@@ -46506,13 +46445,11 @@ Man könnte dazu noch ein Vanilleeis essen 😊
 
 _Für den Mürbeteig:_
 250 g Mehl
-
 125 kalte Butter, gewürfelt
 70 g Puderzucker
 ½ Vanilleschote, Mark ausgekratzt
 1 Prise Salz
 1 Ei
-
 Butter und Mehl für die Form
 
 _Für die Füllung:_
@@ -46522,7 +46459,6 @@ _Für die Füllung:_
 250 ml Schlagsahne
 50 ml Apfelsüße (oder 30 g Zucker)
 1 Prise Zimt
-
 Vanilleschote, Mark ausgekratzt
 1 kleines Stück Ingwer
 
@@ -46533,6 +46469,8 @@ _Für das Baiser:_
 1 EL Stärke
 3 Eiweiß
 1 Limette, Schale
+
+### Zubereitungszeit
 
 Vorbereitungszeit: 15 Minuten, Ruhezeit: 60 Minuten, Backzeit: 45 Minuten
 
@@ -48405,7 +48343,6 @@ _Für die Zitronenmasse:_
 2 Eigelb
 2 ganze Eier
 Saft von 2 Zitronen
-
 Abrieb von 3 Zitronen
 80 g Butter
 
@@ -48459,7 +48396,6 @@ _Für den Teig:_
 1 Prise Salz
 
 _Für die Füllung:_
-
 4 Eiweiß
 100 g Zucker
 100 g gemahlene Mandeln
@@ -48942,6 +48878,8 @@ Im vorgeheizten Backofen bei 180 Grad ca. 45 Minuten backen.
 
 ## Apfel-Streusel-Kuchen
 
+### Zutaten
+
 _Für den Mürbeteig:_
 300 g Mehl
 125 g kalte Butter
@@ -49045,7 +48983,7 @@ Mindestens 2 Stunden auskühlen lassen.
 
 ## Himbeer-Joghurt-Torte
 
-### Zutaten (für 1 Springform):
+### Zutaten (für 1 Springform)
 
 _Für den Biskuitteig_
 
@@ -49070,6 +49008,37 @@ Mehl und Mondamin mischen und auf die Eiermasse sieben und vorsichtig unterheben
 Den ausgekühlten Biskuit in der Mitte durchschneiden. Den unteren Boden auf eine Tortenplatte legen und einen hohen Tortenring mit 1 cm Abstand zum Rand um den Boden legen.
 Für die Füllung Joghurt, Zitronensaft und Vanillezucker verrühren. Gelatine auflösen und unterrühren. Sahne steif schlagen und unterheben und die Himbeeren vorsichtig untermischen.
 Den Tortenring mit ½ der Masse füllen. Den zweiten Boden drauflegen und etwas andrücken. Den Rest der Masse verteilen und glattstreichen. Mindestens 2 Stunden auskühlen lassen.
+
+## Himbeer-Joghurt-Torte 2
+
+### Zutaten (für 1 Springform)
+
+_Für den Teig:_
+2 Eier
+1 Prise Salz
+2 EL heißes Wasser
+100 g Zucker
+1 Päckchen Vanillezucker
+100 g Mehl
+2 TL Backpulver
+
+_Für den Belag:_
+450 g Joghurt
+3 EL Zucker
+
+8 Blatt Gelatine
+400 ml Sahne
+500 g frische Himbeeren
+2 Beutel roter Tortenguss
+
+### Zubereitungszeit
+
+45 Minuten plus Backzeit 20 Minuten plus Kühlzeit 1 – 2 Stunden
+
+Den Boden der Springform fetten und mit Backpapier auslegen. Den Backofen auf 180 Grad Ober- und Unterhitze vorheizen.
+Für den Biskuitteig die Eier trennen. Die Eiweiße mit dem Salz steif schlagen. Eigelbe, Wasser, Zucker und Vanillezucker schaumig rühren. Den Eischnee unterheben. Mehl und Backpulver darübersieben und untermischen. Den Teig in die Springform füllen und im Ofen 20 Minuten backen. Vollständig abkühlen lassen.
+Für den Belag Joghurt und Zucker verrühren. Die Gelatine etwa 5 Minuten in kaltem Wasser einweichen, ausdrücken und in einem Topf bei schwacher Hitze auflösen. 2 Esslöffel vom Joghurt dazugeben. Die Gelatine-Mischung mit dem Schneebesen in den Joghurt einrühren.
+Die Sahne steif schlagen und unter den Joghurt ziehen. Einen Tortenring um den Biskuitboden legen, die Creme darauf streichen. Die Torte 1 – 2 Stunden in den Kühlschrank stellen. Die Himbeeren auf der Torte verteilen. Den Tortenguss zubereiten, vorsichtig über die Himbeeren streichen und abkühlen lassen.
 
 ## Johannisbeerkuchen
 
@@ -51701,37 +51670,6 @@ Die Eier trennen. Die Eiweiß steif schlagen und kalt stellen. Den Ofen auf 180 
 Zucker, Vanillezucker und Butter schaumig rühren. Die Eigelbe dazugeben. Mehl, Speisestärke und Backpulver mischen und unterrühren. Die Nüsse, die Schokolade und den Eischnee unterheben. Den Teig in die vorbereitete Form geben und im vorgeheizten Ofen etwa 30 Minuten backen. Den fertigen Kuchen herausnehmen und abkühlen lassen.
 Den Kuchen aushöhlen, dabei einen 1 cm hohen Rand stehen lassen. Die Sahne steif schlagen, die herausgelösten Brösel zerkleinern und mit der Sahne vermischen. Die Pfirsiche klein schneiden und auf dem ausgehöhlten Boden verteilen. Die Sahne mit den Bröseln darüber verstreichen.
 
-## Himbeer-Joghurt-Torte
-
-### Zutaten (für 1 Springform)
-
-_Für den Teig:_
-2 Eier
-1 Prise Salz
-2 EL heißes Wasser
-100 g Zucker
-1 Päckchen Vanillezucker
-100 g Mehl
-2 TL Backpulver
-
-_Für den Belag:_
-450 g Joghurt
-3 EL Zucker
-
-8 Blatt Gelatine
-400 ml Sahne
-500 g frische Himbeeren
-2 Beutel roter Tortenguss
-
-### Zubereitungszeit
-
-45 Minuten plus Backzeit 20 Minuten plus Kühlzeit 1 – 2 Stunden
-
-Den Boden der Springform fetten und mit Backpapier auslegen. Den Backofen auf 180 Grad Ober- und Unterhitze vorheizen.
-Für den Biskuitteig die Eier trennen. Die Eiweiße mit dem Salz steif schlagen. Eigelbe, Wasser, Zucker und Vanillezucker schaumig rühren. Den Eischnee unterheben. Mehl und Backpulver darübersieben und untermischen. Den Teig in die Springform füllen und im Ofen 20 Minuten backen. Vollständig abkühlen lassen.
-Für den Belag Joghurt und Zucker verrühren. Die Gelatine etwa 5 Minuten in kaltem Wasser einweichen, ausdrücken und in einem Topf bei schwacher Hitze auflösen. 2 Esslöffel vom Joghurt dazugeben. Die Gelatine-Mischung mit dem Schneebesen in den Joghurt einrühren.
-Die Sahne steif schlagen und unter den Joghurt ziehen. Einen Tortenring um den Biskuitboden legen, die Creme darauf streichen. Die Torte 1 – 2 Stunden in den Kühlschrank stellen. Die Himbeeren auf der Torte verteilen. Den Tortenguss zubereiten, vorsichtig über die Himbeeren streichen und abkühlen lassen.
-
 ## Hähnchen-Jähnchen-Torte (kein echtes Hähnchen! 😊)
 
 ### Zutaten (für 1 Kuchen):
@@ -52716,13 +52654,14 @@ Heidelbeeren vorsichtig unterheben. Mischung in die Form füllen. In 20 Minuten 
 100 g Rosinen
 3 EL Rum (wenn man will)
 1 unbehandelte Zitrone
-
 1,5 kg Äpfel
 5 EL schwarze Johannisbeermarmelade
 100 g Zucker
 1 Päckchen Vanillinzucker
 ½ TL Zimt
 ½ TL Salz
+
+### Zubereitungszeit
 
 Vorbereitungszeit: 1 Stunde, Garzeit: 1 Stunde
 
@@ -52745,6 +52684,8 @@ Saft und Schale ½ unbehandelter Zitrone
 ½ l Milch
 80 g Zucker
 2 EL Puderzucker
+
+### Zubereitungszeit
 
 Vorbereitungszeit: 45 Minuten, Garzeit: 55 Minuten
 

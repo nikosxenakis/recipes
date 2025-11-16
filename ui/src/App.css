@@ -1,7 +1,54 @@
 .App {
-  font-family: Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica', 'Arial', sans-serif;
   padding: 20px;
-  background-color: #f9f9f9;
+  background: linear-gradient(to bottom, #fafafa 0%, #f5f5f5 100%);
+  min-height: 100vh;
+}
+
+.App h1 {
+  text-align: center;
+  font-size: 42px;
+  font-weight: 800;
+  color: #2c2c2c;
+  margin-bottom: 32px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  background: linear-gradient(135deg, #b87c7c 0%, #a86b6b 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  position: relative;
+  padding-bottom: 16px;
+}
+
+.App h1::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 120px;
+  height: 4px;
+  background: linear-gradient(90deg, transparent, #b87c7c, transparent);
+  border-radius: 2px;
+}
+
+@media (max-width: 768px) {
+  .App {
+    padding: 16px;
+  }
+
+  .App h1 {
+    font-size: 32px;
+    margin-bottom: 24px;
+    letter-spacing: 1px;
+  }
+
+  .App h1::after {
+    width: 80px;
+    height: 3px;
+  }
 }
 
 .recipe {
@@ -67,14 +114,17 @@
 }
 
 .app-footer {
-  margin-top: 40px;
-  padding: 20px;
+  margin-top: 60px;
+  padding: 24px;
   text-align: center;
-  color: #999;
-  border-top: 1px solid #ddd;
+  color: #888;
+  border-top: 2px solid #e8e8e8;
   font-size: 14px;
+  background: linear-gradient(to top, #fafafa 0%, transparent 100%);
 }
 
 .app-footer p {
   margin: 0;
+  font-weight: 500;
+  letter-spacing: 0.3px;
 }
