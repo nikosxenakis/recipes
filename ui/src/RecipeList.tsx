@@ -18,7 +18,7 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
   const [searchTerms, setSearchTerms] = useState<string[]>([]);
   const [selectedCategory, setSelectedCategory] = useState<string>("all");
   const [selectedDuration, setSelectedDuration] = useState<string>("all");
-  const recipesPerPage = 5;
+  const recipesPerPage = 10;
 
   // Extract unique categories from recipes
   const categories = Array.from(new Set(recipes.map((r) => r.category))).sort();
@@ -252,15 +252,20 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
         )}
       </div>
       {currentRecipes.map((recipe, index) => (
-        <div key={indexOfFirstRecipe + index} className="recipe">
-          <button
-            className={`collapsible ${
-              expandedRecipe === indexOfFirstRecipe + index ? "active" : ""
-            }`}
-          >
-            {expandedRecipe === indexOfFirstRecipe + index ? "−" : "+"}
-          </button>
-          <h2 onClick={() => toggleVisibility(indexOfFirstRecipe + index)}>{recipe.title}</h2>
+        <div
+          key={indexOfFirstRecipe + index}
+          className="recipe"
+          onClick={() => toggleVisibility(indexOfFirstRecipe + index)}
+        >
+          <div className="recipe-header">
+            <h2>{recipe.title}</h2>
+            {expandedRecipe !== indexOfFirstRecipe + index && (
+              <div className="recipe-preview-meta">
+                <span className="preview-category">{recipe.category}</span>
+                {recipe.duration && <span className="preview-duration">⌛ {recipe.duration}</span>}
+              </div>
+            )}
+          </div>
           {expandedRecipe === indexOfFirstRecipe + index && (
             <div className="recipe-details">
               <div className="recipe-meta">
