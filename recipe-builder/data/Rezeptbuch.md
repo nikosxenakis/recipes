@@ -32050,7 +32050,8 @@ Add Dal (soaked).
 Add milk. Thicking the consistency.
 Add Indian spices (half table spoon) and salt to taste.
 Add cream and butter. Boil it once and serve.
-Garnish: cream and white butter
+_Für die Garnish:_
+Cream and white butter
 
 ### Kommentar
 
@@ -48151,12 +48152,9 @@ Abgeriebene Schale einer Zitrone
 
 ### Zubereitung
 
-1\. Butter und Zucker schaumig rühren. Eigelb, Salz, Zitronenschale, Zimt, Haselnüsse, Mandeln, Mehl und Backpulver nach und nach dazu geben.
-
-2\. Eiweiß zu steifem Schnee schlagen und unterheben. Zuletzt 200 g gerieben Schokolade unterheben.
-
-3\. Die Form einfetten.
-
+Butter und Zucker schaumig rühren. Eigelb, Salz, Zitronenschale, Zimt, Haselnüsse, Mandeln, Mehl und Backpulver nach und nach dazu geben.
+Eiweiß zu steifem Schnee schlagen und unterheben. Zuletzt 200 g gerieben Schokolade unterheben.
+Die Form einfetten.
 Teig bis zur Hälfte in die Springform geben, Teil der Kirschen dazu. Den restlichen Teig und zum Schluss die restlichen Kirschen darauf geben.
 Bei 200 Grad ca. 60 – 70 Minuten backen. Nach dem Abkühlen den Kuchen mit etwas Puderzucker und Kakao bestreuen.
 

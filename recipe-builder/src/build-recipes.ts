@@ -23,8 +23,9 @@ const parseComment = (commentText: string): Comment => {
     };
   }
 
-  // No user specified, just the comment text
+  // No user specified, default to Christine
   return {
+    user: "Christine",
     text: commentText.trim(),
   };
 };

@@ -25,10 +25,7 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
   // Get initials from name for avatar
   const getInitials = (name: string): string => {
     const parts = name.trim().split(" ");
-    if (parts.length >= 2) {
-      return (parts[0][0] + parts[parts.length - 1][0]).toUpperCase();
-    }
-    return parts[0].substring(0, 2).toUpperCase();
+    return parts[0][0].toUpperCase();
   };
 
   // Generate color from string
