@@ -19791,7 +19791,6 @@ Aus Gunpowder. Für die vegetarische Option die Ente durch Jackfrucht ersetzen u
 
 1 Entenbrust
 Salz und Pfeffer
-
 Sonnenblumenöl
 1 TL Honig
 1 TL Austernsauce
@@ -19808,92 +19807,6 @@ Dazu passt sehr gut Kokos-Klebreis.
 
 Entenbrust wird hauptsächlich auf der Hautseite gebraten und gegart. Nur so wird die Haut richtig schön knusprig.
 
-## Geschmorte Entenkeule mit glasierten Maronen und Brioche-Knödeln
-
-### Zutaten (für 4 Personen)
-
-4 Entenkeulen
-2 mittelgroße Zwiebeln
-1 Karotte
-1 kleine Sellerieknolle
-3 EL Sonnenblumenöl
-2 EL Tomatenmark
-
-4 Zweig Thymian
-2 EL Dörrpflaumenmus
-
-500 Rotwein
-1 Stange Zimt
-1 Lorbeerblatt
-2 Gewürznelken
-2 Pimentkörner
-50 g Butter
-Salz und Pfeffer
-
-Vorbereitungszeit: 30 Minuten, Garzeit: 90 Minuten
-
-Von den Keulen das überstehende Fett abschneiden und von beiden Seiten salzen und pfeffern. Zwiebeln, Karotten und Sellerie schälen und in 1 cm große Würfel schneiden.
-Einen Bräter mit Sonnenblumenöl erhitzen und die Entenkeulen zuerst auf der Hautseite 3 Minuten knusprig braten und von der anderen Seite 1 Minute anbraten. Die Keulen dann herausnehmen und beiseitestellen.
-Den Boden des Bräters wieder mit Öl bedecken und darin das gewürfelte Gemüse rundherum bei mittlerer Hitze etwa 5 Minuten anrösten. Tomatenmark, Thymianzweige und Dörrpflaumenmus hinzugeben, 2 weitere Minuten anrösten.
-Die Keulen nun wieder in den Bräter legen, mit Rotwein ablöschen und komplett einkochen lassen. Den Bräter mit Wasser auffüllen, sodass die Entenkeulen etwa 2 cm mit Wasser bedeckt sind.
-Die Gewürze und eine große Prise Salz dazugeben, mit Deckel ca. 90 Minuten schmoren. Die Keulen mit einer Fleischgabel herausnehmen. Die Gewürze entfernen und den Schmorfond mit dem Gemüse durch ein feines Sieb drücken, um eine sämige Sauce zu erhalten.
-Die Butterflöckchen in die Sauce einrühren und mit Salz und Pfeffer abschmecken. Die Entenkeule wieder hineinlegen und langsam erhitzen.
-
-_Für die Glasierte Maronen_
-
-### Zutaten für 4 Personen
-
-200 g Maronen
-60 g Zucker
-20 ml Wasser
-50 ml Orangensaft
-50 ml Rotwein
-
-Vorbereitungszeit: 20 Minuten,
-
-### Zubereitungszeit
-
-10 Minuten
-
-Die Maronen mit dem Messer an der Spitze kreuzförmig einritzen, auf einem Backblech mit 100 ml Wasser etwa 15 Minuten im vorgeheizten Backofen bei 200°C garen, abkühlen lassen und schälen.
-Zucker mit Wasser in einer Pfanne karamellisieren. Die Maronen hinzugeben und mit Orangensaft und Rotwein ablöschen. Alles bei mittlerer Hitze reduzierten lassen, bis die Maronen glasiert und von einer sämigen Sauce umgeben sind.
-
-_Für die Brioche-Knödel:_
-
-### Zutaten für 4 Personen
-
-_Für den Knödelteig:_
-400 g Brioche oder ersatzweise Einback
-1 kleine Zwiebel
-50 g Butter
-100 ml Milch
-Salz und Pfeffer
-
-Muskatnuss
-2 Eier
-½ Bund glatte Petersilie
-
-Bröselbutter:
-50 g Butter
-30 g Paniermehl
-1 Prise Salz
-
-Vorbereitungszeit: 30 Minuten, Garzeit: 8-10 Minuten
-
-Knödelteig:
-
-Brioche in 2 cm große Würfel schneiden, im Backofen bei 140°C 10 Minuten trocknen und in eine Schüssel geben.
-Die Zwiebel in feine Würfel schneiden. Butter in einem Topf schmelzen und die Zwiebel darin glasig anschwitzen. Mit Milch aufgießen und einmal aufkochen.
-Die Milch mit Salz, Pfeffer und Muskatnuss abschmecken und heiß über die Briochewürfel gießen.
-Eier verquirlen, unter die Masse rühren und 30 Minuten ziehen lassen. Petersilie hacken und hinzugeben.
-Hände mit Wasser befeuchten und kleine runde Knödel formen.
-Leicht gesalzenes Wasser in einem großen Topf aufkochen und alle Knödel hineingeben. Hitze reduzieren und ca. 5 Minuten sanft köcheln lassen. Die Knödel sind fertig, wenn sie an der Oberfläche schwimmen.
-
-Bröselbutter:
-
-Butter in der Pfanne schmelzen, Paniermehl hinzugeben und goldgelb anrösten.
-Die Knödel mit einer Kelle aus dem heißen Wasser nehmen, gut abtropfen lassen, in die Pfanne geben und in der Bröselbutter wenden. Mit einer Prise Salz würzen.
-
 ## Würzige Entenstücke mit Brokkoli – Jiang Zhi Ya Kuai
 
 ### Zutaten (für 6 Portionen)
@@ -19906,7 +19819,6 @@ Die Knödel mit einer Kelle aus dem heißen Wasser nehmen, gut abtropfen lassen,
 100 g süße Bohnenpaste
 2 EL Reiswein
 Salz, Pfeffer
-
 Etwa 1 ½ l Hühnerbrühe
 
 ### Zubereitungszeit
@@ -19958,7 +19870,6 @@ Brühe zur Ente gießen. Ente zugedeckt bei schwacher bis mittlerer Hitze etwa 5
 40 g getrocknete Krabben (echt Simon, das Rezept willst du haben???? Das glaube ich nie)
 Salz
 1 EL Zucker
-
 Je 50 g Gurken und Möhren
 1 TL Maisstärke, in 1 TL Wasser angerührt
 1 Tomate, 1 Scheibe Gurke zum Dekorieren
@@ -19985,16 +19896,12 @@ Von der Garflüssigkeit ¼ l bis ½ l in einen Topf geben und zum Kochen bringen
 
 _Für die Mandarin-Pfannkuchen_
 200 g Mehl
-
 Sesamöl
 
 Zum Servieren:
 2 Bund Frühlingszwiebeln
-
 Hoisin-Sauce
-
 Pflaumensauce
-
 Süße Bohnensauce
 
 ### Zubereitungszeit

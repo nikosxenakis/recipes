@@ -16,7 +16,20 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
   const [currentPage, setCurrentPage] = useState(1);
   const [searchQuery, setSearchQuery] = useState("");
   const [searchTerms, setSearchTerms] = useState<string[]>([]);
+  const [selectedCategory, setSelectedCategory] = useState<string>("all");
+  const [selectedDuration, setSelectedDuration] = useState<string>("all");
   const recipesPerPage = 5;
+
+  // Extract unique categories from recipes
+  const categories = Array.from(new Set(recipes.map((r) => r.category))).sort();
+
+  // Define duration ranges
+  const durationRanges = [
+    { label: "All durations", value: "all" },
+    { label: "Quick (< 30 min)", value: "quick" },
+    { label: "Medium (30-60 min)", value: "medium" },
+    { label: "Long (> 60 min)", value: "long" },
+  ];
 
   const toggleVisibility = (index: number) => {
     setExpandedRecipe((prevState) => (prevState === index ? null : index));
@@ -96,9 +109,41 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
     setSearchTerms(searchTerms.filter((t) => t !== term));
   };
 
+  const handleCategoryChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
+    setSelectedCategory(event.target.value);
+    setCurrentPage(1);
+  };
+
+  const handleDurationChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
+    setSelectedDuration(event.target.value);
+    setCurrentPage(1);
+  };
+
+  // Extract duration in minutes from duration string
+  const extractDurationMinutes = (duration?: string): number | null => {
+    if (!duration) return null;
+
+    const durationLower = duration.toLowerCase();
+    let totalMinutes = 0;
+
+    // Match hours (Stunde/Std/h)
+    const hoursMatch = durationLower.match(/(\d+)\s*(stunde|std|h)/);
+    if (hoursMatch) {
+      totalMinutes += parseInt(hoursMatch[1]) * 60;
+    }
+
+    // Match minutes (Minute/Min/m)
+    const minutesMatch = durationLower.match(/(\d+)\s*(minute|min|m(?!$))/);
+    if (minutesMatch) {
+      totalMinutes += parseInt(minutesMatch[1]);
+    }
+
+    return totalMinutes > 0 ? totalMinutes : null;
+  };
+
   const filteredRecipes = recipes.filter((recipe) => {
     // Filter by search terms
-    const matchesSearch = searchTerms.every(
+    const matchesSearch = searchTerms.length === 0 || searchTerms.every(
       (term) =>
         recipe.title.toLowerCase().includes(term.toLowerCase()) ||
         recipe.ingredients.some((section) =>
@@ -108,7 +153,25 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
         )
     );
 
-    return matchesSearch;
+    // Filter by category
+    const matchesCategory = selectedCategory === "all" || recipe.category === selectedCategory;
+
+    // Filter by duration
+    let matchesDuration = true;
+    if (selectedDuration !== "all") {
+      const minutes = extractDurationMinutes(recipe.duration);
+      if (minutes === null) {
+        matchesDuration = false;
+      } else if (selectedDuration === "quick") {
+        matchesDuration = minutes < 30;
+      } else if (selectedDuration === "medium") {
+        matchesDuration = minutes >= 30 && minutes <= 60;
+      } else if (selectedDuration === "long") {
+        matchesDuration = minutes > 60;
+      }
+    }
+
+    return matchesSearch && matchesCategory && matchesDuration;
   });
 
   const indexOfLastRecipe = currentPage * recipesPerPage;
@@ -131,29 +194,62 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
 
   return (
     <div className="recipe-list">
-      <div className="filters-container">
-        <form onSubmit={handleSearchSubmit} className="search-bar-container">
-          <input
-            type="text"
-            placeholder="Search recipes..."
-            value={searchQuery}
-            onChange={handleSearchChange}
-            className="search-bar"
-          />
-          <button type="submit" className="search-button">
-            Search
-          </button>
-        </form>
-      </div>
-      <div className="breadcrumbs">
-        {searchTerms.map((term, index) => (
-          <span key={index} className="breadcrumb">
-            {term}
-            <button onClick={() => handleRemoveSearchTerm(term)} className="remove-button">
-              x
+      <div className="filters-section">
+        <div className="filters-header">
+          <h3 className="filters-title">🔍 Search & Filter</h3>
+        </div>
+        <div className="filters-container">
+          <form onSubmit={handleSearchSubmit} className="search-bar-container">
+            <input
+              type="text"
+              placeholder="Search recipes..."
+              value={searchQuery}
+              onChange={handleSearchChange}
+              className="search-bar"
+            />
+            <button type="submit" className="search-button">
+              Search
             </button>
-          </span>
-        ))}
+          </form>
+          <div className="filter-dropdowns">
+            <select
+              value={selectedCategory}
+              onChange={handleCategoryChange}
+              className="filter-select"
+            >
+              <option value="all">🍽️ All categories</option>
+              {categories.map((category) => (
+                <option key={category} value={category}>
+                  {category}
+                </option>
+              ))}
+            </select>
+            <select
+              value={selectedDuration}
+              onChange={handleDurationChange}
+              className="filter-select"
+            >
+              {durationRanges.map((range) => (
+                <option key={range.value} value={range.value}>
+                  ⌛ {range.label}
+                </option>
+              ))}
+            </select>
+          </div>
+        </div>
+        {searchTerms.length > 0 && (
+          <div className="active-filters">
+            <span className="active-filters-label">Active filters:</span>
+            {searchTerms.map((term, index) => (
+              <span key={index} className="filter-chip">
+                {term}
+                <button onClick={() => handleRemoveSearchTerm(term)} className="filter-chip-remove">
+                  ×
+                </button>
+              </span>
+            ))}
+          </div>
+        )}
       </div>
       {currentRecipes.map((recipe, index) => (
         <div key={indexOfFirstRecipe + index} className="recipe">
