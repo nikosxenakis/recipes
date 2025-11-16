@@ -7,10 +7,38 @@ import type {
   RecipeCollection,
   Comment,
   IngredientSection,
+  User,
 } from "../../ui/src/types/recipe.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
+
+// Load users from built users.json file
+const loadUsers = (): Record<string, User> => {
+  const usersPath = join(__dirname, "../../ui/public/users.json");
+  try {
+    const usersJson = readFileSync(usersPath, "utf-8");
+    const usersMap = JSON.parse(usersJson) as Record<string, User>;
+    const userCount = Object.keys(usersMap).length;
+    console.log(`👥 Loaded ${userCount} users from database`);
+    return usersMap;
+  } catch (error) {
+    console.warn("⚠️  Could not load built users.json, using empty user database");
+    console.warn("   Run 'npm run build:users' first to build the users database");
+    return {};
+  }
+};
+
+const USERS = loadUsers();
+
+const getUserObject = (userName: string): User => {
+  // Check if user exists in database
+  if (USERS[userName]) {
+    return USERS[userName];
+  }
+  // Create user object without photo for unknown users
+  return { name: userName };
+};
 
 const parseComment = (commentText: string): Comment => {
   // Check if comment has format "User: Comment text"
@@ -18,14 +46,14 @@ const parseComment = (commentText: string): Comment => {
 
   if (match) {
     return {
-      user: match[1].trim(),
+      user: getUserObject(match[1].trim()),
       text: match[2].trim(),
     };
   }
 
   // No user specified, default to Christine
   return {
-    user: "Christine",
+    user: getUserObject("Christine"),
     text: commentText.trim(),
   };
 };
@@ -215,7 +243,7 @@ const cleanRecipes = (recipes: Recipe[]): Recipe[] => {
 };
 
 const buildRecipes = () => {
-  const recipesDir = join(__dirname, "../data");
+  const recipesDir = join(__dirname, "../data/recipes");
   const outputPath = join(__dirname, "../../ui/public/recipes.json");
 
   console.log("📂 Scanning recipes directory...");
@@ -250,7 +278,7 @@ const buildRecipes = () => {
       // Add Christine as creator for Rezeptbuch.md recipes
       if (file.toLowerCase() === "rezeptbuch.md") {
         cleaned.forEach((recipe) => {
-          recipe.creator = "Christine";
+          recipe.creator = getUserObject("Christine");
         });
       }
 

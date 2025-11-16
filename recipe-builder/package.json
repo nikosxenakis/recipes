@@ -5,7 +5,9 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "tsx src/build-recipes.ts",
+    "build:users": "tsx src/build-users.ts",
+    "build:recipes": "tsx src/build-recipes.ts",
+    "build": "npm run build:users && npm run build:recipes",
     "validate": "tsx src/validate.ts",
     "clean": "tsx src/clean.ts"
   },

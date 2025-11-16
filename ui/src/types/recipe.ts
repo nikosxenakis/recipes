@@ -1,5 +1,10 @@
+export interface User {
+  name: string; // Used as ID
+  photo?: string; // Relative path to photo in /users folder, e.g., "christine.jpg"
+}
+
 export interface Comment {
-  user?: string;
+  user?: User | string; // Support both new User object and legacy string format
   text: string;
 }
 
@@ -16,7 +21,7 @@ export interface Recipe {
   servings?: string; // Changed from number to string to support text like "4 Personen", "2-3 Portionen", etc.
   difficulty?: 'einfach' | 'mittel' | 'schwer';
   tags?: string[];
-  creator?: string; // Recipe creator/author name
+  creator?: User | string; // Support both new User object and legacy string format
   createdAt?: string; // ISO 8601 date string
   ingredients: IngredientSection[];
   instructions: string[];

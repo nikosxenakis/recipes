@@ -11,12 +11,31 @@ const copyPublicPlugin = () => ({
         const distDir = join(process.cwd(), "dist");
         mkdirSync(distDir, { recursive: true });
 
+        // Recursive copy function
+        const copyDir = (src: string, dest: string) => {
+            mkdirSync(dest, { recursive: true });
+            const files = readdirSync(src);
+            files.forEach((file) => {
+                const srcPath = join(src, file);
+                const destPath = join(dest, file);
+                if (statSync(srcPath).isDirectory()) {
+                    copyDir(srcPath, destPath);
+                } else if (!file.endsWith(".md")) {
+                    copyFileSync(srcPath, destPath);
+                }
+            });
+        };
+
         // Copy all files from public except .md files and recipes folder
         const files = readdirSync(publicDir);
         files.forEach((file) => {
             const filePath = join(publicDir, file);
-            // Skip directories (like recipes folder) and .md files
-            if (statSync(filePath).isFile() && !file.endsWith(".md")) {
+            if (statSync(filePath).isDirectory()) {
+                // Copy users directory, skip recipes directory
+                if (file === "users") {
+                    copyDir(filePath, join(distDir, file));
+                }
+            } else if (!file.endsWith(".md")) {
                 copyFileSync(filePath, join(distDir, file));
             }
         });

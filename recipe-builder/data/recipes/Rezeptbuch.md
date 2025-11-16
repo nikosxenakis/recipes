@@ -48132,7 +48132,7 @@ Backofen auf 180 Grad vorheizen.
 Zucker, Butter, Eier schaumig rühren. Mehl, Salz und Zimt mischen. Alles zusammen mischen.
 Den Teig zu einer Kugel formen und in Scheiben schneiden. Im Backofen ca. 15 Minuten backen.
 
-## Brauner Kirschkuchen (von Hilde Siegl, dann Babsi und dann Paula)
+## Brauner Kirschkuchen (von Hilde Siegl)
 
 ### Zutaten
 

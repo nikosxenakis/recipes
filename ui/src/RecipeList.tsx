@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import type { Recipe } from "./types/recipe";
+import type { Recipe, User, Comment } from "./types/recipe";
 import "./RecipeList.css";
 
 const formatDate = (isoDate: string): string => {
@@ -20,6 +20,19 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
 
   const toggleVisibility = (index: number) => {
     setExpandedRecipe((prevState) => (prevState === index ? null : index));
+  };
+
+  // Helper to get user name from User object or string
+  const getUserName = (user: User | string | undefined): string => {
+    if (!user) return "";
+    return typeof user === "string" ? user : user.name;
+  };
+
+  // Helper to get user photo from User object
+  const getUserPhoto = (user: User | string | undefined): string | undefined => {
+    if (!user || typeof user === "string") return undefined;
+    // Use relative path that works with Vite's base path
+    return user.photo ? `./users/${user.photo}` : undefined;
   };
 
   // Get initials from name for avatar
@@ -162,7 +175,27 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
                 </div>
                 {(recipe.creator || recipe.createdAt) && (
                   <div className="recipe-meta-right">
-                    {recipe.creator && <span className="meta-info">👨‍🍳 {recipe.creator}</span>}
+                    {recipe.creator && (
+                      <span className="meta-info creator-badge">
+                        {getUserPhoto(recipe.creator) ? (
+                          <img
+                            src={getUserPhoto(recipe.creator)}
+                            alt={getUserName(recipe.creator)}
+                            className="user-avatar-small"
+                          />
+                        ) : (
+                          <div
+                            className="user-avatar-small user-avatar-initials"
+                            style={{
+                              backgroundColor: getColorFromString(getUserName(recipe.creator)),
+                            }}
+                          >
+                            {getInitials(getUserName(recipe.creator))}
+                          </div>
+                        )}
+                        {getUserName(recipe.creator)}
+                      </span>
+                    )}
                     {recipe.createdAt && (
                       <span className="meta-info">📅 {formatDate(recipe.createdAt)}</span>
                     )}
@@ -210,24 +243,36 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
                 <>
                   <h3>💬 Kommentar</h3>
                   <div className="comments-section">
-                    {recipe.comments.map((comment, i: number) => (
-                      <div key={i} className="comment">
-                        <div
-                          className="comment-avatar"
-                          style={{
-                            backgroundColor: comment.user
-                              ? getColorFromString(comment.user)
-                              : "#999",
-                          }}
-                        >
-                          {comment.user ? getInitials(comment.user) : "?"}
+                    {recipe.comments.map((comment, i: number) => {
+                      const userName = getUserName(comment.user);
+                      const userPhoto = getUserPhoto(comment.user);
+                      return (
+                        <div key={i} className="comment">
+                          {userPhoto ? (
+                            <img
+                              src={userPhoto}
+                              alt={userName}
+                              className="comment-avatar-img"
+                            />
+                          ) : (
+                            <div
+                              className="comment-avatar"
+                              style={{
+                                backgroundColor: userName
+                                  ? getColorFromString(userName)
+                                  : "#999",
+                              }}
+                            >
+                              {userName ? getInitials(userName) : "?"}
+                            </div>
+                          )}
+                          <div className="comment-content">
+                            {userName && <div className="comment-author">{userName}</div>}
+                            <div className="comment-text">{comment.text}</div>
+                          </div>
                         </div>
-                        <div className="comment-content">
-                          {comment.user && <div className="comment-author">{comment.user}</div>}
-                          <div className="comment-text">{comment.text}</div>
-                        </div>
-                      </div>
-                    ))}
+                      );
+                    })}
                   </div>
                 </>
               )}

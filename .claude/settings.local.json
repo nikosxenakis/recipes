@@ -32,7 +32,9 @@
       "Bash(then echo \"✗ recipes/ folder still exists\")",
       "Bash(else echo \"✓ recipes/ folder removed\")",
       "Bash(git restore:*)",
-      "Bash(README.md)"
+      "Bash(README.md)",
+      "Bash(npm run build:users:*)",
+      "Bash(npm run build:recipes:*)"
     ],
     "deny": [],
     "ask": []
