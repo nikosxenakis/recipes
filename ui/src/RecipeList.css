@@ -1,3 +1,32 @@
+:root {
+  /* Light mode colors - keep for backwards compatibility */
+  --recipe-bg: linear-gradient(to bottom, #ffffff 0%, #fafafa 100%);
+  --recipe-border: #e8e8e8;
+  --recipe-title: #2c2c2c;
+  --recipe-text: #666;
+  --recipe-text-dark: #444;
+  --recipe-hover-border: #b87c7c;
+  --filter-bg: linear-gradient(135deg, #fafafa 0%, #ffffff 100%);
+  --button-text: #555;
+  --chip-bg: #fdf8f8;
+  --chip-border: #e8d5d5;
+  --meta-bg: #f8f8f8;
+}
+
+[data-theme="dark"] {
+  --recipe-bg: linear-gradient(to bottom, #242424 0%, #2a2a2a 100%);
+  --recipe-border: #333;
+  --recipe-title: #e8e8e8;
+  --recipe-text: #a8a8a8;
+  --recipe-text-dark: #b8b8b8;
+  --recipe-hover-border: #d89a9a;
+  --filter-bg: linear-gradient(135deg, #2a2a2a 0%, #242424 100%);
+  --button-text: #b8b8b8;
+  --chip-bg: #333;
+  --chip-border: #444;
+  --meta-bg: #2a2a2a;
+}
+
 .App {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica", "Arial",
     sans-serif;
@@ -14,21 +43,21 @@
 
 .recipe {
   position: relative;
-  border: 1px solid #e8e8e8;
+  border: 1px solid var(--recipe-border);
   border-radius: 12px;
   padding: 16px 20px;
   margin-bottom: 12px;
-  background: linear-gradient(to bottom, #ffffff 0%, #fafafa 100%);
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.06);
+  background: var(--recipe-bg);
+  box-shadow: 0 2px 4px var(--shadow-light);
   transition: all 0.3s ease;
   cursor: pointer;
   overflow: hidden;
 }
 
 .recipe:hover {
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 8px var(--shadow-medium);
   transform: translateY(-1px);
-  border-color: #b87c7c;
+  border-color: var(--recipe-hover-border);
 }
 
 @media (max-width: 768px) {
@@ -48,7 +77,7 @@
 
 .recipe h2 {
   margin: 0;
-  color: #2c2c2c;
+  color: var(--recipe-title);
   font-size: 20px;
   font-weight: 700;
   letter-spacing: -0.3px;
@@ -107,11 +136,11 @@
 .recipe h3 {
   margin-top: 24px;
   margin-bottom: 12px;
-  color: #444;
+  color: var(--recipe-text-dark);
   font-size: 19px;
   font-weight: 700;
   padding-bottom: 8px;
-  border-bottom: 2px solid #f0f0f0;
+  border-bottom: 2px solid var(--recipe-border);
   display: flex;
   align-items: center;
   gap: 8px;
@@ -230,12 +259,12 @@
 
 /* Filter section - main container */
 .filters-section {
-  background: linear-gradient(135deg, #fafafa 0%, #ffffff 100%);
-  border: 2px solid #e8e8e8;
+  background: var(--filter-bg);
+  border: 2px solid var(--recipe-border);
   border-radius: 10px;
   padding: 14px 18px;
   margin-bottom: 16px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  box-shadow: 0 2px 8px var(--shadow-light);
 }
 
 @media (max-width: 768px) {
@@ -253,7 +282,7 @@
   margin: 0;
   font-size: 15px;
   font-weight: 700;
-  color: #2c2c2c;
+  color: var(--recipe-title);
   display: flex;
   align-items: center;
   gap: 8px;
@@ -345,20 +374,21 @@
 .search-bar {
   flex: 1;
   padding: 10px 14px;
-  border: 2px solid #e8e8e8;
+  border: 2px solid var(--input-border);
   border-radius: 8px;
   font-size: 15px;
   height: 40px;
   box-sizing: border-box;
   transition: all 0.3s ease;
-  background-color: #fafafa;
+  background-color: var(--input-bg);
+  color: var(--recipe-title);
   min-width: 0;
 }
 
 .search-bar:focus {
   outline: none;
-  border-color: #b87c7c;
-  background-color: #ffffff;
+  border-color: var(--primary-gradient-start);
+  background-color: var(--card-bg);
   box-shadow: 0 0 0 3px rgba(184, 124, 124, 0.1);
 }
 
@@ -443,7 +473,7 @@
 }
 
 .filter-chip {
-  background-color: #fdf8f8;
+  background-color: var(--chip-bg);
   padding: 6px 10px 6px 12px;
   border-radius: 16px;
   display: inline-flex;
@@ -451,14 +481,14 @@
   gap: 6px;
   font-size: 13px;
   font-weight: 500;
-  color: #555;
-  border: 1px solid #e8d5d5;
+  color: var(--button-text);
+  border: 1px solid var(--chip-border);
   transition: all 0.2s ease;
 }
 
 .filter-chip:hover {
-  background-color: #f9efef;
-  border-color: #d4b8b8;
+  background-color: var(--input-bg);
+  border-color: var(--recipe-border);
 }
 
 @media (max-width: 768px) {
@@ -879,13 +909,13 @@
   padding: 10px 14px;
   font-size: 14px;
   font-weight: 500;
-  color: #444;
-  background: linear-gradient(to bottom, #ffffff 0%, #fafafa 100%);
-  border: 2px solid #e0e0e0;
+  color: var(--recipe-text-dark);
+  background: var(--recipe-bg);
+  border: 2px solid var(--input-border);
   border-radius: 8px;
   cursor: pointer;
   transition: all 0.3s ease;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 2px 4px var(--shadow-light);
   appearance: none;
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath fill='%23666' d='M6 8L0 0h12z'/%3E%3C/svg%3E");
   background-repeat: no-repeat;

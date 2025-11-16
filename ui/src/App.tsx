@@ -1,14 +1,14 @@
-import { useEffect, useState } from 'react';
-import RecipeList from './RecipeList';
-import type { Recipe, RecipeCollection } from './types/recipe';
-import './App.css';
+import { useEffect, useState } from "react";
+import RecipeList from "./RecipeList";
+import type { Recipe, RecipeCollection } from "./types/recipe";
+import "./App.css";
 
 const formatDate = (isoDate: string): string => {
   const date = new Date(isoDate);
-  return date.toLocaleDateString('de-DE', {
-    year: 'numeric',
-    month: '2-digit',
-    day: '2-digit',
+  return date.toLocaleDateString("de-DE", {
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
   });
 };
 
@@ -16,21 +16,27 @@ const App = () => {
   const [recipes, setRecipes] = useState<Recipe[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [darkMode, setDarkMode] = useState(() => {
+    const saved = localStorage.getItem("darkMode");
+    return saved ? JSON.parse(saved) : false;
+  });
 
   useEffect(() => {
     const loadRecipes = async () => {
       try {
-        const response = await fetch('/recipes/recipes.json');
+        const response = await fetch("/recipes/recipes.json");
         if (!response.ok) {
-          throw new Error('Failed to load recipes');
+          throw new Error("Failed to load recipes");
         }
         const data: RecipeCollection = await response.json();
-        console.log(`✅ Loaded ${data.totalRecipes} recipes from ${data.categories.length} categories`);
+        console.log(
+          `✅ Loaded ${data.totalRecipes} recipes from ${data.categories.length} categories`
+        );
         console.log(`📅 Generated at: ${data.generatedAt}`);
         setRecipes(data.recipes);
       } catch (err) {
-        console.error('Error loading recipes:', err);
-        setError(err instanceof Error ? err.message : 'Unknown error');
+        console.error("Error loading recipes:", err);
+        setError(err instanceof Error ? err.message : "Unknown error");
       } finally {
         setLoading(false);
       }
@@ -38,6 +44,15 @@ const App = () => {
 
     loadRecipes();
   }, []);
+
+  useEffect(() => {
+    document.documentElement.setAttribute("data-theme", darkMode ? "dark" : "light");
+    localStorage.setItem("darkMode", JSON.stringify(darkMode));
+  }, [darkMode]);
+
+  const toggleDarkMode = () => {
+    setDarkMode(!darkMode);
+  };
 
   if (loading) {
     return (
@@ -52,17 +67,29 @@ const App = () => {
     return (
       <div className="App">
         <h1>REZEPTBUCH</h1>
-        <p style={{ color: 'red' }}>Error: {error}</p>
+        <p style={{ color: "red" }}>Error: {error}</p>
       </div>
     );
   }
 
   return (
     <div className="App">
-      <h1>REZEPTBUCH</h1>
+      <header className="app-header">
+        <h1>REZEPTBUCH</h1>
+        {/* <button
+          className="theme-toggle"
+          onClick={toggleDarkMode}
+          aria-label="Toggle dark mode"
+          title={darkMode ? "Switch to light mode" : "Switch to dark mode"}
+        >
+          {darkMode ? "☀️" : "🌙"}
+        </button> */}
+      </header>
       <RecipeList recipes={recipes} />
       <footer className="app-footer">
-        <p>Version {__APP_VERSION__} • Built on {formatDate(__BUILD_DATE__)}</p>
+        <p>
+          Version {__APP_VERSION__} • Built on {formatDate(__BUILD_DATE__)}
+        </p>
       </footer>
     </div>
   );
