@@ -326,7 +326,6 @@ Pilze und Hackfleisch – schon eine sehr besondere Mischung.
 1 TL gehackte und geröstete Pinienkerne
 1 EL Butter
 1 TL Kapern
-
 Schnittlauch
 
 ### Zubereitungszeit
@@ -481,7 +480,6 @@ _Für die Puffer:_
 50 g Schnittlauch
 1 EL gehackte Petersilie
 Salz, Pfeffer
-
 3-4 EL Öl
 
 _Für den Salat:_
@@ -511,7 +509,6 @@ Salz, Pfeffer, Cayennepeffer
 2 Zwiebeln
 2 Knoblauchzehen
 1 Bund Petersilie
-
 5 Tomaten
 150 g gegarten Reis
 ½ TL Paprikapulver
@@ -578,7 +575,6 @@ _Für die Füllung:_
 4 Eier
 200 g Sahne
 200 ml Milch
-
 Pfeffer
 
 Geriebene Muskatnuss
@@ -686,7 +682,6 @@ Die Quiche im Backofen bei 250 Grad in etwa 1 Stunde fertig backen. Lauwarm serv
 150 g Gouda
 4 Eier
 150 ml Milch
-
 Pfeffer, Muskatnuss
 
 ### Zubereitung
@@ -808,7 +803,6 @@ Kann man mit allerlei Zutaten machen und verschiedenste Beläge kreieren, z.B. Z
 4 EL Olivenöl
 2 Bund Dill
 200 g Feta
-
 Pfeffer, Salz
 2 Eier
 125 ml Milch
@@ -839,7 +833,6 @@ Liebe Paula, vielleicht ist das nicht das originalste Rezept für dein griechisc
 1 Paket Filo- oder Yufkateigblätter
 300 g mittelgroße Zwiebeln
 3 EL Olivenöl
-
 Je 400 g Hackfleisch vom Lamm und Rind oder 800 g Rinderhack
 1 TL Zimtpulver
 Saft von 1 Zitrone
@@ -868,7 +861,6 @@ Salz, Pfeffer
 1 EL Olivenöl und etwa 50 ml Olivenöl zum Braten
 150 g Mizithra (Frischkäse aus Schafsmilch) oder einfach frischer Ricotta
 1 Eigelb
-
 4 Frühlingszwiebeln (etwa 180 g)
 2 Zweige frische oder 1 TL getrocknete Minze
 ½ Bund Petersilie
@@ -891,7 +883,6 @@ Je 1 Hälfte über die andere klappen. Mit den Zinken einer Gabel Ränder festdr
 1 Paket TK-Blätterteig (350 g)
 400 g frischer Mangold
 400 g frischer Spinat
-
 4 Zweige Fenchelgrün
 1 dünne Stange Lauch
 3 EL Olivenöl
@@ -923,7 +914,6 @@ Diese Pasteten habe ich schon oft gemacht. Kamen immer gut an, auch noch am näc
 2 Yufka-Teigblätter
 8 EL Olivenöl
 200 g Feta
-
 Pfeffer
 1 Bund Dill
 2 Eier
@@ -1073,7 +1063,6 @@ Die Samosas zum Backen von beiden Seiten mit Butter bepinseln, mit Samen bestreu
 2 rote Zwiebeln, in dünne Streifen geschnitten
 1 Stück Ingwer (4 cm), geschält und gerieben
 200 g Erbsen (frisch oder TK)
-
 1,5 TL Garam Masala
 ¾ TL gemahlener Kreuzkümmel
 ¾ TL Cayennepfeffer
@@ -1094,7 +1083,6 @@ Weitere 10 Minuten garen, bis der Lauch weich und süß ist. Erbsen, Garam masal
 
 300 g Filoteig
 100 g Butter, zerlassen
-
 Schwarzkümmel- oder Kreuzkümmelsamen zum Garnieren, wenn man will
 
 ### Zubereitung
@@ -1205,9 +1193,7 @@ Man kann die Füllung auch mit anderem Gemüse oder auch mit Hackfleisch machen.
 1 TL Chilipulver
 ½ TL frische Chilischoten, gehackt
 ¼ TL Zimt
-
 700-750 g tiefgefrorener Blätterteig, aufgetaut und ausgerollt
-
 Öl zum Ausbacken
 
 ### Zubereitungszeit
@@ -1240,10 +1226,8 @@ Dazu passt Minzsauce. Dazu 125 g Naturjoghurt, 125 ml Buttermilch, 3 EL frische 
 
 _Pfefferminz-Dip_
 20 g frische Pfefferminzblätter
-
 4 Frühlingszwiebeln
 1 rote Chilischote ohne Samen
-
 174 TL Salz
 1 EL Zitronensaft
 2 TL feiner Zucker
@@ -1258,8 +1242,6 @@ Rinderhack und Currypulver zugeben und bei großer Hitze unter Rühren anbraten.
 Backofen auf 210 Grad (Gas 3) vorheizen. Aus den Teigen mit Hilfe einer entsprechenden Form oder eines kleinen Tellers Kreise (13 cm Durchmesser) ausstechen; diese halbieren. Dann in der Mitte falten, den Teig überlappend am runden Rand fest zusammendrücken und so zu Tütchen formen.
 In jedes Tütchen 2 TL Hack geben. Den oberen Rand festdrücken und verschließen. Auf ein mit Backpapier belegtes Blech legen. Eigelb und Sahne verquirlen. Samosas damit einsteichen. 10-15 Minuten goldbraun backen. Mit Pfefferminz-Dip servieren.
 Für den Dip Pfefferminze, Zwiebeln und Chili grob hacken. Dann mit 3 EL Wasser und den restlichen Zutaten pürieren und zu den heißen Samosas servieren
-
-##
 
 ## Kartoffel-Koriander-Samosas
 
@@ -1276,9 +1258,7 @@ Für den Dip Pfefferminze, Zwiebeln und Chili grob hacken. Dann mit 3 EL Wasser 
 15 g frische Korianderblätter
 3 Frühlingszwiebeln, in Scheiben geschnitten
 1 Ei, leicht geschlagen
-
 Öl zum Frittieren
-
 Fester Naturjoghurt zum Servieren
 
 _Für den Samosa-Teig_
@@ -1318,13 +1298,10 @@ _Für die Füllung_
 1 Stück Ingwer (4 cm), geschält und gerieben
 3 Knoblauchzehen, zerdrückt
 2 mittelgroße Möhren (ca. 200 g), geschält und grob gewürfelt
-
 1/3 Grünkohl (200 g), klein geschnitten
 200 g Paneer, grob gewürfelt
-
 1/3 TL Salz
 2 TL dunkle Sojasauce
-
 4 Frühlingszwiebeln, klein geschnitten
 
 ### Zubereitung
@@ -1358,7 +1335,6 @@ _Für die Füllung_
 1 Tasse Erbsen
 1 Tasse Kartoffeln in kleinen Würfeln
 Salz, Pfeffer
-
 Tomatengewürz, Paprika (edelsüß)
 
 ### Zubereitung
@@ -1377,7 +1353,6 @@ Teig mit Wasser formen. Mehl, Backpulver, heißes Schweineschmalz und Eier vermi
 1 kleines Paket passierte Tomaten (200g)
 Salz, schwarzer Pfeffer aus der Mühle
 1 TL frische Thymianblättchen (oder knapp ½ TL getrockneter Thymian)
-
 Mehl zum Ausrollen
 1 kleine Dose Thunfisch au naturel (etwa 70g)
 60 g Mozzarella
@@ -1399,7 +1374,7 @@ Die Pizza-Häppchen können am Morgen zubereitet werden und vor dem Servieren wi
 
 ## Pizzaschnecken mit Schinken und Ananas
 
-### Zutaten (für 16 Stück):
+### Zutaten (für 16 Stück)
 
 250 g Mehl
 2,5 TL Backpulver
@@ -1468,7 +1443,7 @@ Pizzen mit Sauce, Mozzarella und den restlichen Zutaten belegen. Pizzen bei 250 
 
 ## Pizzateig (Schnelle Variante)
 
-### Zutaten (für ca. 800 g Teig (ca. 2 – 3 Pizza à 35 cm Durchmesser))
+### Zutaten (ca. 2 – 3 Pizza à 35 cm Durchmesser)
 
 500 g Mehl
 
@@ -1522,7 +1497,7 @@ Mehl für die Arbeitsfläche
 
 ### Zubereitungszeit
 
-noch länger! 14 Stunden!! 😊
+14 Stunden
 
 Mehl in eine Schüssel oder auf die Arbeitsfläche streuen, in die Mitte eine Mulde drücken und das Wasser hineingießen. Die Hefe mit dem Wasser leicht verrühren, die Schüssel mit einem Geschirrtuch bedecken und 15 Minuten bei Zimmertemperatur ruhen lassen.
 Das Salz nur auf dem Mehl verteilen. Mit einem Kochlöffel etwas Mehl in die Wasser-Hefe-Mischung einarbeiten, bis ein klebriger Vorteig entsteht. Bedecken und 30 Minuten ruhen lassen. Arbeitsfläche großzügig mit Mehl einstäuben, Teigmasse darauf geben, Mehl darüber streuen und 3-fach falten (die Ränder nach innen schlagen). Das Ganze um 90 Grad drehen, erneut Mehl darüber verteilen und wieder 3-fach falten. Den Vorgang wiederholen, bis der Teig nicht mehr klebt (drei bis viermal) den Teig dabei aber nicht kneten. Teig in eine mit Öl ausgestrichene Schüssel legen, darin wenden, bis er von allen Seiten eingeölt ist, ein Blatt Backpapier befeuchten und den Teig damit bedecken. Ein Geschirrtuch darüberlegen, die Schüssel im oberen Bereich im Kühlschrank kaltstellen (weil dort die Temperatur etwas höher ist) und den Teig dort 12 Stunden ruhen lassen.
@@ -1662,11 +1637,8 @@ Den Teig in 6 gleich große Stücke schneiden und mit einem Nudelholz runde Flam
 Crème fraîche-Masse mit einem Löffel auf den Flammkuchen streichen und den Belag darüber verteilen. Den Flammkuchen nun etwa 5 Minuten goldgelb und knusprig backen.
 
 Variante 1: klassisch mit Speck, Zwiebeln und Schnittlauch
-
 Variante 2: Paprikacreme, Oliven, Schafskäse und Rucola
-
 Variante 3: Spinat, Brie und Kerne
-
 Variante 4: geräucherte Forelle, Senf, Dill und Kürbis
 
 ### Tipp
@@ -1713,7 +1685,6 @@ Im vorgeheizten Backofen bei 200 Grad 30 Minuten backen (keine Umluft). Nach 25 
 
 _Für den Hefeteig:_
 20 g frische Hefe
-
 1 TL Zucker
 300 g Mehl und Mehl zum Bearbeiten
 Salz
@@ -1723,12 +1694,9 @@ _Für das Gewürzöl:_
 
 Je 1 grüne und rote Pfefferschote
 1 Zweig Rosmarin
-
 5 Stiele Thymian
 6 EL Olivenöl
-
 Fleur de Sel
-
 Pfeffer
 
 _Für den Belag_
@@ -1739,9 +1707,7 @@ _Für den Belag_
 3 Stiele glatte Petersilie
 2 Stiele Oregano
 150 g Ziegenfrischkäse
-
 Fleur de Sel
-
 Pfeffer
 
 ### Zubereitungszeit
@@ -1763,14 +1729,10 @@ Mit einem Teelöffel vom Ziegenfrischkäse Nocken formen und auf der Focaccia ve
 ½ TL Salz
 8 EL Olivenöl
 2 TL Akazienhonig
-
 4 Feigen
 200 g Sainte Maure mit Asche (frz. Ziegenkäsespezialität oder eben den vom Lidl)
-
 8 Stiele Thymian
-
 Mehl zum Bearbeiten
-
 Fleur de Sel, Pfeffer
 
 ### Zubereitungszeit
@@ -1795,11 +1757,8 @@ Den Teig auf deiner leicht bemehlten Arbeitsfläche durchkneten, zu einer Rolle 
 
 _Für den Belag_:
 1 EL Olivenöl
-
 1-2 Knoblauchzehen, zerdrückt
-
 12 schwarze Oliven
-
 Frische Rosmarinzweige
 1 TL getrockneter Oregano
 1-2 TL grobes Meersalz
@@ -1869,12 +1828,9 @@ Die Trauben von den Zweigen zupfen, waschen, trocknen und halbieren. Ein Backble
 ### Zutaten (für 8 Portionen)
 
 12 Stiele Thymian
-
 12 Zweige Rosmarin
-
 4 EL Olivenöl
 ½ Focaccia (siehe dort das Rezept)
-
 6-8 Feigen
 400 g kräftigen Käse
 Salz, Pfeffer
@@ -1892,7 +1848,6 @@ Kräuter aus dem Öl nehmen, auf die Brote legen und mit Küchengarn festbinden.
 500 g Mehl
 Salz
 20 g frische Hefe
-
 Zucker
 8 EL Olivenöl
 1 Zweig Rosmarin
@@ -1919,7 +1874,6 @@ Backpapier mit den Fladen auf das heiße Blech ziehen und im Backofen auf der we
 ½ Würfel frische Hefe
 2 EL frische Rosmarinnadeln
 4 EL Olivenöl
-
 Grobes Meersalz
 100 g schwarze Oliven ohne Kern
 
@@ -1956,11 +1910,10 @@ Passt gut zu Schinken, Salami, Oliven.
 
 ## Focaccia al formaggio Nr. 2
 
-### Zutaten (für 6 Portionen):
+### Zutaten (für 6 Portionen)
 
 250 g Ziegenfrischkäse (oder sehr frischer Blauschimmelkäse)
 200 g Mehl
-
 Etwa 100 ml Olivenöl
 ½ TL Salz
 
@@ -2009,7 +1962,6 @@ Und das wäre eine Kombi mit Obst.
 2 Knoblauchzehen
 Olivenöl
 1 Rosmarinzweig
-
 Grobes Meersalz
 
 ### Zubereitungszeit
@@ -2057,7 +2009,6 @@ Den Focacciateig kann man auch auf bemehltem Backpapier zubereiten und erst kurz
 25 g frische Hefe
 100 ml lauwarmes Wasser
 600 g Mehl
-
 Meersalz, Olivenöl
 
 ### Zubereitungszeit
@@ -36431,7 +36382,7 @@ Man könnte diese Pasta eine vegetarische Carbonara nennen, aber das klingt, als
 
 ## Pasta mit Spargel und frischen Erbsen
 
-### Zutaten (für 2-3 Portionen):
+### Zutaten (für 2-3 Portionen)
 
 500 g grüner Spargel
 50 g Butter
@@ -36454,7 +36405,7 @@ Eine Kombi aus gesundem Gemüse und Kohlenhydraten.
 
 ## Pasta mit Spargelcreme
 
-### Zutaten (für 3 Portionen):
+### Zutaten (für 3 Portionen)
 
 250 g kurze Pasta (Rigatoni z.B.)
 1 kleine Zwiebel
@@ -36523,15 +36474,13 @@ Die Zucchini weiß über sich wenig Interessantes zu berichten, deshalb sagt sie
 
 ## Pasta mit Zitrone
 
-### Zutaten (für 2 Personen):
+### Zutaten (für 2 Personen)
 
 200 g Spaghetti
 50 g Butter
-
 Fein gehackte Schale 1 Zitrone (ich bevorzuge geriebene Schale)
 2 EL Zitronensaft
 Salz, Pfeffer
-
 Parmesan
 
 ### Zubereitung

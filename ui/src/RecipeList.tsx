@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import type { Recipe, User } from "./types/recipe";
 import "./RecipeList.css";
 
@@ -20,6 +20,34 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
   const [selectedDuration, setSelectedDuration] = useState<string>("all");
   const recipesPerPage = 10;
 
+  // Handle hash navigation on mount and hash changes
+  useEffect(() => {
+    const handleHashNavigation = () => {
+      const hash = window.location.hash.slice(1);
+      if (hash) {
+        const decodedTitle = decodeURIComponent(hash);
+        const recipeIndex = recipes.findIndex(r => r.title === decodedTitle);
+        if (recipeIndex !== -1) {
+          setExpandedRecipe(recipeIndex);
+          // Calculate which page contains this recipe
+          const page = Math.floor(recipeIndex / recipesPerPage) + 1;
+          setCurrentPage(page);
+          // Scroll to recipe after a short delay to ensure it's rendered
+          setTimeout(() => {
+            const recipeElement = document.querySelector(`[data-recipe-index="${recipeIndex}"]`);
+            if (recipeElement) {
+              recipeElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }
+          }, 100);
+        }
+      }
+    };
+
+    handleHashNavigation();
+    window.addEventListener('hashchange', handleHashNavigation);
+    return () => window.removeEventListener('hashchange', handleHashNavigation);
+  }, [recipes, recipesPerPage]);
+
   // Extract unique categories from recipes
   const categories = Array.from(new Set(recipes.map((r) => r.category))).sort();
 
@@ -33,6 +61,14 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
 
   const toggleVisibility = (index: number) => {
     setExpandedRecipe((prevState) => (prevState === index ? null : index));
+  };
+
+  const copyRecipeLink = (recipeTitle: string, event: React.MouseEvent) => {
+    event.stopPropagation();
+    const url = `${window.location.origin}${window.location.pathname}#${encodeURIComponent(recipeTitle)}`;
+    navigator.clipboard.writeText(url).then(() => {
+      alert('Recipe link copied to clipboard!');
+    });
   };
 
   // Helper to get user name from User object or string
@@ -253,19 +289,31 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
           </div>
         )}
       </div>
+      <div className="recipe-count">
+        <span>{filteredRecipes.length} recipe{filteredRecipes.length !== 1 ? 's' : ''} found</span>
+      </div>
       {currentRecipes.map((recipe, index) => (
         <div
           key={indexOfFirstRecipe + index}
           className="recipe"
-          onClick={() => toggleVisibility(indexOfFirstRecipe + index)}
+          data-recipe-index={indexOfFirstRecipe + index}
         >
-          <div className="recipe-header">
+          <div className="recipe-header" onClick={() => toggleVisibility(indexOfFirstRecipe + index)}>
             <h2>{recipe.title}</h2>
             {expandedRecipe !== indexOfFirstRecipe + index && (
               <div className="recipe-preview-meta">
                 <span className="preview-category">{recipe.category}</span>
                 {recipe.duration && <span className="preview-duration">⌛ {recipe.duration}</span>}
               </div>
+            )}
+            {expandedRecipe === indexOfFirstRecipe + index && (
+              <button
+                className="copy-link-button"
+                onClick={(e) => copyRecipeLink(recipe.title, e)}
+                title="Copy recipe link"
+              >
+                🔗
+              </button>
             )}
           </div>
           {expandedRecipe === indexOfFirstRecipe + index && (

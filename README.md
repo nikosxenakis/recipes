@@ -64,15 +64,8 @@ Create `.json` files in `recipe-builder/data/` folder:
 ]
 ```
 
-See [example-recipe.json](recipe-builder/data/example-recipe.json) for a complete example.
+## TODO
 
-## 🔧 Tech Stack
-
-- React 19.2.0 + TypeScript 5.9.3
-- Vite 7.2.2
-- Bootstrap 5.3.8
-- GitHub Actions
-
----
-
-Made with ❤️ and Claude Code
+- Fix Dark mode support
+- Add recipe workflow, provide a link to the Google Form mention that the recipes are revised regularly to add the new ones.
+- Recipe photos

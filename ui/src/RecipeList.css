@@ -50,13 +50,11 @@
   background: var(--recipe-bg);
   box-shadow: 0 2px 4px var(--shadow-light);
   transition: all 0.3s ease;
-  cursor: pointer;
   overflow: hidden;
 }
 
 .recipe:hover {
   box-shadow: 0 4px 8px var(--shadow-medium);
-  transform: translateY(-1px);
   border-color: var(--recipe-hover-border);
 }
 
@@ -73,6 +71,43 @@
   align-items: center;
   justify-content: space-between;
   gap: 16px;
+  cursor: pointer;
+}
+
+.copy-link-button {
+  background: transparent;
+  border: 2px solid var(--recipe-border);
+  border-radius: 8px;
+  padding: 6px 10px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.copy-link-button:hover {
+  background-color: var(--input-bg);
+  border-color: var(--primary-gradient-start);
+  transform: scale(1.1);
+}
+
+.copy-link-button:active {
+  transform: scale(0.95);
+}
+
+.recipe-count {
+  margin-bottom: 16px;
+  padding: 8px 12px;
+  background: var(--chip-bg);
+  border: 1px solid var(--chip-border);
+  border-radius: 8px;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--button-text);
 }
 
 .recipe h2 {
@@ -296,14 +331,12 @@
 
 .filters-container {
   display: flex;
+  flex-direction: column;
   gap: 10px;
-  align-items: start;
-  flex-wrap: wrap;
 }
 
 @media (max-width: 768px) {
   .filters-container {
-    flex-direction: column;
     gap: 10px;
   }
 }
@@ -311,15 +344,12 @@
 .search-bar-container {
   display: flex;
   gap: 10px;
-  flex: 1 1 auto;
-  min-width: 250px;
+  width: 100%;
 }
 
 @media (max-width: 768px) {
   .search-bar-container {
     gap: 8px;
-    flex: 1 1 100%;
-    min-width: 100%;
   }
 }
 
@@ -891,14 +921,11 @@
   display: flex;
   gap: 10px;
   flex-wrap: wrap;
-  flex: 0 1 auto;
 }
 
 @media (max-width: 768px) {
   .filter-dropdowns {
     gap: 8px;
-    flex: 1 1 100%;
-    width: 100%;
   }
 }
 
@@ -922,7 +949,6 @@
   background-position: right 10px center;
   background-size: 10px;
   padding-right: 34px;
-  height: 40px;
 }
 
 @media (max-width: 768px) {
