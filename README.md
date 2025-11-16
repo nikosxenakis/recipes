@@ -40,6 +40,8 @@ cd ../ui && yarn build
 
 Use our [Recipe Submission Form](https://docs.google.com/forms/d/13e0Xg_iriYidQaxAbvvsUv-4fin-sbCFkG5sr4GcOg0/edit#responses) to submit new recipes.
 
+**Note:** Submitted recipes are reviewed and added regularly to the collection.
+
 ### Option 2: JSON Format
 
 Create `.json` files in `recipe-builder/data/` folder:
@@ -64,8 +66,14 @@ Create `.json` files in `recipe-builder/data/` folder:
 ]
 ```
 
+## 🎨 Features
+
+- **Search & Filter**: Find recipes by name, ingredients, category, or cooking time
+- **Responsive Design**: Works on desktop, tablet, and mobile devices
+- **Recipe Sharing**: Copy links to share specific recipes
+- **Dark Mode**: Toggle between light and dark themes
+- **User Profiles**: See who created each recipe with photos and avatars
+
 ## TODO
 
-- Fix Dark mode support
-- Add recipe workflow, provide a link to the Google Form mention that the recipes are revised regularly to add the new ones.
 - Recipe photos

@@ -289,8 +289,19 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
           </div>
         )}
       </div>
-      <div className="recipe-count">
-        <span>{filteredRecipes.length} recipe{filteredRecipes.length !== 1 ? 's' : ''} found</span>
+      <div className="recipe-header-bar">
+        <div className="recipe-count">
+          <span>{filteredRecipes.length} recipe{filteredRecipes.length !== 1 ? 's' : ''} found</span>
+        </div>
+        <a
+          href="https://docs.google.com/forms/d/13e0Xg_iriYidQaxAbvvsUv-4fin-sbCFkG5sr4GcOg0/edit#responses"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="add-recipe-button"
+          title="Add a new recipe"
+        >
+          ➕ Add Recipe
+        </a>
       </div>
       {currentRecipes.map((recipe, index) => (
         <div

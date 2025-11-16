@@ -16,10 +16,10 @@ const App = () => {
   const [recipes, setRecipes] = useState<Recipe[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
-  // const [darkMode, setDarkMode] = useState(() => {
-  //   const saved = localStorage.getItem("darkMode");
-  //   return saved ? JSON.parse(saved) : false;
-  // });
+  const [darkMode, setDarkMode] = useState(() => {
+    const saved = localStorage.getItem("darkMode");
+    return saved ? JSON.parse(saved) : false;
+  });
 
   useEffect(() => {
     const loadRecipes = async () => {
@@ -45,14 +45,14 @@ const App = () => {
     loadRecipes();
   }, []);
 
-  // useEffect(() => {
-  //   document.documentElement.setAttribute("data-theme", darkMode ? "dark" : "light");
-  //   localStorage.setItem("darkMode", JSON.stringify(darkMode));
-  // }, [darkMode]);
+  useEffect(() => {
+    document.documentElement.setAttribute("data-theme", darkMode ? "dark" : "light");
+    localStorage.setItem("darkMode", JSON.stringify(darkMode));
+  }, [darkMode]);
 
-  // const toggleDarkMode = () => {
-  //   setDarkMode(!darkMode);
-  // };
+  const toggleDarkMode = () => {
+    setDarkMode(!darkMode);
+  };
 
   if (loading) {
     return (
@@ -67,7 +67,7 @@ const App = () => {
     return (
       <div className="App">
         <h1>REZEPTBUCH</h1>
-        <p style={{ color: "red" }}>Error: {error}</p>
+        <p style={{ color: "var(--primary-gradient-start)" }}>Error: {error}</p>
       </div>
     );
   }
@@ -76,14 +76,14 @@ const App = () => {
     <div className="App">
       <header className="app-header">
         <h1>REZEPTBUCH</h1>
-        {/* <button
+        <button
           className="theme-toggle"
           onClick={toggleDarkMode}
           aria-label="Toggle dark mode"
           title={darkMode ? "Switch to light mode" : "Switch to dark mode"}
         >
           {darkMode ? "☀️" : "🌙"}
-        </button> */}
+        </button>
       </header>
       <RecipeList recipes={recipes} />
       <footer className="app-footer">
