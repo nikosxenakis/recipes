@@ -16,10 +16,10 @@ const App = () => {
   const [recipes, setRecipes] = useState<Recipe[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
-  const [darkMode, setDarkMode] = useState(() => {
-    const saved = localStorage.getItem("darkMode");
-    return saved ? JSON.parse(saved) : false;
-  });
+  // const [darkMode, setDarkMode] = useState(() => {
+  //   const saved = localStorage.getItem("darkMode");
+  //   return saved ? JSON.parse(saved) : false;
+  // });
 
   useEffect(() => {
     const loadRecipes = async () => {
@@ -45,14 +45,14 @@ const App = () => {
     loadRecipes();
   }, []);
 
-  useEffect(() => {
-    document.documentElement.setAttribute("data-theme", darkMode ? "dark" : "light");
-    localStorage.setItem("darkMode", JSON.stringify(darkMode));
-  }, [darkMode]);
+  // useEffect(() => {
+  //   document.documentElement.setAttribute("data-theme", darkMode ? "dark" : "light");
+  //   localStorage.setItem("darkMode", JSON.stringify(darkMode));
+  // }, [darkMode]);
 
-  const toggleDarkMode = () => {
-    setDarkMode(!darkMode);
-  };
+  // const toggleDarkMode = () => {
+  //   setDarkMode(!darkMode);
+  // };
 
   if (loading) {
     return (

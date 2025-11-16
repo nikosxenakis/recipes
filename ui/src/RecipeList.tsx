@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import type { Recipe, User, Comment } from "./types/recipe";
+import type { Recipe, User } from "./types/recipe";
 import "./RecipeList.css";
 
 const formatDate = (isoDate: string): string => {
@@ -143,15 +143,17 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
 
   const filteredRecipes = recipes.filter((recipe) => {
     // Filter by search terms
-    const matchesSearch = searchTerms.length === 0 || searchTerms.every(
-      (term) =>
-        recipe.title.toLowerCase().includes(term.toLowerCase()) ||
-        recipe.ingredients.some((section) =>
-          section.items.some((ingredient: string) =>
-            ingredient.toLowerCase().includes(term.toLowerCase())
+    const matchesSearch =
+      searchTerms.length === 0 ||
+      searchTerms.every(
+        (term) =>
+          recipe.title.toLowerCase().includes(term.toLowerCase()) ||
+          recipe.ingredients.some((section) =>
+            section.items.some((ingredient: string) =>
+              ingredient.toLowerCase().includes(term.toLowerCase())
+            )
           )
-        )
-    );
+      );
 
     // Filter by category
     const matchesCategory = selectedCategory === "all" || recipe.category === selectedCategory;
@@ -350,18 +352,12 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
                       return (
                         <div key={i} className="comment">
                           {userPhoto ? (
-                            <img
-                              src={userPhoto}
-                              alt={userName}
-                              className="comment-avatar-img"
-                            />
+                            <img src={userPhoto} alt={userName} className="comment-avatar-img" />
                           ) : (
                             <div
                               className="comment-avatar"
                               style={{
-                                backgroundColor: userName
-                                  ? getColorFromString(userName)
-                                  : "#999",
+                                backgroundColor: userName ? getColorFromString(userName) : "#999",
                               }}
                             >
                               {userName ? getInitials(userName) : "?"}
