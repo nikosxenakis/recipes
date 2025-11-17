@@ -2,5 +2,7 @@
 /dist
 /ui
 
-# Generated recipe file
+# Generated files from recipe-builder
 /public/recipes.json
+/public/users.json
+/public/users/

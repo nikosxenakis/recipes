@@ -9,17 +9,21 @@ data/
 ├── recipes/         # All recipe source files (markdown, JSON, CSV)
 │   ├── Rezeptbuch.md           # Markdown recipes
 │   ├── example-recipe.json     # JSON recipes
-│   └── recipe-example2.csv     # CSV for import
-└── users/          # User data
-    └── users.json   # User database with photos
+│   └── example-recipes.csv     # CSV recipes
+└── users/          # User data and photos
+    ├── users.json              # User database
+    └── photos/                 # User profile photos
+        ├── christine.jpg
+        ├── nikos.jpeg
+        └── paula.jpeg
 
 dist/ (gitignored)   # Auto-generated during build:recipes
-├── example-recipe.json         # Copied from data/recipes/
+├── example-recipe.json         # Processed from data/recipes/
 ├── example-recipes.json        # Converted from CSV
 └── Rezeptbuch.json             # Converted from MD
 ```
 
-**Note:** The `dist/` folder is auto-generated when you run `npm run build:recipes`. All source files (JSON, CSV, MD) from `data/recipes/` are transformed into JSON format in `dist/`.
+**Note:** All source files are in the `data/` folder. The build process generates files in `dist/` and copies them to `ui/public/`.
 
 ## Recipes Folder (`data/recipes/`)
 
@@ -69,7 +73,7 @@ CSV files are automatically parsed and converted to JSON during `npm run build:r
 
 ## Users Folder (`users/`)
 
-Contains user database file.
+Contains user database file and photos.
 
 ### users.json
 
@@ -83,14 +87,19 @@ Array of user objects with name and optional photo:
   },
   {
     "name": "Nikos",
-    "photo": "nikos.jpg"
+    "photo": "nikos.jpeg"
   }
 ]
 ```
 
+### photos/
+
+Directory containing user profile photos. Photo filenames must match the `photo` field in users.json.
+
 **Important Notes:**
 - User names are used as IDs and must match exactly in recipes and comments
-- Photo filenames should match files in `ui/public/users/`
+- Photo files are stored in `data/users/photos/`
+- During build, photos are automatically copied to `ui/public/users/`
 - Comments in recipes can reference users by name (e.g., "Christine: Great recipe!")
 - If a user doesn't exist in users.json, they'll be created without a photo
 
@@ -108,10 +117,13 @@ npm run export        # Step 3: Combine dist/ JSONs into ui/public/recipes.json
 
 ### Build Process Steps:
 
-1. **`npm run build:users`** - Builds `ui/public/users.json` from `data/users/users.json`
+1. **`npm run build:users`** - Builds user database and copies photos:
+   - Reads `data/users/users.json`
+   - Creates `ui/public/users.json` (user database)
+   - Copies all photos from `data/users/photos/` to `ui/public/users/`
 
 2. **`npm run build:recipes`** - Parses all source files in `data/recipes/` and generates individual JSONs in `dist/`:
-   - **JSON files** → Copied to `dist/` as-is
+   - **JSON files** → Processed and normalized (converts string creators/users to User objects)
    - **CSV files** → Converted to JSON with same basename (e.g., `example-recipes.csv` → `example-recipes.json`)
    - **MD files** → Parsed and converted to JSON with same basename (e.g., `Rezeptbuch.md` → `Rezeptbuch.json`)
 
@@ -140,5 +152,6 @@ Simply add your recipe file to `data/recipes/` in any supported format (MD, JSON
 
 ### Adding Users
 1. Add entry to `data/users/users.json`
-2. Add photo to `ui/public/users/` (optional)
+2. Add photo to `data/users/photos/` (optional)
 3. Run `npm run build`
+4. Photos and user data are automatically exported to `ui/public/`

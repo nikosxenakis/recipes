@@ -37,6 +37,7 @@ cd ../ui && yarn build
 ### Build Steps Explained
 
 The `npm run build` command in recipe-builder runs three steps:
+
 1. `build:users` - Builds user database from `data/users/users.json`
 2. `build:recipes` - Parses all source files (MD/CSV/JSON) from `data/recipes/` into `dist/`
 3. `export` - Combines all `dist/` JSONs into `ui/public/recipes.json`
@@ -79,13 +80,14 @@ Example JSON format:
 
 ## 🎨 Features
 
-- **Search & Filter**: Find recipes by name, ingredients, category, or cooking time
+- **Search & Filter**: Find recipes by name, ingredients, category, cooking time, or creator
 - **Responsive Design**: Works on desktop, tablet, and mobile devices
 - **Recipe Sharing**: Copy links to share specific recipes
 - **Dark Mode**: Toggle between light and dark themes
 - **User Profiles**: See who created each recipe with photos and avatars
 - **Recipe Photos**: Display photos for recipes when available
 - **Recipe Importer**: Import recipes from Google Forms CSV exports
+- **Creator Filter**: Filter recipes by their creator
 
 ## TODO
 

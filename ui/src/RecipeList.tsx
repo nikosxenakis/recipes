@@ -18,6 +18,7 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
   const [searchTerms, setSearchTerms] = useState<string[]>([]);
   const [selectedCategory, setSelectedCategory] = useState<string>("all");
   const [selectedDuration, setSelectedDuration] = useState<string>("all");
+  const [selectedCreator, setSelectedCreator] = useState<string>("all");
   const recipesPerPage = 10;
 
   // Handle hash navigation on mount and hash changes
@@ -50,6 +51,16 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
 
   // Extract unique categories from recipes
   const categories = Array.from(new Set(recipes.map((r) => r.category))).sort();
+
+  // Extract unique creators from recipes
+  const creators = Array.from(
+    new Set(
+      recipes
+        .map((r) => r.creator)
+        .filter((c) => c !== undefined)
+        .map((c) => (typeof c === "string" ? c : c.name))
+    )
+  ).sort();
 
   // Define duration ranges
   const durationRanges = [
@@ -155,6 +166,11 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
     setCurrentPage(1);
   };
 
+  const handleCreatorChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
+    setSelectedCreator(event.target.value);
+    setCurrentPage(1);
+  };
+
   // Extract duration in minutes from duration string
   const extractDurationMinutes = (duration?: string): number | null => {
     if (!duration) return null;
@@ -209,7 +225,12 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
       }
     }
 
-    return matchesSearch && matchesCategory && matchesDuration;
+    // Filter by creator
+    const matchesCreator =
+      selectedCreator === "all" ||
+      (recipe.creator && getUserName(recipe.creator) === selectedCreator);
+
+    return matchesSearch && matchesCategory && matchesDuration && matchesCreator;
   });
 
   const indexOfLastRecipe = currentPage * recipesPerPage;
@@ -270,6 +291,18 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
               {durationRanges.map((range) => (
                 <option key={range.value} value={range.value}>
                   ⌛ {range.label}
+                </option>
+              ))}
+            </select>
+            <select
+              value={selectedCreator}
+              onChange={handleCreatorChange}
+              className="filter-select"
+            >
+              <option value="all">👨‍🍳 All creators</option>
+              {creators.map((creator) => (
+                <option key={creator} value={creator}>
+                  {creator}
                 </option>
               ))}
             </select>
