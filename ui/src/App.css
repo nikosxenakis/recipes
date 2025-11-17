@@ -93,11 +93,17 @@ body {
   margin-bottom: 32px;
 }
 
-.theme-toggle {
+.header-controls {
   position: absolute;
   right: 0;
   top: 50%;
   transform: translateY(-50%);
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.theme-toggle {
   background: var(--card-bg);
   border: 2px solid var(--border-color);
   border-radius: 50%;
@@ -113,13 +119,13 @@ body {
 }
 
 .theme-toggle:hover {
-  transform: translateY(-50%) scale(1.1);
+  transform: scale(1.1);
   box-shadow: 0 4px 12px var(--shadow-medium);
   border-color: var(--primary-gradient-start);
 }
 
 .theme-toggle:active {
-  transform: translateY(-50%) scale(0.95);
+  transform: scale(0.95);
 }
 
 @media (max-width: 768px) {

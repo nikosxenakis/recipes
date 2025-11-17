@@ -1,0 +1,54 @@
+.skeleton {
+  animation: skeleton-loading 1s linear infinite alternate;
+  background: linear-gradient(
+    90deg,
+    var(--skeleton-base, #e0e0e0) 0%,
+    var(--skeleton-highlight, #f0f0f0) 50%,
+    var(--skeleton-base, #e0e0e0) 100%
+  );
+  background-size: 200% 100%;
+}
+
+@keyframes skeleton-loading {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}
+
+.skeleton-line {
+  height: 16px;
+  margin-bottom: 8px;
+  border-radius: 4px;
+}
+
+.skeleton-line.short {
+  width: 60%;
+}
+
+.skeleton-line.medium {
+  width: 80%;
+}
+
+.skeleton-line.long {
+  width: 100%;
+}
+
+.skeleton-heading {
+  height: 24px;
+  width: 40%;
+  margin: 20px 0 12px;
+  border-radius: 4px;
+}
+
+.skeleton-section {
+  margin-bottom: 24px;
+}
+
+/* Dark mode support */
+[data-theme="dark"] .skeleton {
+  --skeleton-base: #2a2a2a;
+  --skeleton-highlight: #3a3a3a;
+}

@@ -1,5 +1,9 @@
 import React, { useState, useEffect } from "react";
 import type { Recipe, User } from "./types/recipe";
+import type { Language } from "./utils/translator";
+import { getLabel } from "./utils/labels";
+import { RecipeCard } from "./components/RecipeCard";
+import { SearchFilter } from "./components/SearchFilter";
 import "./RecipeList.css";
 
 const formatDate = (isoDate: string): string => {
@@ -11,7 +15,12 @@ const formatDate = (isoDate: string): string => {
   });
 };
 
-const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
+interface RecipeListProps {
+  recipes: Recipe[];
+  currentLanguage: Language;
+}
+
+const RecipeList: React.FC<RecipeListProps> = ({ recipes, currentLanguage }) => {
   const [expandedRecipe, setExpandedRecipe] = useState<number | null>(null);
   const [currentPage, setCurrentPage] = useState(1);
   const [searchQuery, setSearchQuery] = useState("");
@@ -61,14 +70,6 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
         .map((c) => (typeof c === "string" ? c : c.name))
     )
   ).sort();
-
-  // Define duration ranges
-  const durationRanges = [
-    { label: "All durations", value: "all" },
-    { label: "Quick (< 30 min)", value: "quick" },
-    { label: "Medium (30-60 min)", value: "medium" },
-    { label: "Long (> 60 min)", value: "long" },
-  ];
 
   const toggleVisibility = (index: number) => {
     setExpandedRecipe((prevState) => (prevState === index ? null : index));
@@ -253,75 +254,22 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
 
   return (
     <div className="recipe-list">
-      <div className="filters-section">
-        <div className="filters-header">
-          <h3 className="filters-title">🔍 Search & Filter</h3>
-        </div>
-        <div className="filters-container">
-          <form onSubmit={handleSearchSubmit} className="search-bar-container">
-            <input
-              type="text"
-              placeholder="Search recipes..."
-              value={searchQuery}
-              onChange={handleSearchChange}
-              className="search-bar"
-            />
-            <button type="submit" className="search-button">
-              Search
-            </button>
-          </form>
-          <div className="filter-dropdowns">
-            <select
-              value={selectedCategory}
-              onChange={handleCategoryChange}
-              className="filter-select"
-            >
-              <option value="all">🍽️ All categories</option>
-              {categories.map((category) => (
-                <option key={category} value={category}>
-                  {category}
-                </option>
-              ))}
-            </select>
-            <select
-              value={selectedDuration}
-              onChange={handleDurationChange}
-              className="filter-select"
-            >
-              {durationRanges.map((range) => (
-                <option key={range.value} value={range.value}>
-                  ⌛ {range.label}
-                </option>
-              ))}
-            </select>
-            <select
-              value={selectedCreator}
-              onChange={handleCreatorChange}
-              className="filter-select"
-            >
-              <option value="all">👨‍🍳 All creators</option>
-              {creators.map((creator) => (
-                <option key={creator} value={creator}>
-                  {creator}
-                </option>
-              ))}
-            </select>
-          </div>
-        </div>
-        {searchTerms.length > 0 && (
-          <div className="active-filters">
-            <span className="active-filters-label">Active filters:</span>
-            {searchTerms.map((term, index) => (
-              <span key={index} className="filter-chip">
-                {term}
-                <button onClick={() => handleRemoveSearchTerm(term)} className="filter-chip-remove">
-                  ×
-                </button>
-              </span>
-            ))}
-          </div>
-        )}
-      </div>
+      <SearchFilter
+        searchQuery={searchQuery}
+        searchTerms={searchTerms}
+        selectedCategory={selectedCategory}
+        selectedDuration={selectedDuration}
+        selectedCreator={selectedCreator}
+        categories={categories}
+        creators={creators}
+        currentLanguage={currentLanguage}
+        onSearchChange={handleSearchChange}
+        onSearchSubmit={handleSearchSubmit}
+        onRemoveSearchTerm={handleRemoveSearchTerm}
+        onCategoryChange={handleCategoryChange}
+        onDurationChange={handleDurationChange}
+        onCreatorChange={handleCreatorChange}
+      />
       <div className="recipe-header-bar">
         <div className="recipe-count">
           <span>{filteredRecipes.length} recipe{filteredRecipes.length !== 1 ? 's' : ''} found</span>
@@ -337,152 +285,31 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
         </a>
       </div>
       {currentRecipes.map((recipe, index) => (
-        <div
+        <RecipeCard
           key={indexOfFirstRecipe + index}
-          className="recipe"
-          data-recipe-index={indexOfFirstRecipe + index}
-        >
-          <div className="recipe-header" onClick={() => toggleVisibility(indexOfFirstRecipe + index)}>
-            <h2>{recipe.title}</h2>
-            {expandedRecipe !== indexOfFirstRecipe + index && (
-              <div className="recipe-preview-meta">
-                <span className="preview-category">{recipe.category}</span>
-                {recipe.duration && <span className="preview-duration">⌛ {recipe.duration}</span>}
-              </div>
-            )}
-            {expandedRecipe === indexOfFirstRecipe + index && (
-              <div className="recipe-header-actions">
-                {recipe.creator && (
-                  <span className="creator-badge-header">
-                    {getUserPhoto(recipe.creator) ? (
-                      <img
-                        src={getUserPhoto(recipe.creator)}
-                        alt={getUserName(recipe.creator)}
-                        className="user-avatar-small"
-                      />
-                    ) : (
-                      <div
-                        className="user-avatar-small user-avatar-initials"
-                        style={{
-                          backgroundColor: getColorFromString(getUserName(recipe.creator)),
-                        }}
-                      >
-                        {getInitials(getUserName(recipe.creator))}
-                      </div>
-                    )}
-                    {getUserName(recipe.creator)}
-                  </span>
-                )}
-                <button
-                  className="copy-link-button"
-                  onClick={(e) => copyRecipeLink(recipe.title, e)}
-                  title="Copy recipe link"
-                >
-                  🔗
-                </button>
-              </div>
-            )}
-          </div>
-          {expandedRecipe === indexOfFirstRecipe + index && (
-            <div className="recipe-details">
-              <div className="recipe-meta">
-                <div className="recipe-meta-left">
-                  <span className="category-tag">🍽️ {recipe.category}</span>
-                  {recipe.duration && <span className="meta-info">⌛ {recipe.duration}</span>}
-                  {recipe.servings && <span className="meta-info">👥 {recipe.servings}</span>}
-                </div>
-                {recipe.createdAt && (
-                  <div className="recipe-meta-right">
-                    <span className="meta-info">📅 {formatDate(recipe.createdAt)}</span>
-                  </div>
-                )}
-              </div>
-              {recipe.photo && (
-                <div className="recipe-photo">
-                  <img src={recipe.photo} alt={recipe.title} />
-                </div>
-              )}
-              <h3>🛒 Zutaten</h3>
-              {mergeIngredientSections(recipe.ingredients).map((section, sectionIndex: number) => (
-                <div key={sectionIndex} className="ingredient-section">
-                  {section.title && <h4 className="ingredient-section-title">{section.title}</h4>}
-                  <ul>
-                    {section.items.map((ingredient: string, i: number) => (
-                      <li key={i}>{ingredient}</li>
-                    ))}
-                  </ul>
-                </div>
-              ))}
-              <h3>📜 Zubereitung</h3>
-              <ul>
-                {recipe.instructions.map((instruction: string, i: number) => (
-                  <li key={i}>{instruction}</li>
-                ))}
-              </ul>
-              {recipe.tips && recipe.tips.length > 0 && (
-                <>
-                  <h3>💁 Tipp</h3>
-                  <ul>
-                    {recipe.tips.map((tip: string, i: number) => (
-                      <li key={i}>{tip}</li>
-                    ))}
-                  </ul>
-                </>
-              )}
-              {recipe.info && recipe.info.length > 0 && (
-                <>
-                  <h3>ℹ️ Info</h3>
-                  <ul>
-                    {recipe.info.map((x: string, i: number) => (
-                      <li key={i}>{x}</li>
-                    ))}
-                  </ul>
-                </>
-              )}
-              {recipe.comments && recipe.comments.length > 0 && (
-                <>
-                  <h3>💬 Kommentar</h3>
-                  <div className="comments-section">
-                    {recipe.comments.map((comment, i: number) => {
-                      const userName = getUserName(comment.user);
-                      const userPhoto = getUserPhoto(comment.user);
-                      return (
-                        <div key={i} className="comment">
-                          {userPhoto ? (
-                            <img src={userPhoto} alt={userName} className="comment-avatar-img" />
-                          ) : (
-                            <div
-                              className="comment-avatar"
-                              style={{
-                                backgroundColor: userName ? getColorFromString(userName) : "#999",
-                              }}
-                            >
-                              {userName ? getInitials(userName) : "?"}
-                            </div>
-                          )}
-                          <div className="comment-content">
-                            {userName && <div className="comment-author">{userName}</div>}
-                            <div className="comment-text">{comment.text}</div>
-                          </div>
-                        </div>
-                      );
-                    })}
-                  </div>
-                </>
-              )}
-            </div>
-          )}
-        </div>
+          recipe={recipe}
+          index={indexOfFirstRecipe + index}
+          isExpanded={expandedRecipe === indexOfFirstRecipe + index}
+          currentLanguage={currentLanguage}
+          onToggle={() => toggleVisibility(indexOfFirstRecipe + index)}
+          onCopyLink={copyRecipeLink}
+          formatDate={formatDate}
+          getUserName={getUserName}
+          getUserPhoto={getUserPhoto}
+          getInitials={getInitials}
+          getColorFromString={getColorFromString}
+          mergeIngredientSections={mergeIngredientSections}
+        />
       ))}
       <div className="pagination">
         <button onClick={handlePreviousPage} disabled={currentPage === 1}>
-          Previous
+          {getLabel('previous', currentLanguage)}
         </button>
         <span>
-          Page {currentPage} of {totalPages}
+          {getLabel('page', currentLanguage)} {currentPage} {getLabel('of', currentLanguage)} {totalPages}
         </span>
         <button onClick={handleNextPage} disabled={currentPage === totalPages}>
-          Next
+          {getLabel('next', currentLanguage)}
         </button>
       </div>
     </div>

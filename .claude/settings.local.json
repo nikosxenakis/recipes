@@ -15,7 +15,11 @@
       "Bash(npm run clean:*)",
       "Bash(yarn run --help:*)",
       "Bash(yarn clean:*)",
-      "Bash(yarn build:recipes:*)"
+      "Bash(yarn build:recipes:*)",
+      "Bash(yarn add:*)",
+      "Bash(yarn export)",
+      "Bash(yarn remove:*)",
+      "Bash(yarn start)"
     ],
     "deny": [],
     "ask": []
