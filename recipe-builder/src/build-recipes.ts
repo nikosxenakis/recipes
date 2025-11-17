@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync, readdirSync, mkdirSync, statSync } from "fs";
+import { readFileSync, writeFileSync, readdirSync, mkdirSync, statSync, existsSync } from "fs";
 import { join, dirname, basename, extname } from "path";
 import { fileURLToPath } from "url";
 import MarkdownIt from "markdown-it";
@@ -12,6 +12,220 @@ import type {
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
+
+// CSV Import Types and Functions
+interface GoogleFormResponse {
+  timestamp: string;
+  title: string;
+  category: string;
+  creator: string;
+  servings?: string;
+  duration?: string;
+  photo?: string;
+  ingredients: string;
+  instructions: string;
+  tips?: string;
+  info?: string;
+}
+
+function generateRecipeId(title: string): string {
+  return title
+    .toLowerCase()
+    .replace(/ä/g, 'ae')
+    .replace(/ö/g, 'oe')
+    .replace(/ü/g, 'ue')
+    .replace(/ß/g, 'ss')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-|-$/g, '');
+}
+
+function parseMultilineField(text: string): string[] {
+  if (!text || text.trim() === '') return [];
+  return text
+    .split('\n')
+    .map(line => line.trim())
+    .filter(line => line.length > 0);
+}
+
+function parseIngredientsFromCsv(text: string): IngredientSection[] {
+  if (!text || text.trim() === '') return [{ items: [] }];
+
+  const lines = text.split('\n').map(line => line.trim()).filter(line => line);
+  const sections: IngredientSection[] = [];
+  let currentSection: IngredientSection = { items: [] };
+
+  for (const line of lines) {
+    if (line.match(/^[A-ZÄÖÜ][^:]*:$/i) && !line.match(/^\d/)) {
+      if (currentSection.items.length > 0) {
+        sections.push(currentSection);
+      }
+      currentSection = {
+        title: line.replace(/:$/, '').trim(),
+        items: []
+      };
+    } else {
+      currentSection.items.push(line);
+    }
+  }
+
+  if (currentSection.items.length > 0) {
+    sections.push(currentSection);
+  }
+
+  return sections.length > 0 ? sections : [{ items: [] }];
+}
+
+function parseCsvContent(csvContent: string): string[][] {
+  const rows: string[][] = [];
+  let currentRow: string[] = [];
+  let currentField = '';
+  let inQuotes = false;
+  let i = 0;
+
+  while (i < csvContent.length) {
+    const char = csvContent[i];
+    const nextChar = csvContent[i + 1];
+
+    if (char === '"') {
+      if (inQuotes && nextChar === '"') {
+        currentField += '"';
+        i++;
+      } else {
+        inQuotes = !inQuotes;
+      }
+    } else if (char === ',' && !inQuotes) {
+      currentRow.push(currentField.trim());
+      currentField = '';
+    } else if ((char === '\n' || char === '\r') && !inQuotes) {
+      if (char === '\r' && nextChar === '\n') {
+        i++;
+      }
+      if (currentField || currentRow.length > 0) {
+        currentRow.push(currentField.trim());
+        if (currentRow.some(field => field.length > 0)) {
+          rows.push(currentRow);
+        }
+        currentRow = [];
+        currentField = '';
+      }
+    } else {
+      currentField += char;
+    }
+
+    i++;
+  }
+
+  if (currentField || currentRow.length > 0) {
+    currentRow.push(currentField.trim());
+    if (currentRow.some(field => field.length > 0)) {
+      rows.push(currentRow);
+    }
+  }
+
+  return rows;
+}
+
+function parseGoogleFormCsv(csvContent: string): GoogleFormResponse[] {
+  const rows = parseCsvContent(csvContent);
+
+  if (rows.length < 2) {
+    return [];
+  }
+
+  const headers = rows[0];
+  const responses: GoogleFormResponse[] = [];
+
+  for (let i = 1; i < rows.length; i++) {
+    const values = rows[i];
+    const response: any = {};
+
+    headers.forEach((header, index) => {
+      const value = values[index] || '';
+      const lowerHeader = header.toLowerCase();
+
+      if (lowerHeader.includes('timestamp') || lowerHeader.includes('zeitstempel')) {
+        response.timestamp = value;
+      } else if (lowerHeader.includes('titel') || lowerHeader.includes('title') || lowerHeader.includes('name')) {
+        response.title = value;
+      } else if (lowerHeader.includes('kategorie') || lowerHeader.includes('category')) {
+        response.category = value;
+      } else if (lowerHeader.includes('ersteller') || lowerHeader.includes('creator') || lowerHeader.includes('author')) {
+        response.creator = value;
+      } else if (lowerHeader.includes('portionen') || lowerHeader.includes('servings')) {
+        response.servings = value;
+      } else if (lowerHeader.includes('dauer') || lowerHeader.includes('duration') || lowerHeader.includes('zeit')) {
+        response.duration = value;
+      } else if (lowerHeader.includes('foto') || lowerHeader.includes('photo') || lowerHeader.includes('bild') || lowerHeader.includes('image')) {
+        response.photo = value;
+      } else if (lowerHeader.includes('zutat') || lowerHeader.includes('ingredient')) {
+        response.ingredients = value;
+      } else if (lowerHeader.includes('zubereitung') || lowerHeader.includes('anleitung') || lowerHeader.includes('instruction')) {
+        response.instructions = value;
+      } else if (lowerHeader.includes('tipp') || lowerHeader.includes('tip')) {
+        response.tips = value;
+      } else if (lowerHeader.includes('info') || lowerHeader.includes('hinweis')) {
+        response.info = value;
+      }
+    });
+
+    if (response.title && response.ingredients && response.instructions) {
+      responses.push(response as GoogleFormResponse);
+    }
+  }
+
+  return responses;
+}
+
+function convertCsvToRecipe(formResponse: GoogleFormResponse): Recipe {
+  const recipe: Recipe = {
+    id: generateRecipeId(formResponse.title),
+    title: formResponse.title.trim(),
+    category: formResponse.category?.trim() || 'Sonstiges',
+    ingredients: parseIngredientsFromCsv(formResponse.ingredients),
+    instructions: parseMultilineField(formResponse.instructions)
+  };
+
+  if (formResponse.creator?.trim()) {
+    recipe.creator = getUserObject(formResponse.creator.trim());
+  }
+
+  if (formResponse.timestamp) {
+    try {
+      const date = new Date(formResponse.timestamp);
+      if (!isNaN(date.getTime())) {
+        recipe.createdAt = date.toISOString();
+      }
+    } catch (e) {
+      recipe.createdAt = new Date().toISOString();
+    }
+  } else {
+    recipe.createdAt = new Date().toISOString();
+  }
+
+  if (formResponse.servings?.trim()) {
+    recipe.servings = formResponse.servings.trim();
+  }
+
+  if (formResponse.duration?.trim()) {
+    recipe.duration = formResponse.duration.trim();
+  }
+
+  if (formResponse.photo?.trim()) {
+    recipe.photo = formResponse.photo.trim();
+  }
+
+  const tips = parseMultilineField(formResponse.tips || '');
+  if (tips.length > 0) {
+    recipe.tips = tips;
+  }
+
+  const info = parseMultilineField(formResponse.info || '');
+  if (info.length > 0) {
+    recipe.info = info;
+  }
+
+  return recipe;
+}
 
 // Load users from built users.json file
 const loadUsers = (): Record<string, User> => {
@@ -223,6 +437,32 @@ const parseMarkdown = (text: string): Recipe[] => {
   return parsedRecipes;
 };
 
+const normalizeRecipes = (recipes: Recipe[]): Recipe[] => {
+  return recipes.map((recipe) => {
+    const normalized: any = { ...recipe };
+
+    // Convert string creators to User objects
+    if (normalized.creator && typeof normalized.creator === 'string') {
+      normalized.creator = getUserObject(normalized.creator);
+    }
+
+    // Convert string comment users to User objects
+    if (normalized.comments && Array.isArray(normalized.comments)) {
+      normalized.comments = normalized.comments.map((comment: Comment) => {
+        if (typeof comment.user === 'string') {
+          return {
+            ...comment,
+            user: getUserObject(comment.user)
+          };
+        }
+        return comment;
+      });
+    }
+
+    return normalized as Recipe;
+  });
+};
+
 const cleanRecipes = (recipes: Recipe[]): Recipe[] => {
   return recipes.map((recipe) => {
     const cleaned: any = { ...recipe };
@@ -243,28 +483,58 @@ const cleanRecipes = (recipes: Recipe[]): Recipe[] => {
 };
 
 const buildRecipes = () => {
-  const recipesDir = join(__dirname, "../data/recipes");
-  const outputPath = join(__dirname, "../../ui/public/recipes.json");
+  const dataRecipesDir = join(__dirname, "../data/recipes");
+  const distDir = join(__dirname, "../dist");
 
-  console.log("📂 Scanning recipes directory...");
+  // Ensure dist directory exists
+  if (!existsSync(distDir)) {
+    mkdirSync(distDir, { recursive: true });
+  }
 
-  // Get all .md and .json files from recipes directory (excluding README files)
-  const files = readdirSync(recipesDir).filter((file) => {
-    const ext = extname(file).toLowerCase();
+  console.log("📋 Building recipes from sources...\n");
+
+  // Get all files from data/recipes
+  const files = readdirSync(dataRecipesDir).filter((file) => {
     const isReadme = file.toLowerCase().includes("readme");
-    return (ext === ".md" || ext === ".json") && !isReadme;
+    return !isReadme;
   });
 
-  console.log(`Found ${files.length} recipe files to process`);
-
-  const allRecipes: Recipe[] = [];
+  let totalRecipesGenerated = 0;
+  const processedFiles: string[] = [];
 
   files.forEach((file) => {
-    const filePath = join(recipesDir, file);
+    const filePath = join(dataRecipesDir, file);
     const ext = extname(file).toLowerCase();
+    const baseName = basename(file, ext);
 
-    if (ext === ".md") {
-      console.log(`📖 Processing markdown: ${file}...`);
+    if (ext === ".json") {
+      // Parse JSON and normalize (convert string creators/users to User objects)
+      const content = readFileSync(filePath, "utf-8");
+      const recipes = JSON.parse(content) as Recipe[];
+      const normalized = normalizeRecipes(recipes);
+      const cleaned = cleanRecipes(normalized);
+
+      const dest = join(distDir, file);
+      writeFileSync(dest, JSON.stringify(cleaned, null, 2) + '\n', 'utf-8');
+      console.log(`📄 Processed JSON: ${file} (${cleaned.length} recipe${cleaned.length !== 1 ? 's' : ''})`);
+      totalRecipesGenerated += cleaned.length;
+      processedFiles.push(file);
+    } else if (ext === ".csv") {
+      // Parse CSV and convert to JSON
+      const csvContent = readFileSync(filePath, 'utf-8');
+      const formResponses = parseGoogleFormCsv(csvContent);
+
+      if (formResponses.length > 0) {
+        const jsonFilename = `${baseName}.json`;
+        const jsonPath = join(distDir, jsonFilename);
+        const recipes = formResponses.map(response => convertCsvToRecipe(response));
+        writeFileSync(jsonPath, JSON.stringify(recipes, null, 2) + '\n', 'utf-8');
+        console.log(`📊 Converted CSV: ${file} → ${jsonFilename} (${recipes.length} recipe${recipes.length !== 1 ? 's' : ''})`);
+        totalRecipesGenerated += recipes.length;
+        processedFiles.push(jsonFilename);
+      }
+    } else if (ext === ".md") {
+      // Parse markdown and convert to JSON
       let markdown = readFileSync(filePath, "utf-8");
 
       // Remove BOM if present
@@ -282,41 +552,18 @@ const buildRecipes = () => {
         });
       }
 
-      console.log(`   ✓ Parsed ${cleaned.length} recipes from ${file}`);
-
-      allRecipes.push(...cleaned);
-    } else if (ext === ".json") {
-      console.log(`📄 Loading JSON: ${file}...`);
-      const content = readFileSync(filePath, "utf-8");
-      const recipes = JSON.parse(content) as Recipe[];
-      const cleaned = cleanRecipes(recipes);
-      console.log(`   ✓ Loaded ${cleaned.length} recipes from ${file}`);
-
-      allRecipes.push(...cleaned);
+      const jsonFilename = `${baseName}.json`;
+      const jsonPath = join(distDir, jsonFilename);
+      writeFileSync(jsonPath, JSON.stringify(cleaned, null, 2) + '\n', 'utf-8');
+      console.log(`📖 Converted MD: ${file} → ${jsonFilename} (${cleaned.length} recipe${cleaned.length !== 1 ? 's' : ''})`);
+      totalRecipesGenerated += cleaned.length;
+      processedFiles.push(jsonFilename);
     }
   });
 
-  // Extract unique categories
-  const categories = Array.from(new Set(allRecipes.map((r) => r.category))).sort();
-
-  // Create merged collection
-  const collection: RecipeCollection = {
-    version: "1.0.0",
-    totalRecipes: allRecipes.length,
-    categories,
-    recipes: allRecipes,
-    generatedAt: new Date().toISOString(),
-  };
-
-  console.log(
-    `✅ Processed ${allRecipes.length} total recipes across ${categories.length} categories`
-  );
-
-  // Save recipes.json
-  writeFileSync(outputPath, JSON.stringify(collection, null, 2), "utf-8");
-
-  console.log(`💾 Saved recipes to recipes.json`);
-  console.log("✨ Build complete!");
+  console.log(`\n✅ Build complete!`);
+  console.log(`   Generated ${totalRecipesGenerated} recipes in ${processedFiles.length} JSON files`);
+  console.log(`   Output: dist/`);
 };
 
 buildRecipes();

@@ -1,6 +1,6 @@
-# Recipe Importer
+# Recipe CSV Import
 
-This tool imports recipes from Google Forms CSV exports and converts them to JSON format.
+The recipe builder automatically imports recipes from Google Forms CSV exports during the build process.
 
 ## How to Use
 
@@ -11,28 +11,28 @@ This tool imports recipes from Google Forms CSV exports and converts them to JSO
 3. Select "Download responses (.csv)"
 4. Save the CSV file (e.g., `form-responses.csv`)
 
-### 2. Import the Recipes
+### 2. Add CSV to Data Folder
+
+Simply place the CSV file in the `data/recipes/` folder:
+
+```bash
+cp ~/Downloads/form-responses.csv recipe-builder/data/recipes/
+```
+
+### 3. Build
+
+The CSV will be automatically converted to JSON during build:
 
 ```bash
 cd recipe-builder
-npm run import /path/to/form-responses.csv
-```
-
-For example:
-```bash
-npm run import ./form-responses.csv
-npm run import ~/Downloads/recipes.csv
-```
-
-### 3. Build and Deploy
-
-After importing, the recipes are saved as JSON files in `data/recipes/`. To make them available in the UI:
-
-```bash
-npm run build
-cd ../ui
 npm run build
 ```
+
+The build process will:
+1. Parse the CSV file
+2. Convert each recipe to JSON format
+3. Save as `{filename}.json` in `dist/` (e.g., `form-responses.csv` → `form-responses.json`)
+4. Combine with other recipes into `ui/public/recipes.json`
 
 ## Google Form Format
 
@@ -100,11 +100,11 @@ Here's a suggested form structure:
 
 ## Output
 
-Each recipe is saved as a separate JSON file in `data/recipes/`:
+CSV files are converted to JSON in `dist/`:
 
-- Filename: `{recipe-id}.json` (e.g., `spaghetti-carbonara.json`)
-- Format: Array with one recipe object
-- ID: Auto-generated from recipe title (lowercase, special chars removed)
+- Filename: `{csv-basename}.json` (e.g., `form-responses.csv` → `form-responses.json`)
+- Format: Array of recipe objects (one array can contain multiple recipes from the same CSV)
+- Recipe IDs: Auto-generated from recipe titles (lowercase, special chars removed)
 
 Example output:
 ```json

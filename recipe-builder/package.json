@@ -7,8 +7,8 @@
   "scripts": {
     "build:users": "tsx src/build-users.ts",
     "build:recipes": "tsx src/build-recipes.ts",
-    "build": "npm run build:users && npm run build:recipes",
-    "import": "tsx src/import-recipes.ts",
+    "export": "tsx src/export-recipes.ts",
+    "build": "yarn build:users && yarn build:recipes && yarn export",
     "validate": "tsx src/validate.ts",
     "clean": "tsx src/clean.ts"
   },

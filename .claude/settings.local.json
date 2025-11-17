@@ -7,7 +7,15 @@
       "Bash(then mv src/tsconfig.json .)",
       "Bash(else echo \"File not found\")",
       "Bash(npm run import:*)",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "Bash(tree:*)",
+      "Bash(npm run build:recipes:*)",
+      "Bash(npm run export:*)",
+      "Bash(yarn build)",
+      "Bash(npm run clean:*)",
+      "Bash(yarn run --help:*)",
+      "Bash(yarn clean:*)",
+      "Bash(yarn build:recipes:*)"
     ],
     "deny": [],
     "ask": []

@@ -24,8 +24,8 @@ cd ../ui && yarn install
 ### Workflow
 
 ```bash
-# 1. Generate recipe data
-cd recipe-builder && yarn build
+# 1. Build recipe data (parses MD/CSV/JSON → dist/ → ui/public/recipes.json)
+cd recipe-builder && npm run build
 
 # 2. Start development server
 cd ../ui && yarn start
@@ -33,6 +33,13 @@ cd ../ui && yarn start
 # 3. Build for production
 cd ../ui && yarn build
 ```
+
+### Build Steps Explained
+
+The `npm run build` command in recipe-builder runs three steps:
+1. `build:users` - Builds user database from `data/users/users.json`
+2. `build:recipes` - Parses all source files (MD/CSV/JSON) from `data/recipes/` into `dist/`
+3. `export` - Combines all `dist/` JSONs into `ui/public/recipes.json`
 
 ## 📝 Adding Recipes
 
@@ -42,9 +49,13 @@ Use our [Recipe Submission Form](https://forms.gle/GC1GtuCSwFZEyE69A) to submit 
 
 **Note:** Submitted recipes are reviewed and added regularly to the collection.
 
-### Option 2: JSON Format
+### Option 2: Direct File Addition
 
-Create `.json` files in `recipe-builder/data/` folder:
+Add recipe files directly to `recipe-builder/data/recipes/` in any format:
+
+**Markdown (.md)**, **JSON (.json)**, or **CSV (.csv)**
+
+Example JSON format:
 
 ```json
 [
