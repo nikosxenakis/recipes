@@ -47,6 +47,7 @@ The importer expects the following columns in the CSV (column names are flexible
 | Creator | ersteller, creator, author | ❌ No | Person who created the recipe |
 | Servings | portionen, servings | ❌ No | Number of servings (e.g., "4 Portionen") |
 | Duration | dauer, duration, zeit | ❌ No | Cooking time (e.g., "30 Minuten") |
+| Photo | foto, photo, bild, image | ❌ No | URL to recipe photo |
 | Tips | tipp, tip | ❌ No | Helpful tips (one per line) |
 | Info | info, hinweis | ❌ No | Additional information (one per line) |
 | Timestamp | timestamp, zeitstempel | ❌ Auto | Creation date (auto-generated if missing) |
@@ -90,11 +91,12 @@ Here's a suggested form structure:
 2. **Kategorie** (Dropdown: Vorspeisen, Hauptgerichte, Beilagen, Desserts, Getränke, Sonstiges)
 3. **Portionen** (Short answer, e.g., "4 Portionen")
 4. **Zubereitungszeit** (Short answer, e.g., "30 Minuten")
-5. **Zutaten** (Paragraph - one ingredient per line)
-6. **Zubereitung** (Paragraph - one step per line)
-7. **Tipps** (Paragraph - optional)
-8. **Zusätzliche Informationen** (Paragraph - optional)
-9. **Dein Name** (Short answer - optional)
+5. **Foto URL** (Short answer - optional, URL to recipe photo)
+6. **Zutaten** (Paragraph - one ingredient per line)
+7. **Zubereitung** (Paragraph - one step per line)
+8. **Tipps** (Paragraph - optional)
+9. **Zusätzliche Informationen** (Paragraph - optional)
+10. **Dein Name** (Short answer - optional)
 
 ## Output
 
@@ -115,6 +117,7 @@ Example output:
     "createdAt": "2025-11-15T10:30:00Z",
     "servings": "4 Portionen",
     "duration": "25 Minuten",
+    "photo": "https://example.com/photos/carbonara.jpg",
     "ingredients": [
       {
         "items": [

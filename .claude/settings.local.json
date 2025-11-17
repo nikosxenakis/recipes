@@ -5,7 +5,9 @@
       "Bash(npm start)",
       "Bash(if [ -f src/tsconfig.json ])",
       "Bash(then mv src/tsconfig.json .)",
-      "Bash(else echo \"File not found\")"
+      "Bash(else echo \"File not found\")",
+      "Bash(npm run import:*)",
+      "Bash(cat:*)"
     ],
     "deny": [],
     "ask": []

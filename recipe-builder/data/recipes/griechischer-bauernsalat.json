@@ -1,0 +1,36 @@
+[
+  {
+    "id": "griechischer-bauernsalat",
+    "title": "Griechischer Bauernsalat",
+    "category": "Salate",
+    "ingredients": [
+      {
+        "items": [
+          "200g Tomaten, gewürfelt",
+          "150g Gurke, gewürfelt",
+          "100g Feta-Käse, in Würfeln",
+          "80g schwarze Oliven",
+          "1 rote Zwiebel, in Ringen",
+          "1 grüne Paprika, gewürfelt",
+          "3 EL Olivenöl",
+          "2 EL Rotweinessig",
+          "Oregano",
+          "Salz und Pfeffer"
+        ]
+      }
+    ],
+    "instructions": [
+      "Tomaten, Gurke, Paprika und Zwiebel in eine große Schüssel geben.",
+      "Feta-Käse und Oliven hinzufügen.",
+      "Olivenöl und Rotweinessig darüber gießen.",
+      "Mit Oregano, Salz und Pfeffer würzen.",
+      "Alles vorsichtig vermengen und sofort servieren."
+    ],
+    "creator": "Maria Schmidt",
+    "servings": "4 Portionen",
+    "photo": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=800",
+    "tips": [
+      "Den Salat nicht zu lange ziehen lassen, damit das Gemüse knackig bleibt. Am besten kurz vor dem Servieren zubereiten."
+    ]
+  }
+]

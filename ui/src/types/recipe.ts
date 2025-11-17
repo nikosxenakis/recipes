@@ -23,6 +23,7 @@ export interface Recipe {
   tags?: string[];
   creator?: User | string; // Support both new User object and legacy string format
   createdAt?: string; // ISO 8601 date string
+  photo?: string; // URL to recipe photo
   ingredients: IngredientSection[];
   instructions: string[];
   tips?: string[];

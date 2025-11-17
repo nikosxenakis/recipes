@@ -38,7 +38,7 @@ cd ../ui && yarn build
 
 ### Option 1: Google Form (Recommended)
 
-Use our [Recipe Submission Form](https://docs.google.com/forms/d/13e0Xg_iriYidQaxAbvvsUv-4fin-sbCFkG5sr4GcOg0/edit#responses) to submit new recipes.
+Use our [Recipe Submission Form](https://forms.gle/GC1GtuCSwFZEyE69A) to submit new recipes.
 
 **Note:** Submitted recipes are reviewed and added regularly to the collection.
 
@@ -73,9 +73,9 @@ Create `.json` files in `recipe-builder/data/` folder:
 - **Recipe Sharing**: Copy links to share specific recipes
 - **Dark Mode**: Toggle between light and dark themes
 - **User Profiles**: See who created each recipe with photos and avatars
+- **Recipe Photos**: Display photos for recipes when available
+- **Recipe Importer**: Import recipes from Google Forms CSV exports
 
 ## TODO
 
-- Recipe photos
-- Recipe importer
 - multiple languages support

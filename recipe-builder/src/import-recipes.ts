@@ -8,6 +8,7 @@ interface GoogleFormResponse {
   creator: string;
   servings?: string;
   duration?: string;
+  photo?: string;
   ingredients: string;
   instructions: string;
   tips?: string;
@@ -22,6 +23,7 @@ interface Recipe {
   createdAt?: string;
   servings?: string;
   duration?: string;
+  photo?: string;
   ingredients: { title?: string; items: string[] }[];
   instructions: string[];
   tips?: string[];
@@ -82,19 +84,22 @@ function parseIngredients(text: string): { title?: string; items: string[] }[] {
   return sections.length > 0 ? sections : [{ items: [] }];
 }
 
-function parseCsvLine(line: string): string[] {
-  const result: string[] = [];
-  let current = '';
+function parseCsvContent(csvContent: string): string[][] {
+  const rows: string[][] = [];
+  const lines = csvContent.split('\n');
+  let currentRow: string[] = [];
+  let currentField = '';
   let inQuotes = false;
+  let i = 0;
 
-  for (let i = 0; i < line.length; i++) {
-    const char = line[i];
-    const nextChar = line[i + 1];
+  while (i < csvContent.length) {
+    const char = csvContent[i];
+    const nextChar = csvContent[i + 1];
 
     if (char === '"') {
       if (inQuotes && nextChar === '"') {
         // Escaped quote
-        current += '"';
+        currentField += '"';
         i++; // Skip next quote
       } else {
         // Toggle quote mode
@@ -102,31 +107,51 @@ function parseCsvLine(line: string): string[] {
       }
     } else if (char === ',' && !inQuotes) {
       // End of field
-      result.push(current);
-      current = '';
+      currentRow.push(currentField.trim());
+      currentField = '';
+    } else if ((char === '\n' || char === '\r') && !inQuotes) {
+      // End of row
+      if (char === '\r' && nextChar === '\n') {
+        i++; // Skip \r\n
+      }
+      if (currentField || currentRow.length > 0) {
+        currentRow.push(currentField.trim());
+        if (currentRow.some(field => field.length > 0)) {
+          rows.push(currentRow);
+        }
+        currentRow = [];
+        currentField = '';
+      }
     } else {
-      current += char;
+      currentField += char;
+    }
+
+    i++;
+  }
+
+  // Add last field and row if any
+  if (currentField || currentRow.length > 0) {
+    currentRow.push(currentField.trim());
+    if (currentRow.some(field => field.length > 0)) {
+      rows.push(currentRow);
     }
   }
 
-  // Add last field
-  result.push(current);
-
-  return result;
+  return rows;
 }
 
 function parseGoogleFormCsv(csvContent: string): GoogleFormResponse[] {
-  const lines = csvContent.split('\n').filter(line => line.trim());
+  const rows = parseCsvContent(csvContent);
 
-  if (lines.length < 2) {
+  if (rows.length < 2) {
     throw new Error('CSV file must have at least a header row and one data row');
   }
 
-  const headers = parseCsvLine(lines[0]).map(h => h.trim());
+  const headers = rows[0];
   const responses: GoogleFormResponse[] = [];
 
-  for (let i = 1; i < lines.length; i++) {
-    const values = parseCsvLine(lines[i]);
+  for (let i = 1; i < rows.length; i++) {
+    const values = rows[i];
     const response: any = {};
 
     headers.forEach((header, index) => {
@@ -146,6 +171,8 @@ function parseGoogleFormCsv(csvContent: string): GoogleFormResponse[] {
         response.servings = value;
       } else if (lowerHeader.includes('dauer') || lowerHeader.includes('duration') || lowerHeader.includes('zeit')) {
         response.duration = value;
+      } else if (lowerHeader.includes('foto') || lowerHeader.includes('photo') || lowerHeader.includes('bild') || lowerHeader.includes('image')) {
+        response.photo = value;
       } else if (lowerHeader.includes('zutat') || lowerHeader.includes('ingredient')) {
         response.ingredients = value;
       } else if (lowerHeader.includes('zubereitung') || lowerHeader.includes('anleitung') || lowerHeader.includes('instruction')) {
@@ -199,6 +226,10 @@ function convertToRecipe(formResponse: GoogleFormResponse): Recipe {
 
   if (formResponse.duration?.trim()) {
     recipe.duration = formResponse.duration.trim();
+  }
+
+  if (formResponse.photo?.trim()) {
+    recipe.photo = formResponse.photo.trim();
   }
 
   const tips = parseMultilineField(formResponse.tips || '');
@@ -260,6 +291,9 @@ function main() {
     console.log(`   Category: ${recipe.category}`);
     if (recipe.creator) {
       console.log(`   Creator: ${recipe.creator}`);
+    }
+    if (recipe.photo) {
+      console.log(`   Photo: ${recipe.photo}`);
     }
     console.log('');
   });

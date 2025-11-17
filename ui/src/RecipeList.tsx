@@ -294,7 +294,7 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
           <span>{filteredRecipes.length} recipe{filteredRecipes.length !== 1 ? 's' : ''} found</span>
         </div>
         <a
-          href="https://docs.google.com/forms/d/13e0Xg_iriYidQaxAbvvsUv-4fin-sbCFkG5sr4GcOg0/edit#responses"
+          href="https://forms.gle/GC1GtuCSwFZEyE69A"
           target="_blank"
           rel="noopener noreferrer"
           className="add-recipe-button"
@@ -364,6 +364,11 @@ const RecipeList = ({ recipes }: { recipes: Recipe[] }) => {
                   </div>
                 )}
               </div>
+              {recipe.photo && (
+                <div className="recipe-photo">
+                  <img src={recipe.photo} alt={recipe.title} />
+                </div>
+              )}
               <h3>🛒 Zutaten</h3>
               {mergeIngredientSections(recipe.ingredients).map((section, sectionIndex: number) => (
                 <div key={sectionIndex} className="ingredient-section">

@@ -783,6 +783,32 @@
   }
 }
 
+.recipe-photo {
+  margin-bottom: 24px;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px var(--shadow-medium);
+  border: 1px solid var(--recipe-border);
+}
+
+.recipe-photo img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+  max-height: 500px;
+}
+
+@media (max-width: 768px) {
+  .recipe-photo {
+    margin-bottom: 20px;
+  }
+
+  .recipe-photo img {
+    max-height: 300px;
+  }
+}
+
 .category-tag {
   background: linear-gradient(135deg, var(--primary-gradient-start) 0%, var(--primary-gradient-end) 100%);
   color: white;
