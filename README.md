@@ -90,5 +90,3 @@ Example JSON format:
 - **Creator Filter**: Filter recipes by their creator
 
 ## TODO
-
-- multiple languages support
