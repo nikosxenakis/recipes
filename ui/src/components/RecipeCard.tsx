@@ -45,13 +45,20 @@ export const RecipeCard: React.FC<RecipeCardProps> = ({
   return (
     <div key={index} className="recipe" data-recipe-index={index}>
       <div className="recipe-header" onClick={onToggle}>
-        <h2>{translatedTitle}</h2>
-        {!isExpanded && (
-          <div className="recipe-preview-meta">
-            <span className="preview-category">{translatedCategory}</span>
-            {recipe.duration && <span className="preview-duration">⌛ {recipe.duration}</span>}
+        {!isExpanded && recipe.photo && (
+          <div className="recipe-thumbnail">
+            <img src={recipe.photo} alt={translatedTitle} />
           </div>
         )}
+        <div className="recipe-header-content">
+          <h2>{translatedTitle}</h2>
+          {!isExpanded && (
+            <div className="recipe-preview-meta">
+              <span className="preview-category">{translatedCategory}</span>
+              {recipe.duration && <span className="preview-duration">⌛ {recipe.duration}</span>}
+            </div>
+          )}
+        </div>
         {isExpanded && (
           <div className="recipe-header-actions">
             {recipe.creator && (
