@@ -90,3 +90,11 @@ Example JSON format:
 - **Creator Filter**: Filter recipes by their creator
 
 ## TODO
+Offer sorting
+Add recipe url
+Keep screen awake option for mobile
+Expand recipe option
+Create new logo
+Add ingredient filtering
+Split portion and ingredient
+Add recipe rating
