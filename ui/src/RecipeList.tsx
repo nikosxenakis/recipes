@@ -306,7 +306,7 @@ const RecipeList: React.FC<RecipeListProps> = ({ recipes, currentLanguage }) => 
           {getLabel('previous', currentLanguage)}
         </button>
         <span>
-          {getLabel('page', currentLanguage)} {currentPage} {getLabel('of', currentLanguage)} {totalPages}
+          {getLabel('page', currentLanguage)} {totalPages === 0 ? 0 : currentPage} {getLabel('of', currentLanguage)} {totalPages}
         </span>
         <button onClick={handleNextPage} disabled={currentPage === totalPages}>
           {getLabel('next', currentLanguage)}
