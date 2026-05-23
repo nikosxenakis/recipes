@@ -3,18 +3,33 @@ import type { Language } from '../utils/translator';
 import { translateText } from '../utils/translator';
 
 export function useTranslatedText(text: string, language: Language): string {
-  const [translatedText, setTranslatedText] = useState(text);
+  const [translated, setTranslated] = useState<string | null>(null);
 
   useEffect(() => {
     if (language === 'de') {
-      setTranslatedText(text);
       return;
     }
 
+    let cancelled = false;
     translateText(text, language)
-      .then(setTranslatedText)
-      .catch(() => setTranslatedText(text));
+      .then((result) => {
+        if (!cancelled) {
+          setTranslated(result);
+        }
+      })
+      .catch(() => {
+        if (!cancelled) {
+          setTranslated(text);
+        }
+      });
+
+    return () => {
+      cancelled = true;
+    };
   }, [text, language]);
 
-  return translatedText;
+  if (language === 'de') {
+    return text;
+  }
+  return translated ?? text;
 }

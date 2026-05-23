@@ -8,15 +8,15 @@
     "build:users": "tsx src/build-users.ts",
     "build:recipes": "tsx src/build-recipes.ts",
     "export": "tsx src/export-recipes.ts",
-    "build": "yarn build:users && yarn build:recipes && yarn export",
+    "build": "pnpm build:users && pnpm build:recipes && pnpm export",
     "validate": "tsx src/validate.ts",
     "clean": "tsx src/clean.ts"
   },
   "devDependencies": {
     "@types/markdown-it": "^14.1.2",
-    "@types/node": "^24.10.1",
+    "@types/node": "^25.9.1",
     "markdown-it": "^14.1.0",
     "tsx": "^4.20.6",
-    "typescript": "^5.9.3"
+    "typescript": "^6.0.3"
   }
 }

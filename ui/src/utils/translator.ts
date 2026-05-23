@@ -59,8 +59,14 @@ export async function translateText(text: string, targetLang: Language): Promise
     // Using Google Translate free API
     const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=de&tl=${targetLang}&dt=t&q=${encodeURIComponent(text)}`;
     const response = await fetch(url);
-    const data = await response.json();
-    const translated = data[0]?.map((item: any[]) => item[0]).join('') || text;
+    const data: unknown = await response.json();
+    const segments = Array.isArray(data) && Array.isArray(data[0]) ? data[0] : [];
+    const translated =
+      segments
+        .map((item: unknown) =>
+          Array.isArray(item) && typeof item[0] === 'string' ? item[0] : ''
+        )
+        .join('') || text;
 
     translationCache.set(cacheKey, translated);
 

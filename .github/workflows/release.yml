@@ -34,24 +34,19 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+      - name: Set up pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 11
+
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 22
-          cache: yarn
-          cache-dependency-path: |
-            recipe-builder/yarn.lock
-            ui/yarn.lock
+          cache: pnpm
 
-      - name: Install recipe-builder dependencies
-        run: |
-          yarn install --frozen-lockfile || yarn install
-        working-directory: ./recipe-builder
-
-      - name: Install UI dependencies
-        run: |
-          yarn install --frozen-lockfile || yarn install
-        working-directory: ./ui
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
 
       - name: Calculate version
         id: version
@@ -75,16 +70,13 @@ jobs:
           npm version ${{ steps.version.outputs.new_version }} --no-git-tag-version
 
       - name: Build recipes
-        run: yarn build
-        working-directory: ./recipe-builder
+        run: pnpm --filter recipes build
 
       - name: Validate recipes
-        run: yarn validate
-        working-directory: ./recipe-builder
+        run: pnpm --filter recipes validate
 
       - name: Build UI
-        run: yarn build
-        working-directory: ./ui
+        run: pnpm --filter recipe-app build
 
       - name: Commit changes
         run: |

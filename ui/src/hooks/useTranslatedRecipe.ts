@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useMemo } from 'react';
 import type { Recipe } from '../types/recipe';
 import type { Language } from '../utils/translator';
 import { translateText } from '../utils/translator';
@@ -7,34 +7,47 @@ interface TranslatedRecipe extends Recipe {
   isTranslating?: boolean;
 }
 
+function readCachedTranslation(
+  recipe: Recipe,
+  language: Language,
+  shouldTranslate: boolean,
+): TranslatedRecipe | null {
+  if (!shouldTranslate) {
+    return null;
+  }
+  const cached = sessionStorage.getItem(`recipe_${recipe.title}_${language}`);
+  if (!cached) {
+    return null;
+  }
+  try {
+    return JSON.parse(cached);
+  } catch {
+    return null;
+  }
+}
+
 export function useTranslatedRecipe(recipe: Recipe, language: Language, isExpanded: boolean): TranslatedRecipe {
-  const [translatedRecipe, setTranslatedRecipe] = useState<TranslatedRecipe>(recipe);
+  const [translated, setTranslated] = useState<TranslatedRecipe | null>(null);
   const [isTranslating, setIsTranslating] = useState(false);
 
+  const shouldTranslate = isExpanded && language !== 'de';
+  const cached = useMemo(
+    () => readCachedTranslation(recipe, language, shouldTranslate),
+    [recipe, language, shouldTranslate],
+  );
+
   useEffect(() => {
-    // Only translate when recipe is expanded and language is not German
-    if (!isExpanded || language === 'de') {
-      setTranslatedRecipe(recipe);
+    if (!shouldTranslate || cached) {
       return;
     }
 
-    // Check if already translated to this language
-    const cacheKey = `recipe_${recipe.title}_${language}`;
-    const cached = sessionStorage.getItem(cacheKey);
-    if (cached) {
-      try {
-        setTranslatedRecipe(JSON.parse(cached));
-        return;
-      } catch (e) {
-        // Invalid cache, proceed to translate
-      }
-    }
+    let cancelled = false;
 
     const translateRecipe = async () => {
       setIsTranslating(true);
 
       try {
-        const translated: TranslatedRecipe = {
+        const result: TranslatedRecipe = {
           ...recipe,
           title: await translateText(recipe.title, language),
           category: await translateText(recipe.category, language),
@@ -54,19 +67,29 @@ export function useTranslatedRecipe(recipe: Recipe, language: Language, isExpand
           isTranslating: false
         };
 
-        // Cache in sessionStorage
-        sessionStorage.setItem(cacheKey, JSON.stringify(translated));
-        setTranslatedRecipe(translated);
+        sessionStorage.setItem(`recipe_${recipe.title}_${language}`, JSON.stringify(result));
+        if (!cancelled) {
+          setTranslated(result);
+        }
       } catch (error) {
         console.error(`Error translating recipe ${recipe.title}:`, error);
-        setTranslatedRecipe(recipe);
+        if (!cancelled) {
+          setTranslated(null);
+        }
       } finally {
-        setIsTranslating(false);
+        if (!cancelled) {
+          setIsTranslating(false);
+        }
       }
     };
 
     translateRecipe();
-  }, [recipe, language, isExpanded]);
 
-  return { ...translatedRecipe, isTranslating };
+    return () => {
+      cancelled = true;
+    };
+  }, [recipe, language, shouldTranslate, cached]);
+
+  const base = shouldTranslate ? (translated ?? cached ?? recipe) : recipe;
+  return { ...base, isTranslating: isTranslating && shouldTranslate };
 }

@@ -11,32 +11,31 @@ A modern recipe management application built with React and TypeScript. Browse, 
 ### Prerequisites
 
 - Node.js 22+
-- Yarn package manager
+- pnpm package manager
 
 ### Setup
 
 ```bash
-# Install all dependencies
-cd recipe-builder && yarn install
-cd ../ui && yarn install
+# Install all dependencies (single command at workspace root)
+pnpm install
 ```
 
 ### Workflow
 
 ```bash
 # 1. Build recipe data (parses MD/CSV/JSON → dist/ → ui/public/recipes.json)
-cd recipe-builder && npm run build
+pnpm --filter recipes build
 
 # 2. Start development server
-cd ../ui && yarn start
+pnpm --filter recipe-app start
 
 # 3. Build for production
-cd ../ui && yarn build
+pnpm --filter recipe-app build
 ```
 
 ### Build Steps Explained
 
-The `npm run build` command in recipe-builder runs three steps:
+The `pnpm --filter recipes build` command runs three steps in the recipe-builder package:
 
 1. `build:users` - Builds user database from `data/users/users.json`
 2. `build:recipes` - Parses all source files (MD/CSV/JSON) from `data/recipes/` into `dist/`

@@ -1,0 +1,5 @@
+packages:
+  - recipe-builder
+  - ui
+allowBuilds:
+  esbuild: true

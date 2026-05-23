@@ -6,18 +6,18 @@ React + TypeScript + Vite application for browsing recipes.
 
 ```bash
 # Install dependencies
-yarn install
+pnpm install
 
 # Start dev server
-yarn start
+pnpm start
 
 # Build for production
-yarn build
+pnpm build
 ```
 
 ## Scripts
 
-- `yarn start` - Start development server
-- `yarn build` - Build production bundle
+- `pnpm start` - Start development server
+- `pnpm build` - Build production bundle
 
 Note: Recipe JSON files must be generated separately via `recipe-builder` before starting the UI.

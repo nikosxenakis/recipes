@@ -3,8 +3,8 @@ name: recipes
 services:
   recipes:
     build:
-      context: ./ui
-      dockerfile: Dockerfile
+      context: .
+      dockerfile: ui/Dockerfile
     container_name: recipes
     restart: always
 

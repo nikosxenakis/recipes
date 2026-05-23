@@ -10,16 +10,16 @@ Converts markdown recipe files into structured JSON format with validation.
 
 ```bash
 # Install dependencies
-yarn install
+pnpm install
 
 # Build recipes
-yarn build
+pnpm build
 
 # Validate recipes
-yarn validate
+pnpm validate
 
 # Clean generated files
-yarn clean
+pnpm clean
 ```
 
 ## What it does
