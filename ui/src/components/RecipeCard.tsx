@@ -5,6 +5,7 @@ import { useTranslatedRecipe } from '../hooks/useTranslatedRecipe';
 import { useTranslatedText } from '../hooks/useTranslatedText';
 import { getLabel } from '../utils/labels';
 import { RecipeSkeleton } from './RecipeSkeleton';
+import { Avatar } from './Avatar';
 
 interface RecipeCardProps {
   recipe: Recipe;
@@ -16,8 +17,6 @@ interface RecipeCardProps {
   formatDate: (date: string) => string;
   getUserName: (user: User | string | undefined) => string;
   getUserPhoto: (user: User | string | undefined) => string | undefined;
-  getInitials: (name: string) => string;
-  getColorFromString: (str: string) => string;
   mergeIngredientSections: (sections: { title?: string; items: string[] }[]) => { title?: string; items: string[] }[];
 }
 
@@ -31,8 +30,6 @@ export const RecipeCard: React.FC<RecipeCardProps> = ({
   formatDate,
   getUserName,
   getUserPhoto,
-  getInitials,
-  getColorFromString,
   mergeIngredientSections
 }) => {
   // Translate the full recipe when expanded
@@ -56,22 +53,12 @@ export const RecipeCard: React.FC<RecipeCardProps> = ({
           <div className="recipe-header-actions">
             {recipe.creator && (
               <span className="creator-badge-header">
-                {getUserPhoto(recipe.creator) ? (
-                  <img
-                    src={getUserPhoto(recipe.creator)}
-                    alt={getUserName(recipe.creator)}
-                    className="user-avatar-small"
-                  />
-                ) : (
-                  <div
-                    className="user-avatar-small user-avatar-initials"
-                    style={{
-                      backgroundColor: getColorFromString(getUserName(recipe.creator)),
-                    }}
-                  >
-                    {getInitials(getUserName(recipe.creator))}
-                  </div>
-                )}
+                <Avatar
+                  photoUrl={getUserPhoto(recipe.creator)}
+                  name={getUserName(recipe.creator)}
+                  imgClassName="user-avatar-small"
+                  initialsClassName="user-avatar-small user-avatar-initials"
+                />
                 {getUserName(recipe.creator)}
               </span>
             )}
@@ -154,18 +141,12 @@ export const RecipeCard: React.FC<RecipeCardProps> = ({
                   const userPhoto = getUserPhoto(comment.user);
                   return (
                     <div key={i} className="comment">
-                      {userPhoto ? (
-                        <img src={userPhoto} alt={userName} className="comment-avatar-img" />
-                      ) : (
-                        <div
-                          className="comment-avatar"
-                          style={{
-                            backgroundColor: userName ? getColorFromString(userName) : "#999",
-                          }}
-                        >
-                          {userName ? getInitials(userName) : "?"}
-                        </div>
-                      )}
+                      <Avatar
+                        photoUrl={userPhoto}
+                        name={userName}
+                        imgClassName="comment-avatar-img"
+                        initialsClassName="comment-avatar"
+                      />
                       <div className="comment-content">
                         {userName && <div className="comment-author">{userName}</div>}
                         <div className="comment-text">{comment.text}</div>

@@ -96,22 +96,6 @@ const RecipeList: React.FC<RecipeListProps> = ({ recipes, currentLanguage }) => 
     return user.photo ? `./users/${user.photo}` : undefined;
   };
 
-  // Get initials from name for avatar
-  const getInitials = (name: string): string => {
-    const parts = name.trim().split(" ");
-    return parts[0][0].toUpperCase();
-  };
-
-  // Generate color from string
-  const getColorFromString = (str: string): string => {
-    const colors = ["#b87c7c", "#7cb8b8", "#b8b87c", "#b87ca8", "#7ca8b8", "#a8b87c"];
-    let hash = 0;
-    for (let i = 0; i < str.length; i++) {
-      hash = str.charCodeAt(i) + ((hash << 5) - hash);
-    }
-    return colors[Math.abs(hash) % colors.length];
-  };
-
   // Merge consecutive ingredient sections without titles
   const mergeIngredientSections = (sections: { title?: string; items: string[] }[]) => {
     const merged: { title?: string; items: string[] }[] = [];
@@ -296,8 +280,6 @@ const RecipeList: React.FC<RecipeListProps> = ({ recipes, currentLanguage }) => 
           formatDate={formatDate}
           getUserName={getUserName}
           getUserPhoto={getUserPhoto}
-          getInitials={getInitials}
-          getColorFromString={getColorFromString}
           mergeIngredientSections={mergeIngredientSections}
         />
       ))}
