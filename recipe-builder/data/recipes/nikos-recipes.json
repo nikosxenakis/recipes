@@ -1,0 +1,565 @@
+[
+  {
+    "id": "burrito",
+    "title": "Burrito",
+    "category": "Hauptgerichte",
+    "creator": "Nikos",
+    "ingredients": [
+      {
+        "items": [
+          "Lean ground beef or turkey mince (900 g)",
+          "Kidney beans (425 g, drained and rinsed)",
+          "Onion (100 g, finely chopped)",
+          "Garlic (6 g, minced)",
+          "Bell pepper (150 g, diced)",
+          "Diced tomatoes (300 g)",
+          "Philadelphia light cream cheese (30 g)",
+          "Tomato paste (33 g)",
+          "Olive oil (14 g)",
+          "Whole wheat tortillas (6 × 70 g each)",
+          "Shredded mozzarella (150 g)",
+          "Greek yogurt or sour cream (245 g)"
+        ]
+      }
+    ],
+    "instructions": [],
+    "servings": "11 Portionen",
+    "info": [
+      "Küche: Mexican"
+    ],
+    "createdAt": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "chilli-con-carne",
+    "title": "Chilli con Carne",
+    "category": "Hauptgerichte",
+    "creator": "Nikos",
+    "ingredients": [],
+    "instructions": [],
+    "info": [
+      "Quelle: https://www.bbcgoodfood.com/recipes/chilli-con-carne-recipe",
+      "Küche: Mexican"
+    ],
+    "createdAt": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "falafel",
+    "title": "Falafel",
+    "category": "Beilagen",
+    "creator": "Nikos",
+    "ingredients": [
+      {
+        "items": [
+          "1 can chickpeas",
+          "Coriander",
+          "1 onion",
+          "1 garlic clove",
+          "0.5 spoon cumin",
+          "Paprika",
+          "0.75 spoon salt",
+          "2 soup spoons olive oil",
+          "Lemon"
+        ]
+      }
+    ],
+    "instructions": [
+      "Blend everything.",
+      "Bake in the oven."
+    ],
+    "createdAt": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "fleischvoegel",
+    "title": "Fleischvögel",
+    "category": "Sonstiges",
+    "creator": "Nikos",
+    "ingredients": [],
+    "instructions": [],
+    "info": [
+      "Quelle: https://schweizerfleisch.ch/rezepte/fleischvoegel-vom-rind-richtig-zubereiten"
+    ],
+    "createdAt": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "greek-baked-giant-beans",
+    "title": "Greek Baked Giant Beans",
+    "category": "Hauptgerichte",
+    "creator": "Nikos",
+    "ingredients": [
+      {
+        "items": [
+          "500 g ranch beans",
+          "2 litres water",
+          "1 red apple",
+          "2 soup spoons olive oil",
+          "1 vegetable stock cube",
+          "2 sprigs rosemary",
+          "3 bay leaves",
+          "1 tbsp tomato paste",
+          "5 garlic cloves",
+          "2 celery branches",
+          "1–2 onions",
+          "3 carrots"
+        ]
+      }
+    ],
+    "instructions": [
+      "Μουλιάζουμε τα φασόλια το προηγούμενο βράδυ.",
+      "Σοτάρουμε τα λαχανικά.",
+      "Ρίχνουμε όλα τα υλικά και βράζουμε για 1:30 ώρα.",
+      "Αφαιρούμε το μήλο."
+    ],
+    "servings": "6 Portionen",
+    "info": [
+      "Quelle: https://akispetretzikis.com/en/recipe/3442/gigantes-foyrnoy",
+      "Küche: Greek",
+      "Ernährung: Vegan"
+    ],
+    "createdAt": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "greek-lentils",
+    "title": "Greek Lentils",
+    "category": "Hauptgerichte",
+    "creator": "Nikos",
+    "ingredients": [
+      {
+        "items": [
+          "250 g brown lentils",
+          "1 Passata tomato",
+          "1 Maggi vegetable stock cube in 1.5 litres water",
+          "2 carrots",
+          "1 onion",
+          "2 garlic cloves",
+          "2 soup spoons olive oil",
+          "1 spoon salt",
+          "1 spoon cumin",
+          "2 bay leaves"
+        ]
+      }
+    ],
+    "instructions": [
+      "Σε μέτρια φωτιά ψήνουμε τα υλικά.",
+      "Ρίχνουμε τις φακές με την ντομάτα και τον ζωμό.",
+      "Αφήνουμε για 45 λεπτά.",
+      "Ρίχνουμε μπαχαρικά."
+    ],
+    "createdAt": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "grill-chicken",
+    "title": "Grill Chicken",
+    "category": "Sonstiges",
+    "creator": "Nikos",
+    "ingredients": [],
+    "instructions": [
+      "Marinate.",
+      "Preheat to 210°C.",
+      "Brush the grill.",
+      "Oil the grill (non-fatty food).",
+      "Put the chicken in and close the lid.",
+      "Cook the chicken breast on the grill for 6–8 minutes on one side.",
+      "Cover with foil and let it rest for 10 minutes."
+    ],
+    "createdAt": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "hummus",
+    "title": "Hummus",
+    "category": "Beilagen",
+    "creator": "Nikos",
+    "ingredients": [
+      {
+        "items": [
+          "1 can chickpeas",
+          "1 large lemon",
+          "60 ml tahini",
+          "1 garlic clove",
+          "30 ml olive oil",
+          "0.5 tsp cumin",
+          "Salt",
+          "3 tbsp cold water",
+          "Paprika"
+        ]
+      }
+    ],
+    "instructions": [
+      "In a food processor, combine the tahini and lemon juice and process for 1 minute.",
+      "Add the olive oil, minced garlic, cumin, and ½ tsp salt. Process for 30 seconds.",
+      "Add half the chickpeas and process for 1 minute.",
+      "Add the remaining chickpeas and process until thick and relatively smooth.",
+      "Slowly add 2–3 tbsp cold water.",
+      "Can be frozen."
+    ],
+    "servings": "6 Portionen",
+    "info": [
+      "Quelle: https://www.inspiredtaste.net/15938/easy-and-smooth-hummus-recipe/",
+      "Küche: Middle Eastern",
+      "Ernährung: Vegan"
+    ],
+    "createdAt": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "lasagne",
+    "title": "Lasagne",
+    "category": "Sonstiges",
+    "creator": "Nikos",
+    "ingredients": [],
+    "instructions": [],
+    "createdAt": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "lentil-bolognese",
+    "title": "Lentil Bolognese",
+    "category": "Hauptgerichte",
+    "creator": "Nikos",
+    "ingredients": [
+      {
+        "items": [
+          "1½ tbsp olive oil",
+          "1 large onion, diced",
+          "4 garlic cloves, minced",
+          "1 tsp dried oregano",
+          "1 tsp dried thyme (or more oregano)",
+          "1½ tsp kosher salt, plus more to taste",
+          "Freshly ground black pepper, to taste",
+          "1 (5.3 oz / 150 g) tube of tomato paste",
+          "½ cup (120 mL) dry red wine (optional)",
+          "3 cups (720 mL) vegetable broth",
+          "1 cup (185 g) red lentils, soaked",
+          "¼ cup (32 g) walnuts (or pecans), crushed finely",
+          "1 (14.5 oz / 410 g) can crushed tomatoes (or whole peeled, crushed by hand)",
+          "12–16 oz (340–454 g) long wide pasta (tagliatelle, pappardelle, fettuccine; or rigatoni / penne; or gnocchi)",
+          "1 tbsp high-quality balsamic vinegar",
+          "Flat-leaf Italian parsley or fresh basil, chopped (optional)"
+        ]
+      }
+    ],
+    "instructions": [],
+    "servings": "6 Portionen",
+    "info": [
+      "Quelle: https://rainbowplantlife.com/10-ingredient-vegan-red-lentil-bolognese/",
+      "Küche: Italian",
+      "Ernährung: Vegan"
+    ],
+    "createdAt": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "mashed-potato",
+    "title": "Mashed Potato",
+    "category": "Hauptgerichte",
+    "creator": "Nikos",
+    "ingredients": [
+      {
+        "items": [
+          "1 kg potatoes",
+          "75 g butter",
+          "Salt",
+          "Pepper",
+          "1/5 cup milk"
+        ]
+      }
+    ],
+    "instructions": [
+      "Cook the potatoes.",
+      "Put the potatoes in the pan, on low heat.",
+      "Slowly add the butter, salt, and pepper; optionally add milk.",
+      "Optionally add cream cheese.",
+      "Mix and serve."
+    ],
+    "info": [
+      "Quelle: https://akispetretzikis.com/recipe/1251/poyres-patatas"
+    ],
+    "createdAt": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "meatballs",
+    "title": "Meatballs",
+    "category": "Sonstiges",
+    "creator": "Nikos",
+    "ingredients": [
+      {
+        "items": [
+          "500 g mince",
+          "50 ml milk",
+          "1 lemon",
+          "1 egg",
+          "150 g bread",
+          "Thyme",
+          "1 garlic",
+          "1 onion",
+          "Parsley"
+        ]
+      }
+    ],
+    "instructions": [],
+    "createdAt": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "pancakes",
+    "title": "Pancakes",
+    "category": "Frühstück",
+    "creator": "Nikos",
+    "ingredients": [
+      {
+        "items": [
+          "60 g oats",
+          "30 g protein",
+          "5 g creatine",
+          "2 eggs",
+          "80 ml milk",
+          "1 banana",
+          "50 g blueberry"
+        ]
+      }
+    ],
+    "instructions": [
+      "Blend the oats, protein, and creatine.",
+      "Add the eggs, milk, banana, and blueberry.",
+      "Fry the mix."
+    ],
+    "createdAt": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "pizza-dough",
+    "title": "Pizza Dough",
+    "category": "Hauptgerichte",
+    "creator": "Nikos",
+    "ingredients": [
+      {
+        "items": [
+          "175 ml water",
+          "1 yeast",
+          "0.75 spoon salt",
+          "1.5 spoon sugar",
+          "2 spoon oil",
+          "0.25 spoon garlic",
+          "270 g flour"
+        ]
+      }
+    ],
+    "instructions": [
+      "Ανακατεύεις να σπάσει η μαγιά σε χλιαρό νερό.",
+      "Ρίχνεις τα υλικά.",
+      "Βάλε έξτρα αλεύρι αν χρειαστεί μέχρι να γίνει ελαστική μπάλα.",
+      "1 ώρα να φουσκώσει.",
+      "Αλεύρι στο ταψί."
+    ],
+    "createdAt": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "pork-fillets",
+    "title": "Pork Fillets",
+    "category": "Hauptgerichte",
+    "creator": "Nikos",
+    "ingredients": [],
+    "instructions": [
+      "- Potatoes with soy sauce and pepper in the oven; when the pork is ready, drop the sauce of the fillet over them.",
+      "- Pork fillet fried with butter, wine, and soy sauce.",
+      "- Feta with pepper pickle in the fillet pan to take the taste."
+    ],
+    "createdAt": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "protein-bars",
+    "title": "Protein Bars",
+    "category": "Snacks",
+    "creator": "Nikos",
+    "ingredients": [
+      {
+        "items": [
+          "200 g oats",
+          "90 g protein",
+          "15 g creatine",
+          "6 g coconut",
+          "300 g tahini",
+          "40 g peanut butter",
+          "110 g honey",
+          "60 g cranberries"
+        ]
+      }
+    ],
+    "instructions": [
+      "Blend the oats, protein, creatine, and coconut.",
+      "Add the tahini, peanut butter, and cranberries.",
+      "Spread it on baking paper and store in the fridge."
+    ],
+    "createdAt": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "rabbit",
+    "title": "Rabbit",
+    "category": "Sonstiges",
+    "creator": "Nikos",
+    "ingredients": [],
+    "instructions": [
+      "Cut and discard the head.",
+      "Τσιγαρίζεις με λάδι.",
+      "Κρασί.",
+      "4 κρεμμύδια.",
+      "3 ντομάτα.",
+      "1 πελτέ.",
+      "Αλάτι, πιπέρι, κανέλα, γαρύφαλλο, δάφνη.",
+      "Λίγο νερό.",
+      "Χαμηλή φωτιά."
+    ],
+    "createdAt": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "red-lentil-daal",
+    "title": "Red Lentil Daal",
+    "category": "Sonstiges",
+    "creator": "Nikos",
+    "ingredients": [
+      {
+        "items": [
+          "2 onions",
+          "Oil",
+          "4 garlic cloves",
+          "2 tsp ginger",
+          "1 tsp each: turmeric, coriander, cumin, paprika, garam masala, curry",
+          "300 g red lentils, washed",
+          "Vegetable broth in 780 ml water",
+          "1 can chopped tomatoes",
+          "Coconut milk",
+          "Lemon"
+        ]
+      }
+    ],
+    "instructions": [
+      "Fry the onions in oil.",
+      "Add the garlic and ginger.",
+      "Add 1 tsp each of turmeric, coriander, cumin, paprika, garam masala, and curry.",
+      "Add 300 g washed red lentils and the vegetable broth (780 ml water). Mix, cover, and cook 10 minutes.",
+      "Add 1 can chopped tomatoes and coconut milk.",
+      "Cook for another 10 minutes.",
+      "Add a bit of lemon on top."
+    ],
+    "createdAt": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "roasted-chicken-with-sweet-potatoes",
+    "title": "Roasted Chicken with Sweet Potatoes",
+    "category": "Sonstiges",
+    "creator": "Nikos",
+    "ingredients": [],
+    "instructions": [],
+    "createdAt": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "sauerbraten",
+    "title": "Sauerbraten",
+    "category": "Sonstiges",
+    "creator": "Nikos",
+    "ingredients": [],
+    "instructions": [],
+    "info": [
+      "Quelle: https://www.chefkoch.de/rezepte/1716781280412009/Sauerbraten-mit-Rotkohl-und-Kartoffelkloessen.html"
+    ],
+    "createdAt": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "soup",
+    "title": "Soup",
+    "category": "Hauptgerichte",
+    "creator": "Nikos",
+    "ingredients": [],
+    "instructions": [
+      "Τσιγαρίζω:",
+      "- 2 onions",
+      "- 2 celery",
+      "Then:",
+      "- 1 kg carrot",
+      "Βράζω (30 min με καπάκι + 30 min χωρίς):",
+      "- 500 g passata tomato",
+      "- 750 g tomato",
+      "- 1 vegetable stock cube",
+      "- 5 bay leaves",
+      "Take off the bay leaves, then blend with 250 ml milk."
+    ],
+    "createdAt": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "",
+    "title": "Κριθαράκι με κρέας",
+    "category": "Sonstiges",
+    "creator": "Nikos",
+    "ingredients": [],
+    "instructions": [
+      "Τσιγάρισμα:",
+      "- Κρέας 500 γρ",
+      "- Κρασί",
+      "- 1 κρεμμύδι",
+      "- 2 ντομάτες τριμμένες",
+      "- Αλάτι, πιπέρι",
+      "- Νερό",
+      "Βράσιμο κρέας.",
+      "5 λεπτά νερό — το κριθαράκι βράσιμο μόνο του.",
+      "5 λεπτά βράσιμο στο κρέας."
+    ],
+    "createdAt": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "",
+    "title": "Πιλάφι",
+    "category": "Hauptgerichte",
+    "creator": "Nikos",
+    "ingredients": [],
+    "instructions": [
+      "Βράζουμε το κρέας μέχρι να μαλακώσει σε νερό με λάδι και αλάτι.",
+      "Το σουρώνουμε και το αλατίζουμε.",
+      "Φιλτράρουμε τον ζωμό.",
+      "Βράζουμε τον ζωμό με ρύζι (αναλογία 3-1) για όσο χρόνο αναγράφεται στη συσκευασία, με λάδι.",
+      "Όταν το ρύζι πιει τα υγρά, αλατοπιπερώνουμε."
+    ],
+    "info": [
+      "Küche: Greek"
+    ],
+    "createdAt": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "",
+    "title": "Φασόλες με μπριτζόλα στο φούρνο",
+    "category": "Sonstiges",
+    "creator": "Nikos",
+    "ingredients": [],
+    "instructions": [
+      "Το βράδυ μουλιάζουμε τα φασόλια.",
+      "Τα βράζουμε 20 λεπτά.",
+      "Βάζουμε στο ταψί στους 200 βαθμούς χωρίς αέρα: φασόλια, μπριτζόλα, καρότο, κρεμμύδι, ντομάτα, άνηθο, σκόρδο, αλάτι, πιπέρι, σάλτσα, νερό — για 30 λεπτά."
+    ],
+    "createdAt": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "",
+    "title": "Χορτόπιτα",
+    "category": "Sonstiges",
+    "creator": "Nikos",
+    "ingredients": [
+      {
+        "items": [
+          "1 κιλό σπανάκι, πλυμένο και στραγγισμένο, κομμένο σε χοντρά κομμάτια",
+          "Φρέσκα κρεμμύδια (τρυφερά) με τα φύλλα τους, κομμένα σε λεπτές φέτες",
+          "1 ξερό κρεμμύδι, πολύ ψιλοκομμένο ή τριμμένο",
+          "1 ματσάκι άνηθο, ψιλοκομμένο",
+          "1 ματσάκι δυόσμο, ψιλοκομμένο",
+          "450 γρ ώριμη σκληρή φέτα σε χοντρά τρίμματα (προαιρετικά μια χούφτα ρεγκάτο επιπλέον)",
+          "1 αυγό (προαιρετικό)",
+          "Αλάτι, πιπέρι, λάδι",
+          "Φύλλο"
+        ]
+      }
+    ],
+    "instructions": [
+      "Σε αντικολλητικό μεγάλο (γουόκ) τηγάνι βάζω 2 κουταλιές σούπας ελαιόλαδο και μαραίνω τα κρεμμύδια.",
+      "Μόλις ξανθίνουν ρίχνω και το σπανάκι λίγο-λίγο και ανακατεύω με ξύλινη κουτάλα μέχρι να μαραθεί.",
+      "Επειδή θα βγάλουν υγρά, τα βάζω σε ένα σουρωτήρι και τα πιέζω για να στραγγίξουν.",
+      "Μόλις κρυώσουν αρκετά, τα βάζω σε ένα μπολ και προσθέτω τα αρωματικά, τα τυριά, αλάτι, πιπέρι και το αυγό χτυπημένο σαν για ομελέτα· ανακατεύω να ομογενοποιηθούν.",
+      "Στο ταψί στρώνω λαδόκολλα και βάζω τα μισά φύλλα ΕΝΑ-ΕΝΑ, αλείφοντας το καθένα με λάδι με πινέλο (φύλλο, λάδι, φύλλο).",
+      "Στρώνω τη γέμιση και συνεχίζω με τον ίδιο τρόπο με τα υπόλοιπα φύλλα, αλείφοντας και το τελευταίο (το καπάκι).",
+      "Χαράζω από πάνω την πίτα και την ψεκάζω με λίγο νεράκι (για να γίνουν τραγανά τα φύλλα).",
+      "Την ψήνω μέχρι να ροδοκοκκινίσει."
+    ],
+    "createdAt": "2026-05-21T00:00:00.000Z"
+  }
+]
