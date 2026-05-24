@@ -561,5 +561,33 @@
       "Την ψήνω μέχρι να ροδοκοκκινίσει."
     ],
     "createdAt": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "yogurt-dessert",
+    "title": "Yogurt Dessert",
+    "category": "Nachtisch",
+    "creator": "Nikos",
+    "ingredients": [
+      {
+        "items": [
+          "1 can sweetened condensed milk",
+          "1 kg Greek yogurt",
+          "250 g biscuits",
+          "Juice of 1/2 lemon",
+          "Zest of 1 lemon"
+        ]
+      }
+    ],
+    "instructions": [
+      "Blend the biscuits.",
+      "Place the blended biscuits in cups.",
+      "Mix the condensed milk, Greek yogurt, lemon juice, and lemon zest together.",
+      "Place the mixture on top of the biscuits.",
+      "Leave in the fridge to set."
+    ],
+    "info": [
+      "Quelle: Argyro"
+    ],
+    "createdAt": "2026-05-24T00:00:00.000Z"
   }
 ]

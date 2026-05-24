@@ -76,24 +76,3 @@ Example JSON format:
   }
 ]
 ```
-
-## 🎨 Features
-
-- **Search & Filter**: Find recipes by name, ingredients, category, cooking time, or creator
-- **Responsive Design**: Works on desktop, tablet, and mobile devices
-- **Recipe Sharing**: Copy links to share specific recipes
-- **Dark Mode**: Toggle between light and dark themes
-- **User Profiles**: See who created each recipe with photos and avatars
-- **Recipe Photos**: Display photos for recipes when available
-- **Recipe Importer**: Import recipes from Google Forms CSV exports
-- **Creator Filter**: Filter recipes by their creator
-
-## TODO
-Offer sorting
-Add recipe url
-Keep screen awake option for mobile
-Expand recipe option
-Create new logo
-Add ingredient filtering
-Split portion and ingredient
-Add recipe rating
