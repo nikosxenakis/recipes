@@ -17,6 +17,7 @@ interface RecipeCardProps {
   currentLanguage: Language;
   onToggle: () => void;
   onCopyLink: (title: string, event: React.MouseEvent) => void;
+  onEdit: (recipe: Recipe, event: React.MouseEvent) => void;
   formatDate: (date: string) => string;
   getUserName: (user: User | string | undefined) => string;
   getUserPhoto: (user: User | string | undefined) => string | undefined;
@@ -30,6 +31,7 @@ export const RecipeCard: React.FC<RecipeCardProps> = ({
   currentLanguage,
   onToggle,
   onCopyLink,
+  onEdit,
   formatDate,
   getUserName,
   getUserPhoto,
@@ -93,6 +95,14 @@ export const RecipeCard: React.FC<RecipeCardProps> = ({
               onChange={setWakeLockEnabled}
               language={currentLanguage}
             />
+            <button
+              className="copy-link-button"
+              onClick={(e) => onEdit(originalRecipe, e)}
+              title={getLabel('editRecipe', currentLanguage)}
+              aria-label={getLabel('editRecipe', currentLanguage)}
+            >
+              ✏️
+            </button>
             <button
               className="copy-link-button"
               onClick={(e) => onCopyLink(originalRecipe.title, e)}

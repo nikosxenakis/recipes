@@ -1,8 +1,9 @@
 import { useEffect, useRef, useState, type FormEvent } from 'react';
+import type { Recipe } from '../types/recipe';
 import type { Language } from '../utils/translator';
 import { getLabel, getCategoryLabel } from '../utils/labels';
 import { CATEGORY_KEYS } from '../utils/categories';
-import './CreateRecipeModal.css';
+import './RecipeFormModal.css';
 
 interface IngredientSectionDraft {
   title: string;
@@ -39,6 +40,34 @@ const emptyDraft = (): DraftRecipe => ({
   info: ''
 });
 
+function recipeToDraft(recipe: Recipe): DraftRecipe {
+  const creatorName = recipe.creator
+    ? typeof recipe.creator === 'string'
+      ? recipe.creator
+      : recipe.creator.name
+    : '';
+  const ingredients = recipe.ingredients.length > 0
+    ? recipe.ingredients.map((s) => ({
+        title: s.title ?? '',
+        items: s.items.join('\n')
+      }))
+    : [{ title: '', items: '' }];
+  return {
+    title: recipe.title,
+    category: recipe.category,
+    creator: creatorName,
+    duration: recipe.duration ?? '',
+    servings: recipe.servings ?? '',
+    difficulty: recipe.difficulty ?? '',
+    tags: recipe.tags ? recipe.tags.join(', ') : '',
+    photo: recipe.photo ?? '',
+    ingredients,
+    instructions: recipe.instructions.join('\n'),
+    tips: recipe.tips ? recipe.tips.join('\n') : '',
+    info: recipe.info ? recipe.info.join('\n') : ''
+  };
+}
+
 function linesToArray(text: string): string[] {
   return text
     .split('\n')
@@ -53,20 +82,23 @@ function csvToArray(text: string): string[] {
     .filter((s) => s.length > 0);
 }
 
-interface CreateRecipeModalProps {
+interface RecipeFormModalProps {
+  recipe?: Recipe;
   onClose: () => void;
-  onCreated: (recipeId: string) => void;
+  onSaved: (recipeId: string) => void;
   creators: string[];
   currentLanguage: Language;
 }
 
-export function CreateRecipeModal({
+export function RecipeFormModal({
+  recipe,
   onClose,
-  onCreated,
+  onSaved,
   creators,
   currentLanguage
-}: CreateRecipeModalProps) {
-  const [draft, setDraft] = useState<DraftRecipe>(emptyDraft);
+}: RecipeFormModalProps) {
+  const isEdit = recipe !== undefined;
+  const [draft, setDraft] = useState<DraftRecipe>(() => (recipe ? recipeToDraft(recipe) : emptyDraft()));
   const [submitting, setSubmitting] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const dialogRef = useRef<HTMLDivElement | null>(null);
@@ -164,8 +196,10 @@ export function CreateRecipeModal({
     }
 
     try {
-      const response = await fetch('/api/recipes', {
-        method: 'POST',
+      const url = isEdit && recipe ? `/api/recipes/${encodeURIComponent(recipe.id)}` : '/api/recipes';
+      const method = isEdit ? 'PUT' : 'POST';
+      const response = await fetch(url, {
+        method,
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(payload)
       });
@@ -175,8 +209,8 @@ export function CreateRecipeModal({
         setSubmitting(false);
         return;
       }
-      const recipeId = data.recipe?.id ?? '';
-      onCreated(recipeId);
+      const recipeId = data.recipe?.id ?? recipe?.id ?? '';
+      onSaved(recipeId);
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Failed to save recipe');
       setSubmitting(false);
@@ -193,7 +227,9 @@ export function CreateRecipeModal({
     <div className="create-recipe-backdrop" onClick={handleBackdropClick}>
       <div className="create-recipe-modal" role="dialog" aria-modal="true" aria-labelledby="create-recipe-title" ref={dialogRef}>
         <div className="create-recipe-header">
-          <h2 id="create-recipe-title">{getLabel('addRecipe', currentLanguage)}</h2>
+          <h2 id="create-recipe-title">
+            {isEdit ? getLabel('editRecipe', currentLanguage) : getLabel('addRecipe', currentLanguage)}
+          </h2>
           <button type="button" className="create-recipe-close" onClick={onClose} aria-label="Close">
             ×
           </button>
@@ -364,7 +400,7 @@ export function CreateRecipeModal({
               Cancel
             </button>
             <button type="submit" className="create-recipe-submit" disabled={submitting}>
-              {submitting ? 'Saving…' : 'Save recipe'}
+              {submitting ? 'Saving…' : isEdit ? 'Save changes' : 'Save recipe'}
             </button>
           </div>
         </form>
