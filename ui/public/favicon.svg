@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Rezeptbuch">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FBF6EE"/>
+      <stop offset="100%" stop-color="#F2E9D8"/>
+    </linearGradient>
+    <linearGradient id="bgDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FBF6EE"/>
+      <stop offset="100%" stop-color="#F2E9D8"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#bg)"/>
+  <g fill="#007AFF" stroke="#007AFF">
+    <path d="M30 12 C 33 16, 29 20, 32 24 C 35 28, 31 32, 32 34"
+          stroke-width="2.4" stroke-linecap="round" fill="none" opacity="0.85"/>
+    <rect x="11" y="30" width="42" height="3.5" rx="1.75" stroke="none"/>
+    <path d="M14 33 L50 33 L48 52 Q48 54 46 54 L18 54 Q16 54 16 52 Z" stroke="none"/>
+    <rect x="6" y="36" width="6" height="5" rx="1.5" stroke="none"/>
+    <rect x="52" y="36" width="6" height="5" rx="1.5" stroke="none"/>
+  </g>
+</svg>
