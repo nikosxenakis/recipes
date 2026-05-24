@@ -3,7 +3,7 @@ import { z } from 'zod';
 import type { Filter, Sort } from 'mongodb';
 import { getRecipesCollection } from '../db.ts';
 import { recipeInputSchema, type Recipe } from '../schemas.ts';
-import { CATEGORY_KEYS, type CategoryKey } from '../categories.ts';
+import { mapToCategoryKey } from '../categories.ts';
 
 const router: RouterType = Router();
 
@@ -46,12 +46,8 @@ router.get('/', async (req: Request, res: Response, next: NextFunction) => {
       });
     }
     if (category.length > 0) {
-      const valid = category.filter((c): c is CategoryKey =>
-        (CATEGORY_KEYS as readonly string[]).includes(c)
-      );
-      if (valid.length > 0) {
-        and.push({ category: { $in: valid } });
-      }
+      const mapped = Array.from(new Set(category.map((c) => mapToCategoryKey(c))));
+      and.push({ category: { $in: mapped } });
     }
     if (creator.length > 0) {
       and.push({
