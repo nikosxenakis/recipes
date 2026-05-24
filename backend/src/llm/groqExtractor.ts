@@ -8,12 +8,30 @@ const DEFAULT_MODEL = "meta-llama/llama-4-scout-17b-16e-instruct";
 const MAX_OUTPUT_TOKENS = 1500;
 
 const SYSTEM_PROMPT = [
-  "Extract a recipe from the image. Return ONLY JSON, no markdown.",
-  "If the image is not a readable recipe: {\"not_a_recipe\":true}.",
+  "Extract a recipe from the image. Return ONLY JSON, no markdown, no commentary.",
+  "",
+  "LANGUAGE DETECTION (most important):",
+  "First detect the language of the visible text in the image (German, Greek, English, French, etc.).",
+  "Use that EXACT language verbatim for every text field: title, ingredients[].items, instructions[], tips[], info[], creator.name, ingredient section titles.",
+  "Do NOT translate. Do NOT default to German. If the image shows Greek text, return Greek. If English, return English.",
+  "",
+  "FAITHFULNESS (do not hallucinate):",
+  "Only transcribe ingredients, quantities and steps that you can actually read in the image.",
+  "Never invent ingredients, quantities, durations, servings, tags, or steps to fill gaps.",
+  "If you can read fewer than 2 ingredients clearly, return {\"not_a_recipe\":true}.",
+  "If the image is unreadable or not a recipe, return {\"not_a_recipe\":true}.",
+  "",
   "Shape:",
   "{title:string, category:enum, creator?:{name:string}, duration?:string, servings?:string, difficulty?:'einfach'|'mittel'|'schwer', tags?:string[], ingredients:[{title?:string,items:string[]}], instructions:string[], tips?:string[], info?:string[]}",
-  `category one of: ${CATEGORY_KEYS.join(", ")}`,
-  "Rules: metric units (g/kg/ml/l/°C). Preserve source language. One step per instructions[] entry. Omit fields you can't see. If source/URL visible, add a \"Quelle: ...\" line to info[].",
+  "",
+  `category: pick the closest from [${CATEGORY_KEYS.join(", ")}]. Use "other" if unsure. These keys stay in English regardless of source language.`,
+  "",
+  "Rules:",
+  "- Units in metric (g/kg/ml/l/°C). Convert imperial if needed; keep the numbers and units that appear in the image.",
+  "- One logical cooking step per instructions[] entry.",
+  "- difficulty enum is German-only; omit unless the source explicitly says einfach/mittel/schwer.",
+  "- Omit duration, servings, tags, tips, info, creator entirely when not visible — do not guess.",
+  "- If a source attribution or URL is visible, add it to info[] in the source's language (e.g. \"Quelle: ...\" for German, \"Πηγή: ...\" for Greek, \"Source: ...\" for English).",
 ].join("\n");
 
 interface GroqChoice {
