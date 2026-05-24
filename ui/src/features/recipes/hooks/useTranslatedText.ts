@@ -1,6 +1,6 @@
 import { useEffect, useReducer } from 'react';
-import type { Language } from '../utils/translator';
-import { getCachedTranslation, translateText } from '../utils/translator';
+import type { Language } from '@/shared/utils/translator';
+import { getCachedTranslation, translateText } from '@/shared/utils/translator';
 
 export interface TranslatedText {
   text: string;

@@ -1,22 +1,21 @@
 import { useEffect, useState } from "react";
-import RecipeList from "./RecipeList";
-import LanguageSelector from "./components/LanguageSelector";
-import { getSavedLanguage, saveLanguage, flushTranslationCache, type Language } from "./utils/translator";
-import "./App.css";
+import { AppLayout } from "@/shared/components/layout/AppLayout";
+import { RecipesPage } from "@/features/recipes/pages/RecipesPage";
+import {
+  flushTranslationCache,
+  getSavedLanguage,
+  saveLanguage,
+  type Language,
+} from "@/shared/utils/translator";
 
-const formatDate = (isoDate: string): string => {
-  const date = new Date(isoDate);
-  return date.toLocaleDateString("de-DE", {
-    year: "numeric",
-    month: "2-digit",
-    day: "2-digit",
-  });
-};
-
-const App = () => {
-  const [darkMode, setDarkMode] = useState(() => {
-    const saved = localStorage.getItem("darkMode");
-    return saved ? JSON.parse(saved) : false;
+function App() {
+  const [darkMode, setDarkMode] = useState<boolean>(() => {
+    try {
+      const saved = localStorage.getItem("darkMode");
+      return saved ? JSON.parse(saved) === true : false;
+    } catch {
+      return false;
+    }
   });
   const [language, setLanguage] = useState<Language>(() => getSavedLanguage());
 
@@ -26,53 +25,29 @@ const App = () => {
   }, [darkMode]);
 
   useEffect(() => {
-    const handleBeforeUnload = () => {
-      flushTranslationCache();
-    };
-
-    window.addEventListener('beforeunload', handleBeforeUnload);
+    const handleBeforeUnload = () => flushTranslationCache();
+    window.addEventListener("beforeunload", handleBeforeUnload);
     return () => {
       flushTranslationCache();
-      window.removeEventListener('beforeunload', handleBeforeUnload);
+      window.removeEventListener("beforeunload", handleBeforeUnload);
     };
   }, []);
 
-  const toggleDarkMode = () => {
-    setDarkMode(!darkMode);
-  };
-
-  const handleLanguageChange = async (newLang: Language) => {
-    setLanguage(newLang);
-    saveLanguage(newLang);
+  const handleLanguageChange = (next: Language) => {
+    setLanguage(next);
+    saveLanguage(next);
   };
 
   return (
-    <div className="App">
-      <header className="app-header">
-        <h1>REZEPTBUCH</h1>
-        <div className="header-controls">
-          <LanguageSelector
-            currentLanguage={language}
-            onLanguageChange={handleLanguageChange}
-          />
-          <button
-            className="theme-toggle"
-            onClick={toggleDarkMode}
-            aria-label="Toggle dark mode"
-            title={darkMode ? "Switch to light mode" : "Switch to dark mode"}
-          >
-            {darkMode ? "☀️" : "🌙"}
-          </button>
-        </div>
-      </header>
-      <RecipeList currentLanguage={language} />
-      <footer className="app-footer">
-        <p>
-          Version {__APP_VERSION__} • Built on {formatDate(__BUILD_DATE__)}
-        </p>
-      </footer>
-    </div>
+    <AppLayout
+      currentLanguage={language}
+      darkMode={darkMode}
+      onLanguageChange={handleLanguageChange}
+      onToggleDarkMode={() => setDarkMode((v) => !v)}
+    >
+      <RecipesPage currentLanguage={language} />
+    </AppLayout>
   );
-};
+}
 
 export default App;
