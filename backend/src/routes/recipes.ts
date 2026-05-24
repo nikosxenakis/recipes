@@ -1,9 +1,19 @@
 import { Router, type Request, type Response, type NextFunction, type Router as RouterType } from 'express';
 import { z } from 'zod';
+import multer from 'multer';
 import type { Filter, Sort } from 'mongodb';
 import { getRecipesCollection } from '../db.ts';
 import { recipeInputSchema, type Recipe } from 'recipes-shared';
 import { mapToCategoryKey } from 'recipes-shared/categories';
+import { getVisionExtractor, VisionExtractorError } from '../llm/index.ts';
+import { rateLimit } from '../middleware/rateLimit.ts';
+
+const MAX_IMAGE_BYTES = 3 * 1024 * 1024;
+const upload = multer({
+  storage: multer.memoryStorage(),
+  limits: { fileSize: MAX_IMAGE_BYTES, files: 1 },
+});
+const extractRateLimit = rateLimit({ windowMs: 60_000, max: 5 });
 
 const router: RouterType = Router();
 
@@ -156,6 +166,43 @@ router.post('/', optionalAdminApiKey, async (req: Request, res: Response, next: 
     metaCache = null;
     res.status(201).json({ recipe });
   } catch (err) {
+    next(err);
+  }
+});
+
+router.post('/extract', extractRateLimit, upload.single('image'), async (req: Request, res: Response, next: NextFunction) => {
+  try {
+    const extractor = getVisionExtractor();
+    if (!extractor) {
+      res.status(503).json({ error: 'Vision extractor is not configured' });
+      return;
+    }
+    const file = req.file;
+    if (!file) {
+      res.status(400).json({ error: 'Missing image upload (field name: image)' });
+      return;
+    }
+    if (!file.mimetype.startsWith('image/')) {
+      res.status(400).json({ error: 'Upload must be an image' });
+      return;
+    }
+
+    const extracted = await extractor.extractRecipe(file.buffer, file.mimetype);
+    if (!extracted) {
+      res.status(422).json({ error: "This image doesn't look like a recipe." });
+      return;
+    }
+    res.json({ recipe: extracted });
+  } catch (err) {
+    if (err instanceof VisionExtractorError) {
+      const status = err.status === 'permanent' ? 422 : 502;
+      const message = err.status === 'permanent'
+        ? "Could not read a recipe from this image."
+        : "Recipe extraction service is unavailable. Try again in a moment.";
+      console.error('Vision extractor:', err.message);
+      res.status(status).json({ error: message });
+      return;
+    }
     next(err);
   }
 });

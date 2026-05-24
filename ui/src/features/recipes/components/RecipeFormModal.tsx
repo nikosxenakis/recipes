@@ -1,6 +1,6 @@
 import { useState, type FormEvent } from "react";
 import { Trash2 } from "lucide-react";
-import type { Recipe } from "recipes-shared";
+import type { Recipe, RecipeInput } from "recipes-shared";
 import type { Language } from "@/shared/utils/translator";
 import { getCategoryLabel, getLabel } from "@/shared/utils/labels";
 import { CATEGORY_KEYS } from "recipes-shared/categories";
@@ -98,6 +98,10 @@ function csvToArray(text: string): string[] {
 
 interface RecipeFormModalProps {
   recipe?: Recipe;
+  /** Pre-fill for create mode (e.g. from image extraction). Ignored if `recipe` is set. */
+  prefill?: RecipeInput;
+  /** Default creator name for create mode when no prefill creator is present. */
+  defaultCreator?: string;
   open: boolean;
   onOpenChange: (open: boolean) => void;
   onSaved: (recipeId: string) => void;
@@ -105,8 +109,25 @@ interface RecipeFormModalProps {
   currentLanguage: Language;
 }
 
+function buildInitialDraft(recipe: Recipe | undefined, prefill: RecipeInput | undefined, defaultCreator: string | undefined): DraftRecipe {
+  if (recipe) {
+    return recipeToDraft(recipe);
+  }
+  if (prefill) {
+    // RecipeInput is shaped like Recipe minus required id; reuse the mapper.
+    return recipeToDraft({ ...prefill, id: "draft" } as Recipe);
+  }
+  const draft = emptyDraft();
+  if (defaultCreator) {
+    draft.creator = defaultCreator;
+  }
+  return draft;
+}
+
 export function RecipeFormModal({
   recipe,
+  prefill,
+  defaultCreator,
   open,
   onOpenChange,
   onSaved,
@@ -114,7 +135,7 @@ export function RecipeFormModal({
   currentLanguage,
 }: RecipeFormModalProps) {
   const isEdit = recipe !== undefined;
-  const [draft, setDraft] = useState<DraftRecipe>(() => (recipe ? recipeToDraft(recipe) : emptyDraft()));
+  const [draft, setDraft] = useState<DraftRecipe>(() => buildInitialDraft(recipe, prefill, defaultCreator));
   const [submitting, setSubmitting] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
