@@ -1,15 +1,20 @@
 import { useCallback, useEffect, useState } from "react";
 import { Plus } from "lucide-react";
-import type { Recipe, User } from "recipes-shared";
+import type { Recipe, RecipeInput, User } from "recipes-shared";
 import type { Language } from "@/shared/utils/translator";
 import { getLabel } from "@/shared/utils/labels";
 import { RecipeCard } from "@/features/recipes/components/RecipeCard";
 import { SearchFilter } from "@/features/recipes/components/SearchFilter";
 import { RecipeFormModal } from "@/features/recipes/components/RecipeFormModal";
 import { RecipeCardSkeleton } from "@/features/recipes/components/RecipeCardSkeleton";
+import { ImportRecipeButton } from "@/features/recipes/components/ImportRecipeButton";
+import { WhoAreYouDialog } from "@/features/recipes/components/WhoAreYouDialog";
 import { useRecipes, type RecipeQuery, type SortKey } from "@/features/recipes/hooks/useRecipes";
 import { useRecipeMeta } from "@/features/recipes/hooks/useRecipeMeta";
+import { useCurrentUser } from "@/features/recipes/hooks/useCurrentUser";
 import { Button } from "@/shared/components/ui/button";
+
+type PendingIntent = { kind: "create" } | { kind: "import"; prefill: RecipeInput } | null;
 
 const formatDate = (isoDate: string): string => {
   const date = new Date(isoDate);
@@ -74,9 +79,12 @@ export function RecipeList({ currentLanguage }: RecipeListProps) {
   const [query, setQuery] = useState<RecipeQuery>(readInitialState);
   const [searchInput, setSearchInput] = useState("");
   const [expandedId, setExpandedId] = useState<string | null>(null);
+  const [createPrefill, setCreatePrefill] = useState<RecipeInput | null>(null);
   const [createOpen, setCreateOpen] = useState(false);
   const [editingRecipe, setEditingRecipe] = useState<Recipe | null>(null);
   const [refreshKey, setRefreshKey] = useState(0);
+  const [currentUser, setCurrentUser] = useCurrentUser();
+  const [pendingIntent, setPendingIntent] = useState<PendingIntent>(null);
 
   const { items, total, loading, error } = useRecipes(query, refreshKey);
   const meta = useRecipeMeta(refreshKey);
@@ -125,11 +133,39 @@ export function RecipeList({ currentLanguage }: RecipeListProps) {
 
   const handleSaved = (savedId: string) => {
     setCreateOpen(false);
+    setCreatePrefill(null);
     setEditingRecipe(null);
     setRefreshKey((k) => k + 1);
     setQuery((prev) => ({ ...prev, page: 1 }));
     if (savedId) {
       window.location.hash = `#${encodeURIComponent(savedId)}`;
+    }
+  };
+
+  const openCreate = (prefill?: RecipeInput) => {
+    const intent: PendingIntent = prefill ? { kind: "import", prefill } : { kind: "create" };
+    if (currentUser) {
+      applyIntent(intent);
+      return;
+    }
+    setPendingIntent(intent);
+  };
+
+  const applyIntent = (intent: NonNullable<PendingIntent>) => {
+    if (intent.kind === "import") {
+      setCreatePrefill(intent.prefill);
+    } else {
+      setCreatePrefill(null);
+    }
+    setCreateOpen(true);
+  };
+
+  const handleWhoPicked = (name: string) => {
+    setCurrentUser(name);
+    const intent = pendingIntent;
+    setPendingIntent(null);
+    if (intent) {
+      applyIntent(intent);
     }
   };
 
@@ -225,16 +261,29 @@ export function RecipeList({ currentLanguage }: RecipeListProps) {
             </span>
           )}
         </div>
-        <Button type="button" onClick={() => setCreateOpen(true)}>
-          <Plus className="h-5 w-5" />
-          {getLabel("addRecipe", currentLanguage)}
-        </Button>
+        <div className="flex items-center gap-2">
+          <ImportRecipeButton
+            currentLanguage={currentLanguage}
+            onExtracted={(prefill) => openCreate(prefill)}
+          />
+          <Button type="button" onClick={() => openCreate()}>
+            <Plus className="h-5 w-5" />
+            {getLabel("addRecipe", currentLanguage)}
+          </Button>
+        </div>
       </div>
 
       {createOpen && (
         <RecipeFormModal
           open
-          onOpenChange={setCreateOpen}
+          prefill={createPrefill ?? undefined}
+          defaultCreator={currentUser || undefined}
+          onOpenChange={(next) => {
+            setCreateOpen(next);
+            if (!next) {
+              setCreatePrefill(null);
+            }
+          }}
           onSaved={handleSaved}
           creators={meta.creators}
           currentLanguage={currentLanguage}
@@ -254,6 +303,13 @@ export function RecipeList({ currentLanguage }: RecipeListProps) {
           currentLanguage={currentLanguage}
         />
       )}
+      <WhoAreYouDialog
+        open={pendingIntent !== null}
+        knownCreators={meta.creators}
+        currentLanguage={currentLanguage}
+        onPick={handleWhoPicked}
+        onCancel={() => setPendingIntent(null)}
+      />
 
       {loading
         ? Array.from({ length: skeletonCount }, (_, i) => <RecipeCardSkeleton key={`skeleton-${i}`} />)
