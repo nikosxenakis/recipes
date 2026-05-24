@@ -82,6 +82,15 @@ export async function translateText(text: string, targetLang: Language): Promise
   }
 }
 
+// Synchronous cache peek for code that needs to render a placeholder
+// while the async translation is in flight.
+export function getCachedTranslation(text: string, targetLang: Language): string | null {
+  if (targetLang === 'de') {
+    return text;
+  }
+  return translationCache.get(`${text}_${targetLang}`) ?? null;
+}
+
 // Export function to manually save cache (can be called on page unload)
 export function flushTranslationCache() {
   saveCacheToStorage();

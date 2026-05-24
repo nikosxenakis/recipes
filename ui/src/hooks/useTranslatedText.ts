@@ -1,35 +1,44 @@
-import { useState, useEffect } from 'react';
+import { useEffect, useReducer } from 'react';
 import type { Language } from '../utils/translator';
-import { translateText } from '../utils/translator';
+import { getCachedTranslation, translateText } from '../utils/translator';
 
-export function useTranslatedText(text: string, language: Language): string {
-  const [translated, setTranslated] = useState<string | null>(null);
+export interface TranslatedText {
+  text: string;
+  isTranslating: boolean;
+}
+
+const noopReducer = (x: number): number => x + 1;
+
+export function useTranslatedText(text: string, language: Language): TranslatedText {
+  const [, rerender] = useReducer(noopReducer, 0);
 
   useEffect(() => {
-    if (language === 'de') {
+    if (language === 'de' || getCachedTranslation(text, language) !== null) {
       return;
     }
-
     let cancelled = false;
     translateText(text, language)
-      .then((result) => {
+      .then(() => {
         if (!cancelled) {
-          setTranslated(result);
+          rerender();
         }
       })
       .catch(() => {
         if (!cancelled) {
-          setTranslated(text);
+          rerender();
         }
       });
-
     return () => {
       cancelled = true;
     };
   }, [text, language]);
 
   if (language === 'de') {
-    return text;
+    return { text, isTranslating: false };
   }
-  return translated ?? text;
+  const cached = getCachedTranslation(text, language);
+  if (cached !== null) {
+    return { text: cached, isTranslating: false };
+  }
+  return { text, isTranslating: true };
 }
