@@ -4,7 +4,7 @@ import type { Language } from "./utils/translator";
 import { getLabel } from "./utils/labels";
 import { RecipeCard } from "./components/RecipeCard";
 import { SearchFilter } from "./components/SearchFilter";
-import { CreateRecipeModal } from "./components/CreateRecipeModal";
+import { RecipeFormModal } from "./components/RecipeFormModal";
 import { RecipeCardSkeleton } from "./components/RecipeCardSkeleton";
 import { useRecipes, type RecipeQuery, type SortKey } from "./hooks/useRecipes";
 import { useRecipeMeta } from "./hooks/useRecipeMeta";
@@ -74,6 +74,7 @@ const RecipeList: React.FC<RecipeListProps> = ({ currentLanguage }) => {
   const [searchInput, setSearchInput] = useState('');
   const [expandedId, setExpandedId] = useState<string | null>(null);
   const [createOpen, setCreateOpen] = useState(false);
+  const [editingRecipe, setEditingRecipe] = useState<Recipe | null>(null);
   const [refreshKey, setRefreshKey] = useState(0);
 
   const { items, total, loading, error } = useRecipes(query, refreshKey);
@@ -104,6 +105,21 @@ const RecipeList: React.FC<RecipeListProps> = ({ currentLanguage }) => {
     navigator.clipboard.writeText(url).then(() => {
       alert('Recipe link copied to clipboard!');
     });
+  };
+
+  const handleEdit = (recipe: Recipe, event: React.MouseEvent) => {
+    event.stopPropagation();
+    setEditingRecipe(recipe);
+  };
+
+  const handleSaved = (savedId: string) => {
+    setCreateOpen(false);
+    setEditingRecipe(null);
+    setRefreshKey((k) => k + 1);
+    setQuery((prev) => ({ ...prev, page: 1 }));
+    if (savedId) {
+      window.location.hash = `#${encodeURIComponent(savedId)}`;
+    }
   };
 
   const getUserName = (user: User | string | undefined): string => {
@@ -214,16 +230,18 @@ const RecipeList: React.FC<RecipeListProps> = ({ currentLanguage }) => {
         </button>
       </div>
       {createOpen && (
-        <CreateRecipeModal
+        <RecipeFormModal
           onClose={() => setCreateOpen(false)}
-          onCreated={(recipeId) => {
-            setCreateOpen(false);
-            setRefreshKey((k) => k + 1);
-            setQuery((prev) => ({ ...prev, page: 1 }));
-            if (recipeId) {
-              window.location.hash = `#${encodeURIComponent(recipeId)}`;
-            }
-          }}
+          onSaved={handleSaved}
+          creators={meta.creators}
+          currentLanguage={currentLanguage}
+        />
+      )}
+      {editingRecipe && (
+        <RecipeFormModal
+          recipe={editingRecipe}
+          onClose={() => setEditingRecipe(null)}
+          onSaved={handleSaved}
           creators={meta.creators}
           currentLanguage={currentLanguage}
         />
@@ -239,6 +257,7 @@ const RecipeList: React.FC<RecipeListProps> = ({ currentLanguage }) => {
               currentLanguage={currentLanguage}
               onToggle={() => toggleVisibility(recipe.id)}
               onCopyLink={(_title, event) => copyRecipeLink(recipe.id, event)}
+              onEdit={handleEdit}
               formatDate={formatDate}
               getUserName={getUserName}
               getUserPhoto={getUserPhoto}

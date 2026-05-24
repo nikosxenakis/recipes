@@ -566,7 +566,7 @@
     "id": "yogurt-dessert",
     "title": "Yogurt Dessert",
     "category": "desserts",
-    "creator": "Nikos",
+    "creator": "Argirw",
     "ingredients": [
       {
         "items": [
@@ -584,9 +584,6 @@
       "Mix the condensed milk, Greek yogurt, lemon juice, and lemon zest together.",
       "Place the mixture on top of the biscuits.",
       "Leave in the fridge to set."
-    ],
-    "info": [
-      "Quelle: Argyro"
     ],
     "createdAt": "2026-05-24T00:00:00.000Z"
   }

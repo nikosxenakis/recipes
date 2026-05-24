@@ -160,6 +160,43 @@ router.post('/', optionalAdminApiKey, async (req: Request, res: Response, next: 
   }
 });
 
+router.put('/:id', optionalAdminApiKey, async (req: Request, res: Response, next: NextFunction) => {
+  try {
+    const parsed = recipeInputSchema.safeParse(req.body);
+    if (!parsed.success) {
+      res.status(400).json({ error: 'Invalid recipe', details: parsed.error.issues });
+      return;
+    }
+    const id = String(req.params.id);
+    const recipe: Recipe = { ...parsed.data, id };
+    const collection = await getRecipesCollection();
+    const result = await collection.replaceOne({ id }, { ...recipe });
+    if (result.matchedCount === 0) {
+      res.status(404).json({ error: 'Recipe not found' });
+      return;
+    }
+    metaCache = null;
+    res.json({ recipe });
+  } catch (err) {
+    next(err);
+  }
+});
+
+router.delete('/:id', optionalAdminApiKey, async (req: Request, res: Response, next: NextFunction) => {
+  try {
+    const collection = await getRecipesCollection();
+    const result = await collection.deleteOne({ id: req.params.id });
+    if (result.deletedCount === 0) {
+      res.status(404).json({ error: 'Recipe not found' });
+      return;
+    }
+    metaCache = null;
+    res.status(204).send();
+  } catch (err) {
+    next(err);
+  }
+});
+
 const COMBINING_MARKS = /\p{M}/gu;
 
 function slugify(input: string): string {
