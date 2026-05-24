@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useState } from "react";
 import { Plus } from "lucide-react";
-import type { Recipe, RecipeInput, User } from "recipes-shared";
+import type { Recipe, RecipeInput } from "recipes-shared";
 import type { Language } from "@/shared/utils/translator";
 import { getLabel } from "@/shared/utils/labels";
 import { RecipeCard } from "@/features/recipes/components/RecipeCard";
@@ -12,6 +12,7 @@ import { WhoAreYouDialog } from "@/features/recipes/components/WhoAreYouDialog";
 import { useRecipes, type RecipeQuery, type SortKey } from "@/features/recipes/hooks/useRecipes";
 import { useRecipeMeta } from "@/features/recipes/hooks/useRecipeMeta";
 import { useCurrentUser } from "@/features/recipes/hooks/useCurrentUser";
+import { useUsers } from "@/features/recipes/hooks/useUsers";
 import { Button } from "@/shared/components/ui/button";
 
 type PendingIntent = { kind: "create" } | { kind: "import"; prefill: RecipeInput } | null;
@@ -88,6 +89,7 @@ export function RecipeList({ currentLanguage }: RecipeListProps) {
 
   const { items, total, loading, error } = useRecipes(query, refreshKey);
   const meta = useRecipeMeta(refreshKey);
+  const { users, addUser } = useUsers(refreshKey);
 
   useEffect(() => {
     writeStateToUrl(query);
@@ -167,16 +169,6 @@ export function RecipeList({ currentLanguage }: RecipeListProps) {
     if (intent) {
       applyIntent(intent);
     }
-  };
-
-  const getUserName = (user: User | string | undefined): string => {
-    if (!user) return "";
-    return typeof user === "string" ? user : user.name;
-  };
-
-  const getUserPhoto = (user: User | string | undefined): string | undefined => {
-    if (!user || typeof user === "string") return undefined;
-    return user.photo ? `./users/${user.photo}` : undefined;
   };
 
   const mergeIngredientSections = (sections: { title?: string; items: string[] }[]) => {
@@ -291,7 +283,8 @@ export function RecipeList({ currentLanguage }: RecipeListProps) {
             }
           }}
           onSaved={handleSaved}
-          creators={meta.creators}
+          users={users}
+          onAddUser={addUser}
           currentLanguage={currentLanguage}
         />
       )}
@@ -305,13 +298,15 @@ export function RecipeList({ currentLanguage }: RecipeListProps) {
             }
           }}
           onSaved={handleSaved}
-          creators={meta.creators}
+          users={users}
+          onAddUser={addUser}
           currentLanguage={currentLanguage}
         />
       )}
       <WhoAreYouDialog
         open={pendingIntent !== null}
-        knownCreators={meta.creators}
+        knownUsers={users}
+        onAddUser={addUser}
         currentLanguage={currentLanguage}
         onPick={handleWhoPicked}
         onCancel={() => setPendingIntent(null)}
@@ -330,8 +325,6 @@ export function RecipeList({ currentLanguage }: RecipeListProps) {
               onEdit={handleEdit}
               onDelete={handleDelete}
               formatDate={formatDate}
-              getUserName={getUserName}
-              getUserPhoto={getUserPhoto}
               mergeIngredientSections={mergeIngredientSections}
             />
           ))}

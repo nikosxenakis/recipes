@@ -7,7 +7,6 @@ import type {
   RecipeCollection,
   Comment,
   IngredientSection,
-  User,
 } from "recipes-shared";
 import { mapToCategoryKey } from "recipes-shared/categories";
 
@@ -187,7 +186,7 @@ function convertCsvToRecipe(formResponse: GoogleFormResponse): Recipe {
   };
 
   if (formResponse.creator?.trim()) {
-    recipe.creator = getUserObject(formResponse.creator.trim());
+    recipe.creator = formResponse.creator.trim();
   }
 
   if (formResponse.timestamp) {
@@ -228,49 +227,12 @@ function convertCsvToRecipe(formResponse: GoogleFormResponse): Recipe {
   return recipe;
 }
 
-// Load users from built users.json file
-const loadUsers = (): Record<string, User> => {
-  const usersPath = join(__dirname, "../../ui/public/users.json");
-  try {
-    const usersJson = readFileSync(usersPath, "utf-8");
-    const usersMap = JSON.parse(usersJson) as Record<string, User>;
-    const userCount = Object.keys(usersMap).length;
-    console.log(`👥 Loaded ${userCount} users from database`);
-    return usersMap;
-  } catch (error) {
-    console.warn("⚠️  Could not load built users.json, using empty user database");
-    console.warn("   Run 'npm run build:users' first to build the users database");
-    return {};
-  }
-};
-
-const USERS = loadUsers();
-
-const getUserObject = (userName: string): User => {
-  // Check if user exists in database
-  if (USERS[userName]) {
-    return USERS[userName];
-  }
-  // Create user object without photo for unknown users
-  return { name: userName };
-};
-
 const parseComment = (commentText: string): Comment => {
-  // Check if comment has format "User: Comment text"
   const match = commentText.match(/^([^:]+):\s*(.+)$/);
-
   if (match) {
-    return {
-      user: getUserObject(match[1].trim()),
-      text: match[2].trim(),
-    };
+    return { user: match[1].trim(), text: match[2].trim() };
   }
-
-  // No user specified, default to Christine
-  return {
-    user: getUserObject("Christine"),
-    text: commentText.trim(),
-  };
+  return { user: "Christine", text: commentText.trim() };
 };
 
 const parseMarkdown = (text: string): Recipe[] => {
@@ -442,25 +404,21 @@ const normalizeRecipes = (recipes: Recipe[]): Recipe[] => {
   return recipes.map((recipe) => {
     const normalized: any = { ...recipe };
 
-    // Convert string creators to User objects
-    if (normalized.creator && typeof normalized.creator === 'string') {
-      normalized.creator = getUserObject(normalized.creator);
+    // Flatten legacy {name:"X"} creator → "X" string.
+    if (normalized.creator && typeof normalized.creator === 'object' && typeof normalized.creator.name === 'string') {
+      normalized.creator = normalized.creator.name;
     }
 
-    // Convert string comment users to User objects
     if (normalized.comments && Array.isArray(normalized.comments)) {
       normalized.comments = normalized.comments.map((comment: Comment) => {
-        if (typeof comment.user === 'string') {
-          return {
-            ...comment,
-            user: getUserObject(comment.user)
-          };
+        const user = comment.user;
+        if (user && typeof user === 'object' && typeof (user as { name?: unknown }).name === 'string') {
+          return { ...comment, user: (user as { name: string }).name };
         }
         return comment;
       });
     }
 
-    // Coerce category to a canonical key (handles legacy German labels in JSON sources).
     normalized.category = mapToCategoryKey(normalized.category);
 
     return normalized as Recipe;
@@ -552,7 +510,7 @@ const buildRecipes = () => {
       // Add Christine as creator for Rezeptbuch.md recipes
       if (file.toLowerCase() === "rezeptbuch.md") {
         cleaned.forEach((recipe) => {
-          recipe.creator = getUserObject("Christine");
+          recipe.creator = "Christine";
         });
       }
 

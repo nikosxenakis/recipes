@@ -10,13 +10,14 @@ const categoryField = z.preprocess((value) => {
   return mapToCategoryKey(value);
 }, categorySchema);
 
-export const userSchema = z.union([
-  z.string(),
-  z.object({
-    name: z.string().min(1),
-    photo: z.string().optional(),
-  }),
-]);
+// A user is just a name string. Accept the legacy object form `{name}` and
+// flatten it so older payloads / older Atlas docs validate cleanly.
+export const userSchema = z.preprocess((value) => {
+  if (value && typeof value === "object" && "name" in value && typeof (value as { name: unknown }).name === "string") {
+    return (value as { name: string }).name;
+  }
+  return value;
+}, z.string().min(1));
 
 export const commentSchema = z.object({
   user: userSchema.optional(),

@@ -1,7 +1,6 @@
 import { readFileSync, writeFileSync, readdirSync, copyFileSync, mkdirSync, existsSync } from "fs";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
-import type { User } from "recipes-shared";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -15,46 +14,31 @@ const buildUsers = () => {
   console.log("👥 Building users database...");
 
   try {
-    // Read users.json
-    const usersJson = readFileSync(usersPath, "utf-8");
-    const usersArray = JSON.parse(usersJson) as User[];
+    const raw = JSON.parse(readFileSync(usersPath, "utf-8"));
+    const names: string[] = Array.isArray(raw)
+      ? raw.map((u) => (typeof u === "string" ? u : u?.name)).filter((n) => typeof n === "string" && n.length > 0)
+      : [];
 
-    console.log(`   Found ${usersArray.length} users`);
+    console.log(`   Found ${names.length} users: ${names.join(", ")}`);
 
-    // Create users map for quick lookup
-    const usersMap: Record<string, User> = {};
-    usersArray.forEach((user) => {
-      usersMap[user.name] = user;
-      console.log(`   ✓ ${user.name}${user.photo ? ` (${user.photo})` : " (no photo)"}`);
-    });
-
-    // Save simplified version to public folder (just the map)
-    writeFileSync(outputPath, JSON.stringify(usersMap, null, 2), "utf-8");
+    writeFileSync(outputPath, JSON.stringify(names, null, 2), "utf-8");
     console.log(`💾 Saved users database to users.json`);
 
-    // Copy user photos to UI public folder
     if (existsSync(photosDir)) {
-      // Ensure output directory exists
       if (!existsSync(outputPhotosDir)) {
         mkdirSync(outputPhotosDir, { recursive: true });
       }
-
       const photoFiles = readdirSync(photosDir);
       console.log(`\n📸 Copying user photos...`);
-
       photoFiles.forEach((file) => {
-        const src = join(photosDir, file);
-        const dest = join(outputPhotosDir, file);
-        copyFileSync(src, dest);
+        copyFileSync(join(photosDir, file), join(outputPhotosDir, file));
         console.log(`   ✓ Copied: ${file}`);
       });
-
       console.log(`💾 Copied ${photoFiles.length} photo(s) to ui/public/users/`);
     }
 
     console.log("✨ Users build complete!");
-
-    return usersMap;
+    return names;
   } catch (error) {
     console.error("❌ Error building users:", error);
     process.exit(1);

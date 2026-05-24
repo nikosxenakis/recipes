@@ -4,6 +4,7 @@ import type { Recipe, RecipeInput } from "recipes-shared";
 import type { Language } from "@/shared/utils/translator";
 import { getCategoryLabel, getLabel } from "@/shared/utils/labels";
 import { CATEGORY_KEYS } from "recipes-shared/categories";
+import { CreatorPicker } from "@/features/recipes/components/CreatorPicker";
 import {
   Dialog,
   DialogContent,
@@ -61,11 +62,7 @@ const emptyDraft = (): DraftRecipe => ({
 });
 
 function recipeToDraft(recipe: Recipe): DraftRecipe {
-  const creatorName = recipe.creator
-    ? typeof recipe.creator === "string"
-      ? recipe.creator
-      : recipe.creator.name
-    : "";
+  const creatorName = typeof recipe.creator === "string" ? recipe.creator : "";
   const ingredients = recipe.ingredients.length > 0
     ? recipe.ingredients.map((s) => ({
         title: s.title ?? "",
@@ -105,7 +102,8 @@ interface RecipeFormModalProps {
   open: boolean;
   onOpenChange: (open: boolean) => void;
   onSaved: (recipeId: string) => void;
-  creators: string[];
+  users: string[];
+  onAddUser: (name: string) => Promise<string | null>;
   currentLanguage: Language;
 }
 
@@ -131,7 +129,8 @@ export function RecipeFormModal({
   open,
   onOpenChange,
   onSaved,
-  creators,
+  users,
+  onAddUser,
   currentLanguage,
 }: RecipeFormModalProps) {
   const isEdit = recipe !== undefined;
@@ -278,14 +277,13 @@ export function RecipeFormModal({
             </FormField>
 
             <FormField label="Creator">
-              <Input
-                list="modal-creator-list"
+              <CreatorPicker
                 value={draft.creator}
-                onChange={(e) => update("creator", e.target.value)}
+                users={users}
+                onChange={(v) => update("creator", v)}
+                onAddUser={onAddUser}
+                currentLanguage={currentLanguage}
               />
-              <datalist id="modal-creator-list">
-                {creators.map((c) => <option key={c} value={c} />)}
-              </datalist>
             </FormField>
 
             <FormField label="Duration">

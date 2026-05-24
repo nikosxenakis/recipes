@@ -14,26 +14,35 @@ import { Input } from "@/shared/components/ui/input";
 
 interface WhoAreYouDialogProps {
   open: boolean;
-  knownCreators: string[];
+  knownUsers: string[];
   currentLanguage: Language;
   onPick: (name: string) => void;
+  onAddUser: (name: string) => Promise<string | null>;
   onCancel: () => void;
 }
 
 export function WhoAreYouDialog({
   open,
-  knownCreators,
+  knownUsers,
   currentLanguage,
   onPick,
+  onAddUser,
   onCancel,
 }: WhoAreYouDialogProps) {
   const [other, setOther] = useState("");
+  const [saving, setSaving] = useState(false);
 
-  const handleNewSubmit = (event: FormEvent<HTMLFormElement>) => {
+  const handleNewSubmit = async (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault();
     const name = other.trim();
-    if (name) {
-      onPick(name);
+    if (!name) {
+      return;
+    }
+    setSaving(true);
+    const added = await onAddUser(name);
+    setSaving(false);
+    if (added) {
+      onPick(added);
     }
   };
 
@@ -45,7 +54,7 @@ export function WhoAreYouDialog({
           <DialogDescription>{getLabel("whoAreYouBody", currentLanguage)}</DialogDescription>
         </DialogHeader>
         <div className="flex flex-col gap-2 px-5 py-3">
-          {knownCreators.map((name) => (
+          {knownUsers.map((name) => (
             <Button
               key={name}
               type="button"
@@ -64,8 +73,8 @@ export function WhoAreYouDialog({
               onChange={(e) => setOther(e.target.value)}
               maxLength={60}
             />
-            <Button type="submit" disabled={!other.trim()}>
-              {getLabel("continue", currentLanguage)}
+            <Button type="submit" disabled={!other.trim() || saving}>
+              {saving ? "…" : getLabel("continue", currentLanguage)}
             </Button>
           </form>
         </div>

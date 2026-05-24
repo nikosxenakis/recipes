@@ -1,5 +1,6 @@
 import express, { type Express, type Request, type Response, type NextFunction } from 'express';
 import recipesRouter from './routes/recipes.ts';
+import usersRouter from './routes/users.ts';
 
 export function createApp(): Express {
   const app = express();
@@ -10,6 +11,7 @@ export function createApp(): Express {
   });
 
   app.use('/api/recipes', recipesRouter);
+  app.use('/api/users', usersRouter);
 
   app.use((err: unknown, _req: Request, res: Response, _next: NextFunction) => {
     console.error('Unhandled error:', err);
