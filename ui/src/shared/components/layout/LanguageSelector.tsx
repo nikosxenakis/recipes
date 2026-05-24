@@ -1,5 +1,10 @@
 import { LANGUAGES, type Language } from "@/shared/utils/translator";
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/shared/components/ui/select";
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+} from "@/shared/components/ui/select";
 
 interface LanguageSelectorProps {
   currentLanguage: Language;
@@ -16,14 +21,16 @@ export function LanguageSelector({ currentLanguage, onLanguageChange }: Language
 
   return (
     <Select value={currentLanguage} onValueChange={handleChange}>
-      <SelectTrigger className="w-auto gap-2 px-3" aria-label="Language">
-        <span aria-hidden>{current?.flag ?? "🌍"}</span>
-        <SelectValue />
+      <SelectTrigger
+        aria-label={`Language: ${current?.name ?? currentLanguage}`}
+        className="h-12 w-14 justify-center px-0 [&>svg]:hidden"
+      >
+        <span className="text-2xl leading-none" aria-hidden>{current?.flag ?? "🌍"}</span>
       </SelectTrigger>
       <SelectContent align="end">
         {LANGUAGES.map((lang) => (
           <SelectItem key={lang.code} value={lang.code}>
-            <span className="mr-2" aria-hidden>{lang.flag}</span>
+            <span className="mr-2 text-xl" aria-hidden>{lang.flag}</span>
             {lang.name}
           </SelectItem>
         ))}

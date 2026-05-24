@@ -99,17 +99,28 @@ export function RecipeList({ currentLanguage }: RecipeListProps) {
     setExpandedId((prev) => (prev === recipeId ? null : recipeId));
   }, []);
 
-  const copyRecipeLink = (recipeId: string, event: React.MouseEvent) => {
-    event.stopPropagation();
+  const copyRecipeLink = (recipeId: string) => {
     const url = `${window.location.origin}${window.location.pathname}#${encodeURIComponent(recipeId)}`;
-    navigator.clipboard.writeText(url).then(() => {
-      alert("Recipe link copied to clipboard!");
+    void navigator.clipboard.writeText(url).then(() => {
+      alert(getLabel("linkCopied", currentLanguage));
     });
   };
 
-  const handleEdit = (recipe: Recipe, event: React.MouseEvent) => {
-    event.stopPropagation();
+  const handleEdit = (recipe: Recipe) => {
     setEditingRecipe(recipe);
+  };
+
+  const handleDelete = async (recipe: Recipe) => {
+    const response = await fetch(`/api/recipes/${encodeURIComponent(recipe.id)}`, { method: "DELETE" });
+    if (!response.ok && response.status !== 404) {
+      const data = (await response.json().catch(() => ({ error: `HTTP ${response.status}` }))) as { error?: string };
+      throw new Error(data.error ?? `HTTP ${response.status}`);
+    }
+    if (expandedId === recipe.id) {
+      window.history.replaceState(null, "", `${window.location.pathname}${window.location.search}`);
+      setExpandedId(null);
+    }
+    setRefreshKey((k) => k + 1);
   };
 
   const handleSaved = (savedId: string) => {
@@ -205,7 +216,7 @@ export function RecipeList({ currentLanguage }: RecipeListProps) {
       />
 
       <div className="mb-4 flex items-center justify-between gap-3">
-        <div className="text-sm text-muted-foreground">
+        <div className="text-base text-muted-foreground">
           {error ? (
             <span className="text-destructive">{error}</span>
           ) : (
@@ -215,7 +226,7 @@ export function RecipeList({ currentLanguage }: RecipeListProps) {
           )}
         </div>
         <Button type="button" onClick={() => setCreateOpen(true)}>
-          <Plus className="h-4 w-4" />
+          <Plus className="h-5 w-5" />
           {getLabel("addRecipe", currentLanguage)}
         </Button>
       </div>
@@ -253,8 +264,9 @@ export function RecipeList({ currentLanguage }: RecipeListProps) {
               isExpanded={expandedId === recipe.id}
               currentLanguage={currentLanguage}
               onToggle={() => toggleVisibility(recipe.id)}
-              onCopyLink={(event) => copyRecipeLink(recipe.id, event)}
+              onCopyLink={() => copyRecipeLink(recipe.id)}
               onEdit={handleEdit}
+              onDelete={handleDelete}
               formatDate={formatDate}
               getUserName={getUserName}
               getUserPhoto={getUserPhoto}
@@ -262,11 +274,11 @@ export function RecipeList({ currentLanguage }: RecipeListProps) {
             />
           ))}
 
-      <div className="mt-6 flex items-center justify-between gap-3 rounded-xl border border-border bg-card p-3 text-sm">
+      <div className="mt-6 flex items-center justify-between gap-3 rounded-2xl border border-border bg-card p-3">
         <Button variant="outline" onClick={handlePreviousPage} disabled={query.page === 1}>
           {getLabel("previous", currentLanguage)}
         </Button>
-        <span className="text-muted-foreground">
+        <span className="text-base text-muted-foreground">
           {getLabel("page", currentLanguage)} {total === 0 ? 0 : query.page}{" "}
           {getLabel("of", currentLanguage)} {total === 0 ? 0 : totalPages}
         </span>
