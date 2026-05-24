@@ -8,7 +8,7 @@ import { mapToCategoryKey } from 'recipes-shared/categories';
 import { getVisionExtractor, VisionExtractorError } from '../llm/index.ts';
 import { rateLimit } from '../middleware/rateLimit.ts';
 
-const MAX_IMAGE_BYTES = 3 * 1024 * 1024;
+const MAX_IMAGE_BYTES = 6 * 1024 * 1024;
 const upload = multer({
   storage: multer.memoryStorage(),
   limits: { fileSize: MAX_IMAGE_BYTES, files: 1 },

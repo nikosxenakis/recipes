@@ -3,7 +3,9 @@ import { recipeInputSchema, type RecipeInput } from "recipes-shared";
 import { VisionExtractorError, type VisionExtractor } from "./visionExtractor.ts";
 
 const GROQ_URL = "https://api.groq.com/openai/v1/chat/completions";
-// Scout = Groq's smallest free-tier vision model. Keep it small to stay within free quota.
+// Groq currently only exposes one vision-capable model on the free tier.
+// Hallucination on non-Latin scripts is a known limit; if quality matters,
+// swap to GroqVisionExtractor in `backend/src/llm/index.ts` for a paid provider.
 const DEFAULT_MODEL = "meta-llama/llama-4-scout-17b-16e-instruct";
 const MAX_OUTPUT_TOKENS = 1500;
 
