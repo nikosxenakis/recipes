@@ -5,7 +5,7 @@ export interface RecipeMeta {
   creators: string[];
 }
 
-export function useRecipeMeta(): RecipeMeta {
+export function useRecipeMeta(refreshKey = 0): RecipeMeta {
   const [meta, setMeta] = useState<RecipeMeta>({ categories: [], creators: [] });
 
   useEffect(() => {
@@ -26,7 +26,7 @@ export function useRecipeMeta(): RecipeMeta {
     return () => {
       cancelled = true;
     };
-  }, []);
+  }, [refreshKey]);
 
   return meta;
 }

@@ -119,10 +119,12 @@ router.get('/:id', async (req: Request, res: Response, next: NextFunction) => {
   }
 });
 
-function requireAdminApiKey(req: Request, res: Response, next: NextFunction): void {
+// If ADMIN_API_KEY is set in the environment, POST requires it; otherwise the
+// endpoint is open. Lets the operator lock writes by setting the env var.
+function optionalAdminApiKey(req: Request, res: Response, next: NextFunction): void {
   const expected = process.env.ADMIN_API_KEY;
   if (!expected) {
-    res.status(503).json({ error: 'Write endpoint is not configured' });
+    next();
     return;
   }
   const provided = req.header('x-api-key');
@@ -133,7 +135,7 @@ function requireAdminApiKey(req: Request, res: Response, next: NextFunction): vo
   next();
 }
 
-router.post('/', requireAdminApiKey, async (req: Request, res: Response, next: NextFunction) => {
+router.post('/', optionalAdminApiKey, async (req: Request, res: Response, next: NextFunction) => {
   try {
     const parsed = recipeInputSchema.safeParse(req.body);
     if (!parsed.success) {

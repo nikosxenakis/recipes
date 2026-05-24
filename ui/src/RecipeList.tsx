@@ -4,6 +4,7 @@ import type { Language } from "./utils/translator";
 import { getLabel } from "./utils/labels";
 import { RecipeCard } from "./components/RecipeCard";
 import { SearchFilter } from "./components/SearchFilter";
+import { CreateRecipeModal } from "./components/CreateRecipeModal";
 import { useRecipes, type RecipeQuery, type SortKey } from "./hooks/useRecipes";
 import { useRecipeMeta } from "./hooks/useRecipeMeta";
 import "./RecipeList.css";
@@ -71,9 +72,11 @@ const RecipeList: React.FC<RecipeListProps> = ({ currentLanguage }) => {
   const [query, setQuery] = useState<RecipeQuery>(readInitialState);
   const [searchInput, setSearchInput] = useState('');
   const [expandedId, setExpandedId] = useState<string | null>(null);
+  const [createOpen, setCreateOpen] = useState(false);
+  const [refreshKey, setRefreshKey] = useState(0);
 
-  const { items, total, loading, error } = useRecipes(query);
-  const meta = useRecipeMeta();
+  const { items, total, loading, error } = useRecipes(query, refreshKey);
+  const meta = useRecipeMeta(refreshKey);
 
   useEffect(() => {
     writeStateToUrl(query);
@@ -198,16 +201,31 @@ const RecipeList: React.FC<RecipeListProps> = ({ currentLanguage }) => {
             </span>
           )}
         </div>
-        <a
-          href="https://forms.gle/GC1GtuCSwFZEyE69A"
-          target="_blank"
-          rel="noopener noreferrer"
+        <button
+          type="button"
           className="add-recipe-button"
           title="Add a new recipe"
+          onClick={() => setCreateOpen(true)}
         >
           ➕ {getLabel('addRecipe', currentLanguage)}
-        </a>
+        </button>
       </div>
+      {createOpen && (
+        <CreateRecipeModal
+          onClose={() => setCreateOpen(false)}
+          onCreated={(recipeId) => {
+            setCreateOpen(false);
+            setRefreshKey((k) => k + 1);
+            setQuery((prev) => ({ ...prev, page: 1 }));
+            if (recipeId) {
+              window.location.hash = `#${encodeURIComponent(recipeId)}`;
+            }
+          }}
+          categories={meta.categories}
+          creators={meta.creators}
+          currentLanguage={currentLanguage}
+        />
+      )}
       {renderedItems.map((recipe, index) => (
         <RecipeCard
           key={recipe.id}

@@ -43,7 +43,7 @@ function buildQueryString(query: RecipeQuery): string {
   return params.toString();
 }
 
-export function useRecipes(query: RecipeQuery, debounceMs = 250): UseRecipesResult {
+export function useRecipes(query: RecipeQuery, refreshKey = 0, debounceMs = 250): UseRecipesResult {
   const [items, setItems] = useState<Recipe[]>([]);
   const [total, setTotal] = useState(0);
   const [loading, setLoading] = useState(true);
@@ -83,7 +83,7 @@ export function useRecipes(query: RecipeQuery, debounceMs = 250): UseRecipesResu
       window.clearTimeout(timer);
       controller.abort();
     };
-  }, [qs, debounceMs]);
+  }, [qs, debounceMs, refreshKey]);
 
   return { items, total, loading, error };
 }
