@@ -168,7 +168,10 @@
   border-radius: 8px;
   font-size: 13px;
   font-weight: 600;
+  font-family: inherit;
   text-decoration: none;
+  border: none;
+  cursor: pointer;
   display: inline-flex;
   align-items: center;
   gap: 6px;
