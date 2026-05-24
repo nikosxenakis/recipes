@@ -1,8 +1,8 @@
-import { Router, type Request, type Response, type NextFunction } from 'express';
+import { Router, type Request, type Response, type NextFunction, type Router as RouterType } from 'express';
 import { getRecipesCollection } from '../db.ts';
 import { recipeInputSchema, type Recipe } from '../schemas.ts';
 
-const router = Router();
+const router: RouterType = Router();
 
 router.get('/', async (_req: Request, res: Response, next: NextFunction) => {
   try {

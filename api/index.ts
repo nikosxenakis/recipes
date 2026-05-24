@@ -1,3 +1,3 @@
-import app from 'recipes-backend';
+import app from '../backend/dist/app.js';
 
 export default app;

@@ -3,12 +3,17 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "main": "src/app.ts",
+  "main": "dist/app.js",
+  "types": "dist/app.d.ts",
   "exports": {
-    ".": "./src/app.ts"
+    ".": {
+      "types": "./dist/app.d.ts",
+      "import": "./dist/app.js"
+    }
   },
   "scripts": {
-    "typecheck": "tsc",
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
     "dev": "tsx watch src/dev.ts",
     "seed": "tsx src/seed.ts",
     "lint": "eslint src --max-warnings 0"
