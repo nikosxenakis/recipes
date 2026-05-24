@@ -4,7 +4,7 @@ import { fileURLToPath } from "url";
 import type {
   Recipe,
   RecipeCollection,
-} from "../../ui/src/types/recipe.js";
+} from "recipes-shared";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);

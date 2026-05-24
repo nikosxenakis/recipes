@@ -21,6 +21,7 @@
   "dependencies": {
     "express": "^5.0.1",
     "mongodb": "^6.21.0",
+    "recipes-shared": "workspace:*",
     "zod": "^4.0.0"
   },
   "devDependencies": {

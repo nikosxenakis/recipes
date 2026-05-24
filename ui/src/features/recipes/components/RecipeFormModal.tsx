@@ -1,9 +1,9 @@
 import { useState, type FormEvent } from "react";
 import { Trash2 } from "lucide-react";
-import type { Recipe } from "@/features/recipes/types/recipe";
+import type { Recipe } from "recipes-shared";
 import type { Language } from "@/shared/utils/translator";
 import { getCategoryLabel, getLabel } from "@/shared/utils/labels";
-import { CATEGORY_KEYS } from "@/features/recipes/utils/categories";
+import { CATEGORY_KEYS } from "recipes-shared/categories";
 import {
   Dialog,
   DialogContent,

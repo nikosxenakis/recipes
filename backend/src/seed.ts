@@ -2,7 +2,7 @@ import { readFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { z } from 'zod';
 import { getRecipesCollection, closeDb } from './db.ts';
-import { recipeSchema, type Recipe } from './schemas.ts';
+import { recipeSchema, type Recipe } from 'recipes-shared';
 
 const looseRecipeSchema = recipeSchema.extend({
   id: z.string().optional()

@@ -1,5 +1,5 @@
 import { Calendar, ChefHat, Clock, Info, Lightbulb, MessageCircle, ShoppingCart, UtensilsCrossed, Users } from "lucide-react";
-import type { Recipe, User } from "@/features/recipes/types/recipe";
+import type { Recipe, User } from "recipes-shared";
 import type { Language } from "@/shared/utils/translator";
 import { useTranslatedRecipe } from "@/features/recipes/hooks/useTranslatedRecipe";
 import { useTranslatedText } from "@/features/recipes/hooks/useTranslatedText";

@@ -12,6 +12,9 @@
     "validate": "tsx src/validate.ts",
     "clean": "tsx src/clean.ts"
   },
+  "dependencies": {
+    "recipes-shared": "workspace:*"
+  },
   "devDependencies": {
     "@types/markdown-it": "^14.1.2",
     "@types/node": "^25.9.1",
