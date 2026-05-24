@@ -1,9 +1,11 @@
-import React, { useState, useEffect } from "react";
+import React, { useCallback, useEffect, useState } from "react";
 import type { Recipe, User } from "./types/recipe";
 import type { Language } from "./utils/translator";
 import { getLabel } from "./utils/labels";
 import { RecipeCard } from "./components/RecipeCard";
 import { SearchFilter } from "./components/SearchFilter";
+import { useRecipes, type RecipeQuery, type SortKey } from "./hooks/useRecipes";
+import { useRecipeMeta } from "./hooks/useRecipeMeta";
 import "./RecipeList.css";
 
 const formatDate = (isoDate: string): string => {
@@ -15,248 +17,186 @@ const formatDate = (isoDate: string): string => {
   });
 };
 
+const PAGE_SIZE = 10;
+const SORT_KEYS: SortKey[] = ['title', '-title', 'createdAt', '-createdAt'];
+
+function isSortKey(value: string): value is SortKey {
+  return (SORT_KEYS as string[]).includes(value);
+}
+
+function readInitialState(): RecipeQuery {
+  if (typeof window === 'undefined') {
+    return { q: [], category: null, creator: null, sort: 'title', page: 1, pageSize: PAGE_SIZE };
+  }
+  const params = new URLSearchParams(window.location.search);
+  const sortRaw = params.get('sort');
+  const pageRaw = Number(params.get('page') ?? '1');
+  return {
+    q: params.getAll('q').filter((s) => s.length > 0),
+    category: params.get('category'),
+    creator: params.get('creator'),
+    sort: sortRaw && isSortKey(sortRaw) ? sortRaw : 'title',
+    page: Number.isFinite(pageRaw) && pageRaw >= 1 ? pageRaw : 1,
+    pageSize: PAGE_SIZE
+  };
+}
+
+function writeStateToUrl(state: RecipeQuery): void {
+  const params = new URLSearchParams();
+  for (const term of state.q) {
+    params.append('q', term);
+  }
+  if (state.category) {
+    params.set('category', state.category);
+  }
+  if (state.creator) {
+    params.set('creator', state.creator);
+  }
+  if (state.sort !== 'title') {
+    params.set('sort', state.sort);
+  }
+  if (state.page !== 1) {
+    params.set('page', String(state.page));
+  }
+  const qs = params.toString();
+  const next = `${window.location.pathname}${qs ? `?${qs}` : ''}${window.location.hash}`;
+  window.history.replaceState(null, '', next);
+}
+
 interface RecipeListProps {
-  recipes: Recipe[];
   currentLanguage: Language;
 }
 
-const RecipeList: React.FC<RecipeListProps> = ({ recipes, currentLanguage }) => {
-  const [expandedRecipe, setExpandedRecipe] = useState<number | null>(null);
-  const [currentPage, setCurrentPage] = useState(1);
-  const [searchQuery, setSearchQuery] = useState("");
-  const [searchTerms, setSearchTerms] = useState<string[]>([]);
-  const [selectedCategory, setSelectedCategory] = useState<string>("all");
-  const [selectedDuration, setSelectedDuration] = useState<string>("all");
-  const [selectedCreator, setSelectedCreator] = useState<string>("all");
-  const recipesPerPage = 10;
+const RecipeList: React.FC<RecipeListProps> = ({ currentLanguage }) => {
+  const [query, setQuery] = useState<RecipeQuery>(readInitialState);
+  const [searchInput, setSearchInput] = useState('');
+  const [expandedId, setExpandedId] = useState<string | null>(null);
 
-  // Handle hash navigation on mount and hash changes
+  const { items, total, loading, error } = useRecipes(query);
+  const meta = useRecipeMeta();
+
   useEffect(() => {
-    const handleHashNavigation = () => {
-      const hash = window.location.hash.slice(1);
-      if (hash) {
-        const decodedTitle = decodeURIComponent(hash);
-        const recipeIndex = recipes.findIndex(r => r.title === decodedTitle);
-        if (recipeIndex !== -1) {
-          setExpandedRecipe(recipeIndex);
-          // Calculate which page contains this recipe
-          const page = Math.floor(recipeIndex / recipesPerPage) + 1;
-          setCurrentPage(page);
-          // Scroll to recipe after a short delay to ensure it's rendered
-          setTimeout(() => {
-            const recipeElement = document.querySelector(`[data-recipe-index="${recipeIndex}"]`);
-            if (recipeElement) {
-              recipeElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
-            }
-          }, 100);
-        }
-      }
+    writeStateToUrl(query);
+  }, [query]);
+
+  useEffect(() => {
+    const applyHash = () => {
+      const raw = window.location.hash.slice(1);
+      const decoded = raw ? decodeURIComponent(raw) : null;
+      setExpandedId(decoded);
     };
+    applyHash();
+    window.addEventListener('hashchange', applyHash);
+    return () => window.removeEventListener('hashchange', applyHash);
+  }, []);
 
-    handleHashNavigation();
-    window.addEventListener('hashchange', handleHashNavigation);
-    return () => window.removeEventListener('hashchange', handleHashNavigation);
-  }, [recipes, recipesPerPage]);
+  const toggleVisibility = useCallback((recipeId: string) => {
+    setExpandedId((prev) => (prev === recipeId ? null : recipeId));
+  }, []);
 
-  // Extract unique categories from recipes
-  const categories = Array.from(new Set(recipes.map((r) => r.category))).sort();
-
-  // Extract unique creators from recipes
-  const creators = Array.from(
-    new Set(
-      recipes
-        .map((r) => r.creator)
-        .filter((c) => c !== undefined)
-        .map((c) => (typeof c === "string" ? c : c.name))
-    )
-  ).sort();
-
-  const toggleVisibility = (index: number) => {
-    setExpandedRecipe((prevState) => (prevState === index ? null : index));
-  };
-
-  const copyRecipeLink = (recipeTitle: string, event: React.MouseEvent) => {
+  const copyRecipeLink = (recipeId: string, event: React.MouseEvent) => {
     event.stopPropagation();
-    const url = `${window.location.origin}${window.location.pathname}#${encodeURIComponent(recipeTitle)}`;
+    const url = `${window.location.origin}${window.location.pathname}#${encodeURIComponent(recipeId)}`;
     navigator.clipboard.writeText(url).then(() => {
       alert('Recipe link copied to clipboard!');
     });
   };
 
-  // Helper to get user name from User object or string
   const getUserName = (user: User | string | undefined): string => {
     if (!user) return "";
     return typeof user === "string" ? user : user.name;
   };
 
-  // Helper to get user photo from User object
   const getUserPhoto = (user: User | string | undefined): string | undefined => {
     if (!user || typeof user === "string") return undefined;
-    // Use relative path that works with Vite's base path
     return user.photo ? `./users/${user.photo}` : undefined;
   };
 
-  // Merge consecutive ingredient sections without titles
   const mergeIngredientSections = (sections: { title?: string; items: string[] }[]) => {
     const merged: { title?: string; items: string[] }[] = [];
-    let currentUntitledSection: string[] = [];
+    let currentUntitled: string[] = [];
 
     sections.forEach((section) => {
       if (section.title) {
-        // If we have accumulated untitled items, push them as a single section
-        if (currentUntitledSection.length > 0) {
-          merged.push({ items: currentUntitledSection });
-          currentUntitledSection = [];
+        if (currentUntitled.length > 0) {
+          merged.push({ items: currentUntitled });
+          currentUntitled = [];
         }
-        // Push the titled section
         merged.push(section);
       } else {
-        // Accumulate items from untitled sections
-        currentUntitledSection.push(...section.items);
+        currentUntitled.push(...section.items);
       }
     });
-
-    // Push any remaining untitled items
-    if (currentUntitledSection.length > 0) {
-      merged.push({ items: currentUntitledSection });
+    if (currentUntitled.length > 0) {
+      merged.push({ items: currentUntitled });
     }
-
     return merged;
-  };
-
-  const handleSearchChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-    setSearchQuery(event.target.value);
   };
 
   const handleSearchSubmit = (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
-    if (searchQuery.trim() && !searchTerms.includes(searchQuery.trim())) {
-      setSearchTerms([...searchTerms, searchQuery.trim()]);
-      setSearchQuery("");
-      setCurrentPage(1); // Reset to first page on new search
+    const term = searchInput.trim();
+    if (term && !query.q.includes(term)) {
+      setQuery((prev) => ({ ...prev, q: [...prev.q, term], page: 1 }));
     }
+    setSearchInput('');
   };
 
   const handleRemoveSearchTerm = (term: string) => {
-    setSearchTerms(searchTerms.filter((t) => t !== term));
+    setQuery((prev) => ({ ...prev, q: prev.q.filter((t) => t !== term), page: 1 }));
   };
 
   const handleCategoryChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
-    setSelectedCategory(event.target.value);
-    setCurrentPage(1);
-  };
-
-  const handleDurationChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
-    setSelectedDuration(event.target.value);
-    setCurrentPage(1);
+    const v = event.target.value;
+    setQuery((prev) => ({ ...prev, category: v === 'all' ? null : v, page: 1 }));
   };
 
   const handleCreatorChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
-    setSelectedCreator(event.target.value);
-    setCurrentPage(1);
+    const v = event.target.value;
+    setQuery((prev) => ({ ...prev, creator: v === 'all' ? null : v, page: 1 }));
   };
 
-  // Extract duration in minutes from duration string
-  const extractDurationMinutes = (duration?: string): number | null => {
-    if (!duration) return null;
-
-    const durationLower = duration.toLowerCase();
-    let totalMinutes = 0;
-
-    // Match hours (Stunde/Std/h)
-    const hoursMatch = durationLower.match(/(\d+)\s*(stunde|std|h)/);
-    if (hoursMatch) {
-      totalMinutes += parseInt(hoursMatch[1]) * 60;
-    }
-
-    // Match minutes (Minute/Min/m)
-    const minutesMatch = durationLower.match(/(\d+)\s*(minute|min|m(?!$))/);
-    if (minutesMatch) {
-      totalMinutes += parseInt(minutesMatch[1]);
-    }
-
-    return totalMinutes > 0 ? totalMinutes : null;
-  };
-
-  const filteredRecipes = recipes.filter((recipe) => {
-    // Filter by search terms
-    const matchesSearch =
-      searchTerms.length === 0 ||
-      searchTerms.every(
-        (term) =>
-          recipe.title.toLowerCase().includes(term.toLowerCase()) ||
-          recipe.ingredients.some((section) =>
-            section.items.some((ingredient: string) =>
-              ingredient.toLowerCase().includes(term.toLowerCase())
-            )
-          )
-      );
-
-    // Filter by category
-    const matchesCategory = selectedCategory === "all" || recipe.category === selectedCategory;
-
-    // Filter by duration
-    let matchesDuration = true;
-    if (selectedDuration !== "all") {
-      const minutes = extractDurationMinutes(recipe.duration);
-      if (minutes === null) {
-        matchesDuration = false;
-      } else if (selectedDuration === "quick") {
-        matchesDuration = minutes < 30;
-      } else if (selectedDuration === "medium") {
-        matchesDuration = minutes >= 30 && minutes <= 60;
-      } else if (selectedDuration === "long") {
-        matchesDuration = minutes > 60;
-      }
-    }
-
-    // Filter by creator
-    const matchesCreator =
-      selectedCreator === "all" ||
-      (recipe.creator && getUserName(recipe.creator) === selectedCreator);
-
-    return matchesSearch && matchesCategory && matchesDuration && matchesCreator;
-  });
-
-  const indexOfLastRecipe = currentPage * recipesPerPage;
-  const indexOfFirstRecipe = indexOfLastRecipe - recipesPerPage;
-  const currentRecipes = filteredRecipes.slice(indexOfFirstRecipe, indexOfLastRecipe);
-
-  const totalPages = Math.ceil(filteredRecipes.length / recipesPerPage);
+  const totalPages = Math.max(1, Math.ceil(total / query.pageSize));
 
   const handleNextPage = () => {
-    if (currentPage < totalPages) {
-      setCurrentPage(currentPage + 1);
+    if (query.page < totalPages) {
+      setQuery((prev) => ({ ...prev, page: prev.page + 1 }));
     }
   };
 
   const handlePreviousPage = () => {
-    if (currentPage > 1) {
-      setCurrentPage(currentPage - 1);
+    if (query.page > 1) {
+      setQuery((prev) => ({ ...prev, page: prev.page - 1 }));
     }
   };
+
+  const renderedItems: Recipe[] = items;
 
   return (
     <div className="recipe-list">
       <SearchFilter
-        searchQuery={searchQuery}
-        searchTerms={searchTerms}
-        selectedCategory={selectedCategory}
-        selectedDuration={selectedDuration}
-        selectedCreator={selectedCreator}
-        categories={categories}
-        creators={creators}
+        searchQuery={searchInput}
+        searchTerms={query.q}
+        selectedCategory={query.category ?? 'all'}
+        selectedCreator={query.creator ?? 'all'}
+        categories={meta.categories}
+        creators={meta.creators}
         currentLanguage={currentLanguage}
-        onSearchChange={handleSearchChange}
+        onSearchChange={(e) => setSearchInput(e.target.value)}
         onSearchSubmit={handleSearchSubmit}
         onRemoveSearchTerm={handleRemoveSearchTerm}
         onCategoryChange={handleCategoryChange}
-        onDurationChange={handleDurationChange}
         onCreatorChange={handleCreatorChange}
       />
       <div className="recipe-header-bar">
         <div className="recipe-count">
-          <span>{filteredRecipes.length} recipe{filteredRecipes.length !== 1 ? 's' : ''} found</span>
+          {error ? (
+            <span style={{ color: 'var(--primary-gradient-start)' }}>{error}</span>
+          ) : (
+            <span>
+              {total} recipe{total !== 1 ? 's' : ''} found{loading ? '…' : ''}
+            </span>
+          )}
         </div>
         <a
           href="https://forms.gle/GC1GtuCSwFZEyE69A"
@@ -265,18 +205,18 @@ const RecipeList: React.FC<RecipeListProps> = ({ recipes, currentLanguage }) => 
           className="add-recipe-button"
           title="Add a new recipe"
         >
-          ➕ Add Recipe
+          ➕ {getLabel('addRecipe', currentLanguage)}
         </a>
       </div>
-      {currentRecipes.map((recipe, index) => (
+      {renderedItems.map((recipe, index) => (
         <RecipeCard
-          key={indexOfFirstRecipe + index}
+          key={recipe.id}
           recipe={recipe}
-          index={indexOfFirstRecipe + index}
-          isExpanded={expandedRecipe === indexOfFirstRecipe + index}
+          index={index}
+          isExpanded={expandedId === recipe.id}
           currentLanguage={currentLanguage}
-          onToggle={() => toggleVisibility(indexOfFirstRecipe + index)}
-          onCopyLink={copyRecipeLink}
+          onToggle={() => toggleVisibility(recipe.id)}
+          onCopyLink={(_title, event) => copyRecipeLink(recipe.id, event)}
           formatDate={formatDate}
           getUserName={getUserName}
           getUserPhoto={getUserPhoto}
@@ -284,13 +224,13 @@ const RecipeList: React.FC<RecipeListProps> = ({ recipes, currentLanguage }) => 
         />
       ))}
       <div className="pagination">
-        <button onClick={handlePreviousPage} disabled={currentPage === 1}>
+        <button onClick={handlePreviousPage} disabled={query.page === 1}>
           {getLabel('previous', currentLanguage)}
         </button>
         <span>
-          {getLabel('page', currentLanguage)} {totalPages === 0 ? 0 : currentPage} {getLabel('of', currentLanguage)} {totalPages}
+          {getLabel('page', currentLanguage)} {total === 0 ? 0 : query.page} {getLabel('of', currentLanguage)} {total === 0 ? 0 : totalPages}
         </span>
-        <button onClick={handleNextPage} disabled={currentPage === totalPages}>
+        <button onClick={handleNextPage} disabled={query.page >= totalPages || total === 0}>
           {getLabel('next', currentLanguage)}
         </button>
       </div>

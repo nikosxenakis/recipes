@@ -2,7 +2,6 @@ import { useEffect, useState } from "react";
 import RecipeList from "./RecipeList";
 import LanguageSelector from "./components/LanguageSelector";
 import { getSavedLanguage, saveLanguage, flushTranslationCache, type Language } from "./utils/translator";
-import type { Recipe } from "./types/recipe";
 import "./App.css";
 
 const formatDate = (isoDate: string): string => {
@@ -15,9 +14,6 @@ const formatDate = (isoDate: string): string => {
 };
 
 const App = () => {
-  const [recipes, setRecipes] = useState<Recipe[]>([]);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
   const [darkMode, setDarkMode] = useState(() => {
     const saved = localStorage.getItem("darkMode");
     return saved ? JSON.parse(saved) : false;
@@ -25,32 +21,10 @@ const App = () => {
   const [language, setLanguage] = useState<Language>(() => getSavedLanguage());
 
   useEffect(() => {
-    const loadRecipes = async () => {
-      try {
-        const response = await fetch("/api/recipes");
-        if (!response.ok) {
-          throw new Error("Failed to load recipes");
-        }
-        const data: { recipes: Recipe[] } = await response.json();
-        console.log(`✅ Loaded ${data.recipes.length} recipes`);
-        setRecipes(data.recipes);
-      } catch (err) {
-        console.error("Error loading recipes:", err);
-        setError(err instanceof Error ? err.message : "Unknown error");
-      } finally {
-        setLoading(false);
-      }
-    };
-
-    loadRecipes();
-  }, []);
-
-  useEffect(() => {
     document.documentElement.setAttribute("data-theme", darkMode ? "dark" : "light");
     localStorage.setItem("darkMode", JSON.stringify(darkMode));
   }, [darkMode]);
 
-  // Flush translation cache when the component unmounts or page unloads
   useEffect(() => {
     const handleBeforeUnload = () => {
       flushTranslationCache();
@@ -70,31 +44,7 @@ const App = () => {
   const handleLanguageChange = async (newLang: Language) => {
     setLanguage(newLang);
     saveLanguage(newLang);
-
-    // Reload page to apply translation
-    // The translation will be applied on mount based on saved language
-    if (newLang !== language) {
-      // Page will reload in LanguageSelector component
-    }
   };
-
-  if (loading) {
-    return (
-      <div className="App">
-        <h1>REZEPTBUCH</h1>
-        <p>Loading recipes...</p>
-      </div>
-    );
-  }
-
-  if (error) {
-    return (
-      <div className="App">
-        <h1>REZEPTBUCH</h1>
-        <p style={{ color: "var(--primary-gradient-start)" }}>Error: {error}</p>
-      </div>
-    );
-  }
 
   return (
     <div className="App">
@@ -115,7 +65,7 @@ const App = () => {
           </button>
         </div>
       </header>
-      <RecipeList recipes={recipes} currentLanguage={language} />
+      <RecipeList currentLanguage={language} />
       <footer className="app-footer">
         <p>
           Version {__APP_VERSION__} • Built on {formatDate(__BUILD_DATE__)}
