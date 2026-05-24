@@ -24,18 +24,20 @@ export function AppLayout({
   children,
 }: AppLayoutProps) {
   return (
-    <div className="mx-auto min-h-screen max-w-5xl px-4 py-6 md:px-6 md:py-8">
-      <header className="relative mb-8 flex items-center justify-center md:mb-10">
-        <h1 className="bg-gradient-to-br from-primary to-primary/70 bg-clip-text text-3xl font-extrabold uppercase tracking-widest text-transparent md:text-4xl">
-          Rezeptbuch
-        </h1>
-        <div className="absolute right-0 flex items-center gap-2 md:gap-3">
-          <LanguageSelector currentLanguage={currentLanguage} onLanguageChange={onLanguageChange} />
-          <ThemeToggle darkMode={darkMode} onToggle={onToggleDarkMode} />
+    <div className="min-h-screen">
+      <header className="sticky top-0 z-40 border-b border-border/60 bg-glass backdrop-blur-xl">
+        <div className="mx-auto flex h-16 max-w-5xl items-center justify-between px-4 md:px-6">
+          <h1 className="text-xl font-semibold tracking-tight md:text-2xl">
+            Rezeptbuch
+          </h1>
+          <div className="flex items-center gap-2">
+            <LanguageSelector currentLanguage={currentLanguage} onLanguageChange={onLanguageChange} />
+            <ThemeToggle darkMode={darkMode} onToggle={onToggleDarkMode} />
+          </div>
         </div>
       </header>
-      <main>{children}</main>
-      <footer className="mt-16 border-t border-border pt-6 text-center text-sm text-muted-foreground">
+      <main className="mx-auto max-w-5xl px-4 py-6 md:px-6 md:py-8">{children}</main>
+      <footer className="mx-auto max-w-5xl border-t border-border px-4 py-6 text-center text-sm text-muted-foreground md:px-6">
         <p>
           Version {__APP_VERSION__} • Built on {formatDate(__BUILD_DATE__)}
         </p>

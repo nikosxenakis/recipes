@@ -16,7 +16,9 @@
   --color-accent: var(--color-accent-raw);
   --color-accent-foreground: var(--color-foreground-raw);
   --color-destructive: var(--color-destructive-raw);
+  --color-destructive-foreground: var(--color-destructive-foreground-raw);
   --color-ring: var(--color-primary-raw);
+  --color-glass: var(--color-glass-raw);
   --radius-sm: calc(var(--radius) - 4px);
   --radius-md: calc(var(--radius) - 2px);
   --radius-lg: var(--radius);
@@ -24,32 +26,41 @@
 }
 
 :root {
-  --color-background-raw: oklch(1 0 0);
-  --color-foreground-raw: oklch(0.205 0 0);
-  --color-muted-raw: oklch(0.97 0 0);
-  --color-muted-foreground-raw: oklch(0.45 0 0);
+  /* iOS system light */
+  --color-background-raw: oklch(0.985 0.001 248);
+  --color-foreground-raw: oklch(0.18 0 0);
+  --color-muted-raw: oklch(0.965 0.004 248);
+  --color-muted-foreground-raw: oklch(0.50 0.01 248);
   --color-card-raw: oklch(1 0 0);
-  --color-border-raw: oklch(0.92 0 0);
-  --color-input-raw: oklch(0.98 0 0);
-  --color-primary-raw: oklch(0.62 0.08 25);
+  --color-border-raw: oklch(0.91 0.005 248);
+  --color-input-raw: oklch(0.97 0.004 248);
+  --color-primary-raw: oklch(0.62 0.19 255); /* iOS system blue */
   --color-primary-foreground-raw: oklch(1 0 0);
-  --color-accent-raw: oklch(0.96 0.01 25);
-  --color-destructive-raw: oklch(0.55 0.18 25);
-  --radius: 0.75rem;
+  --color-accent-raw: oklch(0.96 0.02 255);
+  --color-destructive-raw: oklch(0.60 0.20 25); /* iOS system red */
+  --color-destructive-foreground-raw: oklch(1 0 0);
+  --color-glass-raw: oklch(1 0 0 / 0.72);
+  --radius: 1rem;
+
+  /* Bumped base font for older eyes */
+  font-size: 18px;
 }
 
 [data-theme="dark"] {
-  --color-background-raw: oklch(0.16 0 0);
-  --color-foreground-raw: oklch(0.92 0 0);
-  --color-muted-raw: oklch(0.22 0 0);
-  --color-muted-foreground-raw: oklch(0.68 0 0);
-  --color-card-raw: oklch(0.20 0 0);
-  --color-border-raw: oklch(0.30 0 0);
-  --color-input-raw: oklch(0.22 0 0);
-  --color-primary-raw: oklch(0.75 0.08 25);
-  --color-primary-foreground-raw: oklch(0.18 0 0);
-  --color-accent-raw: oklch(0.25 0.01 25);
-  --color-destructive-raw: oklch(0.65 0.18 25);
+  /* iOS system dark */
+  --color-background-raw: oklch(0.13 0.005 248);
+  --color-foreground-raw: oklch(0.97 0 0);
+  --color-muted-raw: oklch(0.22 0.006 248);
+  --color-muted-foreground-raw: oklch(0.72 0.01 248);
+  --color-card-raw: oklch(0.20 0.005 248);
+  --color-border-raw: oklch(0.30 0.008 248);
+  --color-input-raw: oklch(0.22 0.006 248);
+  --color-primary-raw: oklch(0.72 0.18 255);
+  --color-primary-foreground-raw: oklch(1 0 0);
+  --color-accent-raw: oklch(0.25 0.02 255);
+  --color-destructive-raw: oklch(0.68 0.20 25);
+  --color-destructive-foreground-raw: oklch(1 0 0);
+  --color-glass-raw: oklch(0.18 0.005 248 / 0.72);
 }
 
 html,
@@ -62,7 +73,15 @@ body,
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", "Roboto", "Helvetica Neue", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* Avoid janky scroll-jacking when sticky header has backdrop-filter */
+  overflow-x: hidden;
+}
+
+@media (max-width: 640px) {
+  :root {
+    font-size: 17px;
+  }
 }

@@ -4,7 +4,13 @@ import { getCategoryLabel, getLabel } from "@/shared/utils/labels";
 import { Input } from "@/shared/components/ui/input";
 import { Button } from "@/shared/components/ui/button";
 import { Badge } from "@/shared/components/ui/badge";
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/shared/components/ui/select";
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@/shared/components/ui/select";
 
 interface SearchFilterProps {
   searchQuery: string;
@@ -36,64 +42,62 @@ export function SearchFilter({
   onCreatorChange,
 }: SearchFilterProps) {
   return (
-    <section className="mb-6 rounded-xl border border-border bg-card p-4 shadow-sm md:p-5">
-      <h3 className="mb-3 flex items-center gap-2 text-sm font-semibold uppercase tracking-wider text-muted-foreground">
-        <Search className="h-4 w-4" />
-        {getLabel("searchAndFilter", currentLanguage)}
-      </h3>
-      <div className="flex flex-col gap-3 md:flex-row md:items-center">
-        <form onSubmit={onSearchSubmit} className="flex flex-1 gap-2">
+    <section className="mb-6 rounded-2xl border border-border bg-card p-4 shadow-sm md:p-5">
+      <form onSubmit={onSearchSubmit} className="mb-3 flex gap-2">
+        <div className="relative flex-1">
+          <Search className="pointer-events-none absolute left-3.5 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
           <Input
-            type="text"
+            type="search"
             placeholder={getLabel("searchPlaceholder", currentLanguage)}
             value={searchQuery}
             onChange={(e) => onSearchChange(e.target.value)}
+            className="pl-10"
           />
-          <Button type="submit" variant="default">
-            {getLabel("searchButton", currentLanguage)}
-          </Button>
-        </form>
-        <div className="flex gap-2 md:flex-none">
-          <Select value={selectedCategory} onValueChange={onCategoryChange}>
-            <SelectTrigger className="min-w-[180px]" aria-label={getLabel("allCategories", currentLanguage)}>
-              <SelectValue />
-            </SelectTrigger>
-            <SelectContent>
-              <SelectItem value="all">🍽️ {getLabel("allCategories", currentLanguage)}</SelectItem>
-              {categories.map((category) => (
-                <SelectItem key={category} value={category}>
-                  {getCategoryLabel(category, currentLanguage)}
-                </SelectItem>
-              ))}
-            </SelectContent>
-          </Select>
-          <Select value={selectedCreator} onValueChange={onCreatorChange}>
-            <SelectTrigger className="min-w-[160px]" aria-label={getLabel("allCreators", currentLanguage)}>
-              <SelectValue />
-            </SelectTrigger>
-            <SelectContent>
-              <SelectItem value="all">👨‍🍳 {getLabel("allCreators", currentLanguage)}</SelectItem>
-              {creators.map((creator) => (
-                <SelectItem key={creator} value={creator}>
-                  {creator}
-                </SelectItem>
-              ))}
-            </SelectContent>
-          </Select>
         </div>
+        <Button type="submit">{getLabel("searchButton", currentLanguage)}</Button>
+      </form>
+
+      <div className="flex flex-col gap-2 sm:flex-row">
+        <Select value={selectedCategory} onValueChange={onCategoryChange}>
+          <SelectTrigger className="flex-1" aria-label={getLabel("allCategories", currentLanguage)}>
+            <SelectValue />
+          </SelectTrigger>
+          <SelectContent>
+            <SelectItem value="all">{getLabel("allCategories", currentLanguage)}</SelectItem>
+            {categories.map((category) => (
+              <SelectItem key={category} value={category}>
+                {getCategoryLabel(category, currentLanguage)}
+              </SelectItem>
+            ))}
+          </SelectContent>
+        </Select>
+        <Select value={selectedCreator} onValueChange={onCreatorChange}>
+          <SelectTrigger className="flex-1" aria-label={getLabel("allCreators", currentLanguage)}>
+            <SelectValue />
+          </SelectTrigger>
+          <SelectContent>
+            <SelectItem value="all">{getLabel("allCreators", currentLanguage)}</SelectItem>
+            {creators.map((creator) => (
+              <SelectItem key={creator} value={creator}>
+                {creator}
+              </SelectItem>
+            ))}
+          </SelectContent>
+        </Select>
       </div>
+
       {searchTerms.length > 0 && (
         <div className="mt-3 flex flex-wrap items-center gap-2">
-          <span className="text-xs font-medium text-muted-foreground">
+          <span className="text-sm font-medium text-muted-foreground">
             {getLabel("activeFilters", currentLanguage)}
           </span>
           {searchTerms.map((term) => (
-            <Badge key={term} variant="primary" className="gap-1.5 pr-1">
+            <Badge key={term} variant="primary" className="gap-1.5 pr-1.5">
               {term}
               <button
                 onClick={() => onRemoveSearchTerm(term)}
                 aria-label={`Remove ${term}`}
-                className="ml-0.5 rounded p-0.5 hover:bg-primary/15"
+                className="ml-0.5 rounded-full p-0.5 hover:bg-primary/20"
               >
                 <X className="h-3 w-3" />
               </button>
