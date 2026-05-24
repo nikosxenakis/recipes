@@ -3,7 +3,7 @@ import { z } from 'zod';
 import multer from 'multer';
 import type { Filter, Sort } from 'mongodb';
 import { getRecipesCollection } from '../db.ts';
-import { recipeInputSchema, type Recipe } from 'recipes-shared';
+import { deriveRecipeId, recipeInputSchema, slugify, type Recipe } from 'recipes-shared';
 import { mapToCategoryKey } from 'recipes-shared/categories';
 import { getVisionExtractor, VisionExtractorError } from '../llm/index.ts';
 import { rateLimit } from '../middleware/rateLimit.ts';
@@ -154,14 +154,10 @@ router.post('/', optionalAdminApiKey, async (req: Request, res: Response, next: 
       res.status(400).json({ error: 'Invalid recipe', details: parsed.error.issues });
       return;
     }
-    const id = parsed.data.id ?? slugify(parsed.data.title);
-    const recipe: Recipe = { ...parsed.data, id };
+    const baseId = deriveRecipeId(parsed.data.id, parsed.data.title);
     const collection = await getRecipesCollection();
-    const existing = await collection.findOne({ id }, { projection: { _id: 1 } });
-    if (existing) {
-      res.status(409).json({ error: `Recipe with id "${id}" already exists` });
-      return;
-    }
+    const id = await reserveUniqueId(collection, baseId);
+    const recipe: Recipe = { ...parsed.data, id };
     await collection.insertOne({ ...recipe });
     metaCache = null;
     res.status(201).json({ recipe });
@@ -244,15 +240,27 @@ router.delete('/:id', optionalAdminApiKey, async (req: Request, res: Response, n
   }
 });
 
-const COMBINING_MARKS = /\p{M}/gu;
-
-function slugify(input: string): string {
-  return input
-    .toLowerCase()
-    .normalize('NFD')
-    .replace(COMBINING_MARKS, '')
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '');
+/**
+ * Pick an id that's free in the collection. If `base` is taken, suffix `-2`,
+ * `-3`, ... until something sticks. Race-safe enough for a tiny single-user
+ * app; if write contention ever spikes we can swap for an upsert + unique
+ * index retry loop.
+ */
+async function reserveUniqueId(
+  collection: Awaited<ReturnType<typeof getRecipesCollection>>,
+  base: string
+): Promise<string> {
+  let candidate = base;
+  let n = 2;
+  while (await collection.findOne({ id: candidate }, { projection: { _id: 1 } })) {
+    candidate = `${base}-${n}`;
+    n += 1;
+  }
+  return candidate;
 }
+
+// Re-exported for tests / future callers; slugify itself now lives in
+// recipes-shared so seeder + routes use one source.
+export { slugify };
 
 export default router;
