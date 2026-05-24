@@ -1,6 +1,6 @@
 {
   "name": "recipe-app",
-  "version": "21.8.0",
+  "version": "21.8.1",
   "description": "A simple recipe app that allows users to view, add, and manage recipes.",
   "private": true,
   "type": "module",
