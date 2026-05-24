@@ -2,7 +2,7 @@ import { readFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { z } from 'zod';
 import { getRecipesCollection, closeDb } from './db.ts';
-import { recipeSchema, type Recipe } from 'recipes-shared';
+import { recipeSchema, slugify, type Recipe } from 'recipes-shared';
 
 const looseRecipeSchema = recipeSchema.extend({
   id: z.string().optional()
@@ -11,17 +11,6 @@ const looseRecipeSchema = recipeSchema.extend({
 const collectionSchema = z.object({
   recipes: z.array(looseRecipeSchema)
 });
-
-const COMBINING_MARKS = /\p{M}/gu;
-
-function slugify(input: string): string {
-  return input
-    .toLowerCase()
-    .normalize('NFD')
-    .replace(COMBINING_MARKS, '')
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '');
-}
 
 async function loadRecipesFromBuild(): Promise<Recipe[]> {
   const path = resolve(process.cwd(), '..', 'ui', 'public', 'recipes.json');
