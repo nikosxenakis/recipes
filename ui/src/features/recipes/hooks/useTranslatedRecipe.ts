@@ -1,7 +1,7 @@
 import { useState, useEffect, useMemo } from 'react';
-import type { Recipe } from '../types/recipe';
-import type { Language } from '../utils/translator';
-import { translateText } from '../utils/translator';
+import type { Recipe } from '@/features/recipes/types/recipe';
+import type { Language } from '@/shared/utils/translator';
+import { translateText } from '@/shared/utils/translator';
 
 interface TranslatedRecipe extends Recipe {
   isTranslating?: boolean;

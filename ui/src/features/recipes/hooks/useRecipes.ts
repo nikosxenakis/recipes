@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import type { Recipe } from '../types/recipe';
+import type { Recipe } from '@/features/recipes/types/recipe';
 
 export type SortKey = 'title' | '-title' | 'createdAt' | '-createdAt';
 
