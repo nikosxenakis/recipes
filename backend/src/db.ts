@@ -35,23 +35,44 @@ export async function getDb(): Promise<Db> {
   return db;
 }
 
-let indexesEnsured = false;
+let recipeIndexesEnsured = false;
 
 export async function getRecipesCollection(): Promise<Collection<Recipe>> {
   const database = await getDb();
   const collection = database.collection<Recipe>('recipes');
-  if (!indexesEnsured) {
-    indexesEnsured = true;
+  if (!recipeIndexesEnsured) {
+    recipeIndexesEnsured = true;
     void collection
       .createIndexes([
         { key: { id: 1 }, unique: true },
         { key: { category: 1 } },
-        { key: { 'creator.name': 1 } },
+        { key: { creator: 1 } },
         { key: { title: 1 } }
       ])
       .catch((err) => {
-        console.warn('Index creation failed:', err);
-        indexesEnsured = false;
+        console.warn('Recipe index creation failed:', err);
+        recipeIndexesEnsured = false;
+      });
+  }
+  return collection;
+}
+
+export interface UserDoc {
+  name: string;
+}
+
+let userIndexesEnsured = false;
+
+export async function getUsersCollection(): Promise<Collection<UserDoc>> {
+  const database = await getDb();
+  const collection = database.collection<UserDoc>('users');
+  if (!userIndexesEnsured) {
+    userIndexesEnsured = true;
+    void collection
+      .createIndex({ name: 1 }, { unique: true })
+      .catch((err) => {
+        console.warn('User index creation failed:', err);
+        userIndexesEnsured = false;
       });
   }
   return collection;

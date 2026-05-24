@@ -1,5 +1,5 @@
 import { Calendar, ChefHat, Clock, Info, Lightbulb, MessageCircle, ShoppingCart, UtensilsCrossed, Users } from "lucide-react";
-import type { Recipe, User } from "recipes-shared";
+import type { Recipe } from "recipes-shared";
 import type { Language } from "@/shared/utils/translator";
 import { useTranslatedRecipe } from "@/features/recipes/hooks/useTranslatedRecipe";
 import { useTranslatedText } from "@/features/recipes/hooks/useTranslatedText";
@@ -22,8 +22,6 @@ interface RecipeCardProps {
   onEdit: (recipe: Recipe) => void;
   onDelete: (recipe: Recipe) => Promise<void>;
   formatDate: (date: string) => string;
-  getUserName: (user: User | string | undefined) => string;
-  getUserPhoto: (user: User | string | undefined) => string | undefined;
   mergeIngredientSections: (sections: { title?: string; items: string[] }[]) => { title?: string; items: string[] }[];
 }
 
@@ -36,8 +34,6 @@ export function RecipeCard({
   onEdit,
   onDelete,
   formatDate,
-  getUserName,
-  getUserPhoto,
   mergeIngredientSections,
 }: RecipeCardProps) {
   const recipe = useTranslatedRecipe(originalRecipe, currentLanguage, isExpanded);
@@ -101,12 +97,8 @@ export function RecipeCard({
         <div className="flex shrink-0 items-center gap-2">
           {isExpanded && recipe.creator && (
             <span className="hidden items-center gap-2 rounded-full border border-border bg-muted px-3 py-1.5 text-sm font-medium md:inline-flex">
-              <Avatar
-                photoUrl={getUserPhoto(recipe.creator)}
-                name={getUserName(recipe.creator)}
-                size="sm"
-              />
-              {getUserName(recipe.creator)}
+              <Avatar name={recipe.creator} size="sm" />
+              {recipe.creator}
             </span>
           )}
           <RecipeActionsMenu
@@ -130,12 +122,8 @@ export function RecipeCard({
               <div className="mb-5 flex flex-wrap items-center gap-2 text-sm">
                 {recipe.creator && (
                   <Badge variant="outline" className="gap-1.5 md:hidden">
-                    <Avatar
-                      photoUrl={getUserPhoto(recipe.creator)}
-                      name={getUserName(recipe.creator)}
-                      size="sm"
-                    />
-                    {getUserName(recipe.creator)}
+                    <Avatar name={recipe.creator} size="sm" />
+                    {recipe.creator}
                   </Badge>
                 )}
                 <Badge variant="outline" className="gap-1">
@@ -224,19 +212,15 @@ export function RecipeCard({
               {recipe.comments && recipe.comments.length > 0 && (
                 <RecipeSection icon={<MessageCircle className="h-4 w-4" />} title={getLabel("comment", currentLanguage)}>
                   <div className="space-y-3">
-                    {recipe.comments.map((comment, i) => {
-                      const userName = getUserName(comment.user);
-                      const userPhoto = getUserPhoto(comment.user);
-                      return (
-                        <div key={i} className="flex gap-3">
-                          <Avatar photoUrl={userPhoto} name={userName} size="md" />
-                          <div className="flex-1">
-                            {userName && <div className="text-sm font-medium">{userName}</div>}
-                            <div className="text-base text-muted-foreground">{comment.text}</div>
-                          </div>
+                    {recipe.comments.map((comment, i) => (
+                      <div key={i} className="flex gap-3">
+                        <Avatar name={comment.user ?? ""} size="md" />
+                        <div className="flex-1">
+                          {comment.user && <div className="text-sm font-medium">{comment.user}</div>}
+                          <div className="text-base text-muted-foreground">{comment.text}</div>
                         </div>
-                      );
-                    })}
+                      </div>
+                    ))}
                   </div>
                 </RecipeSection>
               )}
