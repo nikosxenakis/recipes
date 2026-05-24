@@ -35,9 +35,26 @@ export async function getDb(): Promise<Db> {
   return db;
 }
 
+let indexesEnsured = false;
+
 export async function getRecipesCollection(): Promise<Collection<Recipe>> {
   const database = await getDb();
-  return database.collection<Recipe>('recipes');
+  const collection = database.collection<Recipe>('recipes');
+  if (!indexesEnsured) {
+    indexesEnsured = true;
+    void collection
+      .createIndexes([
+        { key: { id: 1 }, unique: true },
+        { key: { category: 1 } },
+        { key: { 'creator.name': 1 } },
+        { key: { title: 1 } }
+      ])
+      .catch((err) => {
+        console.warn('Index creation failed:', err);
+        indexesEnsured = false;
+      });
+  }
+  return collection;
 }
 
 export async function closeDb(): Promise<void> {

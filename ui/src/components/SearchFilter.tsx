@@ -7,7 +7,6 @@ interface SearchFilterProps {
   searchQuery: string;
   searchTerms: string[];
   selectedCategory: string;
-  selectedDuration: string;
   selectedCreator: string;
   categories: string[];
   creators: string[];
@@ -16,7 +15,6 @@ interface SearchFilterProps {
   onSearchSubmit: (event: React.FormEvent<HTMLFormElement>) => void;
   onRemoveSearchTerm: (term: string) => void;
   onCategoryChange: (event: React.ChangeEvent<HTMLSelectElement>) => void;
-  onDurationChange: (event: React.ChangeEvent<HTMLSelectElement>) => void;
   onCreatorChange: (event: React.ChangeEvent<HTMLSelectElement>) => void;
 }
 
@@ -24,7 +22,6 @@ export const SearchFilter: React.FC<SearchFilterProps> = ({
   searchQuery,
   searchTerms,
   selectedCategory,
-  selectedDuration,
   selectedCreator,
   categories,
   creators,
@@ -33,16 +30,8 @@ export const SearchFilter: React.FC<SearchFilterProps> = ({
   onSearchSubmit,
   onRemoveSearchTerm,
   onCategoryChange,
-  onDurationChange,
   onCreatorChange
 }) => {
-  const durationRanges = [
-    { label: getLabel('allDurations', currentLanguage), value: 'all' },
-    { label: getLabel('quick', currentLanguage), value: 'quick' },
-    { label: getLabel('medium', currentLanguage), value: 'medium' },
-    { label: getLabel('long', currentLanguage), value: 'long' },
-  ];
-
   return (
     <div className="filters-section">
       <div className="filters-header">
@@ -71,17 +60,6 @@ export const SearchFilter: React.FC<SearchFilterProps> = ({
             {categories.map((category) => (
               <option key={category} value={category}>
                 {category}
-              </option>
-            ))}
-          </select>
-          <select
-            value={selectedDuration}
-            onChange={onDurationChange}
-            className="filter-select"
-          >
-            {durationRanges.map((range) => (
-              <option key={range.value} value={range.value}>
-                ⌛ {range.label}
               </option>
             ))}
           </select>
