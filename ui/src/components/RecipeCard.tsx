@@ -3,9 +3,12 @@ import type { Recipe, User } from '../types/recipe';
 import type { Language } from '../utils/translator';
 import { useTranslatedRecipe } from '../hooks/useTranslatedRecipe';
 import { useTranslatedText } from '../hooks/useTranslatedText';
+import { useWakeLock } from '../hooks/useWakeLock';
+import { useWakeLockPreference } from '../hooks/useWakeLockPreference';
 import { getLabel } from '../utils/labels';
 import { RecipeSkeleton } from './RecipeSkeleton';
 import { Avatar } from './Avatar';
+import { WakeLockToggle } from './WakeLockToggle';
 
 interface RecipeCardProps {
   recipe: Recipe;
@@ -39,6 +42,9 @@ export const RecipeCard: React.FC<RecipeCardProps> = ({
   const translatedTitle = useTranslatedText(originalRecipe.title, currentLanguage);
   const translatedCategory = useTranslatedText(originalRecipe.category, currentLanguage);
 
+  const [wakeLockEnabled, setWakeLockEnabled] = useWakeLockPreference();
+  useWakeLock(isExpanded && wakeLockEnabled);
+
   return (
     <div key={index} className="recipe" data-recipe-index={index}>
       <div className="recipe-header" onClick={onToggle}>
@@ -69,6 +75,11 @@ export const RecipeCard: React.FC<RecipeCardProps> = ({
                 {getUserName(recipe.creator)}
               </span>
             )}
+            <WakeLockToggle
+              enabled={wakeLockEnabled}
+              onChange={setWakeLockEnabled}
+              language={currentLanguage}
+            />
             <button
               className="copy-link-button"
               onClick={(e) => onCopyLink(originalRecipe.title, e)}

@@ -81,7 +81,8 @@
   min-width: 0;
 }
 
-.copy-link-button {
+.copy-link-button,
+.wake-lock-toggle {
   background: transparent;
   border: 2px solid var(--recipe-border);
   border-radius: 8px;
@@ -95,14 +96,21 @@
   flex-shrink: 0;
 }
 
-.copy-link-button:hover {
+.copy-link-button:hover,
+.wake-lock-toggle:hover {
   background-color: var(--input-bg);
   border-color: var(--primary-gradient-start);
   transform: scale(1.1);
 }
 
-.copy-link-button:active {
+.copy-link-button:active,
+.wake-lock-toggle:active {
   transform: scale(0.95);
+}
+
+.wake-lock-toggle[aria-pressed="true"] {
+  border-color: var(--primary-gradient-start);
+  background-color: var(--input-bg);
 }
 
 .recipe-header-actions {
