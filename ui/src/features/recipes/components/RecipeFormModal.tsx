@@ -251,7 +251,7 @@ export function RecipeFormModal({
             {isEdit ? getLabel("editRecipe", currentLanguage) : getLabel("addRecipe", currentLanguage)}
           </DialogTitle>
         </DialogHeader>
-        <form id="recipe-form" onSubmit={handleSubmit} className="flex flex-col gap-4 overflow-y-auto px-5 py-4">
+        <form id="recipe-form" onSubmit={handleSubmit} noValidate className="flex flex-col gap-4 overflow-y-auto px-5 py-4">
           <div className="grid grid-cols-1 gap-3 md:grid-cols-2">
             <FormField label="Title" required className="md:col-span-2">
               <Input
@@ -329,7 +329,8 @@ export function RecipeFormModal({
 
             <FormField label="Photo URL" className="md:col-span-2">
               <Input
-                type="url"
+                type="text"
+                inputMode="url"
                 placeholder="https://..."
                 value={draft.photo}
                 onChange={(e) => update("photo", e.target.value)}
