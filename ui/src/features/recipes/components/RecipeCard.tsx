@@ -56,7 +56,7 @@ export function RecipeCard({
       )}
       data-recipe-id={originalRecipe.id}
     >
-      <div className="flex items-start gap-3 p-4 md:gap-4 md:p-5">
+      <div className="flex items-start gap-2.5 p-3 md:gap-4 md:p-5">
         <button
           type="button"
           onClick={onToggle}
@@ -122,7 +122,7 @@ export function RecipeCard({
       </div>
 
       {isExpanded && (
-        <div className="border-t border-border/70 px-4 pb-5 pt-3 md:px-6 md:pb-6 md:pt-4">
+        <div className="border-t border-border/70 px-3 pb-4 pt-3 md:px-6 md:pb-6 md:pt-4">
           {recipe.isTranslating ? (
             <RecipeBodySkeleton />
           ) : (

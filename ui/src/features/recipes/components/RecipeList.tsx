@@ -266,9 +266,15 @@ export function RecipeList({ currentLanguage }: RecipeListProps) {
             currentLanguage={currentLanguage}
             onExtracted={(prefill) => openCreate(prefill)}
           />
-          <Button type="button" onClick={() => openCreate()}>
+          <Button
+            type="button"
+            onClick={() => openCreate()}
+            aria-label={getLabel("addRecipe", currentLanguage)}
+            title={getLabel("addRecipe", currentLanguage)}
+            className="px-3 sm:px-5"
+          >
             <Plus className="h-5 w-5" />
-            {getLabel("addRecipe", currentLanguage)}
+            <span className="hidden sm:inline">{getLabel("addRecipe", currentLanguage)}</span>
           </Button>
         </div>
       </div>

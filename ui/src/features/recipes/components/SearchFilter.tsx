@@ -42,7 +42,7 @@ export function SearchFilter({
   onCreatorChange,
 }: SearchFilterProps) {
   return (
-    <section className="mb-6 rounded-2xl border border-border bg-card p-4 shadow-sm md:p-5">
+    <section className="mb-4 rounded-2xl border border-border bg-card p-3 shadow-sm md:mb-6 md:p-5">
       <form onSubmit={onSearchSubmit} className="mb-3 flex gap-2">
         <div className="relative flex-1">
           <Search className="pointer-events-none absolute left-3.5 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
@@ -54,7 +54,15 @@ export function SearchFilter({
             className="pl-10"
           />
         </div>
-        <Button type="submit">{getLabel("searchButton", currentLanguage)}</Button>
+        <Button
+          type="submit"
+          aria-label={getLabel("searchButton", currentLanguage)}
+          title={getLabel("searchButton", currentLanguage)}
+          className="px-3 sm:px-5"
+        >
+          <Search className="h-5 w-5 sm:hidden" />
+          <span className="hidden sm:inline">{getLabel("searchButton", currentLanguage)}</span>
+        </Button>
       </form>
 
       <div className="flex flex-col gap-2 sm:flex-row">
