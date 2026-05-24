@@ -50,7 +50,6 @@ export function useTranslatedRecipe(recipe: Recipe, language: Language, isExpand
         const result: TranslatedRecipe = {
           ...recipe,
           title: await translateText(recipe.title, language),
-          category: await translateText(recipe.category, language),
           duration: recipe.duration ? await translateText(recipe.duration, language) : recipe.duration,
           servings: recipe.servings ? await translateText(recipe.servings, language) : recipe.servings,
           ingredients: await Promise.all(recipe.ingredients.map(async (section) => ({

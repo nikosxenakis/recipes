@@ -12,3 +12,7 @@ const translations: Record<Language, Record<string, string>> = {
 export function getLabel(key: string, language: Language): string {
   return translations[language][key] || key;
 }
+
+export function getCategoryLabel(key: string, language: Language): string {
+  return translations[language][`cat_${key}`] || key;
+}

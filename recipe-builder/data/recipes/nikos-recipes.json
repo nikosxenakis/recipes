@@ -2,7 +2,7 @@
   {
     "id": "burrito",
     "title": "Burrito",
-    "category": "Hauptgerichte",
+    "category": "main",
     "creator": "Nikos",
     "ingredients": [
       {
@@ -32,7 +32,7 @@
   {
     "id": "chilli-con-carne",
     "title": "Chilli con Carne",
-    "category": "Hauptgerichte",
+    "category": "main",
     "creator": "Nikos",
     "ingredients": [],
     "instructions": [],
@@ -45,7 +45,7 @@
   {
     "id": "falafel",
     "title": "Falafel",
-    "category": "Beilagen",
+    "category": "sides",
     "creator": "Nikos",
     "ingredients": [
       {
@@ -71,7 +71,7 @@
   {
     "id": "fleischvoegel",
     "title": "Fleischvögel",
-    "category": "Sonstiges",
+    "category": "other",
     "creator": "Nikos",
     "ingredients": [],
     "instructions": [],
@@ -83,7 +83,7 @@
   {
     "id": "greek-baked-giant-beans",
     "title": "Greek Baked Giant Beans",
-    "category": "Hauptgerichte",
+    "category": "main",
     "creator": "Nikos",
     "ingredients": [
       {
@@ -120,7 +120,7 @@
   {
     "id": "greek-lentils",
     "title": "Greek Lentils",
-    "category": "Hauptgerichte",
+    "category": "main",
     "creator": "Nikos",
     "ingredients": [
       {
@@ -149,7 +149,7 @@
   {
     "id": "grill-chicken",
     "title": "Grill Chicken",
-    "category": "Sonstiges",
+    "category": "other",
     "creator": "Nikos",
     "ingredients": [],
     "instructions": [
@@ -166,7 +166,7 @@
   {
     "id": "hummus",
     "title": "Hummus",
-    "category": "Beilagen",
+    "category": "sides",
     "creator": "Nikos",
     "ingredients": [
       {
@@ -202,7 +202,7 @@
   {
     "id": "lasagne",
     "title": "Lasagne",
-    "category": "Sonstiges",
+    "category": "other",
     "creator": "Nikos",
     "ingredients": [],
     "instructions": [],
@@ -211,7 +211,7 @@
   {
     "id": "lentil-bolognese",
     "title": "Lentil Bolognese",
-    "category": "Hauptgerichte",
+    "category": "main",
     "creator": "Nikos",
     "ingredients": [
       {
@@ -247,7 +247,7 @@
   {
     "id": "mashed-potato",
     "title": "Mashed Potato",
-    "category": "Hauptgerichte",
+    "category": "main",
     "creator": "Nikos",
     "ingredients": [
       {
@@ -275,7 +275,7 @@
   {
     "id": "meatballs",
     "title": "Meatballs",
-    "category": "Sonstiges",
+    "category": "other",
     "creator": "Nikos",
     "ingredients": [
       {
@@ -298,7 +298,7 @@
   {
     "id": "pancakes",
     "title": "Pancakes",
-    "category": "Frühstück",
+    "category": "breakfast",
     "creator": "Nikos",
     "ingredients": [
       {
@@ -323,7 +323,7 @@
   {
     "id": "pizza-dough",
     "title": "Pizza Dough",
-    "category": "Hauptgerichte",
+    "category": "main",
     "creator": "Nikos",
     "ingredients": [
       {
@@ -350,7 +350,7 @@
   {
     "id": "pork-fillets",
     "title": "Pork Fillets",
-    "category": "Hauptgerichte",
+    "category": "main",
     "creator": "Nikos",
     "ingredients": [],
     "instructions": [
@@ -363,7 +363,7 @@
   {
     "id": "protein-bars",
     "title": "Protein Bars",
-    "category": "Snacks",
+    "category": "snacks",
     "creator": "Nikos",
     "ingredients": [
       {
@@ -389,7 +389,7 @@
   {
     "id": "rabbit",
     "title": "Rabbit",
-    "category": "Sonstiges",
+    "category": "other",
     "creator": "Nikos",
     "ingredients": [],
     "instructions": [
@@ -408,7 +408,7 @@
   {
     "id": "red-lentil-daal",
     "title": "Red Lentil Daal",
-    "category": "Sonstiges",
+    "category": "other",
     "creator": "Nikos",
     "ingredients": [
       {
@@ -440,7 +440,7 @@
   {
     "id": "roasted-chicken-with-sweet-potatoes",
     "title": "Roasted Chicken with Sweet Potatoes",
-    "category": "Sonstiges",
+    "category": "other",
     "creator": "Nikos",
     "ingredients": [],
     "instructions": [],
@@ -449,7 +449,7 @@
   {
     "id": "sauerbraten",
     "title": "Sauerbraten",
-    "category": "Sonstiges",
+    "category": "other",
     "creator": "Nikos",
     "ingredients": [],
     "instructions": [],
@@ -461,7 +461,7 @@
   {
     "id": "soup",
     "title": "Soup",
-    "category": "Hauptgerichte",
+    "category": "main",
     "creator": "Nikos",
     "ingredients": [],
     "instructions": [
@@ -482,7 +482,7 @@
   {
     "id": "",
     "title": "Κριθαράκι με κρέας",
-    "category": "Sonstiges",
+    "category": "other",
     "creator": "Nikos",
     "ingredients": [],
     "instructions": [
@@ -502,7 +502,7 @@
   {
     "id": "",
     "title": "Πιλάφι",
-    "category": "Hauptgerichte",
+    "category": "main",
     "creator": "Nikos",
     "ingredients": [],
     "instructions": [
@@ -520,7 +520,7 @@
   {
     "id": "",
     "title": "Φασόλες με μπριτζόλα στο φούρνο",
-    "category": "Sonstiges",
+    "category": "other",
     "creator": "Nikos",
     "ingredients": [],
     "instructions": [
@@ -533,7 +533,7 @@
   {
     "id": "",
     "title": "Χορτόπιτα",
-    "category": "Sonstiges",
+    "category": "other",
     "creator": "Nikos",
     "ingredients": [
       {
@@ -565,7 +565,7 @@
   {
     "id": "yogurt-dessert",
     "title": "Yogurt Dessert",
-    "category": "Nachtisch",
+    "category": "desserts",
     "creator": "Nikos",
     "ingredients": [
       {
