@@ -3,7 +3,7 @@
  * Encodes back as JPEG (smaller than PNG for photos, fine for vision LLM input).
  * Returns the resized Blob and its mime type.
  */
-export async function resizeImage(file: File, maxEdge = 1500, quality = 0.85): Promise<Blob> {
+export async function resizeImage(file: File, maxEdge = 2400, quality = 0.9): Promise<Blob> {
   const bitmap = await createImageBitmap(file);
   const longEdge = Math.max(bitmap.width, bitmap.height);
   const scale = longEdge > maxEdge ? maxEdge / longEdge : 1;
