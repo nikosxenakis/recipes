@@ -1,0 +1,10 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "pnpm --filter recipes-backend build && pnpm --filter recipes build && pnpm --filter recipe-app build",
+  "outputDirectory": "ui/dist",
+  "installCommand": "pnpm install --frozen-lockfile && pnpm --filter recipes-backend build",
+  "framework": null,
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "/api/index" }
+  ]
+}

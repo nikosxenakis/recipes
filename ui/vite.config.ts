@@ -26,16 +26,18 @@ const copyPublicPlugin = () => ({
             });
         };
 
-        // Copy all files from public except .md files and recipes folder
+        // Copy files from public, but skip:
+        //   - markdown files (local notes)
+        //   - recipes.json / users.json (served by the API at runtime, not bundled)
+        const skipFiles = new Set(["recipes.json", "users.json"]);
         const files = readdirSync(publicDir);
         files.forEach((file) => {
             const filePath = join(publicDir, file);
             if (statSync(filePath).isDirectory()) {
-                // Copy users directory, skip recipes directory
                 if (file === "users") {
                     copyDir(filePath, join(distDir, file));
                 }
-            } else if (!file.endsWith(".md")) {
+            } else if (!file.endsWith(".md") && !skipFiles.has(file)) {
                 copyFileSync(filePath, join(distDir, file));
             }
         });
@@ -50,12 +52,17 @@ const buildDate = new Date().toISOString();
 
 // https://vite.dev/config/
 export default defineConfig({
-    base: "/recipes/", // Needed for github pages
+    base: "/",
     plugins: [react(), copyPublicPlugin()],
-    publicDir: "public", // Serve all public files in dev
+    publicDir: "public",
     define: {
         __APP_VERSION__: JSON.stringify(pkg.version),
         __BUILD_DATE__: JSON.stringify(buildDate),
+    },
+    server: {
+        proxy: {
+            "/api": "http://localhost:3000",
+        },
     },
     build: {
         copyPublicDir: false, // Disable default public dir copying, use our custom plugin

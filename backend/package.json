@@ -1,0 +1,32 @@
+{
+  "name": "recipes-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "dist/app.js",
+  "types": "dist/app.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/app.d.ts",
+      "import": "./dist/app.js"
+    }
+  },
+  "scripts": {
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "dev": "node --env-file-if-exists=.env --import=tsx --watch src/dev.ts",
+    "seed": "node --env-file=.env --import=tsx src/seed.ts",
+    "lint": "eslint src --max-warnings 0"
+  },
+  "dependencies": {
+    "express": "^5.0.1",
+    "mongodb": "^6.21.0",
+    "zod": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^25.9.1",
+    "tsx": "^4.20.6",
+    "typescript": "^6.0.3"
+  }
+}

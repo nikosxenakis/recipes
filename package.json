@@ -2,5 +2,8 @@
   "name": "recipes-workspace",
   "version": "1.0.0",
   "private": true,
-  "packageManager": "pnpm@11.0.9"
+  "packageManager": "pnpm@11.0.9",
+  "dependencies": {
+    "recipes-backend": "workspace:*"
+  }
 }

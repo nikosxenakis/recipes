@@ -1,4 +1,5 @@
 packages:
+  - backend
   - recipe-builder
   - ui
 allowBuilds:

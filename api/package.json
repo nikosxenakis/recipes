@@ -1,0 +1,5 @@
+{
+  "name": "recipes-api",
+  "private": true,
+  "type": "module"
+}

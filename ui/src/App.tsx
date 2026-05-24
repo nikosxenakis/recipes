@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import RecipeList from "./RecipeList";
 import LanguageSelector from "./components/LanguageSelector";
 import { getSavedLanguage, saveLanguage, flushTranslationCache, type Language } from "./utils/translator";
-import type { Recipe, RecipeCollection } from "./types/recipe";
+import type { Recipe } from "./types/recipe";
 import "./App.css";
 
 const formatDate = (isoDate: string): string => {
@@ -27,17 +27,12 @@ const App = () => {
   useEffect(() => {
     const loadRecipes = async () => {
       try {
-        const response = await fetch("/recipes/recipes.json");
+        const response = await fetch("/api/recipes");
         if (!response.ok) {
           throw new Error("Failed to load recipes");
         }
-        const data: RecipeCollection = await response.json();
-        console.log(
-          `✅ Loaded ${data.totalRecipes} recipes from ${data.categories.length} categories`
-        );
-        console.log(`📅 Generated at: ${data.generatedAt}`);
-
-        // Don't translate upfront - translation will happen lazily in RecipeList
+        const data: { recipes: Recipe[] } = await response.json();
+        console.log(`✅ Loaded ${data.recipes.length} recipes`);
         setRecipes(data.recipes);
       } catch (err) {
         console.error("Error loading recipes:", err);
