@@ -4,14 +4,25 @@
   "private": true,
   "type": "module",
   "sideEffects": false,
-  "main": "src/index.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "exports": {
-    ".": "./src/index.ts",
-    "./categories": "./src/categories.ts",
-    "./schemas": "./src/schemas.ts"
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./categories": {
+      "types": "./dist/categories.d.ts",
+      "import": "./dist/categories.js"
+    },
+    "./schemas": {
+      "types": "./dist/schemas.d.ts",
+      "import": "./dist/schemas.js"
+    }
   },
   "scripts": {
-    "typecheck": "tsc"
+    "build": "tsc",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "zod": "^4.0.0"
