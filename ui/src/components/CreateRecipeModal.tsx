@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState, type FormEvent } from 'react';
 import type { Language } from '../utils/translator';
-import { getLabel } from '../utils/labels';
+import { getLabel, getCategoryLabel } from '../utils/labels';
+import { CATEGORY_KEYS } from '../utils/categories';
 import './CreateRecipeModal.css';
 
 interface IngredientSectionDraft {
@@ -55,7 +56,6 @@ function csvToArray(text: string): string[] {
 interface CreateRecipeModalProps {
   onClose: () => void;
   onCreated: (recipeId: string) => void;
-  categories: string[];
   creators: string[];
   currentLanguage: Language;
 }
@@ -63,7 +63,6 @@ interface CreateRecipeModalProps {
 export function CreateRecipeModal({
   onClose,
   onCreated,
-  categories,
   creators,
   currentLanguage
 }: CreateRecipeModalProps) {
@@ -214,16 +213,18 @@ export function CreateRecipeModal({
 
             <label className="create-recipe-field">
               <span>Category *</span>
-              <input
-                type="text"
-                list="modal-category-list"
+              <select
                 value={draft.category}
                 onChange={(e) => update('category', e.target.value)}
                 required
-              />
-              <datalist id="modal-category-list">
-                {categories.map((c) => <option key={c} value={c} />)}
-              </datalist>
+              >
+                <option value="" disabled>—</option>
+                {CATEGORY_KEYS.map((key) => (
+                  <option key={key} value={key}>
+                    {getCategoryLabel(key, currentLanguage)}
+                  </option>
+                ))}
+              </select>
             </label>
 
             <label className="create-recipe-field">

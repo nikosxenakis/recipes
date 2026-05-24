@@ -1,6 +1,6 @@
 import React from 'react';
 import type { Language } from '../utils/translator';
-import { getLabel } from '../utils/labels';
+import { getLabel, getCategoryLabel } from '../utils/labels';
 import './SearchFilter.css';
 
 interface SearchFilterProps {
@@ -59,7 +59,7 @@ export const SearchFilter: React.FC<SearchFilterProps> = ({
             <option value="all">🍽️ {getLabel('allCategories', currentLanguage)}</option>
             {categories.map((category) => (
               <option key={category} value={category}>
-                {category}
+                {getCategoryLabel(category, currentLanguage)}
               </option>
             ))}
           </select>

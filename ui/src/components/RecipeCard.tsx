@@ -5,7 +5,7 @@ import { useTranslatedRecipe } from '../hooks/useTranslatedRecipe';
 import { useTranslatedText } from '../hooks/useTranslatedText';
 import { useWakeLock } from '../hooks/useWakeLock';
 import { useWakeLockPreference } from '../hooks/useWakeLockPreference';
-import { getLabel } from '../utils/labels';
+import { getLabel, getCategoryLabel } from '../utils/labels';
 import { RecipeSkeleton } from './RecipeSkeleton';
 import { Avatar } from './Avatar';
 import { WakeLockToggle } from './WakeLockToggle';
@@ -38,10 +38,10 @@ export const RecipeCard: React.FC<RecipeCardProps> = ({
   // Translate the full recipe when expanded
   const recipe = useTranslatedRecipe(originalRecipe, currentLanguage, isExpanded);
 
-  // Always translate title and category for preview (even when collapsed)
+  // Translate the title via the live translator; categories are already i18n keys.
   const titleResult = useTranslatedText(originalRecipe.title, currentLanguage);
-  const categoryResult = useTranslatedText(originalRecipe.category, currentLanguage);
-  const previewTranslating = !isExpanded && (titleResult.isTranslating || categoryResult.isTranslating);
+  const categoryLabel = getCategoryLabel(originalRecipe.category, currentLanguage);
+  const previewTranslating = !isExpanded && titleResult.isTranslating;
 
   const [wakeLockEnabled, setWakeLockEnabled] = useWakeLockPreference();
   useWakeLock(isExpanded && wakeLockEnabled);
@@ -68,7 +68,7 @@ export const RecipeCard: React.FC<RecipeCardProps> = ({
               <h2>{titleResult.text}</h2>
               {!isExpanded && (
                 <div className="recipe-preview-meta">
-                  <span className="preview-category">{categoryResult.text}</span>
+                  <span className="preview-category">{categoryLabel}</span>
                   {recipe.duration && <span className="preview-duration">⌛ {recipe.duration}</span>}
                 </div>
               )}
@@ -111,7 +111,7 @@ export const RecipeCard: React.FC<RecipeCardProps> = ({
             <>
               <div className="recipe-meta">
             <div className="recipe-meta-left">
-              <span className="category-tag">🍽️ {recipe.category}</span>
+              <span className="category-tag">🍽️ {categoryLabel}</span>
               {recipe.duration && <span className="meta-info">⌛ {recipe.duration}</span>}
               {recipe.servings && <span className="meta-info">👥 {recipe.servings}</span>}
             </div>

@@ -1,4 +1,13 @@
 import { z } from 'zod';
+import { categorySchema, mapToCategoryKey } from './categories.ts';
+
+// Coerce any incoming category (key, German label, unknown) to a canonical key.
+const categoryField = z.preprocess((value) => {
+  if (typeof value !== 'string') {
+    return value;
+  }
+  return mapToCategoryKey(value);
+}, categorySchema);
 
 export const userSchema = z.union([
   z.string(),
@@ -21,7 +30,7 @@ export const ingredientSectionSchema = z.object({
 export const recipeSchema = z.object({
   id: z.string().min(1),
   title: z.string().min(1),
-  category: z.string().min(1),
+  category: categoryField,
   duration: z.string().optional(),
   servings: z.string().optional(),
   difficulty: z.enum(['einfach', 'mittel', 'schwer']).optional(),

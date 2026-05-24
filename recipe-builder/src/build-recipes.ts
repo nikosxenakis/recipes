@@ -9,6 +9,7 @@ import type {
   IngredientSection,
   User,
 } from "../../ui/src/types/recipe.js";
+import { mapToCategoryKey } from "./categories.ts";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -180,7 +181,7 @@ function convertCsvToRecipe(formResponse: GoogleFormResponse): Recipe {
   const recipe: Recipe = {
     id: generateRecipeId(formResponse.title),
     title: formResponse.title.trim(),
-    category: formResponse.category?.trim() || 'Sonstiges',
+    category: mapToCategoryKey(formResponse.category),
     ingredients: parseIngredientsFromCsv(formResponse.ingredients),
     instructions: parseMultilineField(formResponse.instructions)
   };
@@ -298,7 +299,7 @@ const parseMarkdown = (text: string): Recipe[] => {
       }
       currentRecipe = {
         id: `recipe-${++recipeCounter}`,
-        category: category || "Uncategorized",
+        category: mapToCategoryKey(category),
         ingredients: [],
         instructions: [],
         tips: [],
@@ -458,6 +459,9 @@ const normalizeRecipes = (recipes: Recipe[]): Recipe[] => {
         return comment;
       });
     }
+
+    // Coerce category to a canonical key (handles legacy German labels in JSON sources).
+    normalized.category = mapToCategoryKey(normalized.category);
 
     return normalized as Recipe;
   });

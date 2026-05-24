@@ -224,7 +224,6 @@ const RecipeList: React.FC<RecipeListProps> = ({ currentLanguage }) => {
               window.location.hash = `#${encodeURIComponent(recipeId)}`;
             }
           }}
-          categories={meta.categories}
           creators={meta.creators}
           currentLanguage={currentLanguage}
         />
