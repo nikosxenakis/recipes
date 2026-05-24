@@ -39,8 +39,9 @@ export const RecipeCard: React.FC<RecipeCardProps> = ({
   const recipe = useTranslatedRecipe(originalRecipe, currentLanguage, isExpanded);
 
   // Always translate title and category for preview (even when collapsed)
-  const translatedTitle = useTranslatedText(originalRecipe.title, currentLanguage);
-  const translatedCategory = useTranslatedText(originalRecipe.category, currentLanguage);
+  const titleResult = useTranslatedText(originalRecipe.title, currentLanguage);
+  const categoryResult = useTranslatedText(originalRecipe.category, currentLanguage);
+  const previewTranslating = !isExpanded && (titleResult.isTranslating || categoryResult.isTranslating);
 
   const [wakeLockEnabled, setWakeLockEnabled] = useWakeLockPreference();
   useWakeLock(isExpanded && wakeLockEnabled);
@@ -50,16 +51,28 @@ export const RecipeCard: React.FC<RecipeCardProps> = ({
       <div className="recipe-header" onClick={onToggle}>
         {!isExpanded && recipe.photo && (
           <div className="recipe-thumbnail">
-            <img src={recipe.photo} alt={translatedTitle} />
+            <img src={recipe.photo} alt={titleResult.text} />
           </div>
         )}
         <div className="recipe-header-content">
-          <h2>{translatedTitle}</h2>
-          {!isExpanded && (
-            <div className="recipe-preview-meta">
-              <span className="preview-category">{translatedCategory}</span>
-              {recipe.duration && <span className="preview-duration">⌛ {recipe.duration}</span>}
-            </div>
+          {previewTranslating ? (
+            <>
+              <div className="skeleton skeleton-card-title"></div>
+              <div className="recipe-preview-meta">
+                <div className="skeleton skeleton-card-chip"></div>
+                {recipe.duration && <div className="skeleton skeleton-card-chip short"></div>}
+              </div>
+            </>
+          ) : (
+            <>
+              <h2>{titleResult.text}</h2>
+              {!isExpanded && (
+                <div className="recipe-preview-meta">
+                  <span className="preview-category">{categoryResult.text}</span>
+                  {recipe.duration && <span className="preview-duration">⌛ {recipe.duration}</span>}
+                </div>
+              )}
+            </>
           )}
         </div>
         {isExpanded && (

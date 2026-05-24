@@ -47,6 +47,28 @@
   margin-bottom: 24px;
 }
 
+.skeleton-card-title {
+  height: 22px;
+  width: 65%;
+  border-radius: 4px;
+  margin-bottom: 8px;
+}
+
+.skeleton-card-chip {
+  height: 14px;
+  width: 110px;
+  border-radius: 4px;
+}
+
+.skeleton-card-chip.short {
+  width: 70px;
+}
+
+.recipe-skeleton-card .recipe-preview-meta {
+  display: flex;
+  gap: 8px;
+}
+
 /* Dark mode support */
 [data-theme="dark"] .skeleton {
   --skeleton-base: #2a2a2a;

@@ -5,6 +5,7 @@ import { getLabel } from "./utils/labels";
 import { RecipeCard } from "./components/RecipeCard";
 import { SearchFilter } from "./components/SearchFilter";
 import { CreateRecipeModal } from "./components/CreateRecipeModal";
+import { RecipeCardSkeleton } from "./components/RecipeCardSkeleton";
 import { useRecipes, type RecipeQuery, type SortKey } from "./hooks/useRecipes";
 import { useRecipeMeta } from "./hooks/useRecipeMeta";
 import "./RecipeList.css";
@@ -174,6 +175,8 @@ const RecipeList: React.FC<RecipeListProps> = ({ currentLanguage }) => {
   };
 
   const renderedItems: Recipe[] = items;
+  const skeletonCount = items.length > 0 ? items.length : query.pageSize;
+  const showSkeletons = loading;
 
   return (
     <div className="recipe-list">
@@ -226,21 +229,23 @@ const RecipeList: React.FC<RecipeListProps> = ({ currentLanguage }) => {
           currentLanguage={currentLanguage}
         />
       )}
-      {renderedItems.map((recipe, index) => (
-        <RecipeCard
-          key={recipe.id}
-          recipe={recipe}
-          index={index}
-          isExpanded={expandedId === recipe.id}
-          currentLanguage={currentLanguage}
-          onToggle={() => toggleVisibility(recipe.id)}
-          onCopyLink={(_title, event) => copyRecipeLink(recipe.id, event)}
-          formatDate={formatDate}
-          getUserName={getUserName}
-          getUserPhoto={getUserPhoto}
-          mergeIngredientSections={mergeIngredientSections}
-        />
-      ))}
+      {showSkeletons
+        ? Array.from({ length: skeletonCount }, (_, i) => <RecipeCardSkeleton key={`skeleton-${i}`} />)
+        : renderedItems.map((recipe, index) => (
+            <RecipeCard
+              key={recipe.id}
+              recipe={recipe}
+              index={index}
+              isExpanded={expandedId === recipe.id}
+              currentLanguage={currentLanguage}
+              onToggle={() => toggleVisibility(recipe.id)}
+              onCopyLink={(_title, event) => copyRecipeLink(recipe.id, event)}
+              formatDate={formatDate}
+              getUserName={getUserName}
+              getUserPhoto={getUserPhoto}
+              mergeIngredientSections={mergeIngredientSections}
+            />
+          ))}
       <div className="pagination">
         <button onClick={handlePreviousPage} disabled={query.page === 1}>
           {getLabel('previous', currentLanguage)}
