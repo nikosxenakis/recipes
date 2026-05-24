@@ -14,8 +14,8 @@
   "scripts": {
     "build": "tsc",
     "typecheck": "tsc --noEmit",
-    "dev": "tsx watch src/dev.ts",
-    "seed": "tsx src/seed.ts",
+    "dev": "node --env-file-if-exists=.env --import=tsx --watch src/dev.ts",
+    "seed": "node --env-file=.env --import=tsx src/seed.ts",
     "lint": "eslint src --max-warnings 0"
   },
   "dependencies": {

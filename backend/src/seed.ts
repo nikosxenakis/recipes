@@ -28,13 +28,21 @@ async function loadRecipesFromBuild(): Promise<Recipe[]> {
   const raw = readFileSync(path, 'utf8');
   const parsed = collectionSchema.parse(JSON.parse(raw));
 
-  const seen = new Map<string, number>();
-  return parsed.recipes.map((recipe) => {
-    const baseId = recipe.id && recipe.id.length > 0 ? recipe.id : slugify(recipe.title);
-    const safeBase = baseId.length > 0 ? baseId : 'recipe';
-    const count = seen.get(safeBase) ?? 0;
-    seen.set(safeBase, count + 1);
-    const id = count === 0 ? safeBase : `${safeBase}-${count + 1}`;
+  const assigned = new Set<string>();
+  return parsed.recipes.map((recipe, index) => {
+    if (recipe.id && recipe.id.length > 0 && !assigned.has(recipe.id)) {
+      assigned.add(recipe.id);
+      return { ...recipe, id: recipe.id };
+    }
+    const slug = slugify(recipe.title);
+    const base = slug.length > 0 ? slug : `untitled-${index}`;
+    let id = base;
+    let n = 2;
+    while (assigned.has(id)) {
+      id = `${base}-${n}`;
+      n += 1;
+    }
+    assigned.add(id);
     return { ...recipe, id };
   });
 }
