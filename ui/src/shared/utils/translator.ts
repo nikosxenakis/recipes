@@ -96,6 +96,48 @@ export function flushTranslationCache() {
   saveCacheToStorage();
 }
 
+// ----- Full-recipe cache (localStorage, persistent across sessions) -----
+
+const RECIPE_CACHE_PREFIX = "tr-recipe:v1:";
+
+/**
+ * Compact FNV-1a 32-bit hash of an arbitrary string. Used as a content stamp
+ * so a cached translation invalidates automatically when the source recipe is
+ * edited.
+ */
+export function contentHash(input: string): string {
+  let h = 0x811c9dc5;
+  for (let i = 0; i < input.length; i += 1) {
+    h ^= input.charCodeAt(i);
+    h = Math.imul(h, 0x01000193);
+  }
+  return (h >>> 0).toString(36);
+}
+
+function recipeCacheKey(id: string, hash: string, lang: Language): string {
+  return `${RECIPE_CACHE_PREFIX}${id}:${hash}:${lang}`;
+}
+
+export function getCachedRecipe<T>(id: string, hash: string, lang: Language): T | null {
+  try {
+    const raw = localStorage.getItem(recipeCacheKey(id, hash, lang));
+    if (!raw) {
+      return null;
+    }
+    return JSON.parse(raw) as T;
+  } catch {
+    return null;
+  }
+}
+
+export function setCachedRecipe<T>(id: string, hash: string, lang: Language, value: T): void {
+  try {
+    localStorage.setItem(recipeCacheKey(id, hash, lang), JSON.stringify(value));
+  } catch {
+    /* localStorage full / unavailable; non-fatal */
+  }
+}
+
 export function getSavedLanguage(): Language {
   const saved = localStorage.getItem('recipe-app-language');
   return (saved as Language) || 'de';
