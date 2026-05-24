@@ -1,5 +1,5 @@
 import { useState, useEffect, useMemo } from 'react';
-import type { Recipe } from '@/features/recipes/types/recipe';
+import type { Recipe } from 'recipes-shared';
 import type { Language } from '@/shared/utils/translator';
 import { translateText } from '@/shared/utils/translator';
 

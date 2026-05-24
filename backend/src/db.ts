@@ -1,5 +1,5 @@
 import { MongoClient, type Collection, type Db } from 'mongodb';
-import type { Recipe } from './schemas.ts';
+import type { Recipe } from 'recipes-shared';
 
 let client: MongoClient | null = null;
 let db: Db | null = null;

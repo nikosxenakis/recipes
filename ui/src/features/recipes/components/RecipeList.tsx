@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useState } from "react";
 import { Plus } from "lucide-react";
-import type { Recipe, User } from "@/features/recipes/types/recipe";
+import type { Recipe, User } from "recipes-shared";
 import type { Language } from "@/shared/utils/translator";
 import { getLabel } from "@/shared/utils/labels";
 import { RecipeCard } from "@/features/recipes/components/RecipeCard";

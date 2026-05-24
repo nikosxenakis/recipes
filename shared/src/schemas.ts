@@ -1,9 +1,10 @@
-import { z } from 'zod';
-import { categorySchema, mapToCategoryKey } from './categories.ts';
+import { z } from "zod";
+import { CATEGORY_KEYS, mapToCategoryKey } from "./categories.ts";
 
-// Coerce any incoming category (key, German label, unknown) to a canonical key.
+export const categorySchema = z.enum(CATEGORY_KEYS);
+
 const categoryField = z.preprocess((value) => {
-  if (typeof value !== 'string') {
+  if (typeof value !== "string") {
     return value;
   }
   return mapToCategoryKey(value);
@@ -13,19 +14,21 @@ export const userSchema = z.union([
   z.string(),
   z.object({
     name: z.string().min(1),
-    photo: z.string().optional()
-  })
+    photo: z.string().optional(),
+  }),
 ]);
 
 export const commentSchema = z.object({
   user: userSchema.optional(),
-  text: z.string().min(1)
+  text: z.string().min(1),
 });
 
 export const ingredientSectionSchema = z.object({
   title: z.string().optional(),
-  items: z.array(z.string())
+  items: z.array(z.string()),
 });
+
+export const difficultySchema = z.enum(["einfach", "mittel", "schwer"]);
 
 export const recipeSchema = z.object({
   id: z.string().min(1),
@@ -33,7 +36,7 @@ export const recipeSchema = z.object({
   category: categoryField,
   duration: z.string().optional(),
   servings: z.string().optional(),
-  difficulty: z.enum(['einfach', 'mittel', 'schwer']).optional(),
+  difficulty: difficultySchema.optional(),
   tags: z.array(z.string()).optional(),
   creator: userSchema.optional(),
   createdAt: z.string().optional(),
@@ -42,12 +45,25 @@ export const recipeSchema = z.object({
   instructions: z.array(z.string()),
   tips: z.array(z.string()).optional(),
   info: z.array(z.string()).optional(),
-  comments: z.array(commentSchema).optional()
+  comments: z.array(commentSchema).optional(),
 });
 
 export const recipeInputSchema = recipeSchema.omit({ id: true }).extend({
-  id: z.string().min(1).optional()
+  id: z.string().min(1).optional(),
+});
+
+export const recipeCollectionSchema = z.object({
+  version: z.string(),
+  totalRecipes: z.number(),
+  categories: z.array(z.string()),
+  recipes: z.array(recipeSchema),
+  generatedAt: z.string(),
 });
 
 export type Recipe = z.infer<typeof recipeSchema>;
 export type RecipeInput = z.infer<typeof recipeInputSchema>;
+export type User = z.infer<typeof userSchema>;
+export type Comment = z.infer<typeof commentSchema>;
+export type IngredientSection = z.infer<typeof ingredientSectionSchema>;
+export type Difficulty = z.infer<typeof difficultySchema>;
+export type RecipeCollection = z.infer<typeof recipeCollectionSchema>;

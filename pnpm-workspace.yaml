@@ -1,6 +1,7 @@
 packages:
   - backend
   - recipe-builder
+  - shared
   - ui
 allowBuilds:
   esbuild: true

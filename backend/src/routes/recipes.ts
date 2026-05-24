@@ -2,8 +2,8 @@ import { Router, type Request, type Response, type NextFunction, type Router as 
 import { z } from 'zod';
 import type { Filter, Sort } from 'mongodb';
 import { getRecipesCollection } from '../db.ts';
-import { recipeInputSchema, type Recipe } from '../schemas.ts';
-import { mapToCategoryKey } from '../categories.ts';
+import { recipeInputSchema, type Recipe } from 'recipes-shared';
+import { mapToCategoryKey } from 'recipes-shared/categories';
 
 const router: RouterType = Router();
 

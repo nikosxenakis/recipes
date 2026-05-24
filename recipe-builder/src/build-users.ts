@@ -1,7 +1,7 @@
 import { readFileSync, writeFileSync, readdirSync, copyFileSync, mkdirSync, existsSync } from "fs";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
-import type { User } from "../../ui/src/types/recipe.js";
+import type { User } from "recipes-shared";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);

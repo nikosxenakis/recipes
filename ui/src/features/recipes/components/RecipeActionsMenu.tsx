@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Lightbulb, Link as LinkIcon, MoreVertical, Pencil, Trash2 } from "lucide-react";
-import type { Recipe } from "@/features/recipes/types/recipe";
+import type { Recipe } from "recipes-shared";
 import type { Language } from "@/shared/utils/translator";
 import { getLabel } from "@/shared/utils/labels";
 import { isWakeLockSupported } from "@/features/recipes/hooks/useWakeLock";
