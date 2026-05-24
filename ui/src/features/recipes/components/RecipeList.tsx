@@ -13,6 +13,7 @@ import { useRecipes, type RecipeQuery, type SortKey } from "@/features/recipes/h
 import { useRecipeMeta } from "@/features/recipes/hooks/useRecipeMeta";
 import { useCurrentUser } from "@/features/recipes/hooks/useCurrentUser";
 import { useUsers } from "@/features/recipes/hooks/useUsers";
+import { usePrefetchTranslations } from "@/features/recipes/hooks/usePrefetchTranslations";
 import { Button } from "@/shared/components/ui/button";
 
 type PendingIntent = { kind: "create" } | { kind: "import"; prefill: RecipeInput } | null;
@@ -90,6 +91,8 @@ export function RecipeList({ currentLanguage }: RecipeListProps) {
   const { items, total, loading, error } = useRecipes(query, refreshKey);
   const meta = useRecipeMeta(refreshKey);
   const { users, addUser } = useUsers(refreshKey);
+
+  usePrefetchTranslations(items, currentLanguage);
 
   useEffect(() => {
     writeStateToUrl(query);
