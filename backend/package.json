@@ -1,0 +1,27 @@
+{
+  "name": "recipes-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "src/app.ts",
+  "exports": {
+    ".": "./src/app.ts"
+  },
+  "scripts": {
+    "typecheck": "tsc",
+    "dev": "tsx watch src/dev.ts",
+    "seed": "tsx src/seed.ts",
+    "lint": "eslint src --max-warnings 0"
+  },
+  "dependencies": {
+    "express": "^5.0.1",
+    "mongodb": "^6.21.0",
+    "zod": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^25.9.1",
+    "tsx": "^4.20.6",
+    "typescript": "^6.0.3"
+  }
+}
