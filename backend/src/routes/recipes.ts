@@ -192,9 +192,12 @@ router.post('/extract', extractRateLimit, upload.single('image'), async (req: Re
   } catch (err) {
     if (err instanceof VisionExtractorError) {
       const status = err.status === 'permanent' ? 422 : 502;
-      const message = err.status === 'permanent'
-        ? "Could not read a recipe from this image."
-        : "Recipe extraction service is unavailable. Try again in a moment.";
+      const isDev = process.env.NODE_ENV !== 'production';
+      const message = isDev
+        ? err.message
+        : err.status === 'permanent'
+          ? "Could not read a recipe from this image."
+          : "Recipe extraction service is unavailable. Try again in a moment.";
       console.error('Vision extractor:', err.message);
       res.status(status).json({ error: message });
       return;

@@ -63,7 +63,7 @@ export default defineConfig({
   },
   build: {
     copyPublicDir: false,
-    chunkSizeWarningLimit: 200,
+    chunkSizeWarningLimit: 500,
     rollupOptions: {
       output: {
         manualChunks(id) {
