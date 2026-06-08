@@ -1,5 +1,6 @@
 import { useRef, useState } from "react";
 import { Camera, Loader2 } from "lucide-react";
+import { toast } from "sonner";
 import type { RecipeInput } from "recipes-shared";
 import type { Language } from "@/shared/utils/translator";
 import { getLabel } from "@/shared/utils/labels";
@@ -14,7 +15,6 @@ interface ImportRecipeButtonProps {
 export function ImportRecipeButton({ currentLanguage, onExtracted }: ImportRecipeButtonProps) {
   const inputRef = useRef<HTMLInputElement | null>(null);
   const [busy, setBusy] = useState(false);
-  const [error, setError] = useState<string | null>(null);
 
   const onPick = () => {
     if (busy) return;
@@ -26,7 +26,6 @@ export function ImportRecipeButton({ currentLanguage, onExtracted }: ImportRecip
     event.target.value = "";
     if (!file) return;
     setBusy(true);
-    setError(null);
     try {
       const resized = await resizeImage(file);
       const form = new FormData();
@@ -40,7 +39,7 @@ export function ImportRecipeButton({ currentLanguage, onExtracted }: ImportRecip
         onExtracted(data.recipe);
       }
     } catch (err) {
-      setError(err instanceof Error ? err.message : "Image extraction failed");
+      toast.error(err instanceof Error ? err.message : "Image extraction failed");
     } finally {
       setBusy(false);
     }
@@ -63,15 +62,9 @@ export function ImportRecipeButton({ currentLanguage, onExtracted }: ImportRecip
         ref={inputRef}
         type="file"
         accept="image/*"
-        capture="environment"
         className="hidden"
         onChange={onChange}
       />
-      {error && (
-        <p className="max-w-[260px] text-right text-sm text-destructive" role="alert">
-          {error}
-        </p>
-      )}
     </div>
   );
 }

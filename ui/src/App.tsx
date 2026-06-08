@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { Toaster } from "sonner";
 import { AppLayout } from "@/shared/components/layout/AppLayout";
 import { RecipesPage } from "@/features/recipes/pages/RecipesPage";
 import {
@@ -39,14 +40,17 @@ function App() {
   };
 
   return (
-    <AppLayout
-      currentLanguage={language}
-      darkMode={darkMode}
-      onLanguageChange={handleLanguageChange}
-      onToggleDarkMode={() => setDarkMode((v) => !v)}
-    >
-      <RecipesPage currentLanguage={language} />
-    </AppLayout>
+    <>
+      <AppLayout
+        currentLanguage={language}
+        darkMode={darkMode}
+        onLanguageChange={handleLanguageChange}
+        onToggleDarkMode={() => setDarkMode((v) => !v)}
+      >
+        <RecipesPage currentLanguage={language} />
+      </AppLayout>
+      <Toaster position="top-center" richColors />
+    </>
   );
 }
 
