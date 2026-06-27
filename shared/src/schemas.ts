@@ -34,6 +34,7 @@ export const difficultySchema = z.enum(["einfach", "mittel", "schwer"]);
 export const recipeSchema = z.object({
   id: z.string().min(1),
   title: z.string().min(1),
+  emoji: z.string().optional(),
   category: categoryField,
   duration: z.string().optional(),
   servings: z.string().optional(),

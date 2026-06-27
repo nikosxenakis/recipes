@@ -77,7 +77,10 @@ export function RecipeCard({
               </>
             ) : (
               <>
-                <h2 className="text-lg font-semibold leading-tight md:text-xl">{titleResult.text}</h2>
+                <h2 className="text-lg font-semibold leading-tight md:text-xl">
+                  {originalRecipe.emoji && <span className="mr-1.5">{originalRecipe.emoji}</span>}
+                  {titleResult.text}
+                </h2>
                 {!isExpanded && (
                   <div className="mt-1.5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-muted-foreground">
                     <span>{categoryLabel}</span>
